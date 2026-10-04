@@ -3,9 +3,9 @@
 The newest Eid Al‑Fitr prop firm deal is **Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion** from Forex Funds Flow — 15% off (published 2026-05-27). Codes and live offers below, newest first.
 
 Top live offers now:
-- Forex Funds Flow — Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion (15%)
-- AudaCity Capital — AudaCity Capital 35% Off Evaluation Challenge Pricing to Lower Account Costs (35%)
-- Funded Hero — Funded Hero 65% Off All Evaluation Accounts (Eid Mubarak) (65%)
+- Forex Funds Flow — Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion (15% Off)
+- AudaCity Capital — AudaCity Capital 35% Off Evaluation Challenge Pricing to Lower Account Costs (35% Off)
+- Funded Hero — Funded Hero 65% Off All Evaluation Accounts (Eid Mubarak) (65% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

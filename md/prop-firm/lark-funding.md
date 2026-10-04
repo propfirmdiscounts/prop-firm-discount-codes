@@ -1,6 +1,6 @@
 # Lark Funding Discount Code
 
-No standing discount code for Lark Funding right now — the newest deals and campaign offers are below.
+The newest Lark Funding discount code is **FREERESET** — Only $105 (September 15, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Demo Prop Trading. Minus The Nonsense.
 
@@ -19,8 +19,8 @@ No standing discount code for Lark Funding right now — the newest deals and ca
 
 ## Current deals (newest first)
 
-- 2026-09-15 - Lark Funding 1-Step and 3-Step Challenges from $105 with Free Reset: Challenge Fee Terms (Only $105)
-- 2026-09-08 - Lark Funding: Free Daily Payouts Add-On (30% Fee Waived) on All Programs (100%)
-- 2026-08-05 - Lark Funding: Free $1,000 Instant Account With Any Challenge (Free Account)
-- 2026-07-04 - Lark Funding $10,000 1-Step Challenge Pricing at $200 with 200K Raffle Ticket (Bonus Account)
-- 2026-07-02 - Lark Funding July Promo: Earn a Free Second Account (Free Account)
+- 2026-09-15 - [Lark Funding 1-Step and 3-Step Challenges from $105 with Free Reset: Challenge Fee Terms](https://propfirmdiscount.com/deals/lark-funding/lark-funding-1-step-3-step-challenges-free-reset-105/) (Only $105)
+- 2026-09-08 - [Lark Funding: Free Daily Payouts Add-On (30% Fee Waived) on All Programs](https://propfirmdiscount.com/deals/lark-funding/lark-funding-free-daily-payouts-add-on-waived/) (100% Off)
+- 2026-08-05 - [Lark Funding: Free $1,000 Instant Account With Any Challenge](https://propfirmdiscount.com/deals/lark-funding/lark-funding-free-1000-instant-account-august/) (Free Account)
+- 2026-07-04 - [Lark Funding $10,000 1-Step Challenge Pricing at $200 with 200K Raffle Ticket](https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-flash-deal/) (Bonus Account)
+- 2026-07-02 - [Lark Funding July Promo: Earn a Free Second Account](https://propfirmdiscount.com/deals/lark-funding/lark-funding-july-promo-free-second-account/) (Free Account)

@@ -14,13 +14,13 @@ The verified Fundex discount code is **PFD** — Up to 5% off, works any time.
 ## Current deal: Fundex: 30% Off All Evaluation Accounts (48-Hour Sale)
 
 - Published: 2026-09-25
-- Offer: 30%
+- Offer: 30% Off
 - Code: GET30
 - Scope: All accounts
 - Deal page: https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/
 
 ## Current deals (newest first)
 
-- 2026-09-25 - Fundex: 30% Off All Evaluation Accounts (48-Hour Sale) (30%)
-- 2026-08-18 - Fundex 10% Off Evaluation Accounts (10%)
-- 2026-06-22 - Fundex 30% Off All Challenges: Entry Fee Structure (30%)
+- 2026-09-25 - [Fundex: 30% Off All Evaluation Accounts (48-Hour Sale)](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) (30% Off)
+- 2026-08-18 - [Fundex 10% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) (10% Off)
+- 2026-06-22 - [Fundex 30% Off All Challenges: Entry Fee Structure](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) (30% Off)

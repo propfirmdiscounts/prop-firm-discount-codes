@@ -3,7 +3,7 @@
 The newest Christmas prop firm deal is **Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers — 85% off (published 2026-01-05). Codes and live offers below, newest first.
 
 Top live offers now:
-- Upcomers — Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account (85%)
+- Upcomers — Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account (85% Off)
 - Equity Edge — Equity Edge Holiday Promotion: $100K Instant Funded Account for $64 (Only $64)
 - Lark Funding — Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program (Buy 1 Get 2)
 

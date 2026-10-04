@@ -16,15 +16,15 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 ## Current deal: QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account
 
 - Published: 2026-10-01
-- Offer: 60%
+- Offer: 60% Off
 - Code: PFD
 - Scope: All evaluation plans, QT ONE, QT TWO, QT INSTANT, QT POWER, $5K to $200K accounts
 - Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/
 
 ## Current deals (newest first)
 
-- 2026-10-01 - QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account (60%)
-- 2026-09-09 - QT Funded 60% Off Entry Fee + Bonus Account on $5K-$200K Evaluations (60%)
-- 2026-09-07 - QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account (55%)
-- 2026-09-02 - QT Funded 50% Off and Free Account on $5K to $100K Challenges (50%)
-- 2026-08-11 - QT Funded: 60% Off Challenge Pricing and Second Account Entitlement (60%)
+- 2026-10-01 - [QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) (60% Off)
+- 2026-09-09 - [QT Funded 60% Off Entry Fee + Bonus Account on $5K-$200K Evaluations](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) (60% Off)
+- 2026-09-07 - [QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/) (55% Off)
+- 2026-09-02 - [QT Funded 50% Off and Free Account on $5K to $100K Challenges](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account-2/) (50% Off)
+- 2026-08-11 - [QT Funded: 60% Off Challenge Pricing and Second Account Entitlement](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-promotion/) (60% Off)

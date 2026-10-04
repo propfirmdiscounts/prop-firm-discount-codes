@@ -3,9 +3,9 @@
 The newest St. Patrick’s Day prop firm deal is **Funded Elite: 25% Off Evaluation Accounts and 95% Profit Split** from Funded Elite — 25% off (published 2026-03-19). Codes and live offers below, newest first.
 
 Top live offers now:
-- Funded Elite — Funded Elite: 25% Off Evaluation Accounts and 95% Profit Split (25%)
-- Funded Hero — Funded Hero St. Patrick’s Day: 60% Off All Evaluation Accounts (60%)
-- FundingTraders — FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) (40%)
+- Funded Elite — Funded Elite: 25% Off Evaluation Accounts and 95% Profit Split (25% Off)
+- Funded Hero — Funded Hero St. Patrick’s Day: 60% Off All Evaluation Accounts (60% Off)
+- FundingTraders — FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) (40% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

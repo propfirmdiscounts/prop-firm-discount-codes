@@ -14,7 +14,7 @@ The verified For Traders discount code is **1DGSOBYHEB** — Up to 15% off, work
 ## Current deal: For Traders: $6K Fast Evaluation Reduced to $9.99
 
 - Published: 2026-10-02
-- Offer: 79%
+- Offer: 79% Off
 - Code: OCTOBER6K
 - Scope: 1-Step challenge, $6K account, Fast model
 - Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/
@@ -43,8 +43,8 @@ No, this account model operates as a 1-Step challenge, meaning there is no phase
 
 ## Current deals (newest first)
 
-- 2026-10-02 - For Traders: $6K Fast Evaluation Reduced to $9.99 (79%)
-- 2026-09-02 - For Traders 50% Off London Expo Ticket Promotion (50%)
-- 2026-08-28 - For Traders: Get a $6K Evaluation Account for $9.99 (Limited to 1,000 Spots) (Only $9.99)
-- 2026-08-07 - For Traders $6K Fast Challenge: $9.99 Entry Fee (Only $9.99)
-- 2026-07-15 - For Traders 25% Off Evaluation Accounts: Challenge Pricing Overview (25%)
+- 2026-10-02 - [For Traders: $6K Fast Evaluation Reduced to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) (79% Off)
+- 2026-09-02 - [For Traders 50% Off London Expo Ticket Promotion](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-expo-ticket/) (50% Off)
+- 2026-08-28 - [For Traders: Get a $6K Evaluation Account for $9.99 (Limited to 1,000 Spots)](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-challenge-discount/) (Only $9.99)
+- 2026-08-07 - [For Traders $6K Fast Challenge: $9.99 Entry Fee](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-fast-challenge-999-promo/) (Only $9.99)
+- 2026-07-15 - [For Traders 25% Off Evaluation Accounts: Challenge Pricing Overview](https://propfirmdiscount.com/deals/fortraders/for-traders-25-percent-off-summer-promotion/) (25% Off)

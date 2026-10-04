@@ -16,15 +16,15 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 ## Current deal: PipFarm 70% Off and 10% Cashback Evaluation Price
 
 - Published: 2026-09-28
-- Offer: 70%
+- Offer: 70% Off
 - Code: BUILD
 - Scope: Limited to under 30 uses
 - Deal page: https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/
 
 ## Current deals (newest first)
 
-- 2026-09-28 - PipFarm 70% Off and 10% Cashback Evaluation Price (70%)
-- 2026-09-08 - PipFarm 20% Off Plus 20% Extra Balance On All Evaluation Accounts (20%)
-- 2026-09-01 - PipFarm 50% Discount and 50% Balance Increase on Accounts up to 50K (50%)
-- 2026-08-31 - PipFarm 70% Off Evaluation Purchase Cost (70%)
-- 2026-08-25 - PipFarm Buy One Get One Free For First 100 One Step Light Purchases (Buy 1 Get 1)
+- 2026-09-28 - [PipFarm 70% Off and 10% Cashback Evaluation Price](https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/) (70% Off)
+- 2026-09-08 - [PipFarm 20% Off Plus 20% Extra Balance On All Evaluation Accounts](https://propfirmdiscount.com/deals/pipfarm/20-percent-off-extra-balance-all-accounts/) (20% Off)
+- 2026-09-01 - [PipFarm 50% Discount and 50% Balance Increase on Accounts up to 50K](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-discount-balance-increase/) (50% Off)
+- 2026-08-31 - [PipFarm 70% Off Evaluation Purchase Cost](https://propfirmdiscount.com/deals/pipfarm/pipfarm-70-off-evaluation/) (70% Off)
+- 2026-08-25 - [PipFarm Buy One Get One Free For First 100 One Step Light Purchases](https://propfirmdiscount.com/deals/pipfarm/pipfarm-bogo-one-step-light/) (Buy 1 Get 1)

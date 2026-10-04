@@ -16,15 +16,15 @@ The verified Funding Your Trades discount code is **PFDC** — Up to 2% off, wor
 ## Current deal: Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts
 
 - Published: 2026-09-30
-- Offer: 40%
+- Offer: 40% Off
 - Code: AWARD40
 - Scope: Buy 1 Get 3, All evaluations, 7 days
 - Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/
 
 ## Current deals (newest first)
 
-- 2026-09-30 - Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts (40%)
-- 2026-09-14 - Funding Your Trades 50% Off Challenge Pricing Valid Tonight Only (50%)
-- 2026-08-11 - Funding Your Trades: 45% Off Challenge Pricing and 2 Bonus Accounts (45%)
-- 2026-07-16 - Funding Your Trades 49% Off Every Account and Instant BOGO (49%)
-- 2026-07-02 - Funding Your Trades: 3x $100K 1-Step Pro Accounts for $435.6 - Challenge Pricing Overview (Only $435.6)
+- 2026-09-30 - [Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/) (40% Off)
+- 2026-09-14 - [Funding Your Trades 50% Off Challenge Pricing Valid Tonight Only](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-50-discount/) (50% Off)
+- 2026-08-11 - [Funding Your Trades: 45% Off Challenge Pricing and 2 Bonus Accounts](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-bonus-accounts/) (45% Off)
+- 2026-07-16 - [Funding Your Trades 49% Off Every Account and Instant BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-49-off-bogo/) (49% Off)
+- 2026-07-02 - [Funding Your Trades: 3x $100K 1-Step Pro Accounts for $435.6 - Challenge Pricing Overview](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-3x-100k-1-step-pro-discount/) (Only $435.6)

@@ -1,6 +1,6 @@
 # WeMasterTrade Flash Sale: 30% Off All Evaluation Packages
 
-WeMasterTrade is offering 30% — discount code **OFF30**.
+WeMasterTrade is offering 30% off — discount code **OFF30**.
 
 > A limited-time flash promotion cuts the upfront cost of all WeMasterTrade evaluation packages by 30%. This limited-redemption offer reduces entry pricing without altering trading rules.
 
@@ -8,7 +8,7 @@ WeMasterTrade is offering 30% — discount code **OFF30**.
 - Prop firm: WeMasterTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
 - Summary: A limited-time flash promotion reduces the upfront cost of all WeMasterTrade evaluation packages by 30%. This discount lowers entry pricing without altering the underlying trading rules or risk metrics.
-- Offer: 30%
+- Offer: 30% Off
 - Code: OFF30
 - Scope: All packages, All account sizes, Flash sale
 - Deal: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/

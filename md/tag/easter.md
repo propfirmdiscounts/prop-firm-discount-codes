@@ -3,9 +3,9 @@
 The newest Easter prop firm deal is **AquaFutures 60% Off And $50 Accounts Easter Promotion** from AquaFutures — 60% off (published 2026-04-07). Codes and live offers below, newest first.
 
 Top live offers now:
-- AquaFutures — AquaFutures 60% Off And $50 Accounts Easter Promotion (60%)
-- AquaFunded — AquaFunded Easter Promotion: 45% Off All Accounts (45%)
-- Phidias Propfirm — Phidias Propfirm: 90% Off First Month and 60% Off Subsequent Months (90%)
+- AquaFutures — AquaFutures 60% Off And $50 Accounts Easter Promotion (60% Off)
+- AquaFunded — AquaFunded Easter Promotion: 45% Off All Accounts (45% Off)
+- Phidias Propfirm — Phidias Propfirm: 90% Off First Month and 60% Off Subsequent Months (90% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

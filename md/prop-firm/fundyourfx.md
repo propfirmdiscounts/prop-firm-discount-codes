@@ -1,6 +1,6 @@
 # FundYourFX Discount Code
 
-No standing discount code for FundYourFX right now — the newest deals and campaign offers are below.
+The newest FundYourFX discount code is **OCTA60** — 60% off (October 1, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-01
 - Trustpilot: 3.7/5 (924 reviews)
@@ -10,15 +10,15 @@ No standing discount code for FundYourFX right now — the newest deals and camp
 ## Current deal: FundYourFX 60% Off Entry Cost Extension
 
 - Published: 2026-10-01
-- Offer: 60%
+- Offer: 60% Off
 - Code: OCTA60
 - Scope: Instant Funding, MT5
 - Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/
 
 ## Current deals (newest first)
 
-- 2026-10-01 - FundYourFX 60% Off Entry Cost Extension (60%)
-- 2026-09-17 - FundYourFX 60% Off All Accounts: Upfront Entry Fee Update (60%)
-- 2026-09-11 - FundYourFX 50% Off Instant Funding Accounts (50%)
-- 2026-09-01 - FundYourFX 45% Off 1-Step Evaluation Accounts Plus 200% Refund Bonus (45%)
-- 2026-09-01 - FundYourFX 50% Off 2-Step Evaluation Accounts Plus 200% Refund Bonus (50%)
+- 2026-10-01 - [FundYourFX 60% Off Entry Cost Extension](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/) (60% Off)
+- 2026-09-17 - [FundYourFX 60% Off All Accounts: Upfront Entry Fee Update](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-accounts/) (60% Off)
+- 2026-09-11 - [FundYourFX 50% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-50-discount-instant-funding/) (50% Off)
+- 2026-09-01 - [FundYourFX 45% Off 1-Step Evaluation Accounts Plus 200% Refund Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-45-off-1-step/) (45% Off)
+- 2026-09-01 - [FundYourFX 50% Off 2-Step Evaluation Accounts Plus 200% Refund Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-50-off-2-step/) (50% Off)

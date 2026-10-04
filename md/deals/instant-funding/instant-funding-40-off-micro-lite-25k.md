@@ -1,6 +1,6 @@
 # Instant Funding 40% Off Micro Lite Accounts Up to $25K
 
-Instant Funding is offering 40% — discount code **LITE40**.
+Instant Funding is offering 40% off — discount code **LITE40**.
 
 > This launch campaign delivers a 40% cost reduction on Micro Lite sizes up to $25K without altering any core trading rules.
 
@@ -8,7 +8,7 @@ Instant Funding is offering 40% — discount code **LITE40**.
 - Prop firm: Instant Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - Summary: Secure a 40% discount on Micro Lite accounts up to $25K. Core parameters and drawdowns remain strictly unaffected.
-- Offer: 40%
+- Offer: 40% Off
 - Code: LITE40
 - Scope: Micro Lite, Up to $25K, Direct Funding
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/

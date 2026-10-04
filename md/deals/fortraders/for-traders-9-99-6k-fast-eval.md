@@ -1,6 +1,6 @@
 # For Traders: $6K Fast Evaluation Reduced to $9.99
 
-For Traders is offering 79% — discount code **OCTOBER6K**.
+For Traders is offering 79% off — discount code **OCTOBER6K**.
 
 > This October drop lowers the For Traders $6K Fast 1-Step evaluation entry cost to $9.99 for 1,000 accounts. Valid until all 1,000 spots are claimed.
 
@@ -8,7 +8,7 @@ For Traders is offering 79% — discount code **OCTOBER6K**.
 - Prop firm: For Traders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - Summary: The upfront entry cost for the $6K Fast evaluation is reduced to $9.99 for 1,000 spots. Trading parameters are unchanged. Valid until all accounts are sold.
-- Offer: 79%
+- Offer: 79% Off
 - Code: OCTOBER6K
 - Scope: 1-Step challenge, $6K account, Fast model
 - Deal: https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/

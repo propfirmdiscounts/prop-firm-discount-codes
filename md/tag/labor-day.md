@@ -3,9 +3,9 @@
 The newest Labor Day prop firm deal is **QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account** from QT Funded — 55% off (published 2026-09-07). Codes and live offers below, newest first.
 
 Top live offers now:
-- QT Funded — QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account (55%)
-- Finotive Funding — Finotive Funding Labor Day: 40% Off All Evaluation Accounts (40%)
-- ThinkCapital — ThinkCapital 20% Discount on $2,500 – $50,000 Accounts (20%)
+- QT Funded — QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account (55% Off)
+- Finotive Funding — Finotive Funding Labor Day: 40% Off All Evaluation Accounts (40% Off)
+- ThinkCapital — ThinkCapital 20% Discount on $2,500 – $50,000 Accounts (20% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

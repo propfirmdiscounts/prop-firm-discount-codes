@@ -1,6 +1,6 @@
 # Titan Capital 55% Off All Evaluations and Bonus Account
 
-Titan Capital is offering 55% — discount code **T55**.
+Titan Capital is offering 55% off — discount code **T55**.
 
 > Reduce your upfront challenge fee by 55% and receive an additional instant funding account at no extra cost. Valid until 14 October 2026.
 
@@ -8,7 +8,7 @@ Titan Capital is offering 55% — discount code **T55**.
 - Prop firm: Titan Capital
 - Firm page: https://propfirmdiscount.com/prop-firm/titan-capital/
 - Summary: Take 55% off evaluation fees and receive a bonus account of the same size. Risk rules remain unchanged. Valid until 14 October 2026.
-- Offer: 55%
+- Offer: 55% Off
 - Code: T55
 - Scope: Any evaluation
 - Deal: https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/

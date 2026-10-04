@@ -3,9 +3,9 @@
 The newest Memorial Day prop firm deal is **Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts** from Earn2Trade — 60% off (published 2026-05-26). Codes and live offers below, newest first.
 
 Top live offers now:
-- Earn2Trade — Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts (60%)
-- Funded Hero — Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day (55%)
-- Alpha Trader Firm — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60%)
+- Earn2Trade — Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts (60% Off)
+- Funded Hero — Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day (55% Off)
+- Alpha Trader Firm — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

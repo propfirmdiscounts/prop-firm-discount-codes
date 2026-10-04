@@ -1,6 +1,6 @@
 # The Trading Pit: 30% Off Instant Accounts
 
-The Trading Pit is offering 30% — discount code **INSTANT30**.
+The Trading Pit is offering 30% off — discount code **INSTANT30**.
 
 > The Trading Pit reduces upfront challenge pricing by 30% on its Instant Accounts. This temporary cost reduction is valid from September 28 through September 30.
 
@@ -8,7 +8,7 @@ The Trading Pit is offering 30% — discount code **INSTANT30**.
 - Prop firm: The Trading Pit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 - Summary: The Trading Pit cuts initial entry costs by 30% for Instant Accounts. This active promotion is valid from September 28 to September 30 and keeps trading rules unchanged.
-- Offer: 30%
+- Offer: 30% Off
 - Code: INSTANT30
 - Scope: Instant Accounts
 - Deal: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-30-off-instant-accounts/

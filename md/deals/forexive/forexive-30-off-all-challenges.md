@@ -1,6 +1,6 @@
 # Forexive 30% Off All Challenge Accounts
 
-Forexive is offering 30% — discount code **FOREXIVE2YEARS**.
+Forexive is offering 30% off — discount code **FOREXIVE2YEARS**.
 
 > This 2-year anniversary offer reduces the entry cost of all evaluation accounts by 30%. The promotion strictly lowers challenge pricing and does not modify trading rules.
 
@@ -8,7 +8,7 @@ Forexive is offering 30% — discount code **FOREXIVE2YEARS**.
 - Prop firm: Forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - Summary: This 2-year anniversary promotion cuts upfront challenge pricing by 30% across all account sizes. The offer reduces initial costs without modifying any trading rules or drawdown limits.
-- Offer: 30%
+- Offer: 30% Off
 - Code: FOREXIVE2YEARS
 - Scope: All challenge accounts
 - Deal: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/

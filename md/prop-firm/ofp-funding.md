@@ -1,6 +1,6 @@
 # OFP Funding Discount Code
 
-No standing discount code for OFP Funding right now — the newest deals and campaign offers are below.
+The newest OFP Funding discount code is **OFP50** — 50% off (September 26, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-26
 - Trustpilot: 2.4/5 (4379 reviews)
@@ -10,15 +10,15 @@ No standing discount code for OFP Funding right now — the newest deals and cam
 ## Current deal: OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250
 
 - Published: 2026-09-26
-- Offer: 50%
+- Offer: 50% Off
 - Code: OFP50
 - Scope: Instant Lite, Instant Classic, Instant Plus, Orders over $250
 - Deal page: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/
 
 ## Current deals (newest first)
 
-- 2026-09-26 - OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250 (50%)
-- 2026-07-15 - OFP Funding 50% Off First Deposit Evaluation Accounts (50%)
-- 2026-07-14 - OFP Funding 45% Off Challenge Pricing (45%)
-- 2026-06-23 - OFP Funding: 40% Off Upfront Entry Cost Across All Accounts (40%)
-- 2026-06-08 - OFP Funding 40% Off Instant Classic Accounts (25K to 200K) (40%)
+- 2026-09-26 - [OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/) (50% Off)
+- 2026-07-15 - [OFP Funding 50% Off First Deposit Evaluation Accounts](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-first-deposit/) (50% Off)
+- 2026-07-14 - [OFP Funding 45% Off Challenge Pricing](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-off-unlimited/) (45% Off)
+- 2026-06-23 - [OFP Funding: 40% Off Upfront Entry Cost Across All Accounts](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-40-off-evaluation-accounts/) (40% Off)
+- 2026-06-08 - [OFP Funding 40% Off Instant Classic Accounts (25K to 200K)](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-40-percent-off-instant-classic/) (40% Off)

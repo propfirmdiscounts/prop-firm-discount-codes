@@ -1,6 +1,6 @@
 # YRM Prop Discount Code
 
-No standing discount code for YRM Prop right now — the newest deals and campaign offers are below.
+The newest YRM Prop discount code is **WELCOME50** — 50% off (July 14, 2026). The live campaign code changes with each promotion; newest first below.
 
 > YRM Prop is a New York-based proprietary trading firm focused on futures. We’re built for traders who treat trading like a profession, not a hobby. We offer a transparent, structured path from evaluation to simulated funding, with the potential to trade live capital. Traders can access up to $450,000 in simulated trading capital, earn a 90/10 profit split, and benefit from 24-hour payout processing. We’re not looking for lucky streaks. YRM’s model is designed to reward consistency, risk discipline, and long-term thinking, because that’s what real trading takes. All rules are fully transparent, there are no hidden traps, and payouts are never delayed. Unlike many platforms, we believe in clear expectations and real support. Our expert team is made up of real traders ready to help when needed. Whether you’re just getting started or looking to scale your strategy, YRM Prop offers a serious platform for serious traders. If you’re committed, we’re here to back you.
 
@@ -12,12 +12,12 @@ No standing discount code for YRM Prop right now — the newest deals and campai
 ## Current deal: YRM Prop 50% Off 50K, 100K, and 150K Account Purchase Cost
 
 - Published: 2026-07-14
-- Offer: 50%
+- Offer: 50% Off
 - Code: WELCOME50
 - Scope: 50K challenge, 100K challenge, 150K challenge, futures trading
 - Deal page: https://propfirmdiscount.com/deals/yrm-prop/yrm-prop-50-percent-off-50k-100k-150k/
 
 ## Current deals (newest first)
 
-- 2026-08-14 - YRM Prop: 40% Off All Evaluation Accounts (40%)
-- 2026-07-14 - YRM Prop 50% Off 50K, 100K, and 150K Account Purchase Cost (50%)
+- 2026-08-14 - [YRM Prop: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/yrm-prop/40-off-all-evaluation-accounts/) (40% Off)
+- 2026-07-14 - [YRM Prop 50% Off 50K, 100K, and 150K Account Purchase Cost](https://propfirmdiscount.com/deals/yrm-prop/yrm-prop-50-percent-off-50k-100k-150k/) (50% Off)

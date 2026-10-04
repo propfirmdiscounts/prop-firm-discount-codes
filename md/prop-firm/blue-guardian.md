@@ -16,7 +16,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 25% off, works any
 ## Current deal: Blue Guardian: 50% Off Futures Accounts Starting at $59
 
 - Published: 2026-10-02
-- Offer: 50%
+- Offer: 50% Off
 - Code: EXPRESS
 - Scope: Futures accounts, 25K size, 50K size, 100K size, 150K size
 - Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/
@@ -45,8 +45,8 @@ You can follow the Apply via link at the end of this article to access the activ
 
 ## Current deals (newest first)
 
-- 2026-10-02 - Blue Guardian: 50% Off Futures Accounts Starting at $59 (50%)
-- 2026-08-17 - Blue Guardian: 25% Off Reserve Evaluation Accounts (25%)
-- 2026-07-09 - Blue Guardian 40% Off All Accounts and 200% Refund Sale (40%)
-- 2026-06-22 - Blue Guardian Anniversary Promotion: 40% Off All Futures Accounts (40%)
-- 2026-06-22 - Blue Guardian 5-Year Anniversary: Up to 50% Off Evaluation Accounts (50%)
+- 2026-10-02 - [Blue Guardian: 50% Off Futures Accounts Starting at $59](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) (50% Off)
+- 2026-08-17 - [Blue Guardian: 25% Off Reserve Evaluation Accounts](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve/) (25% Off)
+- 2026-07-09 - [Blue Guardian 40% Off All Accounts and 200% Refund Sale](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-200-refund/) (40% Off)
+- 2026-06-22 - [Blue Guardian Anniversary Promotion: 40% Off All Futures Accounts](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-anniversary-discount/) (40% Off)
+- 2026-06-22 - [Blue Guardian 5-Year Anniversary: Up to 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-5-year-anniversary-discount/) (50% Off)

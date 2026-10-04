@@ -16,15 +16,15 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 ## Current deal: Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free
 
 - Published: 2026-09-21
-- Offer: 90%
+- Offer: 90% Off
 - Code: PFD
 - Scope: Classic Challenge accounts, new customers
 - Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/
 
 ## Current deals (newest first)
 
-- 2026-09-21 - Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free (90%)
-- 2026-09-15 - Upcomers Promotion: Free Bonus Account on $50K+ Evaluations (Free Bonus Account)
-- 2026-09-03 - Upcomers 90% Off Perpetuals Launch Offer (90%)
-- 2026-05-14 - Upcomers Spring Friday: Up to 90% Off Accounts Up To $1,500,000 (90%)
-- 2026-04-15 - Upcomers 80% Off and BOGO on Legacy Challenges Upfront Fee (80%)
+- 2026-09-21 - [Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) (90% Off)
+- 2026-09-15 - [Upcomers Promotion: Free Bonus Account on $50K+ Evaluations](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) (Free Bonus Account)
+- 2026-09-03 - [Upcomers 90% Off Perpetuals Launch Offer](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) (90% Off)
+- 2026-05-14 - [Upcomers Spring Friday: Up to 90% Off Accounts Up To $1,500,000](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) (90% Off)
+- 2026-04-15 - [Upcomers 80% Off and BOGO on Legacy Challenges Upfront Fee](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-bogo-legacy-challenges/) (80% Off)

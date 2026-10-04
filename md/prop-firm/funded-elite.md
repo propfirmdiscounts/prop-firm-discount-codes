@@ -14,7 +14,7 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 ## Current deal: Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts
 
 - Published: 2026-10-02
-- Offer: 35%
+- Offer: 35% Off
 - Code: OCT35
 - Scope: $7K-$300K accounts, 1-Step, 2-Step, Free Retry evaluations
 - Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/
@@ -47,8 +47,8 @@ Yes, a standing discount of 10% off is available by entering code AFF1864062 at 
 
 ## Current deals (newest first)
 
-- 2026-10-02 - Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts (35%)
-- 2026-09-09 - Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee (Only $5)
-- 2026-09-03 - Funded Elite 50% Off 300k And 400k Instant Elite Accounts (50%)
-- 2026-09-03 - Funded Elite 35% Off Evaluation Accounts (35%)
-- 2026-07-29 - Funded Elite 25%-35% Off Activation Fees For 25K-400K Accounts (35%)
+- 2026-10-02 - [Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) (35% Off)
+- 2026-09-09 - [Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) (Only $5)
+- 2026-09-03 - [Funded Elite 50% Off 300k And 400k Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) (50% Off)
+- 2026-09-03 - [Funded Elite 35% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-evaluations/) (35% Off)
+- 2026-07-29 - [Funded Elite 25%-35% Off Activation Fees For 25K-400K Accounts](https://propfirmdiscount.com/deals/funded-elite/25-to-35-off-activation-fees/) (35% Off)

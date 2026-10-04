@@ -1,6 +1,6 @@
 # Alpha Futures 50% Off Evaluation Accounts
 
-Alpha Futures is offering 50% — discount code **TRADINGVIEW**.
+Alpha Futures is offering 50% off — discount code **TRADINGVIEW**.
 
 > Alpha Futures is offering a 50% discount on evaluation accounts. This promotion strictly lowers the upfront purchase cost without modifying any risk rules.
 
@@ -8,7 +8,7 @@ Alpha Futures is offering 50% — discount code **TRADINGVIEW**.
 - Prop firm: Alpha Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - Summary: Secure 50% off your next evaluation account. This offer reduces the initial entry fee while keeping all trading objectives and drawdown limits unchanged.
-- Offer: 50%
+- Offer: 50% Off
 - Code: TRADINGVIEW
 - Scope: Evaluation accounts
 - Deal: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/

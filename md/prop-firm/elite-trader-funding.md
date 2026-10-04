@@ -1,6 +1,6 @@
 # Elite Trader Funding Discount Code
 
-No standing discount code for Elite Trader Funding right now — the newest deals and campaign offers are below.
+The newest Elite Trader Funding discount code is **SEPT70** — 70% off (September 7, 2026). The live campaign code changes with each promotion; newest first below.
 
 > At Elite Trader Funding (www.elitetraderfunding.app), we're passionate about helping retail traders and giving them the opportunity to make a career in trading. We've created a welcoming community where traders of all levels can succeed, driven by our commitment to innovation and excellence. Our mission is simple: to give futures traders the tools, resources, and support they need to thrive in the exciting world of futures trading. We specialize in giving traders access to a wide range of futures instruments across different asset classes. Our platform is designed to make trading user-friendly and intuitive, with advanced features and user insights that are perfect for futures trading. What sets Elite Trader Funding apart is our unique evaluation process. It's a chance for traders to prove themselves and earn a funded futures trading account without risking their own money. It's a low-risk way to turn your passion for trading into a successful career. At Elite Trader Funding, we're always here to help. Our team of experts is dedicated to supporting traders at every step of their journey. Whether you're a seasoned pro or just starting out, join us today and showcase your skills. Be Elite.
 
@@ -12,15 +12,15 @@ No standing discount code for Elite Trader Funding right now — the newest deal
 ## Current deal: Elite Trader Funding: 70% Off Non-Fast Track Evals
 
 - Published: 2026-09-07
-- Offer: 70%
+- Offer: 70% Off
 - Code: SEPT70
 - Scope: Non-Fast Track Evals, 1-Step, End-of-Day, Static, Diamond Hands
 - Deal page: https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-70-off-non-fast-track-3/
 
 ## Current deals (newest first)
 
-- 2026-09-07 - Elite Trader Funding: 70% Off Non-Fast Track Evals (70%)
-- 2026-08-24 - Elite Trader Funding: Up to 90% Off Non-Fast Track Evaluations (90%)
-- 2026-08-20 - Elite Trader Funding 10K Mini Inferno Account For $297 (Only $297)
-- 2026-08-10 - Elite Trader Funding: 50% Off Direct to Funded Accounts (50%)
-- 2026-08-03 - Elite Trader Funding 70% Off Non-Fast Track Evaluations and 30% Off Add-Ons (70%)
+- 2026-09-07 - [Elite Trader Funding: 70% Off Non-Fast Track Evals](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-70-off-non-fast-track-3/) (70% Off)
+- 2026-08-24 - [Elite Trader Funding: Up to 90% Off Non-Fast Track Evaluations](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-2/) (90% Off)
+- 2026-08-20 - [Elite Trader Funding 10K Mini Inferno Account For $297](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-10k-mini-inferno-297/) (Only $297)
+- 2026-08-10 - [Elite Trader Funding: 50% Off Direct to Funded Accounts](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-50-off-direct-to-funded/) (50% Off)
+- 2026-08-03 - [Elite Trader Funding 70% Off Non-Fast Track Evaluations and 30% Off Add-Ons](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-70-off-non-fast-track-2/) (70% Off)

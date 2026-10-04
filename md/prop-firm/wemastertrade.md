@@ -16,7 +16,7 @@ The verified WeMasterTrade discount code is **PFD** — Up to 20% off, works any
 ## Current deal: WeMasterTrade Flash Sale: 30% Off All Evaluation Packages
 
 - Published: 2026-10-03
-- Offer: 30%
+- Offer: 30% Off
 - Code: OFF30
 - Scope: All packages, All account sizes, Flash sale
 - Deal page: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/
@@ -41,8 +41,8 @@ Yes, traders can use the site's exclusive PFD code at checkout. This standing co
 
 ## Current deals (newest first)
 
-- 2026-10-03 - WeMasterTrade Flash Sale: 30% Off All Evaluation Packages (30%)
-- 2026-09-30 - WeMasterTrade: 32% Off All Packages & Festival Spin (32%)
-- 2026-08-30 - WeMasterTrade: 33% Off All Packages + Up To $50K BOGO (33%)
-- 2026-08-26 - WeMasterTrade 32% Off Flash Deal and Bonus Evaluation Accounts (32%)
-- 2026-08-25 - WeMasterTrade: 31% Off All Evaluation Packages (31%)
+- 2026-10-03 - [WeMasterTrade Flash Sale: 30% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) (30% Off)
+- 2026-09-30 - [WeMasterTrade: 32% Off All Packages & Festival Spin](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/) (32% Off)
+- 2026-08-30 - [WeMasterTrade: 33% Off All Packages + Up To $50K BOGO](https://propfirmdiscount.com/deals/wemastertrade/33-off-packages-tiered-bogo-august-2026/) (33% Off)
+- 2026-08-26 - [WeMasterTrade 32% Off Flash Deal and Bonus Evaluation Accounts](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-flash-deal/) (32% Off)
+- 2026-08-25 - [WeMasterTrade: 31% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-31-off-all-packages-2/) (31% Off)

@@ -1,6 +1,6 @@
 # Apex Trader Funding Discount Code
 
-No standing discount code for Apex Trader Funding right now — the newest deals and campaign offers are below.
+No live discount code for Apex Trader Funding right now — newest deals and offers are below.
 
 > The Ultimate Source For Trader Funding!   With Over 500 Million paid out since 2022, to date more than any other futures funding evaluation company. We have no hidden caps on payouts like our competitors and post every payout on our website (link at bottom of the page). We have one step evaluations and always have. We have one rule do not go below the trailing stop in your balance for evaluations With one username you can have 20 pa accounts (performance accounts)
 
@@ -12,7 +12,7 @@ No standing discount code for Apex Trader Funding right now — the newest deals
 ## Current deal: Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations
 
 - Published: 2026-10-01
-- Offer: 90%
+- Offer: 90% Off
 - Scope: 50K, 100K, Intraday NAF, Legacy, EOD evaluations
 - Deal page: https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/
 
@@ -40,8 +40,8 @@ The 90% discount applies to Legacy, Intraday and EOD evaluations, with Legacy ac
 
 ## Current deals (newest first)
 
-- 2026-10-01 - Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations (90%)
-- 2026-08-03 - Apex Trader Funding: 90% Off Evaluations and $59 100K Accounts (90%)
-- 2026-07-22 - Apex Trader Funding: 90% Off Legacy Evaluations and $59 100K Accounts (90%)
-- 2026-07-16 - Apex Trader Funding: $49 For 50K No-Activation Fee Accounts Plus 90% Off Other Evaluations (90%)
-- 2026-07-10 - Apex Trader Funding: 90% Off Evaluations & $59 PA Activations (90%)
+- 2026-10-01 - [Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/) (90% Off)
+- 2026-08-03 - [Apex Trader Funding: 90% Off Evaluations and $59 100K Accounts](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-evaluations-59-100k/) (90% Off)
+- 2026-07-22 - [Apex Trader Funding: 90% Off Legacy Evaluations and $59 100K Accounts](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-legacy-59-100k/) (90% Off)
+- 2026-07-16 - [Apex Trader Funding: $49 For 50K No-Activation Fee Accounts Plus 90% Off Other Evaluations](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-49-flat-50k-90-off/) (90% Off)
+- 2026-07-10 - [Apex Trader Funding: 90% Off Evaluations & $59 PA Activations](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-59-pa/) (90% Off)

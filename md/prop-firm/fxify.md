@@ -14,7 +14,7 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 ## Current deal: FXIFY 25% Off Evaluation Accounts
 
 - Published: 2026-10-03
-- Offer: 25%
+- Offer: 25% Off
 - Code: REWARD25
 - Scope: Standard evaluation accounts, excludes Instant Funding Lite
 - Deal page: https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/
@@ -39,8 +39,8 @@ The provided materials state the offer is available right now, but they do not l
 
 ## Current deals (newest first)
 
-- 2026-10-03 - FXIFY 25% Off Evaluation Accounts (25%)
-- 2026-09-24 - FXIFY 40% Off All $50K Evaluation Accounts (40%)
-- 2026-09-09 - FXIFY: 30% Off Evaluation Programs Up To $400K (30%)
-- 2026-09-03 - FXIFY 20% Off Evaluation and Instant Funding Accounts (20%)
-- 2026-08-26 - FXIFY 35% Off Evaluation Accounts (35%)
+- 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)
+- 2026-09-24 - [FXIFY 40% Off All $50K Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) (40% Off)
+- 2026-09-09 - [FXIFY: 30% Off Evaluation Programs Up To $400K](https://propfirmdiscount.com/deals/fxify/fxify-30-off-evaluation-programs/) (30% Off)
+- 2026-09-03 - [FXIFY 20% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-20-off-evaluations/) (20% Off)
+- 2026-08-26 - [FXIFY 35% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-35-off-evaluation-discount/) (35% Off)

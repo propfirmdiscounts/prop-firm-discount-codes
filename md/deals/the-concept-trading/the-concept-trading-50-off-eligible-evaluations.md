@@ -1,6 +1,6 @@
 # The Concept Trading: 50% Off Eligible Evaluations
 
-The Concept Trading is offering 50% — discount code **OS26**.
+The Concept Trading is offering 50% off — discount code **OS26**.
 
 > A 24-hour flash sale removes 50% of the initial purchase price for eligible evaluation programs. This strict limited-time pricing ends on October 2.
 
@@ -8,7 +8,7 @@ The Concept Trading is offering 50% — discount code **OS26**.
 - Prop firm: The Concept Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 - Summary: A brief 24-hour promotion reduces upfront evaluation fees by 50% on qualifying accounts. This flash event is valid until October 2.
-- Offer: 50%
+- Offer: 50% Off
 - Code: OS26
 - Scope: eligible programs, Starter model excluded
 - Deal: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/

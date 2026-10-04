@@ -23,8 +23,8 @@ The verified CK Capital discount code is **PFD** — Up to 10% off, works any ti
 
 ## Current deals (newest first)
 
-- 2026-09-06 - CK Capital $100K Account for $199: Upfront Entry Cost Details (Only $199)
-- 2026-09-01 - CK Capital 70% Off Evaluations and 75% Off Resets (70%)
-- 2026-08-29 - CK Capital 70% Off All Evaluation Accounts: Crypto Entry Fee Discount (70%)
-- 2026-08-19 - CK Capital 70% Off Evaluation Accounts Flash Sale Decision Guide (70%)
-- 2026-08-12 - CK Capital 70% Off All Evaluation Accounts: August Challenge Pricing (70%)
+- 2026-09-06 - [CK Capital $100K Account for $199: Upfront Entry Cost Details](https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/) (Only $199)
+- 2026-09-01 - [CK Capital 70% Off Evaluations and 75% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/) (70% Off)
+- 2026-08-29 - [CK Capital 70% Off All Evaluation Accounts: Crypto Entry Fee Discount](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-crypto-promo/) (70% Off)
+- 2026-08-19 - [CK Capital 70% Off Evaluation Accounts Flash Sale Decision Guide](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-percent-off-flash-sale/) (70% Off)
+- 2026-08-12 - [CK Capital 70% Off All Evaluation Accounts: August Challenge Pricing](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-august-evaluation-discount/) (70% Off)

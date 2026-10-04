@@ -1,6 +1,6 @@
 # FTUK 30% Off Challenge Fees Plus Free Add-Ons
 
-FTUK is offering 30% — discount code **PULSE30**.
+FTUK is offering 30% off — discount code **PULSE30**.
 
 > This week's special cuts 30% off FTUK challenge pricing and includes model-specific bonuses like a 20% payout boost. Risk rules remain unchanged. Valid for this week.
 
@@ -8,7 +8,7 @@ FTUK is offering 30% — discount code **PULSE30**.
 - Prop firm: FTUK
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 - Summary: A one-week special promotion applying a 30% discount to FTUK entry fees, bundled with structural add-ons like free retakes. Trading rules are unaltered. Valid this week only.
-- Offer: 30%
+- Offer: 30% Off
 - Code: PULSE30
 - Scope: Instant Forex, Standard Challenges, Futures, Flex Challenge
 - Deal: https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-free-addons/

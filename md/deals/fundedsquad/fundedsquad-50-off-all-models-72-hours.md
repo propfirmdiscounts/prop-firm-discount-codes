@@ -1,6 +1,6 @@
 # FundedSquad 50% Off All Models And Giveaway Entry
 
-FundedSquad is offering 50% — discount code **CEO**.
+FundedSquad is offering 50% off — discount code **CEO**.
 
 > Reduce your upfront evaluation pricing by 50% across all models during this 72-hour event. Trading rules remain unchanged.
 
@@ -8,7 +8,7 @@ FundedSquad is offering 50% — discount code **CEO**.
 - Prop firm: FundedSquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 - Summary: Cut entry costs by 50% across all models for the next 72 hours. Core risk parameters and evaluation rules remain unchanged, meaning trading difficulty stays identical to regular periods.
-- Offer: 50%
+- Offer: 50% Off
 - Code: CEO
 - Scope: All evaluation models, 25K+ sizes for giveaway
 - Deal: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-72-hours/

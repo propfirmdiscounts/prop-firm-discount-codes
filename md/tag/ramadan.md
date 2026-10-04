@@ -3,9 +3,9 @@
 The newest Ramadan prop firm deal is **Tradexprop 30% Off Every TXP Plan Ramadan Promotion** from Tradexprop — 30% off (published 2026-03-16). Codes and live offers below, newest first.
 
 Top live offers now:
-- Tradexprop — Tradexprop 30% Off Every TXP Plan Ramadan Promotion (30%)
-- Finotive Funding — Finotive Funding 35% Off Sitewide Ramadan Evaluation Entry Cost (35%)
-- Funding Your Trades — Funding Your Trades: 40% Off FYT Prime Accounts ($58.2 to $509.4) (40%)
+- Tradexprop — Tradexprop 30% Off Every TXP Plan Ramadan Promotion (30% Off)
+- Finotive Funding — Finotive Funding 35% Off Sitewide Ramadan Evaluation Entry Cost (35% Off)
+- Funding Your Trades — Funding Your Trades: 40% Off FYT Prime Accounts ($58.2 to $509.4) (40% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

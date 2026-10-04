@@ -1,6 +1,6 @@
 # IC Funded Discount Code
 
-No standing discount code for IC Funded right now — the newest deals and campaign offers are below.
+The newest IC Funded discount code is **SUMMER** — 30% off (August 27, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
 - Trustpilot: 3.3/5 (168 reviews)
@@ -10,11 +10,11 @@ No standing discount code for IC Funded right now — the newest deals and campa
 ## Current deal: IC Funded 30% Off Challenge Pricing Promotion
 
 - Published: 2026-08-27
-- Offer: 30%
+- Offer: 30% Off
 - Code: SUMMER
 - Scope: all challenge types
 - Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-evaluation-promotion/
 
 ## Current deals (newest first)
 
-- 2026-08-27 - IC Funded 30% Off Challenge Pricing Promotion (30%)
+- 2026-08-27 - [IC Funded 30% Off Challenge Pricing Promotion](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-evaluation-promotion/) (30% Off)

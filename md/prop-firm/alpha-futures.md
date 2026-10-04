@@ -16,7 +16,7 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 ## Current deal: Alpha Futures 50% Off Evaluation Accounts
 
 - Published: 2026-09-15
-- Offer: 50%
+- Offer: 50% Off
 - Code: TRADINGVIEW
 - Scope: Evaluation accounts
 - Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/
@@ -41,8 +41,8 @@ This cost reduction is suited for traders who want to lower their initial financ
 
 ## Current deals (newest first)
 
-- 2026-09-15 - Alpha Futures 50% Off Evaluation Accounts (50%)
-- 2026-07-23 - Alpha Futures 40% Off Evaluation Pricing: Cost Analysis (40%)
-- 2026-07-08 - Alpha Futures: 35% Off All Accounts Entry Fee (35%)
-- 2026-07-01 - Alpha Futures: 25% Off Any Account Plan Entry Fee (25%)
-- 2026-06-04 - Alpha Futures 25% Off All Accounts Evaluation Pricing (25%)
+- 2026-09-15 - [Alpha Futures 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/) (50% Off)
+- 2026-07-23 - [Alpha Futures 40% Off Evaluation Pricing: Cost Analysis](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-percent-discount/) (40% Off)
+- 2026-07-08 - [Alpha Futures: 35% Off All Accounts Entry Fee](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-35-off-all-accounts/) (35% Off)
+- 2026-07-01 - [Alpha Futures: 25% Off Any Account Plan Entry Fee](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/) (25% Off)
+- 2026-06-04 - [Alpha Futures 25% Off All Accounts Evaluation Pricing](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-25-off-all-accounts/) (25% Off)

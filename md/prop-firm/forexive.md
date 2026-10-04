@@ -16,7 +16,7 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works a
 ## Current deal: Forexive 30% Off All Challenge Accounts
 
 - Published: 2026-09-30
-- Offer: 30%
+- Offer: 30% Off
 - Code: FOREXIVE2YEARS
 - Scope: All challenge accounts
 - Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/
@@ -45,8 +45,8 @@ You can activate the savings by applying the active promotion during checkout on
 
 ## Current deals (newest first)
 
-- 2026-09-30 - Forexive 30% Off All Challenge Accounts (30%)
-- 2026-06-16 - Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target (Entry Fee)
-- 2026-06-07 - Forexive 20% Off Upfront Entry Cost (20%)
-- 2026-05-27 - Forexive $5 Upfront Entry Fee For 5K-200K 2-Step Evaluation Accounts (Only $5)
-- 2026-05-20 - Forexive: 50% Off 1-Step and 2-Step Evaluation Challenges (50%)
+- 2026-09-30 - [Forexive 30% Off All Challenge Accounts](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) (30% Off)
+- 2026-06-16 - [Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target](https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/) (Entry Fee)
+- 2026-06-07 - [Forexive 20% Off Upfront Entry Cost](https://propfirmdiscount.com/deals/forexive/forexive-20-off-evaluation-cost/) (20% Off)
+- 2026-05-27 - [Forexive $5 Upfront Entry Fee For 5K-200K 2-Step Evaluation Accounts](https://propfirmdiscount.com/deals/forexive/forexive-5-dollar-entry-deal/) (Only $5)
+- 2026-05-20 - [Forexive: 50% Off 1-Step and 2-Step Evaluation Challenges](https://propfirmdiscount.com/deals/forexive/forexive-50-percent-off-evaluations/) (50% Off)

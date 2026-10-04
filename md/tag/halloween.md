@@ -3,9 +3,9 @@
 The newest Halloween prop firm deal is **Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free** from Alpha Trader Firm — 50% off (published 2026-10-01). Codes and live offers below, newest first.
 
 Top live offers now:
-- Alpha Trader Firm — Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free (50%)
+- Alpha Trader Firm — Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free (50% Off)
 -  — Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup
-- PipFarm — PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes (50%)
+- PipFarm — PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes (50% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

@@ -21,8 +21,8 @@ The verified Phidias Propfirm discount code is **PFD** — Up to 80% off, works 
 
 ## Current deals (newest first)
 
-- 2026-10-01 - Phidias Propfirm $10,000 Challenge Entry for $30 (Only $30)
-- 2026-09-21 - Phidias Propfirm Q4 Promotion: Up To 80% Off & $69 Entry Fees (80%)
-- 2026-09-09 - Phidias Propfirm Equinox Sale: Up to 80% Off Evaluations & Accounts (80%)
-- 2026-09-04 - Phidias Propfirm Labor Day Promotion: Up to 80% Off Evaluation Fees (80%)
-- 2026-08-24 - Phidias Propfirm: Up to 80% Off One-Time Payments and 60% Off Monthly Evaluations (80%)
+- 2026-10-01 - [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) (Only $30)
+- 2026-09-21 - [Phidias Propfirm Q4 Promotion: Up To 80% Off & $69 Entry Fees](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-q4-discount-69-accounts/) (80% Off)
+- 2026-09-09 - [Phidias Propfirm Equinox Sale: Up to 80% Off Evaluations & Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/) (80% Off)
+- 2026-09-04 - [Phidias Propfirm Labor Day Promotion: Up to 80% Off Evaluation Fees](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/) (80% Off)
+- 2026-08-24 - [Phidias Propfirm: Up to 80% Off One-Time Payments and 60% Off Monthly Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-september/) (80% Off)

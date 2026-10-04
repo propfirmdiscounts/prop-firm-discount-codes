@@ -16,15 +16,15 @@ The verified Forex Funds Flow discount code is **PFD** — Up to 10% off, works 
 ## Current deal: Forex Funds Flow Launch Offer: 35% OFF $5k–$10k Accounts
 
 - Published: 2025-07-18
-- Offer: 35%
+- Offer: 35% Off
 - Code: FFF35
 - Scope: $5k and $10k accounts
 - Deal page: https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-35-off-5k-10k-accounts/
 
 ## Current deals (newest first)
 
-- 2026-06-12 - Forex Funds Flow: 15% Off All Programs (15%)
-- 2026-05-27 - Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion (15%)
-- 2026-05-26 - Forex Funds Flow Offers 2.5k Instant Boost and 5k 2-Step Accounts for $49 (Only $49)
-- 2026-03-28 - Forex Funds Flow 15% Discount on All Programs (15%)
-- 2026-03-19 - Forex Funds Flow: 12% Off All Accounts For Eid Al‑Fitr (12%)
+- 2026-06-12 - [Forex Funds Flow: 15% Off All Programs](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) (15% Off)
+- 2026-05-27 - [Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/) (15% Off)
+- 2026-05-26 - [Forex Funds Flow Offers 2.5k Instant Boost and 5k 2-Step Accounts for $49](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-49-dollar-accounts/) (Only $49)
+- 2026-03-28 - [Forex Funds Flow 15% Discount on All Programs](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-percent-discount/) (15% Off)
+- 2026-03-19 - [Forex Funds Flow: 12% Off All Accounts For Eid Al‑Fitr](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-12-off-eid-al-fitr/) (12% Off)

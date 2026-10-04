@@ -4,6 +4,8 @@
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
+| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% OFF | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
 | 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% OFF | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
 | 2026-10-03 | WeMasterTrade | WeMasterTrade Flash Sale: 30% Off All Evaluation Packages | 30% OFF | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/ |
 | 2026-10-03 | FXIFY | FXIFY 25% Off Evaluation Accounts | 25% OFF | https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/ |
@@ -32,5 +34,3 @@
 | 2026-09-30 | Goat Funded Trader | Goat Funded Trader: 50% Off All Plans | 50% OFF | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/ |
 | 2026-09-30 | Funding Your Trades | Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts | 40% OFF | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/ |
 | 2026-09-30 | City Traders Imperium (CTI) | City Traders Imperium (CTI): 10% Off Direct Funding Accounts | 10% OFF | https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/ |
-| 2026-09-30 | Forexive | Forexive 30% Off All Challenge Accounts | 30% OFF | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/ |
-| 2026-09-29 | Tradeify | Tradeify 50% Off All FX Accounts: Is the Launch Pricing Right for You? | 50% OFF | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-launch/ |

@@ -1,6 +1,6 @@
 # FXIFY 25% Off Evaluation Accounts
 
-FXIFY is offering 25% — discount code **REWARD25**.
+FXIFY is offering 25% off — discount code **REWARD25**.
 
 > This active promotion reduces the upfront entry fee by 25% for eligible account models. It does not change drawdown limits or trading rules.
 
@@ -8,7 +8,7 @@ FXIFY is offering 25% — discount code **REWARD25**.
 - Prop firm: FXIFY
 - Firm page: https://propfirmdiscount.com/prop-firm/fxify/
 - Summary: This active promotion reduces the upfront entry fee by 25% for eligible account models. Risk rules remain completely unchanged.
-- Offer: 25%
+- Offer: 25% Off
 - Code: REWARD25
 - Scope: Standard evaluation accounts, excludes Instant Funding Lite
 - Deal: https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/

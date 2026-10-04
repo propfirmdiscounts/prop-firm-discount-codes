@@ -3,8 +3,8 @@
 The newest Independence Day prop firm deal is **Hola Prime 45% Off Forex Challenges – Independence Day Offer** from Hola Prime — 45% off (published 2026-07-04). Codes and live offers below, newest first.
 
 Top live offers now:
-- Hola Prime — Hola Prime 45% Off Forex Challenges – Independence Day Offer (45%)
-- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal (15%)
+- Hola Prime — Hola Prime 45% Off Forex Challenges – Independence Day Offer (45% Off)
+- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal (15% Off)
 - CK Capital — CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts (Buy 1 Get 1)
 
 | Published | Firm | Deal | Discount | Link |

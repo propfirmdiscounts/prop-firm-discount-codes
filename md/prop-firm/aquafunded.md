@@ -16,15 +16,15 @@ The verified AquaFunded discount code is **PFD** — Up to 25% off, works any ti
 ## Current deal: AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund
 
 - Published: 2026-10-01
-- Offer: 25%
+- Offer: 25% Off
 - Code: AUTUMN
 - Scope: Evaluation accounts, First 500 uses
 - Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/
 
 ## Current deals (newest first)
 
-- 2026-10-01 - AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund (25%)
-- 2026-09-11 - AquaFunded Autumn Promotion: 30% Off Evaluation Entry Fee (30%)
-- 2026-09-01 - AquaFunded 25% Off and 150% Refund: Evaluation Pricing Details (25%)
-- 2026-08-24 - AquaFunded 40% Off Challenge Pricing, 150% Refund & BOGO Entitlement (40%)
-- 2026-08-07 - AquaFunded 40% Off Challenge Pricing With 150% Refund & 700 Uses Available (40%)
+- 2026-10-01 - [AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) (25% Off)
+- 2026-09-11 - [AquaFunded Autumn Promotion: 30% Off Evaluation Entry Fee](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-promotion-30-off/) (30% Off)
+- 2026-09-01 - [AquaFunded 25% Off and 150% Refund: Evaluation Pricing Details](https://propfirmdiscount.com/deals/aquafunded/aquafunded-25-off-150-refund/) (25% Off)
+- 2026-08-24 - [AquaFunded 40% Off Challenge Pricing, 150% Refund & BOGO Entitlement](https://propfirmdiscount.com/deals/aquafunded/aquafunded-40-off-150-refund-bogo/) (40% Off)
+- 2026-08-07 - [AquaFunded 40% Off Challenge Pricing With 150% Refund & 700 Uses Available](https://propfirmdiscount.com/deals/aquafunded/aquafunded-40-off-august-promo/) (40% Off)

@@ -1,6 +1,6 @@
 # Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle
 
-Earn2Trade is offering 50% — discount code **PFD**.
+Earn2Trade is offering 50% off — discount code **PFD**.
 
 > Earn2Trade celebrates its 10-year anniversary with 50% off evaluation accounts and resets, plus a one-time $165 bundle for three TCP25s. Valid until October 18, 2026.
 
@@ -8,7 +8,7 @@ Earn2Trade is offering 50% — discount code **PFD**.
 - Prop firm: Earn2Trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - Summary: Cut 50% off challenge fees and resets, or grab a $165 bundle for three TCP25 accounts. Reduces upfront cost only; risk rules remain unchanged. Half-price offer valid until October 18, 2026.
-- Offer: 50%
+- Offer: 50% Off
 - Code: PFD
 - Scope: All evaluation models, resets, TCP25 bundle
 - Deal: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/

@@ -1,6 +1,6 @@
 # BrightFunded 30% Off 1-Step Challenges and 15% Profit Reward
 
-BrightFunded is offering 30% — discount code **RALLY30**.
+BrightFunded is offering 30% off — discount code **RALLY30**.
 
 > This Autumn Rally promotion lowers the upfront purchase price of 1-Step Challenges by 30% and adds a 15% evaluation profit reward. It does not modify risk parameters.
 
@@ -8,7 +8,7 @@ BrightFunded is offering 30% — discount code **RALLY30**.
 - Prop firm: BrightFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 - Summary: Reduce the cost of 1-Step Challenges by 30% with this active discount. The promotion includes a 15% evaluation profit reward but leaves trading rules unchanged.
-- Offer: 30%
+- Offer: 30% Off
 - Code: RALLY30
 - Scope: 1-Step Challenges
 - Deal: https://propfirmdiscount.com/deals/bright-funded/brightfunded-autumn-rally-1-step-30-off/

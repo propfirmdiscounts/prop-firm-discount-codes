@@ -16,7 +16,7 @@ The verified Hantec Trader discount code is **A2dmq73g8** — Up to 5% off, work
 ## Current deal: Hantec Trader 50% Off Evaluation Challenge Pricing
 
 - Published: 2026-09-29
-- Offer: 50%
+- Offer: 50% Off
 - Code: DROP50
 - Scope: All eligible Challenges, Instant24 excluded, maximum 2 uses per user
 - Deal page: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/
@@ -41,8 +41,8 @@ The discount window strictly closes on October 1, 2026, at 23:59 UTC.
 
 ## Current deals (newest first)
 
-- 2026-09-29 - Hantec Trader 50% Off Evaluation Challenge Pricing (50%)
-- 2026-09-16 - Hantec Trader 35% Off First Evaluation Challenge (35%)
-- 2026-08-27 - Hantec Trader 40% Off Evaluation Programs (500 Cap) (40%)
-- 2026-08-14 - Hantec Trader 50% Off Challenge Fees Plus Giveaway Entry (50%)
-- 2026-08-06 - Hantec Trader 25% Off All Challenges & Free 95% Reward Share Add-On (25%)
+- 2026-09-29 - [Hantec Trader 50% Off Evaluation Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/) (50% Off)
+- 2026-09-16 - [Hantec Trader 35% Off First Evaluation Challenge](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-first-challenge/) (35% Off)
+- 2026-08-27 - [Hantec Trader 40% Off Evaluation Programs (500 Cap)](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-40-off-payday-500-cap/) (40% Off)
+- 2026-08-14 - [Hantec Trader 50% Off Challenge Fees Plus Giveaway Entry](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-giveaway/) (50% Off)
+- 2026-08-06 - [Hantec Trader 25% Off All Challenges & Free 95% Reward Share Add-On](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-25-off-free-95-reward-share/) (25% Off)

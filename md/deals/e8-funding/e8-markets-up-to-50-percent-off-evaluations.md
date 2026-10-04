@@ -1,6 +1,6 @@
 # E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers
 
-E8 Markets is offering 50% — discount code **CHUN**.
+E8 Markets is offering 50% off — discount code **CHUN**.
 
 > E8 Markets reduces entry costs by up to 50% on perpetual models and 35% on the E8 ZERO challenge. The promotion does not alter trading risk limits.
 
@@ -8,7 +8,7 @@ E8 Markets is offering 50% — discount code **CHUN**.
 - Prop firm: E8 Markets
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - Summary: Reduce your upfront evaluation cost by up to 50% across selected E8 Markets models with this active promotion. Trading rules and drawdown constraints remain completely unchanged for all participants.
-- Offer: 50%
+- Offer: 50% Off
 - Code: CHUN
 - Scope: E8 ZERO, Signature Futures, Signature Forex & Crypto, E8 One, E8 Pro, Perpetual models
 - Deal: https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/

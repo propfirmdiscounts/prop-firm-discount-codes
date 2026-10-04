@@ -1,6 +1,6 @@
 # Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts
 
-Funded Elite is offering 35% — discount code **OCT35**.
+Funded Elite is offering 35% off — discount code **OCT35**.
 
 > This active promotion cuts the upfront entry fee by 35% on 1-Step and 2-Step evaluation models from $7K to $300K while offering weekly payouts for a limited time.
 
@@ -8,7 +8,7 @@ Funded Elite is offering 35% — discount code **OCT35**.
 - Prop firm: Funded Elite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Summary: A 35% cost reduction on evaluation accounts ranging from $7K to $300K, plus a weekly payout upgrade. Trading rules and drawdown limits remain completely unchanged by this limited-time active promotion.
-- Offer: 35%
+- Offer: 35% Off
 - Code: OCT35
 - Scope: $7K-$300K accounts, 1-Step, 2-Step, Free Retry evaluations
 - Deal: https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/

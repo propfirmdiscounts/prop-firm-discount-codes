@@ -16,15 +16,15 @@ The verified FundedSeat discount code is **PFD** — Up to 50% off, works any ti
 ## Current deal: FundedSeat 50% Off All Challenges and $39 Instant $50,000 Account Deal
 
 - Published: 2025-08-18
-- Offer: 50%
+- Offer: 50% Off
 - Code: PFD
 - Scope: All challenges, $50000 instant account
 - Deal page: https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-challenges-39-instant-account/
 
 ## Current deals (newest first)
 
-- 2026-09-03 - FundedSeat 50% Off First 4 Evaluation Accounts (50%)
-- 2026-07-28 - FundedSeat 50% Off 1-Step Daily Ultra Evaluation Accounts (50%)
-- 2026-07-13 - FundedSeat 50% Off Upfront Entry Cost (50%)
-- 2026-06-29 - FundedSeat: 55% Discount On Up To 3 Evaluation Accounts (55%)
-- 2026-06-22 - FundedSeat 60% Off First Evaluation Account Purchase (60%)
+- 2026-09-03 - [FundedSeat 50% Off First 4 Evaluation Accounts](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/) (50% Off)
+- 2026-07-28 - [FundedSeat 50% Off 1-Step Daily Ultra Evaluation Accounts](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-percent-off-daily-ultra-evaluations/) (50% Off)
+- 2026-07-13 - [FundedSeat 50% Off Upfront Entry Cost](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-discount/) (50% Off)
+- 2026-06-29 - [FundedSeat: 55% Discount On Up To 3 Evaluation Accounts](https://propfirmdiscount.com/deals/fundedseat/fundedseat-55-discount-3-evaluations/) (55% Off)
+- 2026-06-22 - [FundedSeat 60% Off First Evaluation Account Purchase](https://propfirmdiscount.com/deals/fundedseat/fundedseat-60-percent-off-first-purchase/) (60% Off)

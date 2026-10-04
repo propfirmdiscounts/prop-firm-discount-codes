@@ -3,9 +3,9 @@
 The newest Cyber Monday prop firm deal is **Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee** from Earn2Trade — 60% off (published 2025-12-16). Codes and live offers below, newest first.
 
 Top live offers now:
-- Earn2Trade — Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee (60%)
-- QT Funded — QT Funded Cyber Monday Deal: 55% OFF + Free Account (55%)
-- QT Futures — QT Futures Cyber Monday Deal: 30% OFF Purchase & Activation Fees (30%)
+- Earn2Trade — Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee (60% Off)
+- QT Funded — QT Funded Cyber Monday Deal: 55% OFF + Free Account (55% Off)
+- QT Futures — QT Futures Cyber Monday Deal: 30% OFF Purchase & Activation Fees (30% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

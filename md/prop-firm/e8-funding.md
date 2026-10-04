@@ -16,15 +16,15 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 ## Current deal: E8 Funding Coupon 2025 – Get the Latest Discount for Your Challenge
 
 - Published: 2025-08-10
-- Offer: 5%
+- Offer: 5% Off
 - Code: CHUN
 - Scope: eligible plans
 - Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/
 
 ## Current deals (newest first)
 
-- 2026-08-27 - E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers (50%)
-- 2026-06-01 - E8 Markets: 30% Off E8Pro and 10% Off Existing Accounts (30%)
-- 2026-05-27 - E8 Markets: 30% Off E8PRO v2 and 10% Off Other Models for 14 Days (30%)
-- 2026-05-06 - E8 Markets: Up to 20% Off Signature and 10% Off E8 One Challenge Pricing (20%)
-- 2026-04-20 - E8 Markets: 40% Off Signature and 30% Off E8 One Evaluations (40%)
+- 2026-08-27 - [E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) (50% Off)
+- 2026-06-01 - [E8 Markets: 30% Off E8Pro and 10% Off Existing Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/) (30% Off)
+- 2026-05-27 - [E8 Markets: 30% Off E8PRO v2 and 10% Off Other Models for 14 Days](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-v2-evaluation/) (30% Off)
+- 2026-05-06 - [E8 Markets: Up to 20% Off Signature and 10% Off E8 One Challenge Pricing](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-signature-e8-one/) (20% Off)
+- 2026-04-20 - [E8 Markets: 40% Off Signature and 30% Off E8 One Evaluations](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-april-2026/) (40% Off)

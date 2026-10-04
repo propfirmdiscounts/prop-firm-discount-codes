@@ -16,15 +16,15 @@ The verified Funded Trading Plus (FT+) discount code is **PFD** — Up to 10% of
 ## Current deal: Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade
 
 - Published: 2026-09-28
-- Offer: 20%
+- Offer: 20% Off
 - Code: ROOM20
 - Scope: 2-Step accounts
 - Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/
 
 ## Current deals (newest first)
 
-- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade (20%)
-- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade (20%)
-- 2026-09-28 - Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade (20%)
-- 2026-09-17 - Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost (20%)
-- 2026-08-26 - Funded Trading Plus (FT+) 40% Off 100K and 200K Programs: Upfront Entry Cost Analysis (40%)
+- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/) (20% Off)
+- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/) (20% Off)
+- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-instant-funding-scaling-discount/) (20% Off)
+- 2026-09-17 - [Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-90-profit-split-instant-1-step/) (20% Off)
+- 2026-08-26 - [Funded Trading Plus (FT+) 40% Off 100K and 200K Programs: Upfront Entry Cost Analysis](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-40-off-100k-200k-discount/) (40% Off)

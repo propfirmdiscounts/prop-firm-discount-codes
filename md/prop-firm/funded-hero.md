@@ -16,15 +16,15 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 ## Current deal: Funded Hero 65% Off Evaluation Accounts
 
 - Published: 2026-10-01
-- Offer: 65%
+- Offer: 65% Off
 - Code: PFD
 - Scope: Evaluation accounts
 - Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/
 
 ## Current deals (newest first)
 
-- 2026-10-01 - Funded Hero 65% Off Evaluation Accounts (65%)
-- 2026-09-24 - Funded Hero: 60% Off All Evaluation Accounts Plus BOGO (60%)
-- 2026-09-20 - Funded Hero 65% Off All Evaluation Accounts (65%)
-- 2026-09-10 - Funded Hero: 60% Off Challenge Pricing and 10% Payout Bonus (60%)
-- 2026-09-03 - Funded Hero 65% Off Evaluation Accounts Plus Buy 1 Get 1 Free (65%)
+- 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)
+- 2026-09-24 - [Funded Hero: 60% Off All Evaluation Accounts Plus BOGO](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) (60% Off)
+- 2026-09-20 - [Funded Hero 65% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) (65% Off)
+- 2026-09-10 - [Funded Hero: 60% Off Challenge Pricing and 10% Payout Bonus](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/) (60% Off)
+- 2026-09-03 - [Funded Hero 65% Off Evaluation Accounts Plus Buy 1 Get 1 Free](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-bogo/) (65% Off)

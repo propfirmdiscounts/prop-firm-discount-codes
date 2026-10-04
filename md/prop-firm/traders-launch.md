@@ -1,6 +1,6 @@
 # Traders Launch Discount Code
 
-No standing discount code for Traders Launch right now — the newest deals and campaign offers are below.
+The newest Traders Launch discount code is **FALL** — 25% off (September 28, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-28
 - Trustpilot: 4.7/5 (80 reviews)
@@ -10,7 +10,7 @@ No standing discount code for Traders Launch right now — the newest deals and 
 ## Current deal: Traders Launch 25% Off Fall Promotion
 
 - Published: 2026-09-28
-- Offer: 25%
+- Offer: 25% Off
 - Code: FALL
 - Scope: All accounts, Fall Promo
 - Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/
@@ -35,8 +35,8 @@ This is a coupon-based promotion, meaning traders must actively apply the discou
 
 ## Current deals (newest first)
 
-- 2026-09-28 - Traders Launch 25% Off Fall Promotion (25%)
-- 2026-08-31 - Traders Launch 30% Off All Accounts Evaluation Pricing (30%)
-- 2026-08-10 - Traders Launch Summer Sale: 20% Off All Accounts (20%)
-- 2026-08-10 - Traders Launch 20% Off All Evaluation Accounts (20%)
-- 2026-06-29 - Traders Launch 30% Off All Accounts For 4th Of July (30%)
+- 2026-09-28 - [Traders Launch 25% Off Fall Promotion](https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/) (25% Off)
+- 2026-08-31 - [Traders Launch 30% Off All Accounts Evaluation Pricing](https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts-labor-day/) (30% Off)
+- 2026-08-10 - [Traders Launch Summer Sale: 20% Off All Accounts](https://propfirmdiscount.com/deals/traders-launch/traders-launch-summer-sale-20-off/) (20% Off)
+- 2026-08-10 - [Traders Launch 20% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/traders-launch/traders-launch-20-off-all-accounts/) (20% Off)
+- 2026-06-29 - [Traders Launch 30% Off All Accounts For 4th Of July](https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-4th-july/) (30% Off)

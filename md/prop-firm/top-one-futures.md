@@ -14,15 +14,15 @@ The verified Top One Futures discount code is **PFD** — Up to 50% off, works a
 ## Current deal: Top One Futures Black Friday Sale: 57.5% OFF All Accounts + Bonus
 
 - Published: 2025-11-21
-- Offer: 57%
+- Offer: 57% Off
 - Code: PFD
 - Scope: All evaluation models (Elite, Instant Sim Funded, S2F PRO).
 - Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/
 
 ## Current deals (newest first)
 
-- 2026-09-01 - Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price
-- 2026-07-13 - Top One Futures 50% Off Elite Daily and 40% Off Instant Funding Evaluation Pricing (50%)
-- 2026-03-31 - Top One Futures 1-Year Anniversary: 50% Off Instant Sim Funded and 40% Off All Other Plans (50%)
-- 2026-03-02 - Top One Futures: 50% Off Elite Daily Evaluation Accounts Up To $100K (50%)
-- 2026-02-19 - Top One Futures: 45% Off Ignite & S2F PRO, 35% Off Instant Funded Accounts (45%)
+- 2026-09-01 - [Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/)
+- 2026-07-13 - [Top One Futures 50% Off Elite Daily and 40% Off Instant Funding Evaluation Pricing](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) (50% Off)
+- 2026-03-31 - [Top One Futures 1-Year Anniversary: 50% Off Instant Sim Funded and 40% Off All Other Plans](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) (50% Off)
+- 2026-03-02 - [Top One Futures: 50% Off Elite Daily Evaluation Accounts Up To $100K](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) (50% Off)
+- 2026-02-19 - [Top One Futures: 45% Off Ignite & S2F PRO, 35% Off Instant Funded Accounts](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) (45% Off)

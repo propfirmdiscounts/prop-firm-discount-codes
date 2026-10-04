@@ -16,15 +16,15 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 ## Current deal: The Prop Trade – 25% OFF Your First Challenge + Scale to $5M, Up to 90% Split
 
 - Published: 2025-09-26
-- Offer: 25%
+- Offer: 25% Off
 - Code: NEW25
 - Scope: First Challenge + Scale to $5M, Up to 90% Split
 - Deal page: https://propfirmdiscount.com/deals/the-prop-trade/the-prop-trade-25-off-your-first-challenge-scale-to-5m-up-to-90-split/
 
 ## Current deals (newest first)
 
-- 2026-07-06 - thePropTrade 20% Off Standard And Instant Accounts (20%)
-- 2026-06-22 - thePropTrade: 20% Off 1-Step Classic Evaluation Accounts (20%)
-- 2026-06-19 - thePropTrade: 50% Off PayFlex Challenges and 30% Off Activation Fees (50%)
-- 2026-06-03 - thePropTrade 30% Off Activation Fees On 50k And 100k Accounts (30%)
-- 2026-05-27 - thePropTrade: 20% Off Activation Fees & 100% Profit Split on PayFlex (20%)
+- 2026-07-06 - [thePropTrade 20% Off Standard And Instant Accounts](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-standard-instant/) (20% Off)
+- 2026-06-22 - [thePropTrade: 20% Off 1-Step Classic Evaluation Accounts](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-1-step-classic/) (20% Off)
+- 2026-06-19 - [thePropTrade: 50% Off PayFlex Challenges and 30% Off Activation Fees](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-50-off-payflex-challenges/) (50% Off)
+- 2026-06-03 - [thePropTrade 30% Off Activation Fees On 50k And 100k Accounts](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-30-off-payflex-activation/) (30% Off)
+- 2026-05-27 - [thePropTrade: 20% Off Activation Fees & 100% Profit Split on PayFlex](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-payflex-eid/) (20% Off)

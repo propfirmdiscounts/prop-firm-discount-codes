@@ -1,6 +1,6 @@
 # Bitfunded Discount Code
 
-No standing discount code for Bitfunded right now — the newest deals and campaign offers are below.
+No live discount code for Bitfunded right now — newest deals and offers are below.
 
 > First prop trading firm dedicated exclusively to crypto
 
@@ -18,8 +18,8 @@ No standing discount code for Bitfunded right now — the newest deals and campa
 
 ## Current deals (newest first)
 
-- 2026-03-13 - Bitfunded 50% Off Buy 1 Get 1 Free Challenge Pricing (50%)
-- 2026-02-27 - Bitfunded 100% Profit Split On First Payout For All Challenges (Keep all profits)
-- 2025-12-20 - Bitfunded Christmas Offer: Buy a Mystery Box, Get 2 Free Challenges + 90% Split (Free Challenges)
-- 2025-12-01 - Bitfunded Cyber Monday Deal: Buy 3 Get 3 Free + 100% Profit Share (50%)
-- 2025-11-22 - Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share (50%)
+- 2026-03-13 - [Bitfunded 50% Off Buy 1 Get 1 Free Challenge Pricing](https://propfirmdiscount.com/deals/bitfunded/bitfunded-flash-bogo-50-percent-off-promotion/) (50% Off)
+- 2026-02-27 - [Bitfunded 100% Profit Split On First Payout For All Challenges](https://propfirmdiscount.com/deals/bitfunded/bitfunded-100-percent-profit-split-first-payout/) (Keep all profits)
+- 2025-12-20 - [Bitfunded Christmas Offer: Buy a Mystery Box, Get 2 Free Challenges + 90% Split](https://propfirmdiscount.com/deals/bitfunded/bitfunded-christmas-mystery-box-promo/) (Free Challenges)
+- 2025-12-01 - [Bitfunded Cyber Monday Deal: Buy 3 Get 3 Free + 100% Profit Share](https://propfirmdiscount.com/deals/bitfunded/bitfunded-cyber-monday-buy-3-get-3-free/) (50% Off)
+- 2025-11-22 - [Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share](https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-50-off-100-profit-share/) (50% Off)

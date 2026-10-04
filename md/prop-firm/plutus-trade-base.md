@@ -16,7 +16,7 @@ The verified Plutus Trade Base discount code is **ptb463970** — Up to 15% off,
 ## Current deal: Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)
 
 - Published: 2026-10-04
-- Offer: 50%
+- Offer: 50% Off
 - Code: PASS50
 - Scope: $100,000 Accounts, Lightning Pro, 1-Step Evaluation
 - Deal page: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/
@@ -49,8 +49,8 @@ The promotional material does not state a specific expiry date, presenting it as
 
 ## Current deals (newest first)
 
-- 2026-10-04 - Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) (50%)
-- 2026-09-12 - Plutus Trade Base 50% Off Challenge Pricing (50%)
-- 2026-09-12 - Plutus Trade Base 50% Off Evaluation Accounts (50%)
-- 2026-09-05 - Plutus Trade Base 50% Off All Evaluation Challenges (50%)
-- 2026-09-03 - Plutus Trade Base 50% Off Evaluation Challenges for Labor Day (50%)
+- 2026-10-04 - [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) (50% Off)
+- 2026-09-12 - [Plutus Trade Base 50% Off Challenge Pricing](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-challenge-pricing/) (50% Off)
+- 2026-09-12 - [Plutus Trade Base 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-accounts/) (50% Off)
+- 2026-09-05 - [Plutus Trade Base 50% Off All Evaluation Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/) (50% Off)
+- 2026-09-03 - [Plutus Trade Base 50% Off Evaluation Challenges for Labor Day](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-labor-day/) (50% Off)

@@ -16,15 +16,15 @@ The verified Equity Edge discount code is **PFD** — Up to 20% off, works any t
 ## Current deal: Equity Edge 50% OFF Instant Accounts + 35% OFF Challenges – Exclusive Promo
 
 - Published: 2025-09-05
-- Offer: 35%
+- Offer: 35% Off
 - Code: EDGE35
 - Scope: all challenges
 - Deal page: https://propfirmdiscount.com/deals/equity-edge/equity-edge-50-off-instant-accounts-35-off-challenges-exclusive-promo/
 
 ## Current deals (newest first)
 
-- 2026-08-03 - Equity Edge 30% Discount on All Flagship Challenge Accounts (30%)
-- 2026-05-31 - Equity Edge Eid Mubarak Discount: 100K Instant Funded For $65 (Only $65)
-- 2026-05-30 - Equity Edge Eid Mubarak Promo: 200K Instant Funded For $159 (Only $159)
-- 2026-05-29 - Equity Edge Eid Mubarak Deal: 300K Instant Funded For $299 (Only $299)
-- 2026-04-23 - Equity Edge: 35% Off All Flagship Accounts (35%)
+- 2026-08-03 - [Equity Edge 30% Discount on All Flagship Challenge Accounts](https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/) (30% Off)
+- 2026-05-31 - [Equity Edge Eid Mubarak Discount: 100K Instant Funded For $65](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-100k-instant-65/) (Only $65)
+- 2026-05-30 - [Equity Edge Eid Mubarak Promo: 200K Instant Funded For $159](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-200k-instant-159/) (Only $159)
+- 2026-05-29 - [Equity Edge Eid Mubarak Deal: 300K Instant Funded For $299](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-300k-instant-299/) (Only $299)
+- 2026-04-23 - [Equity Edge: 35% Off All Flagship Accounts](https://propfirmdiscount.com/deals/equity-edge/equity-edge-35-percent-off-flagship-accounts/) (35% Off)

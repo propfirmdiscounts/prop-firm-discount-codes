@@ -1,6 +1,6 @@
 # Crypto Fund Trader 22% Off 1-Phase and 2-Phase Challenges
 
-Crypto Fund Trader is offering 22% — discount code **NOICE22**.
+Crypto Fund Trader is offering 22% off — discount code **NOICE22**.
 
 > Crypto Fund Trader is offering a 22% discount on all 1-phase and 2-phase challenges. This promotion reduces the upfront entry cost while keeping all trading rules unchanged.
 
@@ -8,7 +8,7 @@ Crypto Fund Trader is offering 22% — discount code **NOICE22**.
 - Prop firm: Crypto Fund Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - Summary: Secure a 22% discount on all 1-phase and 2-phase evaluation challenges at Crypto Fund Trader. This active promotion strictly reduces the upfront entry fee without modifying any drawdown limits.
-- Offer: 22%
+- Offer: 22% Off
 - Code: NOICE22
 - Scope: 1-Phase, 2-Phase
 - Deal: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/

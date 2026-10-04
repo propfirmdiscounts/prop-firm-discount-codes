@@ -16,15 +16,15 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 ## Current deal: Finotive Funding: 50% Off Evaluation and Instant Funding Accounts
 
 - Published: 2026-10-01
-- Offer: 50%
+- Offer: 50% Off
 - Code: OCT50
 - Scope: Instant Funding, Challenge, Pro accounts, all sizes
 - Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/
 
 ## Current deals (newest first)
 
-- 2026-10-01 - Finotive Funding: 50% Off Evaluation and Instant Funding Accounts (50%)
-- 2026-09-21 - Finotive Funding 50% Off All Evaluation and Instant Funding Accounts (50%)
-- 2026-09-07 - Finotive Funding Labor Day: 40% Off All Evaluation Accounts (40%)
-- 2026-08-15 - Finotive Funding 50% Off All Evaluation Accounts (50%)
-- 2026-08-14 - Finotive Funding 40% Off Instant Accounts Lowers Initial Purchase Price (40%)
+- 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off)
+- 2026-09-21 - [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) (50% Off)
+- 2026-09-07 - [Finotive Funding Labor Day: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) (40% Off)
+- 2026-08-15 - [Finotive Funding 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts/) (50% Off)
+- 2026-08-14 - [Finotive Funding 40% Off Instant Accounts Lowers Initial Purchase Price](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-40-percent-off-instant-accounts/) (40% Off)

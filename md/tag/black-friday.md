@@ -3,9 +3,9 @@
 The newest Black Friday prop firm deal is **Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free** from Upcomers — 90% off (published 2026-09-21). Codes and live offers below, newest first.
 
 Top live offers now:
-- Upcomers — Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free (90%)
-- Hantec Trader — Hantec Trader Cyber Monday Extended: 25% Off All Challenges (25%)
-- Ifunds — Ifunds Black Friday: 10% Off $10k Funded Account (10%)
+- Upcomers — Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free (90% Off)
+- Hantec Trader — Hantec Trader Cyber Monday Extended: 25% Off All Challenges (25% Off)
+- Ifunds — Ifunds Black Friday: 10% Off $10k Funded Account (10% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

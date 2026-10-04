@@ -16,7 +16,7 @@ The verified Earn2Trade discount code is **PFD** — Up to 50% off, works any ti
 ## Current deal: Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle
 
 - Published: 2026-10-01
-- Offer: 50%
+- Offer: 50% Off
 - Code: PFD
 - Scope: All evaluation models, resets, TCP25 bundle
 - Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
@@ -45,8 +45,8 @@ All open bundle accounts will forcibly close and any unused resets will expire e
 
 ## Current deals (newest first)
 
-- 2026-10-01 - Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle (50%)
-- 2026-05-26 - Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts (60%)
-- 2026-04-29 - Earn2Trade: 60% Off All Subscriptions and Updated Reset Pricing (60%)
-- 2026-04-13 - Earn2Trade: 50% Off Subscriptions and Reduced Resets from $65 (50%)
-- 2026-03-27 - Earn2Trade 60% Off Subscriptions and $55-$65 Resets (60%)
+- 2026-10-01 - [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) (50% Off)
+- 2026-05-26 - [Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) (60% Off)
+- 2026-04-29 - [Earn2Trade: 60% Off All Subscriptions and Updated Reset Pricing](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/) (60% Off)
+- 2026-04-13 - [Earn2Trade: 50% Off Subscriptions and Reduced Resets from $65](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/) (50% Off)
+- 2026-03-27 - [Earn2Trade 60% Off Subscriptions and $55-$65 Resets](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) (60% Off)

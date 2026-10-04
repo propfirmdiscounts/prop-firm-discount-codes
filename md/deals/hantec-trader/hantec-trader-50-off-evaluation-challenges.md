@@ -1,6 +1,6 @@
 # Hantec Trader 50% Off Evaluation Challenge Pricing
 
-Hantec Trader is offering 50% — discount code **DROP50**.
+Hantec Trader is offering 50% off — discount code **DROP50**.
 
 > Hantec Trader is offering a 50% discount on standard evaluation challenges, dropping the entry cost while keeping trading rules unchanged. Valid until October 1, 2026.
 
@@ -8,7 +8,7 @@ Hantec Trader is offering 50% — discount code **DROP50**.
 - Prop firm: Hantec Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 - Summary: Reduce your upfront evaluation cost by 50% with this limited-time Hantec Trader promotion. Trading rules and drawdown limits remain completely unchanged. Valid until October 1, 2026.
-- Offer: 50%
+- Offer: 50% Off
 - Code: DROP50
 - Scope: All eligible Challenges, Instant24 excluded, maximum 2 uses per user
 - Deal: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/

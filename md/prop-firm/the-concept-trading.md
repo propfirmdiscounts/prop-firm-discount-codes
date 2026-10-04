@@ -1,6 +1,6 @@
 # The Concept Trading Discount Code
 
-No standing discount code for The Concept Trading right now — the newest deals and campaign offers are below.
+The newest The Concept Trading discount code is **OS26** — 50% off (October 1, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-01
 - Trustpilot: 4.7/5 (471 reviews)
@@ -10,7 +10,7 @@ No standing discount code for The Concept Trading right now — the newest deals
 ## Current deal: The Concept Trading: 50% Off Eligible Evaluations
 
 - Published: 2026-10-01
-- Offer: 50%
+- Offer: 50% Off
 - Code: OS26
 - Scope: eligible programs, Starter model excluded
 - Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/
@@ -35,8 +35,8 @@ Candidates can apply the active promotion at checkout before the midnight deadli
 
 ## Current deals (newest first)
 
-- 2026-10-01 - The Concept Trading: 50% Off Eligible Evaluations (50%)
-- 2026-09-20 - The Concept Trading: 45% Off Challenge Pricing & Intern Retry (45%)
-- 2026-09-16 - The Concept Trading: 35% Off Evaluations & Intern Retry (35%)
-- 2026-09-08 - The Concept Trading 25% Off Evaluation Accounts: Pricing Overview (25%)
-- 2026-09-03 - The Concept Trading Flash Sale: 30% Off Eligible Evaluations (30%)
+- 2026-10-01 - [The Concept Trading: 50% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/) (50% Off)
+- 2026-09-20 - [The Concept Trading: 45% Off Challenge Pricing & Intern Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-45-off-intern-retry/) (45% Off)
+- 2026-09-16 - [The Concept Trading: 35% Off Evaluations & Intern Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-intern-retry/) (35% Off)
+- 2026-09-08 - [The Concept Trading 25% Off Evaluation Accounts: Pricing Overview](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-25-off-eligible-programs/) (25% Off)
+- 2026-09-03 - [The Concept Trading Flash Sale: 30% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-flash-sale/) (30% Off)

@@ -16,15 +16,15 @@ The verified Fintokei discount code is **THODO5** — Up to 5% off, works any ti
 ## Current deal: Fintokei Discount Code: Save 20% on All Challenges
 
 - Published: 2025-09-05
-- Offer: 20%
+- Offer: 20% Off
 - Code: NEW20
 - Scope: All Challenges
 - Deal page: https://propfirmdiscount.com/deals/fintokei/fintokei-discount-code-save-20-on-all-challenges/
 
 ## Current deals (newest first)
 
-- 2026-09-15 - Fintokei 25% Off SwiftTrader Accounts up to $50,000 Lowers Entry Fee (25%)
-- 2026-09-11 - Fintokei: 10% Off ProTrader $50,000 Challenges Plus Free $5,000 Account (10%)
-- 2026-09-09 - Fintokei 2x First Payout Bonus Capped at 4x Purchase Price: Terms to Consider (2x First Payout)
-- 2026-08-17 - Fintokei 25% Off ProTrader Swing Challenges Up To $50,000 (25%)
-- 2026-07-14 - Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee) (30%)
+- 2026-09-15 - [Fintokei 25% Off SwiftTrader Accounts up to $50,000 Lowers Entry Fee](https://propfirmdiscount.com/deals/fintokei/fintokei-swifttrader-25-percent-discount/) (25% Off)
+- 2026-09-11 - [Fintokei: 10% Off ProTrader $50,000 Challenges Plus Free $5,000 Account](https://propfirmdiscount.com/deals/fintokei/fintokei-10-discount-free-5k-account-protrader/) (10% Off)
+- 2026-09-09 - [Fintokei 2x First Payout Bonus Capped at 4x Purchase Price: Terms to Consider](https://propfirmdiscount.com/deals/fintokei/fintokei-protrader-2x-first-payout/) (2x First Payout)
+- 2026-08-17 - [Fintokei 25% Off ProTrader Swing Challenges Up To $50,000](https://propfirmdiscount.com/deals/fintokei/fintokei-25-off-protrader-swing/) (25% Off)
+- 2026-07-14 - [Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee)](https://propfirmdiscount.com/deals/fintokei/fintokei-summer-30-off-protrader-5k/) (30% Off)

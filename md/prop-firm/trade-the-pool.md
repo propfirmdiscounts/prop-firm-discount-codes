@@ -16,14 +16,14 @@ The verified Trade The Pool discount code is **WWS4GW** — Up to 10% off, works
 ## Current deal: Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts
 
 - Published: 2026-09-02
-- Offer: 15%
+- Offer: 15% Off
 - Scope: all accounts, all sizes, all models
 - Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
 
 ## Current deals (newest first)
 
-- 2026-09-02 - Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts (15%)
-- 2026-07-24 - Trade The Pool: Upgraded $60K and $120K Flex Accounts
-- 2026-07-21 - Trade The Pool 48-Hour Deal: $60K and $120K Buying Power Flex Accounts
-- 2026-06-17 - Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts (Free Second Attempt)
-- 2026-06-09 - Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026 (Free retry credit)
+- 2026-09-02 - [Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) (15% Off)
+- 2026-07-24 - [Trade The Pool: Upgraded $60K and $120K Flex Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/)
+- 2026-07-21 - [Trade The Pool 48-Hour Deal: $60K and $120K Buying Power Flex Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/)
+- 2026-06-17 - [Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) (Free Second Attempt)
+- 2026-06-09 - [Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) (Free retry credit)

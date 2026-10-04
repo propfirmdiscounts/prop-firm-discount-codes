@@ -16,15 +16,15 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 ## Current deal: Funding Traders Discount – 30% Off All Challenges (September 2025)
 
 - Published: 2025-09-05
-- Offer: 30%
+- Offer: 30% Off
 - Code: PFD
 - Scope: All Challenges
 - Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-august-payout-recap-30-off-or-20-off-90-ps/
 
 ## Current deals (newest first)
 
-- 2026-09-13 - FundingTraders 50% Off 100k+ Accounts Evaluation Cost Decision (50%)
-- 2026-09-10 - FundingTraders 50% Discount on All Accounts Lowers Challenge Pricing (50%)
-- 2026-09-08 - RebelsFunding: 70% Off $5,000 2-Phase Silver Evaluation (70%)
-- 2026-09-08 - FundingTraders: Buy 1 Get 3 Evaluation Accounts Promotion (Buy 1 Get 3)
-- 2026-09-08 - FundingTraders: 55% Off All Accounts Plus 200% Refund Rate (55%)
+- 2026-09-13 - [FundingTraders 50% Off 100k+ Accounts Evaluation Cost Decision](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-accounts-2/) (50% Off)
+- 2026-09-10 - [FundingTraders 50% Discount on All Accounts Lowers Challenge Pricing](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-percent-discount-all-accounts-2/) (50% Off)
+- 2026-09-08 - [RebelsFunding: 70% Off $5,000 2-Phase Silver Evaluation](https://propfirmdiscount.com/deals/fundingtraders/70-off-5000-silver-evaluation/) (70% Off)
+- 2026-09-08 - [FundingTraders: Buy 1 Get 3 Evaluation Accounts Promotion](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-evaluations/) (Buy 1 Get 3)
+- 2026-09-08 - [FundingTraders: 55% Off All Accounts Plus 200% Refund Rate](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-55-off-evaluations/) (55% Off)

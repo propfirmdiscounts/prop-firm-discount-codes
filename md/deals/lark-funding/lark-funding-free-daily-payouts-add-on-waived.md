@@ -1,6 +1,6 @@
 # Lark Funding: Free Daily Payouts Add-On (30% Fee Waived) on All Programs
 
-Lark Funding is offering 100% — discount code **DAILYLARK**.
+Lark Funding is offering 100% off — discount code **DAILYLARK**.
 
 > This limited-time promotion waives the 30% premium for the daily payouts add-on on all evaluation models. Valid until September 14.
 
@@ -8,7 +8,7 @@ Lark Funding is offering 100% — discount code **DAILYLARK**.
 - Prop firm: Lark Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 - Summary: Waives the 30% daily payouts add-on fee across all account sizes until September 14. This promotion reduces initial entry costs but leaves all evaluation trading rules entirely unchanged.
-- Offer: 100%
+- Offer: 100% Off
 - Code: DAILYLARK
 - Scope: All programs, all account sizes, daily payouts add-on
 - Deal: https://propfirmdiscount.com/deals/lark-funding/lark-funding-free-daily-payouts-add-on-waived/

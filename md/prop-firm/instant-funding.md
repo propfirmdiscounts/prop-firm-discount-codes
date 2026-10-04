@@ -16,7 +16,7 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 ## Current deal: Instant Funding 40% Off Micro Lite Accounts Up to $25K
 
 - Published: 2026-10-02
-- Offer: 40%
+- Offer: 40% Off
 - Code: LITE40
 - Scope: Micro Lite, Up to $25K, Direct Funding
 - Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/
@@ -45,8 +45,8 @@ Traders can choose between MT5, Match Trader and cTrader platforms.
 
 ## Current deals (newest first)
 
-- 2026-10-02 - Instant Funding 40% Off Micro Lite Accounts Up to $25K (40%)
-- 2026-09-22 - Instant Funding: 37.5% Off IF Micro Account Purchase Cost (37%)
-- 2026-09-21 - Instant Funding: 10% Off All Evolve Evaluation Accounts (10%)
-- 2026-09-11 - Instant Funding 30% Discount & Free 90% Profit Split Evaluation Pricing (30%)
-- 2026-09-11 - Instant Funding 40% Off One-Phase Clarity Evaluations (40%)
+- 2026-10-02 - [Instant Funding 40% Off Micro Lite Accounts Up to $25K](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) (40% Off)
+- 2026-09-22 - [Instant Funding: 37.5% Off IF Micro Account Purchase Cost](https://propfirmdiscount.com/deals/instant-funding/instant-funding-37-5-percent-discount-if-micro/) (37% Off)
+- 2026-09-21 - [Instant Funding: 10% Off All Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-10-off-evolve-evaluations/) (10% Off)
+- 2026-09-11 - [Instant Funding 30% Discount & Free 90% Profit Split Evaluation Pricing](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-discount-90-profit-split/) (30% Off)
+- 2026-09-11 - [Instant Funding 40% Off One-Phase Clarity Evaluations](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-one-phase-clarity/) (40% Off)

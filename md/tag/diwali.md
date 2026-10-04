@@ -4,8 +4,8 @@ The newest Diwali prop firm deal is **Diwali 2025 Prop Firm Discount Codes & Dea
 
 Top live offers now:
 -  — Diwali 2025 Prop Firm Discount Codes & Deals — Roundup
-- PipFarm — PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) (40%)
-- QT Funded — QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 (30%)
+- PipFarm — PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) (40% Off)
+- QT Funded — QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 (30% Off)
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # WSFunded 50% Off All Challenges & New 2% Target Accounts
 
-WSFunded is offering 50% — discount code **FLASH50**.
+WSFunded is offering 50% off — discount code **FLASH50**.
 
 > WSFunded offers a 50% reduction on all challenge costs, including the new Flash accounts with a 2% profit target. The offer lowers upfront fees but risk rules remain unchanged.
 
@@ -8,7 +8,7 @@ WSFunded is offering 50% — discount code **FLASH50**.
 - Prop firm: WSFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 - Summary: Secure a 50% discount on all evaluation entry costs, including the newly launched Flash challenge featuring a 2% profit target. Risk rules remain fully in place.
-- Offer: 50%
+- Offer: 50% Off
 - Code: FLASH50
 - Scope: All challenges, Flash accounts, 2% profit target
 - Deal: https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/
