@@ -153,6 +153,32 @@ jobs:
           PY
           sed -i "s|Last synced: .*|Last synced: $STAMP (auto, hourly)|" README.md
 
+      - name: Push Hugging Face mirror
+        # HF dataset mirror (propfirmdiscounts/prop-firm-discount-codes):
+        # same content as this repo, on a second distribution channel.
+        # Runs after the GitHub commit so HF never gets content that failed
+        # to land here first. Skipped silently when HF_TOKEN is unset.
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        if: env.HF_TOKEN != ''
+        run: |
+          set -euo pipefail
+          pip install --quiet 'huggingface_hub>=2.0'
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ['HF_TOKEN'])
+          repo = 'propfirmdiscounts/prop-firm-discount-codes'
+          for folder in ('datasets', 'md'):
+              api.upload_folder(folder_path=folder, path_in_repo=folder,
+                                repo_id=repo, repo_type='dataset',
+                                commit_message='Hourly sync')
+          for f in ('llms.txt', 'ai.txt', 'README.md'):
+              api.upload_file(path_or_fileobj=f, path_in_repo=f,
+                              repo_id=repo, repo_type='dataset',
+                              commit_message='Hourly sync')
+          PY
+
       - name: Commit and push
         run: |
           set -euo pipefail
