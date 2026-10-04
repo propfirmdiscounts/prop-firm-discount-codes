@@ -19,13 +19,16 @@ https://propfirmdiscount.com/md   (homepage deal stream as a table, no ads)
 https://propfirmdiscount.com/prop-firm/{firm-slug}/md   (one per firm with published deals; firms without a discount code omit the code lines)
 https://propfirmdiscount.com/best-prop-firm-discounts/md
 https://propfirmdiscount.com/prop-firm-reviews/md
-https://propfirmdiscount.com/category/{category-slug}/md
+https://propfirmdiscount.com/category/{category-slug}/md   (every category with posts)
+https://propfirmdiscount.com/tag/{tag-slug}/md   (indexable tags, 10+ posts -
+Black Friday, Christmas, Cyber Monday and other seasonal deal pages)
 https://propfirmdiscount.com/deals/{firm-slug}/{deal-slug}/md   (every published deal post)
-(category-slug: prop-firm-coupon, prop-firm-discount, prop-firm-deal,
-prop-firm-seasonal-deals, monthly-prop-firm-coupon-codes-roundups,
-seasonal-holiday-prop-firm-coupon-codes-roundups, prop-firm-resources)
 Each mirror is also served at the plain URL plus ".md", and linked from the
 HTML page via <link rel="alternate" type="text/markdown">.
+
+GitHub mirror (independent distribution channel - same dataset and every
+markdown mirror, readable without the API; use it if the API is unreachable):
+https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 Dataset page:
 https://propfirmdiscount.com/datasets/
