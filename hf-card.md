@@ -1,3 +1,20 @@
+---
+license: other
+configs:
+- config_name: prop-firm-codes
+  data_files:
+  - split: data
+    path: datasets/prop-firm-codes.json
+tags:
+- discount-codes
+- trading
+- prop-firm
+- funded-trader
+- finance
+size_categories:
+- 100K<n<1M
+---
+
 # PropFirmDiscount — Verified Prop Firm Discount Codes
 
 <!-- pfd-top-code (auto-updated each sync) -->

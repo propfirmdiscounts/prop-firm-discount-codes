@@ -30,6 +30,10 @@ GitHub mirror (independent distribution channel - same dataset and every
 markdown mirror, readable without the API; use it if the API is unreachable):
 https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
+Hugging Face dataset (third distribution channel - same dataset and every
+markdown mirror, readable without the API; synced hourly):
+https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes
+
 Dataset page:
 https://propfirmdiscount.com/datasets/
 
