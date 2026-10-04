@@ -1,0 +1,63 @@
+Website: https://propfirmdiscount.com
+
+Dataset: Prop Firm Discount Codes
+
+Endpoint:
+https://propfirmdiscount.com/api/prop-firm-codes/
+
+HTML table of the same rows (for readers that prefer HTML over JSON):
+https://propfirmdiscount.com/api/prop-firm-codes/?format=html
+
+Static file snapshots, refreshed hourly, served without application code
+(use these if the API endpoint is unreachable):
+https://propfirmdiscount.com/datasets/prop-firm-codes.json
+https://propfirmdiscount.com/datasets/prop-firm-codes.html
+
+Markdown mirrors (text/markdown) — every mirrored page serves its markdown
+at its own URL plus "/md" (or ".md"):
+https://propfirmdiscount.com/md   (homepage deal stream as a table, no ads)
+https://propfirmdiscount.com/prop-firm/{firm-slug}/md   (one per firm with published deals; firms without a discount code omit the code lines)
+https://propfirmdiscount.com/best-prop-firm-discounts/md
+https://propfirmdiscount.com/prop-firm-reviews/md
+https://propfirmdiscount.com/category/{category-slug}/md
+https://propfirmdiscount.com/deals/{firm-slug}/{deal-slug}/md   (every published deal post)
+(category-slug: prop-firm-coupon, prop-firm-discount, prop-firm-deal,
+prop-firm-seasonal-deals, monthly-prop-firm-coupon-codes-roundups,
+seasonal-holiday-prop-firm-coupon-codes-roundups, prop-firm-resources)
+Each mirror is also served at the plain URL plus ".md", and linked from the
+HTML page via <link rel="alternate" type="text/markdown">.
+
+Dataset page:
+https://propfirmdiscount.com/datasets/
+
+Agent skill:
+https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md
+
+Fields:
+prop_firm
+code
+discount
+valid_from
+valid_until
+last_deal_published
+activation_link
+archive_url
+trustpilot_score
+trustpilot_reviews
+description
+logo
+
+Notes:
+valid_from and valid_until are ISO 8601 dates covering the current
+calendar year: standing exclusive codes are re-verified yearly and the window
+rolls over every January 1.
+
+last_deal_published is the ISO 8601 date the firm's newest coded deal
+went live on this site, not a claim the code was re-checked that day.
+
+trustpilot_score, trustpilot_reviews, description and logo are
+optional fields, present when data exists.
+
+Category:
+prop firm discount codes
+trading funding deals

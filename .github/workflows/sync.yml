@@ -1,0 +1,168 @@
+name: Hourly Sync
+
+on:
+  schedule:
+    # Hourly at minute 31 (offset from busy :00 slots).
+    - cron: '31 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mirror repo
+        uses: actions/checkout@v4
+
+      - name: Fetch dataset
+        run: |
+          set -euo pipefail
+          # Cache-bust query: Cloudflare caches the canonical API URLs for
+          # well over their max-age=300, so a fresh deploy can sit behind a
+          # stale edge copy for hours. A per-run timestamp makes the URL
+          # unique per run and always hits origin.
+          BUST="t=$(date +%s)"
+          curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/api/prop-firm-codes/?$BUST" -o datasets/prop-firm-codes.json
+          curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/api/prop-firm-codes/?format=html&$BUST" -o datasets/prop-firm-codes.html
+
+      - name: Fetch markdown mirrors
+        run: |
+          set -euo pipefail
+          MD_PATHS=(
+            ""
+            "best-prop-firm-discounts"
+            "prop-firms-list"
+            "prop-firm-reviews"
+          )
+          # Every category with posts mirrors on the site; the category
+          # sitemap (hide_empty) is exactly that list.
+          MD_PATHS+=($(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/category-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|^https://propfirmdiscount.com/||;s|/$||' | sed 's|^category/|category/|'))
+          # Indexable tags (>= 10 posts) — same list the tag sitemap carries.
+          MD_PATHS+=($(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/tag-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|^https://propfirmdiscount.com/||;s|/$||'))
+          FIRM_SLUGS=$(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/dealstore-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|.*/prop-firm/||;s|/$||')
+          mkdir -p md
+          for p in "${MD_PATHS[@]}"; do
+            name="${p:-home}"
+            mkdir -p "md/$(dirname "$name")"
+            curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/$p/md" -o "md/$name.md" || echo "WARN: no mirror at /$p/md"
+          done
+          # Drop category/tag mirrors no longer in the sitemaps. rel matches
+          # MD_PATHS exactly (no leading slash — deal-paths.txt is the only
+          # list that keeps one, its URLs being absolute paths).
+          find md/category md/tag -name '*.md' -print0 2>/dev/null | while IFS= read -r -d '' f; do
+            rel="${f#md/}"
+            rel="${rel%.md}"
+            echo "${MD_PATHS[*]}" | tr ' ' '\n' | grep -qx "$rel" || rm "$f"
+          done
+          find md/category md/tag -type d -empty -delete 2>/dev/null || true
+          for slug in $FIRM_SLUGS; do
+            mkdir -p md/prop-firm
+            curl -sf --retry 2 --retry-delay 15 "https://propfirmdiscount.com/prop-firm/$slug/md" -o "md/prop-firm/$slug.md" || echo "WARN: no mirror for $slug"
+          done
+          # Drop firm mirrors for terms no longer in the dealstore sitemap.
+          for f in md/prop-firm/*.md; do
+            slug="$(basename "$f" .md)"
+            echo "$FIRM_SLUGS" | grep -qx "$slug" || rm "$f"
+          done
+
+      - name: Fetch deal-post mirrors (latest deal per firm)
+        run: |
+          set -euo pipefail
+          # Deal-post mirrors, ONE per firm: the firm's newest deal
+          # (highest lastmod in the deal sitemap). The site serves /md for
+          # every published deal post; this repo keeps only the newest of
+          # each firm so the mirror tree stays small — md/ {count of firms}
+          # files instead of one file per deal.
+          curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/deal-sitemap.xml -o deal-sitemap.xml
+          python3 -c "
+          import re
+          xml = open('deal-sitemap.xml', encoding='utf-8').read()
+          newest = {}
+          for loc, lastmod in re.findall(r'<loc>([^<]+)</loc>\s*<lastmod>([^<]+)</lastmod>', xml):
+              path = loc.strip().rstrip('/').replace('https://propfirmdiscount.com', '')
+              m = re.match(r'^/deals/([a-z0-9-]+)/', path)
+              if m and (m.group(1) not in newest or lastmod > newest[m.group(1)][0]):
+                  newest[m.group(1)] = (lastmod, path)
+          for lastmod, path in newest.values():
+              print(path)
+          " > deal-paths.txt
+          rm -f deal-sitemap.xml
+          DEAL_PATHS=$(cat deal-paths.txt)
+          echo "Mirroring $(echo "$DEAL_PATHS" | grep -c .) firm-latest deals"
+          echo "$DEAL_PATHS" | while read -r p; do
+            [ -n "$p" ] || continue
+            mkdir -p "md$(dirname "$p")"
+            curl -sf --retry 2 --retry-delay 15 "https://propfirmdiscount.com$p/md" -o "md$p.md" || echo "WARN: no mirror at $p/md"
+          done
+          # Keep exactly one deal mirror per firm: anything under md/deals/
+          # that is not this run's firm-latest path goes.
+          find md/deals -name '*.md' -print0 2>/dev/null | while IFS= read -r -d '' f; do
+            rel="${f#md}"
+            rel="${rel%.md}"
+            echo "$DEAL_PATHS" | grep -qx "$rel" || rm "$f"
+          done
+          find md/deals -type d -empty -delete 2>/dev/null || true
+
+      - name: Fetch discovery files
+        run: |
+          set -euo pipefail
+          curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/llms.txt -o llms.txt
+          curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/ai.txt -o ai.txt
+
+      - name: Update README answer-unit and sync stamp
+        run: |
+          set -euo pipefail
+          STAMP="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Answer-unit: the biggest standing code in the dataset, so the
+          # repo's front page (GitHub renders README.md on the repo root —
+          # its highest-authority URL) always leads with a quotable answer.
+          # Falls back to leaving the previous line untouched if python
+          # cannot parse the dataset.
+          python3 - <<'PY' || true
+          import json, re
+          try:
+              payload = json.load(open('datasets/prop-firm-codes.json', encoding='utf-8'))
+          except Exception:
+              raise SystemExit(0)
+          rows = payload if isinstance(payload, list) else payload.get('data', [])
+          best, best_pct = None, -1.0
+          for r in rows:
+              m = re.search(r'(\d+(?:\.\d+)?)\s*%', str(r.get('discount') or ''))
+              if m and float(m.group(1)) > best_pct:
+                  best_pct, best = float(m.group(1)), r
+          if not best:
+              raise SystemExit(0)
+          disc = str(best.get('discount') or '').strip()
+          if re.match(r'^\d+(?:\.\d+)?\s*%$', disc):
+              disc += ' off'
+          line = ("As of {date}, the biggest verified prop firm discount code is "
+                  "**{code}** from {firm} — {disc}. Every firm's code is listed below, "
+                  "newest deals first.").format(
+              date=STAMP[:10], code=best.get('code') or '', firm=best.get('prop_firm') or '',
+              disc=disc)
+          md = open('README.md', encoding='utf-8').read()
+          md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n).*?(?=\n\n)',
+                      lambda _: line, md, count=1)
+          open('README.md', 'w', encoding='utf-8').write(md)
+          PY
+          sed -i "s|Last synced: .*|Last synced: $STAMP (auto, hourly)|" README.md
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -m "Hourly snapshot of the public dataset and markdown mirrors."
+          git push

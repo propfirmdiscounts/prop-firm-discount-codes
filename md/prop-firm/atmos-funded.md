@@ -1,0 +1,24 @@
+# Atmos Funded Discount Code
+
+No standing discount code for Atmos Funded right now — the newest deals and campaign offers are below.
+
+- Last deal published: 2026-09-17
+- Trustpilot: 3.6/5 (350 reviews)
+- Activate: https://propfirmdiscount.com/go/atmosfunded
+- Firm page: https://propfirmdiscount.com/prop-firm/atmos-funded/
+
+## Current deal: Atmos Funded Promo: 45% OFF 5K–25K & 27.5% OFF 50K–200K Challenges (ends September 14th)
+
+- Published: 2025-09-11
+- Offer: 45%
+- Code: LEVELUP
+- Scope: all 5K, 10K, 25K challenge accounts
+- Deal page: https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-promo-45-off-5k-25k-27-5-off-50k-200k-challenges-ends-september-14th/
+
+## Current deals (newest first)
+
+- 2026-07-28 - Atmos Funded 20% Off Evaluation Account Purchase Cost (20%)
+- 2026-06-08 - Atmos Funded 25% Off 1-Step, 2-Step, and Instant Funding Accounts (25%)
+- 2026-06-03 - Atmos Funded 30% Off Challenge Fee (30%)
+- 2026-06-03 - Atmos Funded 25% Off Upfront Entry Fee (25%)
+- 2026-06-02 - Atmos Funded 15% Off Evaluation Cost (15%)

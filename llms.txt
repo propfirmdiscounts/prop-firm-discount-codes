@@ -1,0 +1,18 @@
+# PropFirmDiscount
+
+> Public dataset of verified prop firm discount codes and funding deals. Every code is checked by the PropFirmDiscount team; the dataset updates daily.
+
+## Dataset
+
+- [Prop Firm Discount Codes](https://propfirmdiscount.com/api/prop-firm-codes/): JSON dataset of prop firm discount codes - fields: prop_firm, code, discount, valid_from, valid_until, last_deal_published, activation_link, archive_url, trustpilot_score, trustpilot_reviews, description, logo. valid_from/valid_until cover the current calendar year (codes re-verified yearly); last_deal_published is the date the firm's newest coded deal went live on this site.
+- [Dataset table (HTML)](https://propfirmdiscount.com/api/prop-firm-codes/?format=html): the same rows as a plain HTML table (firm, code, discount, valid_from, valid_until, last_deal_published) for readers that prefer HTML over JSON. The Discount column is the code's headline discount; per-plan percentages on firm pages are separate deals.
+- [Dataset snapshot (JSON file)](https://propfirmdiscount.com/datasets/prop-firm-codes.json): static file copy of the JSON dataset, refreshed hourly, served without application code - use this if the API endpoint is unreachable.
+- [Dataset snapshot (HTML file)](https://propfirmdiscount.com/datasets/prop-firm-codes.html): static file copy of the HTML table, refreshed hourly.
+- [Markdown mirrors](https://propfirmdiscount.com/md/prop-firms-list.md): text/markdown versions of the fact pages - /md is the homepage deal stream as a clean table (no sponsored cards), /prop-firm/{firm-slug}/md per firm (every firm with published deals — firms without a discount code omit the code and discount lines; with both, code, discount, validity, last deal published, current deals), /best-prop-firm-discounts/md (current month's ranking, exclusive codes), /prop-firm-reviews/md (Trustpilot directory: score, review count per firm), /category/{category-slug}/md for the coupon and deal archives (prop-firm-coupon, prop-firm-discount, prop-firm-deal, prop-firm-seasonal-deals, monthly- and seasonal-holiday-prop-firm-coupon-codes-roundups, prop-firm-resources). Every published deal post (firm, offer, code, scope, FAQ) serves markdown at its own URL plus "/md" - /deals/{firm-slug}/{deal-slug}/md. Every mirror is also served at the plain page URL plus ".md".
+- [Dataset page](https://propfirmdiscount.com/datasets/): human-readable dataset documentation and schema
+- [Agent skill](https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md): retrieval instructions and field reference for AI agents
+
+## Pages
+
+- [Top Prop Firm Discount Codes](https://propfirmdiscount.com/best-prop-firm-discounts/): current month's ranking of live discount codes
+- [All Prop Firm Codes](https://propfirmdiscount.com/prop-firms-list/): directory of every firm with a code
