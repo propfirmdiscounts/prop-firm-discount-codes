@@ -173,10 +173,33 @@ jobs:
               api.upload_folder(folder_path=folder, path_in_repo=folder,
                                 repo_id=repo, repo_type='dataset',
                                 commit_message='Hourly sync')
-          for f in ('llms.txt', 'ai.txt', 'README.md'):
+          for f in ('llms.txt', 'ai.txt'):
               api.upload_file(path_or_fileobj=f, path_in_repo=f,
                               repo_id=repo, repo_type='dataset',
                               commit_message='Hourly sync')
+          # HF README must keep the dataset-card frontmatter (tags, configs)
+          # or the dataset drops out of HF search; the repo README has none.
+          front = ('---\n'
+                   'license: other\n'
+                   'configs:\n'
+                   '- config_name: prop-firm-codes\n'
+                   '  data_files:\n'
+                   '  - split: data\n'
+                   '    path: datasets/prop-firm-codes.json\n'
+                   'tags:\n'
+                   '- discount-codes\n'
+                   '- trading\n'
+                   '- prop-firm\n'
+                   '- funded-trader\n'
+                   '- finance\n'
+                   'size_categories:\n'
+                   '- 100K<n<1M\n'
+                   '---\n\n')
+          body = open('README.md', encoding='utf-8').read()
+          open('hf-card.md', 'w', encoding='utf-8').write(front + body)
+          api.upload_file(path_or_fileobj='hf-card.md', path_in_repo='README.md',
+                          repo_id=repo, repo_type='dataset',
+                          commit_message='Hourly sync')
           PY
 
       - name: Commit and push
