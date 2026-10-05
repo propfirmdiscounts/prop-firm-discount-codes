@@ -11,13 +11,13 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 1 | FundingTraders | PFD | 81% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 2 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 5 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 6 | Titan Capital | T55 | 55% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
-| 7 | Direct Funded Trader | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 8 | Earn2Trade | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 9 | WSFunded | FLASH50 | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 10 | The Concept Trading | OS26 | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
+| 4 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 5 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 6 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
+| 7 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 8 | Titan Capital | T55 | 55% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
+| 9 | Direct Funded Trader | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 10 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -25,9 +25,9 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 4 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 5 | Top One Futures | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | 6 | Lucid Trading | PFD | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 7 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 8 | Blue Guardian | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
@@ -42,9 +42,12 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 2026-10-05 | For Traders | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
 | 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% Off | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |
 | 2026-10-05 | Direct Funded Trader | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% Off | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |
+| 2026-10-05 | E8 Markets | E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts | 50% Off | https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% Off | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
 | 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For â‚¬29.50 (50% Off) | 50% Off | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
+| 2026-10-04 | TradeDay | TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis | 60% Off | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/ |
+| 2026-10-04 | Top One Futures | Top One Futures: 60% Off Elite Daily & Instant Funding | 60% Off | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |
 | 2026-10-03 | WeMasterTrade | WeMasterTrade Flash Sale: 30% Off All Evaluation Packages | 30% Off | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/ |
 | 2026-10-03 | FXIFY | FXIFY 25% Off Evaluation Accounts | 25% Off | https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/ |
 | 2026-10-02 | Blue Guardian | Blue Guardian: 50% Off Futures Accounts Starting at $59 | 50% Off | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/ |
@@ -65,6 +68,3 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 2026-10-01 | QT Funded | QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account | 60% Off | https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/ |
 | 2026-10-01 | FundedNext | FundedNext Lowered Pricing: Stellar Accounts From $29.99 | Only $29.99 | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/ |
 | 2026-10-01 | AquaFunded | AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund | 25% Off | https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/ |
-| 2026-10-01 | Finotive Funding | Finotive Funding: 50% Off Evaluation and Instant Funding Accounts | 50% Off | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/ |
-| 2026-10-01 | Funded Hero | Funded Hero 65% Off Evaluation Accounts | 65% Off | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/ |
-| 2026-10-01 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Every Classic Size Evaluation | 30% Off | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/ |
