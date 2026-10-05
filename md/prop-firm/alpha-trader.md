@@ -5,7 +5,7 @@ The newest Alpha Trader Firm discount code is **HALLOWEEN** — 50% off (October
 > Alpha funded is a trader-first evaluation firm built on transparency, fairness, and reliability. We provide clear rules, fast support, and a stable environment where skilled traders can grow with confidence. Trusted by thousands. Built for traders who take their craft seriously. Check out our blog for tips and updates: https://blogs.alphafunded.com
 
 - Last deal published: 2026-10-01
-- Trustpilot: 4.7/5 (1228 reviews)
+- Trustpilot: 4.7/5 (1229 reviews)
 - Activate: https://propfirmdiscount.com/go/alphatrader
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 

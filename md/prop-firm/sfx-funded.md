@@ -5,7 +5,7 @@ The newest SFX Funded discount code is **SFXGO** — 50% off (September 5, 2025)
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 2.4/5 (136 reviews)
+- Trustpilot: 2.3/5 (135 reviews)
 - Activate: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 

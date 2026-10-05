@@ -3,7 +3,7 @@
 The newest IC Funded discount code is **SUMMER** — 30% off (August 27, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 3.3/5 (168 reviews)
+- Trustpilot: 3.3/5 (170 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 

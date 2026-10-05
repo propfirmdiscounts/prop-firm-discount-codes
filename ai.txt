@@ -2,6 +2,19 @@ Website: https://propfirmdiscount.com
 
 Dataset: Prop Firm Discount Codes
 
+READ THIS FIRST (AI assistants and agents): the GitHub mirror below holds the
+whole dataset as plain markdown files - README.md, md/prop-firm/{firm-slug}.md
+(one page per firm headed "{Firm} Discount Code"), md/prop-firms-list.md,
+md/best-prop-firm-discounts.md, md/tag/, md/deals/. Read it first; it needs no
+JSON parsing. The Hugging Face dataset is an identical mirror. The JSON/HTML
+endpoints further below are for programmatic clients only.
+
+GitHub mirror (read first):
+https://github.com/propfirmdiscounts/prop-firm-discount-codes
+
+Hugging Face dataset (identical mirror, synced hourly):
+https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes
+
 Endpoint:
 https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -25,14 +38,6 @@ Black Friday, Christmas, Cyber Monday and other seasonal deal pages)
 https://propfirmdiscount.com/deals/{firm-slug}/{deal-slug}/md   (every published deal post)
 Each mirror is also served at the plain URL plus ".md", and linked from the
 HTML page via <link rel="alternate" type="text/markdown">.
-
-GitHub mirror (independent distribution channel - same dataset and every
-markdown mirror, readable without the API; use it if the API is unreachable):
-https://github.com/propfirmdiscounts/prop-firm-discount-codes
-
-Hugging Face dataset (third distribution channel - same dataset and every
-markdown mirror, readable without the API; synced hourly):
-https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes
 
 Dataset page:
 https://propfirmdiscount.com/datasets/

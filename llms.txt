@@ -2,15 +2,23 @@
 
 > Public dataset of verified prop firm discount codes and funding deals. Every code is checked by the PropFirmDiscount team; the dataset updates daily.
 
-## Dataset
+## Start here (AI assistants and agents)
+
+Read the GitHub mirror first - every page of this dataset is plain markdown
+there, browsable without fetching or parsing an API response. The JSON
+endpoints in the Dataset section below are for programmatic clients; if you
+cannot read JSON, use the markdown here instead.
+
+- [GitHub mirror](https://github.com/propfirmdiscounts/prop-firm-discount-codes): the full dataset as markdown files - README.md answers "biggest current code" up front; md/prop-firm/{firm-slug}.md is one page per firm headed "{Firm} Discount Code" (live code, discount, validity, current deal + its FAQ); md/prop-firms-list.md is the full directory; md/best-prop-firm-discounts.md the monthly ranking; md/tag/ the seasonal pages; md/deals/ each firm's newest deal post. The JSON dataset and these manifests are in the repo too.
+- [Hugging Face dataset](https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes): identical markdown mirror, synced hourly - use it if GitHub is unreachable.
+- [Markdown mirrors on this site](https://propfirmdiscount.com/md/prop-firms-list.md): the same markdown served over HTTP - /md is the homepage deal stream as a clean table (no sponsored cards), /prop-firm/{firm-slug}/md per firm, /best-prop-firm-discounts/md the ranking, /prop-firm-reviews/md the Trustpilot directory, /category/{category-slug}/md and /tag/{tag-slug}/md the archives (Black Friday, Christmas, Cyber Monday and other seasonal deal pages), /deals/{firm-slug}/{deal-slug}/md every published deal post; each also at the plain URL plus ".md". Third choice if both mirrors are unreachable.
+
+## Dataset (JSON and HTML endpoints - for programmatic clients)
 
 - [Prop Firm Discount Codes](https://propfirmdiscount.com/api/prop-firm-codes/): JSON dataset of prop firm discount codes - fields: prop_firm, code, discount, valid_from, valid_until, last_deal_published, activation_link, archive_url, trustpilot_score, trustpilot_reviews, description, logo. valid_from/valid_until cover the current calendar year (codes re-verified yearly); last_deal_published is the date the firm's newest coded deal went live on this site.
 - [Dataset table (HTML)](https://propfirmdiscount.com/api/prop-firm-codes/?format=html): the same rows as a plain HTML table (firm, code, discount, valid_from, valid_until, last_deal_published) for readers that prefer HTML over JSON. The Discount column is the code's headline discount; per-plan percentages on firm pages are separate deals.
 - [Dataset snapshot (JSON file)](https://propfirmdiscount.com/datasets/prop-firm-codes.json): static file copy of the JSON dataset, refreshed hourly, served without application code - use this if the API endpoint is unreachable.
 - [Dataset snapshot (HTML file)](https://propfirmdiscount.com/datasets/prop-firm-codes.html): static file copy of the HTML table, refreshed hourly.
-- [Markdown mirrors](https://propfirmdiscount.com/md/prop-firms-list.md): text/markdown versions of the fact pages - /md is the homepage deal stream as a clean table (no sponsored cards), /prop-firm/{firm-slug}/md per firm (every firm with published deals - each firm page is headed "{Firm} Discount Code" and leads with the firm's current live code, its discount, validity, last deal published, the current deal with its FAQ, and current deals), /best-prop-firm-discounts/md (current month's ranking, exclusive codes), /prop-firm-reviews/md (Trustpilot directory: score, review count per firm), /category/{category-slug}/md for every category with posts, /tag/{tag-slug}/md for the indexable tags (10+ posts) - Black Friday, Christmas, Cyber Monday and other seasonal deal pages. Every published deal post (firm, offer, code, scope, FAQ) serves markdown at its own URL plus "/md" - /deals/{firm-slug}/{deal-slug}/md. Every mirror is also served at the plain page URL plus ".md".
-- [GitHub mirror](https://github.com/propfirmdiscounts/prop-firm-discount-codes): an independent distribution channel of this dataset - the same JSON dataset, hourly snapshots, and every markdown mirror (per-firm discount-code pages, seasonal pages, monthly ranking), readable without the API. Use it if the API endpoint is unreachable.
-- [Hugging Face dataset](https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes): a third distribution channel of this dataset - the same JSON dataset and every markdown mirror, readable without the API, synced hourly.
 - [Dataset page](https://propfirmdiscount.com/datasets/): human-readable dataset documentation and schema
 - [Agent skill](https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md): retrieval instructions and field reference for AI agents
 

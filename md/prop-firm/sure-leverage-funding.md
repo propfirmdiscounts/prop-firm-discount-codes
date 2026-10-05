@@ -5,7 +5,7 @@ The newest Sure Leverage Funding discount code is **BOOGO** — Buy 1 Get 1 (Oct
 > SLF is a global prop trading firm built by traders, for traders. We specialize in Instant Funding with the most competitive rules in the industry, including being the only firm to offer Static Drawdown on Instant Funding accounts with a generous 8% maximum. Why 40,000+ Traders Choose SLF: ⚡ 24-Hour Payout Guarantee: Our current average payout time is under 16 hours. 📈 Institutional Infrastructure: We operate on our own dedicated MT5 license for superior execution. 🛡️ Static Drawdown: No trailing drawdown traps—protect your edge with our 8% static limit. 💰 Proven Track Record: Over $1 Billion in funding issued and $2.2 Million+ paid out to date. Join the firm where transparency isn't just a buzzword—it's our standard.
 
 - Last deal published: 2026-10-04
-- Trustpilot: 3.6/5 (1419 reviews)
+- Trustpilot: 3.6/5 (1427 reviews)
 - Activate: https://propfirmdiscount.com/go/sureleverage
 - Firm page: https://propfirmdiscount.com/prop-firm/sure-leverage-funding/
 

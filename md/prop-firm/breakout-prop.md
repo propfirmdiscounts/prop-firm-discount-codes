@@ -3,7 +3,7 @@
 The newest Breakout Prop discount code is **TIMAPPLE** — 20% off (March 5, 2024). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.7/5 (1172 reviews)
+- Trustpilot: 4.7/5 (1180 reviews)
 - Activate: https://propfirmdiscount.com/go/breakoutprop
 - Firm page: https://propfirmdiscount.com/prop-firm/breakout-prop/
 

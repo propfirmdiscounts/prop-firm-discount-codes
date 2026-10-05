@@ -3,7 +3,7 @@
 No live discount code for The5ers right now — newest deals and offers are below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.7/5 (38838 reviews)
+- Trustpilot: 4.7/5 (39196 reviews)
 - Activate: https://propfirmdiscount.com/go/the5ers
 - Firm page: https://propfirmdiscount.com/prop-firm/the5ers/
 

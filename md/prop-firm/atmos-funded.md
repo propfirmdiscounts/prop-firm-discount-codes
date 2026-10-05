@@ -3,7 +3,7 @@
 The newest Atmos Funded discount code is **LEVELUP** — 45% off (September 11, 2025). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 3.6/5 (350 reviews)
+- Trustpilot: 3.6/5 (343 reviews)
 - Activate: https://propfirmdiscount.com/go/atmosfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atmos-funded/
 

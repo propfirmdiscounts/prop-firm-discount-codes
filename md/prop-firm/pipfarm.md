@@ -8,7 +8,7 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-28
-- Trustpilot: 3.6/5 (344 reviews)
+- Trustpilot: 3.6/5 (342 reviews)
 - Activate: https://propfirmdiscount.com/go/pipfarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

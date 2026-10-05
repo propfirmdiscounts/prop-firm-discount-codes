@@ -14,7 +14,7 @@
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | CK Capital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
-| Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Dominion Funding | PFD5PC | 5% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 | E8 Markets | CHUN | 50% | 2026-01-01 | 2026-12-31 | 2026-08-27 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
@@ -22,7 +22,7 @@
 | FXIFY | FXIFY2WRIVW | 10% | 2026-01-01 | 2026-12-31 | 2026-10-03 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | Fintokei | THODO5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/fintokei/ |
-| For Traders | 1DGSOBYHEB | 15% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/fortraders/ |
+| For Traders | 1DGSOBYHEB | 15% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
@@ -33,7 +33,7 @@
 | Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFDC | 2% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | 2026-01-01 | 2026-12-31 | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
-| FundingTraders | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-13 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| FundingTraders | PFD | 81% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-29 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
 | HyroTrader | PFDC | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |

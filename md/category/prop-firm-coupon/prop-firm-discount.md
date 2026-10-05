@@ -4,6 +4,10 @@
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-05 | FundingTraders | FundingTraders Up to 81% Off Instant Funded Accounts | 81% OFF | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/ |
+| 2026-10-05 | For Traders | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
+| 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% OFF | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |
+| 2026-10-05 | Direct Funded Trader | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% OFF | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% OFF | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
 | 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% OFF | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
@@ -30,7 +34,3 @@
 | 2026-10-01 | Funded Hero | Funded Hero 65% Off Evaluation Accounts | 65% OFF | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/ |
 | 2026-10-01 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Every Classic Size Evaluation | 30% OFF | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/ |
 | 2026-10-01 | Earn2Trade | Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle | 50% OFF | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/ |
-| 2026-09-30 | WeMasterTrade | WeMasterTrade: 32% Off All Packages & Festival Spin | 32% OFF | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/ |
-| 2026-09-30 | Goat Funded Trader | Goat Funded Trader: 50% Off All Plans | 50% OFF | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/ |
-| 2026-09-30 | Funding Your Trades | Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts | 40% OFF | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/ |
-| 2026-09-30 | City Traders Imperium (CTI) | City Traders Imperium (CTI): 10% Off Direct Funding Accounts | 10% OFF | https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/ |

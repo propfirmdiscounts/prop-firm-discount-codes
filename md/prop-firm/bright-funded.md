@@ -8,7 +8,7 @@ The verified BrightFunded discount code is **qzEKr4EnSPK8GXYz5Mit-A** — Up to 
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-21
-- Trustpilot: 3.4/5 (572 reviews)
+- Trustpilot: 3.4/5 (571 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

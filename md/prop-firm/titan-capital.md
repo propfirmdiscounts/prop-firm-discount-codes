@@ -5,7 +5,7 @@ The newest Titan Capital discount code is **T55** — 55% off (October 1, 2026).
 > At Titan Capital Markets, we’ve developed an innovative 1,2,3-step Evaluation Process tailored for aspiring traders. This process features a Challenge phase followed by a Verification phase, aimed at uncovering and nurturing trading talent. Upon successfully navigating this journey, you’ll have the chance to manage a Titan Capital Markets Funded Account with a balance of up to 200,000 USD. We’re committed to supporting you every step of the way as you strive for trading success.
 
 - Last deal published: 2026-10-01
-- Trustpilot: 3.9/5 (1038 reviews)
+- Trustpilot: 3.9/5 (1037 reviews)
 - Activate: https://propfirmdiscount.com/go/titancapital
 - Firm page: https://propfirmdiscount.com/prop-firm/titan-capital/
 

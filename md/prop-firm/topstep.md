@@ -3,7 +3,7 @@
 The newest Topstep discount code is **5expressfundedaccounts** — Only $29 (May 28, 2024). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 3.6/5 (14881 reviews)
+- Trustpilot: 3.7/5 (14894 reviews)
 - Activate: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 

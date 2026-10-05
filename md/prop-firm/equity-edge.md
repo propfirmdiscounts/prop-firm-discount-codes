@@ -8,7 +8,7 @@ The verified Equity Edge discount code is **PFD** — Up to 20% off, works any t
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-17
-- Trustpilot: 4.2/5 (2338 reviews)
+- Trustpilot: 4.2/5 (2350 reviews)
 - Activate: https://propfirmdiscount.com/go/equityedge
 - Firm page: https://propfirmdiscount.com/prop-firm/equity-edge/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

@@ -6,7 +6,7 @@ The verified Top One Futures discount code is **PFD** — Up to 50% off, works a
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-05
-- Trustpilot: 4.8/5 (5038 reviews)
+- Trustpilot: 4.8/5 (5059 reviews)
 - Activate: https://propfirmdiscount.com/go/toponefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

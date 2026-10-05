@@ -5,7 +5,7 @@ No live discount code for Top One Trader right now — newest deals and offers a
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
 - Last deal published: 2026-10-01
-- Trustpilot: 4.4/5 (3494 reviews)
+- Trustpilot: 4.4/5 (3477 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 

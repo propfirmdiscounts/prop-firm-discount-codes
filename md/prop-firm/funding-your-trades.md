@@ -8,7 +8,7 @@ The verified Funding Your Trades discount code is **PFDC** — Up to 2% off, wor
 - Discount: Up to 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-30
-- Trustpilot: 2.9/5 (131 reviews)
+- Trustpilot: 3.0/5 (132 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingyourtrades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

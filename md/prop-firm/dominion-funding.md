@@ -8,7 +8,7 @@ The verified Dominion Funding discount code is **PFD5PC** — Up to 5% off, work
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-21
-- Trustpilot: 3.0/5 (281 reviews)
+- Trustpilot: 2.9/5 (287 reviews)
 - Activate: https://propfirmdiscount.com/go/dominionfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

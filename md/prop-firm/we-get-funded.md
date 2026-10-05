@@ -5,7 +5,7 @@ The newest We Get Funded discount code is **T3FIN** — Buy 1 Get 3 (September 2
 > WeGetFunded is an innovative French prop firm, created by Traders for Traders. We offer a unique experience, combining flexibility and growth opportunities tailored to every trader profile. Our challenges, available in one step or two steps, are accessible on a modern and responsive platform, ensuring optimal conditions for your progress. Additionally, we offer the possibility to be funded up to $800,000. Join a dynamic community and take the next step in your trading journey with WeGetFunded.
 
 - Last deal published: 2026-09-29
-- Trustpilot: 3.9/5 (1004 reviews)
+- Trustpilot: 3.9/5 (1007 reviews)
 - Activate: https://propfirmdiscount.com/go/wegetfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 

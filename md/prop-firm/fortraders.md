@@ -5,46 +5,46 @@ The verified For Traders discount code is **1DGSOBYHEB** — Up to 15% off, work
 - Code: 1DGSOBYHEB
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-02
-- Trustpilot: 4.0/5 (1768 reviews)
+- Last deal published: 2026-10-05
+- Trustpilot: 4.0/5 (1777 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: For Traders: $6K Fast Evaluation Reduced to $9.99
+## Current deal: For Traders Cuts $6K Fast Crypto Challenge to $9.99
 
-- Published: 2026-10-02
-- Offer: 79% Off
-- Code: OCTOBER6K
-- Scope: 1-Step challenge, $6K account, Fast model
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/
+- Published: 2026-10-05
+- Offer: Only $9.99
+- Code: TOKEN2049
+- Scope: $6K Fast Crypto, 1-Step, All Platforms
+- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/
 
 ## For Traders deal FAQ
 
-**What does the current promotion offer at For Traders?**
+**What discount does For Traders offer in this promotion?**
 
-The promotion reduces the entry fee of the $6K Fast 1-Step evaluation from $49 to $9.99. It is limited to exactly 1,000 accounts.
+The firm offers a reduced entry fee of $9.99 for the $6K Fast Crypto challenge. This special pricing celebrates the TOKEN2049 event in Singapore.
 
-**Are the trading rules modified for this $9.99 evaluation?**
+**How many accounts are available at this price?**
 
-No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The profit target remains at 9% with a max drawdown of 6%.
+The promotion is limited to exactly 1,000 spots. Once these accounts are claimed, the $9.99 entry fee will no longer be available and no extensions will be granted.
 
-**What happens after the 1,000 accounts are claimed?**
+**Which trading platforms are supported for this offer?**
 
-Once the 1,000 allocated accounts are purchased, the price of the $6K Fast evaluation returns to the standard $49. There are no restocks or extensions offered.
+Traders can choose between MT5, cTrader and TradeLocker. This expands upon previous promotions that were restricted to a single platform.
 
-**Which platform is used for this specific For Traders account?**
+**What are the evaluation rules for the $6K Fast Crypto account?**
 
-The $6K Forex Fast evaluation is traded on the MetaTrader 5 platform.
+Traders must achieve a 10% profit target without any time limit. The risk parameters include a 6% trailing maximum drawdown and a 3% daily drawdown.
 
-**Does the $6K Fast evaluation have multiple phases?**
+**Are there any payout restrictions once funded?**
 
-No, this account model operates as a 1-Step challenge, meaning there is no phase two to complete before accessing payouts. Payouts occur every two weeks.
+Funded accounts receive an 80% profit split. Payouts are processed every 14 days and participants are allowed to hold trades over the weekend and trade during news events.
 
 ## Current deals (newest first)
 
+- 2026-10-05 - [For Traders Cuts $6K Fast Crypto Challenge to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) (Only $9.99)
 - 2026-10-02 - [For Traders: $6K Fast Evaluation Reduced to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) (79% Off)
 - 2026-09-02 - [For Traders 50% Off London Expo Ticket Promotion](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-expo-ticket/) (50% Off)
 - 2026-08-28 - [For Traders: Get a $6K Evaluation Account for $9.99 (Limited to 1,000 Spots)](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-challenge-discount/) (Only $9.99)
 - 2026-08-07 - [For Traders $6K Fast Challenge: $9.99 Entry Fee](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-fast-challenge-999-promo/) (Only $9.99)
-- 2026-07-15 - [For Traders 25% Off Evaluation Accounts: Challenge Pricing Overview](https://propfirmdiscount.com/deals/fortraders/for-traders-25-percent-off-summer-promotion/) (25% Off)

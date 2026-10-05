@@ -5,7 +5,7 @@ The newest YRM Prop discount code is **WELCOME50** — 50% off (July 14, 2026). 
 > YRM Prop is a New York-based proprietary trading firm focused on futures. We’re built for traders who treat trading like a profession, not a hobby. We offer a transparent, structured path from evaluation to simulated funding, with the potential to trade live capital. Traders can access up to $450,000 in simulated trading capital, earn a 90/10 profit split, and benefit from 24-hour payout processing. We’re not looking for lucky streaks. YRM’s model is designed to reward consistency, risk discipline, and long-term thinking, because that’s what real trading takes. All rules are fully transparent, there are no hidden traps, and payouts are never delayed. Unlike many platforms, we believe in clear expectations and real support. Our expert team is made up of real traders ready to help when needed. Whether you’re just getting started or looking to scale your strategy, YRM Prop offers a serious platform for serious traders. If you’re committed, we’re here to back you.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 3.5/5 (252 reviews)
+- Trustpilot: 3.5/5 (253 reviews)
 - Activate: https://propfirmdiscount.com/go/yrmprop
 - Firm page: https://propfirmdiscount.com/prop-firm/yrm-prop/
 

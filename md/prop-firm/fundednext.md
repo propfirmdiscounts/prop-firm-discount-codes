@@ -3,7 +3,7 @@
 The newest FundedNext discount code is **STOCT** — Only $29.99 (October 1, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-01
-- Trustpilot: 4.5/5 (80506 reviews)
+- Trustpilot: 4.5/5 (80860 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 

@@ -3,7 +3,7 @@
 The newest Hola Prime discount code is **SPOOKY50** — 50% off (October 23, 2025). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (3852 reviews)
+- Trustpilot: 4.5/5 (3890 reviews)
 - Activate: https://propfirmdiscount.com/go/holaprime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
 
