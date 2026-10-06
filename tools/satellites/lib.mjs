@@ -26,20 +26,46 @@ export function loadDataset(repoRoot) {
 
 // ── firm mirror markdown parsing ────────────────────────────────
 export function parseFirmMirror(md) {
-  const out = { lead: '', summary: '', bullets: {}, dealHistory: [], faq: [] };
+  const out = { lead: '', summary: '', bullets: {}, currentDeal: null, dealHistory: [], faq: [] };
   const lines = md.split('\n');
   let i = 0;
   while (i < lines.length && !lines[i].startsWith('# ')) i++;
   i++;
   while (i < lines.length && lines[i].trim() === '') i++;
   if (i < lines.length) out.lead = lines[i].trim();
-  for (const line of lines) {
+  // Header bullets only (the "## Current deal" block repeats "- Code:" etc.).
+  const firstH2 = lines.findIndex((l) => /^## /.test(l));
+  for (const line of lines.slice(0, firstH2 === -1 ? lines.length : firstH2)) {
     const b = /^- (Code|Discount|Valid|Last deal published|Trustpilot|Activate): (.*)$/.exec(line);
     if (b) out.bullets[b[1]] = b[2].trim();
     const s = /^> (.+)$/.exec(line);
     if (s && !out.summary) out.summary = s[1].trim();
+  }
+  for (const line of lines) {
     const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\) \((.+?)\)$/.exec(line);
     if (d) out.dealHistory.push({ date: d[1], title: d[2], url: d[3], offer: d[4] });
+  }
+  // Newest deal card. Its code is NOT published by the network (it is a
+  // campaign code, distinct from the standing code for most firms); carry it
+  // only to word the bridge sentence correctly.
+  const cdIdx = lines.findIndex((l) => /^## Current deal: /.test(l));
+  if (cdIdx !== -1) {
+    const rel = lines.slice(cdIdx + 1).findIndex((l) => /^## /.test(l));
+    const block = lines.slice(cdIdx, rel === -1 ? lines.length : cdIdx + 1 + rel);
+    const join = block.join('\n');
+    const pick = (k) => {
+      const m = new RegExp(`^- ${k}: (.+)$`, 'm').exec(join);
+      return m ? m[1].trim() : '';
+    };
+    const deal = {
+      title: /^## Current deal: (.+)$/.exec(block[0])[1].trim(),
+      published: pick('Published'),
+      offer: pick('Offer'),
+      code: pick('Code'),
+      scope: pick('Scope'),
+      dealUrl: pick('Deal page'),
+    };
+    if (!hasBanned(`${deal.title} ${deal.scope} ${deal.offer}`)) out.currentDeal = deal;
   }
   // FAQ section: "## … FAQ" then **Question** lines each followed by its answer.
   const start = lines.findIndex((l) => /^## .*FAQ/.test(l));

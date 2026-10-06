@@ -41,6 +41,29 @@ function factsTable(firm, mirror) {
   return `<table>\n<tbody>\n${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}\n</tbody>\n</table>`;
 }
 
+function currentDealSection(firm, mirror) {
+  const d = mirror.currentDeal;
+  if (!d) return '';
+  const o = offerShape(d.offer);
+  const sameCode = d.code && d.code === firm.code;
+  const bridge = sameCode
+    ? `This promotion uses the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} which keeps working any time.`
+    : `This is a limited-time campaign with its own code and terms; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`;
+  const rows = [
+    ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
+    ['Offer', esc(o.titlePart || d.offer || EN_DASH)],
+  ];
+  if (d.scope) rows.push(['Scope', esc(d.scope)]);
+  rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
+  return `<h2 id="deal">Current deal: ${esc(d.title)}</h2>
+<table>
+<tbody>
+${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}
+</tbody>
+</table>
+<p>${bridge}</p>`;
+}
+
 function logSection(mirror) {
   if (!mirror.dealHistory.length) return '';
   const items = mirror.dealHistory.map((d) =>
@@ -55,19 +78,26 @@ ${items}
 function faqSection(firm, mirror) {
   if (!mirror.faq.length) return '';
   const blocks = mirror.faq.slice(0, 4).map((f) => `<h3>${esc(f.q)}</h3>\n<p>${esc(f.a)}</p>`).join('\n');
-  return `<h2 id="faq">${esc(firm.prop_firm)} code FAQ</h2>\n${blocks}`;
+  const heading = mirror.currentDeal ? `${mirror.currentDeal.title} FAQ` : `${firm.prop_firm} code FAQ`;
+  const note = mirror.currentDeal
+    ? `<p>These questions cover the promotion described above, not the standing code ${EN_DASH} the standing code keeps working after the campaign ends.</p>\n`
+    : '';
+  return `<h2 id="faq">${esc(heading)}</h2>\n${note}${blocks}`;
 }
 
 export function firmPage(site, firm, mirror, now) {
   const title = titleFor(firm, now);
   const o = offerShape(firm.discount);
+  const cd = mirror.currentDeal;
+  const promotion = cd ? ` Its newest promotion, ${cd.title}${cd.published ? ` (published ${cd.published})` : ''}, is detailed below.` : '';
   const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} ${EN_DASH} verified standing exclusive code, checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, mirror, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code</h1>
-<p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.</p>
+<p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
+${currentDealSection(firm, mirror)}
 ${logSection(mirror)}
 ${faqSection(firm, mirror)}`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
@@ -81,13 +111,24 @@ export function firmTwins(site, firm, mirror, now) {
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${firm.valid_from} to ${firm.valid_until}`, `- Last deal published: ${firm.last_deal_published || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
   md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
+  const cd = mirror.currentDeal;
+  if (cd) {
+    md.push(`## Current deal: ${cd.title}`, '');
+    md.push(`- Published: ${cd.published}`, `- Offer: ${offerShape(cd.offer).titlePart || cd.offer}`);
+    if (cd.scope) md.push(`- Scope: ${cd.scope}`);
+    md.push(`- Deal page: ${cd.dealUrl}`, '');
+    md.push(cd.code === firm.code
+      ? `This promotion uses the standing code ${firm.code} above, which keeps working any time.`
+      : `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`, '');
+  }
   if (mirror.dealHistory.length) {
     md.push('## Code check log (newest first)', '');
     for (const d of mirror.dealHistory) md.push(`- ${d.date} - [${d.title}](${d.url}) (${d.offer})`);
     md.push('');
   }
   if (mirror.faq.length) {
-    md.push(`## ${firm.prop_firm} code FAQ`, '');
+    md.push(`## ${cd ? `${cd.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
+    if (cd) md.push(`These questions cover the promotion described above, not the standing code — the standing code keeps working after the campaign ends.`, '');
     for (const f of mirror.faq.slice(0, 4)) md.push(`**${f.q}**`, '', f.a, '');
   }
   const json = {
@@ -102,6 +143,7 @@ export function firmTwins(site, firm, mirror, now) {
     trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
     source: 'propfirmdiscount.com',
     activation_link: firm.activation_link,
+    current_deal: cd ? { title: cd.title, published: cd.published, offer: cd.offer, scope: cd.scope, deal_url: cd.dealUrl, uses_standing_code: cd.code === firm.code } : null,
     changelog: mirror.dealHistory,
   };
   return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
