@@ -1,0 +1,164 @@
+// Satellite 1 — verification log angle.
+import {
+  esc, EN_DASH, monthYearUTC, offerShape, titleFor, firmJsonLd, layout,
+  DISCLOSURE, robotsTxt, llmsTxt, sitemapXml, aiSitemapXml, apiCatalog,
+  skillMd, webmcpJs, csvOf, headersFile, assertClean, parseFirmMirror,
+} from './lib.mjs';
+
+export const site = {
+  id: 's1',
+  workerName: 'pfd-codecheck',
+  domainPlaceholder: 'propfirmcodecheck.example',
+  siteName: 'Prop Firm Code Check',
+  tagline: EN_DASH + ' standing discount code verification log',
+  skillName: 'prop-firm-code-check',
+  hubBlurb: 'newest code checks first',
+  disclosure: DISCLOSURE,
+};
+
+function factsTable(firm, mirror) {
+  const o = offerShape(firm.discount);
+  const rows = [
+    ['Code', `<code>${esc(firm.code)}</code>`],
+    ['Discount', esc(o.titlePart || firm.discount || EN_DASH)],
+    ['Valid', `${esc(firm.valid_from)} ${esc(EN_DASH)} ${esc(firm.valid_until)} (re-verified yearly)`],
+    ['Last deal published', esc(firm.last_deal_published || EN_DASH)],
+  ];
+  if (firm.trustpilot_score) {
+    rows.push(['Trustpilot', `${esc(firm.trustpilot_score)}/5 (${Number(firm.trustpilot_reviews || 0).toLocaleString('en-US')} reviews)`]);
+  }
+  rows.push(['Apply', `<a rel="nofollow" href="${esc(firm.activation_link)}">Activate the ${esc(firm.prop_firm)} code</a>`]);
+  rows.push(['Data source', `<a href="${esc(firm.archive_url)}">PropFirmDiscount firm page</a>`]);
+  return `<table>\n<tbody>\n${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}\n</tbody>\n</table>`;
+}
+
+function logSection(mirror) {
+  if (!mirror.dealHistory.length) return '';
+  const items = mirror.dealHistory.map((d) =>
+    `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(d.title)}</a></li>`).join('\n');
+  return `<h2 id="log">Code check log</h2>
+<p>Each entry is a dated deal that carried a code ${EN_DASH} the check trail behind the standing rate above. Newest first.</p>
+<ol class="log">
+${items}
+</ol>`;
+}
+
+function faqSection(firm, mirror) {
+  if (!mirror.faq.length) return '';
+  const blocks = mirror.faq.slice(0, 4).map((f) => `<h3>${esc(f.q)}</h3>\n<p>${esc(f.a)}</p>`).join('\n');
+  return `<h2 id="faq">${esc(firm.prop_firm)} code FAQ</h2>\n${blocks}`;
+}
+
+export function firmPage(site, firm, mirror, now) {
+  const title = titleFor(firm, now);
+  const o = offerShape(firm.discount);
+  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} ${EN_DASH} verified standing exclusive code, checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
+  const path = `/firms/${firm.slug}`;
+  const ld = firmJsonLd(site, firm, mirror, title, desc, now);
+  const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
+<h1>${esc(firm.prop_firm)} Discount Code</h1>
+<p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.</p>
+${factsTable(firm, mirror)}
+${logSection(mirror)}
+${faqSection(firm, mirror)}`;
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
+}
+
+export function firmTwins(site, firm, mirror, now) {
+  const o = offerShape(firm.discount);
+  const md = [`# ${firm.prop_firm} Discount Code`, '',
+    `The verified standing exclusive code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
+  if (mirror.summary) md.push(`> ${mirror.summary}`, '');
+  md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${firm.valid_from} to ${firm.valid_until}`, `- Last deal published: ${firm.last_deal_published || 'n/a'}`);
+  if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
+  md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
+  if (mirror.dealHistory.length) {
+    md.push('## Code check log (newest first)', '');
+    for (const d of mirror.dealHistory) md.push(`- ${d.date} - [${d.title}](${d.url}) (${d.offer})`);
+    md.push('');
+  }
+  if (mirror.faq.length) {
+    md.push(`## ${firm.prop_firm} code FAQ`, '');
+    for (const f of mirror.faq.slice(0, 4)) md.push(`**${f.q}**`, '', f.a, '');
+  }
+  const json = {
+    url: `${site.origin}/firms/${firm.slug}/`,
+    name: firm.prop_firm,
+    code: firm.code,
+    discount: firm.discount,
+    valid_from: firm.valid_from,
+    valid_until: firm.valid_until,
+    last_deal_published: firm.last_deal_published,
+    last_checked: monthYearUTC(now),
+    trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
+    source: 'propfirmdiscount.com',
+    activation_link: firm.activation_link,
+    changelog: mirror.dealHistory,
+  };
+  return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
+}
+
+export function hubPage(site, rows, now) {
+  const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
+  const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
+  const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first. Updated ${monthYearUTC(now)}.`;
+  const items = sorted.map((r) => `<li><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a> ${EN_DASH} <code>${esc(r.code)}</code>${r.last_deal_published ? `, last deal <time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : ''}</li>`).join('\n');
+  const ld = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      { '@type': 'WebSite', '@id': `${site.origin}/#website`, url: site.origin, name: site.siteName, publisher: { '@id': `${site.origin}/#org` } },
+      { '@type': 'Organization', '@id': `${site.origin}/#org`, name: site.siteName, url: site.origin },
+      {
+        '@type': 'CollectionPage', '@id': `${site.origin}/`, url: `${site.origin}/`, name: title, description: desc,
+        isPartOf: { '@id': `${site.origin}/#website` },
+        mainEntity: {
+          '@type': 'ItemList', numberOfItems: sorted.length,
+          itemListElement: sorted.map((r, i) => ({
+            '@type': 'ListItem', position: i + 1, url: `${site.origin}/firms/${r.slug}/`,
+            name: `${r.prop_firm} discount code ${r.code}`,
+          })),
+        },
+      },
+    ],
+  };
+  const body = `<h1>Prop Firm Discount Code Checks</h1>
+<p class="answer">This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
+<h2 id="log">Checks, newest first</h2>
+<ol class="log">
+${items}
+</ol>`;
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null }) };
+}
+
+export function buildSite(site, rows, mirrors, now, out) {
+  const files = {};
+  const htmlPaths = ['/'];
+  for (const firm of rows) {
+    const mirror = mirrors[firm.slug] || { lead: '', summary: '', bullets: {}, dealHistory: [], faq: [] };
+    const page = firmPage(site, firm, mirror, now);
+    const twins = firmTwins(site, firm, mirror, now);
+    files[`firms/${firm.slug}/index.html`] = page.html;
+    files[`firms/${firm.slug}.md`] = twins.md;
+    files[`firms/${firm.slug}.json`] = twins.json;
+    htmlPaths.push(`/firms/${firm.slug}/`);
+  }
+  const hub = hubPage(site, rows, now);
+  files['index.html'] = hub.html;
+  files['dataset.json'] = JSON.stringify({ dataset: 'prop-firm-codes', publisher: site.siteName, count: rows.length, generated: now.toISOString().slice(0, 10), data: rows }, null, 2);
+  files['dataset.csv'] = csvOf(rows);
+  files['robots.txt'] = robotsTxt(site);
+  files['llms.txt'] = llmsTxt(site, rows, now);
+  files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site is a static mirror of the PropFirmDiscount dataset.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\nHugging Face dataset: https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes\n`;
+  const lastmod = now.toISOString().slice(0, 10);
+  files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
+  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
+  files['.well-known/api-catalog'] = apiCatalog(site);
+  files[`.well-known/agent-skills/${site.skillName}/SKILL.md`] = skillMd(site, rows);
+  files['webmcp.js'] = webmcpJs(site);
+  files['_headers'] = headersFile();
+  for (const [name, text] of Object.entries(files)) assertClean(name, text);
+  Object.assign(out, files);
+  return Object.keys(files).length;
+}
+
+export { parseFirmMirror };

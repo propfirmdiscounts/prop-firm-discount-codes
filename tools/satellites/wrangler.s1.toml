@@ -1,0 +1,9 @@
+name = "pfd-codecheck"
+compatibility_date = "2026-10-01"
+
+# Assets-only Worker: static requests are free and unmetered on the free plan,
+# and no Worker code runs per request (no run_worker_first).
+[assets]
+directory = "./dist/s1"
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"

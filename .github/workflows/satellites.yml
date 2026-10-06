@@ -1,0 +1,45 @@
+name: Deploy Satellites
+
+on:
+  workflow_run:
+    workflows: ["Hourly Sync"]
+    types: [completed]
+  workflow_dispatch:
+
+concurrency:
+  group: satellites-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mirror repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build satellites
+        env:
+          SATELLITE_ORIGIN_S1: ${{ secrets.SATELLITE_ORIGIN_S1 }}
+        run: node tools/satellites/build.mjs
+
+      - name: Deploy satellites
+        # Skipped entirely when the Cloudflare secrets are absent, so the
+        # workflow stays green before the operator wires up deploy access.
+        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          SATELLITE_ORIGIN_S1: ${{ secrets.SATELLITE_ORIGIN_S1 }}
+        run: |
+          set -euo pipefail
+          if grep -rl 'propfirmcodecheck.example' tools/satellites/dist/s1/ >/dev/null 2>&1; then
+            echo "SATELLITE_ORIGIN_S1 not set: dist still carries the placeholder origin. Refusing to deploy." >&2
+            exit 1
+          fi
+          npx --yes wrangler@4 deploy --config tools/satellites/wrangler.s1.toml
