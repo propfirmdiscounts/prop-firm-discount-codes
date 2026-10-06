@@ -160,7 +160,7 @@ export function publisherOrg(site) {
   };
 }
 
-export function firmJsonLd(site, firm, mirror, title, desc, now) {
+export function firmJsonLd(site, firm, title, desc, now) {
   const o = offerShape(firm.discount);
   const graph = [
     { '@type': 'WebSite', '@id': `${site.origin}/#website`, url: site.origin, name: site.siteName, publisher: { '@id': `${site.origin}/#org` } },
@@ -183,8 +183,9 @@ export function firmJsonLd(site, firm, mirror, title, desc, now) {
     dateModified: now.toISOString().slice(0, 10),
     isPartOf: { '@id': `${site.origin}/#website` },
     about: { '@id': `${site.origin}/firms/${firm.slug}/#firm` },
-    primaryEntity: {
+    mainEntity: {
       '@type': 'Offer',
+      '@id': `${site.origin}/firms/${firm.slug}/#offer`,
       name: `${firm.prop_firm} discount code ${firm.code}`,
       url: `${site.origin}/firms/${firm.slug}/`,
       identifier: { '@type': 'PropertyValue', propertyID: 'discountCode', value: firm.code },
@@ -196,23 +197,6 @@ export function firmJsonLd(site, firm, mirror, title, desc, now) {
       potentialAction: { '@type': 'ActivateAction', target: firm.activation_link },
     },
   };
-  if (mirror.dealHistory.length) {
-    page.mainEntity = {
-      '@type': 'ItemList',
-      numberOfItems: mirror.dealHistory.length,
-      itemListElement: mirror.dealHistory.map((d, idx) => ({
-        '@type': 'ListItem',
-        position: idx + 1,
-        item: {
-          '@type': 'Offer',
-          name: d.title,
-          url: d.url,
-          description: `${d.date} ${EN_DASH} ${d.offer}`,
-          seller: { '@id': `${site.origin}/firms/${firm.slug}/#firm` },
-        },
-      })),
-    };
-  }
   graph.push(page);
   return { '@context': 'https://schema.org', '@graph': graph };
 }

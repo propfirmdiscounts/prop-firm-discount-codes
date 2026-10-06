@@ -96,7 +96,7 @@ export function firmPage(site, firm, mirror, now) {
   const promotion = ldDeal ? ` Its newest promotion, ${ldDeal.title}${ldDeal.published ? ` (published ${ldDeal.published})` : ''}, is detailed below.` : '';
   const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} ${EN_DASH} verified standing exclusive code, checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
   const path = `/firms/${firm.slug}`;
-  const ld = firmJsonLd(site, firm, mirror, title, desc, now);
+  const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code</h1>
 <p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
