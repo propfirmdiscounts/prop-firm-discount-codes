@@ -28,7 +28,7 @@ for (const r of rows) {
   const p = join(repoRoot, 'md', 'prop-firm', `${r.slug}.md`);
   if (existsSync(p)) {
     try {
-      mirrors[r.slug] = parseFirmMirror(readFileSync(p, 'utf8'));
+      mirrors[r.slug] = parseFirmMirror(readFileSync(p, 'utf8'), r.code);
     } catch (e) {
       console.error(`WARN: mirror parse failed for ${r.slug}: ${e.message}`);
     }

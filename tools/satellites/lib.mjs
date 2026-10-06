@@ -25,8 +25,8 @@ export function loadDataset(repoRoot) {
 }
 
 // ── firm mirror markdown parsing ────────────────────────────────
-export function parseFirmMirror(md) {
-  const out = { lead: '', summary: '', bullets: {}, currentDeal: null, dealHistory: [], faq: [] };
+export function parseFirmMirror(md, standingCode = '') {
+  const out = { lead: '', summary: '', bullets: {}, latestDeal: null, dealCodeRelation: 'unknown', dealHistory: [], faq: [] };
   const lines = md.split('\n');
   let i = 0;
   while (i < lines.length && !lines[i].startsWith('# ')) i++;
@@ -45,29 +45,59 @@ export function parseFirmMirror(md) {
     const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\) \((.+?)\)$/.exec(line);
     if (d) out.dealHistory.push({ date: d[1], title: d[2], url: d[3], offer: d[4] });
   }
-  // Newest deal card. Its code is NOT published by the network (it is a
-  // campaign code, distinct from the standing code for most firms); carry it
-  // only to word the bridge sentence correctly.
+  // The mirror's "## Current deal" block is selected by post_modified but
+  // prints Published as post_date, so for some firms it names an older deal
+  // than the newest one in the history list. The history list is newest-first;
+  // trust the block only when it is that same deal, else rebuild the row from
+  // the newest history entry so the section always shows the newest deal.
+  let block = null;
   const cdIdx = lines.findIndex((l) => /^## Current deal: /.test(l));
   if (cdIdx !== -1) {
     const rel = lines.slice(cdIdx + 1).findIndex((l) => /^## /.test(l));
-    const block = lines.slice(cdIdx, rel === -1 ? lines.length : cdIdx + 1 + rel);
-    const join = block.join('\n');
+    const blk = lines.slice(cdIdx, rel === -1 ? lines.length : cdIdx + 1 + rel);
+    const join = blk.join('\n');
     const pick = (k) => {
       const m = new RegExp(`^- ${k}: (.+)$`, 'm').exec(join);
       return m ? m[1].trim() : '';
     };
-    const deal = {
-      title: /^## Current deal: (.+)$/.exec(block[0])[1].trim(),
+    block = {
+      title: /^## Current deal: (.+)$/.exec(blk[0])[1].trim(),
       published: pick('Published'),
       offer: pick('Offer'),
       code: pick('Code'),
       scope: pick('Scope'),
       dealUrl: pick('Deal page'),
     };
-    if (!hasBanned(`${deal.title} ${deal.scope} ${deal.offer}`)) out.currentDeal = deal;
   }
-  // FAQ section: "## … FAQ" then **Question** lines each followed by its answer.
+  const newest = out.dealHistory[0] || null;
+  const blockIsNewest = !!(block && newest && block.dealUrl === newest.url);
+  // How the newest deal's code relates to the standing code. For global-code
+  // firms the theme renders the standing code over every campaign, so the
+  // mirror's deal code equals it; some non-global firms also run a campaign on
+  // the standing code. When the mirror's block is the newest deal we know the
+  // relation; when it is an older deal we do not, so the relation stays
+  // 'unknown' and the copy claims nothing about the campaign's code. The
+  // campaign-only code string itself is never emitted in any case.
+  if (!blockIsNewest) {
+    out.dealCodeRelation = 'unknown';
+  } else if (block.code && standingCode && block.code === standingCode) {
+    out.dealCodeRelation = 'standing';
+  } else {
+    out.dealCodeRelation = 'own';
+  }
+  if (blockIsNewest) {
+    out.latestDeal = block;
+  } else if (newest) {
+    out.latestDeal = { title: newest.title, published: newest.date, offer: newest.offer, scope: '', code: '', dealUrl: newest.url };
+  } else if (block) {
+    out.latestDeal = block;
+  }
+  if (out.latestDeal && hasBanned(`${out.latestDeal.title} ${out.latestDeal.scope} ${out.latestDeal.offer}`)) {
+    out.latestDeal = null;
+  }
+  // FAQ blocks answer the deal the "## Current deal" block describes; keep them
+  // only when that block is the deal we actually show, else they would sit
+  // under a heading about a different deal.
   const start = lines.findIndex((l) => /^## .*FAQ/.test(l));
   if (start !== -1) {
     let q = null;
@@ -81,6 +111,7 @@ export function parseFirmMirror(md) {
     }
     flush();
   }
+  if (!blockIsNewest) out.faq = [];
   // Third-party firm copy (summaries, FAQ answers, deal titles) sometimes uses
   // vocabulary the site must never publish. Drop the offending fragment rather
   // than rewriting someone else's words.

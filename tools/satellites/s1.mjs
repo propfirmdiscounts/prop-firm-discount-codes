@@ -41,28 +41,32 @@ function factsTable(firm, mirror) {
   return `<table>\n<tbody>\n${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}\n</tbody>\n</table>`;
 }
 
+function dealBridge(firm, mirror) {
+  return {
+    standing: `This promotion runs on the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`,
+    own: `This is a limited-time campaign with its own code and terms; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`,
+    unknown: `This is the firm's newest promotion; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`,
+  }[mirror.dealCodeRelation];
+}
+
 function currentDealSection(firm, mirror) {
-  const d = mirror.currentDeal;
+  const d = mirror.latestDeal;
   if (!d) return '';
   const o = offerShape(d.offer);
-  const sameCode = d.code && d.code === firm.code;
-  const bridge = sameCode
-    ? `This promotion runs on the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`
-    : `This is a limited-time campaign with its own code and terms; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`;
   const rows = [
     ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
-    ['Offer', esc(o.titlePart || d.offer || EN_DASH)],
   ];
-  if (sameCode) rows.push(['Code', `<code>${esc(firm.code)}</code> ${EN_DASH} standing code`]);
+  if (d.offer) rows.push(['Offer', esc(o.titlePart || d.offer)]);
+  if (mirror.dealCodeRelation === 'standing') rows.push(['Code', `<code>${esc(firm.code)}</code> ${EN_DASH} standing code`]);
   if (d.scope) rows.push(['Scope', esc(d.scope)]);
   rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
-  return `<h2 id="deal">Current deal: ${esc(d.title)}</h2>
+  return `<h2 id="deal">Latest deal: ${esc(d.title)}</h2>
 <table>
 <tbody>
 ${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}
 </tbody>
 </table>
-<p>${bridge}</p>`;
+<p>${dealBridge(firm, mirror)}</p>`;
 }
 
 function logSection(mirror) {
@@ -79,18 +83,16 @@ ${items}
 function faqSection(firm, mirror) {
   if (!mirror.faq.length) return '';
   const blocks = mirror.faq.slice(0, 4).map((f) => `<h3>${esc(f.q)}</h3>\n<p>${esc(f.a)}</p>`).join('\n');
-  const heading = mirror.currentDeal ? `${mirror.currentDeal.title} FAQ` : `${firm.prop_firm} code FAQ`;
-  const note = mirror.currentDeal
-    ? `<p>These questions cover the promotion described above, not the standing code ${EN_DASH} the standing code keeps working after the campaign ends.</p>\n`
-    : '';
+  const heading = mirror.latestDeal ? `${mirror.latestDeal.title} FAQ` : `${firm.prop_firm} code FAQ`;
+  const note = `<p>These questions cover the promotion described above, not the standing code ${EN_DASH} the standing code keeps working after the campaign ends.</p>\n`;
   return `<h2 id="faq">${esc(heading)}</h2>\n${note}${blocks}`;
 }
 
 export function firmPage(site, firm, mirror, now) {
   const title = titleFor(firm, now);
   const o = offerShape(firm.discount);
-  const cd = mirror.currentDeal;
-  const promotion = cd ? ` Its newest promotion, ${cd.title}${cd.published ? ` (published ${cd.published})` : ''}, is detailed below.` : '';
+  const ldDeal = mirror.latestDeal;
+  const promotion = ldDeal ? ` Its newest promotion, ${ldDeal.title}${ldDeal.published ? ` (published ${ldDeal.published})` : ''}, is detailed below.` : '';
   const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} ${EN_DASH} verified standing exclusive code, checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, mirror, title, desc, now);
@@ -112,17 +114,19 @@ export function firmTwins(site, firm, mirror, now) {
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${firm.valid_from} to ${firm.valid_until}`, `- Last deal published: ${firm.last_deal_published || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
   md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
-  const cd = mirror.currentDeal;
-  if (cd) {
-    md.push(`## Current deal: ${cd.title}`, '');
-    md.push(`- Published: ${cd.published}`, `- Offer: ${offerShape(cd.offer).titlePart || cd.offer}`);
-    const sameCode = cd.code === firm.code;
-    if (sameCode) md.push(`- Code: ${firm.code} (standing code)`);
-    if (cd.scope) md.push(`- Scope: ${cd.scope}`);
-    md.push(`- Deal page: ${cd.dealUrl}`, '');
-    md.push(sameCode
-      ? `This promotion runs on the standing code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`
-      : `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`, '');
+  const ldDeal = mirror.latestDeal;
+  if (ldDeal) {
+    md.push(`## Latest deal: ${ldDeal.title}`, '');
+    md.push(`- Published: ${ldDeal.published}`);
+    if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
+    if (mirror.dealCodeRelation === 'standing') md.push(`- Code: ${firm.code} (standing code)`);
+    if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
+    md.push(`- Deal page: ${ldDeal.dealUrl}`, '');
+    md.push({
+      standing: `This promotion runs on the standing code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`,
+      own: `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`,
+      unknown: `This is the firm's newest promotion; the standing code ${firm.code} above is the one that works any time.`,
+    }[mirror.dealCodeRelation], '');
   }
   if (mirror.dealHistory.length) {
     md.push('## Code check log (newest first)', '');
@@ -130,8 +134,8 @@ export function firmTwins(site, firm, mirror, now) {
     md.push('');
   }
   if (mirror.faq.length) {
-    md.push(`## ${cd ? `${cd.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
-    if (cd) md.push(`These questions cover the promotion described above, not the standing code — the standing code keeps working after the campaign ends.`, '');
+    md.push(`## ${ldDeal ? `${ldDeal.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
+    md.push(`These questions cover the promotion described above, not the standing code — the standing code keeps working after the campaign ends.`, '');
     for (const f of mirror.faq.slice(0, 4)) md.push(`**${f.q}**`, '', f.a, '');
   }
   const json = {
@@ -146,7 +150,7 @@ export function firmTwins(site, firm, mirror, now) {
     trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
     source: 'propfirmdiscount.com',
     activation_link: firm.activation_link,
-    current_deal: cd ? { title: cd.title, published: cd.published, offer: cd.offer, scope: cd.scope, deal_url: cd.dealUrl, uses_standing_code: cd.code === firm.code } : null,
+    current_deal: ldDeal ? { title: ldDeal.title, published: ldDeal.published, offer: ldDeal.offer, scope: ldDeal.scope, deal_url: ldDeal.dealUrl, code_relation: mirror.dealCodeRelation } : null,
     changelog: mirror.dealHistory,
   };
   return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
