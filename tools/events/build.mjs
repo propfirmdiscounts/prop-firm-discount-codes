@@ -2,12 +2,12 @@
 // Reads only the markdown mirrors + the public codes dataset from this repo;
 // never touches the database. Mirrors are refreshed hourly by sync.yml, so the
 // demo is byte-for-byte downstream of prod.
-import { mkdirSync, writeFileSync, readFileSync, existsSync } from 'node:fs';
+import { mkdirSync, writeFileSync, readFileSync, existsSync, copyFileSync, readdirSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   esc, EN_DASH, monthYearUTC, layout, DISCLOSURE, robotsTxt, sitemapXml,
-  aiSitemapXml, assertClean, publisherOrg,
+  aiSitemapXml, assertClean, publisherOrg, webManifest,
 } from '../satellites/lib.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -52,9 +52,10 @@ const shortName = (slug) => calName(slug).replace(/\s+Deals$/, '');
 const site = {
   id: 'events',
   siteName: 'Prop Firm Event Hub',
+  shortName: 'PF Events',
   tagline: EN_DASH + ' seasonal prop firm deal calendars',
   origin: (process.env.SATELLITE_ORIGIN_EVENTS || 'https://propfirmevent.example').replace(/\/$/, ''),
-  icons: false,
+  icons: true,
   disclosure: DISCLOSURE,
 };
 site.email = `hello@${site.origin.replace(/^https?:\/\//, '')}`;
@@ -94,6 +95,15 @@ table.firms th:nth-child(2),table.firms td:nth-child(2){width:14%}
 table.firms th:nth-child(3),table.firms td:nth-child(3){width:10%;text-align:right}
 table.firms th:nth-child(4),table.firms td:nth-child(4){width:16%}
 table.firms th:nth-child(5),table.firms td:nth-child(5){width:16%;white-space:normal;overflow-wrap:anywhere}`;
+
+// Spaceholder artwork: a tab icon must resolve even before the real files
+// land in tools/events/assets/events/. Any real favicon.svg dropped there
+// takes over automatically on the next build.
+const PLACEHOLDER_FAVICON = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prop Firm Event Hub">
+<rect width="64" height="64" rx="12" fill="#0a5"/>
+<text x="32" y="42" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="#fff" text-anchor="middle">E</text>
+</svg>
+`;
 
 // ── mirror parsing ──────────────────────────────────────────────
 // Category and tag mirrors share one table shape. The Code column carries
@@ -291,7 +301,7 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 <p>Looking for the verification trail behind each code, with the dated deals it applied to? See the firm pages on <a href="https://propfirmdiscount.com/">PropFirmDiscount</a>, or the machine-readable <a href="/dataset.json">dataset.json</a>.</p>
 
 <h2 id="method">About this hub and how the code column works</h2>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
 <p>Reading the Code column: a <code>monospaced value</code> is the firm's standing exclusive code and the deal redeems on it any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies to the account without entering anything.</p>
 <p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the calendar updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md', extraCss: EVENTS_CSS }) };
@@ -367,7 +377,7 @@ function roundupPage(cal, kind, others, now) {
   const firmSection = firmRows.length ? `<h2 id="firms">${esc(cal.name)} discount code by firm</h2>
 <p>Every firm with a ${esc(cal.name)} offer on record, deepest cut first. The code shown is the one that firm's best ${esc(cal.name)} offer used.</p>
 <table class="checks firms fixed">
-<thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Offers</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
+<thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCell(f.bestRow)}</td></tr>`).join('\n')}
 </tbody>
@@ -382,7 +392,7 @@ ${firmSection}
 <p>${others.map((o) => `<a href="${o.href}">${esc(o.name)}</a>`).join(` ${EN_DASH} `)}.</p>
 <h2 id="method">How to read this table</h2>
 <p>${method}</p>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. This calendar was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. This calendar was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
 <p>Dates are publish dates, not re-test claims. Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
   return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
 }
@@ -421,7 +431,7 @@ function roundupMarkdown(cal, kind) {
   const firms = firmRollup(cal.rows);
   const year = cal.rows[0] ? cal.rows[0].published.slice(0, 4) : '';
   return [`# ${cal.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsTable(cal.rows), '',
-    ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Offers | Latest | Code |`, `|---|---|---|---|---|`,
+    ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
       ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
@@ -454,6 +464,10 @@ function headersFileEvents() {
   Content-Type: text/markdown; charset=utf-8
 /*.md
   Content-Type: text/markdown; charset=utf-8
+/site.webmanifest
+  Content-Type: application/manifest+json; charset=utf-8
+/favicon.svg
+  Content-Type: image/svg+xml
 /llms.txt
   Content-Type: text/plain; charset=utf-8
 /ai.txt
@@ -585,8 +599,15 @@ files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
 files['ai-sitemap.xml'] = aiSitemapXml(site, [...mdPaths, '/dataset.json', '/llms.txt'], lastmod);
 files['_headers'] = headersFileEvents();
 files['webmcp.js'] = webmcpJsEvents();
+// Icons are binary and live outside the text builders, exactly as the
+// satellites do it: tools/events/assets/events/ is copied verbatim and the
+// placeholder assets are dropped once real artwork lands there.
+if (site.icons) files['site.webmanifest'] = webManifest(site);
 
 for (const [name, text] of Object.entries(files)) assertClean(name, text);
+
+const ASSET_NAMES = ['favicon.svg', 'favicon.ico', 'favicon-96x96.png', 'apple-touch-icon.png', 'web-app-manifest-192x192.png', 'web-app-manifest-512x512.png'];
+const eventsAssetDir = join(here, 'assets', site.id);
 
 if (argv.includes('--check')) {
   console.log(`check ok: ${Object.keys(files).length} files; ${warnings} standing-code warnings; ${deals.length} unique deals; ${totalDeals} seasonal rows; leaderboard ${board.label} (${board.ranks.length})`);
@@ -596,7 +617,14 @@ if (argv.includes('--check')) {
     mkdirSync(dirname(p), { recursive: true });
     writeFileSync(p, text);
   }
-  console.log(`events (${site.origin}) -> ${outRoot}: ${Object.keys(files).length} files`);
+  // Real icons if the user has dropped them in, placeholder stubs otherwise.
+  let icons = 0;
+  for (const name of ASSET_NAMES) {
+    const src = join(eventsAssetDir, name);
+    if (existsSync(src)) { copyFileSync(src, join(outRoot, name)); icons++; }
+  }
+  if (!icons && site.icons) writeFileSync(join(outRoot, 'favicon.svg'), PLACEHOLDER_FAVICON);
+  console.log(`events (${site.origin}) -> ${outRoot}: ${Object.keys(files).length} files${site.icons ? `, ${icons || 'placeholder'} icon${icons === 1 ? '' : 's'}` : ''}`);
   console.log(`  hub: ${totalDeals} seasonal deals, ${cals.length} categories, ${tags.length} tags, ${codes.length} standing codes`);
   console.log(`  leaderboard ${board.label}: ${board.ranks.length} firms, top ${board.ranks[0] ? `${board.ranks[0].firm} ${board.ranks[0].pct}%` : EN_DASH}`);
   console.log(`  unique deal rows in dataset.json: ${deals.length}; standing-code warnings: ${warnings}`);

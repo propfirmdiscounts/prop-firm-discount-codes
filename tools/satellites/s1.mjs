@@ -197,7 +197,7 @@ ${sorted.map(rowOf).join('\n')}
 <h2 id="log">Checks, newest first</h2>
 ${table}
 <h2 id="method">About this site and how codes are checked</h2>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
 <p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
 <p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md' }) };
@@ -216,7 +216,7 @@ export function hubMarkdown(site, rows, now) {
     md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${r.last_deal_published || EN_DASH} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
-    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
+    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
     `What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.`, '',
     `Corrections welcome: ${site.email}. Full dataset: ${site.origin}/dataset.json. Methodology notes: ${site.origin}/llms.txt.`);
   return md.join('\n') + '\n';
