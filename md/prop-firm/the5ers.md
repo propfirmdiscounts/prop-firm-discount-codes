@@ -1,11 +1,15 @@
 # The5ers Discount Code
 
-No live discount code for The5ers right now — newest deals and offers are below.
+The verified The5ers discount code is **NKY03MTJGM** — Up to 5% off, works any time.
 
+- Code: NKY03MTJGM
+- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-05
 - Trustpilot: 4.7/5 (39196 reviews)
 - Activate: https://propfirmdiscount.com/go/the5ers
 - Firm page: https://propfirmdiscount.com/prop-firm/the5ers/
+- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deal: The5ers Black Friday: 15% Off All Accounts + 5% Off Select High Stakes
 

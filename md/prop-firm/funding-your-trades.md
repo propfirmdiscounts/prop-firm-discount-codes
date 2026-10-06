@@ -1,10 +1,10 @@
 # Funding Your Trades Discount Code
 
-The verified Funding Your Trades discount code is **PFDC** — Up to 2% off, works any time.
+The verified Funding Your Trades discount code is **PFD** — Up to 2% off, works any time.
 
 > ⚠️ Before You Judge Us by One Platform At FYT, our mission is to help traders access funded capital through transparent evaluation and funding programs. Since launch, we’ve supported traders worldwide, processed rewards across multiple countries, and built a strong, growing community. We encourage every trader to take time to read our rules, explore our website, join our community, and ask questions before deciding. Recently, we’ve faced challenges with review moderation on certain platforms, meaning some genuine reviews may not appear right away. While we respect each platform’s policies, we believe no single source should define a company. That’s why we invite you to explore our website, social media, Discord, trader interviews, payout reports, and educational content to form your own opinion. Most importantly, if you have doubts, you can connect directly with funded FYT traders and hear their experiences firsthand.
 
-- Code: PFDC
+- Code: PFD
 - Discount: Up to 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-30

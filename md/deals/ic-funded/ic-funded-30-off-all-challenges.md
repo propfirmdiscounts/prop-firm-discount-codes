@@ -1,21 +1,21 @@
-# IC Funded Discount Code
+# IC Funded 30% Off All Evaluation Accounts
 
-The newest IC Funded discount code is **SCALE30** — 30% off (October 6, 2026). The live campaign code changes with each promotion; newest first below.
+IC Funded is offering 30% off — discount code **SCALE30**.
 
-- Last deal published: 2026-10-06
-- Trustpilot: 3.3/5 (170 reviews)
-- Activate: https://propfirmdiscount.com/go/icfunded
-- Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
-
-## Current deal: IC Funded 30% Off All Evaluation Accounts
+> IC Funded is reducing the initial entry fee by 30% across all 1-Step and 2-Step evaluation challenges up to $500K. Valid from October 1 to October 25.
 
 - Published: 2026-10-06
+- Prop firm: IC Funded
+- Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
+- Summary: Reduce your upfront evaluation cost by 30% across all 1-Step and 2-Step challenges. This promotion runs from October 1 to October 25 and leaves all trading rules entirely unchanged.
 - Offer: 30% Off
 - Code: SCALE30
 - Scope: 1-Step, 2-Step, up to $500K
-- Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/
+- Deal: https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/
 
-## IC Funded deal FAQ
+Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Frequently Asked Questions
 
 **What does the current IC Funded discount provide?**
 
@@ -37,7 +37,3 @@ No, the core account features remain completely unchanged. Successfully funded t
 
 You can claim the lower upfront fee by selecting your desired account size and applying the active promotion during checkout before the October 25 expiration.
 
-## Current deals (newest first)
-
-- 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off)
-- 2026-08-27 - [IC Funded 30% Off Challenge Pricing Promotion](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-evaluation-promotion/) (30% Off)

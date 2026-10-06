@@ -12,7 +12,7 @@ For Traders is offering Only $9.99 — discount code **TOKEN2049**.
 - Code: TOKEN2049
 - Scope: $6K Fast Crypto, 1-Step, All Platforms
 - Deal: https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/
-- Verified standing exclusive code: 1DGSOBYHEB (works any time; the live rate is always on the firm page)
+- Verified standing exclusive code: VGYCKXLTY9 (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

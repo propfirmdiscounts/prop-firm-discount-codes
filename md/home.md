@@ -38,6 +38,8 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-06 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Discounts & Account Customization | 40% Off | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/ |
+| 2026-10-06 | IC Funded | IC Funded 30% Off All Evaluation Accounts | 30% Off | https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/ |
 | 2026-10-05 | FundingTraders | FundingTraders Up to 81% Off Instant Funded Accounts | 81% Off | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/ |
 | 2026-10-05 | For Traders | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
 | 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% Off | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |
@@ -66,5 +68,3 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% Off | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-10-01 | FundYourFX | FundYourFX 60% Off Entry Cost Extension | 60% Off | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/ |
 | 2026-10-01 | QT Funded | QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account | 60% Off | https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/ |
-| 2026-10-01 | FundedNext | FundedNext Lowered Pricing: Stellar Accounts From $29.99 | Only $29.99 | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/ |
-| 2026-10-01 | AquaFunded | AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund | 25% Off | https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/ |

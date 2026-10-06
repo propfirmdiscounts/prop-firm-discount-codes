@@ -2,7 +2,7 @@
     "dataset": "prop firm discount codes",
     "publisher": "propfirmdiscount.com",
     "schema": "coupon_dataset_v2",
-    "count": 48,
+    "count": 49,
     "data": [
         {
             "prop_firm": "Crypto Fund Trader",
@@ -170,7 +170,7 @@
         },
         {
             "prop_firm": "For Traders",
-            "code": "1DGSOBYHEB",
+            "code": "VGYCKXLTY9",
             "discount": "15%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
@@ -293,6 +293,19 @@
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Trade-The-Pool-logo.jpg"
         },
         {
+            "prop_firm": "The5ers",
+            "code": "NKY03MTJGM",
+            "discount": "5%",
+            "valid_from": "2026-01-01",
+            "valid_until": "2026-12-31",
+            "last_deal_published": null,
+            "activation_link": "https://propfirmdiscount.com/go/the5ers",
+            "archive_url": "https://propfirmdiscount.com/prop-firm/the5ers/",
+            "trustpilot_score": 4.7,
+            "trustpilot_reviews": 39196,
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/the5ers_log.png"
+        },
+        {
             "prop_firm": "Hantec Trader",
             "code": "A2dmq73g8",
             "discount": "5%",
@@ -322,7 +335,7 @@
         },
         {
             "prop_firm": "Funding Your Trades",
-            "code": "PFDC",
+            "code": "PFD",
             "discount": "2%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",

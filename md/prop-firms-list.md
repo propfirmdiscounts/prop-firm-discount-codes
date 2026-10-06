@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-48 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 90% off. Every code is listed below, alphabetical by firm.
+49 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 90% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -22,7 +22,7 @@
 | FXIFY | FXIFY2WRIVW | 10% | 2026-01-01 | 2026-12-31 | 2026-10-03 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | Fintokei | THODO5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/fintokei/ |
-| For Traders | 1DGSOBYHEB | 15% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fortraders/ |
+| For Traders | VGYCKXLTY9 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
@@ -31,7 +31,7 @@
 | Funded Trading Plus (FT+) | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedSeat | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| Funding Your Trades | PFDC | 2% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
+| Funding Your Trades | PFD | 2% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | 2026-01-01 | 2026-12-31 | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | FundingTraders | PFD | 81% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
@@ -48,6 +48,7 @@
 | Seacrest Markets | jackichun | 5% | 2026-01-01 | 2026-12-31 | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | 2026-01-01 | 2026-12-31 | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
 | TX3 Funding | PFDC | 25% | 2026-01-01 | 2026-12-31 | 2026-08-13 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| The5ers | NKY03MTJGM | 5% | 2026-01-01 | 2026-12-31 | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-04 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | 2026-01-01 | 2026-12-31 | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
