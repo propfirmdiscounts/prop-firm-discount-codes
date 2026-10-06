@@ -3,7 +3,7 @@ import {
   esc, EN_DASH, monthYearUTC, offerShape, titleFor, firmJsonLd, layout,
   DISCLOSURE, robotsTxt, llmsTxt, sitemapXml, aiSitemapXml, apiCatalog,
   skillMd, webmcpJs, csvOf, headersFile, assertClean, parseFirmMirror,
-  publisherOrg,
+  publisherOrg, webManifest,
 } from './lib.mjs';
 
 export const site = {
@@ -11,6 +11,8 @@ export const site = {
   workerName: 'pfd-codecheck',
   domainPlaceholder: 'propfirmcodecheck.example',
   siteName: 'Prop Firm Code Check',
+  shortName: 'CodeCheck',
+  icons: true,
   tagline: EN_DASH + ' standing discount code verification log',
   skillName: 'prop-firm-code-check',
   hubBlurb: 'newest code checks first',
@@ -248,6 +250,7 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
   files[`.well-known/agent-skills/${site.skillName}/SKILL.md`] = skillMd(site, rows);
   files['webmcp.js'] = webmcpJs(site);
   files['_headers'] = headersFile();
+  if (site.icons) files['site.webmanifest'] = webManifest(site);
   for (const [name, text] of Object.entries(files)) assertClean(name, text);
   Object.assign(out, files);
   return Object.keys(files).length;

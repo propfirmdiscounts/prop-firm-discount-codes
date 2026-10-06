@@ -1,6 +1,6 @@
 // Build entrypoint for the PFD satellite network.
 // Usage: node tools/satellites/build.mjs [--site s1] [--out dist]
-import { mkdirSync, writeFileSync, readFileSync, existsSync } from 'node:fs';
+import { mkdirSync, writeFileSync, readFileSync, existsSync, copyFileSync, readdirSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadDataset, parseFirmMirror } from './lib.mjs';
@@ -51,5 +51,14 @@ for (const site of selected) {
     mkdirSync(dirname(p), { recursive: true });
     writeFileSync(p, text);
   }
-  console.log(`${site.id} (${site.origin}): ${Object.keys(out).length} files (${n} from builder)`);
+  // Binary assets (favicons etc.) live outside the text builders.
+  const assetDir = join(here, 'assets', site.id);
+  let assets = 0;
+  if (existsSync(assetDir)) {
+    for (const f of readdirSync(assetDir)) {
+      copyFileSync(join(assetDir, f), join(dir, f));
+      assets += 1;
+    }
+  }
+  console.log(`${site.id} (${site.origin}): ${Object.keys(out).length + assets} files (${n} built + ${assets} assets)`);
 }

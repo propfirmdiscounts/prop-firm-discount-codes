@@ -242,7 +242,12 @@ export function layout(site, { title, desc, canonical, ld, body, path, altMarkdo
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(title)}</title>
+${site.icons ? `<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-96x96.png" sizes="96x96" type="image/png">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+` : ''}<title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${canonical}">
 ${alts}<meta property="og:type" content="website">
@@ -413,6 +418,21 @@ export function csvOf(rows) {
   return [cols.join(','), ...rows.map((r) => cols.map((c) => q(r[c])).join(','))].join('\n') + '\n';
 }
 
+export function webManifest(site) {
+  return JSON.stringify({
+    name: site.siteName,
+    short_name: site.shortName || site.siteName,
+    start_url: '/',
+    display: 'standalone',
+    background_color: '#ffffff',
+    theme_color: '#ffffff',
+    icons: [
+      { src: '/web-app-manifest-192x192.png', sizes: '192x192', type: 'image/png', purpose: 'maskable' },
+      { src: '/web-app-manifest-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+    ],
+  }, null, 2) + '\n';
+}
+
 export function headersFile() {
   return `/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -430,6 +450,10 @@ export function headersFile() {
   Content-Type: text/csv; charset=utf-8
 /.well-known/api-catalog
   Content-Type: application/json; charset=utf-8
+/site.webmanifest
+  Content-Type: application/manifest+json; charset=utf-8
+/favicon.svg
+  Content-Type: image/svg+xml
 `;
 }
 
