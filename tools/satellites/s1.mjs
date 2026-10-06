@@ -158,7 +158,18 @@ export function hubPage(site, rows, now) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
   const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
   const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first. Updated ${monthYearUTC(now)}.`;
-  const items = sorted.map((r) => `<li><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a> ${EN_DASH} <code>${esc(r.code)}</code>${r.last_deal_published ? `, last deal <time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : ''}</li>`).join('\n');
+  const rowOf = (r) => `<tr>
+<td><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a></td>
+<td><code>${esc(r.code)}</code></td>
+<td>${esc(offerShape(r.discount).titlePart || r.discount || EN_DASH)}</td>
+<td>${r.last_deal_published ? `<time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : EN_DASH}</td>
+</tr>`;
+  const table = `<table class="checks">
+<thead><tr><th scope="col">Firm</th><th scope="col">Code</th><th scope="col">Discount</th><th scope="col">Last deal</th></tr></thead>
+<tbody>
+${sorted.map(rowOf).join('\n')}
+</tbody>
+</table>`;
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -181,14 +192,31 @@ export function hubPage(site, rows, now) {
   const body = `<h1>Prop Firm Discount Code Checks</h1>
 <p class="answer">This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
 <h2 id="log">Checks, newest first</h2>
-<ol class="log">
-${items}
-</ol>
+${table}
 <h2 id="method">About this site and how codes are checked</h2>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
 <p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
 <p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
-  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null }) };
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md' }) };
+}
+
+// Machine twin of the hub. Same rows as the page, as a markdown table so an
+// agent can read the whole log in one fetch.
+export function hubMarkdown(site, rows, now) {
+  const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
+  const md = [`# Prop Firm Discount Code Checks`, '',
+    `This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
+    `## Checks, newest first`, '',
+    `| Firm | Code | Discount | Last deal |`,
+    `|------|------|----------|-----------|`];
+  for (const r of sorted) {
+    md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${r.last_deal_published || EN_DASH} |`);
+  }
+  md.push('', '## About this site and how codes are checked', '',
+    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
+    `What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.`, '',
+    `Corrections welcome: ${site.email}. Full dataset: ${site.origin}/dataset.json. Methodology notes: ${site.origin}/llms.txt.`);
+  return md.join('\n') + '\n';
 }
 
 export function buildSite(siteIn, rows, mirrors, now, out) {
@@ -206,6 +234,7 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
   }
   const hub = hubPage(site, rows, now);
   files['index.html'] = hub.html;
+  files['index.md'] = hubMarkdown(site, rows, now);
   files['dataset.json'] = JSON.stringify({ dataset: 'prop-firm-codes', publisher: site.siteName, count: rows.length, generated: now.toISOString().slice(0, 10), data: rows }, null, 2);
   files['dataset.csv'] = csvOf(rows);
   files['robots.txt'] = robotsTxt(site);
@@ -213,7 +242,7 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
   files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site is a static mirror of the PropFirmDiscount dataset.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\nHugging Face dataset: https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes\n`;
   const lastmod = now.toISOString().slice(0, 10);
   files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
-  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
+  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/index.md', '/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
   files['.well-known/api-catalog'] = apiCatalog(site);
   files[`.well-known/agent-skills/${site.skillName}/SKILL.md`] = skillMd(site, rows);
   files['webmcp.js'] = webmcpJs(site);

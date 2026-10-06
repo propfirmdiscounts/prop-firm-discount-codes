@@ -227,14 +227,15 @@ header span{color:var(--mut);font-weight:400}
 main{padding:20px 16px 40px}h1{font-size:1.7rem;line-height:1.25;margin:.4em 0}h2{font-size:1.2rem;margin:1.6em 0 .5em}
 p.answer{font-size:1.05rem}code.chip{background:var(--acc);color:#fff;padding:2px 10px;border-radius:6px;font-weight:700;letter-spacing:.5px}
 table{border-collapse:collapse;width:100%;margin:1em 0}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
-th{width:34%;background:color-mix(in srgb,var(--line) 30%,transparent)}
+tbody th{width:34%}th{background:color-mix(in srgb,var(--line) 30%,transparent)}
+table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}table.checks td:nth-child(4){white-space:nowrap}
 ol.log li{margin:.4em 0}footer{border-top:1px solid var(--line);padding:16px;color:var(--mut);font-size:.85rem}
 footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb a{color:var(--mut)}`;
 
-export function layout(site, { title, desc, canonical, ld, body, path }) {
+export function layout(site, { title, desc, canonical, ld, body, path, altMarkdown }) {
   const alts = path
     ? `<link rel="alternate" type="text/markdown" href="${path}.md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
-    : '';
+    : (altMarkdown ? `<link rel="alternate" type="text/markdown" href="${altMarkdown}">\n` : '');
   const email = site.email ? `<a href="mailto:${esc(site.email)}">${esc(site.email)}</a>` : '';
   return `<!doctype html>
 <html lang="en">
@@ -305,6 +306,7 @@ export function llmsTxt(site, rows, now) {
 ## Pages
 
 - ${site.origin}/ ${EN_DASH} ${site.hubBlurb} (as of ${monthYearUTC(now)}; newest checked: ${top ? top.prop_firm : 'n/a'})
+- ${site.origin}/index.md ${EN_DASH} the same hub index as markdown
 - ${site.origin}/firms/{firm-slug}/ ${EN_DASH} one page per firm (${rows.length} pages)
 `;
 }
@@ -412,7 +414,9 @@ export function csvOf(rows) {
 }
 
 export function headersFile() {
-  return `/firms/*.md
+  return `/index.md
+  Content-Type: text/markdown; charset=utf-8
+/firms/*.md
   Content-Type: text/markdown; charset=utf-8
 /llms.txt
   Content-Type: text/plain; charset=utf-8
