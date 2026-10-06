@@ -45,6 +45,10 @@ jobs:
           MD_PATHS+=($(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/category-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|^https://propfirmdiscount.com/||;s|/$||' | sed 's|^category/|category/|'))
           # Indexable tags (>= 10 posts) — same list the tag sitemap carries.
           MD_PATHS+=($(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/tag-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|^https://propfirmdiscount.com/||;s|/$||'))
+          # Event tags mirrored below the indexability threshold (whitelisted
+          # in the mu-plugin); the tag sitemap does not carry them, so they
+          # are listed here to survive both the fetch and the prune pass.
+          for t in fathers-day holi-festival international-womens-day international-workers-day lunar-new-year mothers-day presidents-day; do MD_PATHS+=("tag/$t"); done
           FIRM_SLUGS=$(curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/dealstore-sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | sed 's|.*/prop-firm/||;s|/$||')
           mkdir -p md
           for p in "${MD_PATHS[@]}"; do
