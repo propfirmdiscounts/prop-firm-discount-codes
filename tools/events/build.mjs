@@ -176,6 +176,17 @@ ${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.publishe
 </table>`;
 }
 
+// Term pages split the deal table by year once a calendar spans more than one,
+// so a reader landing on a returning event sees the current run first instead
+// of scrolling past last year's. Single-year calendars keep the bare table —
+// a lone "2026" heading would only repeat the year already in the H1.
+// `rows` arrives newest-first, so the year keys come out newest-first too.
+function dealsByYear(rows) {
+  const years = [...new Set(rows.map((r) => r.published.slice(0, 4)))];
+  if (years.length <= 1) return dealsTable(rows);
+  return years.map((y) => `<h3>${y}</h3>\n${dealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n');
+}
+
 // One combined table for both calendar groups. Rows sort newest-first by their
 // most recent deal so the driest calendars sink to the bottom.
 function calendarTable(items) {
@@ -385,7 +396,7 @@ ${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DAS
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(cal.name)}</nav>
 <h1>${esc(h1)}</h1>
 <p class="answer">${bridge}</p>
-${dealsTable(rows)}
+${dealsByYear(rows)}
 ${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals in this calendar; older entries live in the <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> archive.</p>` : ''}
 ${firmSection}
 <h2 id="others">Other event calendars</h2>
@@ -406,6 +417,13 @@ function mdDealsTable(rows, withEvent) {
     ...rows.map((r) => `| ${r.published} | ${withEvent ? `${r.eventShort || EN_DASH} | ` : ''}${r.firm || EN_DASH} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
 }
 const CODE_NOTE = `Code column meaning: a standing code shown as a value works any time; the plain-text "Campaign Code Required" means the deal has its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
+
+// Mirror of dealsByYear for the markdown twin: same years, `###` headings.
+function mdDealsByYear(rows) {
+  const years = [...new Set(rows.map((r) => r.published.slice(0, 4)))];
+  if (years.length <= 1) return mdDealsTable(rows);
+  return years.map((y) => `### ${y}\n\n${mdDealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n\n');
+}
 
 function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
@@ -430,7 +448,7 @@ function roundupMarkdown(cal, kind) {
     : `${cal.name} prop firm discount codes across every firm tagged ${cal.name}: ${cal.rows.length} dated offers, newest first, each marked with how its code redeems.`;
   const firms = firmRollup(cal.rows);
   const year = cal.rows[0] ? cal.rows[0].published.slice(0, 4) : '';
-  return [`# ${cal.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsTable(cal.rows), '',
+  return [`# ${cal.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsByYear(cal.rows), '',
     ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
       ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
