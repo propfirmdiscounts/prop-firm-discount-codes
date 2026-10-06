@@ -46,6 +46,8 @@ const CAL_NAMES = {
   'presidents-day': 'Presidents Day',
 };
 const calName = (slug) => CAL_NAMES[slug] || slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+// Short label drops the redundant " Deals" suffix ("Halloween Deals" → "Halloween").
+const shortName = (slug) => calName(slug).replace(/\s+Deals$/, '');
 
 const site = {
   id: 'events',
@@ -56,6 +58,36 @@ const site = {
   disclosure: DISCLOSURE,
 };
 site.email = `hello@${site.origin.replace(/^https?:\/\//, '')}`;
+
+// Hub tables carry more columns than the satellite layout expects, and the
+// base sheet nowraps columns 4-5 (which lands on Deal and/or Code here).
+// `table.fixed` keeps the widths from being overridden by long titles; the
+// nth-child overrides below sit after the base rules so they win and let the
+// Deal column absorb the slack while Code stays narrow enough for
+// "Campaign Code Required" to wrap.
+const EVENTS_CSS = `table.fixed{table-layout:fixed}
+table.deals6 th:nth-child(1),table.deals6 td:nth-child(1){width:11%}
+table.deals6 th:nth-child(2),table.deals6 td:nth-child(2){width:12%}
+table.deals6 th:nth-child(3),table.deals6 td:nth-child(3){width:13%}
+table.deals6 th:nth-child(4),table.deals6 td:nth-child(4){white-space:normal}
+table.deals6 th:nth-child(5),table.deals6 td:nth-child(5){width:10%}
+table.deals6 th:nth-child(6),table.deals6 td:nth-child(6){width:12%;white-space:normal;overflow-wrap:anywhere}
+table.deals5 th:nth-child(1),table.deals5 td:nth-child(1){width:12%}
+table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){width:16%}
+table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){white-space:normal}
+table.deals5 th:nth-child(4),table.deals5 td:nth-child(4){width:12%}
+table.deals5 th:nth-child(5),table.deals5 td:nth-child(5){width:13%;white-space:normal;overflow-wrap:anywhere}
+table.calendars th:nth-child(2),table.calendars td:nth-child(2){width:12%;text-align:right}
+table.calendars th:nth-child(3),table.calendars td:nth-child(3){width:24%}
+table.board td:nth-child(1){font-weight:400}
+table.board td:nth-child(2){font-weight:600}
+table.board th:nth-child(1),table.board td:nth-child(1){width:6%}
+table.board th:nth-child(2),table.board td:nth-child(2){width:14%}
+table.board th:nth-child(3),table.board td:nth-child(3){width:13%}
+table.board th:nth-child(4),table.board td:nth-child(4){white-space:normal}
+table.board th:nth-child(5),table.board td:nth-child(5){width:12%;white-space:normal;overflow-wrap:anywhere}
+table.board th:nth-child(6),table.board td:nth-child(6){width:12%}
+table.exclusive td:nth-child(4){white-space:nowrap}`;
 
 // ── mirror parsing ──────────────────────────────────────────────
 // Category and tag mirrors share one table shape. The Code column carries
@@ -89,9 +121,12 @@ function parseEventMirror(md) {
   return rows;
 }
 
-const readMirror = (rel) => {
+// Tag every parsed row with the calendar it came from so the hub's latest
+// table can show an Event column.
+const readMirror = (rel, eventShort) => {
   const p = join(repoRoot, 'md', rel);
-  return existsSync(p) ? parseEventMirror(readFileSync(p, 'utf8')) : [];
+  if (!existsSync(p)) return [];
+  return parseEventMirror(readFileSync(p, 'utf8')).map((r) => ({ ...r, eventShort }));
 };
 
 function loadCodes() {
@@ -109,20 +144,26 @@ const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').tri
 // ── rendering ───────────────────────────────────────────────────
 const codeCell = (r) => (r.codeState === 'standing' ? `<code>${esc(r.code)}</code>` : esc(r.code));
 
-function dealsTable(rows) {
-  return `<table class="checks">
-<thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th><th scope="col">Code</th></tr></thead>
+function dealsTable(rows, withEvent) {
+  const head = withEvent
+    ? `<th scope="col">Published</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`
+    : `<th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`;
+  return `<table class="checks fixed ${withEvent ? 'deals6' : 'deals5'}">
+<thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td><td>${codeCell(r)}</td></tr>`).join('\n')}
+${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td>${withEvent ? `<td>${esc(r.eventShort || EN_DASH)}</td>` : ''}<td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td><td>${codeCell(r)}</td></tr>`).join('\n')}
 </tbody>
 </table>`;
 }
 
-function calendarTable(items, hrefOf) {
-  return `<table class="checks">
-<thead><tr><th scope="col">Calendar</th><th scope="col">Deals</th><th scope="col">Newest</th></tr></thead>
+// One combined table for both calendar groups. Rows sort newest-first by their
+// most recent deal so the driest calendars sink to the bottom.
+function calendarTable(items) {
+  const sorted = [...items].sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')));
+  return `<table class="checks calendars fixed">
+<thead><tr><th scope="col">Event &amp; holiday</th><th scope="col">Deals</th><th scope="col">Newest</th></tr></thead>
 <tbody>
-${items.map(({ slug, name, rows }) => `<tr><td><a href="${hrefOf(slug)}">${esc(name)}</a></td><td>${rows.length}</td><td>${rows[0] ? `<time datetime="${esc(rows[0].published)}">${esc(rows[0].published)}</time>` : EN_DASH}</td></tr>`).join('\n')}
+${sorted.map(({ name, href, rows }) => `<tr><td><a href="${href}">${esc(name)}</a></td><td>${rows.length}</td><td>${rows[0] ? `<time datetime="${esc(rows[0].published)}">${esc(rows[0].published)}</time>` : EN_DASH}</td></tr>`).join('\n')}
 </tbody>
 </table>`;
 }
@@ -156,7 +197,7 @@ function leaderboard(poolRows) {
   const ranks = [...best.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || a[0].localeCompare(b[0]))
     .slice(0, 10)
-    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published }));
+    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, code: v.row.code, codeState: v.row.codeState }));
   return { label, windowed: windowed.length > 0, ranks };
 }
 
@@ -183,35 +224,32 @@ function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
       },
     ],
   };
-  const boardTable = board.ranks.length ? `<table class="checks">
-<thead><tr><th scope="col">Rank</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Published</th></tr></thead>
+  const boardTable = board.ranks.length ? `<table class="checks board fixed">
+<thead><tr><th scope="col">Rank</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Code</th><th scope="col">Published</th></tr></thead>
 <tbody>
-${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
+${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${codeCell(r)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
 </tbody>
 </table>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes</h1>
 <p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${cals.length} holiday categories and ${tags.length} event tags, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
 
 <h2 id="latest">Latest seasonal deals</h2>
-${dealsTable(latest)}
+${dealsTable(latest, true)}
 
 <h2 id="calendars">Event &amp; holiday calendars</h2>
-<p>Ten holiday categories and ${tags.length} event tags, each with its own dated deal log. Pick a season to see every offer recorded under it.</p>
-<h3>Holiday categories</h3>
-${calendarTable(cals, (slug) => `/${slug}/`)}
-<h3>Event tags</h3>
-${calendarTable(tags, (slug) => `/tag/${slug}/`)}
+<p>Ten holiday categories and ${tags.length} event tags, each with its own dated deal log, newest deal first. Pick a season to see every offer recorded under it.</p>
+${calendarTable([...cals.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/tag/${t.slug}/`, rows: t.rows }))])}
 
 <h2 id="leaderboard">Top seasonal discounts ${EN_DASH} ${esc(board.label)}</h2>
 <p>The ten firms with the deepest percentage offer among seasonal deals published in the most recent active months${board.windowed ? '' : ' on record'}. Ranking uses each firm's best single deal in the window; ties break on publish date.</p>
 ${boardTable}
 
 <h2 id="codes">Exclusive prop firm discount codes</h2>
-<p>These are the firms' standing codes: they work any time, inside or outside an event window. Listed as plain text on purpose ${EN_DASH} copy the code straight from the table, no click needed.</p>
-<table class="checks">
-<thead><tr><th scope="col">Firm</th><th scope="col">Standing code</th><th scope="col">Discount</th></tr></thead>
+<p>These are the firms' exclusive standing codes: they work any time, inside or outside an event window. Listed as plain text on purpose ${EN_DASH} copy the code straight from the table, no click needed.</p>
+<table class="checks exclusive fixed">
+<thead><tr><th scope="col">Prop Firm</th><th scope="col">Exclusive code</th><th scope="col">Discount</th><th scope="col">Checked</th></tr></thead>
 <tbody>
-${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</code></td><td>${esc(c.discount)}</td></tr>`).join('\n')}
+${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</code></td><td>${esc(c.discount)}</td><td>${esc(monthYearUTC(now))}</td></tr>`).join('\n')}
 </tbody>
 </table>
 <p>Looking for the verification trail behind each code, with the dated deals it applied to? See the firm pages on <a href="https://propfirmdiscount.com/">PropFirmDiscount</a>, or the machine-readable <a href="/dataset.json">dataset.json</a>.</p>
@@ -220,7 +258,7 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
 <p>Reading the Code column: a code shown in the column is the firm's standing code and the deal redeems on it any time; "Campaign Code Required" means checkout asks for the deal's own limited-time code, which lives on the deal page; "No Code Required" means the offer applies to the account without entering anything.</p>
 <p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the calendar updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
-  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md' }) };
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md', extraCss: EVENTS_CSS }) };
 }
 
 // ── calendar (roundup) page ─────────────────────────────────────
@@ -279,29 +317,32 @@ ${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals in t
 <h2 id="method">How to read this table</h2>
 <p>${method}</p>
 <p>Dates are publish dates, not re-test claims. Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
-  return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md` }) };
+  return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
 }
 
 // ── markdown twins ──────────────────────────────────────────────
-function mdDealsTable(rows) {
-  return [`| Published | Firm | Deal | Offer | Code |`, `|---|---|---|---|---|`,
-    ...rows.map((r) => `| ${r.published} | ${r.firm} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
+function mdDealsTable(rows, withEvent) {
+  const head = withEvent
+    ? [`| Published | Event | Firm | Deal | Discount | Code |`, `|---|---|---|---|---|---|`]
+    : [`| Published | Firm | Deal | Discount | Code |`, `|---|---|---|---|---|`];
+  return [...head,
+    ...rows.map((r) => `| ${r.published} | ${withEvent ? `${r.eventShort || EN_DASH} | ` : ''}${r.firm || EN_DASH} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
 }
 const CODE_NOTE = `Code column meaning: a printed code is the firm's standing code (works any time); "Campaign Code Required" means the deal page carries its own limited-time code; "No Code Required" means no code is entered. Source of record: https://propfirmdiscount.com/.`;
 
 function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
   return [`# Prop Firm Event Deals & Seasonal Discount Codes`, '',
     `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${cals.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
-    `## Latest seasonal deals`, '', mdDealsTable(latest), '',
-    `## Holiday categories`, '', `| Calendar | Deals | Newest |`, `|---|---|---|`,
-    ...cals.map((c) => `| [${c.name}](${site.origin}/${c.slug}/) | ${c.rows.length} | ${c.rows[0]?.published || EN_DASH} |`), '',
-    `## Event tags`, '', `| Calendar | Deals | Newest |`, `|---|---|---|`,
-    ...tags.map((t) => `| [${t.name}](${site.origin}/tag/${t.slug}/) | ${t.rows.length} | ${t.rows[0]?.published || EN_DASH} |`), '',
+    `## Latest seasonal deals`, '', mdDealsTable(latest, true), '',
+    `## Event & holiday calendars`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
+    ...[...cals.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/tag/${t.slug}/`, rows: t.rows }))]
+      .sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')))
+      .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top seasonal discounts ${EN_DASH} ${board.label}`, '',
-    `| Rank | Firm | Best discount | Deal | Published |`, `|---|---|---|---|---|`,
-    ...board.ranks.map((r) => `| ${r.rank} | ${r.firm} | ${r.pct}% Off | [${r.title}](${r.url}) | ${r.published} |`), '',
-    `## Exclusive prop firm discount codes`, '', `| Firm | Standing code | Discount |`, `|---|---|---|`,
-    ...codes.map((c) => `| ${c.prop_firm} | ${c.code} | ${c.discount} |`), '',
+    `| Rank | Firm | Best discount | Deal | Code | Published |`, `|---|---|---|---|---|---|`,
+    ...board.ranks.map((r) => `| ${r.rank} | ${r.firm} | ${r.pct}% Off | [${r.title}](${r.url}) | ${r.code} | ${r.published} |`), '',
+    `## Exclusive prop firm discount codes`, '', `| Prop Firm | Exclusive code | Discount | Checked |`, `|---|---|---|---|`,
+    ...codes.map((c) => `| ${c.prop_firm} | ${c.code} | ${c.discount} | ${monthYearUTC(now)} |`), '',
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
@@ -376,15 +417,24 @@ const now = new Date();
 const codes = loadCodes();
 const standingByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.code]));
 
-const cals = CATEGORY_SLUGS.map((slug) => ({ slug, name: calName(slug), rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`) }));
-const tags = TAG_SLUGS.map((slug) => ({ slug, name: calName(slug), rows: readMirror(`tag/${slug}.md`) }));
+const cals = CATEGORY_SLUGS.map((slug) => ({ slug, name: calName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug)) }));
+const tags = TAG_SLUGS.map((slug) => ({ slug, name: calName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug)) }));
 
 // The parent mirror (md/category/prop-firm-seasonal-deals.md) is capped at 30
 // rows, which is enough for a "latest" slice but under-counts the season. The
 // real seasonal pool is the union of the 10 child categories.
+// Build the seasonal pool from the 10 child categories, then relabel each row
+// with the tag whose short name matches the deal title (tags are the sharper
+// signal — a Labor Day deal sits in the Festive Anniversary category, but the
+// tag name is what a reader expects to see in the Event column).
+const tagByShort = new Map(tags.map((t) => [t.short.toLowerCase(), t.short]));
 const poolSeen = new Set();
 const pool = cals.flatMap((c) => c.rows)
   .filter((r) => (poolSeen.has(r.url) ? false : (poolSeen.add(r.url), true)))
+  .map((r) => {
+    const hit = [...tagByShort.keys()].find((s) => r.title.toLowerCase().includes(s));
+    return hit ? { ...r, eventShort: tagByShort.get(hit) } : r;
+  })
   .sort((a, b) => b.published.localeCompare(a.published));
 
 // Guard: a standing code printed in a mirror must equal the public dataset code.

@@ -216,7 +216,7 @@ table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}tab
 ol.log li{margin:.4em 0}footer{border-top:1px solid var(--line);padding:16px;color:var(--mut);font-size:.85rem}
 footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb a{color:var(--mut)}`;
 
-export function layout(site, { title, desc, canonical, ld, body, path, altMarkdown }) {
+export function layout(site, { title, desc, canonical, ld, body, path, altMarkdown, extraCss }) {
   const alts = path
     ? `<link rel="alternate" type="text/markdown" href="${path}.md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
     : (altMarkdown ? `<link rel="alternate" type="text/markdown" href="${altMarkdown}">\n` : '');
@@ -240,7 +240,7 @@ ${alts}<meta property="og:type" content="website">
 <meta property="og:url" content="${canonical}">
 <meta name="twitter:card" content="summary">
 <script type="application/ld+json">${JSON.stringify(ld)}</script>
-<style>${CSS}</style>
+<style>${CSS}${extraCss ? '\n' + extraCss : ''}</style>
 </head>
 <body>
 <header><a href="/">${esc(site.siteName)}</a> <span>${esc(site.tagline)}</span></header>
