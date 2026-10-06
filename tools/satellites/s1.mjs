@@ -57,7 +57,6 @@ function currentDealSection(firm, mirror) {
     ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
   ];
   if (d.offer) rows.push(['Offer', esc(o.titlePart || d.offer)]);
-  if (mirror.dealCodeRelation === 'standing') rows.push(['Code', `<code>${esc(firm.code)}</code> ${EN_DASH} standing code`]);
   if (d.scope) rows.push(['Scope', esc(d.scope)]);
   rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
   return `<h2 id="deal">Latest deal: ${esc(d.title)}</h2>
@@ -100,8 +99,8 @@ export function firmPage(site, firm, mirror, now) {
 <h1>${esc(firm.prop_firm)} Discount Code</h1>
 <p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
-${currentDealSection(firm, mirror)}
 ${logSection(mirror)}
+${currentDealSection(firm, mirror)}
 ${faqSection(firm, mirror)}`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
 }
@@ -115,11 +114,15 @@ export function firmTwins(site, firm, mirror, now) {
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
   md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
   const ldDeal = mirror.latestDeal;
+  if (mirror.dealHistory.length) {
+    md.push('## Code check log (newest first)', '');
+    for (const d of mirror.dealHistory) md.push(`- ${d.date} - [${d.title}](${d.url}) (${d.offer})`);
+    md.push('');
+  }
   if (ldDeal) {
     md.push(`## Latest deal: ${ldDeal.title}`, '');
     md.push(`- Published: ${ldDeal.published}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
-    if (mirror.dealCodeRelation === 'standing') md.push(`- Code: ${firm.code} (standing code)`);
     if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
     md.push(`- Deal page: ${ldDeal.dealUrl}`, '');
     md.push({
@@ -127,11 +130,6 @@ export function firmTwins(site, firm, mirror, now) {
       own: `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`,
       unknown: `This is the firm's newest promotion; the standing code ${firm.code} above is the one that works any time.`,
     }[mirror.dealCodeRelation], '');
-  }
-  if (mirror.dealHistory.length) {
-    md.push('## Code check log (newest first)', '');
-    for (const d of mirror.dealHistory) md.push(`- ${d.date} - [${d.title}](${d.url}) (${d.offer})`);
-    md.push('');
   }
   if (mirror.faq.length) {
     md.push(`## ${ldDeal ? `${ldDeal.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
