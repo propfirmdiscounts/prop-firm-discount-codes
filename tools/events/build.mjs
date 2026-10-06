@@ -66,6 +66,7 @@ site.email = `hello@${site.origin.replace(/^https?:\/\//, '')}`;
 // Deal column absorb the slack while Code stays narrow enough for
 // "Campaign Code Required" to wrap.
 const EVENTS_CSS = `table.fixed{table-layout:fixed}
+table.fixed td,table.fixed th{overflow-wrap:anywhere}
 table.deals6 th:nth-child(1),table.deals6 td:nth-child(1){width:11%}
 table.deals6 th:nth-child(2),table.deals6 td:nth-child(2){width:12%}
 table.deals6 th:nth-child(3),table.deals6 td:nth-child(3){width:13%}
@@ -235,9 +236,12 @@ function firmRollup(rows) {
 
 // ── homepage ────────────────────────────────────────────────────
 function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
-  const title = `Prop Firm Event Deals ${EN_DASH} Seasonal Discount Code Calendars ${monthYearUTC(now)}`;
+  // Year stamp follows the newest seasonal deal on record, so a stale calendar
+  // never advertises the current year.
+  const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
+  const title = `Prop Firm Event Deals & Seasonal Discount Codes ${year}`;
   const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${cals.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
-  const pages = [...cals.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/tag/${t.slug}/` }))];
+  const pages = [...cals.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/${t.slug}/` }))];
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -262,7 +266,7 @@ function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
 ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td>${codeTd(r)}<td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
 </tbody>
 </table>` : '<p>No percentage offers are on record for the current window yet.</p>';
-  const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes</h1>
+  const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes ${year}</h1>
 <p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${cals.length} holiday categories and ${tags.length} event tags, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
 
 <h2 id="latest">Latest seasonal deals</h2>
@@ -270,7 +274,7 @@ ${dealsTable(latest, true)}
 
 <h2 id="calendars">Event &amp; holiday calendars</h2>
 <p>Ten holiday categories and ${tags.length} event tags, each with its own dated deal log, newest deal first. Pick a season to see every offer recorded under it.</p>
-${calendarTable([...cals.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/tag/${t.slug}/`, rows: t.rows }))])}
+${calendarTable([...cals.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
 
 <h2 id="leaderboard">Top seasonal discounts ${EN_DASH} ${esc(board.label)}</h2>
 <p>The ten firms with the deepest percentage offer among seasonal deals published in the most recent active months${board.windowed ? '' : ' on record'}. Ranking uses each firm's best single deal in the window; ties break on publish date.</p>
@@ -300,11 +304,14 @@ function roundupPage(cal, kind, others, now) {
   const nStanding = rows.filter((r) => r.codeState === 'standing').length;
   const nCampaign = rows.filter((r) => r.codeState === 'campaign').length;
   const nNone = rows.filter((r) => r.codeState === 'none').length;
-  const path = kind === 'category' ? `/${cal.slug}` : `/tag/${cal.slug}`;
-  const h1 = `${cal.name} Prop Firm Discount Code`;
-  // Year-only stamp, matching the main site's convention for deal-sourced
-  // codes: no stale month on the SERP, and no deal count crowding the title.
-  const title = `${h1} ${EN_DASH} ${now.getUTCFullYear()}`;
+  // Every calendar — holiday category or event tag — lives at the site root,
+  // so no event ever needs a /tag/ prefix.
+  const path = `/${cal.slug}`;
+  // Year stamp follows this calendar's newest deal, matching the hub: an event
+  // whose latest entry is from an earlier year never claims the current one.
+  const year = newest ? newest.published.slice(0, 4) : now.getUTCFullYear();
+  const h1 = `${cal.name} Prop Firm Discount Code ${year}`;
+  const title = h1;
   const desc = (kind === 'category'
     ? `${cal.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${cal.name} promotions, newest first, each marked standing code, campaign code required or no code required.`
     : `${cal.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${cal.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
@@ -391,11 +398,12 @@ function mdDealsTable(rows, withEvent) {
 const CODE_NOTE = `Code column meaning: a standing code shown as a value works any time; the plain-text "Campaign Code Required" means the deal has its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
 function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
-  return [`# Prop Firm Event Deals & Seasonal Discount Codes`, '',
+  const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
+  return [`# Prop Firm Event Deals & Seasonal Discount Codes ${year}`, '',
     `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${cals.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
     `## Latest seasonal deals`, '', mdDealsTable(latest, true), '',
     `## Event & holiday calendars`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
-    ...[...cals.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/tag/${t.slug}/`, rows: t.rows }))]
+    ...[...cals.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
       .sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')))
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top seasonal discounts ${EN_DASH} ${board.label}`, '',
@@ -411,7 +419,8 @@ function roundupMarkdown(cal, kind) {
     ? `${cal.name} prop firm discount codes: ${cal.rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
     : `${cal.name} prop firm discount codes across every firm tagged ${cal.name}: ${cal.rows.length} dated offers, newest first, each marked with how its code redeems.`;
   const firms = firmRollup(cal.rows);
-  return [`# ${cal.name} Prop Firm Discount Code`, '', lead, '', mdDealsTable(cal.rows), '',
+  const year = cal.rows[0] ? cal.rows[0].published.slice(0, 4) : '';
+  return [`# ${cal.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsTable(cal.rows), '',
     ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Offers | Latest | Code |`, `|---|---|---|---|---|`,
       ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
@@ -429,13 +438,9 @@ function llmsTxtEvents(cals, tags, totalDeals, now) {
 - ${site.origin}/dataset.json ${EN_DASH} every calendar row as JSON
 - ${site.origin}/sitemap.xml ${EN_DASH} all HTML pages
 
-## Holiday categories
+## Event & holiday calendars
 
-${cals.map((c) => `- ${site.origin}/${c.slug}/ ${EN_DASH} ${c.name} (${c.rows.length} deals)`).join('\n')}
-
-## Event tags
-
-${tags.map((t) => `- ${site.origin}/tag/${t.slug}/ ${EN_DASH} ${t.name} (${t.rows.length} deals)`).join('\n')}
+${[...cals, ...tags].map((c) => `- ${site.origin}/${c.slug}/ ${EN_DASH} ${c.name} (${c.rows.length} deals)`).join('\n')}
 
 ## Source of record
 
@@ -466,7 +471,7 @@ function webmcpJsEvents() {
   reg.registerTool({
     name: 'get_prop_firm_event_deals',
     description: 'Seasonal prop firm deal log: calendars, dated deals and how each code redeems.',
-    inputSchema: { type: 'object', properties: { calendar: { type: 'string', description: 'calendar path, e.g. black-friday or tag/diwali; omit for all' } } },
+    inputSchema: { type: 'object', properties: { calendar: { type: 'string', description: 'calendar slug, e.g. black-friday or diwali; omit for all' } } },
     execute: async (input) => {
       const calendar = input && input.calendar;
       const d = await (await fetch('/dataset.json')).json();
@@ -521,20 +526,22 @@ const board = leaderboard(pool);
 const files = { 'index.html': hubPage(latest, cals, tags, codes, board, totalDeals, now).html, md: hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) };
 const htmlPaths = ['/'];
 const mdPaths = ['/md'];
-const tagNav = tags.map((t) => ({ name: t.name, href: `/tag/${t.slug}/` }));
-const calNav = cals.map((c) => ({ name: c.name, href: `/${c.slug}/` }));
+// Every calendar sits at the site root, so each page cross-links to all the
+// others, minus itself.
+const allNav = [...cals, ...tags].map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` }));
+const navFor = (slug) => allNav.filter((o) => o.slug !== slug);
 
 for (const c of cals) {
-  files[`${c.slug}/index.html`] = roundupPage(c, 'category', tagNav, now).html;
+  files[`${c.slug}/index.html`] = roundupPage(c, 'category', navFor(c.slug), now).html;
   files[`${c.slug}.md`] = roundupMarkdown(c, 'category');
   htmlPaths.push(`/${c.slug}/`);
   mdPaths.push(`/${c.slug}.md`);
 }
 for (const t of tags) {
-  files[`tag/${t.slug}/index.html`] = roundupPage(t, 'tag', calNav, now).html;
-  files[`tag/${t.slug}.md`] = roundupMarkdown(t, 'tag');
-  htmlPaths.push(`/tag/${t.slug}/`);
-  mdPaths.push(`/tag/${t.slug}.md`);
+  files[`${t.slug}/index.html`] = roundupPage(t, 'tag', navFor(t.slug), now).html;
+  files[`${t.slug}.md`] = roundupMarkdown(t, 'tag');
+  htmlPaths.push(`/${t.slug}/`);
+  mdPaths.push(`/${t.slug}.md`);
 }
 
 const seen = new Set();
@@ -542,7 +549,7 @@ const seen = new Set();
 // tell a real code from the two "no usable code" labels by string matching.
 // `code` is the redeemable value only when code_state is "standing"; for the
 // other two states it is the human-readable label, kept for display parity.
-const deals = [...cals.flatMap((c) => c.rows.map((r) => ({ ...r, source: c.slug }))), ...tags.flatMap((t) => t.rows.map((r) => ({ ...r, source: `tag/${t.slug}` })))]
+const deals = [...cals.flatMap((c) => c.rows.map((r) => ({ ...r, source: c.slug }))), ...tags.flatMap((t) => t.rows.map((r) => ({ ...r, source: t.slug })))]
   .filter((d) => (seen.has(d.url) ? false : (seen.add(d.url), true)))
   .map((d) => ({
     published: d.published,
@@ -564,7 +571,7 @@ files['dataset.json'] = JSON.stringify({
   source: 'propfirmdiscount.com',
   code_state_note: 'code_state "standing" means code holds a redeemable standing code; "campaign" means a limited-time code is on the deal page (see url); "none" means no code is needed. code is null unless code_state is "standing".',
   categories: cals.map((c) => ({ slug: c.slug, name: c.name, path: `/${c.slug}/`, deals: c.rows.length, last_published: c.rows[0]?.published || null })),
-  tags: tags.map((t) => ({ slug: t.slug, name: t.name, path: `/tag/${t.slug}/`, deals: t.rows.length, last_published: t.rows[0]?.published || null })),
+  tags: tags.map((t) => ({ slug: t.slug, name: t.name, path: `/${t.slug}/`, deals: t.rows.length, last_published: t.rows[0]?.published || null })),
   leaderboard: { window: board.label, ranks: board.ranks.map(({ codeState, ...r }) => r) },
   standing_codes: codes.map((c) => ({ firm: c.prop_firm, code: c.code, discount: c.discount })),
   deals,
