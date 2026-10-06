@@ -15,9 +15,9 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 5 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 6 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
 | 7 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 8 | Titan Capital | T55 | 55% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
-| 9 | Direct Funded Trader | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 10 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 8 | RebelsFunding | JUST29 | 59% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 9 | Titan Capital | T55 | 55% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
+| 10 | Direct Funded Trader | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -38,6 +38,8 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-06 | Dominion Funding | Dominion Funding: 30% Off All Accounts For TradeHawk Launch | 30% Off | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/ |
+| 2026-10-06 | RebelsFunding | RebelsFunding 59% Off $20,000 Evaluation Accounts For â‚¬29 | 59% Off | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/ |
 | 2026-10-06 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Discounts & Account Customization | 40% Off | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/ |
 | 2026-10-06 | IC Funded | IC Funded 30% Off All Evaluation Accounts | 30% Off | https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/ |
 | 2026-10-05 | FundingTraders | FundingTraders Up to 81% Off Instant Funded Accounts | 81% Off | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/ |
@@ -66,5 +68,3 @@ The top live prop firm discount code this month is **PFD** from FundingTraders â
 | 2026-10-01 | Blueberry Funded | Blueberry Funded 35% Off Prime Challenge and Second Account | 35% Off | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/ |
 | 2026-10-01 | FTUK | FTUK: 35% Off Instant Funding Evaluation Price | 35% Off | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% Off | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
-| 2026-10-01 | FundYourFX | FundYourFX 60% Off Entry Cost Extension | 60% Off | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/ |
-| 2026-10-01 | QT Funded | QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account | 60% Off | https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/ |
