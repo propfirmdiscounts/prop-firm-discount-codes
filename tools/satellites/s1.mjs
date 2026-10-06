@@ -200,7 +200,7 @@ ${table}
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
 <p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
 <p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
-  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md' }) };
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md' }) };
 }
 
 // Machine twin of the hub. Same rows as the page, as a markdown table so an
@@ -237,7 +237,7 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
   }
   const hub = hubPage(site, rows, now);
   files['index.html'] = hub.html;
-  files['index.md'] = hubMarkdown(site, rows, now);
+  files['md'] = hubMarkdown(site, rows, now);
   files['dataset.json'] = JSON.stringify({ dataset: 'prop-firm-codes', publisher: site.siteName, count: rows.length, generated: now.toISOString().slice(0, 10), data: rows }, null, 2);
   files['dataset.csv'] = csvOf(rows);
   files['robots.txt'] = robotsTxt(site);
@@ -245,11 +245,16 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
   files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site is a static mirror of the PropFirmDiscount dataset.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\nHugging Face dataset: https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes\n`;
   const lastmod = now.toISOString().slice(0, 10);
   files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
-  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/index.md', '/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
+  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/md', '/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
   files['.well-known/api-catalog'] = apiCatalog(site);
   files[`.well-known/agent-skills/${site.skillName}/SKILL.md`] = skillMd(site, rows);
   files['webmcp.js'] = webmcpJs(site);
   files['_headers'] = headersFile();
+  // The hub markdown twin moved from /index.md to /md (the main site's own
+  // convention, and the only form that is not shadowed by index.html under
+  // auto-trailing-slash). Keep the old address working for anything that
+  // already fetched it.
+  files['_redirects'] = '/index.md /md 301\n';
   if (site.icons) files['site.webmanifest'] = webManifest(site);
   for (const [name, text] of Object.entries(files)) assertClean(name, text);
   Object.assign(out, files);

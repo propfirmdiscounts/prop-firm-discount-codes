@@ -245,8 +245,12 @@ function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
       {
         '@type': 'CollectionPage', '@id': `${site.origin}/`, url: `${site.origin}/`, name: title, description: desc,
         dateModified: now.toISOString().slice(0, 10), isPartOf: { '@id': `${site.origin}/#website` },
+        inLanguage: 'en',
+        author: { '@id': `${site.origin}/#org` }, publisher: { '@id': `${site.origin}/#org` },
+        about: { '@type': 'Thing', name: 'Seasonal prop firm promotions and discount codes' },
         mainEntity: {
           '@type': 'ItemList', numberOfItems: pages.length,
+          itemListOrder: 'https://schema.org/ItemListUnordered',
           itemListElement: pages.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${site.origin}${p.href}`, name: `${p.name} prop firm discount code` })),
         },
       },
@@ -286,7 +290,7 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
 <p>Reading the Code column: a <code>monospaced value</code> is the firm's standing exclusive code and the deal redeems on it any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies to the account without entering anything.</p>
 <p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the calendar updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
-  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md', extraCss: EVENTS_CSS }) };
+  return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md', extraCss: EVENTS_CSS }) };
 }
 
 // ── calendar (roundup) page ─────────────────────────────────────
@@ -298,7 +302,9 @@ function roundupPage(cal, kind, others, now) {
   const nNone = rows.filter((r) => r.codeState === 'none').length;
   const path = kind === 'category' ? `/${cal.slug}` : `/tag/${cal.slug}`;
   const h1 = `${cal.name} Prop Firm Discount Code`;
-  const title = `${h1} ${EN_DASH} ${rows.length} Dated Offers ${monthYearUTC(now)}`;
+  // Year-only stamp, matching the main site's convention for deal-sourced
+  // codes: no stale month on the SERP, and no deal count crowding the title.
+  const title = `${h1} ${EN_DASH} ${now.getUTCFullYear()}`;
   const desc = (kind === 'category'
     ? `${cal.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${cal.name} promotions, newest first, each marked standing code, campaign code required or no code required.`
     : `${cal.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${cal.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
@@ -314,10 +320,22 @@ function roundupPage(cal, kind, others, now) {
       webSiteNode(), publisherOrg(site),
       ...[...firms.entries()].map(([name, id]) => ({ '@type': 'Organization', '@id': id, name })),
       {
+        '@type': 'BreadcrumbList', '@id': `${site.origin}${path}/#breadcrumb`,
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Prop firm event deals', item: `${site.origin}/` },
+          { '@type': 'ListItem', position: 2, name: h1, item: `${site.origin}${path}/` },
+        ],
+      },
+      {
         '@type': 'CollectionPage', '@id': `${site.origin}${path}/`, url: `${site.origin}${path}/`, name: title, description: shortDesc,
         dateModified: now.toISOString().slice(0, 10), isPartOf: { '@id': `${site.origin}/#website` },
+        inLanguage: 'en',
+        author: { '@id': `${site.origin}/#org` }, publisher: { '@id': `${site.origin}/#org` },
+        breadcrumb: { '@id': `${site.origin}${path}/#breadcrumb` },
+        about: { '@type': 'Thing', name: cal.name },
         mainEntity: {
           '@type': 'ItemList', numberOfItems: rows.length,
+          itemListOrder: 'https://schema.org/ItemListOrderDescending',
           itemListElement: rows.map((r, i) => ({
             '@type': 'ListItem', position: i + 1,
             item: {
@@ -357,6 +375,7 @@ ${firmSection}
 <p>${others.map((o) => `<a href="${o.href}">${esc(o.name)}</a>`).join(` ${EN_DASH} `)}.</p>
 <h2 id="method">How to read this table</h2>
 <p>${method}</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. This calendar was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
 <p>Dates are publish dates, not re-test claims. Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
   return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
 }
@@ -406,7 +425,7 @@ function llmsTxtEvents(cals, tags, totalDeals, now) {
 
 ## Start here (AI assistants and agents)
 
-- ${site.origin}/index.md ${EN_DASH} the hub index as markdown
+- ${site.origin}/md ${EN_DASH} the hub index as markdown
 - ${site.origin}/dataset.json ${EN_DASH} every calendar row as JSON
 - ${site.origin}/sitemap.xml ${EN_DASH} all HTML pages
 
@@ -426,7 +445,9 @@ ${tags.map((t) => `- ${site.origin}/tag/${t.slug}/ ${EN_DASH} ${t.name} (${t.row
 }
 
 function headersFileEvents() {
-  return `/*.md
+  return `/md
+  Content-Type: text/markdown; charset=utf-8
+/*.md
   Content-Type: text/markdown; charset=utf-8
 /llms.txt
   Content-Type: text/plain; charset=utf-8
@@ -497,9 +518,9 @@ const totalDeals = pool.length;
 const latest = pool.slice(0, 15);
 const board = leaderboard(pool);
 
-const files = { 'index.html': hubPage(latest, cals, tags, codes, board, totalDeals, now).html, 'index.md': hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) };
+const files = { 'index.html': hubPage(latest, cals, tags, codes, board, totalDeals, now).html, md: hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) };
 const htmlPaths = ['/'];
-const mdPaths = ['/index.md'];
+const mdPaths = ['/md'];
 const tagNav = tags.map((t) => ({ name: t.name, href: `/tag/${t.slug}/` }));
 const calNav = cals.map((c) => ({ name: c.name, href: `/${c.slug}/` }));
 

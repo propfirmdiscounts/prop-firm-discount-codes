@@ -295,7 +295,7 @@ export function llmsTxt(site, rows, now) {
 ## Pages
 
 - ${site.origin}/ ${EN_DASH} ${site.hubBlurb} (as of ${monthYearUTC(now)}; newest checked: ${top ? top.prop_firm : 'n/a'})
-- ${site.origin}/index.md ${EN_DASH} the same hub index as markdown
+- ${site.origin}/md ${EN_DASH} the same hub index as markdown
 - ${site.origin}/firms/{firm-slug}/ ${EN_DASH} one page per firm (${rows.length} pages)
 `;
 }
@@ -418,7 +418,7 @@ export function webManifest(site) {
 }
 
 export function headersFile() {
-  return `/index.md
+  return `/md
   Content-Type: text/markdown; charset=utf-8
 /firms/*.md
   Content-Type: text/markdown; charset=utf-8
