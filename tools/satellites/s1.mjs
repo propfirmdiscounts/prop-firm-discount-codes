@@ -162,10 +162,11 @@ export function hubPage(site, rows, now) {
 <td><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a></td>
 <td><code>${esc(r.code)}</code></td>
 <td>${esc(offerShape(r.discount).titlePart || r.discount || EN_DASH)}</td>
+<td>${esc(monthYearUTC(now))}</td>
 <td>${r.last_deal_published ? `<time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : EN_DASH}</td>
 </tr>`;
   const table = `<table class="checks">
-<thead><tr><th scope="col">Firm</th><th scope="col">Code</th><th scope="col">Discount</th><th scope="col">Last deal</th></tr></thead>
+<thead><tr><th scope="col">Firm</th><th scope="col">Code</th><th scope="col">Discount</th><th scope="col">Checked</th><th scope="col">Last deal</th></tr></thead>
 <tbody>
 ${sorted.map(rowOf).join('\n')}
 </tbody>
@@ -207,10 +208,10 @@ export function hubMarkdown(site, rows, now) {
   const md = [`# Prop Firm Discount Code Checks`, '',
     `This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
     `## Checks, newest first`, '',
-    `| Firm | Code | Discount | Last deal |`,
-    `|------|------|----------|-----------|`];
+    `| Firm | Code | Discount | Checked | Last deal |`,
+    `|------|------|----------|---------|-----------|`];
   for (const r of sorted) {
-    md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${r.last_deal_published || EN_DASH} |`);
+    md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${r.last_deal_published || EN_DASH} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
     `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',

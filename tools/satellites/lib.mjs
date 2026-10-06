@@ -228,7 +228,7 @@ main{padding:20px 16px 40px}h1{font-size:1.7rem;line-height:1.25;margin:.4em 0}h
 p.answer{font-size:1.05rem}code.chip{background:var(--acc);color:#fff;padding:2px 10px;border-radius:6px;font-weight:700;letter-spacing:.5px}
 table{border-collapse:collapse;width:100%;margin:1em 0}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
 tbody th{width:34%}th{background:color-mix(in srgb,var(--line) 30%,transparent)}
-table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}table.checks td:nth-child(4){white-space:nowrap}
+table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}table.checks td:nth-child(4),table.checks td:nth-child(5){white-space:nowrap}
 ol.log li{margin:.4em 0}footer{border-top:1px solid var(--line);padding:16px;color:var(--mut);font-size:.85rem}
 footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb a{color:var(--mut)}`;
 
