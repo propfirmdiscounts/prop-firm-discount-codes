@@ -225,7 +225,7 @@ header,footer,main{max-width:860px;margin:0 auto;padding:0 16px}
 header{padding:14px 16px;border-bottom:1px solid var(--line)}header a{color:var(--ink);font-weight:700;text-decoration:none}
 header span{color:var(--mut);font-weight:400}
 main{padding:20px 16px 40px}h1{font-size:1.7rem;line-height:1.25;margin:.4em 0}h2{font-size:1.2rem;margin:1.6em 0 .5em}
-p.answer{font-size:1.05rem}code.chip{background:var(--acc);color:#fff;padding:2px 10px;border-radius:6px;font-weight:700;letter-spacing:.5px}
+p.answer{font-size:1.05rem}code.chip{background:var(--acc);color:#fff;padding:2px 10px;font-weight:700;letter-spacing:.5px}
 table{border-collapse:collapse;width:100%;margin:1em 0}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
 tbody th{width:34%}th{background:color-mix(in srgb,var(--line) 30%,transparent)}
 table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}table.checks td:nth-child(4),table.checks td:nth-child(5){white-space:nowrap}
