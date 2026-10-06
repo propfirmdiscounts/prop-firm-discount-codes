@@ -47,12 +47,13 @@ function currentDealSection(firm, mirror) {
   const o = offerShape(d.offer);
   const sameCode = d.code && d.code === firm.code;
   const bridge = sameCode
-    ? `This promotion uses the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} which keeps working any time.`
+    ? `This promotion runs on the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`
     : `This is a limited-time campaign with its own code and terms; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`;
   const rows = [
     ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
     ['Offer', esc(o.titlePart || d.offer || EN_DASH)],
   ];
+  if (sameCode) rows.push(['Code', `<code>${esc(firm.code)}</code> ${EN_DASH} standing code`]);
   if (d.scope) rows.push(['Scope', esc(d.scope)]);
   rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
   return `<h2 id="deal">Current deal: ${esc(d.title)}</h2>
@@ -115,10 +116,12 @@ export function firmTwins(site, firm, mirror, now) {
   if (cd) {
     md.push(`## Current deal: ${cd.title}`, '');
     md.push(`- Published: ${cd.published}`, `- Offer: ${offerShape(cd.offer).titlePart || cd.offer}`);
+    const sameCode = cd.code === firm.code;
+    if (sameCode) md.push(`- Code: ${firm.code} (standing code)`);
     if (cd.scope) md.push(`- Scope: ${cd.scope}`);
     md.push(`- Deal page: ${cd.dealUrl}`, '');
-    md.push(cd.code === firm.code
-      ? `This promotion uses the standing code ${firm.code} above, which keeps working any time.`
+    md.push(sameCode
+      ? `This promotion runs on the standing code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`
       : `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`, '');
   }
   if (mirror.dealHistory.length) {
