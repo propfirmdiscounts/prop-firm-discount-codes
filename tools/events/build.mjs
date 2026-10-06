@@ -80,14 +80,19 @@ table.deals5 th:nth-child(5),table.deals5 td:nth-child(5){width:13%;white-space:
 table.calendars th:nth-child(2),table.calendars td:nth-child(2){width:12%;text-align:right}
 table.calendars th:nth-child(3),table.calendars td:nth-child(3){width:24%}
 table.board td:nth-child(1){font-weight:400}
-table.board td:nth-child(2){font-weight:600}
+table.board td:nth-child(3){font-weight:600}
 table.board th:nth-child(1),table.board td:nth-child(1){width:6%}
-table.board th:nth-child(2),table.board td:nth-child(2){width:14%}
+table.board th:nth-child(2),table.board td:nth-child(2){width:12%}
 table.board th:nth-child(3),table.board td:nth-child(3){width:13%}
-table.board th:nth-child(4),table.board td:nth-child(4){white-space:normal}
-table.board th:nth-child(5),table.board td:nth-child(5){width:12%;white-space:normal;overflow-wrap:anywhere}
-table.board th:nth-child(6),table.board td:nth-child(6){width:12%}
-table.exclusive td:nth-child(4){white-space:nowrap}`;
+table.board th:nth-child(5),table.board td:nth-child(5){white-space:normal}
+table.board th:nth-child(6),table.board td:nth-child(6){width:11%;white-space:normal;overflow-wrap:anywhere}
+table.board th:nth-child(7),table.board td:nth-child(7){width:12%}
+table.exclusive td:nth-child(4){white-space:nowrap}
+table.firms th:nth-child(1),table.firms td:nth-child(1){font-weight:600}
+table.firms th:nth-child(2),table.firms td:nth-child(2){width:14%}
+table.firms th:nth-child(3),table.firms td:nth-child(3){width:10%;text-align:right}
+table.firms th:nth-child(4),table.firms td:nth-child(4){width:16%}
+table.firms th:nth-child(5),table.firms td:nth-child(5){width:16%;white-space:normal;overflow-wrap:anywhere}`;
 
 // ── mirror parsing ──────────────────────────────────────────────
 // Category and tag mirrors share one table shape. The Code column carries
@@ -142,7 +147,11 @@ const pctOf = (s) => {
 const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').trim();
 
 // ── rendering ───────────────────────────────────────────────────
+// A real code renders as <code>; the two "no usable code" states render as
+// plain text. The cell always carries data-code-state so a machine reader can
+// tell a genuine code ("standing") from the two labels without guessing.
 const codeCell = (r) => (r.codeState === 'standing' ? `<code>${esc(r.code)}</code>` : esc(r.code));
+const codeTd = (r) => `<td data-code-state="${r.codeState}">${codeCell(r)}</td>`;
 
 function dealsTable(rows, withEvent) {
   const head = withEvent
@@ -151,7 +160,7 @@ function dealsTable(rows, withEvent) {
   return `<table class="checks fixed ${withEvent ? 'deals6' : 'deals5'}">
 <thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td>${withEvent ? `<td>${esc(r.eventShort || EN_DASH)}</td>` : ''}<td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td><td>${codeCell(r)}</td></tr>`).join('\n')}
+${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td>${withEvent ? `<td>${esc(r.eventShort || EN_DASH)}</td>` : ''}<td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td>${codeTd(r)}</tr>`).join('\n')}
 </tbody>
 </table>`;
 }
@@ -197,13 +206,32 @@ function leaderboard(poolRows) {
   const ranks = [...best.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || a[0].localeCompare(b[0]))
     .slice(0, 10)
-    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, code: v.row.code, codeState: v.row.codeState }));
+    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, code: v.row.code, codeState: v.row.codeState, eventShort: v.row.eventShort || '' }));
   return { label, windowed: windowed.length > 0, ranks };
 }
 
 // ── JSON-LD helpers ─────────────────────────────────────────────
 const webSiteNode = () => ({ '@type': 'WebSite', '@id': `${site.origin}/#website`, url: site.origin, name: site.siteName, publisher: { '@id': `${site.origin}/#org` } });
 const firmId = (name) => `${site.origin}/#firm-${String(name).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
+
+// Per-firm rollup so a term page answers a firm-specific long tail
+// ("{firm} {event} discount") without the reader scanning the whole table.
+function firmRollup(rows) {
+  const agg = new Map();
+  for (const r of rows) {
+    const name = canonicalFirm(r.firm);
+    if (!name) continue;
+    const p = pctOf(r.discount);
+    const cur = agg.get(name) || { name, count: 0, best: null, bestRow: r, latest: r };
+    cur.count++;
+    if (p !== null && (cur.best === null || p > cur.best)) { cur.best = p; cur.bestRow = r; }
+    if (r.published > cur.latest.published) cur.latest = r;
+    agg.set(name, cur);
+  }
+  return [...agg.values()]
+    .sort((a, b) => (b.best ?? -1) - (a.best ?? -1) || a.name.localeCompare(b.name))
+    .slice(0, 40);
+}
 
 // ── homepage ────────────────────────────────────────────────────
 function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
@@ -219,15 +247,15 @@ function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
         dateModified: now.toISOString().slice(0, 10), isPartOf: { '@id': `${site.origin}/#website` },
         mainEntity: {
           '@type': 'ItemList', numberOfItems: pages.length,
-          itemListElement: pages.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${site.origin}${p.href}`, name: `${p.name} prop firm deals` })),
+          itemListElement: pages.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${site.origin}${p.href}`, name: `${p.name} prop firm discount code` })),
         },
       },
     ],
   };
   const boardTable = board.ranks.length ? `<table class="checks board fixed">
-<thead><tr><th scope="col">Rank</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Code</th><th scope="col">Published</th></tr></thead>
+<thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Code</th><th scope="col">Published</th></tr></thead>
 <tbody>
-${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${codeCell(r)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
+${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td>${codeTd(r)}<td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
 </tbody>
 </table>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes</h1>
@@ -256,7 +284,7 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 
 <h2 id="method">About this hub and how the code column works</h2>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
-<p>Reading the Code column: a code shown in the column is the firm's standing code and the deal redeems on it any time; "Campaign Code Required" means checkout asks for the deal's own limited-time code, which lives on the deal page; "No Code Required" means the offer applies to the account without entering anything.</p>
+<p>Reading the Code column: a <code>monospaced value</code> is the firm's standing exclusive code and the deal redeems on it any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies to the account without entering anything.</p>
 <p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the calendar updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/index.md', extraCss: EVENTS_CSS }) };
 }
@@ -269,10 +297,11 @@ function roundupPage(cal, kind, others, now) {
   const nCampaign = rows.filter((r) => r.codeState === 'campaign').length;
   const nNone = rows.filter((r) => r.codeState === 'none').length;
   const path = kind === 'category' ? `/${cal.slug}` : `/tag/${cal.slug}`;
-  const title = `${cal.name} Prop Firm Deals ${EN_DASH} ${rows.length} Dated Offers ${monthYearUTC(now)}`;
+  const h1 = `${cal.name} Prop Firm Discount Code`;
+  const title = `${h1} ${EN_DASH} ${rows.length} Dated Offers ${monthYearUTC(now)}`;
   const desc = (kind === 'category'
-    ? `${cal.name} prop firm deal calendar: ${rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
-    : `Prop firm deals tagged ${cal.name}: ${rows.length} dated offers across every season, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
+    ? `${cal.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${cal.name} promotions, newest first, each marked standing code, campaign code required or no code required.`
+    : `${cal.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${cal.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
   const shortDesc = desc.slice(0, 300);
   const firms = new Map();
   for (const r of rows) {
@@ -302,16 +331,28 @@ function roundupPage(cal, kind, others, now) {
     ],
   };
   const bridge = kind === 'category'
-    ? `The ${esc(cal.name)} calendar carries ${rows.length} dated prop firm deals, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's standing code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
-    : `${rows.length} prop firm deals carry the ${esc(cal.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: standing code, campaign code at checkout, or no code needed.`;
+    ? `The ${esc(cal.name)} calendar carries ${rows.length} dated prop firm discount codes, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's standing code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
+    : `${rows.length} prop firm discount codes carry the ${esc(cal.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: standing code, campaign code at checkout, or no code needed.`;
   const method = kind === 'category'
-    ? `Rows mirror the dated ${esc(cal.name)} archive on PropFirmDiscount. A code printed in the Code column is the firm's standing code and works any time; "Campaign Code Required" means the deal page carries a limited-time code you paste at checkout; "No Code Required" means the discount applies to the account with nothing entered.`
-    : `Rows gather every deal PropFirmDiscount tagged ${esc(cal.name)}, whatever season it ran in. A code printed in the Code column is the firm's standing code and works any time; "Campaign Code Required" means checkout asks for the deal's own limited-time code, shown on the deal page; "No Code Required" means the offer needs no code.`;
+    ? `Rows mirror the dated ${esc(cal.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the discount applies with nothing entered.`
+    : `Rows gather every deal PropFirmDiscount tagged ${esc(cal.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer needs no code.`;
+  // Per-firm rollup so the page answers a firm-specific long tail without the
+  // reader scanning the whole table.
+  const firmRows = firmRollup(rows);
+  const firmSection = firmRows.length ? `<h2 id="firms">${esc(cal.name)} discount code by firm</h2>
+<p>Every firm with a ${esc(cal.name)} offer on record, deepest cut first. The code shown is the one that firm's best ${esc(cal.name)} offer used.</p>
+<table class="checks firms fixed">
+<thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Offers</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
+<tbody>
+${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCell(f.bestRow)}</td></tr>`).join('\n')}
+</tbody>
+</table>` : '';
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(cal.name)}</nav>
-<h1>${esc(cal.name)} Prop Firm Deals</h1>
+<h1>${esc(h1)}</h1>
 <p class="answer">${bridge}</p>
 ${dealsTable(rows)}
 ${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals in this calendar; older entries live in the <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> archive.</p>` : ''}
+${firmSection}
 <h2 id="others">Other event calendars</h2>
 <p>${others.map((o) => `<a href="${o.href}">${esc(o.name)}</a>`).join(` ${EN_DASH} `)}.</p>
 <h2 id="method">How to read this table</h2>
@@ -328,7 +369,7 @@ function mdDealsTable(rows, withEvent) {
   return [...head,
     ...rows.map((r) => `| ${r.published} | ${withEvent ? `${r.eventShort || EN_DASH} | ` : ''}${r.firm || EN_DASH} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
 }
-const CODE_NOTE = `Code column meaning: a printed code is the firm's standing code (works any time); "Campaign Code Required" means the deal page carries its own limited-time code; "No Code Required" means no code is entered. Source of record: https://propfirmdiscount.com/.`;
+const CODE_NOTE = `Code column meaning: a standing code shown as a value works any time; the plain-text "Campaign Code Required" means the deal has its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
 function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
   return [`# Prop Firm Event Deals & Seasonal Discount Codes`, '',
@@ -339,8 +380,8 @@ function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
       .sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')))
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top seasonal discounts ${EN_DASH} ${board.label}`, '',
-    `| Rank | Firm | Best discount | Deal | Code | Published |`, `|---|---|---|---|---|---|`,
-    ...board.ranks.map((r) => `| ${r.rank} | ${r.firm} | ${r.pct}% Off | [${r.title}](${r.url}) | ${r.code} | ${r.published} |`), '',
+    `| Rank | Event | Firm | Best discount | Deal | Code | Published |`, `|---|---|---|---|---|---|---|`,
+    ...board.ranks.map((r) => `| ${r.rank} | ${r.eventShort || EN_DASH} | ${r.firm} | ${r.pct}% Off | [${r.title}](${r.url}) | ${r.code} | ${r.published} |`), '',
     `## Exclusive prop firm discount codes`, '', `| Prop Firm | Exclusive code | Discount | Checked |`, `|---|---|---|---|`,
     ...codes.map((c) => `| ${c.prop_firm} | ${c.code} | ${c.discount} | ${monthYearUTC(now)} |`), '',
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
@@ -348,10 +389,13 @@ function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
 
 function roundupMarkdown(cal, kind) {
   const lead = kind === 'category'
-    ? `${cal.name} prop firm deal calendar: ${cal.rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
-    : `Prop firm deals tagged ${cal.name} across every season: ${cal.rows.length} dated offers, newest first, each marked with how its code redeems.`;
-  return [`# ${cal.name} Prop Firm Deals`, '', lead, '', mdDealsTable(cal.rows), '', CODE_NOTE, '',
-    `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
+    ? `${cal.name} prop firm discount codes: ${cal.rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
+    : `${cal.name} prop firm discount codes across every firm tagged ${cal.name}: ${cal.rows.length} dated offers, newest first, each marked with how its code redeems.`;
+  const firms = firmRollup(cal.rows);
+  return [`# ${cal.name} Prop Firm Discount Code`, '', lead, '', mdDealsTable(cal.rows), '',
+    ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Offers | Latest | Code |`, `|---|---|---|---|---|`,
+      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
+    CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
 // ── roots ───────────────────────────────────────────────────────
@@ -473,17 +517,34 @@ for (const t of tags) {
 }
 
 const seen = new Set();
+// Each deal carries an explicit code_state so a machine reader never has to
+// tell a real code from the two "no usable code" labels by string matching.
+// `code` is the redeemable value only when code_state is "standing"; for the
+// other two states it is the human-readable label, kept for display parity.
 const deals = [...cals.flatMap((c) => c.rows.map((r) => ({ ...r, source: c.slug }))), ...tags.flatMap((t) => t.rows.map((r) => ({ ...r, source: `tag/${t.slug}` })))]
-  .filter((d) => (seen.has(d.url) ? false : (seen.add(d.url), true)));
+  .filter((d) => (seen.has(d.url) ? false : (seen.add(d.url), true)))
+  .map((d) => ({
+    published: d.published,
+    event: d.eventShort || null,
+    firm: d.firm || null,
+    deal: d.title,
+    url: d.url,
+    discount: d.discount || null,
+    code_state: d.codeState,
+    code: d.codeState === 'standing' ? d.code : null,
+    code_label: d.codeState === 'standing' ? null : d.code,
+    source: d.source,
+  }));
 
 files['dataset.json'] = JSON.stringify({
   dataset: 'prop-firm-events',
   publisher: site.siteName,
   generated: now.toISOString().slice(0, 10),
   source: 'propfirmdiscount.com',
+  code_state_note: 'code_state "standing" means code holds a redeemable standing code; "campaign" means a limited-time code is on the deal page (see url); "none" means no code is needed. code is null unless code_state is "standing".',
   categories: cals.map((c) => ({ slug: c.slug, name: c.name, path: `/${c.slug}/`, deals: c.rows.length, last_published: c.rows[0]?.published || null })),
   tags: tags.map((t) => ({ slug: t.slug, name: t.name, path: `/tag/${t.slug}/`, deals: t.rows.length, last_published: t.rows[0]?.published || null })),
-  leaderboard: { window: board.label, ranks: board.ranks },
+  leaderboard: { window: board.label, ranks: board.ranks.map(({ codeState, ...r }) => r) },
   standing_codes: codes.map((c) => ({ firm: c.prop_firm, code: c.code, discount: c.discount })),
   deals,
 }, null, 2);
