@@ -3,6 +3,7 @@ import {
   esc, EN_DASH, monthYearUTC, offerShape, titleFor, firmJsonLd, layout,
   DISCLOSURE, robotsTxt, llmsTxt, sitemapXml, aiSitemapXml, apiCatalog,
   skillMd, webmcpJs, csvOf, headersFile, assertClean, parseFirmMirror,
+  publisherOrg,
 } from './lib.mjs';
 
 export const site = {
@@ -15,6 +16,14 @@ export const site = {
   hubBlurb: 'newest code checks first',
   disclosure: DISCLOSURE,
 };
+
+// Contact address is derived from the deployed domain so every satellite has
+// a reachable, domain-matching inbox (Cloudflare Email Routing forwards it).
+function withEmail(site) {
+  if (site.email) return site;
+  const host = site.origin.replace(/^https?:\/\//, '');
+  return { ...site, email: `hello@${host}` };
+}
 
 function factsTable(firm, mirror) {
   const o = offerShape(firm.discount);
@@ -107,9 +116,10 @@ export function hubPage(site, rows, now) {
     '@context': 'https://schema.org',
     '@graph': [
       { '@type': 'WebSite', '@id': `${site.origin}/#website`, url: site.origin, name: site.siteName, publisher: { '@id': `${site.origin}/#org` } },
-      { '@type': 'Organization', '@id': `${site.origin}/#org`, name: site.siteName, url: site.origin },
+      publisherOrg(site),
       {
         '@type': 'CollectionPage', '@id': `${site.origin}/`, url: `${site.origin}/`, name: title, description: desc,
+        dateModified: now.toISOString().slice(0, 10),
         isPartOf: { '@id': `${site.origin}/#website` },
         mainEntity: {
           '@type': 'ItemList', numberOfItems: sorted.length,
@@ -126,11 +136,16 @@ export function hubPage(site, rows, now) {
 <h2 id="log">Checks, newest first</h2>
 <ol class="log">
 ${items}
-</ol>`;
+</ol>
+<h2 id="method">About this site and how codes are checked</h2>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2024. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
+<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
+<p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null }) };
 }
 
-export function buildSite(site, rows, mirrors, now, out) {
+export function buildSite(siteIn, rows, mirrors, now, out) {
+  const site = withEmail(siteIn);
   const files = {};
   const htmlPaths = ['/'];
   for (const firm of rows) {

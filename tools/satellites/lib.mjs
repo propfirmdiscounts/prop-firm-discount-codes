@@ -86,11 +86,28 @@ export function titleFor(firm, now) {
 }
 
 // ── JSON-LD ─────────────────────────────────────────────────────
+export function publisherOrg(site) {
+  return {
+    '@type': 'Organization',
+    '@id': `${site.origin}/#org`,
+    name: site.siteName,
+    url: site.origin,
+    ...(site.email ? {
+      contactPoint: { '@type': 'ContactPoint', contactType: 'customer support', email: site.email, availableLanguage: 'English' },
+    } : {}),
+    sameAs: [
+      'https://propfirmdiscount.com/',
+      'https://github.com/propfirmdiscounts/prop-firm-discount-codes',
+      'https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes',
+    ],
+  };
+}
+
 export function firmJsonLd(site, firm, mirror, title, desc, now) {
   const o = offerShape(firm.discount);
   const graph = [
     { '@type': 'WebSite', '@id': `${site.origin}/#website`, url: site.origin, name: site.siteName, publisher: { '@id': `${site.origin}/#org` } },
-    { '@type': 'Organization', '@id': `${site.origin}/#org`, name: site.siteName, url: site.origin },
+    publisherOrg(site),
     {
       '@type': 'Organization', '@id': `${site.origin}/firms/${firm.slug}/#firm`,
       name: firm.prop_firm, url: firm.archive_url,
@@ -106,6 +123,7 @@ export function firmJsonLd(site, firm, mirror, title, desc, now) {
     url: `${site.origin}/firms/${firm.slug}/`,
     name: title,
     description: desc,
+    dateModified: now.toISOString().slice(0, 10),
     isPartOf: { '@id': `${site.origin}/#website` },
     about: { '@id': `${site.origin}/firms/${firm.slug}/#firm` },
     primaryEntity: {
@@ -160,6 +178,7 @@ export function layout(site, { title, desc, canonical, ld, body, path }) {
   const alts = path
     ? `<link rel="alternate" type="text/markdown" href="${path}.md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
     : '';
+  const email = site.email ? `<a href="mailto:${esc(site.email)}">${esc(site.email)}</a>` : '';
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -183,6 +202,7 @@ ${body}
 </main>
 <footer>
 <p>Data source: <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> &middot; <a href="https://github.com/propfirmdiscounts/prop-firm-discount-codes">GitHub mirror</a> &middot; <a href="https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes">Hugging Face dataset</a> &middot; <a href="/dataset.json">full dataset (JSON)</a> &middot; <a href="/llms.txt">llms.txt</a></p>
+<p>Operated by the PropFirmDiscount team. Questions or corrections: ${email}.</p>
 <p>${esc(site.disclosure)}</p>
 </footer>
 <script defer src="/webmcp.js"></script>
