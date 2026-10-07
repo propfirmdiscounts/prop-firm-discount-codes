@@ -35,15 +35,15 @@ const EVENT_NAMES = {
   'black-friday': 'Black Friday', 'cyber-monday': 'Cyber Monday',
   'christmas-deals': 'Christmas Deals', 'new-year-sale': "New Year's Eve",
   'halloween-deals': 'Halloween Deals', 'festive-anniversary-deals': 'Festive Anniversary Deals',
-  'thanksgiving-deals': 'Thanksgiving Deals', 'valentine-deals': 'Valentine Deals',
+  'thanksgiving-deals': 'Thanksgiving Deals', 'valentine-deals': "Valentine's Day",
   'ramadan-deals': 'Ramadan Deals', 'easter-deals': 'Easter Deals',
   'eid-al-adha': 'Eid al-Adha', 'independence-day': 'Independence Day',
   'labor-day': 'Labor Day', 'memorial-day': 'Memorial Day', 'world-cup': 'World Cup',
   'fathers-day': "Father's Day", 'holi-festival': 'Holi Festival',
   'international-womens-day': "International Women's Day",
-  'international-workers-day': 'International Workers Day',
+  'international-workers-day': "International Workers' Day",
   'lunar-new-year': 'Lunar New Year', 'mothers-day': "Mother's Day",
-  'presidents-day': 'Presidents Day',
+  'presidents-day': "Presidents' Day",
 };
 const eventName = (slug) => EVENT_NAMES[slug] || slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 // Short label drops the redundant " Deals" suffix ("Halloween Deals" → "Halloween").
