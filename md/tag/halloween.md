@@ -1,14 +1,15 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free** from Alpha Trader Firm — 50% off (published 2026-10-01). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **City Traders Imperium (CTI) 15% Off All Main Programs** from City Traders Imperium (CTI) — 15% off (published 2026-10-07). Codes and live offers below, newest first.
 
 Top live offers now:
+- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off All Main Programs (15% Off)
 - Alpha Trader Firm — Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free (50% Off)
 -  — Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup
-- PipFarm — PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes (50% Off)
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |
 | 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |
@@ -38,4 +39,3 @@ Top live offers now:
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 10% OFF Instant Pro (Limited Edition, First Purchase Only) | 10% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-10-off-instant-pro-first-purchase/ |
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 30% OFF Instant Funding Classic (Orders Over $150) | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-30-off-instant-classic-over-150/ |
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 50% OFF Instant Funding Classic (Orders Over $400) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-50-off-instant-classic-over-400/ |
-| 2025-10-28 | Finotive Funding | Finotive Funding — Halloween Deal (no coupon required): 30% OFF Site-Wide on All Accounts (Ends Nov 2, 23:00 CET) | 30% OFF | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-deal-30-off-sitewide-ends-nov-2/ |

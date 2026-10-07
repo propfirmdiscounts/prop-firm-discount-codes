@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |
 | 2025-10-31 | PropShopTrader | PropShopTrader Halloween Promo: 50% OFF Gladiator Resets | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-50-off-resets/ |

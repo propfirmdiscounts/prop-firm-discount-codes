@@ -1,17 +1,13 @@
 # BrightFunded Discount Code
 
-The verified BrightFunded discount code is **qzEKr4EnSPK8GXYz5Mit-A** — Up to 10% off, works any time.
+The newest BrightFunded discount code is **3YEARS** — 30% off (September 21, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Welcome to BrightFunded, a leading prop trading firm that is revolutionizing the way traders engage in financial markets through the likes of Trade2Earn. Become a funded trader up to $400,000 USD and be rewarded instantly along the way.
 
-- Code: qzEKr4EnSPK8GXYz5Mit-A
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-21
 - Trustpilot: 3.4/5 (571 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deal: BrightFunded: 30% Off All Challenges Plus 15% Evaluation Reward
 

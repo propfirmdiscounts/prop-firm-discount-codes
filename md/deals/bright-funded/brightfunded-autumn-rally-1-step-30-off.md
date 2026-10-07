@@ -12,7 +12,6 @@ BrightFunded is offering 30% off — discount code **RALLY30**.
 - Code: RALLY30
 - Scope: 1-Step Challenges
 - Deal: https://propfirmdiscount.com/deals/bright-funded/brightfunded-autumn-rally-1-step-30-off/
-- Verified standing exclusive code: qzEKr4EnSPK8GXYz5Mit-A (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -32,5 +31,5 @@ This active promotion targets the 1-Step Challenges. Other evaluation models hav
 
 **Does BrightFunded have a working discount code?**
 
-Yes, you can use the exclusive code qzEKr4EnSPK8GXYz5Mit-A at checkout. It always works and occasionally matches peak promotional rates.
+Yes, you can use the exclusive code {PFD_AFF_CODE} at checkout. It always works and occasionally matches peak promotional rates.
 

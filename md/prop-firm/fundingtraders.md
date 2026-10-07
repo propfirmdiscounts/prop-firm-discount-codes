@@ -7,46 +7,46 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-05
+- Last deal published: 2026-10-07
 - Trustpilot: 3.2/5 (3260 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FundingTraders Up to 81% Off Instant Funded Accounts
+## Current deal: FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro
 
-- Published: 2026-10-05
-- Offer: 81% Off
+- Published: 2026-10-07
+- Offer: 50% Off
 - Code: PFD
-- Scope: Instant Funded Accounts, $5K to $400K Sizes
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/
+- Scope: 2-Step Pro Accounts, $100K size
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/
 
 ## FundingTraders deal FAQ
 
-**What discount does FundingTraders offer in this promotion?**
+**What pricing change does this FundingTraders promotion introduce?**
 
-FundingTraders offers up to 81% off its Instant Funded accounts during the event. For example, the $100K account is reduced to $297.
+It applies a 50% discount to evaluation fees, specifically bringing the $100K 2-Step Pro account down to an entry price of $115.
 
-**Which account types are eligible for this price reduction?**
+**How does the extra account feature work?**
 
-The up to 81% reduction applies exclusively to the Instant Funded account tier, covering sizes from $5K up to $400K.
+The offer includes the purchase of a second evaluation account at no additional cost after the trader reaches the funded stage.
 
-**Does the Instant Funded Week event change any trading rules?**
+**Are there any changes to the trading rules?**
 
-Yes, specific upgrades are applied to the Instant model, including the removal of minimum profitable days and minimum profit for payouts, alongside the inclusion of on-demand payouts. Core drawdown limits remain unchanged.
+No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**How long is this FundingTraders discount available?**
+**What is the current Trustpilot standing for FundingTraders?**
 
-The promotion is available during the Instant Funded Week event. No specific calendar end date is listed in the promotional material.
+FundingTraders has a 3.2/5 rating from 3260 reviews as of October 2026, according to Trustpilot.
 
-**Are there any addons included with the Instant Funded accounts?**
+**Does this discount apply to instant funding models?**
 
-Yes, the offer includes addons such as a 100% profit split, a 200% refund rate and permission to hold trades during news events.
+This specific offer applies to the 2-Step Pro models; instant funding accounts are subject to a different promotional tier.
 
 ## Current deals (newest first)
 
+- 2026-10-07 - [FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/) (50% Off)
 - 2026-10-05 - [FundingTraders Up to 81% Off Instant Funded Accounts](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/) (81% Off)
 - 2026-09-13 - [FundingTraders 50% Off 100k+ Accounts Evaluation Cost Decision](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-accounts-2/) (50% Off)
 - 2026-09-10 - [FundingTraders 50% Discount on All Accounts Lowers Challenge Pricing](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-percent-discount-all-accounts-2/) (50% Off)
 - 2026-09-08 - [RebelsFunding: 70% Off $5,000 2-Phase Silver Evaluation](https://propfirmdiscount.com/deals/fundingtraders/70-off-5000-silver-evaluation/) (70% Off)
-- 2026-09-08 - [FundingTraders: Buy 1 Get 3 Evaluation Accounts Promotion](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-evaluations/) (Buy 1 Get 3)

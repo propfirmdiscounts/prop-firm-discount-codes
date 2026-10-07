@@ -1,4 +1,4 @@
-# New Year Prop Firm Discounts & Coupon Hub
+# New Year's Eve Prop Firm Discounts & Coupon Hub
 
 > Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-09-21 | Upcomers | Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free | 90% OFF | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/ |
@@ -33,4 +34,3 @@
 | 2026-07-04 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-independence-day-15-off/ |
 | 2026-07-04 | CK Capital | CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/ |
 | 2026-07-04 | FundedSquad | FundedSquad 40% Off All Evaluation and Instant Funding Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-independence-day-40-percent-off/ |
-| 2026-07-03 | Hola Prime | Hola Prime 30% Off Forex Direct Accounts – Independence Day Promotion | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-30-off-forex-direct-accounts-independence-day/ |

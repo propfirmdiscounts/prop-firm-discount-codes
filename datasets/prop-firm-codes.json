@@ -104,10 +104,10 @@
         {
             "prop_firm": "FundingTraders",
             "code": "PFD",
-            "discount": "81%",
+            "discount": "50%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-05",
+            "last_deal_published": "2026-10-07",
             "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
             "archive_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
             "trustpilot_score": 3.2,
@@ -180,20 +180,6 @@
             "trustpilot_score": 4,
             "trustpilot_reviews": 1777,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/fortraders-logo-2.jpg"
-        },
-        {
-            "prop_firm": "BrightFunded",
-            "code": "qzEKr4EnSPK8GXYz5Mit-A",
-            "discount": "10%",
-            "valid_from": "2026-01-01",
-            "valid_until": "2026-12-31",
-            "last_deal_published": "2026-09-21",
-            "activation_link": "https://propfirmdiscount.com/go/brightfunded",
-            "archive_url": "https://propfirmdiscount.com/prop-firm/bright-funded/",
-            "trustpilot_score": 3.4,
-            "trustpilot_reviews": 571,
-            "description": "Welcome to BrightFunded, a leading prop trading firm that is revolutionizing the way traders engage in financial markets through the likes of Trade2Earn. Become a funded trader up to $400,000 USD and be rewarded instantly along the way.",
-            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/bright-funded-logo.jpg"
         },
         {
             "prop_firm": "AquaFunded",
@@ -623,10 +609,10 @@
         {
             "prop_firm": "Bulenox",
             "code": "PFD",
-            "discount": "89%",
+            "discount": "91%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-08-17",
+            "last_deal_published": "2026-10-07",
             "activation_link": "https://propfirmdiscount.com/go/bulenox",
             "archive_url": "https://propfirmdiscount.com/prop-firm/bulenox/",
             "trustpilot_score": 4.7,
@@ -674,6 +660,17 @@
             "trustpilot_score": 3.1,
             "trustpilot_reviews": 42,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/04/Fundex-logo-2.jpg"
+        },
+        {
+            "prop_firm": "Finotive Futures",
+            "code": "PFDDEAL",
+            "discount": "25%",
+            "valid_from": "2026-01-01",
+            "valid_until": "2026-12-31",
+            "last_deal_published": "2026-10-02",
+            "activation_link": "https://propfirmdiscount.com/go/finotivefutures",
+            "archive_url": "https://propfirmdiscount.com/prop-firm/finotive-futures/",
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/10/Finotive-Futures-square.jpg"
         }
     ]
 }

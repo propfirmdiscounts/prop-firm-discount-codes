@@ -4,6 +4,10 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
+| 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
+| 2026-10-07 | Bulenox | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) | 91% OFF | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |
+| 2026-10-07 | FundingTraders | FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/ |
 | 2026-10-06 | Dominion Funding | Dominion Funding: 30% Off All Accounts For TradeHawk Launch | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/ |
 | 2026-10-06 | RebelsFunding | RebelsFunding 59% Off $20,000 Evaluation Accounts For €29 | 59% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/ |
 | 2026-10-06 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Discounts & Account Customization | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/ |
@@ -20,6 +24,7 @@
 | 2026-10-04 | Top One Futures | Top One Futures: 60% Off Elite Daily & Instant Funding | 60% OFF | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |
 | 2026-10-03 | WeMasterTrade | WeMasterTrade Flash Sale: 30% Off All Evaluation Packages | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/ |
 | 2026-10-03 | FXIFY | FXIFY 25% Off Evaluation Accounts | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/ |
+| 2026-10-02 | Finotive Futures | Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/ |
 | 2026-10-02 | Blue Guardian | Blue Guardian: 50% Off Futures Accounts Starting at $59 | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/ |
 | 2026-10-02 | WSFunded | WSFunded 50% Off All Challenges & New 2% Target Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/ |
 | 2026-10-02 | Funded Elite | Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/ |
@@ -29,8 +34,3 @@
 | 2026-10-01 | The Concept Trading | The Concept Trading: 50% Off Eligible Evaluations | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/ |
 | 2026-10-01 | Titan Capital | Titan Capital 55% Off All Evaluations and Bonus Account | 55% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
-| 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
-| 2026-10-01 | Phidias Propfirm | Phidias Propfirm $10,000 Challenge Entry for $30 | Only $30 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/ |
-| 2026-10-01 | Blueberry Funded | Blueberry Funded 35% Off Prime Challenge and Second Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/ |
-| 2026-10-01 | FTUK | FTUK: 35% Off Instant Funding Evaluation Price | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding/ |
-| 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
