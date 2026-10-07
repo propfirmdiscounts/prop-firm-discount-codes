@@ -179,12 +179,12 @@ function dealsTable(rows, withEvent) {
   const head = withEvent
     ? `<th scope="col">Published</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`
     : `<th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`;
-  return `<table class="checks fixed ${withEvent ? 'deals6' : 'deals5'}">
+  return `<div class="tscroll ${withEvent ? 'w700' : 'w640'}"><table class="checks fixed ${withEvent ? 'deals6' : 'deals5'}">
 <thead><tr>${head}</tr></thead>
 <tbody>
 ${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td>${withEvent ? `<td>${esc(r.eventShort || EN_DASH)}</td>` : ''}<td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td>${codeTd(r)}</tr>`).join('\n')}
 </tbody>
-</table>`;
+</table></div>`;
 }
 
 // Term pages split the deal table by year once an event spans more than one,
@@ -202,12 +202,12 @@ function dealsByYear(rows) {
 // most recent deal so the driest events sink to the bottom.
 function eventTable(items) {
   const sorted = [...items].sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')));
-  return `<table class="checks events fixed">
+  return `<div class="tscroll w480"><table class="checks events fixed">
 <thead><tr><th scope="col">Event &amp; holiday</th><th scope="col">Deals</th><th scope="col">Newest</th></tr></thead>
 <tbody>
 ${sorted.map(({ name, href, rows }) => `<tr><td><a href="${href}">${esc(name)}</a></td><td>${rows.length}</td><td>${rows[0] ? `<time datetime="${esc(rows[0].published)}">${esc(rows[0].published)}</time>` : EN_DASH}</td></tr>`).join('\n')}
 </tbody>
-</table>`;
+</table></div>`;
 }
 
 function monthName(ym) {
@@ -292,12 +292,12 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
       },
     ],
   };
-  const boardTable = board.ranks.length ? `<table class="checks board fixed">
+  const boardTable = board.ranks.length ? `<div class="tscroll w700"><table class="checks board fixed">
 <thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Code</th><th scope="col">Published</th></tr></thead>
 <tbody>
 ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td>${codeTd(r)}<td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
 </tbody>
-</table>` : '<p>No percentage offers are on record for the current window yet.</p>';
+</table></div>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes ${year}</h1>
 <p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${events.length + tags.length} events and holidays, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
 
@@ -314,12 +314,12 @@ ${boardTable}
 
 <h2 id="codes">Exclusive prop firm discount codes</h2>
 <p>These are the firms' exclusive standing codes: they work any time, inside or outside an event window. Listed as plain text on purpose ${EN_DASH} copy the code straight from the table, no click needed.</p>
-<table class="checks exclusive fixed">
+<div class="tscroll w480"><table class="checks exclusive fixed">
 <thead><tr><th scope="col">Prop Firm</th><th scope="col">Exclusive code</th><th scope="col">Discount</th><th scope="col">Checked</th></tr></thead>
 <tbody>
 ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</code></td><td>${esc(c.discount)}</td><td>${esc(monthYearUTC(now))}</td></tr>`).join('\n')}
 </tbody>
-</table>
+</table></div>
 <p>Looking for the verification trail behind each code, with the dated deals it applied to? See the firm pages on <a href="https://propfirmdiscount.com/">PropFirmDiscount</a>, or the machine-readable <a href="/dataset.json">dataset.json</a>.</p>
 
 <h2 id="method">About this hub and how the code column works</h2>
@@ -398,12 +398,12 @@ function roundupPage(ev, kind, others, now) {
   const firmRows = firmRollup(rows);
   const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.name)} discount code by firm</h2>
 <p>Every firm with a ${esc(ev.name)} offer on record, deepest cut first. The Code column shows a firm's standing code where the firm publishes one; firms without a standing code for this event are left blank.</p>
-<table class="checks firms fixed">
+<div class="tscroll w560"><table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCellCodeOnly(f.bestRow)}</td></tr>`).join('\n')}
 </tbody>
-</table>` : '';
+</table></div>` : '';
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.name)}</nav>
 <h1>${esc(h1)}</h1>
 <p class="answer">${bridge}</p>

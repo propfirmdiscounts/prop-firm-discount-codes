@@ -167,12 +167,12 @@ export function hubPage(site, rows, now) {
 <td>${esc(monthYearUTC(now))}</td>
 <td>${r.last_deal_published ? `<time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : EN_DASH}</td>
 </tr>`;
-  const table = `<table class="checks">
+  const table = `<div class="tscroll w560"><table class="checks">
 <thead><tr><th scope="col">Firm</th><th scope="col">Code</th><th scope="col">Discount</th><th scope="col">Checked</th><th scope="col">Last deal</th></tr></thead>
 <tbody>
 ${sorted.map(rowOf).join('\n')}
 </tbody>
-</table>`;
+</table></div>`;
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [

@@ -214,7 +214,10 @@ table{border-collapse:collapse;width:100%;margin:1em 0}th,td{border:1px solid va
 tbody th{width:34%}th{background:color-mix(in srgb,var(--line) 30%,transparent)}
 table.checks tbody th{width:auto}table.checks td:first-child{font-weight:600}table.checks td:nth-child(4),table.checks td:nth-child(5){white-space:nowrap}
 ol.log li{margin:.4em 0}footer{border-top:1px solid var(--line);padding:16px;color:var(--mut);font-size:.85rem}
-footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb a{color:var(--mut)}`;
+footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb a{color:var(--mut)}
+.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.tscroll.w700>table{min-width:700px}.tscroll.w640>table{min-width:640px}.tscroll.w560>table{min-width:560px}.tscroll.w480>table{min-width:480px}
+@media(max-width:640px){body{font-size:15px}h1{font-size:1.45rem}th,td{padding:6px 8px}header span{display:block;margin-top:2px}table.checks td:nth-child(4),table.checks td:nth-child(5){white-space:normal}}`;
 
 export function layout(site, { title, desc, canonical, ld, body, path, altMarkdown, extraCss }) {
   const alts = path
