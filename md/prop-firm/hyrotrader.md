@@ -19,11 +19,6 @@ The verified HyroTrader discount code is **PFDC** — Up to 5% off, works any ti
 - Scope: evaluation challenges
 - Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-09-18 - [HyroTrader: 10% Off Evaluation Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) (10% Off)
-- 2026-06-23 - [HyroTrader 10% Discount and Permanent Challenge Pricing Reductions](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) (10% Off)
-- 2026-06-13 - [HyroTrader World Cup: 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) (15% Off)
-- 2026-04-02 - [HyroTrader 20% Off All Challenges: Easter Promotion Details](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) (20% Off)
-- 2026-02-15 - [HyroTrader Valentine's Deal: 14% Off Single Challenge Costs](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) (14% Off)
-- 2026-01-05 - [HyroTrader New Year 2026 Offer: 20% Off Evaluation Costs](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) (20% Off)

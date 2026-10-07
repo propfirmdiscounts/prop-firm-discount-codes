@@ -39,10 +39,7 @@ The limited-time flash sale pricing is officially valid until Friday, October 10
 
 Yes, according to the promotional release, candidates are permitted to run up to 10 evaluation accounts simultaneously.
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-10-04 - [TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis](https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/) (60% Off)
 - 2026-09-01 - [TradeDay $25k Evaluation Account Deal for $45](https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/)
-- 2026-07-26 - [TradeDay 55% Off Quick Pay Accounts ($50,000 for $59)](https://propfirmdiscount.com/deals/tradeday/tradeday-55-off-quick-pay-accounts/) (55% Off)
-- 2025-12-01 - [TradeDay December Sale: 40% OFF + No Activation Fee](https://propfirmdiscount.com/deals/tradeday/tradeday-december-sale-40-off/) (40% Off)
-- 2025-11-01 - [TradeDay Promo: 30% OFF + No Activation Fee + Multi-Accounts](https://propfirmdiscount.com/deals/tradeday/tradeday-30-off-no-activation-fee/) (30% Off)

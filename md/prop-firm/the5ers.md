@@ -18,7 +18,6 @@ The verified The5ers discount code is **NKY03MTJGM** — Up to 5% off, works any
 - Scope: All account models
 - Deal page: https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-12-22 - [The5ers New Year Offer: $2.5K High Stakes Account for $12](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) (Only $12)
-- 2025-11-25 - [The5ers Black Friday: 15% Off All Accounts + 5% Off Select High Stakes](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) (15% Off)
+- No deal published in the last 2 months.

@@ -43,21 +43,6 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 
 The promotion is valid until October 25.
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off)
-- 2026-08-27 - [E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) (50% Off)
-- 2026-06-01 - [E8 Markets: 30% Off E8Pro and 10% Off Existing Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/) (30% Off)
-- 2026-05-27 - [E8 Markets: 30% Off E8PRO v2 and 10% Off Other Models for 14 Days](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-v2-evaluation/) (30% Off)
-- 2026-05-06 - [E8 Markets: Up to 20% Off Signature and 10% Off E8 One Challenge Pricing](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-signature-e8-one/) (20% Off)
-- 2026-04-20 - [E8 Markets: 40% Off Signature and 30% Off E8 One Evaluations](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-april-2026/) (40% Off)
-- 2026-04-07 - [E8 Markets 40% Off Trading Challenges $50K and Under](https://propfirmdiscount.com/deals/e8-funding/e8-markets-40-percent-discount-50k-under/) (40% Off)
-- 2026-03-17 - [E8 Markets: 10% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-10-percent-off-evaluations/) (10% Off)
-- 2026-03-03 - [E8 Markets: 50% Off Signature and 25% Off One Evaluations](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-percent-off-signature-one/) (50% Off)
-- 2026-02-13 - [E8 Markets 20% Off Evaluation Accounts: Upfront Fee Reduction](https://propfirmdiscount.com/deals/e8-funding/e8-markets-20-percent-discount-evaluation-accounts/) (20% Off)
-- 2026-02-09 - [E8 Markets 20% Off Static Crypto Plan (Ends Feb 28)](https://propfirmdiscount.com/deals/e8-funding/e8-markets-static-crypto-plan-discount/) (20% Off)
-- 2026-01-28 - [E8 Markets Promotion: 35% Off First Two Signature Orders and 20% Off E8 One](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-promo-35-off/) (35% Off)
-- 2025-12-04 - [E8 Markets 25% Off Signature Model Launch with $50K Accounts at $98](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-launch-25-percent-off/) (25% Off)
-- 2025-09-26 - [E8 Markets – 15% OFF + Free Reset (Limited-Time Safety Net)](https://propfirmdiscount.com/deals/e8-funding/e8-markets-15-off-free-reset-limited-time-safety-net/) (15% Off)
-- 2025-09-09 - [E8 Markets — 5% OFF on Eligible Plans](https://propfirmdiscount.com/deals/e8-funding/coupon-10-for-e8-funding/) (5% Off)
-- 2025-08-10 - [E8 Funding Coupon 2025 – Get the Latest Discount for Your Challenge](https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/) (5% Off)

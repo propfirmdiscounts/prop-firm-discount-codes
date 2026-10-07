@@ -15,6 +15,6 @@ The newest The Funded Trader Program (TFT) discount code is **TFTTrader9861999**
 - Scope: flexible challenge programs
 - Deal page: https://propfirmdiscount.com/deals/the-funded-trader/coupon-5-for-the-funded-trader-program/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2023-04-10 - [Coupon -10% for The Funded Trader Program (TFT)](https://propfirmdiscount.com/deals/the-funded-trader/coupon-5-for-the-funded-trader-program/) (10% Off)
+- No deal published in the last 2 months.

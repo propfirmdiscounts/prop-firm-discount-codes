@@ -16,10 +16,6 @@ No live discount code for FTMO right now — newest deals and offers are below.
 - Scope: All evaluation models and account sizes.
 - Deal page: https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-20-off-deal/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-12-30 - [FTMO New Year Flash Sale: 20% Off All Challenge Accounts](https://propfirmdiscount.com/deals/ftmo/ftmo-new-year-flash-sale-20-off/) (20% Off)
-- 2025-12-01 - [FTMO Cyber Monday Deal: 20% OFF All Challenges](https://propfirmdiscount.com/deals/ftmo/ftmo-cyber-monday-20-off-deal/) (20% Off)
-- 2025-11-26 - [FTMO Black Friday Deal: 20% Off All Challenges](https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-20-off-deal/) (20% Off)
-- 2025-10-09 - [FTMO — Deal: 19% OFF $100,000 FTMO Challenge (Save €101, No Coupon Required)](https://propfirmdiscount.com/deals/ftmo/ftmo-deal-19-off-100000-ftmo-challenge-save-e101-no-coupon-required/) (19% Off)
-- 2025-08-10 - [FTMO Discount Code 2025 – Get 10% Off Your FTMO Challenge Fee](https://propfirmdiscount.com/deals/ftmo/ftmo-discount-code-2025-get-10-off-your-ftmo-challenge-fee/) (10% Off)
+- No deal published in the last 2 months.

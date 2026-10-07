@@ -37,7 +37,6 @@ No, the core account features remain completely unchanged. Successfully funded t
 
 You can claim the lower upfront fee by selecting your desired account size and applying the active promotion during checkout before the October 25 expiration.
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off)
-- 2026-08-27 - [IC Funded 30% Off Challenge Pricing Promotion](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-evaluation-promotion/) (30% Off)

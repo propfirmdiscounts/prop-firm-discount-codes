@@ -39,7 +39,7 @@ Purchases of $100K and $200K evaluations receive a second evaluation of the same
 
 The 55% discount applies to the purchase of any evaluation and the instant funding account is provided as a secondary bonus included with that purchase.
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-10-01 - [Titan Capital 55% Off All Evaluations and Bonus Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/) (55% Off)
 - 2026-09-16 - [Titan Capital 50% Off Any Evaluation and Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-50-off-free-account/) (50% Off)

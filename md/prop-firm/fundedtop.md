@@ -17,6 +17,6 @@ The newest FundedTop discount code is **FT40** — 40% off (September 12, 2025).
 - Scope: all challenges
 - Deal page: https://propfirmdiscount.com/deals/fundedtop/fundedtop-promo-40-off-all-challenges-48-hours-only/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-09-12 - [FundedTop Promo: 40% OFF All Challenges (48 Hours Only)](https://propfirmdiscount.com/deals/fundedtop/fundedtop-promo-40-off-all-challenges-48-hours-only/) (40% Off)
+- No deal published in the last 2 months.

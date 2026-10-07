@@ -14,7 +14,6 @@ The newest Seacrest Funded discount code is **SEPT15** — 15% off (September 26
 - Scope: All Accounts
 - Deal page: https://propfirmdiscount.com/deals/seacrestfunded/seacrestfunded-15-off-all-accounts-unlimited-uses-limited-time/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-10-05 - [SeacrestFunded BOGO — 15% Off + Free Account (Live Today)](https://propfirmdiscount.com/deals/seacrestfunded/seacrestfunded-bogo-15-off-free-account-live-today/) (15% Off)
-- 2025-09-26 - [SeacrestFunded – 15% OFF All Accounts (Unlimited Uses, Limited Time)](https://propfirmdiscount.com/deals/seacrestfunded/seacrestfunded-15-off-all-accounts-unlimited-uses-limited-time/) (15% Off)
+- No deal published in the last 2 months.

@@ -17,9 +17,6 @@ The newest Darwinex Zero discount code is **DWX10** — 10% off (March 17, 2025)
 - Scope: Monthly, 1-Year, and 3-Year Subscriptions
 - Deal page: https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-10-percent-off-subscriptions/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-11-21 - [Darwinex Zero Black Friday Deal: 20% Off 1 & 3-Year Plans](https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-black-friday-20-off-long-term-plans/) (20% Off)
-- 2025-10-17 - [Darwinex Zero Price Update: 10% Off Long-Term Plans Before Nov 17](https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-price-update-10-percent-off/) (10% Off)
-- 2025-03-17 - [Darwinex Zero 10% Off Monthly and Annual Subscriptions](https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-10-percent-off-subscriptions/) (10% Off)
-- 2024-12-03 - [Darwinex Zero Black Friday: 10% OFF 1Y & 3Y Plans + Free Allocation](https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-black-friday-promotion/) (10% Off)
+- No deal published in the last 2 months.

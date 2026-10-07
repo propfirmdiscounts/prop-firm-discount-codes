@@ -17,8 +17,6 @@ The newest MyFxCapital discount code is **SAVE40** — 40% off (September 17, 20
 - Scope: Instant Funding
 - Deal page: https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-40-off-instant-funding-limited-time/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-12-02 - [MyFxCapital Cyber Monday Flash Sale: 70% OFF 2-Step Evaluations](https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-cyber-monday-70-off-2-step/) (70% Off)
-- 2025-11-29 - [MyFxCapital Black Friday Deal: 50% OFF All Account Sizes](https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-black-friday-50-off-all-accounts/) (50% Off)
-- 2025-09-17 - [MyFxCapital — 40% OFF Instant Funding (Limited-Time Offer)](https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-40-off-instant-funding-limited-time/) (40% Off)
+- No deal published in the last 2 months.

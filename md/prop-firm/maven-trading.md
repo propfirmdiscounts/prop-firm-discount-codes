@@ -17,9 +17,6 @@ The newest Maven Trading discount code is **JUICEY** — 10% off (September 26, 
 - Scope: 1-Step Accounts (2K–20K)
 - Deal page: https://propfirmdiscount.com/deals/maven-trading/maven-trading-10-off-1-step-accounts-2k-20k-discount-at-checkout/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-03-23 - [Maven Trading 10% Discount on All Account Sizes: Entry Cost Impact](https://propfirmdiscount.com/deals/maven-trading/maven-trading-10-percent-discount-all-sizes/) (10% Off)
-- 2025-12-08 - [Maven Trading Merry Minis Offer: 10% OFF Fast Funding Accounts](https://propfirmdiscount.com/deals/maven-trading/maven-trading-merry-minis-10-off/) (10% Off)
-- 2025-11-24 - [Maven Trading Black Friday Sale: 20% OFF All Accounts](https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off/) (20% Off)
-- 2025-09-26 - [Maven Trading – 10% OFF 1-Step Accounts (2K–20K) – Discount at Checkout](https://propfirmdiscount.com/deals/maven-trading/maven-trading-10-off-1-step-accounts-2k-20k-discount-at-checkout/) (10% Off)
+- No deal published in the last 2 months.

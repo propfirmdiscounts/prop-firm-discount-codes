@@ -17,15 +17,6 @@ The newest Alpha Trader Futures discount code is **MAY** — 50% off (May 1, 202
 - Scope: all challenges, instant funding
 - Deal page: https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-50-off-challenges/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-09-01 - [Alpha Trader Futures 60% Off Entry Fee For All Account Types](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-60-off-discount/) (60% Off)
-- 2026-08-03 - [Alpha Trader Futures: 70% Off Flex and 50% Off Instant Funding](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-70-50-off/) (70% Off)
-- 2026-07-08 - [Alpha Trader Futures: 65% Off $150K Accounts, Only $244.65](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-65-off-150k-accounts/) (65% Off)
-- 2026-07-08 - [Alpha Trader Futures: 60% Off $50K, $100K and $150K Accounts](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-60-off-challenges/) (60% Off)
-- 2026-06-30 - [Alpha Trader Futures: 50% Discount on $50K, $100K and $150K Evaluation Accounts to Lower Upfront Entry Cost](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-50-off-tuesday-flash-sale/) (50% Off)
-- 2026-06-23 - [Alpha Trader Futures 50% Discount Lowering Upfront Entry Cost on Trading Challenges](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-50-off-challenges-2/) (50% Off)
-- 2026-06-15 - [Alpha Trader Firm: 50% Off Pay Later Start Fee ($5) for 24 Hours](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-firm-50-percent-off-pay-later-fee/) (50% Off)
-- 2026-06-15 - [Alpha Trader Futures Reduces Challenge Fee by 50% for Individual Accounts and 59% for the $350K Bundle](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-50-off-challenges-59-off-bundle/) (50% Off)
-- 2026-06-09 - [Alpha Trader Futures Reduces Challenge Fee by 55% During 48-Hour Promotion](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-55-off-48-hour-deal/) (55% Off)
-- 2026-05-01 - [Alpha Trader Futures: 50% Off All Challenge Accounts](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-50-off-challenges/) (50% Off)

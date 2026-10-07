@@ -43,7 +43,7 @@ Finotive Futures supports trades across six or more institutional platforms as p
 
 The firm maintains its standard structure of payouts on demand, with no waiting cycle or recurring activation charges after passing.
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
 - 2026-10-02 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) (50% Off)
 - 2026-09-25 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) (50% Off)

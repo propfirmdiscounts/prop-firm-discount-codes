@@ -14,13 +14,6 @@ The newest Earnex Prime discount code is **HAPPYDIWALI** — 50% off (October 18
 - Scope: across all account sizes
 - Deal page: https://propfirmdiscount.com/deals/earnex/earnex-prime-50-off-free-half-size-account-90-first-payout-split-diwali/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-11-25 - [Earnex Prime Black Friday Sale: Up to 60% OFF + Bonus Accounts](https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-off-bonus/) (60% Off)
-- 2025-11-19 - [Earnex Prime Black Friday Sale: Up to 60% Off & Bonus Accounts](https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-percent-off-deal/) (60% Off)
-- 2025-10-28 - [Earnex — Halloween: 45% OFF + Free Account (Half Size on Pass)](https://propfirmdiscount.com/deals/earnex/earnex-halloween-45-off-free-account-half-size-on-pass/) (45% Off)
-- 2025-10-28 - [Earnex — Halloween: 40% OFF + Free Account (Half Size)](https://propfirmdiscount.com/deals/earnex/earnex-halloween-40-off-free-account-half-size/) (40% Off)
-- 2025-10-18 - [Earnex Prime — 50% OFF + Free Half-Size Account & 90% First-Payout Split (Diwali)](https://propfirmdiscount.com/deals/earnex/earnex-prime-50-off-free-half-size-account-90-first-payout-split-diwali/) (50% Off)
-- 2025-10-15 - [Earnex — 45% OFF Instant Accounts + Free Instant Account (BOGO)](https://propfirmdiscount.com/deals/earnex/earnex-45-off-instant-accounts-free-instant-account-bogo/) (45% Off)
-- 2025-10-01 - [Earnex Prime — 40% OFF All Evaluations + Free Instant Account](https://propfirmdiscount.com/deals/earnex/earnex-prime-40-off-all-evaluations-free-instant-account/) (40% Off)
-- 2025-10-01 - [Earnex Prime — 40% OFF (Start Your Trading Career)](https://propfirmdiscount.com/deals/earnex/earnex-prime-40-off-start-your-trading-career/) (40% Off)
+- No deal published in the last 2 months.

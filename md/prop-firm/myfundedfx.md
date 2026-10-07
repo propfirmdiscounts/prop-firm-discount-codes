@@ -15,8 +15,6 @@ The newest MyFundedFX discount code is **jackichun** — 10% off (November 3, 20
 - Scope: Challenge fee
 - Deal page: https://propfirmdiscount.com/deals/myfundedfx/coupon-10-for-myfundedfx/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-04-16 - [MyFundedFX 40% Off Builder Plan: $75 Starting Evaluation Accounts](https://propfirmdiscount.com/deals/myfundedfx/myfundedfx-40-off-builder-plan-75-starting/) (40% Off)
-- 2025-12-11 - [MyFundedFX Pro Account Sale: 50% Off New Users + 30% Off Existing](https://propfirmdiscount.com/deals/myfundedfx/myfundedfx-pro-account-sale-50-percent-off/) (50% Off)
-- 2024-11-03 - [Coupon -10% for MyFundedFX](https://propfirmdiscount.com/deals/myfundedfx/coupon-10-for-myfundedfx/) (10% Off)
+- No deal published in the last 2 months.

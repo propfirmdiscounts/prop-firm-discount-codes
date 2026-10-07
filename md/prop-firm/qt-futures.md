@@ -21,8 +21,6 @@ The verified QT Futures discount code is **PFD** — Up to 50% off, works any ti
 - Scope: Evaluation account purchases and activation.
 - Deal page: https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-01-19 - [QT Futures Limited Offer: 30% OFF All Evaluations and Activation Fees](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) (30% Off)
-- 2025-12-05 - [QT Futures Cyber Monday Deal: 30% OFF Purchase & Activation Fees](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) (30% Off)
-- 2025-11-26 - [QT Futures Black Friday Sale: 25% OFF Purchase & Activation](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) (25% Off)
+- No deal published in the last 2 months.

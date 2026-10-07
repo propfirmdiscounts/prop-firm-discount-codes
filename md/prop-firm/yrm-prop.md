@@ -17,7 +17,6 @@ The newest YRM Prop discount code is **WELCOME50** — 50% off (July 14, 2026). 
 - Scope: 50K challenge, 100K challenge, 150K challenge, futures trading
 - Deal page: https://propfirmdiscount.com/deals/yrm-prop/yrm-prop-50-percent-off-50k-100k-150k/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-08-14 - [YRM Prop: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/yrm-prop/40-off-all-evaluation-accounts/) (40% Off)
-- 2026-07-14 - [YRM Prop 50% Off 50K, 100K, and 150K Account Purchase Cost](https://propfirmdiscount.com/deals/yrm-prop/yrm-prop-50-percent-off-50k-100k-150k/) (50% Off)
+- No deal published in the last 2 months.

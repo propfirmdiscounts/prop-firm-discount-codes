@@ -17,6 +17,6 @@ The newest Ifunds discount code is **BF10k** — 10% off (December 2, 2025). The
 - Scope: $10k Funded Account
 - Deal page: https://propfirmdiscount.com/deals/ifunds/ifunds-black-friday-10-off-10k-account/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-12-02 - [Ifunds Black Friday: 10% Off $10k Funded Account](https://propfirmdiscount.com/deals/ifunds/ifunds-black-friday-10-off-10k-account/) (10% Off)
+- No deal published in the last 2 months.

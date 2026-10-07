@@ -17,9 +17,6 @@ The newest SabioTrade discount code is **BOO30** — 30% off (October 27, 2025).
 - Scope: Any single account.
 - Deal page: https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-05-21 - [SabioTrade Buy 1 Get 1 Free: Second Evaluation Account Included](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-buy-1-get-1-free/) (Buy 1 Get 1)
-- 2026-03-25 - [SabioTrade Buy 2 Get 3rd Free Account Purchase Structure](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-buy-2-get-3rd-free-promo/) (Buy 2 Get 3)
-- 2025-11-21 - [SabioTrade Black Friday Deal: Buy One Get One Free Account](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-black-friday-bogo-deal/) (Buy 1 Get 1)
-- 2025-10-27 - [SabioTrade Halloween Deal: 30% Off Any Account + Free Course](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/) (30% Off)
+- No deal published in the last 2 months.

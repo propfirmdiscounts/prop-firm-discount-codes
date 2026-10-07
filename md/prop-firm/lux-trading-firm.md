@@ -14,8 +14,6 @@ No live discount code for Lux Trading Firm right now — newest deals and offers
 - Scope: All newly purchased accounts
 - Deal page: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-harvest-deal-30-off-100k-account/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2025-12-22 - [Lux Trading Firm Christmas Offer: 15% OFF Any New Trading Account](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-christmas-offer-15-off/) (15% Off)
-- 2025-11-25 - [Lux Trading Firm Black Friday Deal: 25% OFF Elite Package + Mentoring](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-deal-25-off/) (25% Off)
-- 2025-09-22 - [Lux Trading Firm Harvest Deal: 30% Off All Accounts + $100K Size for £199](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-harvest-deal-30-off-100k-account/) (30% Off)
+- No deal published in the last 2 months.

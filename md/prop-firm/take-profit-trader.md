@@ -17,8 +17,6 @@ The newest Take Profit Trader discount code is **NOFEE100** — 30% off (Novembe
 - Scope: All evaluations.
 - Deal page: https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-30-off-refund-no-activation-fee/
 
-## Current deals (newest first)
+## Current deals (last 2 months, newest first)
 
-- 2026-08-17 - [Take Profit Trader: 50% Off Evaluation Accounts and Zero Activation Fees](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-50-off-evaluation-accounts/) (50% Off)
-- 2025-12-18 - [Take Profit Trader Christmas Offer: 40% OFF All Test Accounts + No Activation Fee](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-christmas-promotion/) (40% Off)
-- 2025-11-24 - [Take Profit Trader Black Friday Sale: 30% Off + 100% Refund + No Activation Fee](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-30-off-refund-no-activation-fee/) (30% Off)
+- No deal published in the last 2 months.
