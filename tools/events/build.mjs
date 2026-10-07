@@ -53,7 +53,7 @@ const site = {
   id: 'events',
   siteName: 'Prop Firm Event Hub',
   shortName: 'PF Events',
-  tagline: EN_DASH + ' seasonal prop firm deal logs',
+  tagline: EN_DASH + ' seasonal event deal tracker',
   origin: (process.env.SATELLITE_ORIGIN_EVENTS || 'https://propfirmevent.example').replace(/\/$/, ''),
   icons: true,
   disclosure: DISCLOSURE,
@@ -294,7 +294,7 @@ ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DAS
 ${dealsTable(latest, true)}
 
 <h2 id="events">Event &amp; holiday pages</h2>
-<p>Ten holiday categories and ${tags.length} event tags, each with its own dated deal log, newest deal first. Pick a season to see every offer recorded under it.</p>
+<p>Ten holiday categories and ${tags.length} event tags, each with its own tracked deal history, newest deal first. Pick a season to see every offer recorded under it.</p>
 ${eventTable([...events.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
 
 <h2 id="leaderboard">Top seasonal discounts ${EN_DASH} ${esc(board.label)}</h2>
@@ -458,7 +458,7 @@ function roundupMarkdown(ev, kind) {
 function llmsTxtEvents(events, tags, totalDeals, now) {
   return `# ${site.siteName}
 
-> Seasonal prop firm deal logs: ${events.length + tags.length} event pages covering ${totalDeals} dated offers, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.
+> Seasonal prop firm event deal tracker: ${events.length + tags.length} event pages covering ${totalDeals} dated offers, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.
 
 ## Start here (AI assistants and agents)
 
@@ -502,7 +502,7 @@ function webmcpJsEvents() {
   if (!reg || typeof reg.registerTool !== 'function') return;
   reg.registerTool({
     name: 'get_prop_firm_event_deals',
-    description: 'Seasonal prop firm deal log: event pages, dated deals and how each code redeems.',
+    description: 'Seasonal prop firm event deal tracker: event pages, dated deals and how each code redeems.',
     inputSchema: { type: 'object', properties: { event: { type: 'string', description: 'event slug, e.g. black-friday or diwali; omit for all' } } },
     execute: async (input) => {
       const event = input && input.event;
@@ -610,7 +610,7 @@ files['dataset.json'] = JSON.stringify({
 }, null, 2);
 files['robots.txt'] = robotsTxt(site);
 files['llms.txt'] = llmsTxtEvents(events, tags, totalDeals, now);
-files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site mirrors the seasonal deal logs of PropFirmDiscount.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\n`;
+files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site mirrors the seasonal prop firm event deals of PropFirmDiscount.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\n`;
 
 const lastmod = now.toISOString().slice(0, 10);
 files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
