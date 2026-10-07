@@ -163,6 +163,9 @@ const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').tri
 // tell a genuine code ("standing") from the two labels without guessing.
 const codeCell = (r) => (r.codeState === 'standing' ? `<code>${esc(r.code)}</code>` : esc(r.code));
 const codeTd = (r) => `<td data-code-state="${r.codeState}">${codeCell(r)}</td>`;
+// Firm-rollup cells show a code only when the mirror carried a real one; the
+// two "no usable code" labels are dropped so the column stays a code list.
+const codeCellCodeOnly = (r) => (r.codeState === 'standing' ? `<code>${esc(r.code)}</code>` : '');
 
 function dealsTable(rows, withEvent) {
   const head = withEvent
@@ -386,11 +389,11 @@ function roundupPage(ev, kind, others, now) {
   // reader scanning the whole table.
   const firmRows = firmRollup(rows);
   const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.name)} discount code by firm</h2>
-<p>Every firm with a ${esc(ev.name)} offer on record, deepest cut first. The code shown is the one that firm's best ${esc(ev.name)} offer used.</p>
+<p>Every firm with a ${esc(ev.name)} offer on record, deepest cut first. The Code column shows a firm's standing code where the firm publishes one; firms without a standing code for this event are left blank.</p>
 <table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
-${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCell(f.bestRow)}</td></tr>`).join('\n')}
+${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCellCodeOnly(f.bestRow)}</td></tr>`).join('\n')}
 </tbody>
 </table>` : '';
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.name)}</nav>
@@ -450,7 +453,7 @@ function roundupMarkdown(ev, kind) {
   const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
   return [`# ${ev.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsByYear(ev.rows), '',
     ...(firms.length ? [`## ${ev.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
-      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
+      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.codeState === 'standing' ? f.bestRow.code : ''} |`), ''] : []),
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
