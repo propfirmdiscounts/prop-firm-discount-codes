@@ -16,7 +16,7 @@ const argOf = (k) => (argv.indexOf(k) >= 0 ? resolve(argv[argv.indexOf(k) + 1]) 
 const repoRoot = argOf('--root') || resolve(here, '../..');
 const outRoot = argOf('--out') || join(here, 'dist');
 
-// ── calendar registry ───────────────────────────────────────────
+// ── event registry ───────────────────────────────────────────
 // Category slugs are term slugs under 163; tag slugs are the event tags
 // mirrored into md/tag/. `black-friday` (and a few others) exist as BOTH a
 // category and a tag, so the two groups keep separate paths and never merge.
@@ -31,7 +31,7 @@ const TAG_SLUGS = [
   'international-workers-day', 'lunar-new-year', 'mothers-day', 'presidents-day',
 ];
 // Display names that title-casing the slug would get wrong.
-const CAL_NAMES = {
+const EVENT_NAMES = {
   'black-friday': 'Black Friday', 'cyber-monday': 'Cyber Monday',
   'christmas-deals': 'Christmas Deals', 'new-year-sale': 'New Year Sale',
   'halloween-deals': 'Halloween Deals', 'festive-anniversary-deals': 'Festive Anniversary Deals',
@@ -45,15 +45,15 @@ const CAL_NAMES = {
   'lunar-new-year': 'Lunar New Year', 'mothers-day': "Mother's Day",
   'presidents-day': 'Presidents Day',
 };
-const calName = (slug) => CAL_NAMES[slug] || slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const eventName = (slug) => EVENT_NAMES[slug] || slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 // Short label drops the redundant " Deals" suffix ("Halloween Deals" → "Halloween").
-const shortName = (slug) => calName(slug).replace(/\s+Deals$/, '');
+const shortName = (slug) => eventName(slug).replace(/\s+Deals$/, '');
 
 const site = {
   id: 'events',
   siteName: 'Prop Firm Event Hub',
   shortName: 'PF Events',
-  tagline: EN_DASH + ' seasonal prop firm deal calendars',
+  tagline: EN_DASH + ' seasonal prop firm deal logs',
   origin: (process.env.SATELLITE_ORIGIN_EVENTS || 'https://propfirmevent.example').replace(/\/$/, ''),
   icons: true,
   disclosure: DISCLOSURE,
@@ -79,8 +79,8 @@ table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){width:16%}
 table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){white-space:normal}
 table.deals5 th:nth-child(4),table.deals5 td:nth-child(4){width:12%}
 table.deals5 th:nth-child(5),table.deals5 td:nth-child(5){width:13%;white-space:normal;overflow-wrap:anywhere}
-table.calendars th:nth-child(2),table.calendars td:nth-child(2){width:12%;text-align:right}
-table.calendars th:nth-child(3),table.calendars td:nth-child(3){width:24%}
+table.events th:nth-child(2),table.events td:nth-child(2){width:12%;text-align:right}
+table.events th:nth-child(3),table.events td:nth-child(3){width:24%}
 table.board td:nth-child(1){font-weight:400}
 table.board td:nth-child(3){font-weight:600}
 table.board th:nth-child(1),table.board td:nth-child(1){width:6%}
@@ -137,7 +137,7 @@ function parseEventMirror(md) {
   return rows;
 }
 
-// Tag every parsed row with the calendar it came from so the hub's latest
+// Tag every parsed row with the event it came from so the hub's latest
 // table can show an Event column.
 const readMirror = (rel, eventShort) => {
   const p = join(repoRoot, 'md', rel);
@@ -176,9 +176,9 @@ ${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.publishe
 </table>`;
 }
 
-// Term pages split the deal table by year once a calendar spans more than one,
+// Term pages split the deal table by year once an event spans more than one,
 // so a reader landing on a returning event sees the current run first instead
-// of scrolling past last year's. Single-year calendars keep the bare table —
+// of scrolling past last year's. Single-year events keep the bare table —
 // a lone "2026" heading would only repeat the year already in the H1.
 // `rows` arrives newest-first, so the year keys come out newest-first too.
 function dealsByYear(rows) {
@@ -187,11 +187,11 @@ function dealsByYear(rows) {
   return years.map((y) => `<h3>${y}</h3>\n${dealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n');
 }
 
-// One combined table for both calendar groups. Rows sort newest-first by their
-// most recent deal so the driest calendars sink to the bottom.
-function calendarTable(items) {
+// One combined table for both event groups. Rows sort newest-first by their
+// most recent deal so the driest events sink to the bottom.
+function eventTable(items) {
   const sorted = [...items].sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')));
-  return `<table class="checks calendars fixed">
+  return `<table class="checks events fixed">
 <thead><tr><th scope="col">Event &amp; holiday</th><th scope="col">Deals</th><th scope="col">Newest</th></tr></thead>
 <tbody>
 ${sorted.map(({ name, href, rows }) => `<tr><td><a href="${href}">${esc(name)}</a></td><td>${rows.length}</td><td>${rows[0] ? `<time datetime="${esc(rows[0].published)}">${esc(rows[0].published)}</time>` : EN_DASH}</td></tr>`).join('\n')}
@@ -256,13 +256,13 @@ function firmRollup(rows) {
 }
 
 // ── homepage ────────────────────────────────────────────────────
-function hubPage(latest, cals, tags, codes, board, totalDeals, now) {
-  // Year stamp follows the newest seasonal deal on record, so a stale calendar
+function hubPage(latest, events, tags, codes, board, totalDeals, now) {
+  // Year stamp follows the newest seasonal deal on record, so a stale event
   // never advertises the current year.
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   const title = `Prop Firm Event Deals & Seasonal Discount Codes ${year}`;
-  const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${cals.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
-  const pages = [...cals.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/${t.slug}/` }))];
+  const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
+  const pages = [...events.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/${t.slug}/` }))];
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -288,14 +288,14 @@ ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DAS
 </tbody>
 </table>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes ${year}</h1>
-<p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${cals.length} holiday categories and ${tags.length} event tags, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
+<p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${events.length} holiday categories and ${tags.length} event tags, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
 
 <h2 id="latest">Latest seasonal deals</h2>
 ${dealsTable(latest, true)}
 
-<h2 id="calendars">Event &amp; holiday calendars</h2>
+<h2 id="events">Event &amp; holiday pages</h2>
 <p>Ten holiday categories and ${tags.length} event tags, each with its own dated deal log, newest deal first. Pick a season to see every offer recorded under it.</p>
-${calendarTable([...cals.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
+${eventTable([...events.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
 
 <h2 id="leaderboard">Top seasonal discounts ${EN_DASH} ${esc(board.label)}</h2>
 <p>The ten firms with the deepest percentage offer among seasonal deals published in the most recent active months${board.windowed ? '' : ' on record'}. Ranking uses each firm's best single deal in the window; ties break on publish date.</p>
@@ -312,30 +312,30 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 <p>Looking for the verification trail behind each code, with the dated deals it applied to? See the firm pages on <a href="https://propfirmdiscount.com/">PropFirmDiscount</a>, or the machine-readable <a href="/dataset.json">dataset.json</a>.</p>
 
 <h2 id="method">About this hub and how the code column works</h2>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every calendar mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every event page mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
 <p>Reading the Code column: a <code>monospaced value</code> is the firm's standing exclusive code and the deal redeems on it any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies to the account without entering anything.</p>
-<p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the calendar updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
+<p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the page updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md', extraCss: EVENTS_CSS }) };
 }
 
-// ── calendar (roundup) page ─────────────────────────────────────
-function roundupPage(cal, kind, others, now) {
-  const rows = cal.rows;
+// ── event (roundup) page ─────────────────────────────────────
+function roundupPage(ev, kind, others, now) {
+  const rows = ev.rows;
   const newest = rows[0] || null;
   const nStanding = rows.filter((r) => r.codeState === 'standing').length;
   const nCampaign = rows.filter((r) => r.codeState === 'campaign').length;
   const nNone = rows.filter((r) => r.codeState === 'none').length;
-  // Every calendar — holiday category or event tag — lives at the site root,
+  // Every event — holiday category or event tag — lives at the site root,
   // so no event ever needs a /tag/ prefix.
-  const path = `/${cal.slug}`;
-  // Year stamp follows this calendar's newest deal, matching the hub: an event
+  const path = `/${ev.slug}`;
+  // Year stamp follows this event's newest deal, matching the hub: an event
   // whose latest entry is from an earlier year never claims the current one.
   const year = newest ? newest.published.slice(0, 4) : now.getUTCFullYear();
-  const h1 = `${cal.name} Prop Firm Discount Code ${year}`;
+  const h1 = `${ev.name} Prop Firm Discount Code ${year}`;
   const title = h1;
   const desc = (kind === 'category'
-    ? `${cal.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${cal.name} promotions, newest first, each marked standing code, campaign code required or no code required.`
-    : `${cal.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${cal.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
+    ? `${ev.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${ev.name} promotions, newest first, each marked standing code, campaign code required or no code required.`
+    : `${ev.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${ev.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
   const shortDesc = desc.slice(0, 300);
   const firms = new Map();
   for (const r of rows) {
@@ -360,7 +360,7 @@ function roundupPage(cal, kind, others, now) {
         inLanguage: 'en',
         author: { '@id': `${site.origin}/#org` }, publisher: { '@id': `${site.origin}/#org` },
         breadcrumb: { '@id': `${site.origin}${path}/#breadcrumb` },
-        about: { '@type': 'Thing', name: cal.name },
+        about: { '@type': 'Thing', name: ev.name },
         mainEntity: {
           '@type': 'ItemList', numberOfItems: rows.length,
           itemListOrder: 'https://schema.org/ItemListOrderDescending',
@@ -377,33 +377,33 @@ function roundupPage(cal, kind, others, now) {
     ],
   };
   const bridge = kind === 'category'
-    ? `The ${esc(cal.name)} calendar carries ${rows.length} dated prop firm discount codes, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's standing code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
-    : `${rows.length} prop firm discount codes carry the ${esc(cal.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: standing code, campaign code at checkout, or no code needed.`;
+    ? `This page tracks ${rows.length} dated ${esc(ev.name)} prop firm discount codes, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's standing code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
+    : `${rows.length} prop firm discount codes carry the ${esc(ev.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: standing code, campaign code at checkout, or no code needed.`;
   const method = kind === 'category'
-    ? `Rows mirror the dated ${esc(cal.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the discount applies with nothing entered.`
-    : `Rows gather every deal PropFirmDiscount tagged ${esc(cal.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer needs no code.`;
+    ? `Rows mirror the dated ${esc(ev.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the discount applies with nothing entered.`
+    : `Rows gather every deal PropFirmDiscount tagged ${esc(ev.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's standing exclusive code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer needs no code.`;
   // Per-firm rollup so the page answers a firm-specific long tail without the
   // reader scanning the whole table.
   const firmRows = firmRollup(rows);
-  const firmSection = firmRows.length ? `<h2 id="firms">${esc(cal.name)} discount code by firm</h2>
-<p>Every firm with a ${esc(cal.name)} offer on record, deepest cut first. The code shown is the one that firm's best ${esc(cal.name)} offer used.</p>
+  const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.name)} discount code by firm</h2>
+<p>Every firm with a ${esc(ev.name)} offer on record, deepest cut first. The code shown is the one that firm's best ${esc(ev.name)} offer used.</p>
 <table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="${f.bestRow.codeState}">${codeCell(f.bestRow)}</td></tr>`).join('\n')}
 </tbody>
 </table>` : '';
-  const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(cal.name)}</nav>
+  const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.name)}</nav>
 <h1>${esc(h1)}</h1>
 <p class="answer">${bridge}</p>
 ${dealsByYear(rows)}
-${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals in this calendar; older entries live in the <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> archive.</p>` : ''}
+${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals here; older entries live in the <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> archive.</p>` : ''}
 ${firmSection}
-<h2 id="others">Other event calendars</h2>
+<h2 id="others">Other events &amp; holidays</h2>
 <p>${others.map((o) => `<a href="${o.href}">${esc(o.name)}</a>`).join(` ${EN_DASH} `)}.</p>
 <h2 id="method">How to read this table</h2>
 <p>${method}</p>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. This calendar was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. This page was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
 <p>Dates are publish dates, not re-test claims. Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
   return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
 }
@@ -425,13 +425,13 @@ function mdDealsByYear(rows) {
   return years.map((y) => `### ${y}\n\n${mdDealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n\n');
 }
 
-function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
+function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   return [`# Prop Firm Event Deals & Seasonal Discount Codes ${year}`, '',
-    `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${cals.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
+    `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
     `## Latest seasonal deals`, '', mdDealsTable(latest, true), '',
-    `## Event & holiday calendars`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
-    ...[...cals.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
+    `## Event & holiday pages`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
+    ...[...events.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
       .sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')))
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top seasonal discounts ${EN_DASH} ${board.label}`, '',
@@ -442,37 +442,37 @@ function hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) {
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
-function roundupMarkdown(cal, kind) {
+function roundupMarkdown(ev, kind) {
   const lead = kind === 'category'
-    ? `${cal.name} prop firm discount codes: ${cal.rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
-    : `${cal.name} prop firm discount codes across every firm tagged ${cal.name}: ${cal.rows.length} dated offers, newest first, each marked with how its code redeems.`;
-  const firms = firmRollup(cal.rows);
-  const year = cal.rows[0] ? cal.rows[0].published.slice(0, 4) : '';
-  return [`# ${cal.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsByYear(cal.rows), '',
-    ...(firms.length ? [`## ${cal.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
+    ? `${ev.name} prop firm discount codes: ${ev.rows.length} dated seasonal offers, newest first, each marked standing code, campaign code required or no code required.`
+    : `${ev.name} prop firm discount codes across every firm tagged ${ev.name}: ${ev.rows.length} dated offers, newest first, each marked with how its code redeems.`;
+  const firms = firmRollup(ev.rows);
+  const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
+  return [`# ${ev.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsByYear(ev.rows), '',
+    ...(firms.length ? [`## ${ev.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
       ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${f.bestRow.code} |`), ''] : []),
     CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
 // ── roots ───────────────────────────────────────────────────────
-function llmsTxtEvents(cals, tags, totalDeals, now) {
+function llmsTxtEvents(events, tags, totalDeals, now) {
   return `# ${site.siteName}
 
-> Seasonal prop firm deal calendars: ${cals.length + tags.length} event pages covering ${totalDeals} dated offers, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.
+> Seasonal prop firm deal logs: ${events.length + tags.length} event pages covering ${totalDeals} dated offers, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.
 
 ## Start here (AI assistants and agents)
 
 - ${site.origin}/md ${EN_DASH} the hub index as markdown
-- ${site.origin}/dataset.json ${EN_DASH} every calendar row as JSON
+- ${site.origin}/dataset.json ${EN_DASH} every deal row as JSON
 - ${site.origin}/sitemap.xml ${EN_DASH} all HTML pages
 
-## Event & holiday calendars
+## Event & holiday pages
 
-${[...cals, ...tags].map((c) => `- ${site.origin}/${c.slug}/ ${EN_DASH} ${c.name} (${c.rows.length} deals)`).join('\n')}
+${[...events, ...tags].map((c) => `- ${site.origin}/${c.slug}/ ${EN_DASH} ${c.name} (${c.rows.length} deals)`).join('\n')}
 
 ## Source of record
 
-- https://propfirmdiscount.com/ ${EN_DASH} the deal archive these calendars mirror
+- https://propfirmdiscount.com/ ${EN_DASH} the deal archive these pages mirror
 - https://github.com/propfirmdiscounts/prop-firm-discount-codes ${EN_DASH} dataset + mirror repo
 `;
 }
@@ -502,12 +502,12 @@ function webmcpJsEvents() {
   if (!reg || typeof reg.registerTool !== 'function') return;
   reg.registerTool({
     name: 'get_prop_firm_event_deals',
-    description: 'Seasonal prop firm deal log: calendars, dated deals and how each code redeems.',
-    inputSchema: { type: 'object', properties: { calendar: { type: 'string', description: 'calendar slug, e.g. black-friday or diwali; omit for all' } } },
+    description: 'Seasonal prop firm deal log: event pages, dated deals and how each code redeems.',
+    inputSchema: { type: 'object', properties: { event: { type: 'string', description: 'event slug, e.g. black-friday or diwali; omit for all' } } },
     execute: async (input) => {
-      const calendar = input && input.calendar;
+      const event = input && input.event;
       const d = await (await fetch('/dataset.json')).json();
-      return calendar ? d.deals.filter((r) => r.source === calendar) : d.deals;
+      return event ? d.deals.filter((r) => r.source === event) : d.deals;
     },
   });
 })();
@@ -519,8 +519,8 @@ const now = new Date();
 const codes = loadCodes();
 const standingByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.code]));
 
-const cals = CATEGORY_SLUGS.map((slug) => ({ slug, name: calName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug)) }));
-const tags = TAG_SLUGS.map((slug) => ({ slug, name: calName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug)) }));
+const events = CATEGORY_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug)) }));
+const tags = TAG_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug)) }));
 
 // The parent mirror (md/category/prop-firm-seasonal-deals.md) is capped at 30
 // rows, which is enough for a "latest" slice but under-counts the season. The
@@ -531,7 +531,7 @@ const tags = TAG_SLUGS.map((slug) => ({ slug, name: calName(slug), short: shortN
 // tag name is what a reader expects to see in the Event column).
 const tagByShort = new Map(tags.map((t) => [t.short.toLowerCase(), t.short]));
 const poolSeen = new Set();
-const pool = cals.flatMap((c) => c.rows)
+const pool = events.flatMap((c) => c.rows)
   .filter((r) => (poolSeen.has(r.url) ? false : (poolSeen.add(r.url), true)))
   .map((r) => {
     const hit = [...tagByShort.keys()].find((s) => r.title.toLowerCase().includes(s));
@@ -541,11 +541,11 @@ const pool = cals.flatMap((c) => c.rows)
 
 // Guard: a standing code printed in a mirror must equal the public dataset code.
 let warnings = 0;
-for (const cal of [...cals, ...tags]) {
-  for (const r of cal.rows) {
+for (const ev of [...events, ...tags]) {
+  for (const r of ev.rows) {
     const known = standingByFirm.get(canonicalFirm(r.firm));
     if (r.codeState === 'standing' && known && known !== r.code) {
-      console.error(`WARN standing-code mismatch ${cal.slug} / ${r.firm}: mirror ${r.code} vs dataset ${known}`);
+      console.error(`WARN standing-code mismatch ${ev.slug} / ${r.firm}: mirror ${r.code} vs dataset ${known}`);
       warnings++;
     }
   }
@@ -555,15 +555,15 @@ const totalDeals = pool.length;
 const latest = pool.slice(0, 15);
 const board = leaderboard(pool);
 
-const files = { 'index.html': hubPage(latest, cals, tags, codes, board, totalDeals, now).html, md: hubMarkdown(latest, cals, tags, codes, board, totalDeals, now) };
+const files = { 'index.html': hubPage(latest, events, tags, codes, board, totalDeals, now).html, md: hubMarkdown(latest, events, tags, codes, board, totalDeals, now) };
 const htmlPaths = ['/'];
 const mdPaths = ['/md'];
-// Every calendar sits at the site root, so each page cross-links to all the
+// Every event sits at the site root, so each page cross-links to all the
 // others, minus itself.
-const allNav = [...cals, ...tags].map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` }));
+const allNav = [...events, ...tags].map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` }));
 const navFor = (slug) => allNav.filter((o) => o.slug !== slug);
 
-for (const c of cals) {
+for (const c of events) {
   files[`${c.slug}/index.html`] = roundupPage(c, 'category', navFor(c.slug), now).html;
   files[`${c.slug}.md`] = roundupMarkdown(c, 'category');
   htmlPaths.push(`/${c.slug}/`);
@@ -581,7 +581,7 @@ const seen = new Set();
 // tell a real code from the two "no usable code" labels by string matching.
 // `code` is the redeemable value only when code_state is "standing"; for the
 // other two states it is the human-readable label, kept for display parity.
-const deals = [...cals.flatMap((c) => c.rows.map((r) => ({ ...r, source: c.slug }))), ...tags.flatMap((t) => t.rows.map((r) => ({ ...r, source: t.slug })))]
+const deals = [...events.flatMap((c) => c.rows.map((r) => ({ ...r, source: c.slug }))), ...tags.flatMap((t) => t.rows.map((r) => ({ ...r, source: t.slug })))]
   .filter((d) => (seen.has(d.url) ? false : (seen.add(d.url), true)))
   .map((d) => ({
     published: d.published,
@@ -602,15 +602,15 @@ files['dataset.json'] = JSON.stringify({
   generated: now.toISOString().slice(0, 10),
   source: 'propfirmdiscount.com',
   code_state_note: 'code_state "standing" means code holds a redeemable standing code; "campaign" means a limited-time code is on the deal page (see url); "none" means no code is needed. code is null unless code_state is "standing".',
-  categories: cals.map((c) => ({ slug: c.slug, name: c.name, path: `/${c.slug}/`, deals: c.rows.length, last_published: c.rows[0]?.published || null })),
+  categories: events.map((c) => ({ slug: c.slug, name: c.name, path: `/${c.slug}/`, deals: c.rows.length, last_published: c.rows[0]?.published || null })),
   tags: tags.map((t) => ({ slug: t.slug, name: t.name, path: `/${t.slug}/`, deals: t.rows.length, last_published: t.rows[0]?.published || null })),
   leaderboard: { window: board.label, ranks: board.ranks.map(({ codeState, ...r }) => r) },
   standing_codes: codes.map((c) => ({ firm: c.prop_firm, code: c.code, discount: c.discount })),
   deals,
 }, null, 2);
 files['robots.txt'] = robotsTxt(site);
-files['llms.txt'] = llmsTxtEvents(cals, tags, totalDeals, now);
-files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site mirrors the seasonal deal calendars of PropFirmDiscount.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\n`;
+files['llms.txt'] = llmsTxtEvents(events, tags, totalDeals, now);
+files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site mirrors the seasonal deal logs of PropFirmDiscount.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\n`;
 
 const lastmod = now.toISOString().slice(0, 10);
 files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
@@ -643,7 +643,7 @@ if (argv.includes('--check')) {
   }
   if (!icons && site.icons) writeFileSync(join(outRoot, 'favicon.svg'), PLACEHOLDER_FAVICON);
   console.log(`events (${site.origin}) -> ${outRoot}: ${Object.keys(files).length} files${site.icons ? `, ${icons || 'placeholder'} icon${icons === 1 ? '' : 's'}` : ''}`);
-  console.log(`  hub: ${totalDeals} seasonal deals, ${cals.length} categories, ${tags.length} tags, ${codes.length} standing codes`);
+  console.log(`  hub: ${totalDeals} seasonal deals, ${events.length} categories, ${tags.length} tags, ${codes.length} standing codes`);
   console.log(`  leaderboard ${board.label}: ${board.ranks.length} firms, top ${board.ranks[0] ? `${board.ranks[0].firm} ${board.ranks[0].pct}%` : EN_DASH}`);
   console.log(`  unique deal rows in dataset.json: ${deals.length}; standing-code warnings: ${warnings}`);
 }
