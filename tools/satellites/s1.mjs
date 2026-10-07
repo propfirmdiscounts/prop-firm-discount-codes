@@ -51,7 +51,7 @@ function dealBridge(firm, mirror) {
   }[mirror.dealCodeRelation];
 }
 
-function currentDealSection(firm, mirror) {
+function currentDealSection(firm, mirror, standingFirms) {
   const d = mirror.latestDeal;
   if (!d) return '';
   const o = offerShape(d.offer);
@@ -60,6 +60,13 @@ function currentDealSection(firm, mirror) {
   ];
   if (d.offer) rows.push(['Offer', esc(o.titlePart || d.offer)]);
   if (d.scope) rows.push(['Scope', esc(d.scope)]);
+  // Code row only where this deal redeems on the firm's standing code: that
+  // code is already public and genuinely belongs to the deal shown. A deal
+  // running its own campaign code gets no row, and the standing code is only
+  // reprinted for firms that hold one.
+  if (standingFirms.has(firm.slug) && mirror.dealCodeRelation === 'standing') {
+    rows.push(['Code', `<code>${esc(firm.code)}</code>`]);
+  }
   rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
   return `<h2 id="deal">Latest deal: ${esc(d.title)}</h2>
 <table>
@@ -89,7 +96,7 @@ function faqSection(firm, mirror) {
   return `<h2 id="faq">${esc(heading)}</h2>\n${note}${blocks}`;
 }
 
-export function firmPage(site, firm, mirror, now) {
+export function firmPage(site, firm, mirror, now, standingFirms) {
   const title = titleFor(firm, now);
   const o = offerShape(firm.discount);
   const ldDeal = mirror.latestDeal;
@@ -102,12 +109,12 @@ export function firmPage(site, firm, mirror, now) {
 <p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
 ${logSection(mirror)}
-${currentDealSection(firm, mirror)}
+${currentDealSection(firm, mirror, standingFirms)}
 ${faqSection(firm, mirror)}`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
 }
 
-export function firmTwins(site, firm, mirror, now) {
+export function firmTwins(site, firm, mirror, now, standingFirms) {
   const o = offerShape(firm.discount);
   const md = [`# ${firm.prop_firm} Discount Code`, '',
     `The verified standing exclusive code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
@@ -126,6 +133,11 @@ export function firmTwins(site, firm, mirror, now) {
     md.push(`- Published: ${ldDeal.published}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
     if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
+    // Same gate as the page: the Code line appears only where this deal
+    // redeems on the firm's standing code, and only for a firm that holds one.
+    if (standingFirms.has(firm.slug) && mirror.dealCodeRelation === 'standing') {
+      md.push(`- Code: ${firm.code}`);
+    }
     md.push(`- Deal page: ${ldDeal.dealUrl}`, '');
     md.push({
       standing: `This promotion runs on the standing code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`,
@@ -374,8 +386,8 @@ export function buildSite(siteIn, rows, mirrors, now, out, standingFirms) {
   const htmlPaths = ['/'];
   for (const firm of rows) {
     const mirror = mirrors[firm.slug] || { lead: '', summary: '', bullets: {}, dealHistory: [], faq: [] };
-    const page = firmPage(site, firm, mirror, now);
-    const twins = firmTwins(site, firm, mirror, now);
+    const page = firmPage(site, firm, mirror, now, standingFirms);
+    const twins = firmTwins(site, firm, mirror, now, standingFirms);
     files[`firms/${firm.slug}/index.html`] = page.html;
     files[`firms/${firm.slug}.md`] = twins.md;
     files[`firms/${firm.slug}.json`] = twins.json;
