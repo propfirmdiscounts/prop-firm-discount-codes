@@ -179,13 +179,14 @@ function monthLabel(ym) {
   return new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${ym}-01T00:00:00Z`));
 }
 
-// The trailing 12 calendar months ending at `now`, newest first. Months with
-// no recorded deal still appear as 0 — the log reports quiet months honestly.
+// The last two calendar months ending at `now` (this month and the one
+// before), newest first. Months with no recorded deal still appear as 0 —
+// the log reports quiet stretches honestly.
 function trailingMonths(now) {
   const out = [];
   const y = now.getUTCFullYear();
   const m = now.getUTCMonth();
-  for (let i = 0; i < 12; i++) {
+  for (let i = 0; i < 2; i++) {
     const d = new Date(Date.UTC(y, m - i, 1));
     out.push(`${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}`);
   }
@@ -211,14 +212,12 @@ function activityStats(pool, now) {
     .sort((a, b) => b.count - a.count || (b.best ?? -1) - (a.best ?? -1) || a.firm.localeCompare(b.firm))
     .slice(0, 10);
   const dates = pool.map((r) => r.date).sort();
-  const ninety = new Date(now.getTime() - 90 * 86400000).toISOString().slice(0, 10);
   return {
     months: byMonth,
     topFirms,
     total: pool.length,
     first: dates[0] || null,
     last: dates[dates.length - 1] || null,
-    last90: pool.filter((r) => r.date >= ninety).length,
     windowFirms: byFirm.size,
   };
 }
@@ -274,9 +273,9 @@ ${codeCell(d.slug, d.code)}
 ${codeCell(f.slug, f.code)}
 </tr>`).join('\n');
   const activitySection = stats.total ? `<h2 id="activity">Tracking activity</h2>
-<p>Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${esc(stats.first)} to ${esc(stats.last)}. ${stats.last90} of them were published in the last 90 days. Updated ${esc(monthYearUTC(now))}.</p>
+<p>Counting only deals the firms published with a date on them: ${stats.total} dated deals across ${rows.length} tracked firms in the last two months, running from ${esc(stats.first)} to ${esc(stats.last)}. Updated ${esc(monthYearUTC(now))}.</p>
 <h3>Deals recorded by month</h3>
-<p>The trailing 12 months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.</p>
+<p>The last two calendar months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.</p>
 <div class="tscroll w480"><table class="checks">
 <thead><tr><th scope="col">Month</th><th scope="col">Deals</th><th scope="col">Firms active</th></tr></thead>
 <tbody>
@@ -284,9 +283,9 @@ ${monthRows}
 </tbody>
 </table></div>
 <h3>Most active firms</h3>
-<p>Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.</p>
+<p>Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.</p>
 <div class="tscroll w640"><table class="checks">
-<thead><tr><th scope="col">Firm</th><th scope="col">Deals (12 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
+<thead><tr><th scope="col">Firm</th><th scope="col">Deals (2 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows}
 </tbody>
@@ -350,15 +349,15 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   }
   if (stats.total) {
     md.push('', `## Tracking activity`, '',
-      `Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${stats.first} to ${stats.last}. ${stats.last90} of them were published in the last 90 days. Updated ${monthYearUTC(now)}.`, '',
+      `Counting only deals the firms published with a date on them: ${stats.total} dated deals across ${rows.length} tracked firms in the last two months, running from ${stats.first} to ${stats.last}. Updated ${monthYearUTC(now)}.`, '',
       `### Deals recorded by month`, '',
-      `The trailing 12 months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.`, '',
+      `The last two calendar months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.`, '',
       `| Month | Deals | Firms active |`,
       `|-------|-------|--------------|`);
     for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
     md.push('', `### Most active firms`, '',
-      `Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.`, '',
-      `| Firm | Deals (12 mo) | Best offer | Last deal | Code |`,
+      `Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.`, '',
+      `| Firm | Deals (2 mo) | Best offer | Last deal | Code |`,
       `|------|---------------|------------|-----------|------|`);
     for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${code(f.slug, f.code)} |`);
   }
