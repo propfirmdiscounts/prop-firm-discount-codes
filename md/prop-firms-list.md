@@ -40,14 +40,14 @@
 | Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-05-18 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 80% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
+| Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | Plutus Trade Base | ptb463970 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-04 | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | 2026-01-01 | 2026-12-31 | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | 2026-01-01 | 2026-12-31 | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| TX3 Funding | PFDC | 25% | 2026-01-01 | 2026-12-31 | 2026-08-13 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| TX3 Funding | PFDC | 25% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | 2026-01-01 | 2026-12-31 | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-04 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |

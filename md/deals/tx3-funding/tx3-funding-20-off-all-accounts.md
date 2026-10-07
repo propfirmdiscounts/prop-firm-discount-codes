@@ -1,25 +1,22 @@
-# TX3 Funding Discount Code
+# TX3 Funding 20% Off All Accounts Harvest Week
 
-The verified TX3 Funding discount code is **PFDC** — Up to 25% off, works any time.
+TX3 Funding is offering 20% off — discount code **HARVEST20**.
 
-- Code: PFDC
-- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-07
-- Trustpilot: 3.1/5 (4322 reviews)
-- Activate: https://propfirmdiscount.com/go/tx3funding
-- Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
-
-## Current deal: TX3 Funding 20% Off All Accounts Harvest Week
+> The TX3 Funding Harvest Week campaign cuts 20% off all evaluation and instant funded accounts. Valid until October 11.
 
 - Published: 2026-10-07
+- Prop firm: TX3 Funding
+- Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
+- Summary: The Harvest Week campaign reduces upfront entry fees by 20% across all account types. Valid until October 11, trading rules remain unchanged.
 - Offer: 20% Off
 - Code: HARVEST20
 - Scope: All accounts, Challenges, Instant Funded
-- Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/
+- Deal: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/
+- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
 
-## TX3 Funding deal FAQ
+Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Frequently Asked Questions
 
 **What models are covered by the TX3 Funding Harvest Week discount?**
 
@@ -41,6 +38,3 @@ The active discount is valid until Sunday, October 11 at 11:59 PM ET.
 
 You can secure the reduced entry cost by applying the active promotion at checkout before the expiry deadline.
 
-## Current deals (last 2 months, newest first)
-
-- 2026-10-07 - [TX3 Funding 20% Off All Accounts Harvest Week](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/) (20% Off)

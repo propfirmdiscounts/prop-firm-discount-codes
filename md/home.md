@@ -38,6 +38,9 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-07 | Top One Trader | Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500) | 50% Off | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/ |
+| 2026-10-07 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40) | 40% Off | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/ |
+| 2026-10-07 | TX3 Funding | TX3 Funding 20% Off All Accounts Harvest Week | 20% Off | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% Off | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% Off | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% Off | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
@@ -65,6 +68,3 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 2026-10-02 | Funded Elite | Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts | 35% Off | https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/ |
 | 2026-10-02 | Instant Funding | Instant Funding 40% Off Micro Lite Accounts Up to $25K | 40% Off | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/ |
 | 2026-10-02 | For Traders | For Traders: $6K Fast Evaluation Reduced to $9.99 | 79% Off | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/ |
-| 2026-10-02 | BluSky Trading | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% Off | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |
-| 2026-10-01 | The Concept Trading | The Concept Trading: 50% Off Eligible Evaluations | 50% Off | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/ |
-| 2026-10-01 | Titan Capital | Titan Capital 55% Off All Evaluations and Bonus Account | 55% Off | https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/ |
