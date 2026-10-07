@@ -1,11 +1,11 @@
 name = "pfd-events"
 compatibility_date = "2026-10-01"
 
-# Placeholder Worker for the PropFirmEvent.com demo. Assets-only: static
-# requests are free and unmetered on the free plan, and no Worker code runs
-# per request (no run_worker_first). Not deployed yet — the domain is not
-# owned and the builder targets a local dist only.
+# Worker for the Prop Firm Event Hub. Assets-only: static requests are free
+# and unmetered on the free plan, and no Worker code runs per request (no
+# run_worker_first). Deployed from GitHub Actions on the *.workers.dev address;
+# propfirmevents.com gets attached separately once its DNS points at Cloudflare.
 [assets]
-directory = "./tools/events/dist"
+directory = "./dist"
 html_handling = "auto-trailing-slash"
 not_found_handling = "404-page"

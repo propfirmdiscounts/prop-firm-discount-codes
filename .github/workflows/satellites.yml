@@ -1,4 +1,4 @@
-name: Deploy Satellites
+name: Deploy Sites
 
 on:
   workflow_run:
@@ -7,11 +7,11 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: satellites-deploy
+  group: sites-deploy
   cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  satellites:
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
@@ -43,3 +43,36 @@ jobs:
             exit 1
           fi
           npx --yes wrangler@4 deploy --config tools/satellites/wrangler.s1.toml
+
+  events:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mirror repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build event hub
+        # Canonical host for the hub. The Worker is reachable on its
+        # *.workers.dev address; pointing propfirmevents.com at it is a
+        # separate step, so the embedded origin may lead the DNS.
+        env:
+          SATELLITE_ORIGIN_EVENTS: https://propfirmevents.com
+        run: node tools/events/build.mjs
+
+      - name: Deploy event hub
+        if: env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != ''
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          if grep -rl 'propfirmevent.example' tools/events/dist/ >/dev/null 2>&1; then
+            echo "SATELLITE_ORIGIN_EVENTS not set: dist still carries the placeholder origin. Refusing to deploy." >&2
+            exit 1
+          fi
+          npx --yes wrangler@4 deploy --config tools/events/wrangler.events.toml
