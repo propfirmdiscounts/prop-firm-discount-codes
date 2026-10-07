@@ -261,7 +261,7 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
   // never advertises the current year.
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   const title = `Prop Firm Event Deals & Seasonal Discount Codes ${year}`;
-  const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
+  const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length + tags.length} events and holidays, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
   const pages = [...events.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/${t.slug}/` }))];
   const ld = {
     '@context': 'https://schema.org',
@@ -288,13 +288,13 @@ ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DAS
 </tbody>
 </table>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes ${year}</h1>
-<p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${events.length} holiday categories and ${tags.length} event tags, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
+<p class="answer">This hub tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${events.length + tags.length} events and holidays, newest first. Every row states how the offer redeems: the firm's standing code, a campaign code entered at checkout, or no code at all.${board.ranks.length ? ` The deepest cut in the ${esc(board.label)} window is ${board.ranks[0].pct}% off from ${esc(board.ranks[0].firm)}.` : ''}</p>
 
 <h2 id="latest">Latest seasonal deals</h2>
 ${dealsTable(latest, true)}
 
 <h2 id="events">Event &amp; holiday pages</h2>
-<p>Ten holiday categories and ${tags.length} event tags, each with its own tracked deal history, newest deal first. Pick a season to see every offer recorded under it.</p>
+<p>${events.length + tags.length} events and holidays, each with its own tracked deal history, newest deal first. Pick a season to see every offer recorded under it.</p>
 ${eventTable([...events.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
 
 <h2 id="leaderboard">Top seasonal discounts ${EN_DASH} ${esc(board.label)}</h2>
@@ -428,7 +428,7 @@ function mdDealsByYear(rows) {
 function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   return [`# Prop Firm Event Deals & Seasonal Discount Codes ${year}`, '',
-    `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length} holiday categories and ${tags.length} event tags, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
+    `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length + tags.length} events and holidays, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
     `## Latest seasonal deals`, '', mdDealsTable(latest, true), '',
     `## Event & holiday pages`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
     ...[...events.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
