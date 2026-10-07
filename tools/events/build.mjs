@@ -7,7 +7,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   esc, EN_DASH, monthYearUTC, layout, DISCLOSURE, robotsTxt, sitemapXml,
-  aiSitemapXml, assertClean, publisherOrg, webManifest,
+  aiSitemapXml, assertClean, publisherOrg, webManifest, pctOf,
 } from '../satellites/lib.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -157,10 +157,6 @@ function loadCodes() {
   const raw = JSON.parse(readFileSync(join(repoRoot, 'datasets', 'prop-firm-codes.json'), 'utf8'));
   return Array.isArray(raw) ? raw : (raw.data || []);
 }
-const pctOf = (s) => {
-  const m = /^(\d+(?:\.\d+)?)\s*%/.exec(String(s || ''));
-  return m ? Number(m[1]) : null;
-};
 // Deal titles sometimes carry the firm again as a "(Firm)" suffix; the
 // leaderboard keys firms on the canonical name so a firm never splits rows.
 const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').trim();

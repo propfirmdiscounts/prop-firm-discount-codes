@@ -11,6 +11,13 @@ export function monthYearUTC(d = new Date()) {
   return new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(d);
 }
 
+// Leading percentage of an offer string ("45% Off …" → 45); null when the
+// offer is not percentage-shaped ("Only $47").
+export const pctOf = (s) => {
+  const m = /^(\d+(?:\.\d+)?)\s*%/.exec(String(s || ''));
+  return m ? Number(m[1]) : null;
+};
+
 export function loadDataset(repoRoot) {
   const raw = JSON.parse(readFileSync(`${repoRoot}/datasets/prop-firm-codes.json`, 'utf8'));
   const rows = Array.isArray(raw) ? raw : raw.data;

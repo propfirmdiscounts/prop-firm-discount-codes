@@ -3,7 +3,7 @@ import {
   esc, EN_DASH, monthYearUTC, offerShape, titleFor, firmJsonLd, layout,
   DISCLOSURE, robotsTxt, llmsTxt, sitemapXml, aiSitemapXml, apiCatalog,
   skillMd, webmcpJs, csvOf, headersFile, assertClean, parseFirmMirror,
-  publisherOrg, webManifest,
+  publisherOrg, webManifest, pctOf,
 } from './lib.mjs';
 
 export const site = {
@@ -156,10 +156,80 @@ export function firmTwins(site, firm, mirror, now) {
   return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
 }
 
-export function hubPage(site, rows, now) {
+// ── hub activity sections ───────────────────────────────────────
+// Every firm mirror carries a dated deal history; the hub surfaces it so the
+// page answers "what is actually moving" without the reader opening 49 pages.
+// History rows carry no code at all, so nothing sensitive can leak here.
+function dealPool(rows, mirrors) {
+  const pool = [];
+  for (const r of rows) {
+    const m = mirrors[r.slug];
+    if (!m) continue;
+    for (const d of m.dealHistory) {
+      pool.push({ date: d.date, firm: r.prop_firm, slug: r.slug, title: d.title, url: d.url, offer: d.offer, pct: pctOf(d.offer) });
+    }
+  }
+  pool.sort((a, b) => b.date.localeCompare(a.date) || a.firm.localeCompare(b.firm));
+  return pool;
+}
+
+const monthKey = (date) => String(date || '').slice(0, 7);
+
+function monthLabel(ym) {
+  return new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${ym}-01T00:00:00Z`));
+}
+
+// The trailing 12 calendar months ending at `now`, newest first. Months with
+// no recorded deal still appear as 0 — the log reports quiet months honestly.
+function trailingMonths(now) {
+  const out = [];
+  const y = now.getUTCFullYear();
+  const m = now.getUTCMonth();
+  for (let i = 0; i < 12; i++) {
+    const d = new Date(Date.UTC(y, m - i, 1));
+    out.push(`${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}`);
+  }
+  return out;
+}
+
+function activityStats(pool, now) {
+  const months = trailingMonths(now);
+  const inWindow = pool.filter((r) => months.includes(monthKey(r.date)));
+  const byMonth = months.map((ym) => {
+    const rows = inWindow.filter((r) => monthKey(r.date) === ym);
+    return { ym, deals: rows.length, firms: new Set(rows.map((r) => r.slug)).size };
+  });
+  const byFirm = new Map();
+  for (const r of inWindow) {
+    const cur = byFirm.get(r.slug) || { slug: r.slug, firm: r.firm, count: 0, best: null, last: r.date };
+    cur.count++;
+    if (r.pct !== null && (cur.best === null || r.pct > cur.best)) cur.best = r.pct;
+    if (r.date > cur.last) cur.last = r.date;
+    byFirm.set(r.slug, cur);
+  }
+  const topFirms = [...byFirm.values()]
+    .sort((a, b) => b.count - a.count || (b.best ?? -1) - (a.best ?? -1) || a.firm.localeCompare(b.firm))
+    .slice(0, 10);
+  const dates = pool.map((r) => r.date).sort();
+  const ninety = new Date(now.getTime() - 90 * 86400000).toISOString().slice(0, 10);
+  return {
+    months: byMonth,
+    topFirms,
+    total: pool.length,
+    first: dates[0] || null,
+    last: dates[dates.length - 1] || null,
+    last90: pool.filter((r) => r.date >= ninety).length,
+    windowFirms: byFirm.size,
+  };
+}
+
+export function hubPage(site, rows, mirrors, now) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
   const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
-  const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first. Updated ${monthYearUTC(now)}.`;
+  const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
+  const pool = dealPool(rows, mirrors);
+  const stats = activityStats(pool, now);
+  const latest = pool.slice(0, 15);
   const rowOf = (r) => `<tr>
 <td><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a></td>
 <td><code>${esc(r.code)}</code></td>
@@ -173,6 +243,48 @@ export function hubPage(site, rows, now) {
 ${sorted.map(rowOf).join('\n')}
 </tbody>
 </table></div>`;
+  const latestSection = latest.length ? `<h2 id="latest">Latest deals across tracked firms</h2>
+<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates.</p>
+<div class="tscroll w480"><table class="checks">
+<thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th></tr></thead>
+<tbody>
+${latest.map((d) => `<tr>
+<td><time datetime="${esc(d.date)}">${esc(d.date)}</time></td>
+<td><a href="/firms/${d.slug}/">${esc(d.firm)}</a></td>
+<td><a rel="nofollow" href="${esc(d.url)}">${esc(d.title)}</a></td>
+<td>${esc(offerShape(d.offer).titlePart || d.offer || EN_DASH)}</td>
+</tr>`).join('\n')}
+</tbody>
+</table></div>` : '';
+  const monthRows = stats.months.map((m) => `<tr>
+<td>${esc(monthLabel(m.ym))}</td>
+<td>${m.deals}</td>
+<td>${m.firms}</td>
+</tr>`).join('\n');
+  const firmRows = stats.topFirms.map((f) => `<tr>
+<td><a href="/firms/${f.slug}/">${esc(f.firm)}</a></td>
+<td>${f.count}</td>
+<td>${f.best === null ? EN_DASH : `${f.best}%`}</td>
+<td><time datetime="${esc(f.last)}">${esc(f.last)}</time></td>
+</tr>`).join('\n');
+  const activitySection = stats.total ? `<h2 id="activity">Tracking activity</h2>
+<p>Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${esc(stats.first)} to ${esc(stats.last)}. ${stats.last90} of them were published in the last 90 days. Updated ${esc(monthYearUTC(now))}.</p>
+<h3>Deals recorded by month</h3>
+<p>The trailing 12 months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.</p>
+<div class="tscroll w480"><table class="checks">
+<thead><tr><th scope="col">Month</th><th scope="col">Deals</th><th scope="col">Firms active</th></tr></thead>
+<tbody>
+${monthRows}
+</tbody>
+</table></div>
+<h3>Most active firms</h3>
+<p>Ranked by deals published over those same 12 months, then by best percentage offer.</p>
+<div class="tscroll w560"><table class="checks">
+<thead><tr><th scope="col">Firm</th><th scope="col">Deals (12 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th></tr></thead>
+<tbody>
+${firmRows}
+</tbody>
+</table></div>` : '';
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -196,6 +308,8 @@ ${sorted.map(rowOf).join('\n')}
 <p class="answer">This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
 <h2 id="log">Checks, newest first</h2>
 ${table}
+${latestSection}
+${activitySection}
 <h2 id="method">About this site and how codes are checked</h2>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
 <p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
@@ -205,8 +319,11 @@ ${table}
 
 // Machine twin of the hub. Same rows as the page, as a markdown table so an
 // agent can read the whole log in one fetch.
-export function hubMarkdown(site, rows, now) {
+export function hubMarkdown(site, rows, mirrors, now) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
+  const pool = dealPool(rows, mirrors);
+  const stats = activityStats(pool, now);
+  const latest = pool.slice(0, 15);
   const md = [`# Prop Firm Discount Code Checks`, '',
     `This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
     `## Checks, newest first`, '',
@@ -214,6 +331,29 @@ export function hubMarkdown(site, rows, now) {
     `|------|------|----------|---------|-----------|`];
   for (const r of sorted) {
     md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${r.last_deal_published || EN_DASH} |`);
+  }
+  if (latest.length) {
+    md.push('', `## Latest deals across tracked firms`, '',
+      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates.`, '',
+      `| Published | Firm | Deal | Offer |`,
+      `|-----------|------|------|-------|`);
+    for (const d of latest) {
+      md.push(`| ${d.date} | [${d.firm}](${site.origin}/firms/${d.slug}/) | [${d.title}](${d.url}) | ${offerShape(d.offer).titlePart || d.offer || EN_DASH} |`);
+    }
+  }
+  if (stats.total) {
+    md.push('', `## Tracking activity`, '',
+      `Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${stats.first} to ${stats.last}. ${stats.last90} of them were published in the last 90 days. Updated ${monthYearUTC(now)}.`, '',
+      `### Deals recorded by month`, '',
+      `The trailing 12 months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.`, '',
+      `| Month | Deals | Firms active |`,
+      `|-------|-------|--------------|`);
+    for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
+    md.push('', `### Most active firms`, '',
+      `Ranked by deals published over those same 12 months, then by best percentage offer.`, '',
+      `| Firm | Deals (12 mo) | Best offer | Last deal |`,
+      `|------|---------------|------------|-----------|`);
+    for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
     `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
@@ -235,9 +375,9 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
     files[`firms/${firm.slug}.json`] = twins.json;
     htmlPaths.push(`/firms/${firm.slug}/`);
   }
-  const hub = hubPage(site, rows, now);
+  const hub = hubPage(site, rows, mirrors, now);
   files['index.html'] = hub.html;
-  files['md'] = hubMarkdown(site, rows, now);
+  files['md'] = hubMarkdown(site, rows, mirrors, now);
   files['dataset.json'] = JSON.stringify({ dataset: 'prop-firm-codes', publisher: site.siteName, count: rows.length, generated: now.toISOString().slice(0, 10), data: rows }, null, 2);
   files['dataset.csv'] = csvOf(rows);
   files['robots.txt'] = robotsTxt(site);
