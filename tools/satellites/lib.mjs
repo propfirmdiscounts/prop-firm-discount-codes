@@ -33,7 +33,7 @@ export function loadDataset(repoRoot) {
 
 // ── firm mirror markdown parsing ────────────────────────────────
 export function parseFirmMirror(md, standingCode = '') {
-  const out = { lead: '', summary: '', bullets: {}, latestDeal: null, dealCodeRelation: 'unknown', dealHistory: [], faq: [] };
+  const out = { lead: '', summary: '', bullets: {}, latestDeal: null, dealCodeRelation: 'unknown', blockCodeOnStanding: false, dealHistory: [], faq: [] };
   const lines = md.split('\n');
   let i = 0;
   while (i < lines.length && !lines[i].startsWith('# ')) i++;
@@ -75,6 +75,12 @@ export function parseFirmMirror(md, standingCode = '') {
       scope: pick('Scope'),
       dealUrl: pick('Deal page'),
     };
+    // Whether the deal the mirror's block describes itself redeems on the
+    // standing code. Unlike dealCodeRelation below this does NOT require the
+    // block to be the newest history row, so it still holds for a global firm
+    // whose newest deal has aged out of the 2-month history window. The
+    // campaign-only code string is never emitted either way.
+    out.blockCodeOnStanding = !!(block.code && standingCode && block.code === standingCode);
   }
   const newest = out.dealHistory[0] || null;
   const blockIsNewest = !!(block && newest && block.dealUrl === newest.url);
@@ -187,6 +193,25 @@ function dealMirrorStanding(repoRoot) {
       const standing = /^- Verified standing exclusive code: (\S+)/m.exec(t);
       if (code && standing && code[1].trim() === standing[1].trim()) out.add(slug);
     }
+  }
+  return out;
+}
+
+// The site's own public "exclusive code" classification, read from the
+// best-discounts mirror's exclusive table. That page is already published (its
+// rows are gated server-side by the same termmeta the homepage uses), so this
+// adds no new disclosure — it only names firms the site has already labelled as
+// holding a standing code. Used to widen the firm-page Code gate, never the
+// activity tables (whose code column stays on the mirror-derived set).
+export function loadExclusiveFirms(repoRoot) {
+  const out = new Set();
+  const abs = `${repoRoot}/md/best-prop-firm-discounts.md`;
+  if (!existsSync(abs)) return out;
+  const seg = readFileSync(abs, 'utf8').split(/^## .*[Ee]xclusive.*$/m)[1] || '';
+  for (const line of seg.split('\n')) {
+    if (!line.trim().startsWith('|')) continue;
+    const m = /\/prop-firm\/([a-z0-9-]+)\//.exec(line);
+    if (m) out.add(m[1]);
   }
   return out;
 }

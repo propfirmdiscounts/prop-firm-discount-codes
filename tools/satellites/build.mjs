@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync, readFileSync, existsSync, copyFileSync, readdirSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadDataset, parseFirmMirror, loadStandingFirms } from './lib.mjs';
+import { loadDataset, parseFirmMirror, loadStandingFirms, loadExclusiveFirms } from './lib.mjs';
 import * as s1 from './s1.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -44,12 +44,20 @@ if (!selected.length) {
 
 // Firms whose deals render on their standing code, read from the mirror chain
 // itself. Anything outside this set shows a campaign code of its own, so its
-// code cell must stay blank.
+// code cell must stay blank. The activity tables and every firm-page mention
+// use this set.
 const standingFirms = loadStandingFirms(repoRoot, rows, mirrors);
+
+// The site's public exclusive-code listing, from the best-discounts mirror. A
+// firm here holds a standing code even when its newest deal has aged out of the
+// 2-month history window, so the firm-page Code row can still be shown. Kept
+// separate from standingFirms so the activity tables (whose code column must
+// match the mirror-derived evidence) are unaffected.
+const exclusiveFirms = loadExclusiveFirms(repoRoot);
 
 for (const site of selected) {
   const out = {};
-  const n = site.build(site, rows, mirrors, now, out, standingFirms);
+  const n = site.build(site, rows, mirrors, now, out, standingFirms, exclusiveFirms);
   const dir = join(outRoot, site.id);
   for (const [rel, text] of Object.entries(out)) {
     const p = join(dir, rel);
