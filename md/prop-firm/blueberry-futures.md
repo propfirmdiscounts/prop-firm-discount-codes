@@ -22,3 +22,4 @@ The newest Blueberry Futures discount code is **LAUNCH40** — 40% off (November
 - 2026-04-02 - [Blueberry Futures 60% Discount on 25K Ascent Challenge](https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-60-discount-25k-ascent-challenge/) (60% Off)
 - 2025-12-01 - [Blueberry Futures Cyber Monday Offer: 60% OFF Everything](https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-cyber-monday-60-off/) (60% Off)
 - 2025-11-28 - [Blueberry Futures Black Friday Deal: 60% OFF Ascent Challenges](https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-black-friday-60-off-ascent/) (60% Off)
+- 2025-11-25 - [Blueberry Futures Launch Offer: 40% OFF All Futures Accounts](https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-launch-40-off/) (40% Off)

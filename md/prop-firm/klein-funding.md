@@ -24,3 +24,5 @@ The newest Klein Funding discount code is **KFG1** — 10% off (October 11, 2025
 - 2025-12-17 - [Klein Funding Offer: 10% Off Instant Pro + Conditional Free Account](https://propfirmdiscount.com/deals/klein-funding/klein-funding-10-percent-off-instant-pro/) (10% Off)
 - 2025-11-27 - [Klein Funding Black Friday Deal: 20% OFF Instant Pro Accounts](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-20-off-instant-pro/) (20% Off)
 - 2025-11-27 - [Klein Funding Black Friday Sale: 25% OFF All Evaluations](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-25-off-evaluations/) (25% Off)
+- 2025-10-11 - [Klein Funding Evaluation Promo: 20% OFF + BOGO Special](https://propfirmdiscount.com/deals/klein-funding/klein-funding-evaluation-20-off-bogo/) (20% Off)
+- 2025-10-11 - [Klein Funding Instant Pro Offer: 10% OFF + BOGO Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-instant-pro-10-off-bogo/) (10% Off)

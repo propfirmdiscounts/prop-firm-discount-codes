@@ -50,3 +50,6 @@ Traders can follow the application link provided at the end of the article to cl
 - 2026-09-08 - [Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) (Only $5)
 - 2025-07-26 - [Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k/) (50% Off)
 - 2024-10-04 - [Direct Funded Trader Launch Deal: 10K Challenge for $27](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-10k-challenge-27/) (Only $27)
+- 2024-08-03 - [Direct Funded Trader: 50% Off 15K to 200K Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-15k-200k-evaluations/) (50% Off)
+- 2024-07-23 - [Direct Funded Trader: $2.5K Challenge for $5 Entry Fee](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5-dollar-challenge/) (Only $5)
+- 2024-07-16 - [Direct Funded Trader: 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts/) (50% Off)

@@ -24,3 +24,8 @@ The newest FundedProFX discount code is **BLACK70** — 70% off (November 6, 202
 - 2026-01-29 - [FundedProFX Biggest Sale: 25K for $59, 100K for $147 & 200K for $259](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-biggest-sale-demo-accounts/) (Only $259)
 - 2025-12-16 - [FundedProFX Buy 1 Get 1 Free Offer on Evaluation Accounts](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-buy-1-get-1-free-promotion/) (Buy 1 Get 1)
 - 2025-12-07 - [FundedProFX Christmas Offer: 70% OFF 50K-200K Accounts](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-christmas-70-off-50k-200k/) (70% Off)
+- 2025-11-22 - [FundedProFX Special Weekend Offer: Free 10K Account with 200K PRO](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-special-weekend-offer-free-10k-account/) (Free 10k Account)
+- 2025-11-06 - [FundedProFX Black Friday — 40% OFF on 3K–25K Accounts](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-black-friday-40-off-3k-25k-accounts/) (40% Off)
+- 2025-11-06 - [FundedProFX Black Friday — 70% OFF on 50K–200K Accounts](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-black-friday-70-off-50k-200k-accounts/) (70% Off)
+- 2025-10-14 - [FundedProFX — 70% OFF 50K/100K/200K Funded Accounts](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-70-off-50k-100k-200k-funded-accounts/) (70% Off)
+- 2025-10-14 - [FundedProFX — 60% OFF All Challenge Accounts (Limited Spots)](https://propfirmdiscount.com/deals/fundedprofx/fundedprofx-60-off-all-challenge-accounts-limited-spots/) (60% Off)

@@ -24,3 +24,6 @@ The newest Funded Trader Markets discount code is **JAN1** — 60% off (February
 - 2026-04-03 - [Funded Trader Markets Up to 60% Off 1-Step Evaluations](https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-60-off-1-step/) (60% Off)
 - 2026-03-17 - [Funded Trader Markets 60% Off 2-Step Challenge Fees](https://propfirmdiscount.com/deals/funded-trader-markets/60-off-2-step-evaluations/) (60% Off)
 - 2026-03-17 - [Funded Trader Markets Up to 60% Off 1-Step Evaluation Pricing](https://propfirmdiscount.com/deals/funded-trader-markets/up-to-60-off-1-step-evaluations/) (60% Off)
+- 2026-02-01 - [Funded Trader Markets Instant Funding Up To 40% Off Purchase Cost](https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-instant-funding-40-off/) (40% Off)
+- 2026-02-01 - [Funded Trader Markets 2-Step Challenge 60% Off Evaluation Price](https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-2-step-60-off/) (60% Off)
+- 2026-02-01 - [Funded Trader Markets 1-Step Challenge 60% Off Entry Fee](https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-1-step-60-off/) (60% Off)

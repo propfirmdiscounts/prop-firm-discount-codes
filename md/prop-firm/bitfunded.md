@@ -23,3 +23,5 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 - 2025-12-20 - [Bitfunded Christmas Offer: Buy a Mystery Box, Get 2 Free Challenges + 90% Split](https://propfirmdiscount.com/deals/bitfunded/bitfunded-christmas-mystery-box-promo/) (Free Challenges)
 - 2025-12-01 - [Bitfunded Cyber Monday Deal: Buy 3 Get 3 Free + 100% Profit Share](https://propfirmdiscount.com/deals/bitfunded/bitfunded-cyber-monday-buy-3-get-3-free/) (50% Off)
 - 2025-11-22 - [Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share](https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-50-off-100-profit-share/) (50% Off)
+- 2025-11-18 - [Bitfunded Black Friday Deal: Get 6 Accounts for the Price of 3 (50% OFF)](https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-deal-pay-3-get-6-50-off/) (50% Off)
+- 2025-10-30 - [Bitfunded — BOGO Free 2-Step + 100% Profit Share (Ends Nov 1, 11:59 PM UAE) (no coupon required)](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-bogo-free-2-step-100-profit-share-deal-ends-nov-1-uae/) (Buy 1 Get 1)

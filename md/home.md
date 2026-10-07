@@ -38,6 +38,7 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% Off | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% Off | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% Off | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
 | 2026-10-07 | Bulenox | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) | 91% Off | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |
@@ -67,4 +68,3 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 2026-10-02 | BluSky Trading | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% Off | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |
 | 2026-10-01 | The Concept Trading | The Concept Trading: 50% Off Eligible Evaluations | 50% Off | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/ |
 | 2026-10-01 | Titan Capital | Titan Capital 55% Off All Evaluations and Bonus Account | 55% Off | https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/ |
-| 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% Off | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |

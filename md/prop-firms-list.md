@@ -54,4 +54,4 @@
 | Trade The Pool | WWS4GW | 10% | 2026-01-01 | 2026-12-31 | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | WeMasterTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-03 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| thePropTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-07-06 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| thePropTrade | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

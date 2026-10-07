@@ -71,59 +71,60 @@
 | 65 | Elite Trader Funding | 3.8 | 1154 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 66 | The Trading Pit | 3.8 | 1077 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
 | 67 | Purdia Capital | 3.8 | 88 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 68 | Topstep | 3.7 | 14894 | https://propfirmdiscount.com/prop-firm/topstep/ |
-| 69 | QT Futures | 3.7 | 13197 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
-| 70 | Blue Guardian Futures | 3.7 | 1807 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 71 | Plutus Trade Base | 3.7 | 1174 | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 72 | FundYourFX | 3.7 | 924 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 73 | thePropTrade | 3.7 | 110 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
-| 74 | Forexive | 3.7 | 103 | https://propfirmdiscount.com/prop-firm/forexive/ |
-| 75 | Alpha Trader Futures | 3.7 | 8 | https://propfirmdiscount.com/prop-firm/alpha-trader-futures/ |
-| 76 | QT Funded | 3.6 | 13277 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 77 | Sure Leverage Funding | 3.6 | 1427 | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
-| 78 | SabioTrade | 3.6 | 716 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
-| 79 | Bullwaves Prime | 3.6 | 670 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| 80 | PropShopTrader | 3.6 | 547 | https://propfirmdiscount.com/prop-firm/propshoptrader/ |
-| 81 | Atmos Funded | 3.6 | 343 | https://propfirmdiscount.com/prop-firm/atmos-funded/ |
-| 82 | PipFarm | 3.6 | 342 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 83 | Forex Funds Flow | 3.6 | 266 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
-| 84 | OANDA Prop Trader | 3.5 | 481 | https://propfirmdiscount.com/prop-firm/oanda-prop-trader/ |
-| 85 | YRM Prop | 3.5 | 253 | https://propfirmdiscount.com/prop-firm/yrm-prop/ |
-| 86 | Blueberry Funded | 3.4 | 1739 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
-| 87 | BrightFunded | 3.4 | 571 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
-| 88 | Blue Guardian | 3.3 | 2094 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 89 | Funded Trader Markets | 3.3 | 431 | https://propfirmdiscount.com/prop-firm/funded-trader-markets/ |
-| 90 | IC Funded | 3.3 | 170 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
-| 91 | FundedTop | 3.3 | 111 | https://propfirmdiscount.com/prop-firm/fundedtop/ |
-| 92 | FundingTraders | 3.2 | 3260 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 93 | Finotive Funding | 3.2 | 1070 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 94 | Phidias Propfirm | 3.2 | 336 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 95 | TX3 Funding | 3.1 | 4322 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 96 | CK Capital | 3.1 | 414 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 97 | Fundex | 3.1 | 42 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| 98 | Upcomers | 3 | 587 | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 99 | AudaCity Capital | 3 | 287 | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
-| 100 | Funding Your Trades | 3 | 132 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
-| 101 | MyFxCapital | 3 | 55 | https://propfirmdiscount.com/prop-firm/myfxcapital/ |
-| 102 | The Funded Trader Program (TFT) | 2.9 | 21929 | https://propfirmdiscount.com/prop-firm/the-funded-trader/ |
-| 103 | Dominion Funding | 2.9 | 287 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
-| 104 | FundedProFX | 2.9 | 77 | https://propfirmdiscount.com/prop-firm/fundedprofx/ |
-| 105 | Instant Funding | 2.8 | 4372 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| 106 | FunderPro | 2.8 | 1559 | https://propfirmdiscount.com/prop-firm/funderpro/ |
-| 107 | Prop Number One | 2.8 | 932 | https://propfirmdiscount.com/prop-firm/prop-number-one/ |
-| 108 | Direct Funded Trader | 2.7 | 243 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 109 | MyFundedFX | 2.5 | 6 | https://propfirmdiscount.com/prop-firm/myfundedfx/ |
-| 110 | Prop Nimbus | 2.4 | 192 | https://propfirmdiscount.com/prop-firm/prop-nimbus/ |
-| 111 | OFP Funding | 2.3 | 4389 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
-| 112 | SFX Funded | 2.3 | 135 | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 113 | AquaFunded | 2.2 | 1196 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 114 | Goat Funded Trader | 2.1 | 4338 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 115 | FundedSquad | 2 | 400 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 68 | Finotive Futures | 3.8 | 8 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| 69 | Topstep | 3.7 | 14894 | https://propfirmdiscount.com/prop-firm/topstep/ |
+| 70 | QT Futures | 3.7 | 13197 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
+| 71 | Blue Guardian Futures | 3.7 | 1807 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| 72 | Plutus Trade Base | 3.7 | 1174 | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
+| 73 | FundYourFX | 3.7 | 924 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 74 | thePropTrade | 3.7 | 110 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| 75 | Forexive | 3.7 | 103 | https://propfirmdiscount.com/prop-firm/forexive/ |
+| 76 | Alpha Trader Futures | 3.7 | 8 | https://propfirmdiscount.com/prop-firm/alpha-trader-futures/ |
+| 77 | QT Funded | 3.6 | 13277 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 78 | Sure Leverage Funding | 3.6 | 1427 | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
+| 79 | SabioTrade | 3.6 | 716 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
+| 80 | Bullwaves Prime | 3.6 | 670 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
+| 81 | PropShopTrader | 3.6 | 547 | https://propfirmdiscount.com/prop-firm/propshoptrader/ |
+| 82 | Atmos Funded | 3.6 | 343 | https://propfirmdiscount.com/prop-firm/atmos-funded/ |
+| 83 | PipFarm | 3.6 | 342 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 84 | Forex Funds Flow | 3.6 | 266 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
+| 85 | OANDA Prop Trader | 3.5 | 481 | https://propfirmdiscount.com/prop-firm/oanda-prop-trader/ |
+| 86 | YRM Prop | 3.5 | 253 | https://propfirmdiscount.com/prop-firm/yrm-prop/ |
+| 87 | Blueberry Funded | 3.4 | 1739 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
+| 88 | BrightFunded | 3.4 | 571 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
+| 89 | Blue Guardian | 3.3 | 2094 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 90 | Funded Trader Markets | 3.3 | 431 | https://propfirmdiscount.com/prop-firm/funded-trader-markets/ |
+| 91 | IC Funded | 3.3 | 170 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
+| 92 | FundedTop | 3.3 | 111 | https://propfirmdiscount.com/prop-firm/fundedtop/ |
+| 93 | FundingTraders | 3.2 | 3260 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 94 | Finotive Funding | 3.2 | 1070 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| 95 | Phidias Propfirm | 3.2 | 336 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 96 | TX3 Funding | 3.1 | 4322 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 97 | CK Capital | 3.1 | 414 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 98 | Fundex | 3.1 | 42 | https://propfirmdiscount.com/prop-firm/fundex/ |
+| 99 | Upcomers | 3 | 587 | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 100 | AudaCity Capital | 3 | 287 | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
+| 101 | Funding Your Trades | 3 | 132 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
+| 102 | MyFxCapital | 3 | 55 | https://propfirmdiscount.com/prop-firm/myfxcapital/ |
+| 103 | The Funded Trader Program (TFT) | 2.9 | 21929 | https://propfirmdiscount.com/prop-firm/the-funded-trader/ |
+| 104 | Dominion Funding | 2.9 | 287 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 105 | FundedProFX | 2.9 | 77 | https://propfirmdiscount.com/prop-firm/fundedprofx/ |
+| 106 | Instant Funding | 2.8 | 4372 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| 107 | FunderPro | 2.8 | 1559 | https://propfirmdiscount.com/prop-firm/funderpro/ |
+| 108 | Prop Number One | 2.8 | 932 | https://propfirmdiscount.com/prop-firm/prop-number-one/ |
+| 109 | Direct Funded Trader | 2.7 | 243 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 110 | MyFundedFX | 2.5 | 6 | https://propfirmdiscount.com/prop-firm/myfundedfx/ |
+| 111 | Prop Nimbus | 2.4 | 192 | https://propfirmdiscount.com/prop-firm/prop-nimbus/ |
+| 112 | OFP Funding | 2.3 | 4389 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
+| 113 | SFX Funded | 2.3 | 135 | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
+| 114 | AquaFunded | 2.2 | 1196 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 115 | Goat Funded Trader | 2.1 | 4338 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 116 | FundedSquad | 2 | 400 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 
 ## How to read this directory
 
-Of the 115 firms scored, 57 sit at 4.0 stars or above - 23 at 4.5 and up, 34 between 4.0 and 4.4. The rest is where the reading matters: 44 land in the 3.0s and 14 below 3.0, with a median of 3.9.
+Of the 116 firms scored, 57 sit at 4.0 stars or above - 23 at 4.5 and up, 34 between 4.0 and 4.4. The rest is where the reading matters: 45 land in the 3.0s and 14 below 3.0, with a median of 3.9.
 
-These firms carry 607,077 Trustpilot reviews between them, and 103 of the 115 hold 100 or more - at that size a star average is stable and comparable across brands. Below it, read the score as a direction rather than a measurement.
+These firms carry 607,085 Trustpilot reviews between them, and 103 of the 116 hold 100 or more - at that size a star average is stable and comparable across brands. Below it, read the score as a direction rather than a measurement.
 
-Ratings last synced October 5, 2026.
+Ratings last synced October 7, 2026.

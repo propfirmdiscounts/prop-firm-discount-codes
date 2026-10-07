@@ -22,3 +22,4 @@ The newest Breakout Prop discount code is **TIMAPPLE** — 20% off (March 5, 202
 - 2026-05-23 - [Breakout Prop - Up to 42% Off All Plans ($5K to $200K)](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-42-off-deal/) (42% Off)
 - 2025-02-05 - [Breakout Prop Flash Deal: 20% OFF Challenge Pricing](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-flash-deal-20-percent-off/) (20% Off)
 - 2024-03-05 - [Breakout Prop iOS Launch: 20% OFF Challenge Pricing (24 Hours Only)](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-ios-launch-celebration/) (20% Off)
+- 2024-01-23 - [Breakout Prop Deal: 20% Off All Crypto Plans Until Feb 1st](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-crypto-plans/) (20% Off)

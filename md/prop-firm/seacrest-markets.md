@@ -28,3 +28,6 @@ The verified Seacrest Markets discount code is **jackichun** — Up to 5% off, w
 - 2025-12-08 - [Seacrest Markets Christmas Deal: 20% Off All Plans + Giveaway](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-20-off-giveaway/) (20% Off)
 - 2025-12-04 - [Seacrest Markets Christmas Flash Sale: 30% Off All Plans (Limited Time)](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-flash-sale-30-off/) (30% Off)
 - 2025-12-01 - [Seacrest Markets Cyber Monday Offer: 30% OFF + Triple Rewards](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) (30% Off)
+- 2025-11-25 - [Seacrest Markets Black Friday Deal: 30% Off + Triple Rewards](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/) (30% Off)
+- 2025-11-04 - [Seacrest Markets 15% OFF — November Hot Deal on 1-Step & 2-Step Challenges](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-15-off-november-hot-deal-1-step-2-step/) (15% Off)
+- 2025-10-20 - [Seacrest Markets — 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/) (50% Off)

@@ -27,3 +27,6 @@ The verified Trade The Pool discount code is **WWS4GW** — Up to 10% off, works
 - 2026-07-21 - [Trade The Pool 48-Hour Deal: $60K and $120K Buying Power Flex Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/)
 - 2026-06-17 - [Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) (Free Second Attempt)
 - 2026-06-09 - [Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) (Free retry credit)
+- 2026-01-16 - [Trade The Pool Deepcharts Offer: 30% OFF Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-deepcharts-30-off/) (30% Off)
+- 2025-12-01 - [Trade The Pool Cyber Monday: 15% OFF All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) (15% Off)
+- 2025-11-25 - [Trade The Pool Black Friday Deal: 15% OFF All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) (15% Off)

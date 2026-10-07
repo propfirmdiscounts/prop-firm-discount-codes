@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |
 | 2026-09-07 | Finotive Funding | Finotive Funding Labor Day: 40% Off All Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/ |
@@ -153,4 +154,3 @@
 | 2026-03-16 | FundedNext | FundedNext Buy 1 Get 1 Free Anniversary BOGO Offer | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-buy-1-get-1-free-anniversary-bogo-offer/ |
 | 2026-03-13 | thePropTrade | thePropTrade: 20% Off Classic Accounts with $100K 1-Step for $479 | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/ |
 | 2026-03-13 | thePropTrade | thePropTrade: 30% Off Instant Accounts Including $100K Tier for $349 | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-30-off-instant-accounts/ |
-| 2026-03-12 | FXIFY | FXIFY 27% Off Challenge Fee and Free 90% Profit Split Add-ons | 27% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-27-off-evaluation-addons-march/ |
