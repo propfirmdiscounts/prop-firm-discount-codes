@@ -33,7 +33,7 @@ const TAG_SLUGS = [
 // Display names that title-casing the slug would get wrong.
 const EVENT_NAMES = {
   'black-friday': 'Black Friday', 'cyber-monday': 'Cyber Monday',
-  'christmas-deals': 'Christmas Deals', 'new-year-sale': 'New Year Sale',
+  'christmas-deals': 'Christmas Deals', 'new-year-sale': "New Year's Eve",
   'halloween-deals': 'Halloween Deals', 'festive-anniversary-deals': 'Festive Anniversary Deals',
   'thanksgiving-deals': 'Thanksgiving Deals', 'valentine-deals': 'Valentine Deals',
   'ramadan-deals': 'Ramadan Deals', 'easter-deals': 'Easter Deals',
@@ -48,6 +48,14 @@ const EVENT_NAMES = {
 const eventName = (slug) => EVENT_NAMES[slug] || slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 // Short label drops the redundant " Deals" suffix ("Halloween Deals" → "Halloween").
 const shortName = (slug) => eventName(slug).replace(/\s+Deals$/, '');
+
+// The seasons people search for by name. The hub description leads with these
+// so the page ranks for "{season} prop firm discount code"; the hub table still
+// lists every event. Slugs are looked up through shortName so a rename here
+// (e.g. New Year's Eve) flows into the description automatically.
+const FEATURED_SEASON_SLUGS = ['black-friday', 'cyber-monday', 'halloween-deals', 'christmas-deals', 'new-year-sale'];
+const featuredSeasons = () => FEATURED_SEASON_SLUGS.map(shortName);
+const joinList = (parts) => (parts.length <= 1 ? (parts[0] || '') : `${parts.slice(0, -1).join(', ')} and ${parts[parts.length - 1]}`);
 
 const site = {
   id: 'events',
@@ -264,7 +272,7 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
   // never advertises the current year.
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   const title = `Prop Firm Event Deals & Seasonal Discount Codes ${year}`;
-  const desc = `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length + tags.length} events and holidays, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
+  const desc = `${joinList(featuredSeasons())} prop firm discount codes and deals ${EN_DASH} ${totalDeals} dated seasonal offers across ${events.length + tags.length} events and holidays, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`.slice(0, 300);
   const pages = [...events.map((c) => ({ slug: c.slug, name: c.name, href: `/${c.slug}/` })), ...tags.map((t) => ({ slug: t.slug, name: t.name, href: `/${t.slug}/` }))];
   const ld = {
     '@context': 'https://schema.org',
@@ -431,7 +439,7 @@ function mdDealsByYear(rows) {
 function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
   const year = latest[0] ? latest[0].published.slice(0, 4) : now.getUTCFullYear();
   return [`# Prop Firm Event Deals & Seasonal Discount Codes ${year}`, '',
-    `Event hub tracking ${totalDeals} dated seasonal prop firm deals across ${events.length + tags.length} events and holidays, newest first, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
+    `${joinList(featuredSeasons())} prop firm discount codes and deals ${EN_DASH} ${totalDeals} dated seasonal offers across ${events.length + tags.length} events and holidays, each row marked with how its code redeems. Updated ${monthYearUTC(now)}.`, '',
     `## Latest seasonal deals`, '', mdDealsTable(latest, true), '',
     `## Event & holiday pages`, '', `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
     ...[...events.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
