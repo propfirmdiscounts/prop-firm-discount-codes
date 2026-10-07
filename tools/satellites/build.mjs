@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync, readFileSync, existsSync, copyFileSync, readdirSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadDataset, parseFirmMirror } from './lib.mjs';
+import { loadDataset, parseFirmMirror, loadStandingFirms } from './lib.mjs';
 import * as s1 from './s1.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -42,9 +42,14 @@ if (!selected.length) {
   process.exit(1);
 }
 
+// Firms whose deals render on their standing code, read from the mirror chain
+// itself. Anything outside this set shows a campaign code of its own, so its
+// code cell must stay blank.
+const standingFirms = loadStandingFirms(repoRoot, rows, mirrors);
+
 for (const site of selected) {
   const out = {};
-  const n = site.build(site, rows, mirrors, now, out);
+  const n = site.build(site, rows, mirrors, now, out, standingFirms);
   const dir = join(outRoot, site.id);
   for (const [rel, text] of Object.entries(out)) {
     const p = join(dir, rel);

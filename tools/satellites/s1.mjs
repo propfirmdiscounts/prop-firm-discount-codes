@@ -223,13 +223,17 @@ function activityStats(pool, now) {
   };
 }
 
-export function hubPage(site, rows, mirrors, now) {
+export function hubPage(site, rows, mirrors, now, standingFirms) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
   const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
   const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
+  // A code is printed only where the mirror chain says the deal renders on the
+  // firm's standing code (the same signal the event hub reads). Everywhere else
+  // the deal carries its own campaign code, so the cell stays blank.
+  const codeCell = (slug, code) => (standingFirms.has(slug) ? `<td data-code-state="standing"><code>${esc(code)}</code></td>` : '<td></td>');
   const rowOf = (r) => `<tr>
 <td><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a></td>
 <td><code>${esc(r.code)}</code></td>
@@ -244,7 +248,7 @@ ${sorted.map(rowOf).join('\n')}
 </tbody>
 </table></div>`;
   const latestSection = latest.length ? `<h2 id="latest">Latest deals across tracked firms</h2>
-<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column shows the firm's standing exclusive code, which works any time, inside or outside the campaign window.</p>
+<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's standing exclusive code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.</p>
 <div class="tscroll w560"><table class="checks">
 <thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th><th scope="col">Code</th></tr></thead>
 <tbody>
@@ -253,7 +257,7 @@ ${latest.map((d) => `<tr>
 <td><a href="/firms/${d.slug}/">${esc(d.firm)}</a></td>
 <td><a rel="nofollow" href="${esc(d.url)}">${esc(d.title)}</a></td>
 <td>${esc(offerShape(d.offer).titlePart || d.offer || EN_DASH)}</td>
-<td data-code-state="standing"><code>${esc(d.code)}</code></td>
+${codeCell(d.slug, d.code)}
 </tr>`).join('\n')}
 </tbody>
 </table></div>` : '';
@@ -267,7 +271,7 @@ ${latest.map((d) => `<tr>
 <td>${f.count}</td>
 <td>${f.best === null ? EN_DASH : `${f.best}%`}</td>
 <td><time datetime="${esc(f.last)}">${esc(f.last)}</time></td>
-<td data-code-state="standing"><code>${esc(f.code)}</code></td>
+${codeCell(f.slug, f.code)}
 </tr>`).join('\n');
   const activitySection = stats.total ? `<h2 id="activity">Tracking activity</h2>
 <p>Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${esc(stats.first)} to ${esc(stats.last)}. ${stats.last90} of them were published in the last 90 days. Updated ${esc(monthYearUTC(now))}.</p>
@@ -280,7 +284,7 @@ ${monthRows}
 </tbody>
 </table></div>
 <h3>Most active firms</h3>
-<p>Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries each firm's standing exclusive code, which works any time.</p>
+<p>Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.</p>
 <div class="tscroll w640"><table class="checks">
 <thead><tr><th scope="col">Firm</th><th scope="col">Deals (12 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
 <tbody>
@@ -321,11 +325,12 @@ ${activitySection}
 
 // Machine twin of the hub. Same rows as the page, as a markdown table so an
 // agent can read the whole log in one fetch.
-export function hubMarkdown(site, rows, mirrors, now) {
+export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
+  const code = (slug, value) => (standingFirms.has(slug) ? value : '');
   const md = [`# Prop Firm Discount Code Checks`, '',
     `This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
     `## Checks, newest first`, '',
@@ -336,11 +341,11 @@ export function hubMarkdown(site, rows, mirrors, now) {
   }
   if (latest.length) {
     md.push('', `## Latest deals across tracked firms`, '',
-      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column shows the firm's standing exclusive code, which works any time, inside or outside the campaign window.`, '',
+      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's standing exclusive code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.`, '',
       `| Published | Firm | Deal | Offer | Code |`,
       `|-----------|------|------|-------|------|`);
     for (const d of latest) {
-      md.push(`| ${d.date} | [${d.firm}](${site.origin}/firms/${d.slug}/) | [${d.title}](${d.url}) | ${offerShape(d.offer).titlePart || d.offer || EN_DASH} | ${d.code} |`);
+      md.push(`| ${d.date} | [${d.firm}](${site.origin}/firms/${d.slug}/) | [${d.title}](${d.url}) | ${offerShape(d.offer).titlePart || d.offer || EN_DASH} | ${code(d.slug, d.code)} |`);
     }
   }
   if (stats.total) {
@@ -352,10 +357,10 @@ export function hubMarkdown(site, rows, mirrors, now) {
       `|-------|-------|--------------|`);
     for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
     md.push('', `### Most active firms`, '',
-      `Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries each firm's standing exclusive code, which works any time.`, '',
+      `Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.`, '',
       `| Firm | Deals (12 mo) | Best offer | Last deal | Code |`,
       `|------|---------------|------------|-----------|------|`);
-    for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${f.code} |`);
+    for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${code(f.slug, f.code)} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
     `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
@@ -364,7 +369,7 @@ export function hubMarkdown(site, rows, mirrors, now) {
   return md.join('\n') + '\n';
 }
 
-export function buildSite(siteIn, rows, mirrors, now, out) {
+export function buildSite(siteIn, rows, mirrors, now, out, standingFirms) {
   const site = withEmail(siteIn);
   const files = {};
   const htmlPaths = ['/'];
@@ -377,9 +382,9 @@ export function buildSite(siteIn, rows, mirrors, now, out) {
     files[`firms/${firm.slug}.json`] = twins.json;
     htmlPaths.push(`/firms/${firm.slug}/`);
   }
-  const hub = hubPage(site, rows, mirrors, now);
+  const hub = hubPage(site, rows, mirrors, now, standingFirms);
   files['index.html'] = hub.html;
-  files['md'] = hubMarkdown(site, rows, mirrors, now);
+  files['md'] = hubMarkdown(site, rows, mirrors, now, standingFirms);
   files['dataset.json'] = JSON.stringify({ dataset: 'prop-firm-codes', publisher: site.siteName, count: rows.length, generated: now.toISOString().slice(0, 10), data: rows }, null, 2);
   files['dataset.csv'] = csvOf(rows);
   files['robots.txt'] = robotsTxt(site);

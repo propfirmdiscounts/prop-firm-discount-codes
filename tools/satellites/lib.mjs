@@ -1,5 +1,5 @@
 // Shared builders for the PFD satellite network. Zero npm deps, Node 20 ESM.
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync, readdirSync } from 'node:fs';
 
 export const EN_DASH = '–';
 
@@ -126,6 +126,83 @@ export function parseFirmMirror(md, standingCode = '') {
   out.faq = out.faq.filter((f) => !hasBanned(`${f.q} ${f.a}`));
   out.dealHistory = out.dealHistory.filter((d) => !hasBanned(`${d.title} ${d.offer}`));
   return out;
+}
+
+// ── the mirror chain's own "standing code renders" signal ───────
+// The site prints a firm's standing code in a mirror cell only when the deal
+// actually renders on that code — the rule pfd_md_deal_code_state() enforces
+// on propfirmdiscount.com and the exact input the event hub's Code column
+// reads. A deal whose coupon differs (its own campaign code) leaves the cell
+// blank or labelled. So a value printed for a firm in any of these mirrors IS
+// the site's own statement that the code in play is the standing code; the
+// campaign-only code is never printed anywhere. Deriving the set from these
+// signals avoids re-deriving what the site already decides.
+const canonFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').trim();
+
+// Firm-name → slug, so event-mirror rows (which name firms) resolve to slugs.
+function firmSlugMap(repoRoot, rows) {
+  const map = new Map();
+  for (const r of rows) map.set(canonFirm(r.prop_firm), r.slug);
+  return map;
+}
+
+// Event mirrors (category / tag) print the standing code in a deal row's Code
+// cell exactly when that firm's deal renders on it.
+function eventMirrorStanding(repoRoot, slugOf) {
+  const out = new Set();
+  const dirs = ['category/prop-firm-seasonal-deals', 'tag'];
+  for (const dir of dirs) {
+    const abs = `${repoRoot}/md/${dir}`;
+    if (!existsSync(abs)) continue;
+    for (const f of readdirSync(abs)) {
+      if (!f.endsWith('.md')) continue;
+      for (const raw of readFileSync(`${abs}/${f}`, 'utf8').split('\n')) {
+        const line = raw.trim();
+        if (!line.startsWith('|')) continue;
+        const cells = line.replace(/^\||\|$/g, '').split(/(?<!\\)\|/).map((c) => c.trim());
+        if (cells.length < 6) continue;
+        const code = cells[4];
+        if (!code || code === 'Campaign Code Required' || code === 'No Code Required' || code === 'Code' || code === '---') continue;
+        const slug = slugOf.get(canonFirm(cells[1]));
+        if (slug) out.add(slug);
+      }
+    }
+  }
+  return out;
+}
+
+// Deal mirrors print the rendered code AND, separately, the term's standing
+// code; they agree exactly when the deal renders on the standing code.
+function dealMirrorStanding(repoRoot) {
+  const out = new Set();
+  const abs = `${repoRoot}/md/deals`;
+  if (!existsSync(abs)) return out;
+  for (const slug of readdirSync(abs)) {
+    const dir = `${abs}/${slug}`;
+    if (!existsSync(dir)) continue;
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const t = readFileSync(`${dir}/${f}`, 'utf8');
+      const code = /^- Code: (.*)$/m.exec(t);
+      const standing = /^- Verified standing exclusive code: (\S+)/m.exec(t);
+      if (code && standing && code[1].trim() === standing[1].trim()) out.add(slug);
+    }
+  }
+  return out;
+}
+
+// The full set of firms whose deals render on their standing code, straight
+// from the mirror chain (event mirrors ∪ deal mirrors ∪ the firm mirror's
+// newest-deal relation). Any firm not in the set has deals that carry their
+// own campaign code, so its code cell stays blank.
+export function loadStandingFirms(repoRoot, rows, mirrors) {
+  const slugOf = firmSlugMap(repoRoot, rows);
+  const set = eventMirrorStanding(repoRoot, slugOf);
+  for (const s of dealMirrorStanding(repoRoot)) set.add(s);
+  for (const r of rows) {
+    if (mirrors[r.slug] && mirrors[r.slug].dealCodeRelation === 'standing') set.add(r.slug);
+  }
+  return set;
 }
 
 // ── offer wording (mirrors pfd-seo.php conventions) ─────────────
