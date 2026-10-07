@@ -166,7 +166,7 @@ function dealPool(rows, mirrors) {
     const m = mirrors[r.slug];
     if (!m) continue;
     for (const d of m.dealHistory) {
-      pool.push({ date: d.date, firm: r.prop_firm, slug: r.slug, title: d.title, url: d.url, offer: d.offer, pct: pctOf(d.offer) });
+      pool.push({ date: d.date, firm: r.prop_firm, slug: r.slug, code: r.code, title: d.title, url: d.url, offer: d.offer, pct: pctOf(d.offer) });
     }
   }
   pool.sort((a, b) => b.date.localeCompare(a.date) || a.firm.localeCompare(b.firm));
@@ -201,7 +201,7 @@ function activityStats(pool, now) {
   });
   const byFirm = new Map();
   for (const r of inWindow) {
-    const cur = byFirm.get(r.slug) || { slug: r.slug, firm: r.firm, count: 0, best: null, last: r.date };
+    const cur = byFirm.get(r.slug) || { slug: r.slug, firm: r.firm, code: r.code, count: 0, best: null, last: r.date };
     cur.count++;
     if (r.pct !== null && (cur.best === null || r.pct > cur.best)) cur.best = r.pct;
     if (r.date > cur.last) cur.last = r.date;
@@ -244,15 +244,16 @@ ${sorted.map(rowOf).join('\n')}
 </tbody>
 </table></div>`;
   const latestSection = latest.length ? `<h2 id="latest">Latest deals across tracked firms</h2>
-<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates.</p>
-<div class="tscroll w480"><table class="checks">
-<thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th></tr></thead>
+<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column shows the firm's standing exclusive code, which works any time, inside or outside the campaign window.</p>
+<div class="tscroll w560"><table class="checks">
+<thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${latest.map((d) => `<tr>
 <td><time datetime="${esc(d.date)}">${esc(d.date)}</time></td>
 <td><a href="/firms/${d.slug}/">${esc(d.firm)}</a></td>
 <td><a rel="nofollow" href="${esc(d.url)}">${esc(d.title)}</a></td>
 <td>${esc(offerShape(d.offer).titlePart || d.offer || EN_DASH)}</td>
+<td data-code-state="standing"><code>${esc(d.code)}</code></td>
 </tr>`).join('\n')}
 </tbody>
 </table></div>` : '';
@@ -266,6 +267,7 @@ ${latest.map((d) => `<tr>
 <td>${f.count}</td>
 <td>${f.best === null ? EN_DASH : `${f.best}%`}</td>
 <td><time datetime="${esc(f.last)}">${esc(f.last)}</time></td>
+<td data-code-state="standing"><code>${esc(f.code)}</code></td>
 </tr>`).join('\n');
   const activitySection = stats.total ? `<h2 id="activity">Tracking activity</h2>
 <p>Counting only deals the firms published with a date on them: ${stats.total} dated deals on record across ${rows.length} tracked firms, running from ${esc(stats.first)} to ${esc(stats.last)}. ${stats.last90} of them were published in the last 90 days. Updated ${esc(monthYearUTC(now))}.</p>
@@ -278,9 +280,9 @@ ${monthRows}
 </tbody>
 </table></div>
 <h3>Most active firms</h3>
-<p>Ranked by deals published over those same 12 months, then by best percentage offer.</p>
-<div class="tscroll w560"><table class="checks">
-<thead><tr><th scope="col">Firm</th><th scope="col">Deals (12 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th></tr></thead>
+<p>Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries each firm's standing exclusive code, which works any time.</p>
+<div class="tscroll w640"><table class="checks">
+<thead><tr><th scope="col">Firm</th><th scope="col">Deals (12 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows}
 </tbody>
@@ -334,11 +336,11 @@ export function hubMarkdown(site, rows, mirrors, now) {
   }
   if (latest.length) {
     md.push('', `## Latest deals across tracked firms`, '',
-      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates.`, '',
-      `| Published | Firm | Deal | Offer |`,
-      `|-----------|------|------|-------|`);
+      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column shows the firm's standing exclusive code, which works any time, inside or outside the campaign window.`, '',
+      `| Published | Firm | Deal | Offer | Code |`,
+      `|-----------|------|------|-------|------|`);
     for (const d of latest) {
-      md.push(`| ${d.date} | [${d.firm}](${site.origin}/firms/${d.slug}/) | [${d.title}](${d.url}) | ${offerShape(d.offer).titlePart || d.offer || EN_DASH} |`);
+      md.push(`| ${d.date} | [${d.firm}](${site.origin}/firms/${d.slug}/) | [${d.title}](${d.url}) | ${offerShape(d.offer).titlePart || d.offer || EN_DASH} | ${d.code} |`);
     }
   }
   if (stats.total) {
@@ -350,10 +352,10 @@ export function hubMarkdown(site, rows, mirrors, now) {
       `|-------|-------|--------------|`);
     for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
     md.push('', `### Most active firms`, '',
-      `Ranked by deals published over those same 12 months, then by best percentage offer.`, '',
-      `| Firm | Deals (12 mo) | Best offer | Last deal |`,
-      `|------|---------------|------------|-----------|`);
-    for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} |`);
+      `Ranked by deals published over those same 12 months, then by best percentage offer. The Code column carries each firm's standing exclusive code, which works any time.`, '',
+      `| Firm | Deals (12 mo) | Best offer | Last deal | Code |`,
+      `|------|---------------|------------|-----------|------|`);
+    for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${f.code} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
     `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
