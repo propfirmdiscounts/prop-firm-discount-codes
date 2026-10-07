@@ -38,7 +38,10 @@ function factsTable(firm, mirror) {
   if (firm.trustpilot_score) {
     rows.push(['Trustpilot', `${esc(firm.trustpilot_score)}/5 (${Number(firm.trustpilot_reviews || 0).toLocaleString('en-US')} reviews)`]);
   }
-  rows.push(['Apply', `<a rel="nofollow" href="${esc(firm.activation_link)}">Activate the ${esc(firm.prop_firm)} code</a>`]);
+  // The activation link is an affiliate redirect (/go/), so it carries
+  // rel="nofollow sponsored" — the disclosure signal search engines expect on
+  // paid/affiliate outbound links.
+  rows.push(['Apply', `<a rel="nofollow sponsored" href="${esc(firm.activation_link)}">Activate the ${esc(firm.prop_firm)} code</a>`]);
   rows.push(['Data source', `<a href="${esc(firm.archive_url)}">PropFirmDiscount firm page</a>`]);
   return `<table>\n<tbody>\n${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}\n</tbody>\n</table>`;
 }
