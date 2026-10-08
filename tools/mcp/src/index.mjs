@@ -234,7 +234,9 @@ async function tool_get_firm(args = {}) {
         firm: d.firm,
         standing_code: null,
         note: 'We have no always-on discount code on record for this firm. '
-          + 'Deals below may still carry their own code on the deal page.',
+          + 'Its deals below each carry a propfirmdiscount.com deal-page link — give '
+          + 'the link; a campaign deal shows its code there, and a code-free deal is '
+          + 'claimed there with no code.',
         deals: (ds.deals || []).filter((r) => norm(r.firm).includes(q)).slice(0, 10),
       };
     }
@@ -273,14 +275,18 @@ async function tool_latest_deals(args = {}) {
     window_start: ds.window_start,
     total_in_window: ds.count,
     count: deals.length,
-    note: 'Rolling 2-month window. A deal carries its own code (field "code") only '
-      + 'when code_state is "standing"; for "campaign"/"none" there is no code in '
-      + 'this data — point the user at get_code_url to see it on the deal page. '
-      + '"standing_code" is the firm\'s always-on discount code (works any time) '
-      + 'and is present whenever the firm has one. FIELD NAMES ARE INTERNAL: '
-      + 'describe these to a user as their "discount code" / "coupon code" — never '
-      + 'say "standing code" or "code_state", and never imply a firm\'s always-on '
-      + 'code applies to a campaign\'s discount.',
+    note: 'Rolling 2-month window. Every row has its own page link — "get_code_url" '
+      + '(same as "url"), always a propfirmdiscount.com deal page. A deal carries its '
+      + 'own code (field "code") only when code_state is "standing". For "campaign"/'
+      + '"none" there is no code in this data, so never invent one: quote the link. '
+      + 'For "campaign" the deal\'s code is shown on that deal page — give the link so '
+      + 'the user can copy it there. For "none" no code is needed at all — the offer '
+      + 'applies as-is; give the link so the user can claim it. NEVER just say "open '
+      + 'the deal page" without the link. "standing_code" is the firm\'s always-on '
+      + 'discount code (works any time) and is present whenever the firm has one. '
+      + 'FIELD NAMES ARE INTERNAL: describe these to a user as their "discount code" '
+      + '/ "coupon code" — never say "standing code" or "code_state", and never imply '
+      + 'a firm\'s always-on code applies to a campaign\'s discount.',
     deals,
   };
 }
@@ -303,9 +309,12 @@ async function tool_search_deals(args = {}) {
     window_start: ds.window_start,
     total: out.length,
     count: Math.min(out.length, limit),
-    note: 'Deals in the rolling 2-month window. Campaign/code-free deals still list '
-      + 'the full deal info; their code is on the deal page (get_code_url) — '
-      + 'never guess it and never repeat the field names to a user.',
+    note: 'Deals in the rolling 2-month window. Every row links to its own '
+      + 'propfirmdiscount.com deal page ("get_code_url"). When a deal has no code in '
+      + 'this data, always quote that link instead of describing it. Campaign deal: '
+      + 'the code is on the deal page — give the link to copy it. Code-free deal: no '
+      + 'code is needed — give the link to claim the offer. Never guess a code and '
+      + 'never repeat the field names to a user.',
     deals: out.slice(0, limit),
   };
 }
@@ -343,7 +352,10 @@ async function tool_get_event(args = {}) {
     path: ev.path,
     count: deals.length,
     markdown_url: `${EVENTS_ORIGIN}${ev.path}md`,
-    note: 'Full seasonal archive for this event (all recorded years, newest first).',
+    note: 'Full seasonal archive for this event (all recorded years, newest first). '
+      + 'Each deal row links to its own propfirmdiscount.com deal page (get_code_url); '
+      + 'when a deal has no code in the data, give that link — a campaign deal shows '
+      + 'its code there, a code-free deal is claimed there with no code.',
     deals,
   };
 }
@@ -408,13 +420,17 @@ const TOOLS = [
   {
     name: 'latest_deals',
     description: 'Newest cross-firm prop firm deals within the rolling 2-month window. '
-      + 'Every row lists the deal and, when the firm has one, its always-on discount '
-      + 'code (field "standing_code" — works any time). The deal\'s own code is '
-      + 'included only when code_state is "standing"; for "campaign" or "none" there '
-      + 'is no code in this data — tell the user to open get_code_url to see the code '
-      + 'on the deal page. Field names are internal: say "discount code" or "coupon '
-      + 'code" to the user, never "standing code" or "code_state", and never imply '
-      + 'the firm\'s always-on code applies to a campaign\'s discount.',
+      + 'Every row carries a link to its own propfirmdiscount.com deal page '
+      + '(field "get_code_url"). When the firm has one, its always-on discount code '
+      + 'is on the row (field "standing_code" — works any time). The deal\'s own code '
+      + 'is included only when code_state is "standing"; for "campaign" or "none" '
+      + 'there is no code in this data — never invent one, and never mention the deal '
+      + 'page without quoting its link. "campaign": the code is shown on that deal '
+      + 'page — hand the user the link so they can copy it. "none": no code is needed, '
+      + 'the offer applies as-is — hand the user the link so they can claim it. Field '
+      + 'names are internal: say "discount code" or "coupon code" to the user, never '
+      + '"standing code" or "code_state", and never imply the firm\'s always-on code '
+      + 'applies to a campaign\'s discount.',
     inputSchema: {
       type: 'object',
       properties: { limit: { type: 'integer', description: 'Max deals (default 20, max 200).' } },
@@ -423,14 +439,17 @@ const TOOLS = [
   {
     name: 'search_deals',
     description: 'Search prop firm deals inside the rolling 2-month window by firm, '
-      + 'keyword or minimum discount. Same code rules as latest_deals: code-free and '
-      + 'campaign deals still return full deal info with get_code_url.',
+      + 'keyword or minimum discount. Same code rules as latest_deals: deal rows '
+      + 'without a code still carry their propfirmdiscount.com deal-page link '
+      + '(get_code_url) — always give that link rather than just describing it. '
+      + 'Campaign deal: the code is on the deal page. Code-free deal: no code needed, '
+      + 'claim it from the deal page.',
     inputSchema: {
       type: 'object',
       properties: {
         firm: { type: 'string', description: 'Firm name substring.' },
         query: { type: 'string', description: 'Keyword over deal title / firm / discount.' },
-        code_state: { type: 'string', enum: ['standing', 'campaign', 'none'], description: 'Technical filter (internal field): standing = the deal redeems on a code that works any time; campaign = limited-time code that lives on the deal page; none = no code needed. Do not surface these words to a user.' },
+        code_state: { type: 'string', enum: ['standing', 'campaign', 'none'], description: 'Technical filter (internal field): standing = the deal redeems on a code that works any time; campaign = limited-time code that lives on the deal page; none = no code needed. A campaign or code-free deal still has a deal-page link on its row — give that link, do not just describe it. Do not surface these words to a user.' },
         min_discount_pct: { type: 'number', description: 'Minimum discount percentage.' },
         limit: { type: 'integer', description: 'Max deals (default 20, max 200).' },
       },
@@ -517,9 +536,12 @@ async function handleRpc(msg) {
         + 'or is a limited-time campaign code.\n'
         + 'Codes returned by list_codes / get_firm always work — there is no '
         + 'expiry (any date window shown is a procedural calendar-year label). '
-        + 'A deal\'s own code is present only when code_state is "standing"; '
-        + 'otherwise the code lives on the deal page — point the user at '
-        + 'get_code_url rather than inventing one. Deals cover a rolling 2-month '
+        + 'A deal\'s own code is present only when code_state is "standing". Every '
+        + 'deal row carries a link to its own propfirmdiscount.com deal page '
+        + '(get_code_url); when the deal has no code in the data, always quote that '
+        + 'link instead of just describing it — for a campaign deal the code is shown '
+        + 'on that page, and for a code-free deal no code is needed and the offer is '
+        + 'claimed from that page. Never invent a code. Deals cover a rolling 2-month '
         + 'window.',
     });
   }

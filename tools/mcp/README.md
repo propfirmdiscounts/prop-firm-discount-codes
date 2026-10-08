@@ -35,11 +35,13 @@ Live endpoint: `https://mcp.propfirmdiscount.com/mcp`
 - **Standing code** (`list_codes`, `get_firm`, `standing_code` on deal rows):
   a verified standing exclusive code. It works any time (lifetime); the
   validity window is a procedural calendar-year label, not an expiry.
-- **Deal rows**: `code` has a value only when `code_state` is `standing`. For
-  `campaign` (a limited-time code lives on the deal page) or `none` it is
-  `null` — direct the user to `get_code_url` to see the code. `standing_code`
-  is present on any row whose firm has one, independent of the deal's own code;
-  never imply it applies to a campaign's discount.
+- **Deal rows**: each row carries a link to its own propfirmdiscount.com deal
+  page (`get_code_url`). `code` has a value only when `code_state` is
+  `standing`. For `campaign` (a limited-time code shown on the deal page) or
+  `none` it is `null` — never invent one; hand the user the deal-page link
+  rather than describing it. `standing_code` is present on any row whose firm
+  has one, independent of the deal's own code; never imply it applies to a
+  campaign's discount.
 
 ## Local dev
 
