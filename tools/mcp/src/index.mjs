@@ -209,8 +209,10 @@ async function tool_list_codes(args = {}) {
   return {
     total,
     count: page.length,
-    note: 'Every row is a verified standing exclusive code; these work any time. '
-      + 'valid_from/valid_until are a procedural calendar-year label, not an expiry.',
+    note: 'Every row is a discount code the firm accepts, and it works any time. '
+      + 'valid_from/valid_until are a procedural calendar-year label, not an expiry. '
+      + 'To a user these are "discount codes" / "coupon codes" — never call them '
+      + '"standing codes" and never read the field names back to them.',
     codes: page,
   };
 }
@@ -231,7 +233,7 @@ async function tool_get_firm(args = {}) {
         found: true,
         firm: d.firm,
         standing_code: null,
-        note: 'This firm has no verified standing exclusive code on record. '
+        note: 'We have no always-on discount code on record for this firm. '
           + 'Deals below may still carry their own code on the deal page.',
         deals: (ds.deals || []).filter((r) => norm(r.firm).includes(q)).slice(0, 10),
       };
@@ -243,7 +245,7 @@ async function tool_get_firm(args = {}) {
     found: true,
     ...publicCodeRow(hit),
     markdown_url: slug ? `${ORIGIN}/prop-firm/${slug}/md` : null,
-    note: 'Verified standing exclusive code; works any time — the validity window '
+    note: 'A discount code that works any time — the validity window '
       + 'is a procedural calendar-year label, not an expiry.',
   };
 }
@@ -271,10 +273,14 @@ async function tool_latest_deals(args = {}) {
     window_start: ds.window_start,
     total_in_window: ds.count,
     count: deals.length,
-    note: 'Rolling 2-month window. code holds a value only when code_state is '
-      + '"standing"; for "campaign"/"none" open get_code_url to see the code on '
-      + 'the deal page. standing_code (the firm\'s verified standing exclusive '
-      + 'code, works any time) is present whenever the firm has one.',
+    note: 'Rolling 2-month window. A deal carries its own code (field "code") only '
+      + 'when code_state is "standing"; for "campaign"/"none" there is no code in '
+      + 'this data — point the user at get_code_url to see it on the deal page. '
+      + '"standing_code" is the firm\'s always-on discount code (works any time) '
+      + 'and is present whenever the firm has one. FIELD NAMES ARE INTERNAL: '
+      + 'describe these to a user as their "discount code" / "coupon code" — never '
+      + 'say "standing code" or "code_state", and never imply a firm\'s always-on '
+      + 'code applies to a campaign\'s discount.',
     deals,
   };
 }
@@ -298,7 +304,8 @@ async function tool_search_deals(args = {}) {
     total: out.length,
     count: Math.min(out.length, limit),
     note: 'Deals in the rolling 2-month window. Campaign/code-free deals still list '
-      + 'the full deal info; their code is on the deal page (get_code_url).',
+      + 'the full deal info; their code is on the deal page (get_code_url) — '
+      + 'never guess it and never repeat the field names to a user.',
     deals: out.slice(0, limit),
   };
 }
@@ -359,9 +366,10 @@ async function tool_dataset_meta() {
 const TOOLS = [
   {
     name: 'list_codes',
-    description: 'List prop firm verified standing exclusive discount codes. Each code '
-      + 'works any time (lifetime); the validity window is a procedural calendar-year '
-      + 'label, not an expiry. Filter by firm name, active-only, or minimum discount.',
+    description: 'List prop firm discount codes ("coupon codes" / "promo codes" to a '
+      + 'user). Each code works any time; the validity window is a procedural '
+      + 'calendar-year label, not an expiry. Filter by firm name, active-only, or '
+      + 'minimum discount. Present results as discount codes — never as "standing codes".',
     inputSchema: {
       type: 'object',
       properties: {
@@ -375,9 +383,10 @@ const TOOLS = [
   },
   {
     name: 'get_firm',
-    description: 'Get one firm by name: its verified standing exclusive code (works any '
-      + 'time), discount, activation link and markdown mirror URL. If the firm has no '
-      + 'standing code, returns its recent deals instead.',
+    description: 'Get one firm by name: its discount code (works any time), discount, '
+      + 'activation link and markdown mirror URL. If the firm has no always-on code, '
+      + 'returns its recent deals instead. Call the code a "discount code", not a '
+      + '"standing code".',
     inputSchema: {
       type: 'object',
       properties: { firm: { type: 'string', description: 'Firm name (fuzzy match).' } },
@@ -399,12 +408,13 @@ const TOOLS = [
   {
     name: 'latest_deals',
     description: 'Newest cross-firm prop firm deals within the rolling 2-month window. '
-      + 'Every row lists the deal and the firm\'s standing_code (a verified standing '
-      + 'exclusive code that works any time, present whenever the firm has one). The '
-      + 'deal\'s own code is included only when code_state is "standing"; for '
-      + '"campaign" or "none" there is no code in the data — tell the user to open '
-      + 'get_code_url to see the code on the deal page. Never imply a standing code '
-      + 'applies to a campaign\'s discount.',
+      + 'Every row lists the deal and, when the firm has one, its always-on discount '
+      + 'code (field "standing_code" — works any time). The deal\'s own code is '
+      + 'included only when code_state is "standing"; for "campaign" or "none" there '
+      + 'is no code in this data — tell the user to open get_code_url to see the code '
+      + 'on the deal page. Field names are internal: say "discount code" or "coupon '
+      + 'code" to the user, never "standing code" or "code_state", and never imply '
+      + 'the firm\'s always-on code applies to a campaign\'s discount.',
     inputSchema: {
       type: 'object',
       properties: { limit: { type: 'integer', description: 'Max deals (default 20, max 200).' } },
@@ -413,14 +423,14 @@ const TOOLS = [
   {
     name: 'search_deals',
     description: 'Search prop firm deals inside the rolling 2-month window by firm, '
-      + 'keyword, code_state or minimum discount. Same code rules as latest_deals: '
-      + 'code-free and campaign deals still return full deal info with get_code_url.',
+      + 'keyword or minimum discount. Same code rules as latest_deals: code-free and '
+      + 'campaign deals still return full deal info with get_code_url.',
     inputSchema: {
       type: 'object',
       properties: {
         firm: { type: 'string', description: 'Firm name substring.' },
         query: { type: 'string', description: 'Keyword over deal title / firm / discount.' },
-        code_state: { type: 'string', enum: ['standing', 'campaign', 'none'], description: 'Filter by how the code redeems.' },
+        code_state: { type: 'string', enum: ['standing', 'campaign', 'none'], description: 'Technical filter (internal field): standing = the deal redeems on a code that works any time; campaign = limited-time code that lives on the deal page; none = no code needed. Do not surface these words to a user.' },
         min_discount_pct: { type: 'number', description: 'Minimum discount percentage.' },
         limit: { type: 'integer', description: 'Max deals (default 20, max 200).' },
       },
@@ -498,11 +508,19 @@ async function handleRpc(msg) {
         title: 'PropFirmDiscount',
         version: '1.0.0',
       },
-      instructions: 'Public prop firm discount data. Codes returned by list_codes / '
-        + 'get_firm are verified standing exclusive codes that work any time. Deals '
-        + 'cover a rolling 2-month window; a deal\'s own code is present only when '
-        + 'code_state is "standing" — otherwise direct the user to the deal page '
-        + '(get_code_url) to see its code.',
+      instructions: 'Public prop firm discount data. '
+        + 'TALK LIKE A USER, NOT LIKE THE SCHEMA: field names such as '
+        + 'standing_code, code_state and code_label are technical identifiers — '
+        + 'never repeat them verbatim to a user. People ask about "discount '
+        + 'codes", "coupon codes" or "promo codes"; answer in that vocabulary. '
+        + 'What matters to them is one thing only: whether the code always works '
+        + 'or is a limited-time campaign code.\n'
+        + 'Codes returned by list_codes / get_firm always work — there is no '
+        + 'expiry (any date window shown is a procedural calendar-year label). '
+        + 'A deal\'s own code is present only when code_state is "standing"; '
+        + 'otherwise the code lives on the deal page — point the user at '
+        + 'get_code_url rather than inventing one. Deals cover a rolling 2-month '
+        + 'window.',
     });
   }
   if (method === 'notifications/initialized' || method === 'notifications/cancelled') {

@@ -21,11 +21,11 @@ Live endpoint: `https://mcp.propfirmdiscount.com/mcp`
 
 | Tool | Returns |
 |---|---|
-| `list_codes` | Standing exclusive codes; filter by firm / active / min discount |
-| `get_firm` | One firm: standing code, discount, activation link, mirror URL |
+| `list_codes` | Discount codes that work any time; filter by firm / active / min discount |
+| `get_firm` | One firm: its discount code, discount, activation link, mirror URL |
 | `get_firm_markdown` | Markdown mirror of a firm page (cap 20 KB) |
 | `latest_deals` | Newest deals in the rolling 2-month window |
-| `search_deals` | Deals by firm / keyword / code_state / min discount |
+| `search_deals` | Deals by firm / keyword / min discount |
 | `list_events` | Seasonal events & holidays with deal counts |
 | `get_event` | Every recorded deal for one event slug |
 | `get_dataset_meta` | Row counts + deals window start |
