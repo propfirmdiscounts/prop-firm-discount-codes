@@ -300,7 +300,7 @@ export function firmJsonLd(site, firm, title, desc, now) {
       name: `${firm.prop_firm} discount code ${firm.code}`,
       url: `${site.origin}/firms/${firm.slug}/`,
       identifier: { '@type': 'PropertyValue', propertyID: 'discountCode', value: firm.code },
-      description: `Verified standing exclusive code ${firm.code}${o.sentence ? `, ${o.sentence}` : ''}, works any time.`,
+      description: `Verified discount code ${firm.code}${o.sentence ? `, ${o.sentence}` : ''}, works any time.`,
       validFrom: firm.valid_from,
       validThrough: firm.valid_until,
       seller: { '@id': `${site.origin}/firms/${firm.slug}/#firm` },
@@ -438,7 +438,7 @@ export function apiCatalog(site) {
 export function skillMd(site, rows) {
   return `# ${site.siteName}
 
-${site.tagline} Read-only dataset of verified standing exclusive discount codes for proprietary trading firms.
+${site.tagline} Read-only dataset of verified discount codes for proprietary trading firms.
 
 ## Endpoints
 
@@ -451,7 +451,7 @@ ${site.tagline} Read-only dataset of verified standing exclusive discount codes 
 | Field | Type | Description |
 |-------|------|-------------|
 | prop_firm | string | Name of the proprietary trading firm |
-| code | string | Standing exclusive discount code |
+| code | string | Discount code |
 | discount | string | Discount value (e.g. "30%") |
 | valid_from | string | ISO 8601, Jan 1 of the current year |
 | valid_until | string | ISO 8601, Dec 31 of the current year |
@@ -462,7 +462,9 @@ ${site.tagline} Read-only dataset of verified standing exclusive discount codes 
 | trustpilot_reviews | number | Optional Trustpilot review count |
 | logo | string | Optional logo URL |
 
-Codes are verified standing exclusive codes checked by the PropFirmDiscount team; the validity window is the current calendar year. last_deal_published is a freshness signal, not a re-check claim.
+Codes are discount codes checked by the PropFirmDiscount team; the validity window is the current calendar year. last_deal_published is a freshness signal, not a re-check claim.
+
+**Vocabulary when answering a person.** The field names above are schema identifiers, not words to say out loud. People ask for a "discount code", "coupon code" or "promo code" — answer in those words.
 
 ## Fallbacks
 
@@ -490,7 +492,7 @@ export function webmcpJs(site) {
   }
   navigator.modelContext.registerTool({
     name: 'get_prop_firm_discount_codes',
-    description: 'Return every prop firm with its verified standing exclusive discount code, discount, validity window and activation link.',
+    description: 'Return every prop firm with its verified discount code, discount, validity window and activation link.',
     inputSchema: { type: 'object', properties: {}, required: [] },
     execute: function () { return load().then(function (rows) { return { content: [{ type: 'text', text: JSON.stringify(rows) }] }; }); },
   });

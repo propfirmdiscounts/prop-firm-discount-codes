@@ -13,7 +13,7 @@ export const site = {
   siteName: 'Prop Firm Code Check',
   shortName: 'CodeCheck',
   icons: true,
-  tagline: EN_DASH + ' standing discount code verification log',
+  tagline: EN_DASH + ' discount code verification log',
   skillName: 'prop-firm-code-check',
   hubBlurb: 'newest code checks first',
   disclosure: DISCLOSURE,
@@ -48,9 +48,9 @@ function factsTable(firm, mirror) {
 
 function dealBridge(firm, mirror) {
   return {
-    standing: `This promotion runs on the standing code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`,
-    own: `This is a limited-time campaign with its own code and terms; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`,
-    unknown: `This is the firm's newest promotion; the standing code <code>${esc(firm.code)}</code> above is the one that works any time.`,
+    standing: `This promotion runs on the discount code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`,
+    own: `This is a limited-time campaign with its own code and terms; the discount code <code>${esc(firm.code)}</code> above is the one that works any time.`,
+    unknown: `This is the firm's newest promotion; the discount code <code>${esc(firm.code)}</code> above is the one that works any time.`,
   }[mirror.dealCodeRelation];
 }
 
@@ -102,7 +102,7 @@ function logSection(mirror) {
   const items = mirror.dealHistory.map((d) =>
     `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(d.title)}</a></li>`).join('\n');
   return `<h2 id="log">Code check log</h2>
-<p>Each entry is a dated deal that carried a code ${EN_DASH} the check trail behind the standing rate above. Newest first.</p>
+<p>Each entry is a dated deal that carried a code ${EN_DASH} the check trail behind the rate above. Newest first.</p>
 <ol class="log">
 ${items}
 </ol>`;
@@ -112,7 +112,7 @@ function faqSection(firm, mirror) {
   if (!mirror.faq.length) return '';
   const blocks = mirror.faq.slice(0, 4).map((f) => `<h3>${esc(f.q)}</h3>\n<p>${esc(f.a)}</p>`).join('\n');
   const heading = mirror.latestDeal ? `${mirror.latestDeal.title} FAQ` : `${firm.prop_firm} code FAQ`;
-  const note = `<p>These questions cover the promotion described above, not the standing code ${EN_DASH} the standing code keeps working after the campaign ends.</p>\n`;
+  const note = `<p>These questions cover the promotion described above. The discount code is separate ${EN_DASH} it keeps working after the campaign ends.</p>\n`;
   return `<h2 id="faq">${esc(heading)}</h2>\n${note}${blocks}`;
 }
 
@@ -121,12 +121,12 @@ export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms)
   const o = offerShape(firm.discount);
   const ldDeal = mirror.latestDeal;
   const promotion = ldDeal ? ` Its newest promotion, ${ldDeal.title}${ldDeal.published ? ` (published ${ldDeal.published})` : ''}, is detailed below.` : '';
-  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} ${EN_DASH} verified standing exclusive code, checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
+  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} and works any time ${EN_DASH} checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code</h1>
-<p class="answer">The verified standing exclusive code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
+<p class="answer">The discount code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
 ${logSection(mirror)}
 ${currentDealSection(firm, mirror, standingFirms, exclusiveFirms)}
@@ -137,7 +137,7 @@ ${faqSection(firm, mirror)}`;
 export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const o = offerShape(firm.discount);
   const md = [`# ${firm.prop_firm} Discount Code`, '',
-    `The verified standing exclusive code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
+    `The discount code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
   if (mirror.summary) md.push(`> ${mirror.summary}`, '');
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${firm.valid_from} to ${firm.valid_until}`, `- Last deal published: ${firm.last_deal_published || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
@@ -164,14 +164,14 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     // reads 'unknown' once the newest deal ages out of the window).
     const relation = firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation;
     md.push({
-      standing: `This promotion runs on the standing code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`,
-      own: `This is a limited-time campaign with its own code and terms; the standing code ${firm.code} above is the one that works any time.`,
-      unknown: `This is the firm's newest promotion; the standing code ${firm.code} above is the one that works any time.`,
+      standing: `This promotion runs on the discount code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`,
+      own: `This is a limited-time campaign with its own code and terms; the discount code ${firm.code} above is the one that works any time.`,
+      unknown: `This is the firm's newest promotion; the discount code ${firm.code} above is the one that works any time.`,
     }[relation], '');
   }
   if (mirror.faq.length) {
     md.push(`## ${ldDeal ? `${ldDeal.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
-    md.push(`These questions cover the promotion described above, not the standing code — the standing code keeps working after the campaign ends.`, '');
+    md.push(`These questions cover the promotion described above. The discount code is separate ${EN_DASH} it keeps working after the campaign ends.`, '');
     for (const f of mirror.faq.slice(0, 4)) md.push(`**${f.q}**`, '', f.a, '');
   }
   const json = {
@@ -261,7 +261,7 @@ function activityStats(pool, now) {
 export function hubPage(site, rows, mirrors, now, standingFirms) {
   const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
   const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
-  const desc = `Verification log of ${rows.length} verified standing exclusive prop firm discount codes, newest checks first, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
+  const desc = `Verification log of ${rows.length} verified prop firm discount codes, newest checks first, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
@@ -283,7 +283,7 @@ ${sorted.map(rowOf).join('\n')}
 </tbody>
 </table></div>`;
   const latestSection = latest.length ? `<h2 id="latest">Latest deals across tracked firms</h2>
-<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's standing exclusive code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.</p>
+<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's discount code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.</p>
 <div class="tscroll w560"><table class="checks">
 <thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th><th scope="col">Code</th></tr></thead>
 <tbody>
@@ -319,7 +319,7 @@ ${monthRows}
 </tbody>
 </table></div>
 <h3>Most active firms</h3>
-<p>Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.</p>
+<p>Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's discount code where its deals redeem on it, and stays blank for firms running their own campaign codes.</p>
 <div class="tscroll w640"><table class="checks">
 <thead><tr><th scope="col">Firm</th><th scope="col">Deals (2 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
 <tbody>
@@ -346,14 +346,14 @@ ${firmRows}
     ],
   };
   const body = `<h1>Prop Firm Discount Code Checks</h1>
-<p class="answer">This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
+<p class="answer">This log tracks ${rows.length} verified prop firm discount codes, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
 <h2 id="log">Checks, newest first</h2>
 ${table}
 ${latestSection}
 ${activitySection}
 <h2 id="method">About this site and how codes are checked</h2>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
-<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
+<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
 <p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md' }) };
 }
@@ -367,7 +367,7 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   const latest = pool.slice(0, 15);
   const code = (slug, value) => (standingFirms.has(slug) ? value : '');
   const md = [`# Prop Firm Discount Code Checks`, '',
-    `This log tracks ${rows.length} verified standing exclusive discount codes for proprietary trading firms, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
+    `This log tracks ${rows.length} verified prop firm discount codes, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
     `## Checks, newest first`, '',
     `| Firm | Code | Discount | Checked | Last deal |`,
     `|------|------|----------|---------|-----------|`];
@@ -376,7 +376,7 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   }
   if (latest.length) {
     md.push('', `## Latest deals across tracked firms`, '',
-      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the standing checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's standing exclusive code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.`, '',
+      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the checks above. Dates are the firms' publish dates, not re-test dates. The Code column prints the firm's discount code where the deal redeems on it; blank rows carry the deal's own limited-time campaign code, which you copy from the deal page the row links to.`, '',
       `| Published | Firm | Deal | Offer | Code |`,
       `|-----------|------|------|-------|------|`);
     for (const d of latest) {
@@ -392,14 +392,14 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
       `|-------|-------|--------------|`);
     for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
     md.push('', `### Most active firms`, '',
-      `Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's standing exclusive code where its deals redeem on it, and stays blank for firms running their own campaign codes.`, '',
+      `Ranked by deals published over those same two months, then by best percentage offer. The Code column carries a firm's discount code where its deals redeem on it, and stays blank for firms running their own campaign codes.`, '',
       `| Firm | Deals (2 mo) | Best offer | Last deal | Code |`,
       `|------|---------------|------------|-----------|------|`);
     for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${code(f.slug, f.code)} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
-    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a standing exclusive code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
-    `What a check entry means: when a firm publishes a new coded deal, the team confirms the standing code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.`, '',
+    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
+    `What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.`, '',
     `Corrections welcome: ${site.email}. Full dataset: ${site.origin}/dataset.json. Methodology notes: ${site.origin}/llms.txt.`);
   return md.join('\n') + '\n';
 }
