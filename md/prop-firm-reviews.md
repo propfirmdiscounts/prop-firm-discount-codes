@@ -21,8 +21,8 @@
 | 15 | Earn2Trade | 4.6 | 5012 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 16 | TradeDay | 4.6 | 1443 | https://propfirmdiscount.com/prop-firm/tradeday/ |
 | 17 | Ifunds | 4.6 | 206 | https://propfirmdiscount.com/prop-firm/ifunds/ |
-| 18 | FundedNext | 4.5 | 80860 | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 19 | FundedNext Futures | 4.5 | 80860 | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
+| 18 | FundedNext Futures | 4.5 | 80860 | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
+| 19 | FundedNext | 4.5 | 80860 | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 20 | FundingPips | 4.5 | 69862 | https://propfirmdiscount.com/prop-firm/funding-pips/ |
 | 21 | Hola Prime | 4.5 | 3890 | https://propfirmdiscount.com/prop-firm/hola-prime/ |
 | 22 | Blueberry Futures | 4.5 | 3281 | https://propfirmdiscount.com/prop-firm/blueberry-futures/ |
