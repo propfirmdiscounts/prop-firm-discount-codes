@@ -43,7 +43,7 @@ The Free Retry feature allows traders to receive a second evaluation attempt inc
 
 **Is there an alternative discount code for Funded Elite?**
 
-Yes, a standing discount of 10% off is available by entering code AFF1864062 at checkout, though it cannot be stacked with other promotions.
+Yes, a 10% discount is available by entering code AFF1864062 at checkout, though it cannot be stacked with other promotions.
 
 ## Current deals (last 2 months, newest first)
 

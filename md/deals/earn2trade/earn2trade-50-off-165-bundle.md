@@ -28,7 +28,7 @@ No, the promotion solely reduces the initial purchase price and groups accounts 
 
 **Does Earn2Trade have a working discount code?**
 
-Yes, you can reliably use the exclusive PFD code at checkout for a standing discount. This code always works and is occasionally applied at the highest available rate on the platform.
+Yes, you can reliably use the PFD discount code at checkout. It always works and is occasionally applied at the highest available rate on the platform.
 
 **How long is the 50% discount valid?**
 

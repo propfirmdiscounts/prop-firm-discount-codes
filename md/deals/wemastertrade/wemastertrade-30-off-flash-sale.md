@@ -32,5 +32,5 @@ No, the discount only applies to the initial purchase price. All profit targets,
 
 **Does WeMasterTrade have a working discount code?**
 
-Yes, traders can use the site's exclusive PFD code at checkout. This standing code is always active and is occasionally applied at the highest available rate for new evaluations.
+Yes, traders can use the site's discount code PFD at checkout. It always works and is occasionally applied at the highest available rate for new evaluations.
 
