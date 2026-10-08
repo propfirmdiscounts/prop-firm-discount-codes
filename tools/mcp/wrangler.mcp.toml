@@ -6,12 +6,9 @@ main = "src/index.mjs"
 # so this is NOT assets-only. It reads only public data from the origin and the
 # events mirror, cached 10 min via the Cache API — no origin database access.
 #
-# Served on the site's own domain; the custom domain is attached by deploy and
-# the workers.dev route is disabled, so no account-identifying address is ever
-# published. If the deploy token cannot manage the zone's DNS, attach the domain
-# once in the Cloudflare dashboard
-# (Workers & Pages -> pfd-mcp -> Settings -> Domains & Routes).
+# Served on the site's own domain. The custom domain is attached once in the
+# Cloudflare dashboard (Workers & Pages -> pfd-mcp -> Settings -> Domains &
+# Routes -> Add -> Custom Domain: mcp.propfirmdiscount.com), the same way the
+# other workers here get theirs. workers_dev is off so no account-identifying
+# *.workers.dev address exists to leak.
 workers_dev = false
-routes = [
-  { pattern = "mcp.propfirmdiscount.com", custom_domain = true }
-]

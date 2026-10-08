@@ -51,9 +51,14 @@ npx wrangler@4 dev --config wrangler.mcp.toml   # http://127.0.0.1:8787
 
 Deployed by `.github/workflows/satellites.yml` (job `mcp`) with
 `npx wrangler@4 deploy --config tools/mcp/wrangler.mcp.toml`, using the
-repository's `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` secrets. The
-`routes` entry in the config attaches the `mcp.propfirmdiscount.com` custom
-domain on deploy; no `*.workers.dev` address is published.
+repository's `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` secrets.
+
+The custom domain `mcp.propfirmdiscount.com` is attached **once, manually**, in
+the Cloudflare dashboard (Workers & Pages → pfd-mcp → Settings → Domains &
+Routes → Add → Custom Domain) — the deploy token does not manage zone DNS, and
+this keeps the deploy job from failing on a route change. `workers_dev = false`
+in the config, so no account-identifying `*.workers.dev` address is published;
+if the domain is not attached yet, the worker has no public URL.
 
 ## Client config (Claude Desktop / MCP clients)
 
