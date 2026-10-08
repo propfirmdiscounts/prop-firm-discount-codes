@@ -1,0 +1,15 @@
+name = "pfd-mcp"
+compatibility_date = "2026-10-01"
+main = "src/index.mjs"
+
+# Public MCP server (Streamable HTTP, stateless). Worker code runs per request,
+# so this is NOT assets-only. It reads only public data from the origin and the
+# events mirror, cached 10 min via the Cache API — no origin database access.
+#
+# Served on the site's own domain; the custom domain is attached by deploy
+# (no *.workers.dev address is published anywhere). If the deploy token cannot
+# manage the zone's DNS, attach it once in the Cloudflare dashboard
+# (Workers & Pages -> pfd-mcp -> Settings -> Domains & Routes).
+routes = [
+  { pattern = "mcp.propfirmdiscount.com", custom_domain = true }
+]

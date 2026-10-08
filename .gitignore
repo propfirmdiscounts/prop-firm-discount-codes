@@ -2,3 +2,4 @@ deal-paths.txt
 deal-sitemap.xml
 tools/satellites/dist/
 tools/events/dist/
+.wrangler/
