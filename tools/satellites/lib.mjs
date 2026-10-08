@@ -77,20 +77,21 @@ export function parseFirmMirror(md, standingCode = '') {
     };
     // Whether the deal the mirror's block describes itself redeems on the
     // standing code. Unlike dealCodeRelation below this does NOT require the
-    // block to be the newest history row, so it still holds for a global firm
-    // whose newest deal has aged out of the 2-month history window. The
-    // campaign-only code string is never emitted either way.
+    // block to be the newest history row, so it still holds for a firm whose
+    // campaign renders on the standing code even once its newest deal has aged
+    // out of the 2-month history window. The campaign-only code string is never
+    // emitted either way.
     out.blockCodeOnStanding = !!(block.code && standingCode && block.code === standingCode);
   }
   const newest = out.dealHistory[0] || null;
   const blockIsNewest = !!(block && newest && block.dealUrl === newest.url);
-  // How the newest deal's code relates to the standing code. For global-code
-  // firms the theme renders the standing code over every campaign, so the
-  // mirror's deal code equals it; some non-global firms also run a campaign on
-  // the standing code. When the mirror's block is the newest deal we know the
-  // relation; when it is an older deal we do not, so the relation stays
-  // 'unknown' and the copy claims nothing about the campaign's code. The
-  // campaign-only code string itself is never emitted in any case.
+  // How the newest deal's code relates to the standing code. Where the site
+  // applies the standing code across a firm's campaigns the mirror's deal code
+  // equals it; other firms also run a campaign on the standing code. When the
+  // mirror's block is the newest deal we know the relation; when it is an older
+  // deal we do not, so the relation stays 'unknown' and the copy claims nothing
+  // about the campaign's code. The campaign-only code string itself is never
+  // emitted in any case.
   if (!blockIsNewest) {
     out.dealCodeRelation = 'unknown';
   } else if (block.code && standingCode && block.code === standingCode) {
@@ -136,8 +137,8 @@ export function parseFirmMirror(md, standingCode = '') {
 
 // ── the mirror chain's own "standing code renders" signal ───────
 // The site prints a firm's standing code in a mirror cell only when the deal
-// actually renders on that code — the rule pfd_md_deal_code_state() enforces
-// on propfirmdiscount.com and the exact input the event hub's Code column
+// actually renders on that code — the rule propfirmdiscount.com applies to
+// decide each row's Code cell, and the exact input the event hub's Code column
 // reads. A deal whose coupon differs (its own campaign code) leaves the cell
 // blank or labelled. So a value printed for a firm in any of these mirrors IS
 // the site's own statement that the code in play is the standing code; the
@@ -199,7 +200,7 @@ function dealMirrorStanding(repoRoot) {
 
 // The site's own public "exclusive code" classification, read from the
 // best-discounts mirror's exclusive table. That page is already published (its
-// rows are gated server-side by the same termmeta the homepage uses), so this
+// rows are gated server-side the same way the homepage gates its own), so this
 // adds no new disclosure — it only names firms the site has already labelled as
 // holding a standing code. Used to widen the firm-page Code gate, never the
 // activity tables (whose code column stays on the mirror-derived set).
@@ -230,7 +231,7 @@ export function loadStandingFirms(repoRoot, rows, mirrors) {
   return set;
 }
 
-// ── offer wording (mirrors pfd-seo.php conventions) ─────────────
+// ── offer wording (follows the site's own offer conventions) ────
 export function offerShape(discount) {
   const d = String(discount || '').trim();
   if (!d) return { raw: '', titlePart: '', sentence: '' };

@@ -68,10 +68,10 @@ async function codesDataset() {
   return Array.isArray(raw) ? raw : (raw.data || []);
 }
 
-// Deals come straight from the coupon parent-category markdown mirror
-// (term 205), which prod already renders as a rolling 2-month table that
-// unions the campaign-coded and code-free children — so the window and the
-// per-row code_state are the site's own, not a second copy to keep in sync.
+// Deals come straight from the coupon parent-category markdown mirror, which
+// the site already renders as a rolling 2-month table that unions the
+// campaign-coded and code-free children — so the window and the per-row
+// code_state are the site's own, not a second copy to keep in sync.
 // Each row is joined to the codes dataset for the firm's standing code.
 async function dealsDataset() {
   const [md, codes] = await Promise.all([
@@ -149,9 +149,9 @@ function standingIndex(codes) {
   return { bySlug, byName };
 }
 
-// First day of the previous calendar month, UTC — the same 2-month window prod
-// uses (pfd_md_window_start() in pfd-md-mirrors.php). Reported in tool output
-// so an agent can state the window; the mirror is already filtered to it.
+// First day of the previous calendar month, UTC — the same 2-month window the
+// site publishes (reported in tool output so an agent can state the window;
+// the mirror is already filtered to it).
 function windowStart() {
   const now = new Date();
   const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - 1, 1));

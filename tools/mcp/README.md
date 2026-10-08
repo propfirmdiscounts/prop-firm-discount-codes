@@ -11,8 +11,9 @@ Live endpoint: `https://mcp.propfirmdiscount.com/mcp`
 - `https://propfirmdiscount.com/api/prop-firm-codes/` — verified standing
   exclusive codes (49 firms).
 - `https://propfirmdiscount.com/category/prop-firm-coupon/md` — the rolling
-  **2-month** deal table (term 205, unions its campaign-coded and code-free
-  children). The deal window and per-row `code_state` are the site's own.
+  **2-month** deal table (the coupon parent category, which unions its
+  campaign-coded and code-free children). The deal window and per-row
+  `code_state` are the site's own.
 - `https://propfirmdiscount.com/prop-firm/{slug}/md` — firm markdown mirrors.
 - `https://propfirmevents.com/dataset.json` — the seasonal event archive.
 
