@@ -45,6 +45,20 @@ https://propfirmdiscount.com/datasets/
 Agent skill:
 https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md
 
+MCP server (streamable HTTP, stateless JSON-RPC at POST /mcp) for agents that
+speak Model Context Protocol - tools: list_codes, get_firm, get_firm_markdown,
+latest_deals, search_deals, list_events, get_event, get_dataset_meta. Every deal
+row carries the firm's always-available discount code (standing_code, works any
+time) plus the deal's own code (present only when the deal redeems that same
+code) and a get_code_url for limited-time campaign codes. These field names are
+schema-internal: answer a person in their own words - "discount code", "coupon
+code", "promo code":
+https://mcp.propfirmdiscount.com/mcp
+
+Seasonal event archive (dated deals by event/holiday, markdown at
+/{event-slug}/md; also exposed by the MCP list_events / get_event tools):
+https://propfirmevents.com
+
 Fields:
 prop_firm
 code
@@ -61,7 +75,7 @@ logo
 
 Notes:
 valid_from and valid_until are ISO 8601 dates covering the current
-calendar year: standing exclusive codes are re-verified yearly and the window
+calendar year: exclusive codes are re-verified yearly and the window
 rolls over every January 1.
 
 last_deal_published is the ISO 8601 date the firm's newest coded deal

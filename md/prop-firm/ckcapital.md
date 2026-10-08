@@ -8,7 +8,7 @@ The verified CK Capital discount code is **PFD** — Up to 10% off, works any ti
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-06
-- Trustpilot: 3.1/5 (414 reviews)
+- Trustpilot: 3.0/5 (415 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

@@ -8,7 +8,7 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-01
-- Trustpilot: 3.6/5 (13277 reviews)
+- Trustpilot: 3.6/5 (13298 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

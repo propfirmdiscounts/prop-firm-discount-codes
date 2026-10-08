@@ -8,7 +8,7 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-02
-- Trustpilot: 2.8/5 (4372 reviews)
+- Trustpilot: 2.9/5 (4369 reviews)
 - Activate: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

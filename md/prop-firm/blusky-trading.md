@@ -5,7 +5,7 @@ The newest BluSky Trading discount code is **ARROW** — 30% off (October 2, 202
 > We fund and grow day traders.  Those other guys want you to fail. We want you to succeed. Trade our company's live accounts and receive up to 90% of profits.
 
 - Last deal published: 2026-10-02
-- Trustpilot: 4.7/5 (910 reviews)
+- Trustpilot: 4.7/5 (921 reviews)
 - Activate: https://propfirmdiscount.com/go/bluskypro
 - Firm page: https://propfirmdiscount.com/prop-firm/blusky-trading/
 

@@ -8,7 +8,7 @@ The verified Bulenox discount code is **PFD** — Up to 91% off, works any time.
 - Discount: Up to 91% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-07
-- Trustpilot: 4.7/5 (1800 reviews)
+- Trustpilot: 4.7/5 (1813 reviews)
 - Activate: https://propfirmdiscount.com/go/bulenox
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

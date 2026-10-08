@@ -3,7 +3,7 @@
 The newest The Funded Trader Program (TFT) discount code is **TFTTrader9861999** — 10% off (April 10, 2023). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 2.9/5 (21929 reviews)
+- Trustpilot: 2.9/5 (21928 reviews)
 - Activate: https://propfirmdiscount.com/go/thefundedtraderprogram
 - Firm page: https://propfirmdiscount.com/prop-firm/the-funded-trader/
 

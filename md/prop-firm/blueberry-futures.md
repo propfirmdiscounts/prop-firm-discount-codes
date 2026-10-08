@@ -3,7 +3,7 @@
 The newest Blueberry Futures discount code is **LAUNCH40** — 40% off (November 25, 2025). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (3281 reviews)
+- Trustpilot: 4.5/5 (3285 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-futures/
 

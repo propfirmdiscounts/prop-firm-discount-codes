@@ -3,7 +3,7 @@
 The newest FundedNext Futures discount code is **NODLL40** — 40% off (May 26, 2025). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (80860 reviews)
+- Trustpilot: 4.5/5 (81141 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednextfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 

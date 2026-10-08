@@ -5,7 +5,7 @@ The newest Top One Trader discount code is **LAUNCHPAD** — 50% off (October 7,
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
 - Last deal published: 2026-10-08
-- Trustpilot: 4.4/5 (3477 reviews)
+- Trustpilot: 4.4/5 (3478 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 

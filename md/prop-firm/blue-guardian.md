@@ -8,7 +8,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 25% off, works any
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-02
-- Trustpilot: 3.3/5 (2094 reviews)
+- Trustpilot: 3.3/5 (2102 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

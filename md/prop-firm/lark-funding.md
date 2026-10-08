@@ -5,7 +5,7 @@ The newest Lark Funding discount code is **OCTOBERFEE** — 100% off (October 7,
 > Demo Prop Trading. Minus The Nonsense.
 
 - Last deal published: 2026-10-07
-- Trustpilot: 4.3/5 (518 reviews)
+- Trustpilot: 4.3/5 (519 reviews)
 - Activate: https://propfirmdiscount.com/go/larkfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 

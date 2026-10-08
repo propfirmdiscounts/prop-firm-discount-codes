@@ -8,7 +8,7 @@ The verified Fintokei discount code is **THODO5** — Up to 5% off, works any ti
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-17
-- Trustpilot: 4.4/5 (1388 reviews)
+- Trustpilot: 4.3/5 (1392 reviews)
 - Activate: https://propfirmdiscount.com/go/fintokei
 - Firm page: https://propfirmdiscount.com/prop-firm/fintokei/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

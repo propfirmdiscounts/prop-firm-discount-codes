@@ -8,7 +8,7 @@ The verified Plutus Trade Base discount code is **ptb463970** — Up to 15% off,
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-04
-- Trustpilot: 3.7/5 (1174 reviews)
+- Trustpilot: 3.6/5 (1175 reviews)
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

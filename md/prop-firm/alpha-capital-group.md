@@ -5,7 +5,7 @@ The newest Alpha Capital Group discount code is **ACG17** — 17% off (August 15
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.6/5 (21827 reviews)
+- Trustpilot: 4.6/5 (21876 reviews)
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 

@@ -6,7 +6,7 @@ The verified Crypto Fund Trader discount code is **platinum5** — Up to 5% off,
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-17
-- Trustpilot: 4.2/5 (1095 reviews)
+- Trustpilot: 4.2/5 (1096 reviews)
 - Activate: https://propfirmdiscount.com/go/cryptofundtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

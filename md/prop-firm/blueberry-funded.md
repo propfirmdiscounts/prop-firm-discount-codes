@@ -5,7 +5,7 @@ The newest Blueberry Funded discount code is **PRIMEBG** — 35% off (October 1,
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
 - Last deal published: 2026-10-01
-- Trustpilot: 3.4/5 (1739 reviews)
+- Trustpilot: 3.4/5 (1749 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 

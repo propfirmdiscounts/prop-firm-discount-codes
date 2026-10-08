@@ -5,7 +5,7 @@ The newest Take Profit Trader discount code is **NOFEE100** — 30% off (Novembe
 > We fund futures traders. We’re a no-nonsense futures funding company with helpful 24/5 live trader support and an industry-leading payout program which allows you to get paid from day-one of your PRO account. Progress on your trading journey with us to live market PRO+ accounts and 90% profit splits. Come trade futures with the TPT team!
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.4/5 (10795 reviews)
+- Trustpilot: 4.4/5 (10834 reviews)
 - Activate: https://propfirmdiscount.com/go/takeprofittrader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
 

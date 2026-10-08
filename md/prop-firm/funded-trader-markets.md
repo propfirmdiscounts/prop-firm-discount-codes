@@ -5,7 +5,7 @@ The newest Funded Trader Markets discount code is **JAN1** — 60% off (February
 > Funded Trader Markets is a premier evaluation service firm dedicated to discovering and funding talented traders by offering them the possibility to trade simulated funding up to $2,000,000. FTM provides traders with opportunities to prove their skills and gain access to simulated trading funds with a focus on innovation, transparency, and support.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 3.3/5 (431 reviews)
+- Trustpilot: 3.3/5 (433 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradermarkets
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trader-markets/
 

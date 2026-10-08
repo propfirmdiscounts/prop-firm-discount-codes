@@ -5,7 +5,7 @@ The newest FundedSquad discount code is **2YEARS** — 40% off (October 1, 2026)
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
 - Last deal published: 2026-10-01
-- Trustpilot: 2.0/5 (400 reviews)
+- Trustpilot: 2.0/5 (399 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 

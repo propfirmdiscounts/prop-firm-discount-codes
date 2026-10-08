@@ -22,6 +22,14 @@ cannot read JSON, use the markdown here instead.
 - [Dataset page](https://propfirmdiscount.com/datasets/): human-readable dataset documentation and schema
 - [Agent skill](https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md): retrieval instructions and field reference for AI agents
 
+## MCP server (for agents that speak Model Context Protocol)
+
+- [PropFirmDiscount MCP](https://mcp.propfirmdiscount.com/mcp): a streamable-HTTP MCP server (stateless JSON-RPC, `POST /mcp`). Tools: `list_codes`, `get_firm`, `get_firm_markdown`, `latest_deals`, `search_deals`, `list_events`, `get_event`, `get_dataset_meta`. Every deal row carries the firm's always-available discount code (`standing_code`, works any time) plus the deal's own `code` (present only when the deal redeems that same code) and a `get_code_url` for limited-time campaign codes. Field names are schema-internal — answer a person in their own words: "discount code", "coupon code", "promo code".
+
+## Seasonal event archive
+
+- [Prop Firm Event Hub](https://propfirmevents.com/dataset.json): dated archive of seasonal deals (Black Friday, Christmas, Cyber Monday, …) with per-deal `code_state`; markdown mirrors at https://propfirmevents.com/{event-slug}/md. Also exposed by the MCP tools `list_events` and `get_event`.
+
 ## Pages
 
 - [Top Prop Firm Discount Codes](https://propfirmdiscount.com/best-prop-firm-discounts/): current month's ranking of live discount codes
