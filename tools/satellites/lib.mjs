@@ -52,11 +52,12 @@ export function parseFirmMirror(md, standingCode = '') {
     const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\) \((.+?)\)$/.exec(line);
     if (d) out.dealHistory.push({ date: d[1], title: d[2], url: d[3], offer: d[4] });
   }
-  // The mirror's "## Current deal" block is selected by post_modified but
-  // prints Published as post_date, so for some firms it names an older deal
-  // than the newest one in the history list. The history list is newest-first;
-  // trust the block only when it is that same deal, else rebuild the row from
-  // the newest history entry so the section always shows the newest deal.
+  // The mirror's "## Current deal" block is ordered by last-modified but prints
+  // its Published date as the publish date, so for some firms it names an older
+  // deal than the newest one in the history list. The history list is
+  // newest-first; trust the block only when it is that same deal, else rebuild
+  // the row from the newest history entry so the section always shows the
+  // newest deal.
   let block = null;
   const cdIdx = lines.findIndex((l) => /^## Current deal: /.test(l));
   if (cdIdx !== -1) {

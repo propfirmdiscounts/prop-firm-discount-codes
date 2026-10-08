@@ -17,7 +17,7 @@ const repoRoot = argOf('--root') || resolve(here, '../..');
 const outRoot = argOf('--out') || join(here, 'dist');
 
 // ── event registry ───────────────────────────────────────────
-// Category slugs are term slugs under 163; tag slugs are the event tags
+// Category slugs are the seasonal deal categories; tag slugs are the event tags
 // mirrored into md/tag/. `black-friday` (and a few others) exist as BOTH a
 // category and a tag, so the two groups keep separate paths and never merge.
 const CATEGORY_SLUGS = [

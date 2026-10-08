@@ -79,9 +79,9 @@ function currentDealSection(firm, mirror, standingFirms, exclusiveFirms) {
   // (dealCodeRelation === 'standing'), or where a firm holding an exclusive
   // code shows a deal whose own block code is that standing code — the case
   // where the firm's newest deal has aged out of the 2-month window so the
-  // history-derived relation cannot see it, yet the block (still selected by
-  // post_modified) points at an older deal that does redeem on the standing
-  // code. Standing here means: in the mirror-derived set, or listed on the
+  // history-derived relation cannot see it, yet the block still points at an
+  // older deal that does redeem on the standing code. Standing here means: in
+  // the mirror-derived set, or listed on the
   // site's public exclusive-code table. A deal running its own campaign code
   // gets no row.
   if (firmStanding(firm, mirror, standingFirms, exclusiveFirms)) {
