@@ -45,8 +45,10 @@ https://propfirmdiscount.com/datasets/
 Agent skill:
 https://propfirmdiscount.com/.well-known/agent-skills/prop-firm-discount/SKILL.md
 
-MCP server (streamable HTTP, stateless JSON-RPC at POST /mcp) for agents that
-speak Model Context Protocol - tools: list_codes, get_firm, get_firm_markdown,
+Prop Firm Discount MCP (streamable HTTP, stateless JSON-RPC at POST /mcp):
+structured data for current prop trading firm discounts, coupon codes, deals,
+promotions, and events - find, search, compare, and verify active prop firm
+offers and discount codes. Tools: list_codes, get_firm, get_firm_markdown,
 latest_deals, search_deals, list_events, get_event, get_dataset_meta. Every deal
 row carries the firm's always-available discount code (standing_code, works any
 time) plus the deal's own code (present only when the deal redeems that same
