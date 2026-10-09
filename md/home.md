@@ -38,6 +38,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 
 | Published | Firm | Deal | Discount | Link |
 |---|---|---|---|---|
+| 2026-10-09 | Ment Funding | Ment Funding 50% Off PropX and 40% Off Alternative Platforms | 50% Off | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/ |
+| 2026-10-09 | BrightFunded | BrightFunded Cuts 40% Off $100K and $200K 1-Step Challenges | 40% Off | https://propfirmdiscount.com/deals/bright-funded/brightfunded-40-off-100k-200k-1-step/ |
 | 2026-10-09 | Elite Trader Funding | Elite Trader Funding: 85% Off Non-Fast Track Evaluations & 20-Account Limit | 85% Off | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-85-off-non-fast-track/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% Off | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% Off | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
@@ -66,5 +68,3 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 2026-10-05 | E8 Markets | E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts | 50% Off | https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% Off | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
-| 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% Off | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
-| 2026-10-04 | TradeDay | TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis | 60% Off | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/ |
