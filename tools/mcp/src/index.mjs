@@ -526,7 +526,7 @@ async function handleRpc(msg) {
       serverInfo: {
         name: 'Prop Firm Discount MCP',
         title: 'Prop Firm Discount MCP',
-        version: '1.1.0',
+        version: '1.1.1',
       },
       instructions: 'Public prop firm discount data. '
         + 'TALK LIKE A USER, NOT LIKE THE SCHEMA: field names such as '
