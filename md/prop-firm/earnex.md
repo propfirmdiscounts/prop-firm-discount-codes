@@ -16,4 +16,4 @@ The newest Earnex Prime discount code is **HAPPYDIWALI** — 50% off (October 18
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

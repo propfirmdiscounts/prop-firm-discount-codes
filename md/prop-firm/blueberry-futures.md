@@ -17,4 +17,4 @@ The newest Blueberry Futures discount code is **LAUNCH40** — 40% off (November
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

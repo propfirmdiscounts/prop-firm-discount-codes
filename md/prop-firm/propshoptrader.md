@@ -1,6 +1,6 @@
 # PropShopTrader Discount Code
 
-No live discount code for PropShopTrader right now — newest deals and offers are below.
+No live discount code for PropShopTrader right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/propshoptrader/
 
 > PropShopTrader is a proprietary trading firm built to develop traders into real, scalable proprietary capital across multiple asset classes. We operate a structured progression model that allows traders to prove consistency in simulated environments before advancing into live corporate trading. Our approach prioritizes long-term development, disciplined risk management, and professional standards over short-term payouts or repeated resets. With proprietary technology, education, and infrastructure, PropShopTrader supports traders as they grow within a single firm across expanding markets.
 
@@ -18,4 +18,4 @@ No live discount code for PropShopTrader right now — newest deals and offers a
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

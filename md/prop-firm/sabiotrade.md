@@ -19,4 +19,4 @@ The newest SabioTrade discount code is **BOO30** — 30% off (October 27, 2025).
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

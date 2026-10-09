@@ -23,4 +23,4 @@ The verified QT Futures discount code is **PFD** — Up to 50% off, works any ti
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

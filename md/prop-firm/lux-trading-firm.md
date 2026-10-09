@@ -1,6 +1,6 @@
 # Lux Trading Firm Discount Code
 
-No live discount code for Lux Trading Firm right now — newest deals and offers are below.
+No live discount code for Lux Trading Firm right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/lux-trading-firm/
 
 - Last deal published: 2026-09-05
 - Trustpilot: 3.9/5 (635 reviews)
@@ -16,4 +16,4 @@ No live discount code for Lux Trading Firm right now — newest deals and offers
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

@@ -19,4 +19,4 @@ The newest FX2 Funding discount code is **NOV40** — 40% off (November 10, 2025
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

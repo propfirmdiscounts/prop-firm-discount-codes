@@ -17,4 +17,4 @@ The newest OANDA Prop Trader discount code is **NEW30** — 30% off (September 2
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

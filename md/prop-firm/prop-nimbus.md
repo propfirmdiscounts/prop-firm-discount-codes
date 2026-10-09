@@ -19,4 +19,4 @@ The newest Prop Nimbus discount code is **SEPTEMBER70** — 70% off (September 1
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

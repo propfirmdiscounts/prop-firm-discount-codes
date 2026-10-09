@@ -8,7 +8,8 @@
 |---|---|---|---|---|---|---|
 | Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| Blue Guardian | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| Blue Guardian | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| Blue Guardian Futures | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | CK Capital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
@@ -25,7 +26,7 @@
 | For Traders | VGYCKXLTY9 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/forexive/ |
-| Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
+| Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-09 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
 | Funded Hero | PFD | 65% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 55% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | Funded Trading Plus (FT+) | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
@@ -42,7 +43,6 @@
 | Phidias Propfirm | PFD | 80% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| Plutus Trade Base | ptb463970 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-04 | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | 2026-01-01 | 2026-12-31 | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |

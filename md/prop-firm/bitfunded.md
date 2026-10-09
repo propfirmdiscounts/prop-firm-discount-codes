@@ -1,6 +1,6 @@
 # Bitfunded Discount Code
 
-No live discount code for Bitfunded right now — newest deals and offers are below.
+No live discount code for Bitfunded right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/bitfunded/
 
 > First prop trading firm dedicated exclusively to crypto
 
@@ -18,4 +18,4 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

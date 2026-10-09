@@ -4,6 +4,7 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
 | 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
 | 2026-10-01 | Apex Trader Funding | Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations | 90% OFF | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/ |
 | 2026-09-08 | Direct Funded Trader | Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee | Only $5 | No Code Required | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/ |
@@ -33,4 +34,3 @@
 | 2026-06-03 | FundedNext | FundedNext 2 Minimum Trading Days Modification on Stellar Accounts | 2 Minimum Trading Days | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-2-minimum-trading-days-deal/ |
 | 2026-06-03 | Alpha Trader Firm | Alpha Trader Firm 50% Off Futures Accounts and Evaluation Pricing | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-50-off-futures-deal/ |
 | 2026-06-01 | Lark Funding | Lark Funding 4th Anniversary: Buy 1 Get 4 Deal for $100K Challenges | Buy 1 Get 4 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-4th-anniversary-buy-1-get-4-deal/ |
-| 2026-06-01 | City Traders Imperium (CTI) | City Traders Imperium $100K Challenge for $449 Lowers Upfront Entry Cost | Only $449 | No Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/cti-100k-challenge-price-drop/ |

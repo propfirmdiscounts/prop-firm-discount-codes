@@ -4,6 +4,8 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |
@@ -82,11 +84,11 @@
 | 2025-10-20 | Sure Leverage Funding | Sure Leverage Funding — Halloween: 30% OFF + 10% More Account Size on All Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-halloween-30-off-10-more-account-size-on-all-challenges/ |
 | 2025-10-20 | Funded Elite | FundedElite Halloween — 35% OFF Instant & Lite Accounts + Max Loss Up to 14% (Ends Oct 31) | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-35-off-instant-lite-accounts-max-loss-up-to-14-ends-oct-31/ |
 | 2025-10-20 | Funded Elite | Halloween — 40% OFF Standard Accounts + Max Loss Up to 14% (Ends Oct 31) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-40-off-standard-accounts-max-loss-14-ends-oct-31/ |
-| 2025-10-18 | Blue Guardian Futures | Blue Guardian Futures — 60% OFF All Accounts (Halloween) | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/ |
+| 2025-10-18 | Blue Guardian Futures | Blue Guardian Futures — 60% OFF All Accounts (Halloween) | 60% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/ |
 | 2025-10-18 | Tradexprop | Tradexprop — 30% OFF All Plans (Unlimited Purchases) | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-30-off-all-plans-unlimited-purchases/ |
 | 2025-10-14 | FundingTraders | FundingTraders — 40% OFF All Plans (Halloween Promo, Ends Nov 1) | 40% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-off-all-plans-halloween-promo-ends-nov-1/ |
 | 2025-10-14 | AquaFunded | Aqua Funded — 40% OFF + 150% Refund (Limited Time) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aqua-funded-40-off-150-refund-limited-time/ |
-| 2025-10-14 | Blue Guardian | Blue Guardian — 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/ |
+| 2025-10-14 | Blue Guardian | Blue Guardian — 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/ |
 | 2025-10-14 | FundingTraders | FundingTraders — 50% OFF Instant-Funded Accounts (Halloween Promo, Ends Nov 1) | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-instant-funded-accounts-halloween-promo-ends-nov-1/ |
 | 2025-10-14 | Bullwaves Prime | Bullwaves Prime — 20% OFF Step 2 Challenges + Biggest Giveaway (Ends Oct 31) | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-step-2-challenges-biggest-giveaway-ends-oct-31/ |
 | 2025-10-09 | Alpha Trader Firm | Alpha Trader Firm Halloween Sale — 40% OFF All Challenges (Limited-Time) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-40-off-all-challenges/ |

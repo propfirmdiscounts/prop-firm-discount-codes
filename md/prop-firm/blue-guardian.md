@@ -17,7 +17,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 25% off, works any
 
 - Published: 2026-10-02
 - Offer: 50% Off
-- Code: EXPRESS
+- Code: PFD
 - Scope: Futures accounts, 25K size, 50K size, 100K size, 150K size
 - Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/
 

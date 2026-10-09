@@ -17,4 +17,4 @@ The newest Topstep discount code is **5expressfundedaccounts** — Only $29 (May
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

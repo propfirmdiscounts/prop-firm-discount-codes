@@ -1,6 +1,6 @@
 # AquaFutures Discount Code
 
-No live discount code for AquaFutures right now — newest deals and offers are below.
+No live discount code for AquaFutures right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/aquafutures/
 
 > At AquaFunded, we pride ourselves on being a leading prop firm dedicated to transforming trader’s aspirations into reality. With a commitment to transparency and unwavering support, we provide funded accounts, empowering individuals to navigate the financial markets with confidence. Join our community where expertise meets opportunity, and together, we chart a course to financial success.
 
@@ -18,4 +18,4 @@ No live discount code for AquaFutures right now — newest deals and offers are 
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

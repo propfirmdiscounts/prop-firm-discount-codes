@@ -17,4 +17,4 @@ The newest Breakout Prop discount code is **TIMAPPLE** — 20% off (March 5, 202
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

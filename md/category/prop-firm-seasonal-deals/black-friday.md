@@ -85,8 +85,8 @@
 | 2025-11-24 | Maven Trading | Maven Trading Black Friday Sale: 20% OFF All Accounts | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off/ |
 | 2025-11-24 | Funded Elite | FundedElite Black Friday Deal: Start Any Account for Only $1 | Only $1 | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-black-friday-1-dollar-start-challenge/ |
 | 2025-11-23 | RebelsFunding | RebelsFunding Black Friday Offer: 30% OFF All Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-black-friday-30-off/ |
-| 2025-11-23 | Blue Guardian Futures | Blue Guardian Futures Black Friday Sale: 60% OFF + BOGO Reward | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/ |
-| 2025-11-23 | Blue Guardian | Blue Guardian Black Friday Sale: Up to 80% OFF + BOGO | 80% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-80-off-bogo/ |
+| 2025-11-23 | Blue Guardian Futures | Blue Guardian Futures Black Friday Sale: 60% OFF + BOGO Reward | 60% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/ |
+| 2025-11-23 | Blue Guardian | Blue Guardian Black Friday Sale: Up to 80% OFF + BOGO | 80% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-80-off-bogo/ |
 | 2025-11-23 | Finotive Funding | Finotive Funding Black Friday Presale: 20% Off + Free Account Bonus | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-presale-20-off/ |
 | 2025-11-22 | Bitfunded | Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-50-off-100-profit-share/ |
 | 2025-11-22 | BullRush Prop | BullRush Prop Black Friday Sale: 50% OFF All Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bullrush/bullrush-prop-black-friday-50-off/ |
@@ -124,7 +124,7 @@
 | 2025-11-18 | Equity Edge | Equity Edge Black Friday: 50% Off + Free Account & $40 Deals | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-50-off-bogo-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Sale: $9 Accounts, BOGO & More | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-sale-bogo-9-dollar-promo/ |
 | 2025-11-18 | OFP Funding | OFP Funding Black Friday Sale – Up to 55% Off Instant & Challenges | 55% OFF | No Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-sale/ |
-| 2025-11-18 | Blue Guardian | Blue Guardian Black Friday Sale: 40% Off Promo Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-sale/ |
+| 2025-11-18 | Blue Guardian | Blue Guardian Black Friday Sale: 40% Off Promo Code | 40% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-sale/ |
 | 2025-11-18 | WSFunded | WSFunded Black Friday Sale: 35% Off + 2×1 Offer | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-2x1-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Code – 25% Off + 25% Bonus Balance | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-25-off-bonus-balance/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Deal – 100K Challenge for $149 | Only  $149 | Campaign Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-100k-challenge-deal/ |

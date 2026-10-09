@@ -80,7 +80,7 @@
             "discount": "10%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-02",
+            "last_deal_published": "2026-10-09",
             "activation_link": "https://propfirmdiscount.com/go/fundedelite",
             "archive_url": "https://propfirmdiscount.com/prop-firm/funded-elite/",
             "trustpilot_score": 4.2,
@@ -99,20 +99,6 @@
             "trustpilot_score": 3.1,
             "trustpilot_reviews": 4323,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/TX3-Funding-logo-2.jpg"
-        },
-        {
-            "prop_firm": "Plutus Trade Base",
-            "code": "ptb463970",
-            "discount": "15%",
-            "valid_from": "2026-01-01",
-            "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-04",
-            "activation_link": "https://propfirmdiscount.com/go/plutustradebase",
-            "archive_url": "https://propfirmdiscount.com/prop-firm/plutus-trade-base/",
-            "trustpilot_score": 3.6,
-            "trustpilot_reviews": 1175,
-            "description": "Looking for information about PTB Funding? Visit our official Feefo review page here:\nhttps://www.feefo.com/en-GB/reviews/plutustradebase-com\nPTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process.\nWe are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.",
-            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Plutus-Trade-Base-logo.jpg"
         },
         {
             "prop_firm": "FundingTicks",
@@ -252,7 +238,7 @@
         {
             "prop_firm": "Blue Guardian",
             "code": "PFD",
-            "discount": "25%",
+            "discount": "50%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
             "last_deal_published": "2026-10-02",
@@ -467,7 +453,7 @@
             "trustpilot_score": 3.7,
             "trustpilot_reviews": 109,
             "description": "thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders.\nAfter successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million.\nAt thePropTrade, we believe in simplicity, transparency and sustainability when it comes to our products. Our trading objectives are based on sustainable risk management principles and they allow our clients to improve their skills and build healthy trading habits.",
-            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/ckcapital-logo.jpg"
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/theproptrade-logo-2.jpg"
         },
         {
             "prop_firm": "ThinkCapital",
@@ -632,6 +618,20 @@
             "trustpilot_reviews": 882,
             "description": "Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.\nOur experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.\nA similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Trade-The-Pool-logo.jpg"
+        },
+        {
+            "prop_firm": "Blue Guardian Futures",
+            "code": "PFD",
+            "discount": "25%",
+            "valid_from": "2026-01-01",
+            "valid_until": "2026-12-31",
+            "last_deal_published": "2026-06-22",
+            "activation_link": "https://propfirmdiscount.com/go/blueguardianfutures",
+            "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian-futures/",
+            "trustpilot_score": 3.7,
+            "trustpilot_reviews": 1810,
+            "description": "At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.\nMany skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier \u2014 giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.",
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Blue-Guardian-Futures-logo.jpg"
         },
         {
             "prop_firm": "Funded Hero",

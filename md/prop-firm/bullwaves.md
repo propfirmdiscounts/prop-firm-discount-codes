@@ -17,4 +17,4 @@ The newest Bullwaves Prime discount code is **Prime15** — 15% off (September 2
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months.
+- No deal published in the last 2 months. Check back soon for new promotions.

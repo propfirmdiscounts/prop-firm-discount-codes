@@ -5,48 +5,45 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-02
+- Last deal published: 2026-10-09
 - Trustpilot: 4.2/5 (748 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts
+## Current deal: Funded Elite 35%-50% Off Plus Free Pack Entitlements
 
-- Published: 2026-10-02
-- Offer: 35% Off
-- Code: OCT35
-- Scope: $7K-$300K accounts, 1-Step, 2-Step, Free Retry evaluations
-- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/
+- Published: 2026-10-09
+- Offer: 50% Off
+- Code: PACKS
+- Scope: Free Retry, Lite, Instant Elite, 5K-400K, upfront fee
+- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/
 
 ## Funded Elite deal FAQ
 
-**What discount does Funded Elite offer in this promotion?**
+**What discount is available during the Funded Elite launch event?**
 
-This active campaign provides a 35% reduction on the upfront entry cost for evaluation accounts, plus a weekly payout structure. The savings apply directly at checkout.
+The current Elite Packs Launch Week promotion provides 35% to 50% off evaluation and instant funding accounts. It also includes free bonus credits and pack entitlements.
 
-**Which account sizes are eligible for the 35% discount?**
+**What account sizes does this Funded Elite offer cover?**
 
-The promotion is valid for a wide range of account sizes, specifically $7K, $15K, $25K, $50K, $100K, $200K and $300K evaluation models.
+The active discount applies to Free Retry, Lite and Instant Elite accounts ranging from $5,000 to $400,000. The highest 50% reduction targets the 300K and 400K instant sizes.
 
-**Does this discount change the trading rules at Funded Elite?**
+**Does Funded Elite have a working discount code?**
 
-No, the promotion only reduces the purchase price. All trading rules, evaluation criteria and maximum loss limits of up to 10% remain strictly unchanged.
+Yes, the site's standing exclusive code, AFF1864062, is always active and can occasionally be applied at the highest available rate. It serves as a reliable alternative when seasonal campaigns end.
 
-**Are both 1-Step and 2-Step evaluations included?**
+**Do the included Elite Packs modify trading rules?**
 
-Yes, the promotional pricing applies to both 1-Step and 2-Step evaluation formats.
+According to the campaign, the included packs contain cards that can potentially remove consistency rules, increase profit splits, or add drawdown room.
 
-**What is the Free Retry feature mentioned in the campaign?**
+**When does this promotional window close?**
 
-The Free Retry feature allows traders to receive a second evaluation attempt included in their original purchase if their first attempt is unsuccessful.
-
-**Is there an alternative discount code for Funded Elite?**
-
-Yes, a 10% discount is available by entering code AFF1864062 at checkout, though it cannot be stacked with other promotions.
+The launch offer is valid until Wednesday 14 October.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-09 - [Funded Elite 35%-50% Off Plus Free Pack Entitlements](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) (50% Off)
 - 2026-10-02 - [Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) (35% Off)
 - 2026-09-09 - [Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) (Only $5)
 - 2026-09-03 - [Funded Elite 50% Off 300k And 400k Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) (50% Off)

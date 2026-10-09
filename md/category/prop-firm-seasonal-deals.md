@@ -4,6 +4,8 @@
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
@@ -32,5 +34,3 @@
 | 2026-07-14 | Goat Funded Trader | Goat Funded Trader 50% Off Upfront Fee World Cup Challenge Deal | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-world-cup-50-percent-off/ |
 | 2026-07-09 | FundedNext | FundedNext 25% Off Stellar Plan Trading Challenges | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-25-off-stellar-plans-argentinian-independence/ |
 | 2026-07-04 | Hola Prime | Hola Prime 45% Off Forex Challenges – Independence Day Offer | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-forex-challenges-independence-day/ |
-| 2026-07-04 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-independence-day-15-off/ |
-| 2026-07-04 | CK Capital | CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/ |

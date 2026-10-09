@@ -26,7 +26,7 @@ Top live offers now:
 | 2026-01-07 | RebelsFunding | RebelsFunding New Year Offer: $1,000 Accounts Starting From €3 | From €3 | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-new-year-1000-account-offer/ |
 | 2026-01-07 | SFX Funded | SFX Funded New Year Deal: Up to 70% Off Entry Fees + BOGO | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-new-year-deal-70-off-bogo/ |
 | 2026-01-06 | Apex Trader Funding | Apex Trader Funding New Year Special: 90% Off 1st Month + PA Fee Deals | 90% OFF | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-special-90-off/ |
-| 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
+| 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts | 60% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
 | 2026-01-06 | QT Funded | QT Funded New Year Offer: Free Matching Instant Account on All Models | Free Account | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/ |
 | 2026-01-05 | HyroTrader | HyroTrader New Year 2026 Offer: 20% Off Evaluation Costs | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/ |
 | 2026-01-05 | Earn2Trade | Earn2Trade 2026 New Year Deal: 50% Off Select Evaluations | 50% OFF | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/ |

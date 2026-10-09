@@ -12,7 +12,6 @@ Plutus Trade Base is offering 50% off — discount code **PASS50**.
 - Code: PASS50
 - Scope: $100,000 Accounts, Lightning Pro, 1-Step Evaluation
 - Deal: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/
-- Verified standing exclusive code: ptb463970 (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

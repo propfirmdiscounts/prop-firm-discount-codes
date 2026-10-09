@@ -1,14 +1,16 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **City Traders Imperium (CTI) 15% Off All Main Programs** from City Traders Imperium (CTI) — 15% off (published 2026-10-07). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Tradexprop Halloween Promo: 20% Off Instant Funding** from Tradexprop — 20% off (published 2026-10-09). Codes and live offers below, newest first.
 
 Top live offers now:
+- Tradexprop — Tradexprop Halloween Promo: 20% Off Instant Funding (20% Off)
+- Tradexprop — Tradexprop Halloween Sale: 40% Off Evaluation Accounts (40% Off)
 - City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off All Main Programs (15% Off)
-- Alpha Trader Firm — Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free (50% Off)
--  — Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
+| 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |
@@ -37,5 +39,3 @@ Top live offers now:
 | 2025-10-28 | Earnex Prime | Earnex — Halloween: 45% OFF + Free Account (Half Size on Pass) | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/earnex/earnex-halloween-45-off-free-account-half-size-on-pass/ |
 | 2025-10-28 | Earnex Prime | Earnex — Halloween: 40% OFF + Free Account (Half Size) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/earnex/earnex-halloween-40-off-free-account-half-size/ |
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 10% OFF Instant Pro (Limited Edition, First Purchase Only) | 10% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-10-off-instant-pro-first-purchase/ |
-| 2025-10-28 | OFP Funding | OFP Funding — Halloween: 30% OFF Instant Funding Classic (Orders Over $150) | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-30-off-instant-classic-over-150/ |
-| 2025-10-28 | OFP Funding | OFP Funding — Halloween: 50% OFF Instant Funding Classic (Orders Over $400) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-50-off-instant-classic-over-400/ |
