@@ -7,6 +7,8 @@ Top live offers now:
 - ThinkCapital — ThinkCapital 25% Off All Challenges for International Women’s Day (25% Off)
 - WeMasterTrade — WeMasterTrade 30% Off All Packages: International Women’s Day Evaluation Pricing (30% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-03-08 | FundingTraders | FundingTraders 35% Off, 90% Profit Split and BOGO Account Entry Fee Limited to 3 Uses | 35% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-35-off-90-split-bogo-womens-day/ |

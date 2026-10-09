@@ -42,6 +42,7 @@ The promotion is explicitly valid until October 25.
 ## Current deals (last 2 months, newest first)
 
 - 2026-10-09 - [Ment Funding 50% Off PropX and 40% Off Alternative Platforms](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/) (50% Off)
+- 2026-10-08 - [Ment Funding 50% Off PropX and 40% Off Alternative Evaluations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-and-40-off-alternatives/) (50% Off)
 - 2026-09-28 - [Ment Funding 25% Off Evaluation Accounts: Entry Cost Reduction](https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-discount-september-30/) (25% Off)
 - 2026-09-17 - [Ment Funding 24% Off $5K to $100K Equities Challenge Fee Considerations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-24-off-equities-evaluation-september-30/) (24% Off)
 - 2026-09-14 - [Ment Funding 16% Off Challenge Fee: What Changes vs Evaluation Rules](https://propfirmdiscount.com/deals/ment-funding/ment-funding-16-percent-discount/) (16% Off)

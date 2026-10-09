@@ -7,6 +7,8 @@ Top live offers now:
 - Equity Edge — Equity Edge Eid Mubarak Promo: 200K Instant Funded For $159 (Only $159)
 - Equity Edge — Equity Edge Eid Mubarak Deal: 300K Instant Funded For $299 (Only $299)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-05-31 | Equity Edge | Equity Edge Eid Mubarak Discount: 100K Instant Funded For $65 | Only $65 | Campaign Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-100k-instant-65/ |

@@ -7,6 +7,8 @@ Top live offers now:
 - WSFunded — WSFunded Buy 5 Get 5 Free Evaluation Accounts (Buy 5 Get 5)
 - FundingTraders — FundingTraders World Cup Special: 50% Off Evaluation Accounts with 100% Profit Split (50% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-07-20 | WSFunded | WSFunded 60% Off $2.5K to $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k/ |

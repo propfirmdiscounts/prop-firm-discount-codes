@@ -7,6 +7,8 @@ Top live offers now:
 - City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal (15% Off)
 - CK Capital — CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts (Buy 1 Get 1)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-07-04 | Hola Prime | Hola Prime 45% Off Forex Challenges – Independence Day Offer | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-forex-challenges-independence-day/ |

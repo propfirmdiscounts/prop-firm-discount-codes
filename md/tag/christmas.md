@@ -7,6 +7,8 @@ Top live offers now:
 - Equity Edge — Equity Edge Holiday Promotion: $100K Instant Funded Account for $64 (Only $64)
 - Lark Funding — Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program (Buy 1 Get 2)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-01-05 | Upcomers | Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% OFF | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/ |

@@ -7,6 +7,8 @@ Top live offers now:
 - Funded Hero — Funded Hero St. Patrick’s Day: 60% Off All Evaluation Accounts (60% Off)
 - FundingTraders — FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) (40% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-03-19 | Funded Elite | Funded Elite: 25% Off Evaluation Accounts and 95% Profit Split | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/ |

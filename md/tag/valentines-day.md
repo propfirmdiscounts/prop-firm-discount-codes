@@ -7,6 +7,8 @@ Top live offers now:
 - Bullwaves Prime — Bullwaves Prime Valentine’s Day: 100% Deposit Bonus from $500 (100% Deposit)
 - WSFunded — WSFunded Valentine’s Offer: 50% Off Challenge Pricing and Prize Draws (50% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-02-16 | Bullwaves Prime | Bullwaves Prime Valentine’s Day Offer: 30% Off Any Challenge | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-30-off/ |

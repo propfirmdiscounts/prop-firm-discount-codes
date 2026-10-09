@@ -7,6 +7,8 @@ Top live offers now:
 - AudaCity Capital — AudaCity Capital 35% Off Evaluation Challenge Pricing to Lower Account Costs (35% Off)
 - Funded Hero — Funded Hero 65% Off All Evaluation Accounts (Eid Mubarak) (65% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-05-27 | Forex Funds Flow | Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/ |

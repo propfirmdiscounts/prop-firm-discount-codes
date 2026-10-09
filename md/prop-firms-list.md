@@ -31,7 +31,7 @@
 | Funded Hero Futures | PFD | 55% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | Funded Trading Plus (FT+) | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedSeat | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/fundex/ |
+| Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFD | 2% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | 2026-01-01 | 2026-12-31 | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | FundingTraders | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |

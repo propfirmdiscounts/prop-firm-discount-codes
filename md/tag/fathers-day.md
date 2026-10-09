@@ -7,6 +7,8 @@ Top live offers now:
 - Alpha Trader Firm — Alpha Trader Firm: 65% Off Any 100K Accounts (65% Off)
 - Phidias Propfirm — Phidias Propfirm Father’s Day Offer: 90% Off Monthly Evaluation Accounts (90% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-06-23 | Sure Leverage Funding | Sure Leverage Funding 40% Off All Funding Products For Father’s Day | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-fathers-day/ |

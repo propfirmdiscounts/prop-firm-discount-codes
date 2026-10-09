@@ -7,6 +7,8 @@ Top live offers now:
 -  — September 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup
 -  — August 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-10-01 |  | October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/october-2026-prop-firm-coupon-codes/ |

@@ -7,6 +7,8 @@ Top live offers now:
 - Funded Hero — Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day (55% Off)
 - Alpha Trader Firm — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-05-26 | Earn2Trade | Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts | 60% OFF | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/ |

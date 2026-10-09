@@ -7,6 +7,8 @@ Top live offers now:
 - Sure Leverage Funding — Sure Leverage Funding Mother’s Day Promo: 35% Off All Programs (35% Off)
 - Funding Your Trades — Funding Your Trades: 42.5% Off All Models + Buy 1 Get 2 (Mother’s Day) (42% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-05-11 | Funded Hero | Funded Hero 60% Off All Account Types | 60% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-all-accounts/ |

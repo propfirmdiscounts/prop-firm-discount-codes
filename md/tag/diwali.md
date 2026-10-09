@@ -7,6 +7,8 @@ Top live offers now:
 - PipFarm — PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) (40% Off)
 - QT Funded — QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 (30% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2025-10-22 |  | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |

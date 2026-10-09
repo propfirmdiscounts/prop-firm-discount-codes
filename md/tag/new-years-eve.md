@@ -7,6 +7,8 @@ Top live offers now:
 - FXIFY — FXIFY Chinese New Year Sale: 28% Off Programs + Free Addons (28% Off)
 - FundingTraders — FundingTraders Lunar New Year: 32% Off All Challenge Fees (32% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-02-18 | PipFarm | PipFarm Lunar New Year: 60% Off One-Stage Challenges | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-lunar-new-year-60-off/ |

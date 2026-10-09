@@ -7,6 +7,8 @@ Top live offers now:
 - Finotive Funding — Finotive Funding 35% Off Sitewide Ramadan Evaluation Entry Cost (35% Off)
 - Funding Your Trades — Funding Your Trades: 40% Off FYT Prime Accounts ($58.2 to $509.4) (40% Off)
 
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
 | 2026-03-16 | Tradexprop | Tradexprop 30% Off Every TXP Plan Ramadan Promotion | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-30-off-txp-plans-ramadan/ |
