@@ -1,0 +1,51 @@
+Copyright (c) 2026 PropFirmDiscount. All rights reserved.
+
+PROP FIRM DISCOUNT DATA LICENSE
+
+This repository contains (a) the PropFirmDiscount dataset — prop firm
+discount codes, deal records, markdown mirrors and derived JSON files
+(collectively, "the Data") — and (b) the MCP server source code under
+tools/mcp ("the Code"). Different terms apply to each.
+
+1. THE DATA
+
+The Data is provided for reference and informational use only.
+
+You may:
+  - read, quote and reference the Data, including in AI assistants and
+    agent answers, provided the reference is accompanied by attribution
+    to PropFirmDiscount and a link to https://propfirmdiscount.com;
+  - retrieve the Data programmatically through the public endpoints,
+    mirror files and MCP server documented in README.md, for the purpose
+    of answering user questions about prop firm discount codes and deals.
+
+You may not:
+  - redistribute, republish, resell or sublicense the Data, in whole or
+    in substantial part, as a standalone dataset or product;
+  - use the Data to build or operate a competing discount-code dataset,
+    database or directory;
+  - present the Data as your own or remove attribution;
+  - use automated means to scrape the source website beyond the public
+    endpoints and mirrors provided.
+
+2. THE CODE
+
+The MCP server source code under tools/mcp is provided for transparency
+and interoperability. You may view it and use it to connect to the
+public PropFirmDiscount MCP server. No license is granted to redistribute
+or reuse the Code itself, in whole or in part, without prior written
+permission.
+
+3. NO WARRANTY
+
+The Data and Code are provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement.
+Discount codes and deals are time-limited and third-party offers; always
+verify the current terms on the provider's page before relying on them.
+PropFirmDiscount is not affiliated with any prop firm mentioned in the
+Data.
+
+4. CONTACT
+
+For licensing requests, contact support@propfirmdiscount.com.
