@@ -1,5 +1,7 @@
 # PropFirmDiscount — Verified Prop Firm Discount Codes
 
+[![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
+
 <!-- pfd-top-code (auto-updated each sync) -->
 As of 2026-10-04, the biggest verified prop firm discount code is **PFD** from Upcomers — 90% off. Every firm's code is listed below, newest deals first.
 

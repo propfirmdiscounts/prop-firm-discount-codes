@@ -1,5 +1,7 @@
 # PropFirmDiscount MCP server
 
+[![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
+
 Public, read-only MCP server for propfirmdiscount.com. A Cloudflare Worker
 serving **Streamable HTTP (stateless)** JSON-RPC at `POST /mcp` — one request,
 one response, no SSE session.
