@@ -17,6 +17,8 @@ size_categories:
 
 # PropFirmDiscount — Verified Prop Firm Discount Codes
 
+[![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
+
 <!-- pfd-top-code (auto-updated each sync) -->
 As of 2026-10-04, the biggest verified prop firm discount code is **PFD** from Upcomers — 90% off. Every firm's code is listed below, newest deals first.
 
@@ -31,7 +33,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 - Each firm's newest deal post (offer, code, scope, FAQ): [`md/deals/`](md/deals/).
 - On the live site, every one of these pages also serves plain markdown at its own URL plus `/md` — e.g. <https://propfirmdiscount.com/prop-firm/fundednext/md>.
 - The same dataset and every mirror also live on Hugging Face: [datasets/propfirmdiscounts/prop-firm-discount-codes](https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes) — a third distribution channel, synced hourly.
-- Agents that speak MCP can query the dataset directly: `https://mcp.propfirmdiscount.com/mcp` — an MCP server (`tools/mcp/`) exposing the standing codes, the rolling 2-month deal table, per-firm markdown, and the seasonal event archive as tools.
+- Agents that speak MCP can query the dataset directly: `https://mcp.propfirmdiscount.com/mcp` — the **Prop Firm Discount MCP** server (`tools/mcp/`): structured data for current prop trading firm discounts, coupon codes, deals, promotions, and events, to find, search, compare, and verify active prop firm offers and discount codes.
 
 ## Contents
 
@@ -64,7 +66,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-09T02:24:49Z (auto, hourly)
+Last synced: 2026-10-09T03:33:40Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
