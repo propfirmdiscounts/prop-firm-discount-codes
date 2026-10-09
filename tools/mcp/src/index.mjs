@@ -14,6 +14,7 @@ const EVENTS_ORIGIN = 'https://propfirmevents.com';
 const CACHE_TTL = 600;
 const MARKDOWN_CAP = 20000;
 const PROTOCOL_VERSION = '2025-06-18';
+const SERVER_DESCRIPTION = 'Prop Firm Discount provides structured data for current prop trading firm discounts, coupon codes, deals, promotions, and events. Use it to find, search, compare, and verify active prop firm offers and discount codes.';
 
 const JSON_HEADERS = { 'content-type': 'application/json; charset=utf-8' };
 
@@ -523,8 +524,8 @@ async function handleRpc(msg) {
       protocolVersion: PROTOCOL_VERSION,
       capabilities: { tools: { listChanged: false } },
       serverInfo: {
-        name: 'propfirmdiscount',
-        title: 'PropFirmDiscount',
+        name: 'Prop Firm Discount MCP',
+        title: 'Prop Firm Discount MCP',
         version: '1.0.0',
       },
       instructions: 'Public prop firm discount data. '
@@ -592,7 +593,8 @@ export default {
     if (url.pathname === '/' || url.pathname === '/health') {
       return new Response(JSON.stringify({
         ok: true,
-        name: 'propfirmdiscount-mcp',
+        name: 'Prop Firm Discount MCP',
+        description: SERVER_DESCRIPTION,
         endpoint: `${url.origin}/mcp`,
         protocolVersion: PROTOCOL_VERSION,
         tools: TOOLS.map((t) => t.name),
@@ -605,7 +607,8 @@ export default {
 
     if (request.method === 'GET') {
       return new Response(JSON.stringify({
-        name: 'propfirmdiscount-mcp',
+        name: 'Prop Firm Discount MCP',
+        description: SERVER_DESCRIPTION,
         protocolVersion: PROTOCOL_VERSION,
         transport: 'streamable-http (stateless, JSON responses)',
         usage: 'POST JSON-RPC to this endpoint: initialize, tools/list, tools/call.',

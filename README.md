@@ -16,7 +16,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 - Each firm's newest deal post (offer, code, scope, FAQ): [`md/deals/`](md/deals/).
 - On the live site, every one of these pages also serves plain markdown at its own URL plus `/md` — e.g. <https://propfirmdiscount.com/prop-firm/fundednext/md>.
 - The same dataset and every mirror also live on Hugging Face: [datasets/propfirmdiscounts/prop-firm-discount-codes](https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes) — a third distribution channel, synced hourly.
-- Agents that speak MCP can query the dataset directly: `https://mcp.propfirmdiscount.com/mcp` — an MCP server (`tools/mcp/`) exposing the standing codes, the rolling 2-month deal table, per-firm markdown, and the seasonal event archive as tools.
+- Agents that speak MCP can query the dataset directly: `https://mcp.propfirmdiscount.com/mcp` — the **Prop Firm Discount MCP** server (`tools/mcp/`): structured data for current prop trading firm discounts, coupon codes, deals, promotions, and events, to find, search, compare, and verify active prop firm offers and discount codes.
 
 ## Contents
 

@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.propfirmdiscount/public-mcp",
-  "title": "PropFirmDiscount",
-  "description": "Verified prop firm discount codes, a 2-month deal table, firm markdown mirrors, seasonal events.",
+  "title": "Prop Firm Discount MCP",
+  "description": "Prop Firm Discount provides structured data for current prop trading firm discounts, coupon codes, deals, promotions, and events. Use it to find, search, compare, and verify active prop firm offers and discount codes.",
   "version": "1.0.0",
   "websiteUrl": "https://propfirmdiscount.com",
   "repository": {

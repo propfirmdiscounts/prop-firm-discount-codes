@@ -1,8 +1,12 @@
-# PropFirmDiscount MCP server
+# Prop Firm Discount MCP
 
-[![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
+[![Prop Firm Discount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 
-Public, read-only MCP server for propfirmdiscount.com. A Cloudflare Worker
+Prop Firm Discount provides structured data for current prop trading firm
+discounts, coupon codes, deals, promotions, and events. Use it to find, search,
+compare, and verify active prop firm offers and discount codes.
+
+A Cloudflare Worker
 serving **Streamable HTTP (stateless)** JSON-RPC at `POST /mcp` — one request,
 one response, no SSE session.
 
