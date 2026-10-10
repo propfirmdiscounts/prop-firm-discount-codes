@@ -335,6 +335,16 @@ export function layout(site, { title, desc, canonical, ld, body, path, altMarkdo
     ? `<link rel="alternate" type="text/markdown" href="${path}.md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
     : (altMarkdown ? `<link rel="alternate" type="text/markdown" href="${altMarkdown}">\n` : '');
   const email = site.email ? `<a href="mailto:${esc(site.email)}">${esc(site.email)}</a>` : '';
+  // GA4 via gtag.js, per-site measurement ID. Machine surfaces (md/json/llms)
+  // are separate files, so tracking never lands in agent-facing output.
+  const ga = site.ga ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.ga}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '${site.ga}');
+</script>
+` : '';
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -353,7 +363,7 @@ ${alts}<meta property="og:type" content="website">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${canonical}">
 <meta name="twitter:card" content="summary">
-<script type="application/ld+json">${JSON.stringify(ld)}</script>
+${ga}<script type="application/ld+json">${JSON.stringify(ld)}</script>
 <style>${CSS}${extraCss ? '\n' + extraCss : ''}</style>
 </head>
 <body>

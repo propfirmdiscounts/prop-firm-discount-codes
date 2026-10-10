@@ -61,6 +61,7 @@ const site = {
   id: 'events',
   siteName: 'Prop Firm Event Hub',
   shortName: 'PF Events',
+  ga: 'G-1DLBLGCLS9',
   tagline: EN_DASH + ' seasonal event deal tracker',
   origin: (process.env.SATELLITE_ORIGIN_EVENTS || 'https://propfirmevent.example').replace(/\/$/, ''),
   skillName: 'prop-firm-event-hub',

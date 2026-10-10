@@ -13,6 +13,7 @@ export const site = {
   siteName: 'Prop Firm Code Check',
   shortName: 'CodeCheck',
   icons: true,
+  ga: 'G-0RHJRGQ5LM',
   tagline: EN_DASH + ' discount code verification log',
   skillName: 'prop-firm-code-check',
   hubBlurb: 'newest code checks first',
