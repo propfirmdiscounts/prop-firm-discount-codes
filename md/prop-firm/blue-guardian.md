@@ -7,42 +7,39 @@ The verified Blue Guardian discount code is **PFD** — Up to 25% off, works any
 - Code: PFD
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-02
-- Trustpilot: 3.3/5 (2102 reviews)
+- Last deal published: 2026-10-12
+- Trustpilot: 3.3/5 (2112 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Blue Guardian: 50% Off Futures Accounts Starting at $59
+## Current deal: Blue Guardian: 35% Off All Accounts Plus 200% Refund
 
-- Published: 2026-10-02
-- Offer: 50% Off
+- Published: 2026-10-12
+- Offer: 35% Off
 - Code: PFD
-- Scope: Futures accounts, 25K size, 50K size, 100K size, 150K size
-- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/
+- Scope: All accounts, CFD, Futures, Bundles
+- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/
 
 ## Blue Guardian deal FAQ
 
-**What discount does Blue Guardian offer in this promotion?**
+**What discount does Blue Guardian offer during this promotion?**
 
-The firm provides a 50% reduction on the entry cost for their Futures accounts.
+The Halloween promotion cuts the entry cost of all evaluation accounts by 35%. It also offers an expanded discount of up to 50% off for bundle purchases.
 
-**How much do the accounts cost with this active promotion?**
+**Does the Halloween offer change the trading rules at Blue Guardian?**
 
-Pricing starts at $59 for the 25K size, $89 for the 50K size, $141 for the 100K size and $220 for the 150K size.
+No, the promotion affects only the purchase pricing and refund structure. All drawdown limits, profit targets and core risk parameters remain unchanged.
 
-**Are the trading rules modified by this Blue Guardian deal?**
+**Are there any specific benefits for CFD accounts?**
 
-No, this promotion affects the purchase cost only and does not change any drawdown limits or trading risk parameters.
+Yes, the promotion includes a 200% refund entitlement specifically for CFD evaluation models upon successful completion.
 
-**What payout cycle is included with these specific accounts?**
+**How long is this discount available?**
 
-These specific Futures accounts feature daily payouts instead of the firm's standard three-day cycle.
-
-**How can I access this Blue Guardian discount?**
-
-You can follow the Apply via link at the end of this article to access the active promotion.
+The offer is available for a limited time during the Halloween promotional period.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-12 - [Blue Guardian: 35% Off All Accounts Plus 200% Refund](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) (35% Off)
 - 2026-10-02 - [Blue Guardian: 50% Off Futures Accounts Starting at $59](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) (50% Off)

@@ -1,44 +1,45 @@
 # FundYourFX Discount Code
 
-The newest FundYourFX discount code is **CASH55** — 55% off (October 11, 2026). The live campaign code changes with each promotion; newest first below.
+The newest FundYourFX discount code is **CASH55** — 55% off (October 12, 2026). The live campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-11
+- Last deal published: 2026-10-12
 - Trustpilot: 3.7/5 (924 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-## Current deal: FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus
+## Current deal: FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus
 
-- Published: 2026-10-11
+- Published: 2026-10-12
 - Offer: 55% Off
 - Code: CASH55
 - Scope: Evaluation Accounts
-- Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/
+- Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/
 
 ## FundYourFX deal FAQ
 
-**What does the October Sale promotion include?**
+**What does the FundYourFX October Sale promotion offer?**
 
-It offers a 55% discount on the upfront entry cost of an evaluation account. It also includes an additional $155 cash bonus when a trader receives an eligible payout.
+The promotion provides a 55% reduction on the initial purchase cost for evaluation accounts. It also includes an additional $155 cash back bonus that can be claimed when a qualifying payout is reached.
 
-**Are the trading rules easier with this discount?**
+**Does this discount change any trading rules?**
 
-No, the trading rules remain completely unchanged. The promotion only modifies the purchase price and adds a payout bonus without reducing the evaluation difficulty.
+No, the promotion only affects the entry cost and the payout bonus structure. It does not modify trading rules, drawdown limits, or evaluation criteria.
 
-**When does this promotion expire?**
+**How long is the October Sale valid?**
 
-The offer is strictly valid from October 11th through October 17th.
+The promotional offer is valid for one week, running from October 11th through October 17th.
 
-**Does FundYourFX change the drawdown limits during this sale?**
+**Who might find this pricing structure suitable?**
 
-Drawdown limits and all other risk parameters are not modified by this promotion. The active discount applies only to the commercial cost of the account.
+This offer may appeal to individuals seeking to lower the upfront cost of entering an evaluation program while having access to a deferred bonus incentive.
 
-**Who might this pricing appeal to?**
+**Are there any specific conditions for the $155 bonus?**
 
-This offer may suit traders looking to minimize their initial purchase cost at FundYourFX while securing a fixed backend bonus upon their first eligible payout.
+Yes, the $155 cash back bonus is deferred and only claimable upon receiving a qualifying payout, subject to the promotion's terms.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-12 - [FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/) (55% Off)
 - 2026-10-11 - [FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/) (55% Off)
 - 2026-10-01 - [FundYourFX 60% Off Entry Cost Extension](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/) (60% Off)
 - 2026-09-17 - [FundYourFX 60% Off All Accounts: Upfront Entry Fee Update](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-accounts/) (60% Off)

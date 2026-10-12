@@ -1,46 +1,43 @@
 # WSFunded Discount Code
 
-The newest WSFunded discount code is **NEWYORK50** — 50% off (October 9, 2026). The live campaign code changes with each promotion; newest first below.
+The newest WSFunded discount code is **HISPANIC60** — 60% off (October 12, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
-- Last deal published: 2026-10-09
-- Trustpilot: 4.3/5 (4945 reviews)
+- Last deal published: 2026-10-12
+- Trustpilot: 4.3/5 (4980 reviews)
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-## Current deal: WSFunded 50% Off All Challenges and New York Prize Draw
+## Current deal: WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts
 
-- Published: 2026-10-09
-- Offer: 50% Off
-- Code: NEWYORK50
-- Scope: All challenges, Challenge Flash
-- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/
+- Published: 2026-10-12
+- Offer: 60% Off
+- Code: HISPANIC60
+- Scope: 2.5K to 25K accounts
+- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/
 
 ## WSFunded deal FAQ
 
-**What discount does WSFunded offer in this promotion?**
+**What does the current WSFunded promotion change?**
 
-The firm offers a 50% reduction on the upfront entry cost for all evaluations. This also includes an automatic entry into a prize draw for a trip for two to New York.
+It provides a 60% discount on the upfront entry cost for accounts sized between $2.5K and $25K. It does not alter any trading rules or drawdown limits.
 
-**Does this promotion change any trading rules?**
+**Does this discount apply to all account sizes?**
 
-No, the promotion only affects the purchase pricing. All risk limits, drawdown rules and evaluation criteria remain exactly the same.
+No, the 60% reduction applies only to evaluation accounts in the $2.5K to $25K range.
 
-**Are there new account models included in this offer?**
+**How long is this 60% discount available?**
 
-Yes, the promotion explicitly applies to the new Challenge Flash. According to the firm, this model requires a 2% profit target to pass and features an instant first payout structure.
+The promotion is valid this week, according to the campaign materials.
 
-**How does the New York giveaway work?**
+**Are the trading rules easier during this promotion?**
 
-Purchasing an account using the active discount automatically enters the buyer into a prize draw. The firm covers the trip and expenses for the winner and a guest to visit Wall Street alongside professional traders.
-
-**When does this discount expire?**
-
-The promotional materials do not state a specific expiry date or validity window for the discount or the prize draw.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-12 - [WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/) (60% Off)
 - 2026-10-09 - [WSFunded 50% Off All Challenges and New York Prize Draw](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/) (50% Off)
 - 2026-10-02 - [WSFunded 50% Off All Challenges & New 2% Target Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/) (50% Off)
 - 2026-09-29 - [WSFunded 35% Off Challenge Pricing Plus 2x1 First Payout](https://propfirmdiscount.com/deals/wsfunded/wsfunded-35-off-all-accounts-2x1-payout/) (35% Off)

@@ -5,7 +5,7 @@ The newest Plutus Trade Base discount code is **PASS50** — 50% off (October 4,
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
 - Last deal published: 2026-10-04
-- Trustpilot: 3.6/5 (1175 reviews)
+- Trustpilot: 3.6/5 (1179 reviews)
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 

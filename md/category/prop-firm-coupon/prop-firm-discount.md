@@ -6,6 +6,12 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
+| 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
+| 2026-10-12 | FundedNext | FundedNext October Promotion: Stellar Accounts Starting at $29.99 | 32% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/ |
+| 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
+| 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
+| 2026-10-12 | FundYourFX | FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus | 55% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/ |
 | 2026-10-12 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Evaluation Accounts | 85% OFF | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/ |
 | 2026-10-11 | FundYourFX | FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus | 55% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/ |
 | 2026-10-09 | Fundex | Fundex 20% Off 1-Step Evaluation Accounts | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |
@@ -30,9 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | Bulenox | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) | 91% OFF | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |
 | 2026-10-07 | FundingTraders | FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/ |
 | 2026-10-06 | Dominion Funding | Dominion Funding: 30% Off All Accounts For TradeHawk Launch | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/ |
-| 2026-10-06 | RebelsFunding | RebelsFunding 59% Off $20,000 Evaluation Accounts For €29 | 59% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/ |
-| 2026-10-06 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Discounts & Account Customization | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/ |
-| 2026-10-06 | IC Funded | IC Funded 30% Off All Evaluation Accounts | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/ |
-| 2026-10-05 | FundingTraders | FundingTraders Up to 81% Off Instant Funded Accounts | 81% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/ |
-| 2026-10-05 | For Traders | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
-| 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |

@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
+| 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
+| 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-17 | Finotive Funding | Finotive Funding 30% Off World Cup Deal: Evaluation Accounts Up to $200K | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-30-off-world-cup/ |
 | 2026-07-16 | BrightFunded | BrightFunded World Cup Promotion: 25% Off All Challenges | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-world-cup-promotion/ |
 | 2026-07-15 | WSFunded | WSFunded 50% Off Trading Challenges: World Cup Fee Savings with Unchanged Rules | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-world-cup-promotion/ |
-| 2026-07-14 | Goat Funded Trader | Goat Funded Trader 50% Off Upfront Fee World Cup Challenge Deal | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-world-cup-50-percent-off/ |
-| 2026-07-09 | FundedNext | FundedNext 25% Off Stellar Plan Trading Challenges | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-25-off-stellar-plans-argentinian-independence/ |
-| 2026-07-04 | Hola Prime | Hola Prime 45% Off Forex Challenges – Independence Day Offer | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-forex-challenges-independence-day/ |

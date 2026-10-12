@@ -1,16 +1,19 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Tradexprop Halloween Promo: 20% Off Instant Funding** from Tradexprop — 20% off (published 2026-10-09). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Blue Guardian: 35% Off All Accounts Plus 200% Refund** from Blue Guardian — 35% off (published 2026-10-12). Codes and live offers below, newest first.
 
 Top live offers now:
-- Tradexprop — Tradexprop Halloween Promo: 20% Off Instant Funding (20% Off)
-- Tradexprop — Tradexprop Halloween Sale: 40% Off Evaluation Accounts (40% Off)
-- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off All Main Programs (15% Off)
+- Blue Guardian — Blue Guardian: 35% Off All Accounts Plus 200% Refund (35% Off)
+- FundingTraders — FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween (90% Off)
+- FundingTraders — FundingTraders 50% Off and BOGO Entitlement for Halloween (50% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
+| 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
+| 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
@@ -38,6 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-29 | Forex Funds Flow | Forex Funds Flow Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/ |
 | 2025-10-28 | thePropTrade | thePropTrade — Halloween: 20% OFF All Challenges + Live Raffle ($300 USDT + 10× $10K Accounts) | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-raffle-300-usdt-10x-10k-accounts/ |
 | 2025-10-28 | Earn2Trade | Earn2Trade — 50% OFF Subscriptions + Up to 35% OFF Resets (Valid Through Nov 2, 2025) | 50% OFF | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-subscriptions-35-off-resets-ends-nov-2-2025/ |
-| 2025-10-28 | Earnex Prime | Earnex — Halloween: 45% OFF + Free Account (Half Size on Pass) | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/earnex/earnex-halloween-45-off-free-account-half-size-on-pass/ |
-| 2025-10-28 | Earnex Prime | Earnex — Halloween: 40% OFF + Free Account (Half Size) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/earnex/earnex-halloween-40-off-free-account-half-size/ |
-| 2025-10-28 | OFP Funding | OFP Funding — Halloween: 10% OFF Instant Pro (Limited Edition, First Purchase Only) | 10% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-10-off-instant-pro-first-purchase/ |
