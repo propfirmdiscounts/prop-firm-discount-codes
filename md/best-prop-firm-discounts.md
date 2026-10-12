@@ -7,8 +7,8 @@ As of October 2026, PropFirmDiscount tracks 43 prop firms with a verified discou
 | # | Prop firm | Discount code | Discount | Type | Checked |
 |---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Elite Trader Funding | 20BACK | 85% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 3 | Phidias Propfirm | PFD | 80% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Phidias Propfirm | PFD | 85% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 3 | Elite Trader Funding | 20BACK | 85% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 4 | Funded Hero | PFD | 65% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 5 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 6 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -56,7 +56,7 @@ Ranked highest discount first. "Exclusive Code" is a code the PropFirmDiscount t
 
 | # | Prop firm | Exclusive code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | Blue Guardian | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |

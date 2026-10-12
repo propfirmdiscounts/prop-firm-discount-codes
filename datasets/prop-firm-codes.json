@@ -363,10 +363,10 @@
         {
             "prop_firm": "Phidias Propfirm",
             "code": "PFD",
-            "discount": "80%",
+            "discount": "85%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-01",
+            "last_deal_published": "2026-10-12",
             "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
             "archive_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
             "trustpilot_score": 3.1,

@@ -9,8 +9,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | # | Prop firm | Discount code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | October 2026 | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 3 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 3 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 4 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 5 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 6 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -23,7 +23,7 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 
 | # | Prop firm | Exclusive code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | Blue Guardian | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
@@ -40,6 +40,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Evaluation Accounts | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/ |
+| 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
+| 2026-10-11 | FundYourFX | FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus | 55% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/ |
 | 2026-10-09 | Fundex | Fundex 20% Off 1-Step Evaluation Accounts | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |
 | 2026-10-09 | FTUK | FTUK 50% Off Futures Accounts for WealthCharts Launch | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-futures-wealthcharts-launch/ |
 | 2026-10-09 | Ment Funding | Ment Funding 50% Off PropX and 40% Off Alternative Platforms | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/ |
@@ -67,6 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-06 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Discounts & Account Customization | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/ |
 | 2026-10-06 | IC Funded | IC Funded 30% Off All Evaluation Accounts | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/ |
 | 2026-10-05 | FundingTraders | FundingTraders Up to 81% Off Instant Funded Accounts | 81% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/ |
-| 2026-10-05 | For Traders | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
-| 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |
-| 2026-10-05 | Direct Funded Trader | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% Off | PFD | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |

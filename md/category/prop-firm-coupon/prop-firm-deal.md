@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
 | 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
 | 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
 | 2026-10-01 | Apex Trader Funding | Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations | 90% OFF | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-03 | Funded Trader Markets | Funded Trader Markets: 75% Off 2 Step Plus 5K–50K Evaluations | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-75-off-2-step-plus-deal/ |
 | 2026-06-03 | FundedNext | FundedNext 2 Minimum Trading Days Modification on Stellar Accounts | 2 Minimum Trading Days | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-2-minimum-trading-days-deal/ |
 | 2026-06-03 | Alpha Trader Firm | Alpha Trader Firm 50% Off Futures Accounts and Evaluation Pricing | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-50-off-futures-deal/ |
-| 2026-06-01 | Lark Funding | Lark Funding 4th Anniversary: Buy 1 Get 4 Deal for $100K Challenges | Buy 1 Get 4 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-4th-anniversary-buy-1-get-4-deal/ |
