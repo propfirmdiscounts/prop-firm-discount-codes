@@ -12,12 +12,12 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 2 | FundingTraders | PFD | 90% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 5 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 6 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 7 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 8 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 9 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
-| 10 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 5 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 6 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 7 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 8 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 9 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 10 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | Purdia Capital | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% Off | Campaign Code Required | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |
 | 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |
 | 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% Off | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | TX3 Funding | TX3 Funding 20% Off All Accounts Harvest Week | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
-| 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% Off | Campaign Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
