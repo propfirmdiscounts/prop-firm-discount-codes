@@ -15,9 +15,9 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 5 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 6 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 7 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 8 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
-| 9 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 10 | RebelsFunding | JUST29 | 59% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 8 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 9 | TradeDay | FLASH | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
+| 10 | FundYourFX | OCTA60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |
 | 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% Off | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
 | 2026-10-12 | FundedNext | FundedNext October Promotion: Stellar Accounts Starting at $29.99 | 32% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% Off | Campaign Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
-| 2026-10-07 | Bulenox | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) | 91% Off | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |
