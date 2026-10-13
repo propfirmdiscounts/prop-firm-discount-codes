@@ -12,8 +12,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 2 | FundingTraders | PFD | 90% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 5 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 6 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 5 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 6 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 7 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 8 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 9 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
@@ -24,7 +24,7 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | # | Prop firm | Exclusive code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 2 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
@@ -40,6 +40,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts | 70% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |
+| 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
+| 2026-10-13 | Funding Your Trades | Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/ |
+| 2026-10-13 | The Concept Trading | The Concept Trading: 40% Off Eligible Programs + Free Retry | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/ |
+| 2026-10-13 | Blueberry Funded | Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K) | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/ |
+| 2026-10-13 | Instant Funding | Instant Funding: 35% Off Pro and Lite Evaluation Accounts | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/ |
+| 2026-10-13 | RebelsFunding | RebelsFunding 73% Off $5,000 Trading Accounts For €7 | 73% Off | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/ |
 | 2026-10-12 | Purdia Capital | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% Off | Campaign Code Required | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |
 | 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |
 | 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% Off | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
@@ -63,10 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-09 | Funded Elite | Funded Elite 35%-50% Off Plus Free Pack Entitlements | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/ |
 | 2026-10-09 | Blueberry Funded | Blueberry Funded 1-Step Classic: 30% Off Entry Fees | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/ |
 | 2026-10-09 | Blueberry Funded | Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/ |
-| 2026-10-09 | We Get Funded | We Get Funded: Buy 1 Get 3 Free Accounts Offer | Buy 1 Get 3 | Campaign Code Required | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-offer/ |
-| 2026-10-08 | Ment Funding | Ment Funding 50% Off PropX and 40% Off Alternative Evaluations | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-and-40-off-alternatives/ |
-| 2026-10-07 | Top One Trader | Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500) | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/ |
-| 2026-10-07 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40) | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/ |
-| 2026-10-07 | TX3 Funding | TX3 Funding 20% Off All Accounts Harvest Week | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/ |
-| 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
-| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |

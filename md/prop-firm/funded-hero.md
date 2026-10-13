@@ -7,22 +7,49 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-01
+- Last deal published: 2026-10-13
 - Trustpilot: 4.0/5 (434 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Hero 65% Off Evaluation Accounts
+## Current deal: Funded Hero 70% Off All Evaluation Accounts
 
-- Published: 2026-10-01
-- Offer: 65% Off
+- Published: 2026-10-13
+- Offer: 70% Off
 - Code: PFD
-- Scope: Evaluation accounts
-- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/
+- Scope: All account types, 2-Step Villain, $100K accounts
+- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/
+
+## Funded Hero deal FAQ
+
+**What does the Columbus promotion change at Funded Hero?**
+
+The promotion reduces the upfront purchase fee for all evaluation accounts by 70%. It drops the cost of the $100K 2-Step Villain account from $478.00 to $143.40.
+
+**Does this discount modify the profit targets?**
+
+No, the trading rules remain identical. The 2-Step Villain requires a 10% profit target in Step 1 and a 5% target in Step 2.
+
+**Are there minimum trading day requirements?**
+
+Yes, Step 1 requires a minimum of 3 trading days. However, Step 2 has no minimum trading day requirement.
+
+**Can I trade news or use bots during the evaluation?**
+
+According to the firm's published information, both news trading and trading bots are permitted.
+
+**What is the drawdown limit on the 2-Step Villain?**
+
+Traders must adhere to a strict 5% daily drawdown limit during the evaluation. The promotion does not alter this risk parameter.
+
+**How quickly do payouts occur in the funded stage?**
+
+The funded stage features a standard 14-day payout cycle.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
 - 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)
 - 2026-09-24 - [Funded Hero: 60% Off All Evaluation Accounts Plus BOGO](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) (60% Off)
 - 2026-09-20 - [Funded Hero 65% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) (65% Off)

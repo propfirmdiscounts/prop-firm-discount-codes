@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
 | 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
 | 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-18 | FundingTraders | FundingTraders World Cup Deal: 50% Off Challenges and 100% Profit Split | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-world-cup-50-off-deal-1/ |
 | 2026-07-17 | Finotive Funding | Finotive Funding 30% Off World Cup Deal: Evaluation Accounts Up to $200K | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-30-off-world-cup/ |
 | 2026-07-16 | BrightFunded | BrightFunded World Cup Promotion: 25% Off All Challenges | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-world-cup-promotion/ |
-| 2026-07-15 | WSFunded | WSFunded 50% Off Trading Challenges: World Cup Fee Savings with Unchanged Rules | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-world-cup-promotion/ |

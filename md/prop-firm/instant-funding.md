@@ -7,44 +7,45 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 - Code: AFFVOYAGE61
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-02
+- Last deal published: 2026-10-13
 - Trustpilot: 2.9/5 (4370 reviews)
 - Activate: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Instant Funding 40% Off Micro Lite Accounts Up to $25K
+## Current deal: Instant Funding: 35% Off Pro and Lite Evaluation Accounts
 
-- Published: 2026-10-02
-- Offer: 40% Off
-- Code: LITE40
-- Scope: Micro Lite, Up to $25K, Direct Funding
-- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/
+- Published: 2026-10-13
+- Offer: 35% Off
+- Code: PROLITE35
+- Scope: Instant Funding Pro, Instant Funding Lite
+- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/
 
 ## Instant Funding deal FAQ
 
-**What discount does Instant Funding offer in this promotion?**
+**Which account types receive the 35% discount during this Instant Funding sale?**
 
-The campaign provides a 40% cost reduction on the initial entry fee for specific account models.
+The discount strictly applies to the Instant Funding Pro and Instant Funding Lite evaluation models.
 
-**Which account sizes are eligible for this active discount?**
+**Does this promotion alter the daily drawdown limit on the Lite account?**
 
-The 40% reduction applies to the newly launched Micro Lite accounts up to the $25,000 tier.
+No, the promotional pricing does not modify any risk parameters. The Lite account retains its daily drawdown limits and overall rules.
 
-**Does this offer modify any trading rules?**
+**How long is this promotional pricing available?**
 
-No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+The sale is valid for three days and officially ends on Thursday, 15 October, at 23:59 UTC.
 
-**Are add-ons included in the reduced pricing?**
+**Are there any consistency rules applied to the Pro accounts under this offer?**
 
-No, optional features like the 90% profit split add-on are explicitly excluded from this discount.
+According to the firm's published information for this promotion, neither the Pro nor the Lite accounts carry a consistency rule.
 
-**What trading platforms are available for this Instant Funding account?**
+**Does this discount change the overall drawdown limits for Instant Funding accounts?**
 
-Traders can choose between MT5, Match Trader and cTrader platforms.
+No. The promotion affects purchase pricing only and does not modify trading rules, overall drawdown limits, or other risk parameters.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off)
 - 2026-10-02 - [Instant Funding 40% Off Micro Lite Accounts Up to $25K](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) (40% Off)
 - 2026-09-22 - [Instant Funding: 37.5% Off IF Micro Account Purchase Cost](https://propfirmdiscount.com/deals/instant-funding/instant-funding-37-5-percent-discount-if-micro/) (37% Off)
 - 2026-09-21 - [Instant Funding: 10% Off All Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-10-off-evolve-evaluations/) (10% Off)

@@ -1,46 +1,51 @@
 # Blueberry Funded Discount Code
 
-The newest Blueberry Funded discount code is **CLASSIC** — 30% off (October 9, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Blueberry Funded discount code is **SYN15** — 15% off (October 13, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
-- Last deal published: 2026-10-09
+- Last deal published: 2026-10-13
 - Trustpilot: 3.4/5 (1750 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-## Current deal: Blueberry Funded 1-Step Classic: 30% Off Entry Fees
+## Current deal: Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)
 
-- Published: 2026-10-09
-- Offer: 30% Off
-- Code: CLASSIC
-- Scope: 1-Step Classic, all account sizes
-- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/
+- Published: 2026-10-13
+- Offer: 15% Off
+- Code: SYN15
+- Scope: All Challenges, 2-Step, 1-Step, Instant Funding, $2.5K to $100K accounts, Synthetics
+- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/
 
 ## Blueberry Funded deal FAQ
 
-**What does the 1-Step Classic discount offer at Blueberry Funded?**
+**What discount does Blueberry Funded offer in this promotion?**
 
-The active promotion applies a 30% price reduction to the upfront entry fees for all 1-Step Classic evaluation accounts.
+The firm provides a 15% discount on the upfront cost of all new Synthetics challenges. This applies to account sizes from $2.5K up to $100K.
 
-**Are there time limits on the 1-Step Classic evaluation?**
+**Which account types are included in the synthetics launch deal?**
 
-No, according to the firm, the 1-Step Classic features no time limits and no minimum trading days and these parameters remain unchanged during the promotion.
+The discount covers the 2-Step Challenge, the 1-Step Challenge and the Instant Funding option. All of these models are specifically for the new synthetic indices market.
 
-**When does the One-Step Flash Sale conclude?**
+**What are the loss limits for the 1-Step Synthetics Challenge?**
 
-The discount window is active from Thursday and ends on Sunday at 23:59 UK Time.
+The 1-Step Challenge features a 4% daily loss limit and an 8% maximum loss limit. It requires an 8% profit target to pass.
 
-**Does the 30% discount apply to the Flex 1-Step model?**
+**Does this promotion change the rules for Instant Funding?**
 
-No, the 30% cost reduction is specifically tied to the traditional 1-Step Classic evaluations.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters for any account type.
 
-**Are the risk parameters easier with this active discount?**
+**How long is the 15% launch discount available?**
 
-No, the promotion only reduces the challenge pricing. The one-phase evaluation criteria, profit targets and drawdown limits do not change.
+The promotion is valid until Tuesday, 20 October.
+
+**What profit split comes with the Blueberry Funded Synthetics accounts?**
+
+According to the firm's published information, every synthetics plan comes with an 80% profit split.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-13 - [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) (15% Off)
 - 2026-10-09 - [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) (30% Off)
 - 2026-10-09 - [Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/) (35% Off)
 - 2026-10-01 - [Blueberry Funded 35% Off Prime Challenge and Second Account](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/) (35% Off)
