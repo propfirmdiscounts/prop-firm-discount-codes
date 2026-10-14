@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split** from TX3 Funding — 25% off (published 2026-10-13). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund** from AquaFunded — 25% off (published 2026-10-14). Codes and live offers below, newest first.
 
 Top live offers now:
+- AquaFunded — AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund (25% Off)
 - TX3 Funding — TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split (25% Off)
 - Blue Guardian — Blue Guardian: 35% Off All Accounts Plus 200% Refund (35% Off)
-- FundingTraders — FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween (90% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
 | 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-29 | FTUK | FTUK — Halloween Slasher Sale: 50% OFF All Accounts (24 Hours Only) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-slasher-sale-50-off-24-hours/ |
 | 2025-10-29 | FundedNext | FundedNext — Halloween BOGO Treat: Buy One Stellar Plan, Get One Free (72 Hours, Ends Oct 31, 8:59 PM GMT+3) | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-bogo-72h-ends-oct-31-2025/ |
 | 2025-10-29 | Forex Funds Flow | Forex Funds Flow Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/ |
-| 2025-10-28 | thePropTrade | thePropTrade — Halloween: 20% OFF All Challenges + Live Raffle ($300 USDT + 10× $10K Accounts) | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-raffle-300-usdt-10x-10k-accounts/ |

@@ -7,39 +7,44 @@ The verified Hantec Trader discount code is **A2dmq73g8** — Up to 5% off, work
 - Code: A2dmq73g8
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-09-29
+- Last deal published: 2026-10-14
 - Trustpilot: 4.3/5 (837 reviews)
 - Activate: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Hantec Trader 50% Off Evaluation Challenge Pricing
+## Current deal: Hantec Trader 35% Off Eligible Challenge Pricing
 
-- Published: 2026-09-29
-- Offer: 50% Off
-- Code: DROP50
-- Scope: All eligible Challenges, Instant24 excluded, maximum 2 uses per user
-- Deal page: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/
+- Published: 2026-10-14
+- Offer: 35% Off
+- Code: REACT35
+- Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
+- Deal page: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
 
 ## Hantec Trader deal FAQ
 
-**What discount does Hantec Trader offer in this promotion?**
+**What does the current Hantec Trader promotion provide?**
 
-This active promotion reduces the upfront purchase price of eligible evaluation challenges by 50%. It strictly affects the entry cost and does not alter any trading rules.
+The promotion provides a 35% discount on the initial purchase price of eligible evaluation challenges. It strictly lowers the entry fee without changing any trading rules or drawdown limits.
 
-**Are there any account types excluded from this Hantec Trader deal?**
+**Are there any account models excluded from this offer?**
 
-Yes. The Instant24 account type is explicitly excluded from the 50% fee reduction. All other eligible challenges qualify.
+Yes. The 35% discount explicitly excludes the Instant24 and EnhancedX challenge models.
 
-**How many times can a trader use this discount?**
+**When does this Hantec Trader discount expire?**
 
-Hantec Trader limits this promotion to exactly two uses per user.
+The promotion runs for exactly 48 hours. It begins on 14 October at 07:00 UTC and ends on 16 October at 07:00 UTC.
 
-**When does this 50% off promotion expire?**
+**Does this discount modify the challenge risk parameters?**
 
-The discount window strictly closes on October 1, 2026, at 23:59 UTC.
+No. The promotion affects the purchase pricing only and does not modify the evaluation criteria, risk rules, or drawdown parameters.
+
+**How do I access the reduced pricing?**
+
+You can access the 35% discount by applying the active promotion code at checkout before the 48-hour window closes.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-14 - [Hantec Trader 35% Off Eligible Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/) (35% Off)
 - 2026-09-29 - [Hantec Trader 50% Off Evaluation Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/) (50% Off)
 - 2026-09-16 - [Hantec Trader 35% Off First Evaluation Challenge](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-first-challenge/) (35% Off)
