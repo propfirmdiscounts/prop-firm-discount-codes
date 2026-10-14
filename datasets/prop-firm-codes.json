@@ -375,7 +375,7 @@
         },
         {
             "prop_firm": "HyroTrader",
-            "code": "PFDC",
+            "code": "PFD",
             "discount": "5%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",

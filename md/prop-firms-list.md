@@ -37,7 +37,7 @@
 | FundingTraders | PFD | 90% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-29 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
-| HyroTrader | PFDC | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+| HyroTrader | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-05-18 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
