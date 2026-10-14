@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount tracks 45 prop firms with a verified discount code live this month. The highest offer is Bulenox code PFD for 91%. 23 of these are exclusive codes checked by our team that work any time; the rest are campaign codes that expire.
+As of October 2026, PropFirmDiscount tracks 46 prop firms with a verified discount code live this month. The highest offer is Bulenox code PFD for 91%. 24 of these are exclusive codes checked by our team that work any time; the rest are campaign codes that expire.
 
 | # | Prop firm | Discount code | Discount | Type | Checked |
 |---|---|---|---|---|---|
@@ -10,14 +10,14 @@ As of October 2026, PropFirmDiscount tracks 45 prop firms with a verified discou
 | 2 | FundingTraders | PFD | 90% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 3 | Phidias Propfirm | PFD | 85% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | Elite Trader Funding | 20BACK | 85% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 5 | Funded Hero | PFD | 70% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 6 | Purdia Capital | STATIC70 | 70% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 7 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 8 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 9 | WSFunded | HISPANIC60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 10 | TradeDay | FLASH | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
-| 11 | FundYourFX | OCTA60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 12 | RebelsFunding | JUST29 | 59% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 5 | RebelsFunding | SEVEN | 73% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 6 | Funded Hero | PFD | 70% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 7 | Purdia Capital | STATIC70 | 70% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 8 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 9 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 10 | WSFunded | HISPANIC60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 11 | TradeDay | FLASH | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
+| 12 | FundYourFX | OCTA60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 13 | Titan Capital | T55 | 55% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
 | 14 | Direct Funded Trader | PFD | 50% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | 15 | E8 Markets | CHUN | 50% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
@@ -51,6 +51,7 @@ As of October 2026, PropFirmDiscount tracks 45 prop firms with a verified discou
 | 43 | Instant Funding | AFFVOYAGE61 | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 44 | Fundex | PFD | 5% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | 45 | Dominion Funding | PFD5PC | 5% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 46 | Funding Your Trades | PFD | 2% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 
 Ranked highest discount first. "Exclusive Code" is a code the PropFirmDiscount team has verified to work any time. "Campaign Code" is a firm's own promotion, live this month but set to expire. Discounts are the maximum each firm advertises - exact % depends on the account and program.
 
