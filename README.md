@@ -49,7 +49,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-14T18:48:50Z (auto, hourly)
+Last synced: 2026-10-14T22:29:49Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
