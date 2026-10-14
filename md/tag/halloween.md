@@ -1,16 +1,19 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund** from AquaFunded — 25% off (published 2026-10-14). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Hola Prime: 20% Off Next $5K–$200K Account for Existing Users** from Hola Prime — 20% off (published 2026-10-14). Codes and live offers below, newest first.
 
 Top live offers now:
-- AquaFunded — AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund (25% Off)
-- TX3 Funding — TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split (25% Off)
-- Blue Guardian — Blue Guardian: 35% Off All Accounts Plus 200% Refund (35% Off)
+- Hola Prime — Hola Prime: 20% Off Next $5K–$200K Account for Existing Users (20% Off)
+- Hola Prime — Hola Prime: 40% Off First-Time $5K–$200K Account Purchases (40% Off)
+- Alpha Trader Firm — Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 (Only $199)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
+| 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
+| 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
@@ -38,6 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-29 | ATFunded | ATFunded — Halloween: 15% OFF 2-Step Challenge (Ends Oct 31) | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atfunded/atfunded-halloween-15-off-2-step-challenge-ends-oct-31/ |
 | 2025-10-29 | WSFunded | Wall Street Funded — Halloween: 2×1 (Free Account After First Withdrawal) + 30% OFF | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wall-street-funded-halloween-30-off-2x1-free-after-first-withdrawal/ |
 | 2025-10-29 | Upcomers | Upcomers — Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) | 90% OFF | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/ |
-| 2025-10-29 | FTUK | FTUK — Halloween Slasher Sale: 50% OFF All Accounts (24 Hours Only) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-slasher-sale-50-off-24-hours/ |
-| 2025-10-29 | FundedNext | FundedNext — Halloween BOGO Treat: Buy One Stellar Plan, Get One Free (72 Hours, Ends Oct 31, 8:59 PM GMT+3) | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-bogo-72h-ends-oct-31-2025/ |
-| 2025-10-29 | Forex Funds Flow | Forex Funds Flow Halloween: 20% OFF All Plans + $39 Instant Account Entry | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-halloween-20-off-instant-account-39/ |

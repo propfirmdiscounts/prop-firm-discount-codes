@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
+| 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
+| 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |

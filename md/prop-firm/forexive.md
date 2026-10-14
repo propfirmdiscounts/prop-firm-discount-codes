@@ -7,42 +7,43 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works a
 - Code: WHCTXQHRIG
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-09-30
+- Last deal published: 2026-10-14
 - Trustpilot: 3.7/5 (108 reviews)
 - Activate: https://propfirmdiscount.com/go/forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Forexive 30% Off All Challenge Accounts
+## Current deal: Forexive 30% Off All Trading Challenges
 
-- Published: 2026-09-30
+- Published: 2026-10-14
 - Offer: 30% Off
-- Code: FOREXIVE2YEARS
-- Scope: All challenge accounts
-- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/
+- Code: GET30
+- Scope: All challenges, all account sizes, limited time
+- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/
 
 ## Forexive deal FAQ
 
-**What discount does Forexive offer in this promotion?**
+**What discount does Forexive offer to celebrate its new chapter?**
 
-The firm offers a 30% reduction on the upfront entry cost for all evaluation accounts to celebrate its 2-year anniversary.
+Forexive offers a 30% discount on the initial purchase price for all evaluation challenges.
 
-**Does the anniversary deal change any trading rules?**
+**Does this promotion change the trading rules at Forexive?**
 
-No, the promotion only lowers the challenge pricing. Drawdown limits, trading rules and evaluation criteria remain exactly the same.
+No, this limited-time offer only reduces the upfront entry fee. All drawdown limits, profit targets and trading rules remain completely unchanged.
 
 **Which account sizes are eligible for the 30% discount?**
 
-The price reduction applies to all challenge accounts currently offered by the firm.
+The 30% discount applies to every evaluation challenge account offered by Forexive.
 
-**Does Forexive have a working discount code?**
+**Is there an expiration date for this Forexive offer?**
 
-Yes, traders can check the site's exclusive code, WHCTXQHRIG, which remains active and may occasionally offer the highest available rate at checkout.
+The promotion is available for a limited time to celebrate their new chapter.
 
-**How do I activate the 30% entry fee reduction?**
+**Who might benefit from this reduced entry fee?**
 
-You can activate the savings by applying the active promotion during checkout on the official site.
+This pricing structure may suit traders who are looking to secure their preferred evaluation account size at a lower upfront cost.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-14 - [Forexive 30% Off All Trading Challenges](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) (30% Off)
 - 2026-09-30 - [Forexive 30% Off All Challenge Accounts](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) (30% Off)

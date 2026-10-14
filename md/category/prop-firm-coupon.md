@@ -6,6 +6,14 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
+| 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
+| 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
+| 2026-10-14 | CK Capital | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
+| 2026-10-14 | Elite Trader Funding | Elite Trader Funding: $27 Evaluation Resets | 42% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-27-eval-resets/ |
+| 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
+| 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
+| 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-14 | Funded Trading Plus (FT+) | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-14 | Funded Elite | Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts | 47% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/ |

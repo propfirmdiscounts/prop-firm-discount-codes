@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-14 | CK Capital | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
+| 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
 | 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
 | 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-08 | Alpha Trader Firm | Alpha Trader Firm Buy Two $300K Or $400K Challenges Get A Free $100K Account | BOGO | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-buy-two-300k-400k-free-100k/ |
 | 2026-06-05 | The Trading Pit | The Trading Pit 50% Off 5K Evaluation Accounts | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-50-discount-5k-accounts/ |
 | 2026-06-03 | Funded Trader Markets | Funded Trader Markets: 75% Off 2 Step Plus 5K–50K Evaluations | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-75-off-2-step-plus-deal/ |
-| 2026-06-03 | FundedNext | FundedNext 2 Minimum Trading Days Modification on Stellar Accounts | 2 Minimum Trading Days | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-2-minimum-trading-days-deal/ |
-| 2026-06-03 | Alpha Trader Firm | Alpha Trader Firm 50% Off Futures Accounts and Evaluation Pricing | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-50-off-futures-deal/ |
