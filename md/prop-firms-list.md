@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-49 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+48 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -19,10 +19,9 @@
 | E8 Markets | CHUN | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-08-03 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
-| FXIFY | FXIFY2WRIVW | 10% | 2026-01-01 | 2026-12-31 | 2026-10-03 | https://propfirmdiscount.com/prop-firm/fxify/ |
+| FXIFY | FXIFY2WRIVW | 10% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | Finotive Futures | PFDDEAL | 25% | 2026-01-01 | 2026-12-31 | 2026-10-02 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
-| Fintokei | THODO5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/fintokei/ |
 | For Traders | VGYCKXLTY9 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/forexive/ |
@@ -41,7 +40,7 @@
 | Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-05-18 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
+| Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |

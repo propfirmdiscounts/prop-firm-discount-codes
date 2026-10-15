@@ -1,46 +1,47 @@
 # Ment Funding Discount Code
 
-The newest Ment Funding discount code is **MENT50** — 50% off (October 9, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Ment Funding discount code is **MENT50** — 50% off (October 15, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
-- Last deal published: 2026-10-09
+- Last deal published: 2026-10-15
 - Trustpilot: 4.7/5 (232 reviews)
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 
-## Current deal: Ment Funding 50% Off PropX and 40% Off Alternative Platforms
+## Current deal: Ment Funding 50% Off PropX Accounts Up to $100K
 
-- Published: 2026-10-09
+- Published: 2026-10-15
 - Offer: 50% Off
 - Code: MENT50
-- Scope: PropX, DXtrade, cTrader, Match-Trader, Rithmic, Forex, Equities, Futures
-- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/
+- Scope: PropX Platform, Up to $100K, All Other Platforms, One-Step Evaluations
+- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/
 
 ## Ment Funding deal FAQ
 
-**What discount does Ment Funding offer on the PropX platform?**
+**What discount does Ment Funding provide in this promotion?**
 
-Traders receive a 50% reduction on the initial purchase price for PropX platform evaluations. This applies to account sizes up to $100K.
+Ment Funding reduces the entry cost of PropX evaluations up to $100K by 50%. All other platforms and larger account sizes receive a 40% discount.
 
-**Are there size limits for the half-price forex and equities accounts?**
+**Does this offer change the one-step evaluation rules?**
 
-Yes. The 50% discount applies to forex accounts between $25K and $100K. Equities accounts are eligible between $5K and $100K.
+No. The promotion only reduces the upfront challenge cost and leaves the single-step evaluation requirements and trading parameters completely unchanged.
 
-**What platforms qualify for the 40% discount at Ment Funding?**
+**When does this promotional rate expire?**
 
-The 40% cost reduction applies to evaluations on DXtrade, cTrader, Match-Trader and Rithmic. These platforms allow for account sizes up to $2M, with futures capped at $400K.
+The discount window is strictly valid until October 25.
 
-**Does this promotion change the drawdown limits at Ment Funding?**
+**Are payout timelines affected by the reduced entry fee?**
 
-No. The active discount only affects the upfront fee required to start the evaluation. All trading parameters, risk constraints and drawdown rules remain exactly the same.
+Payout schedules remain exactly as standard. Ment Funding maintains its 24 to 48-hour payout processing timeline for funded participants who enter under this promotion.
 
-**When does this Ment Funding discount expire?**
+**Can I get the 50% rate on a $200K PropX account?**
 
-The promotion is explicitly valid until October 25.
+No. The 50% rate is strictly capped at PropX accounts up to $100K. Any account above that size will receive the 40% discount instead.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-15 - [Ment Funding 50% Off PropX Accounts Up to $100K](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/) (50% Off)
 - 2026-10-09 - [Ment Funding 50% Off PropX and 40% Off Alternative Platforms](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/) (50% Off)
 - 2026-10-08 - [Ment Funding 50% Off PropX and 40% Off Alternative Evaluations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-and-40-off-alternatives/) (50% Off)
 - 2026-09-28 - [Ment Funding 25% Off Evaluation Accounts: Entry Cost Reduction](https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-discount-september-30/) (25% Off)

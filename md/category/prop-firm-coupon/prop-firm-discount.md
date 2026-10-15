@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
+| 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80 | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/ |
 | 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
 | 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
 | 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
 | 2026-10-12 | FundYourFX | FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus | 55% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/ |
 | 2026-10-12 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Evaluation Accounts | 85% OFF | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/ |
-| 2026-10-11 | FundYourFX | FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus | 55% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/ |
-| 2026-10-09 | Fundex | Fundex 20% Off 1-Step Evaluation Accounts | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |
-| 2026-10-09 | FTUK | FTUK 50% Off Futures Accounts for WealthCharts Launch | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-futures-wealthcharts-launch/ |

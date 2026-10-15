@@ -40,6 +40,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
+| 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80 | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/ |
 | 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
 | 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
 | 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
@@ -67,6 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-12 | FundedNext | FundedNext October Promotion: Stellar Accounts Starting at $29.99 | 32% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/ |
 | 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
 | 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
-| 2026-10-12 | FundYourFX | FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus | 55% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/ |
-| 2026-10-12 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Evaluation Accounts | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/ |
-| 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |

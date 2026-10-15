@@ -3,7 +3,7 @@
 The newest FundYourFX discount code is **CASH55** — 55% off (October 12, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-12
-- Trustpilot: 3.7/5 (924 reviews)
+- Trustpilot: 3.7/5 (923 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 

@@ -3,7 +3,7 @@
 The newest IC Funded discount code is **SCALE30** — 30% off (October 6, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-06
-- Trustpilot: 3.3/5 (173 reviews)
+- Trustpilot: 3.4/5 (175 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 

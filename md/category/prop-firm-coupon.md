@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
+| 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80 | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/ |
 | 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
 | 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
 | 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |

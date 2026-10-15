@@ -2,7 +2,7 @@
     "dataset": "prop firm discount codes",
     "publisher": "propfirmdiscount.com",
     "schema": "coupon_dataset_v2",
-    "count": 49,
+    "count": 48,
     "data": [
         {
             "prop_firm": "Finotive Funding",
@@ -14,7 +14,7 @@
             "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/finotive-funding/",
             "trustpilot_score": 3.2,
-            "trustpilot_reviews": 1074,
+            "trustpilot_reviews": 1072,
             "description": "Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.\nWe provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.\nOur mission is simple \u2014 to build the fairest, most transparent, and most flexible funding model in the industry.\nWith static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we\u2019ve redefined what traders can expect from a prop firm.\nSince 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support.\nEvery account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success.\nTrade fairly. Trade freely. Trade Finotive.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/finotive_funding_logo.jpg"
         },
@@ -28,7 +28,7 @@
             "activation_link": "https://propfirmdiscount.com/go/e8funding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
             "trustpilot_score": 4.1,
-            "trustpilot_reviews": 3301,
+            "trustpilot_reviews": 3307,
             "description": "E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live\u2011fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters\u2014your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof \u2192 payout.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/e8-markets-logo-1.jpg"
         },
@@ -41,8 +41,8 @@
             "last_deal_published": "2026-10-01",
             "activation_link": "https://propfirmdiscount.com/go/qtfunded",
             "archive_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
-            "trustpilot_score": 3.6,
-            "trustpilot_reviews": 13320,
+            "trustpilot_score": 3.5,
+            "trustpilot_reviews": 13331,
             "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/qtfunded-logo.jpg"
         },
@@ -55,8 +55,8 @@
             "last_deal_published": "2026-09-06",
             "activation_link": "https://propfirmdiscount.com/go/ckcapital",
             "archive_url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
-            "trustpilot_score": 3.1,
-            "trustpilot_reviews": 423,
+            "trustpilot_score": 3,
+            "trustpilot_reviews": 422,
             "description": "CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.\nWe offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.\nTraders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance.\nAt CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/ckcapital-logo.jpg"
         },
@@ -69,8 +69,8 @@
             "last_deal_published": "2026-10-14",
             "activation_link": "https://propfirmdiscount.com/go/forexive",
             "archive_url": "https://propfirmdiscount.com/prop-firm/forexive/",
-            "trustpilot_score": 3.7,
-            "trustpilot_reviews": 108,
+            "trustpilot_score": 3.8,
+            "trustpilot_reviews": 111,
             "description": "FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/forexive-logo.jpg"
         },
@@ -84,7 +84,7 @@
             "activation_link": "https://propfirmdiscount.com/go/fundedelite",
             "archive_url": "https://propfirmdiscount.com/prop-firm/funded-elite/",
             "trustpilot_score": 4.2,
-            "trustpilot_reviews": 747,
+            "trustpilot_reviews": 745,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funded-elite-logo.jpg"
         },
         {
@@ -96,7 +96,7 @@
             "last_deal_published": "2026-10-13",
             "activation_link": "https://propfirmdiscount.com/go/tx3funding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/tx3-funding/",
-            "trustpilot_score": 3,
+            "trustpilot_score": 3.1,
             "trustpilot_reviews": 4323,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/TX3-Funding-logo-2.jpg"
         },
@@ -120,8 +120,8 @@
             "last_deal_published": "2026-10-01",
             "activation_link": "https://propfirmdiscount.com/go/earn2trade",
             "archive_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
-            "trustpilot_score": 4.6,
-            "trustpilot_reviews": 5014,
+            "trustpilot_score": 4.5,
+            "trustpilot_reviews": 5019,
             "description": "Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Earn2Trade-logo.jpg"
         },
@@ -163,7 +163,7 @@
             "activation_link": "https://propfirmdiscount.com/go/fortraders",
             "archive_url": "https://propfirmdiscount.com/prop-firm/fortraders/",
             "trustpilot_score": 4,
-            "trustpilot_reviews": 1785,
+            "trustpilot_reviews": 1795,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/fortraders-logo-2.jpg"
         },
         {
@@ -179,20 +179,6 @@
             "trustpilot_reviews": 292,
             "description": "Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Dominion-Funding-logo.jpg"
-        },
-        {
-            "prop_firm": "Fintokei",
-            "code": "THODO5",
-            "discount": "5%",
-            "valid_from": "2026-01-01",
-            "valid_until": "2026-12-31",
-            "last_deal_published": "2026-09-15",
-            "activation_link": "https://propfirmdiscount.com/go/fintokei",
-            "archive_url": "https://propfirmdiscount.com/prop-firm/fintokei/",
-            "trustpilot_score": 4.3,
-            "trustpilot_reviews": 1395,
-            "description": "Fintokei stands as the leading modern proprietary trading firm in Japan, driven by global ambitions. We are dedicated to educating and empowering ambitious and focused traders, rewarding their hard work with well-capitalized trading accounts via our ProTrader and SwiftTrader programs.",
-            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/fintokei_logo_2-min.jpg"
         },
         {
             "prop_firm": "BullRush Prop",
@@ -218,7 +204,7 @@
             "activation_link": "https://propfirmdiscount.com/go/cryptofundtrader",
             "archive_url": "https://propfirmdiscount.com/prop-firm/crypto-fund-trader/",
             "trustpilot_score": 4.2,
-            "trustpilot_reviews": 1101,
+            "trustpilot_reviews": 1100,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2024/11/Crypto-Fund-Trader-Logo_2-min.jpg"
         },
         {
@@ -231,7 +217,7 @@
             "activation_link": "https://propfirmdiscount.com/go/instantfunding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/instant-funding/",
             "trustpilot_score": 2.9,
-            "trustpilot_reviews": 4370,
+            "trustpilot_reviews": 4368,
             "description": "Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.\nBy skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/instantfunding_logo_2.jpg"
         },
@@ -245,7 +231,7 @@
             "activation_link": "https://propfirmdiscount.com/go/blueguardian",
             "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian/",
             "trustpilot_score": 3.3,
-            "trustpilot_reviews": 2112,
+            "trustpilot_reviews": 2111,
             "description": "At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.\nTherefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/Blue-Guardian-Logo-2.jpg"
         },
@@ -259,7 +245,7 @@
             "activation_link": "https://propfirmdiscount.com/go/hantectrader",
             "archive_url": "https://propfirmdiscount.com/prop-firm/hantec-trader/",
             "trustpilot_score": 4.3,
-            "trustpilot_reviews": 837,
+            "trustpilot_reviews": 844,
             "description": "Hantec Trader provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our Express, Enhanced, and Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits. We are part of the Hantec Global group, a trusted name in the financial industry with over 35 years of experience.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Hantec-Trader-logo.jpg"
         },
@@ -273,7 +259,7 @@
             "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
             "archive_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
             "trustpilot_score": 4.4,
-            "trustpilot_reviews": 6735,
+            "trustpilot_reviews": 7032,
             "description": "Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading\u2019s goal is to provide a clear path forward through all these phases.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/lucidtrading-logo-2.jpg"
         },
@@ -287,7 +273,7 @@
             "activation_link": "https://propfirmdiscount.com/go/alphafutures",
             "archive_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
             "trustpilot_score": 4.4,
-            "trustpilot_reviews": 6135,
+            "trustpilot_reviews": 6159,
             "description": "At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.\nWe prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.\nJoin Alpha Futures today and unlock your full trading potential!",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Alpha-Futures-logo-2.jpg"
         },
@@ -301,8 +287,8 @@
             "activation_link": "https://propfirmdiscount.com/go/aquafunded",
             "archive_url": "https://propfirmdiscount.com/prop-firm/aquafunded/",
             "trustpilot_score": 2.2,
-            "trustpilot_reviews": 1205,
-            "description": "At AquaFunds, we\u2019re more than just a prop firm, we\u2019re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let\u2019s forge a path to lasting financial success.",
+            "trustpilot_reviews": 1207,
+            "description": "At AquaFunded, we\u2019re more than just a prop firm, we\u2019re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let\u2019s forge a path to lasting financial success",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/AquaFunded-logo.jpg"
         },
         {
@@ -315,7 +301,7 @@
             "activation_link": "https://propfirmdiscount.com/go/the5ers",
             "archive_url": "https://propfirmdiscount.com/prop-firm/the5ers/",
             "trustpilot_score": 4.7,
-            "trustpilot_reviews": 39724,
+            "trustpilot_reviews": 39883,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/the5ers_log.png"
         },
         {
@@ -328,7 +314,7 @@
             "activation_link": "https://propfirmdiscount.com/go/equityedge",
             "archive_url": "https://propfirmdiscount.com/prop-firm/equity-edge/",
             "trustpilot_score": 4.2,
-            "trustpilot_reviews": 2409,
+            "trustpilot_reviews": 2466,
             "description": "Equity Edge Ltd., proudly based in Saint Lucia, is a dynamic prop trading firm dedicated to empowering traders with the virtual capital, tools, and insights they need to thrive in today\u2019s fast-paced markets. Established with a vision to democratize trading, we provide access to simulated accounts ranging from $2,500 to $100,000, enabling our community to test strategies and maximize profits without personal financial risk. Our innovative platform, backed by cutting-edge technology, supports real-time data analysis and seamless execution, making us a go-to choice for serious traders.\nWhat sets us apart is our strategic partnership with top social media influencers, who bring market trends and opportunities directly to our audience. Through engaging content on X, Instagram, TikTok, YouTube, and beyond, our affiliates amplify our reach, connecting with a global network of aspiring traders. We foster a transparent, trader-first culture, ensuring clear communication and fair practices\u2014our commitment to integrity is at the heart of every deal.\nJoin our growing community, where collaboration meets opportunity. Whether you\u2019re scaling your trading career or exploring new revenue streams as an influencer, Equity Edge Ltd. offers the resources and support to succeed. With a team passionate about financial empowerment, we\u2019re here to help you elevate your game. Discover the edge today and see why traders trust us to shape their future. Have questions? Our support team is ready to assist via email, live chat or Discord. Let\u2019s build your success together!",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/equityedge_logo_1.jpg"
         },
@@ -342,7 +328,7 @@
             "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
             "archive_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
             "trustpilot_score": 3.9,
-            "trustpilot_reviews": 2357,
+            "trustpilot_reviews": 2355,
             "description": "Best Funded Trader &amp; Online Forex Education Provider 2024. | Trustpilot Notice: Why you see a warning on our page: https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ | Trader Reviews: Check our official ratings on FxVerify: https://fxverify.com/prop-firms/wemastertrade-review-4594 | WeMasterTrade provides funded trading accounts and professional tools for long-term trader success in a transparent environment.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/01/WeMasterTrade-logo.jpg"
         },
@@ -356,7 +342,7 @@
             "activation_link": "https://propfirmdiscount.com/go/directfundedtrader",
             "archive_url": "https://propfirmdiscount.com/prop-firm/direct-funded-trader/",
             "trustpilot_score": 2.7,
-            "trustpilot_reviews": 243,
+            "trustpilot_reviews": 245,
             "description": "Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/Direct-Funded-Trader-logo.jpg"
         },
@@ -370,7 +356,7 @@
             "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
             "archive_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
             "trustpilot_score": 3.1,
-            "trustpilot_reviews": 339,
+            "trustpilot_reviews": 340,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/phidias-prop-firm-logo-2.jpg"
         },
         {
@@ -396,7 +382,7 @@
             "activation_link": "https://propfirmdiscount.com/go/bulenox",
             "archive_url": "https://propfirmdiscount.com/prop-firm/bulenox/",
             "trustpilot_score": 4.7,
-            "trustpilot_reviews": 1817,
+            "trustpilot_reviews": 1814,
             "description": "Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/Bulenox-logo-2.jpg"
         },
@@ -406,11 +392,11 @@
             "discount": "20%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-07",
+            "last_deal_published": "2026-10-15",
             "activation_link": "https://propfirmdiscount.com/go/phoenixtraderfunding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/",
             "trustpilot_score": 4.5,
-            "trustpilot_reviews": 256,
+            "trustpilot_reviews": 258,
             "description": "We provide traders with capital under the guise of a test to demonstrate their trading skills.\nOur goal is to be the best prop firm worldwide, so feel free to leave a positive or negative review whether or not you're satisfied with our service",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/Phoenix-Trader-Funding-logo.jpg"
         },
@@ -437,7 +423,7 @@
             "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
             "archive_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/",
             "trustpilot_score": 4.1,
-            "trustpilot_reviews": 2672,
+            "trustpilot_reviews": 2674,
             "description": "The Most Trusted Prop Firm in the Industry Since 2021\nWith 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we\u2019re committed to supporting you at every stage.\nWe offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed!\nGet started on your funding here:\nhttps://www.fundedtradingplus.com/\nFor any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at\nsimon@fundedtradingplus.com",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2022/08/fundedtradingplus-logo.png"
         },
@@ -493,7 +479,7 @@
             "activation_link": "https://propfirmdiscount.com/go/forexfundsflow",
             "archive_url": "https://propfirmdiscount.com/prop-firm/forex-funds-flow/",
             "trustpilot_score": 3.6,
-            "trustpilot_reviews": 266,
+            "trustpilot_reviews": 265,
             "description": "Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000.\nOur mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style.\nWith advanced account analytics, educational resources, and dedicated trader support, we're here to guide you every step of the way toward achieving consistency, growth, and long-term success as a funded trader.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Forex-Funds-Flow-logo.jpg"
         },
@@ -503,11 +489,11 @@
             "discount": "10%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-03",
+            "last_deal_published": "2026-10-15",
             "activation_link": "https://propfirmdiscount.com/go/fxify",
             "archive_url": "https://propfirmdiscount.com/prop-firm/fxify/",
             "trustpilot_score": 4.3,
-            "trustpilot_reviews": 6419,
+            "trustpilot_reviews": 6442,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/FXIFY-logo-2.jpg"
         },
         {
@@ -546,8 +532,8 @@
             "last_deal_published": "2026-09-28",
             "activation_link": "https://propfirmdiscount.com/go/pipfarm",
             "archive_url": "https://propfirmdiscount.com/prop-firm/pipfarm/",
-            "trustpilot_score": 3.5,
-            "trustpilot_reviews": 342,
+            "trustpilot_score": 3.6,
+            "trustpilot_reviews": 344,
             "description": "Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/PipFarm-logo.jpg"
         },
@@ -561,7 +547,7 @@
             "activation_link": "https://propfirmdiscount.com/go/toponefutures",
             "archive_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
             "trustpilot_score": 4.8,
-            "trustpilot_reviews": 5112,
+            "trustpilot_reviews": 5149,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Top-One-Futures-logo.jpg"
         },
         {
@@ -588,7 +574,7 @@
             "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
             "archive_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
             "trustpilot_score": 3.2,
-            "trustpilot_reviews": 3279,
+            "trustpilot_reviews": 3282,
             "description": "FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.\nLed by a veteran Wall Street Trader.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funding-traders-logo_2.jpg"
         },
@@ -602,7 +588,7 @@
             "activation_link": "https://propfirmdiscount.com/go/goatfunded",
             "archive_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
             "trustpilot_score": 2.1,
-            "trustpilot_reviews": 4350,
+            "trustpilot_reviews": 4344,
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Goat-Funded-Trader-logo.jpg"
         },
         {
@@ -615,7 +601,7 @@
             "activation_link": "https://propfirmdiscount.com/go/tradethepool",
             "archive_url": "https://propfirmdiscount.com/prop-firm/trade-the-pool/",
             "trustpilot_score": 4.5,
-            "trustpilot_reviews": 896,
+            "trustpilot_reviews": 905,
             "description": "Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.\nOur experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.\nA similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Trade-The-Pool-logo.jpg"
         },
@@ -643,7 +629,7 @@
             "activation_link": "https://propfirmdiscount.com/go/fundedhero",
             "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero/",
             "trustpilot_score": 4,
-            "trustpilot_reviews": 434,
+            "trustpilot_reviews": 436,
             "description": "At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.\nGetting started with us is simple. We\u2019ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.\nOur platform is built with you in mind, featuring powerful tools like a lot size calculator and a P&amp;L calendar to help you trade smarter. And if issues arise such as payment concerns our support team is here to resolve them efficiently, because your trust is our top priority.\nWe\u2019re more than just a prop firm we\u2019re your partner in trading success. At FundedHero, we\u2019re committed to helping you reach your goals with fairness, speed, and a personal touch.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_logo_2.jpg"
         },
@@ -656,8 +642,8 @@
             "last_deal_published": "2026-09-25",
             "activation_link": "https://propfirmdiscount.com/go/fundedherofutures",
             "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero-futures/",
-            "trustpilot_score": 4.4,
-            "trustpilot_reviews": 17,
+            "trustpilot_score": 4.3,
+            "trustpilot_reviews": 18,
             "description": "FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.\nHow it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.\nOur programs:\n- Hero ZERO - available as a 1-Step or 2-Step evaluation\n- Hero ONE - available as a 1-Step or 2-Step evaluation\n- Hero Live - one clear rule set\nTrade your way: accounts run on Volumetrica and can also be traded through TradingView, so you can use the charts and tools you already know.\nSupport that shows up: reach our team through live chat on fundedherofutures.com or join the FundedHero Futures community on Discord to connect with other traders, get updates and ask questions.\nFundedHero Futures is part of the FundedHero family. Whether you are taking your first evaluation or scaling up, our goal is to give futures traders a fair, transparent path to funding.\nWe read every review on Trustpilot. If you have traded with us, we would love to hear about your experience - good or bad - so we can keep improving.\nVisit fundedherofutures.com to see current plans and pricing.",
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_futures_logo_2.jpg"
         },

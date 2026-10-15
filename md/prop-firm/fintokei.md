@@ -1,17 +1,13 @@
 # Fintokei Discount Code
 
-The verified Fintokei discount code is **THODO5** — Up to 5% off, works any time.
+The newest Fintokei discount code is **NEW20** — 20% off (September 5, 2025). The live campaign code changes with each promotion; newest first below.
 
 > Fintokei stands as the leading modern proprietary trading firm in Japan, driven by global ambitions. We are dedicated to educating and empowering ambitious and focused traders, rewarding their hard work with well-capitalized trading accounts via our ProTrader and SwiftTrader programs.
 
-- Code: THODO5
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-09-17
-- Trustpilot: 4.3/5 (1395 reviews)
+- Trustpilot: 4.3/5 (1397 reviews)
 - Activate: https://propfirmdiscount.com/go/fintokei
 - Firm page: https://propfirmdiscount.com/prop-firm/fintokei/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deal: Fintokei Discount Code: Save 20% on All Challenges
 
