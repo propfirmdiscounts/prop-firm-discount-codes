@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | For Traders | For Traders: 50% Off All Forex Instant Master Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/ |
 | 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
 | 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80 | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/ |
