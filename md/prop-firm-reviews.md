@@ -53,7 +53,7 @@
 | 47 | Darwinex Zero | 4.2 | 354 | https://propfirmdiscount.com/prop-firm/darwinex-zero/ |
 | 48 | BullRush Prop | 4.2 | 82 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | 49 | E8 Markets | 4.1 | 3307 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 50 | Funded Trading Plus (FT+) | 4.1 | 2674 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 50 | Funded Trading Plus | 4.1 | 2674 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 51 | FX2 Funding | 4.1 | 456 | https://propfirmdiscount.com/prop-firm/fx2-funding/ |
 | 52 | Trading Funds | 4.1 | 355 | https://propfirmdiscount.com/prop-firm/tradingfunds/ |
 | 53 | For Traders | 4 | 1795 | https://propfirmdiscount.com/prop-firm/fortraders/ |

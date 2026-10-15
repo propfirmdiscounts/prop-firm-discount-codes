@@ -1,16 +1,18 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Hola Prime: 20% Off Next $5K–$200K Account for Existing Users** from Hola Prime — 20% off (published 2026-10-14). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Phoenix Trader Funding: 40% Off Daily Seed Challenges** from Phoenix Trader Funding — 40% off (published 2026-10-15). Codes and live offers below, newest first.
 
 Top live offers now:
+- Phoenix Trader Funding — Phoenix Trader Funding: 40% Off Daily Seed Challenges (40% Off)
+- Phoenix Trader Funding — Phoenix Trader Funding: 30% Off Classic Starter Evaluations (30% Off)
 - Hola Prime — Hola Prime: 20% Off Next $5K–$200K Account for Existing Users (20% Off)
-- Hola Prime — Hola Prime: 40% Off First-Time $5K–$200K Account Purchases (40% Off)
-- Alpha Trader Firm — Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 (Only $199)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
@@ -39,5 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-30 | Alpha Futures | Alpha Futures Halloween — 25% OFF Standard, Advanced & Zero Accounts (48 Hours, Ends Oct 31) | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-halloween-25-off-standard-advanced-zero-accounts-ends-oct-31/ |
 | 2025-10-29 | ATFunded | ATFunded — Halloween: 25% OFF Pro Challenge (Ends Oct 31) | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atfunded/atfunded-halloween-25-off-pro-challenge-ends-oct-31/ |
 | 2025-10-29 | ATFunded | ATFunded — Halloween: 15% OFF 2-Step Challenge (Ends Oct 31) | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atfunded/atfunded-halloween-15-off-2-step-challenge-ends-oct-31/ |
-| 2025-10-29 | WSFunded | Wall Street Funded — Halloween: 2×1 (Free Account After First Withdrawal) + 30% OFF | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wall-street-funded-halloween-30-off-2x1-free-after-first-withdrawal/ |
-| 2025-10-29 | Upcomers | Upcomers — Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) | 90% OFF | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/ |

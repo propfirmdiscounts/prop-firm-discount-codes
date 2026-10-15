@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
+| 2026-10-15 | For Traders | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
 | 2026-10-15 | For Traders | For Traders: 50% Off All Forex Instant Master Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/ |
 | 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
 | 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
@@ -18,7 +21,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
-| 2026-10-14 | Funded Trading Plus (FT+) | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
+| 2026-10-14 | Funded Trading Plus | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-14 | Funded Elite | Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts | 47% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/ |
 | 2026-10-14 | BrightFunded | BrightFunded 25% Off All Challenges & Free Account Promo | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/ |
@@ -117,9 +120,9 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-29 | FunderPro | FunderPro 30% Off Upfront Entry Cost | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-entry-cost/ |
 | 2026-09-29 | Hantec Trader | Hantec Trader 50% Off Evaluation Challenge Pricing | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/ |
 | 2026-09-28 | Traders Launch | Traders Launch 25% Off Fall Promotion | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/ |
-| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/ |
-| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/ |
-| 2026-09-28 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-instant-funding-scaling-discount/ |
+| 2026-09-28 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/ |
+| 2026-09-28 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/ |
+| 2026-09-28 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-instant-funding-scaling-discount/ |
 | 2026-09-28 | FTUK | FTUK 40% Off Forex Instant Accounts Upfront Cost | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-40-percent-off-instant-accounts/ |
 | 2026-09-28 | PipFarm | PipFarm 70% Off and 10% Cashback Evaluation Price | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/ |
 | 2026-09-28 | Ment Funding | Ment Funding 25% Off Evaluation Accounts: Entry Cost Reduction | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-discount-september-30/ |
@@ -153,7 +156,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-19 | WSFunded | WSFunded 60% Off $2.5K to $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-percent-discount-25k/ |
 | 2026-09-18 | FundingPips | FundingPips 20% Off ZERO Accounts (5K-200K) Upfront Entry Cost | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-zero-accounts/ |
 | 2026-09-18 | HyroTrader | HyroTrader: 10% Off Evaluation Challenges | 10% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/ |
-| 2026-09-17 | Funded Trading Plus (FT+) | Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-90-profit-split-instant-1-step/ |
+| 2026-09-17 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-90-profit-split-instant-1-step/ |
 | 2026-09-17 | FundYourFX | FundYourFX 60% Off All Accounts: Upfront Entry Fee Update | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-accounts/ |
 | 2026-09-17 | Ment Funding | Ment Funding 24% Off $5K to $100K Equities Challenge Fee Considerations | 24% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-24-off-equities-evaluation-september-30/ |
 | 2026-09-16 | The Concept Trading | The Concept Trading: 35% Off Evaluations & Intern Retry | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-intern-retry/ |

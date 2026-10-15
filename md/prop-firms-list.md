@@ -28,7 +28,7 @@
 | Funded Elite | AFF1864062 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
 | Funded Hero | PFD | 70% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 55% | 2026-01-01 | 2026-12-31 | 2026-09-25 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
-| Funded Trading Plus (FT+) | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| Funded Trading Plus | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedSeat | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFD | 2% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |

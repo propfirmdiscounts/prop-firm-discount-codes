@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
+| 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-08-31 | Traders Launch | Traders Launch 30% Off All Accounts Evaluation Pricing | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts-labor-day/ |
 | 2026-07-22 | City Traders Imperium (CTI) | City Traders Imperium (CTI) Evaluation Accounts: 15% Upfront Fee Reduction | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-percent-discount/ |
 | 2026-07-21 | Ment Funding | Ment Funding 25% Off Evaluation Accounts Challenge Fee Breakdown | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-off-evaluation-accounts/ |
-| 2026-07-20 | WSFunded | WSFunded 60% Off $2.5K to $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k/ |
-| 2026-07-19 | WSFunded | WSFunded Buy 5 Get 5 Free Evaluation Accounts | Buy 5 Get 5 | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-buy-5-get-5-free-world-cup/ |

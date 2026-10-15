@@ -13,38 +13,40 @@ The verified Phoenix Trader Funding discount code is **PFD** — Up to 20% off, 
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80
+## Current deal: Phoenix Trader Funding: 40% Off Daily Seed Challenges
 
 - Published: 2026-10-15
-- Offer: 30% Off
-- Code: AGILE30
-- Scope: $25,000 Classic Agile Evaluation
-- Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/
+- Offer: 40% Off
+- Code: HALLOWEEN40
+- Scope: Daily Seed
+- Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
 
 ## Phoenix Trader Funding deal FAQ
 
-**What discount does Phoenix Trader Funding offer in this promotion?**
+**Does the firm have a reliable coupon code?**
 
-The promotion reduces the upfront entry fee of the $25,000 Classic Agile evaluation to a single payment of $64.80.
+Yes, you can always use our exclusive standing code PFD at checkout. It is a permanent code and is occasionally applied at the highest available rate.
 
-**Does the promotion alter the Classic Agile payout rules?**
+**What discount is available for the Daily Seed?**
 
-No, the payout structure remains completely unchanged. Traders are still subject to a $1,000 maximum payout per request and a total lifetime cap of four payouts.
+This Halloween promotion offers 40% off the Daily Seed challenge.
 
-**Are daily loss limits applied to this $25,000 account?**
+**Is the Daily Seed fee recurring?**
 
-Phoenix Trader Funding does not enforce a daily loss limit during the evaluation or funded stages for this account. Risk is managed exclusively by a $1,000 end-of-day trailing drawdown.
+No, the promotional $59.40 price is a one-time paid fee.
 
-**What is the profit goal for the Phoenix Trader Funding evaluation?**
+**Do trading rules become easier during this sale?**
 
-Traders must reach a $1,250 profit target over a minimum of two trading days to pass the evaluation phase.
+No, the 40% discount changes the purchase price but does not alter the evaluation rules.
 
-**Are Martingale and DCA strategies permitted on this account?**
+**When does this offer expire?**
 
-Yes, traders can size up after a loss or average into positions within their contract limit, though moving a loss to another account is prohibited.
+The discount remains valid until 31 October.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-15 - [Phoenix Trader Funding: 40% Off Daily Seed Challenges](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) (40% Off)
+- 2026-10-15 - [Phoenix Trader Funding: 30% Off Classic Starter Evaluations](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) (30% Off)
 - 2026-10-15 - [Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/) (30% Off)
 - 2026-10-07 - [Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40)](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/) (40% Off)
 - 2026-10-01 - [Phoenix Trader Funding: 30% Off Every Classic Size Evaluation](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/) (30% Off)

@@ -11,38 +11,39 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: For Traders: 50% Off All Forex Instant Master Accounts
+## Current deal: For Traders 50% Off $50K Futures Fast Pro Challenge
 
 - Published: 2026-10-15
 - Offer: 50% Off
-- Code: NEWINSTANT
-- Scope: Forex Instant, Master Accounts, All Sizes
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/
+- Code: NEWPRO
+- Scope: 50K account, Futures Fast Pro, 1-step challenge
+- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/
 
 ## For Traders deal FAQ
 
-**What does this For Traders promotion change?**
+**How much does the $50K Futures Fast Pro challenge cost with this discount?**
 
-The discount reduces the upfront entry fee for all Forex Instant master accounts by 50%. For example, the $50K account drops from $558 to $279.
+The promotion cuts the standard $199 entry fee by 50%, bringing the total cost down to exactly $99.
 
-**Are the trading rules altered by this For Traders offer?**
+**What is the profit target for the Futures Fast Pro program?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The 5% maximum drawdown limit and 70% profit split remain unchanged.
+Traders must reach a $3,000 profit target during the one-step evaluation to move on to the funded stage.
 
-**Which account sizes are eligible for this For Traders discount?**
+**Does this discount alter the drawdown limits?**
 
-The 50% price reduction applies to any account size within the Forex Instant lineup.
+No, the risk parameters remain identical. The $50K evaluation maintains a strict $2,000 maximum drawdown limit.
 
-**Is there an evaluation phase for the For Traders Instant account?**
+**What is the profit split once I am funded?**
 
-No. The Forex Instant model allows traders to skip the challenge phase and jump straight into a master account with no initial profit target required.
+Once funded, successful traders are entitled to an 80% profit split, with rewards available on demand.
 
-**What is the leverage on the discounted For Traders accounts?**
+**Does For Traders have a working discount code?**
 
-The Forex Instant accounts maintain leverage up to 1:30, exactly as they do under standard pricing.
+Yes, you can always use VGYCKXLTY9 as a standing exclusive code at checkout. It is a verified code that always works and is occasionally applied at the highest available discount rate.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
 - 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)
 - 2026-10-05 - [For Traders Cuts $6K Fast Crypto Challenge to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) (Only $9.99)
 - 2026-10-02 - [For Traders: $6K Fast Evaluation Reduced to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) (79% Off)
