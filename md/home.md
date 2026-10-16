@@ -40,6 +40,11 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
+| 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
+| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
+| 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
+| 2026-10-16 | OFP Funding | OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250 | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/ |
 | 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
 | 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
@@ -65,8 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Hantec Trader | Hantec Trader 35% Off Eligible Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/ |
 | 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts | 70% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
-| 2026-10-13 | Funding Your Trades | Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/ |
-| 2026-10-13 | The Concept Trading | The Concept Trading: 40% Off Eligible Programs + Free Retry | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/ |
-| 2026-10-13 | Blueberry Funded | Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K) | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/ |
-| 2026-10-13 | Instant Funding | Instant Funding: 35% Off Pro and Lite Evaluation Accounts | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/ |
-| 2026-10-13 | RebelsFunding | RebelsFunding 73% Off $5,000 Trading Accounts For €7 | 73% Off | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/ |

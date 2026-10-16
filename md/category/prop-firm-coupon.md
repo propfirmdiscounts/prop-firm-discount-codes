@@ -6,6 +6,11 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
+| 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
+| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
+| 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
+| 2026-10-16 | OFP Funding | OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250 | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/ |
 | 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 | 70% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
 | 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
@@ -79,6 +84,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-05 | The Concept Trading | The Concept Trading 30% Off Eligible Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/ |
 | 2026-10-05 | Direct Funded Trader | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% OFF | PFD | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |
 | 2026-10-05 | E8 Markets | E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts | 50% OFF | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/ |
+| 2026-10-05 | The Trading Pit | The Trading Pit: 35% Off All Products and Free $5,000 Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
 | 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
 | 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |

@@ -12,7 +12,7 @@
 | Blue Guardian Futures | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
-| CK PropFirm | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| CK PropFirm | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
@@ -38,7 +38,7 @@
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
 | HyroTrader | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
-| Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-05-18 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
