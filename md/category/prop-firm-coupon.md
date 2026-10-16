@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-15 | For Traders | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
@@ -16,7 +17,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
 | 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
 | 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
-| 2026-10-14 | CK Capital | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
+| 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
 | 2026-10-14 | Elite Trader Funding | Elite Trader Funding: $27 Evaluation Resets | 42% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-27-eval-resets/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
@@ -223,7 +224,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-07 | WSFunded | WSFunded 60% Off Evaluation Accounts For $2.5K To $25K Sizes | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-sizes/ |
 | 2026-09-07 | Tradexprop | Tradexprop Malaysia Day Promo: 40% Off Evaluation Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-40-off-evaluation-malaysia-day/ |
 | 2026-09-06 | We Get Funded | We Get Funded Buy 1 Get 1 Free On $50K And $100K 1-Step Challenges | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-bogo-1-step-challenge/ |
-| 2026-09-06 | CK Capital | CK Capital $100K Account for $199: Upfront Entry Cost Details | Only $199 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/ |
+| 2026-09-06 | CK PropFirm | CK Capital $100K Account for $199: Upfront Entry Cost Details | Only $199 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/ |
 | 2026-09-06 | Goat Funded Trader | Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/ |
 | 2026-09-05 | Plutus Trade Base | Plutus Trade Base 50% Off All Evaluation Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/ |
 | 2026-09-04 | Phidias Propfirm | Phidias Propfirm Labor Day Promotion: Up to 80% Off Evaluation Fees | 80% OFF | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/ |
@@ -265,6 +266,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-01 | Funded Hero Futures | Funded Hero Futures: 55% Off All Evaluation Accounts | 55% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-all-accounts/ |
 | 2026-09-01 | Funded Hero | Funded Hero 65% Off Challenge Pricing For Crypto Payments | 65% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-crypto-discount/ |
 | 2026-09-01 | Blueberry Funded | Blueberry Funded: 35% Off Prime 2-Step Challenges Plus Additional Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-2-step/ |
-| 2026-09-01 | CK Capital | CK Capital 70% Off Evaluations and 75% Off Resets | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/ |
+| 2026-09-01 | CK PropFirm | CK Capital 70% Off Evaluations and 75% Off Resets | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/ |
 | 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price |  | No Code Required | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
 | 2026-09-01 | TradeDay | TradeDay $25k Evaluation Account Deal for $45 |  | No Code Required | https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/ |

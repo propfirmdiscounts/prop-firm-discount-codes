@@ -6,4 +6,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | No Code Required | https://propfirmdiscount.com/halloween-2026-prop-firm-coupon-codes/ |
 | 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |

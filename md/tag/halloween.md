@@ -1,16 +1,18 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Phoenix Trader Funding: 40% Off Daily Seed Challenges** from Phoenix Trader Funding — 40% off (published 2026-10-15). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup** from  (published 2026-10-16). Codes and live offers below, newest first.
 
 Top live offers now:
+-  — Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup
+- Topstep — Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges (Only $65)
 - Phoenix Trader Funding — Phoenix Trader Funding: 40% Off Daily Seed Challenges (40% Off)
-- Phoenix Trader Funding — Phoenix Trader Funding: 30% Off Classic Starter Evaluations (30% Off)
-- Hola Prime — Hola Prime: 20% Off Next $5K–$200K Account for Existing Users (20% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | No Code Required | https://propfirmdiscount.com/halloween-2026-prop-firm-coupon-codes/ |
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
@@ -39,5 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-30 | FundYourFX | FundYourFX — Halloween: 40% OFF Instant Funding + 70% Profit Split on First Payout | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-40-off-instant-funding-70-first-payout-split/ |
 | 2025-10-30 | SFX Funded | SFX Funded — Halloween: Up to 60% OFF All Funded Accounts + 120% Refund Guarantee | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-60-off-120-refund-guarantee/ |
 | 2025-10-30 | Alpha Futures | Alpha Futures Halloween — 25% OFF Standard, Advanced & Zero Accounts (48 Hours, Ends Oct 31) | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-halloween-25-off-standard-advanced-zero-accounts-ends-oct-31/ |
-| 2025-10-29 | ATFunded | ATFunded — Halloween: 25% OFF Pro Challenge (Ends Oct 31) | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atfunded/atfunded-halloween-25-off-pro-challenge-ends-oct-31/ |
-| 2025-10-29 | ATFunded | ATFunded — Halloween: 15% OFF 2-Step Challenge (Ends Oct 31) | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atfunded/atfunded-halloween-15-off-2-step-challenge-ends-oct-31/ |

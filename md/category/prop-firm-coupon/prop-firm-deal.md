@@ -6,7 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
-| 2026-10-14 | CK Capital | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
+| 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
 | 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-09 | Trade The Pool | Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026 | Free retry credit | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/ |
 | 2026-06-08 | Alpha Trader Firm | Alpha Trader Firm Buy Two $300K Or $400K Challenges Get A Free $100K Account | BOGO | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-buy-two-300k-400k-free-100k/ |
 | 2026-06-05 | The Trading Pit | The Trading Pit 50% Off 5K Evaluation Accounts | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-50-discount-5k-accounts/ |
-| 2026-06-03 | Funded Trader Markets | Funded Trader Markets: 75% Off 2 Step Plus 5K–50K Evaluations | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-75-off-2-step-plus-deal/ |

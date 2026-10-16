@@ -12,7 +12,7 @@
 | Blue Guardian Futures | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
-| CK Capital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| CK PropFirm | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Dominion Funding | PFD5PC | 5% | 2026-01-01 | 2026-12-31 | 2026-10-06 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |

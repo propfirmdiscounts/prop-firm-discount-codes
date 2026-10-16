@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | No Code Required | https://propfirmdiscount.com/halloween-2026-prop-firm-coupon-codes/ |
 | 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | No Code Required | https://propfirmdiscount.com/easter-2026-prop-firm-coupon-codes/ |
 | 2026-02-10 |  | Valentine’s Day 2026 Prop Firm Coupon Codes & Discounts – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/valentines-day-2026-prop-firm-coupon-codes/ |
 | 2025-12-31 |  | New Year 2026 Prop Firm Coupon Codes & Discounts – Full Deals Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/new-year-2026-prop-firm-coupon-codes/ |

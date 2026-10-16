@@ -1,11 +1,11 @@
 # CK Capital 75% Off All Challenge Accounts and 10% Off Resets
 
-CK Capital is offering 75% off.
+CK PropFirm is offering 75% off.
 
 > The launch of the new CK Capital brings a 7-day promotion with 75% off evaluation models from $10K to $300K, plus 10% off resets. Valid for 7 days.
 
 - Published: 2026-10-14
-- Prop firm: CK Capital
+- Prop firm: CK PropFirm
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - Summary: Reduce your upfront entry cost by 75% across all challenge sizes during this 7-day launch promotion. No trading rules or drawdown limits are changed. Valid for 7 days.
 - Offer: 75% Off

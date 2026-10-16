@@ -102,7 +102,7 @@
 | 96 | Phidias Propfirm | 3.1 | 340 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 97 | Fundex | 3.1 | 42 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | 98 | Upcomers | 3 | 596 | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 99 | CK Capital | 3 | 422 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 99 | CK PropFirm | 3 | 422 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | 100 | Funding Your Trades | 3 | 133 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | 101 | MyFxCapital | 3 | 55 | https://propfirmdiscount.com/prop-firm/myfxcapital/ |
 | 102 | The Funded Trader Program (TFT) | 2.9 | 21928 | https://propfirmdiscount.com/prop-firm/the-funded-trader/ |

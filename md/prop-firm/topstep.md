@@ -1,20 +1,41 @@
 # Topstep Discount Code
 
-The newest Topstep discount code is **5expressfundedaccounts** — Only $29 (May 28, 2024). The live campaign code changes with each promotion; newest first below.
+No live discount code for Topstep right now — newest deals and offers are below.
 
-- Last deal published: 2026-09-05
+- Last deal published: 2026-10-15
 - Trustpilot: 3.7/5 (14945 reviews)
 - Activate: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 
-## Current deal: Topstep $50K Trading Combine for $29/Month + 5 Account Limit
+## Current deal: Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
 
-- Published: 2024-05-28
-- Offer: Only $29
-- Code: 5expressfundedaccounts
-- Scope: $50K Trading Combine
-- Deal page: https://propfirmdiscount.com/deals/topstep/topstep-50k-trading-combine-29-month-may-31/
+- Published: 2026-10-15
+- Offer: Only $65
+- Scope: 3K Challenge, Undead Account, Slasher Account, Halloween
+- Deal page: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
+
+## Topstep deal FAQ
+
+**What discount does Topstep offer in this promotion?**
+
+Topstep is offering special $3K Challenge accounts for a one-time fee of $199 (Undead model) or $65 (Slasher model). There are no monthly subscriptions associated with these accounts.
+
+**What are the limits on the $199 Topstep Undead account?**
+
+The $199 account provides buying power of 5 minis or 50 micros and features a $1,000 static maximum loss limit. The profit goal is set at $3,000.
+
+**How does the $65 Slasher account differ?**
+
+The $65 account has a lower upfront cost but cuts the static maximum loss limit to $500. Buying power is also reduced to 2 minis or 20 micros.
+
+**How many promotional accounts can a trader buy?**
+
+Traders are allowed to purchase up to 5 of the $199 Undead accounts and up to 5 of the $65 Slasher accounts.
+
+**Do these Topstep challenges have a profit split or resets?**
+
+No, these specific one-time fee models do not feature a 90/10 profit split or allow for account resets.
 
 ## Current deals (last 2 months, newest first)
 
-- No deal published in the last 2 months. Check back soon for new promotions.
+- 2026-10-15 - [Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) (Only $65)

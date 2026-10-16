@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |

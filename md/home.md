@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-15 | For Traders | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
@@ -50,7 +51,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
 | 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
 | 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
-| 2026-10-14 | CK Capital | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% Off | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
+| 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% Off | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
 | 2026-10-14 | Elite Trader Funding | Elite Trader Funding: $27 Evaluation Resets | 42% Off | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-27-eval-resets/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-13 | RebelsFunding | RebelsFunding 73% Off $5,000 Trading Accounts For €7 | 73% Off | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/ |
 | 2026-10-12 | Purdia Capital | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% Off | Campaign Code Required | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |
 | 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |
-| 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% Off | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |

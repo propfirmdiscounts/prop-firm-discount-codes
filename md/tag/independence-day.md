@@ -5,7 +5,7 @@ The newest Independence Day prop firm deal is **Hola Prime 45% Off Forex Challen
 Top live offers now:
 - Hola Prime — Hola Prime 45% Off Forex Challenges – Independence Day Offer (45% Off)
 - City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal (15% Off)
-- CK Capital — CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts (Buy 1 Get 1)
+- CK PropFirm — CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts (Buy 1 Get 1)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
@@ -13,7 +13,7 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|
 | 2026-07-04 | Hola Prime | Hola Prime 45% Off Forex Challenges – Independence Day Offer | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-forex-challenges-independence-day/ |
 | 2026-07-04 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-independence-day-15-off/ |
-| 2026-07-04 | CK Capital | CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/ |
+| 2026-07-04 | CK PropFirm | CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts | Buy 1 Get 1 | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-independence-day-promotion/ |
 | 2026-07-04 | FundedSquad | FundedSquad 40% Off All Evaluation and Instant Funding Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-independence-day-40-percent-off/ |
 | 2026-07-03 | Hola Prime | Hola Prime 30% Off Forex Direct Accounts – Independence Day Promotion | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-30-off-forex-direct-accounts-independence-day/ |
 | 2026-07-03 | Funded Hero | Funded Hero: 65% Off All Evaluations Purchase Structure | 65% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-independence-day/ |

@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-02 | Trade The Pool | Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts | 15% OFF | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/ |
 | 2026-08-31 | Traders Launch | Traders Launch 30% Off All Accounts Evaluation Pricing | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts-labor-day/ |
 | 2026-07-22 | City Traders Imperium (CTI) | City Traders Imperium (CTI) Evaluation Accounts: 15% Upfront Fee Reduction | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-percent-discount/ |
-| 2026-07-21 | Ment Funding | Ment Funding 25% Off Evaluation Accounts Challenge Fee Breakdown | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-25-percent-off-evaluation-accounts/ |
