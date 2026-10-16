@@ -9,11 +9,11 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | # | Prop firm | Discount code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | October 2026 | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | FundingTraders | PFD | 90% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 4 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 5 | RebelsFunding | SEVEN | 73% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 6 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 2 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 3 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
+| 4 | RebelsFunding | SEVEN | 73% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 5 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 6 | FundingTraders | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 7 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 8 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 9 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
+| 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
@@ -68,5 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-13 | Blueberry Funded | Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K) | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/ |
 | 2026-10-13 | Instant Funding | Instant Funding: 35% Off Pro and Lite Evaluation Accounts | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/ |
 | 2026-10-13 | RebelsFunding | RebelsFunding 73% Off $5,000 Trading Accounts For €7 | 73% Off | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/ |
-| 2026-10-12 | Purdia Capital | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% Off | Campaign Code Required | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |
-| 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |

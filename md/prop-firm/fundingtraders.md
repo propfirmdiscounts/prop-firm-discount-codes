@@ -7,44 +7,49 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-12
+- Last deal published: 2026-10-16
 - Trustpilot: 3.2/5 (3282 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween
+## Current deal: FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30
 
-- Published: 2026-10-12
-- Offer: 90% Off
+- Published: 2026-10-16
+- Offer: 70% Off
 - Code: PFD
-- Scope: Evaluation accounts, 2-Step Pro, Add-ons
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/
+- Scope: Instant Funded accounts, $5000 2-Step Pro
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/
 
 ## FundingTraders deal FAQ
 
-**What does the FundingTraders Ultimate Bundle include?**
+**What does the FundingTraders Beat the Weekend flash sale offer?**
 
-The bundle includes 100% profit split, zero fees, bi-weekly payouts, no minimum trading days, breach payout protection, daily drawdown shield, second phase reset and a 200% refund bonus.
+The promotion cuts the upfront entry fee by 70% for all Instant Funded models. It also reduces the price of the $5000 2-Step Pro account from $99 to a flat $30.
 
-**Does this Buy 1 Get 3 promotion change the evaluation rules?**
+**Does the promotion change any risk rules for Instant Funded accounts?**
 
-No. The promotion modifies the purchase structure by providing multiple accounts and add-ons, but the actual drawdown limits and profit targets remain unchanged.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**How much does the $100K 2-Step Pro cost under this deal?**
+**When does this FundingTraders discount expire?**
 
-The promotional materials list an effective cost of $152 per account when utilizing the Buy 1 Get 3 structure for the $100K 2-Step Pro.
+The promotional discount is valid until the end of the week.
 
-**Is there an always-active code for this firm?**
+**Which specific evaluation size is discounted to $30?**
 
-Yes, readers can use the PFD exclusive code, which remains continually active and occasionally applies at the highest available rate.
+The $5000 2-Step Pro account is explicitly priced at $30 during this flash sale.
 
-**How long is this bundle available?**
+**Who might find this challenge pricing appealing?**
 
-The promotion is active during the firm's Spooky Week Halloween campaign.
+It may suit traders seeking a lower initial cost for direct funding models, or those looking specifically for a $30 entry point on a $5000 evaluation.
+
+**Do the standard drawdown rules still apply to these models?**
+
+Yes. All firm trading rules, daily loss caps and maximum drawdown limits remain strictly enforced despite the discounted entry fee.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-16 - [FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) (70% Off)
 - 2026-10-12 - [FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) (90% Off)
 - 2026-10-12 - [FundingTraders 50% Off and BOGO Entitlement for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) (50% Off)
 - 2026-10-07 - [FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/) (50% Off)

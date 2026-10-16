@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-48 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+49 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -15,7 +15,8 @@
 | CK PropFirm | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-06 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| Dominion Funding | PFD5PC | 5% | 2026-01-01 | 2026-12-31 | 2026-10-06 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| Doji Funding | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| Dominion Funding | PFD5PC | 5% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 | E8 Markets | CHUN | 50% | 2026-01-01 | 2026-12-31 | 2026-10-05 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-08-03 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
@@ -33,7 +34,7 @@
 | Fundex | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFD | 2% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | 2026-01-01 | 2026-12-31 | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
-| FundingTraders | PFD | 90% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| FundingTraders | PFD | 70% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
 | HyroTrader | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |

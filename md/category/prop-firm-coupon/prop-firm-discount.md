@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 | 70% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
+| 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
 | 2026-10-15 | For Traders | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
@@ -33,6 +35,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-13 | RebelsFunding | RebelsFunding 73% Off $5,000 Trading Accounts For €7 | 73% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/ |
 | 2026-10-12 | Purdia Capital | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |
 | 2026-10-12 | FTUK | FTUK 35% Off Instant Funding and 20% Payout Boost | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/ |
-| 2026-10-12 | WSFunded | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
-| 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
-| 2026-10-12 | FundedNext | FundedNext October Promotion: Stellar Accounts Starting at $29.99 | 32% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/ |
+| 2026-10-12 | Doji Funding | Doji Funding 30% Off All Configurable Challenges | 30% OFF | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/ |
