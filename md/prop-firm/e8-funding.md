@@ -7,42 +7,47 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 - Code: CHUN
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-05
+- Last deal published: 2026-10-17
 - Trustpilot: 4.1/5 (3307 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts
+## Current deal: E8 Markets: 50% Off Signature Classic and Arc Accounts
 
-- Published: 2026-10-05
+- Published: 2026-10-17
 - Offer: 50% Off
 - Code: CHUN
-- Scope: E8 Signature, E8 Pro, E8 One, Classic Markets, Perpetual Futures, Futures
-- Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/
+- Scope: Signature Classic (Forex) evaluations, Arc promotion
+- Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/
 
 ## E8 Markets deal FAQ
 
-**What discounts are available during the E8 Markets Winter ARC Promo?**
+**What discount is available during this campaign?**
 
-Perpetual Futures for E8 Pro and E8 One are discounted by 50%. Classic Markets receive a 30% discount, while standard Futures are discounted by 35% for E8 Zero and 25% for E8 Signature.
+The promotion provides a 50% reduction on the upfront entry fee for the Signature Classic and Arc accounts.
 
-**How does the ARC bonus challenge work?**
+**When does the Signature Classic evaluation retire?**
 
-If you purchase a qualifying Classic Markets or Perpetual Futures account, pass the evaluation and receive your first approved payout, you will receive an additional Phase 1 evaluation account of the same size and rules for free.
+The Signature Classic (Forex) tier will be officially removed from the lineup on Tuesday, October 20, 2026.
 
-**Do the ARC bonus accounts generate more free challenges?**
+**Are E8 Signature Futures accounts affected?**
 
-No. The bonus account entitlement is limited to one per initial purchase and free bonus accounts do not generate additional free challenges upon payout.
+No, the E8 Signature Futures evaluations remain live and are completely unaffected by this retirement and pricing update.
 
-**Are the trading rules or profit targets easier during this promotion?**
+**Does the discount cover Arc accounts?**
 
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. All evaluation phases remain identical to the standard models.
+Yes, the 50% initial cost reduction also applies to the Arc promotion.
 
-**Until when is the Winter ARC Promo valid?**
+**Do the trading rules change with this promotion?**
 
-The promotion is valid until October 25.
+The promotion only affects the purchase pricing. It does not modify trading rules, drawdown limits or risk parameters.
+
+**Why is the Signature Classic model being phased out?**
+
+The firm is focusing its Signature rulebook exclusively on Futures, citing the differences in trading hours, contract structures and how positions are held between Futures and Classic markets.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off)
 - 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off)

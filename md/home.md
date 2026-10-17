@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-17 | E8 Markets | E8 Markets: 50% Off Signature Classic and Arc Accounts | 50% Off | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/ |
 | 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
 | 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | BrightFunded | BrightFunded 25% Off All Challenges & Free Account Promo | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/ |
 | 2026-10-14 | Hantec Trader | Hantec Trader 35% Off Eligible Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/ |
 | 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts | 70% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |
-| 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
