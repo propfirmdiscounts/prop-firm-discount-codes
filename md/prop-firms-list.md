@@ -47,7 +47,7 @@
 | QT Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | 2026-01-01 | 2026-12-31 | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | 2026-01-01 | 2026-12-31 | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| TX3 Funding | PFDC | 25% | 2026-01-01 | 2026-12-31 | 2026-10-13 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| TX3 Funding | PFDC | 25% | 2026-01-01 | 2026-12-31 | 2026-10-17 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | 2026-01-01 | 2026-12-31 | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | 2026-01-01 | 2026-12-31 | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-04 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
