@@ -1,42 +1,47 @@
 # IC Funded Discount Code
 
-The newest IC Funded discount code is **SCALE30** — 30% off (October 6, 2026). The live campaign code changes with each promotion; newest first below.
+The newest IC Funded discount code is **40FOR40** — 40% off (October 18, 2026). The live campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-06
+- Last deal published: 2026-10-18
 - Trustpilot: 3.4/5 (175 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 
-## Current deal: IC Funded 30% Off All Evaluation Accounts
+## Current deal: IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October
 
-- Published: 2026-10-06
-- Offer: 30% Off
-- Code: SCALE30
-- Scope: 1-Step, 2-Step, up to $500K
-- Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/
+- Published: 2026-10-18
+- Offer: 40% Off
+- Code: 40FOR40
+- Scope: All challenges, Instant Funding, Every account size, 1-Step, 2-Step
+- Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/
 
 ## IC Funded deal FAQ
 
-**What does the current IC Funded discount provide?**
+**What discount does IC Funded offer in this promotion?**
 
-The active promotion reduces the upfront purchase price of all evaluation accounts by 30%. It does not change any trading parameters or evaluation difficulty.
+IC Funded offers 40% off in this promotion. The reduction covers all challenges plus Instant Funding on every account size stated in the campaign material.
 
-**Which account sizes are eligible for this offer?**
+**Which account sizes are included in the IC Funded offer?**
 
-The discount applies to all available account sizes up to the $500K maximum limit. Both 1-Step and 2-Step challenge configurations are included.
+Every account size is included according to the campaign material. The scope is not limited to a single size within the stated offer.
 
-**When does this IC Funded promotion expire?**
+**Which models can buyers choose from at IC Funded during this promotion?**
 
-The reduced pricing window is valid from October 1 through October 25.
+The material names a choice of 1-Step or 2-Step. Buyers should check the model shown for their chosen account size before purchase.
 
-**Does the cheaper entry fee change the profit split?**
+**When is the IC Funded promotion valid?**
 
-No, the core account features remain completely unchanged. Successfully funded traders still access up to an 80% profit split, according to the firm's published details.
+The campaign states validity as 18-20 October. No price is stated in the material for purchases outside that window.
 
-**How can I access the discounted evaluation pricing?**
+**What does the IC Funded promotion not change?**
 
-You can claim the lower upfront fee by selecting your desired account size and applying the active promotion during checkout before the October 25 expiration.
+The promotion affects purchase pricing only. It does not modify trading rules, drawdown limits, or risk parameters. It also does not reduce trading risk.
+
+**What payout timing and profit split does IC Funded state in the material?**
+
+The material states payouts every two weeks. It also states a profit split of up to 90% with an add-on.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-18 - [IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) (40% Off)
 - 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off)

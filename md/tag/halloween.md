@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund** from TX3 Funding — 30% off (published 2026-10-17). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding** from FundYourFX — 65% off (published 2026-10-18). Codes and live offers below, newest first.
 
 Top live offers now:
+- FundYourFX — FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding (65% Off)
 - TX3 Funding — TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund (30% Off)
 - AudaCity Capital — AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing (35% Off)
--  — Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
 | 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | No Code Required | https://propfirmdiscount.com/halloween-2026-prop-firm-coupon-codes/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-30 | FundedNext | FundedNext Futures Halloween — 25% OFF for New Users + No Consistency on Legacy | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/ |
 | 2025-10-30 | Bitfunded | Bitfunded — BOGO Free 2-Step + 100% Profit Share (Ends Nov 1, 11:59 PM UAE) (no coupon required) | Buy 1 Get 1 | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-bogo-free-2-step-100-profit-share-deal-ends-nov-1-uae/ |
 | 2025-10-30 | Finotive Funding | Finotive Funding — Deal (no coupon required): 35% OFF Sitewide, Ends Sunday 23:00 CET | 35% OFF | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-35-off-sitewide-deal-ends-sunday-2300-cet/ |
-| 2025-10-30 | FundYourFX | FundYourFX — Halloween: 40% OFF Instant Funding + 70% Profit Split on First Payout | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-40-off-instant-funding-70-first-payout-split/ |

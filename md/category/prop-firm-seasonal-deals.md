@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-05 | Plutus Trade Base | Plutus Trade Base 50% Off All Evaluation Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/ |
 | 2026-09-04 | Phidias Propfirm | Phidias Propfirm Labor Day Promotion: Up to 80% Off Evaluation Fees | 80% OFF | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/ |
 | 2026-09-03 | Plutus Trade Base | Plutus Trade Base 50% Off Evaluation Challenges for Labor Day | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-labor-day/ |
-| 2026-09-02 | Trade The Pool | Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts | 15% OFF | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/ |
