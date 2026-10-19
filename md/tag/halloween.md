@@ -1,16 +1,18 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding** from FundYourFX — 65% off (published 2026-10-18). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First** from FundingTraders — 50% off (published 2026-10-19). Codes and live offers below, newest first.
 
 Top live offers now:
+- FundingTraders — FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First (50% Off)
+- FundingTraders — FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First (50% Off)
 - FundYourFX — FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding (65% Off)
-- TX3 Funding — TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund (30% Off)
-- AudaCity Capital — AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing (35% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
@@ -39,5 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-30 | Atmos Funded | Atmos Funded Halloween Sale: 50% OFF All Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-halloween-50-off/ |
 | 2025-10-30 | FundedNext | FundedNext Futures Halloween — 15% OFF for Existing Users + No Consistency on Legacy | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-15-off-existing-users/ |
 | 2025-10-30 | FundedNext | FundedNext Futures Halloween — 25% OFF for New Users + No Consistency on Legacy | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/ |
-| 2025-10-30 | Bitfunded | Bitfunded — BOGO Free 2-Step + 100% Profit Share (Ends Nov 1, 11:59 PM UAE) (no coupon required) | Buy 1 Get 1 | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-bogo-free-2-step-100-profit-share-deal-ends-nov-1-uae/ |
-| 2025-10-30 | Finotive Funding | Finotive Funding — Deal (no coupon required): 35% OFF Sitewide, Ends Sunday 23:00 CET | 35% OFF | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-35-off-sitewide-deal-ends-sunday-2300-cet/ |

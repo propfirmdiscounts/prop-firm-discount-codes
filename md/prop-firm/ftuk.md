@@ -5,7 +5,7 @@ The newest FTUK discount code is **FLEX50** — 50% off (October 14, 2026). The 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
 - Last deal published: 2026-10-14
-- Trustpilot: 3.9/5 (786 reviews)
+- Trustpilot: 3.8/5 (788 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 

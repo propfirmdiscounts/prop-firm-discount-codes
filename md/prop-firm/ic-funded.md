@@ -3,7 +3,7 @@
 The newest IC Funded discount code is **40FOR40** — 40% off (October 18, 2026). The live campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-18
-- Trustpilot: 3.4/5 (175 reviews)
+- Trustpilot: 3.4/5 (179 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 

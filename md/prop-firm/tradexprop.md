@@ -5,7 +5,7 @@ The newest Tradexprop discount code is **SPOOK40** — 40% off (October 9, 2026)
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
 - Last deal published: 2026-10-09
-- Trustpilot: 4.0/5 (40 reviews)
+- Trustpilot: 4.0/5 (41 reviews)
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 

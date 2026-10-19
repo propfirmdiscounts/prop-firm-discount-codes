@@ -7,48 +7,50 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-16
-- Trustpilot: 3.2/5 (3282 reviews)
+- Last deal published: 2026-10-19
+- Trustpilot: 3.2/5 (3288 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30
+## Current deal: FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 - Check The Upfront Fee First
 
-- Published: 2026-10-16
-- Offer: 70% Off
+- Published: 2026-10-19
+- Offer: 50% Off
 - Code: PFD
-- Scope: Instant Funded accounts, $5000 2-Step Pro
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/
+- Scope: $50K+ accounts only, $50K 1-Step, Ultimate Bundle, All add-ons included, BOGO free matching account
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/
 
 ## FundingTraders deal FAQ
 
-**What does the FundingTraders Beat the Weekend flash sale offer?**
+**What discount does FundingTraders offer on larger accounts in this promotion?**
 
-The promotion cuts the upfront entry fee by 70% for all Instant Funded models. It also reduces the price of the $5000 2-Step Pro account from $99 to a flat $30.
+FundingTraders offers 50% off accounts of $50K and above in this promotion. The purchase includes a free matching account and the Ultimate Bundle with all add-ons included.
 
-**Does the promotion change any risk rules for Instant Funded accounts?**
+**How much is the $50K 1-Step at FundingTraders under this offer?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+The banner lists the $50K 1-Step at $82 per account. The figure of $2,094 is shown crossed out beside that price.
 
-**When does this FundingTraders discount expire?**
+**What is included in the Ultimate Bundle at FundingTraders?**
 
-The promotional discount is valid until the end of the week.
+The bundle lists a 100% profit split, zero fees, bi-weekly payouts and no minimum trading days. It also lists breach payout protection, daily drawdown shield, second phase reset and a 200% refund bonus.
 
-**Which specific evaluation size is discounted to $30?**
+**Does this FundingTraders promotion change trading risk?**
 
-The $5000 2-Step Pro account is explicitly priced at $30 during this flash sale.
+No. The promotion changes purchase pricing and purchase inclusions only and it does not reduce trading risk.
 
-**Who might find this challenge pricing appealing?**
+**Who may find this FundingTraders offer relevant?**
 
-It may suit traders seeking a lower initial cost for direct funding models, or those looking specifically for a $30 entry point on a $5000 evaluation.
+Buyers who were already considering an account of $50K or larger may find the lower price and included bundle relevant. Accounts below $50K are outside the stated scope.
 
-**Do the standard drawdown rules still apply to these models?**
+**Is an expiry date stated for this FundingTraders promotion?**
 
-Yes. All firm trading rules, daily loss caps and maximum drawdown limits remain strictly enforced despite the discounted entry fee.
+The source does not state an expiry date for this promotion. Buyers should confirm the final price for their chosen size before paying.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-19 - [FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 - Check The Upfront Fee First](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) (50% Off)
+- 2026-10-19 - [FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 - Review The Entry Fee First](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/) (50% Off)
 - 2026-10-16 - [FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) (70% Off)
 - 2026-10-12 - [FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) (90% Off)
 - 2026-10-12 - [FundingTraders 50% Off and BOGO Entitlement for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) (50% Off)

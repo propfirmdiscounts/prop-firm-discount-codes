@@ -13,11 +13,11 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 3 | Elite Trader Funding | 20BACK | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 4 | RebelsFunding | SEVEN | 73% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 5 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 6 | FundingTraders | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 7 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 8 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 9 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 10 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 6 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 7 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 8 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 9 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 10 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-19 | Lucid Trading | Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits | 40% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-18 | IC Funded | IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/ |
@@ -68,5 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
-| 2026-10-14 | Funded Trading Plus | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
-| 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |

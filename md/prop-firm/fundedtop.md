@@ -5,7 +5,7 @@ The newest FundedTop discount code is **FT40** — 40% off (September 12, 2025).
 > FundedTop offers beginner and professional Traders an evaluation platform with access to virtual trading capital.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 3.3/5 (111 reviews)
+- Trustpilot: 3.3/5 (112 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtop
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedtop/
 

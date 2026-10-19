@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-07 | WSFunded | WSFunded 60% Off Evaluation Accounts For $2.5K To $25K Sizes | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-sizes/ |
 | 2026-09-06 | Goat Funded Trader | Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/ |
 | 2026-09-05 | Plutus Trade Base | Plutus Trade Base 50% Off All Evaluation Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/ |
-| 2026-09-04 | Phidias Propfirm | Phidias Propfirm Labor Day Promotion: Up to 80% Off Evaluation Fees | 80% OFF | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/ |
-| 2026-09-03 | Plutus Trade Base | Plutus Trade Base 50% Off Evaluation Challenges for Labor Day | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-labor-day/ |
