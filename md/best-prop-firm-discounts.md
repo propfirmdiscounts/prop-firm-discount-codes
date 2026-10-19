@@ -13,11 +13,11 @@ As of October 2026, PropFirmDiscount tracks 55 prop firms with a verified discou
 | 5 | Funded Hero | PFD | 70% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 6 | FundingTraders | PFD | 70% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 7 | Purdia Capital | STATIC70 | 70% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 8 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 9 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 10 | WSFunded | HISPANIC60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 11 | TradeDay | FLASH | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
-| 12 | FundYourFX | OCTA60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 8 | FundYourFX | HALLOWEEN65 | 65% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 9 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 10 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 11 | WSFunded | HISPANIC60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 12 | TradeDay | FLASH | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
 | 13 | Titan Capital | T55 | 55% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
 | 14 | E8 Markets | CHUN | 50% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 15 | Direct Funded Trader | PFD | 50% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
@@ -29,18 +29,18 @@ As of October 2026, PropFirmDiscount tracks 55 prop firms with a verified discou
 | 21 | Plutus Trade Base | PASS50 | 50% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | 22 | The Concept Trading | OS26 | 50% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
 | 23 | Alpha Trader Firm | HALLOWEEN | 50% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
-| 24 | Hola Prime | SPOOKY40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/hola-prime/ |
-| 25 | BrightFunded | WEEKEND | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
-| 26 | Tradexprop | SPOOK40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradexprop/ |
-| 27 | Sure Leverage Funding | BOO40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
-| 28 | FundedSquad | 2YEARS | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
-| 29 | Blue Guardian | PFD | 35% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 30 | The Trading Pit | OCT35 | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
-| 31 | AudaCity Capital | HALLOWEEN | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
-| 32 | Blueberry Funded | FLEXSTEP | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
-| 33 | FundedNext | STRTN | 32% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 34 | Doji Funding | PFD | 30% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 35 | IC Funded | SCALE30 | 30% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
+| 24 | IC Funded | 40FOR40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
+| 25 | Hola Prime | SPOOKY40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/hola-prime/ |
+| 26 | BrightFunded | WEEKEND | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
+| 27 | Tradexprop | SPOOK40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/tradexprop/ |
+| 28 | Sure Leverage Funding | BOO40 | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
+| 29 | FundedSquad | 2YEARS | 40% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 30 | Blue Guardian | PFD | 35% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 31 | The Trading Pit | OCT35 | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
+| 32 | AudaCity Capital | HALLOWEEN | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
+| 33 | Blueberry Funded | FLEXSTEP | 35% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
+| 34 | FundedNext | STRTN | 32% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 35 | Doji Funding | PFD | 30% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 36 | BluSky Trading | ARROW | 30% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
 | 37 | TX3 Funding | PFDC | 25% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 38 | AquaFunded | PFD | 25% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |

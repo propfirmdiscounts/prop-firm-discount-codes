@@ -15,9 +15,9 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 5 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 6 | FundingTraders | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 7 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 8 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 9 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 10 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 8 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 9 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 10 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 
 ## Exclusive Prop Firm Discount Codes
 
