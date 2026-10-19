@@ -73,8 +73,8 @@ Ranked highest discount first. "Exclusive Code" is a code the PropFirmDiscount t
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 6 | Blue Guardian | PFD | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 7 | Lucid Trading | PFD | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 6 | Lucid Trading | PFD | 40% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 7 | Blue Guardian | PFD | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 8 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 9 | TX3 Funding | PFDC | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 10 | Funded Trading Plus | PFD | 10% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |

@@ -28,8 +28,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 6 | Blue Guardian | PFD | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 7 | Lucid Trading | PFD | 30% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 6 | Lucid Trading | PFD | 40% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 7 | Blue Guardian | PFD | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 8 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 9 | TX3 Funding | PFDC | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 10 | Funded Trading Plus | PFD | 10% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | Lucid Trading | Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits | 40% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-18 | IC Funded | IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
 | 2026-10-14 | Funded Trading Plus | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
-| 2026-10-14 | Funded Elite | Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts | 47% Off | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/ |

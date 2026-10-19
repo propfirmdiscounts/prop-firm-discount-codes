@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | Lucid Trading | Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits | 40% OFF | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-18 | IC Funded | IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Funded Elite | Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts | 47% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/ |
 | 2026-10-14 | BrightFunded | BrightFunded 25% Off All Challenges & Free Account Promo | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/ |
 | 2026-10-14 | Hantec Trader | Hantec Trader 35% Off Eligible Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/ |
-| 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts | 70% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |

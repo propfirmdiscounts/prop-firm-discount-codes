@@ -39,7 +39,7 @@
 | Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
 | HyroTrader | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| Lucid Trading | PFD | 30% | 2026-01-01 | 2026-12-31 | 2026-05-18 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| Lucid Trading | PFD | 40% | 2026-01-01 | 2026-12-31 | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |

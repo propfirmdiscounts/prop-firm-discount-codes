@@ -252,10 +252,10 @@
         {
             "prop_firm": "Lucid Trading",
             "code": "PFD",
-            "discount": "30%",
+            "discount": "40%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-05-18",
+            "last_deal_published": "2026-10-19",
             "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
             "archive_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
             "trustpilot_score": 4.4,
