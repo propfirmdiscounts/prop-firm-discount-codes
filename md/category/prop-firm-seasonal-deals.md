@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-07 | FundingTraders | FundingTraders 60% Off All Account Types Labor Day Promotion | 60% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-60-off-labor-day/ |
 | 2026-09-07 | WSFunded | WSFunded 60% Off Evaluation Accounts For $2.5K To $25K Sizes | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-sizes/ |
 | 2026-09-06 | Goat Funded Trader | Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/ |
-| 2026-09-05 | Plutus Trade Base | Plutus Trade Base 50% Off All Evaluation Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/ |

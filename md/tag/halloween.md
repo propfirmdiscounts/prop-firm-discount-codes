@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First** from FundingTraders — 50% off (published 2026-10-19). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October** from City Traders Imperium (CTI) — 15% off (published 2026-10-19). Codes and live offers below, newest first.
 
 Top live offers now:
+- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October (15% Off)
 - FundingTraders — FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First (50% Off)
 - FundingTraders — FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First (50% Off)
-- FundYourFX — FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding (65% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding | 65% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-30 | Funding Your Trades | Funding Your Trades Halloween — BOBO Offer: 40% OFF + Free 2-Step Pro Backup | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-halloween-bobo-40-off-free-backup/ |
 | 2025-10-30 | Atmos Funded | Atmos Funded Halloween Sale: 50% OFF All Challenges | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-halloween-50-off/ |
 | 2025-10-30 | FundedNext | FundedNext Futures Halloween — 15% OFF for Existing Users + No Consistency on Legacy | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-15-off-existing-users/ |
-| 2025-10-30 | FundedNext | FundedNext Futures Halloween — 25% OFF for New Users + No Consistency on Legacy | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-futures-halloween-25-off-new-15-off-existing/ |
