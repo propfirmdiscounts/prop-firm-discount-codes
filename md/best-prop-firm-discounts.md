@@ -7,13 +7,13 @@ As of October 2026, PropFirmDiscount tracks 58 prop firms with a verified discou
 | # | Prop firm | Discount code | Discount | Type | Checked |
 |---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Phidias Propfirm | PFD | 85% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 3 | Elite Trader Funding | 20BACK | 85% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
+| 2 | Elite Trader Funding | BULLTOBER | 90% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
+| 3 | Phidias Propfirm | PFD | 85% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | RebelsFunding | SEVEN | 73% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 5 | Funded Hero | PFD | 70% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 6 | Purdia Capital | STATIC70 | 70% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 5 | Purdia Capital | STATIC70 | 70% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 6 | QT Funded | PFD | 65% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 7 | FundYourFX | HALLOWEEN65 | 65% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 8 | QT Funded | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 8 | Funded Hero | PFD | 62% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 9 | Top One Futures | PFD | 60% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 10 | Titan Capital | BOGO | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
 | 11 | WSFunded | HISPANIC60 | 60% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
@@ -72,7 +72,7 @@ Ranked highest discount first. "Exclusive Code" is a code the PropFirmDiscount t
 | # | Prop firm | Exclusive code | Discount | Checked | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 2 | Funded Hero | PFD | 62% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |

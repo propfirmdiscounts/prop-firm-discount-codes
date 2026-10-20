@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
+| 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
+| 2026-10-20 | QT Funded | QT Funded 65% Off All Accounts – Acquisition Deal | 65% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/ |
 | 2026-10-20 | CK PropFirm | CK PropFirm 80% Off Challenges: $100K Account for $144 | 80% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
 | 2026-10-20 | Elite Trader Funding | Elite Trader Funding: 90% Off Non-Fast Track Evals | 90% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-evals/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
 | 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
-| 2026-10-16 | OFP Funding | OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250 | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/ |
-| 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 | 70% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
-| 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |

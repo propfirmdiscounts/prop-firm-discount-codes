@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-11 | Blue Guardian | Blue Guardian: Up To 45% Off 2-Step Challenges Entry Fee | 45% OFF | No Code Required | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-off-2-step-challenges-june/ |
 | 2026-06-09 | Trade The Pool | Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026 | Free retry credit | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/ |
 | 2026-06-08 | Alpha Trader Firm | Alpha Trader Firm Buy Two $300K Or $400K Challenges Get A Free $100K Account | BOGO | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-buy-two-300k-400k-free-100k/ |
-| 2026-06-05 | The Trading Pit | The Trading Pit 50% Off 5K Evaluation Accounts | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-50-discount-5k-accounts/ |

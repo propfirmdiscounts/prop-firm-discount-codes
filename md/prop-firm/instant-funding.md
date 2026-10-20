@@ -7,48 +7,41 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 - Code: AFFVOYAGE61
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-16
+- Last deal published: 2026-10-20
 - Trustpilot: 2.8/5 (4371 reviews)
 - Activate: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Instant Funding 35% Off Evolve Evaluation Accounts
+## Current deal: Instant Funding 40% Off Everything - Discount Code
 
-- Published: 2026-10-16
-- Offer: 35% Off
-- Code: EVOLVE35
-- Scope: Evolve, Evaluation Accounts
-- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/
+- Published: 2026-10-20
+- Offer: 40% Off
+- Code: ALL40
+- Scope: Everything, All accounts
+- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/
 
 ## Instant Funding deal FAQ
 
-**What does the active promotion provide at Instant Funding?**
+**What discount does Instant Funding offer in this promotion?**
 
-The current discount offers a 35% reduction on the upfront cost of Evolve evaluation accounts. It applies exclusively to the purchase fee.
+Instant Funding offers 40% off everything. The cut lowers the upfront purchase cost only and does not change trading rules or trading risk.
 
-**Does the discount change the profit target for the Evolve model?**
+**How long does the Instant Funding offer run?**
 
-No, the 6% profit target remains strictly in place. Traders must also complete a minimum of 5 profitable days of at least 0.25% each.
+The stated window ends at midnight tonight, London time. Buyers who want the lower price need to complete the purchase within that window.
 
-**Are there changes to the daily loss limit during this promotion?**
+**Does this Instant Funding promotion change trading rules or drawdown limits?**
 
-The Evolve model inherently features no daily loss limit during both the challenge and funded stages. This rule does not change.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters for Instant Funding accounts.
 
-**What is the maximum loss limit on the discounted Evolve accounts?**
+**Who may this Instant Funding offer suit?**
 
-The 4% maximum loss limit calculated via end-of-day drawdown remains fully enforced. The price reduction does not soften this requirement.
-
-**Are traders allowed to trade news on Evolve accounts?**
-
-Yes, Instant Funding allows news trading during both stages of the Evolve evaluation.
-
-**Does Instant Funding offer a standing exclusive code?**
-
-Yes, the platform provides a permanent code AFFVOYAGE61 that is always available at checkout and occasionally matches the highest active rate.
+It may suit buyers who had already planned a purchase and can complete it in time. It should be approached cautiously if the short deadline is the only reason to buy.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-20 - [Instant Funding 40% Off Everything - Discount Code](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) (40% Off)
 - 2026-10-16 - [Instant Funding 35% Off Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) (35% Off)
 - 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off)
 - 2026-10-02 - [Instant Funding 40% Off Micro Lite Accounts Up to $25K](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) (40% Off)

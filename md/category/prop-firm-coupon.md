@@ -6,6 +6,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
+| 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
+| 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
+| 2026-10-20 | QT Funded | QT Funded 65% Off All Accounts – Acquisition Deal | 65% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/ |
 | 2026-10-20 | CK PropFirm | CK PropFirm 80% Off Challenges: $100K Account for $144 | 80% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
 | 2026-10-20 | Elite Trader Funding | Elite Trader Funding: 90% Off Non-Fast Track Evals | 90% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-evals/ |
