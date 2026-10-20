@@ -15,8 +15,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 5 | Funded Hero | PFD | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 6 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 7 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 8 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 9 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 8 | QT Funded | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 9 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 10 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
 
 ## Exclusive Prop Firm Discount Codes
@@ -29,8 +29,8 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 4 | E8 Markets | CHUN | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | October 2026 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | 6 | Lucid Trading | PFD | 40% | October 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| 7 | Blue Guardian | PFD | 35% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 8 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 7 | AquaFunded | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 8 | Blue Guardian | PFD | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 9 | TX3 Funding | PFDC | 25% | October 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 10 | Funded Trading Plus | PFD | 10% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 
@@ -40,7 +40,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-20 | Alpha Futures | Alpha Futures 50% Off Standard, Direct, Advanced | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
+| 2026-10-20 | Alpha Futures | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |
+| 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
+| 2026-10-20 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Discount Code – $108 Express | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/ |
+| 2026-10-20 | FTUK | FTUK 40% Off Instant Funding Plus 20% Payout Boost | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/ |
 | 2026-10-19 | QT Funded | QT Funded 60% Off QT TWO Evaluations to $200K | 60% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/ |
+| 2026-10-19 | Titan Capital | Titan Capital 60% Off Evaluations Plus Free Second Account | 60% Off | Campaign Code Required | https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/ |
 | 2026-10-19 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October | 15% Off | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
@@ -64,9 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
 | 2026-10-15 | Ment Funding | Ment Funding 50% Off PropX Accounts Up to $100K | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80 | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/ |
-| 2026-10-14 | Forexive | Forexive 30% Off All Trading Challenges | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
-| 2026-10-14 | FTUK | FTUK 50% Off Flex Account Activation Fees | 50% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/ |
-| 2026-10-14 | FTUK | FTUK 20% Off Flex Account Activation Fees | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/ |
-| 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% Off | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
-| 2026-10-14 | Elite Trader Funding | Elite Trader Funding: $27 Evaluation Resets | 42% Off | Campaign Code Required | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-27-eval-resets/ |
-| 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% Off | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |

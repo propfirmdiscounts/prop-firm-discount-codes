@@ -12,7 +12,6 @@ Hantec Trader is offering 35% off — discount code **REACT35**.
 - Code: REACT35
 - Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
 - Deal: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
-- Verified standing exclusive code: A2dmq73g8 (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -1,17 +1,13 @@
 # Hantec Trader Discount Code
 
-The verified Hantec Trader discount code is **A2dmq73g8** — Up to 5% off, works any time.
+The newest Hantec Trader discount code is **REACT35** — 35% off (October 14, 2026). The live campaign code changes with each promotion; newest first below.
 
 > Hantec Trader provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our Express, Enhanced, and Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits. We are part of the Hantec Global group, a trusted name in the financial industry with over 35 years of experience.
 
-- Code: A2dmq73g8
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
 - Last deal published: 2026-10-14
 - Trustpilot: 4.3/5 (847 reviews)
 - Activate: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deal: Hantec Trader 35% Off Eligible Challenge Pricing
 

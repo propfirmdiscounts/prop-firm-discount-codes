@@ -1,15 +1,15 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-50 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+49 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
 | Prop firm | Code | Discount | Valid from | Valid until | Last deal published | Firm page |
 |---|---|---|---|---|---|---|
-| Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-09-15 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
+| Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-20 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | Atlas Funded | PFD | 50% | 2026-01-01 | 2026-12-31 | - | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| Blue Guardian | PFD | 35% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| Blue Guardian | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-20 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | 2026-01-01 | 2026-12-31 | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
@@ -37,11 +37,10 @@
 | FundingTicks | 05EB577C | 40% | 2026-01-01 | 2026-12-31 | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | FundingTraders | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | 2026-01-01 | 2026-12-31 | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| Hantec Trader | A2dmq73g8 | 5% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
 | HyroTrader | PFD | 5% | 2026-01-01 | 2026-12-31 | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | 2026-01-01 | 2026-12-31 | 2026-10-16 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 40% | 2026-01-01 | 2026-12-31 | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-20 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-19 | https://propfirmdiscount.com/prop-firm/qt-funded/ |

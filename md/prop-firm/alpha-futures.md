@@ -7,38 +7,44 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-09-15
+- Last deal published: 2026-10-20
 - Trustpilot: 4.4/5 (6194 reviews)
 - Activate: https://propfirmdiscount.com/go/alphafutures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Alpha Futures 50% Off Evaluation Accounts
+## Current deal: Alpha Futures 50% Off Standard, Direct, Advanced
 
-- Published: 2026-09-15
+- Published: 2026-10-20
 - Offer: 50% Off
-- Code: TRADINGVIEW
-- Scope: Evaluation accounts
-- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/
+- Code: MYALPHA50
+- Scope: Standard plan, Direct plan, Advanced plan
+- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/
 
 ## Alpha Futures deal FAQ
 
-**What does the current Alpha Futures promotion change?**
+**What does Alpha Futures take off in this promotion?**
 
-The promotion reduces the upfront entry fee for evaluation accounts by 50%. It does not modify any trading rules, risk limits, or profit targets.
+The promotion takes 50% off the Standard, Direct and Advanced plans. It runs Oct 19 - Oct 31 as part of the MyAlpha launch.
 
-**Has Alpha Futures changed its payout processing time?**
+**Does the Alpha Futures discount change the trading rules?**
 
-Yes, alongside this discount, the firm noted that payout times have been reduced back to five days.
+No. The offer reduces the purchase price only and it does not change trading rules, drawdown limits or evaluation criteria. A lower entry cost does not reduce trading risk.
 
-**Does this discount make the evaluation easier to pass?**
+**What is MyAlpha at Alpha Futures?**
 
-No. The trading difficulty, drawdown limits and all other evaluation criteria remain completely unchanged.
+MyAlpha is described as a free journaling and analytics platform for Alpha traders. It includes analytics and a session log to help traders review their own data.
 
-**Who might benefit from this Alpha Futures pricing?**
+**Who may this Alpha Futures offer suit?**
 
-This cost reduction is suited for traders who want to lower their initial financial outlay when purchasing a new evaluation account.
+It may suit buyers who already planned to buy a Standard, Direct or Advanced plan during the stated window. Buyers choosing a plan only because of the discount should be cautious.
+
+**When does this Alpha Futures promotion run?**
+
+The stated window is Oct 19 - Oct 31. No other validity terms are given for this offer.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-20 - [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) (50% Off)
+- 2026-10-20 - [Alpha Futures 40% Off Zero Plan for MyAlpha Launch](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) (40% Off)
 - 2026-09-15 - [Alpha Futures 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/) (50% Off)
