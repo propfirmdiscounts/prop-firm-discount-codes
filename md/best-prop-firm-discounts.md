@@ -51,7 +51,7 @@ As of October 2026, PropFirmDiscount tracks 56 prop firms with a verified discou
 | 43 | thePropTrade | PFD | 20% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
 | 44 | WeMasterTrade | PFD | 20% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | 45 | For Traders | VGYCKXLTY9 | 15% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fortraders/ |
-| 46 | City Traders Imperium (CTI) | PORTAL15 | 15% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
+| 46 | City Traders Imperium (CTI) | BREAK15 | 15% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
 | 47 | CK PropFirm | PFD | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | 48 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | 49 | Forexive | WHCTXQHRIG | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/forexive/ |

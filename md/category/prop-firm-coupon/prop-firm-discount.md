@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-19 | QT Funded | QT Funded 60% Off QT TWO Evaluations to $200K | 60% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/ |
 | 2026-10-19 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
 | 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 – Review The Entry Fee First | 50% OFF | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Funded Trading Plus | Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/ |
-| 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |

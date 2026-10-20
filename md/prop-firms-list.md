@@ -44,7 +44,7 @@
 | Phidias Propfirm | PFD | 85% | 2026-01-01 | 2026-12-31 | 2026-10-12 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | 2026-01-01 | 2026-12-31 | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | 2026-01-01 | 2026-12-31 | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-01 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| QT Funded | PFD | 60% | 2026-01-01 | 2026-12-31 | 2026-10-19 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | 2026-01-01 | 2026-12-31 | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | 2026-01-01 | 2026-12-31 | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
