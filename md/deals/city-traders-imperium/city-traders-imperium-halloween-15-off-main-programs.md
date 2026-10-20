@@ -1,4 +1,4 @@
-# City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding – Check the Halloween Entry Fee Before 25 October
+# City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding
 
 City Traders Imperium (CTI) is offering 15% off — discount code **BREAK15**.
 

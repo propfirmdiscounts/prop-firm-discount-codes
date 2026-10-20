@@ -1,4 +1,4 @@
-# FundYourFX 65% Off All Plans: Check the Halloween Entry Fee Before Deciding
+# FundYourFX 65% Off All Plans: Check the Halloween Entry Fee
 
 FundYourFX is offering 65% off — discount code **HALLOWEEN65**.
 

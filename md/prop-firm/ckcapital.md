@@ -7,40 +7,45 @@ The verified CK PropFirm discount code is **PFD** — Up to 10% off, works any t
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-16
+- Last deal published: 2026-10-20
 - Trustpilot: 3.0/5 (425 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: CK PropFirm 75% Off All Accounts Upfront Fee
+## Current deal: CK PropFirm 80% Off Challenges: $100K Account for $144
 
-- Published: 2026-10-16
-- Offer: 75% Off
-- Code: OCT75
-- Scope: All Accounts
-- Deal page: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/
+- Published: 2026-10-20
+- Offer: 80% Off
+- Code: OCT80
+- Scope: 2Step Standard, 2Step Pro, 1Step Standard, Instant Funded, $100K account
+- Deal page: https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/
 
 ## CK PropFirm deal FAQ
 
-**What discount is provided?**
+**What discount does CK PropFirm offer in this promotion?**
 
-The promotion reduces the upfront entry cost by 75% on all evaluation accounts.
+CK PropFirm offers 80% off the listed models in this flash promotion with a $100K account shown at $144. The discount reduces the purchase price only while trading rules stay unchanged.
 
-**Are trading rules relaxed during this promotion?**
+**Which CK PropFirm account models are included in the 80% offer?**
 
-No. The promotion only reduces the initial purchase price; all trading rules and drawdown limits remain identical.
+The offer lists 2Step Standard, 2Step Pro, 1Step Standard and Instant Funded. The 2Step Pro listing is marked with no consistency score while the other models carry no such note here.
 
-**Which account sizes are eligible for the discount?**
+**Does this CK PropFirm promotion change trading rules or trading risk?**
 
-The 75% discount applies to all account sizes offered by CK PropFirm.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Do I need a coupon code?**
+**Is an expiry date stated for this CK PropFirm flash promotion?**
 
-Yes, an active promotion code is required at checkout to activate the 75% discount.
+No expiry date is stated for this flash promotion. Buyers should confirm the model, the size and the final price at the point of purchase.
+
+**What account size is priced in the CK PropFirm example?**
+
+The example prices a $100K account at $144 after the stated 80% discount. Other sizes are not priced in the offer itself.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-20 - [CK PropFirm 80% Off Challenges: $100K Account for $144](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) (80% Off)
 - 2026-10-16 - [CK PropFirm 75% Off All Accounts Upfront Fee](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) (75% Off)
 - 2026-10-14 - [CK Capital 75% Off All Challenge Accounts and 10% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) (75% Off)
 - 2026-09-06 - [CK Capital $100K Account for $199: Upfront Entry Cost Details](https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/) (Only $199)

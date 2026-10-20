@@ -1,46 +1,51 @@
 # RebelsFunding Discount Code
 
-The newest RebelsFunding discount code is **SEVEN** — 73% off (October 13, 2026). The live campaign code changes with each promotion; newest first below.
+The newest RebelsFunding discount code is **FORNINE** — 70% off (October 20, 2026). The live campaign code changes with each promotion; newest first below.
 
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
-- Last deal published: 2026-10-13
+- Last deal published: 2026-10-20
 - Trustpilot: 4.3/5 (2840 reviews)
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-## Current deal: RebelsFunding 73% Off $5,000 Trading Accounts For €7
+## Current deal: RebelsFunding 70% Off $1,000 1-Step Challenge for €9
 
-- Published: 2026-10-13
-- Offer: 73% Off
-- Code: SEVEN
-- Scope: $5,000 account, limited to 1000 accounts sold
-- Deal page: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/
+- Published: 2026-10-20
+- Offer: 70% Off
+- Code: FORNINE
+- Scope: 1-step challenge, $1,000 account size, €9 entry price, no daily drawdown limit, unlimited time to pass
+- Deal page: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/
 
 ## RebelsFunding deal FAQ
 
 **What discount does RebelsFunding offer in this promotion?**
 
-RebelsFunding offers a 73% discount specifically on its $5,000 evaluation accounts. This reduces the standard purchase price from u20ac26 to u20ac7.
+RebelsFunding offers 70% off its $1,000 1-step program. The reduction brings the entry price to u20ac9 for this account size.
 
-**Does the lower price change the evaluation rules?**
+**How long is the RebelsFunding u20ac9 program available?**
 
-No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Traders still have unlimited time to complete the program.
+The offer runs for 3 days only. On Thursday October 22 the program disappears from the lineup and it will no longer be available after that.
 
-**Is there a deadline for this RebelsFunding offer?**
+**What are the main terms of the $1,000 1-step program at RebelsFunding?**
 
-Yes, the promotion is valid only until Thursday, October 15. It is also capped at a maximum of 1,000 accounts sold, so it may expire earlier if the limit is reached.
+The program has just one phase to complete and it carries no daily drawdown limit. There is also unlimited time to pass the challenge.
 
-**Which account sizes are eligible for the u20ac7 price?**
+**Does the 70% discount change the challenge rules at RebelsFunding?**
 
-The u20ac7 promotional price applies strictly to the $5,000 trading account model. Other account tiers are not covered by this specific discount.
+No. The promotion only reduces the entry cost from u20ac30 to u20ac9 at this size and it does not reduce trading risk or make the single phase easier to complete.
 
-**How can traders secure this limited offer?**
+**Who may find this RebelsFunding offer relevant?**
 
-Traders can activate the promotion by visiting the official RebelsFunding site and applying the active discount at checkout before the October 15 deadline.
+Buyers who were already considering a $1,000 one-phase program may find the u20ac9 upfront entry cost relevant. Buyers who feel rushed by the 3-day window should be cautious before purchasing.
+
+**How can readers access this RebelsFunding promotion?**
+
+Readers can follow the Start here link at the end of the article to reach the official site. The full terms and the current listing for the $1,000 program are carried there.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-20 - [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) (70% Off)
 - 2026-10-13 - [RebelsFunding 73% Off $5,000 Trading Accounts For €7](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/) (73% Off)
 - 2026-10-06 - [RebelsFunding 59% Off $20,000 Evaluation Accounts For €29](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/) (59% Off)
 - 2026-09-29 - [RebelsFunding 70% Off $1,000 Evaluation Accounts For €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3/) (70% Off)

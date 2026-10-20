@@ -1,4 +1,4 @@
-# FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 – Check The Upfront Fee First
+# FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82
 
 FundingTraders is offering 50% off — discount code **PFD**.
 
