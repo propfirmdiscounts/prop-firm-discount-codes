@@ -55,12 +55,12 @@ As of October 2026, PropFirmDiscount tracks 58 prop firms with a verified discou
 | 47 | Alpha Futures | Tran009503 | 15% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | 48 | For Traders | VGYCKXLTY9 | 15% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | 49 | City Traders Imperium (CTI) | BREAK15 | 15% | Campaign Code | October 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
-| 50 | CK PropFirm | PFD | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 51 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fxify/ |
-| 52 | Forexive | WHCTXQHRIG | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/forexive/ |
-| 53 | Funded Trading Plus | PFD | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 54 | Funded Elite | AFF1864062 | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
-| 55 | Instant Funding | AFFVOYAGE61 | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| 50 | Instant Funding | AFFVOYAGE61 | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| 51 | CK PropFirm | PFD | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 52 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fxify/ |
+| 53 | Forexive | WHCTXQHRIG | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/forexive/ |
+| 54 | Funded Trading Plus | PFD | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 55 | Funded Elite | AFF1864062 | 10% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
 | 56 | Fundex | PFD | 5% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | 57 | Dominion Funding | PFD5PC | 5% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 | 58 | Funding Your Trades | PFD | 2% | Exclusive Code | October 2026 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
