@@ -7,48 +7,49 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-21
 - Trustpilot: 3.5/5 (13350 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: QT Funded 65% Off All Accounts - Acquisition Deal
+## Current deal: QT Funded 55% Off All Accounts Plus Free Account
 
-- Published: 2026-10-20
-- Offer: 65% Off
+- Published: 2026-10-21
+- Offer: 55% Off
 - Code: PFD
-- Scope: all accounts, fee refund on first qualifying payout
-- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/
+- Scope: All accounts, second account of same size
+- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/
 
 ## QT Funded deal FAQ
 
 **What discount does QT Funded offer in this promotion?**
 
-QT Funded offers 65% off all accounts in this promotion. The account fee is also refunded on the first qualifying payout.
-
-**Which QT Funded accounts does the 65% promotion cover?**
-
-The promotion states all accounts with no model or size excluded in the terms given. Buyers should confirm the specific account terms before purchase.
+QT Funded offers 55% off all accounts in this promotion. A purchase also includes another account of the same size at no additional cost.
 
 **When does this QT Funded offer end?**
 
-Both offers in this set end on Sunday 25 October 2026 at 11:59 PM UK time. The date is stated as the closing point for this promotion.
+The offer ends on Sunday, 25 October 2026 at 11:59 PM UK time. That window applies to both offers in this launch.
 
 **Does the QT Funded discount change trading rules?**
 
-No. The promotion reduces the purchase price only and does not change trading rules or drawdown limits or evaluation criteria and it does not reduce trading risk.
+No. The promotion lowers purchase cost only and does not change trading rules, drawdown limits or evaluation criteria. It also does not reduce trading risk.
 
-**How does the QT Funded fee refund work?**
+**What does the free account element mean at QT Funded?**
 
-The account fee is refunded on the first qualifying payout. The promotion does not define qualifying beyond that wording so the payout conditions for the chosen account should be checked first.
+It means the purchase of a second account of the same size at no additional cost. The promotion describes it as a purchase inclusion only.
 
-**Who may this QT Funded pricing suit?**
+**Who may this QT Funded promotion suit?**
 
-It may suit buyers who were already comparing any account and who value a lower upfront entry cost. Buyers relying mainly on the refund should be cautious because it depends on reaching a qualifying payout.
+It may suit a buyer who was already considering an account and who values a lower purchase price with a second same-size account included. Suitability is based on purchase structure only.
+
+**What platform tools are named with this QT Funded launch?**
+
+The launch names TradingView Charts, Interactive Forex Heatmaps, an Integrated Economic Calendar and a Smart Lot Size and Risk Calculator. It also names an upgraded dashboard and faster breach detection.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off)
 - 2026-10-20 - [QT Funded 65% Off All Accounts - Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off)
 - 2026-10-19 - [QT Funded 60% Off QT TWO Evaluations to $200K](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) (60% Off)
 - 2026-10-01 - [QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) (60% Off)

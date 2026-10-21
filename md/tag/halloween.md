@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Atlas Funded 45% Off All Challenges – Halloween Deal** from Atlas Funded — 45% off (published 2026-10-21). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **BrightFunded 30% Off All Challenges – Halloween Deal** from BrightFunded — 30% off (published 2026-10-21). Codes and live offers below, newest first.
 
 Top live offers now:
+- BrightFunded — BrightFunded 30% Off All Challenges – Halloween Deal (30% Off)
 - Atlas Funded — Atlas Funded 45% Off All Challenges – Halloween Deal (45% Off)
 - AquaFunded — AquaFunded 25% Off Evaluations Halloween, 200% Refund (25% Off)
-- TX3 Funding — TX3 Funding 30% Off All Accounts – Halloween Deal (30% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |
-| 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |

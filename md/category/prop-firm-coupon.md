@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | QT Funded | QT Funded 55% Off All Accounts Plus Free Account | 55% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/ |
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |

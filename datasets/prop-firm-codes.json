@@ -35,10 +35,10 @@
         {
             "prop_firm": "QT Funded",
             "code": "PFD",
-            "discount": "65%",
+            "discount": "55%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-20",
+            "last_deal_published": "2026-10-21",
             "activation_link": "https://propfirmdiscount.com/go/qtfunded",
             "archive_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
             "trustpilot_score": 3.5,

@@ -13,11 +13,11 @@ The top live prop firm discount code this month is **PFD** from Bulenox — 91% 
 | 3 | Phidias Propfirm | PFD | 85% | October 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | RebelsFunding | SEVEN | 73% | October 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 5 | Purdia Capital | STATIC70 | 70% | October 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 6 | QT Funded | PFD | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 7 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 8 | Funded Hero | PFD | 62% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 9 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 10 | Titan Capital | BOGO | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
+| 6 | FundYourFX | HALLOWEEN65 | 65% | October 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 7 | Funded Hero | PFD | 62% | October 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 8 | Top One Futures | PFD | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 9 | Titan Capital | BOGO | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
+| 10 | WSFunded | HISPANIC60 | 60% | October 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | QT Funded | QT Funded 55% Off All Accounts Plus Free Account | 55% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/ |
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% Off | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
@@ -68,5 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee | 65% Off | Campaign Code Required | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-18 | IC Funded | IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
-| 2026-10-17 | E8 Markets | E8 Markets: 50% Off Signature Classic and Arc Accounts | 50% Off | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/ |
-| 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |

@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
-| 2026-09-21 | Upcomers | Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free | 90% OFF | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/ |

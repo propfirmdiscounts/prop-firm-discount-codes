@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
@@ -61,6 +62,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 30% OFF Instant Funding Classic (Orders Over $150) | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-30-off-instant-classic-over-150/ |
 | 2025-10-28 | OFP Funding | OFP Funding — Halloween: 50% OFF Instant Funding Classic (Orders Over $400) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-halloween-50-off-instant-classic-over-400/ |
 | 2025-10-28 | Finotive Funding | Finotive Funding — Halloween Deal (no coupon required): 30% OFF Site-Wide on All Accounts (Ends Nov 2, 23:00 CET) | 30% OFF | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-deal-30-off-sitewide-ends-nov-2/ |
+| 2025-10-28 | Atlas Funded | Atlas Funded 40% Off Challenges – Halloween Discount Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-halloween/ |
 | 2025-10-28 | Dominion Funding | Dominion Funding — Halloween: 15% OFF Funding on $7.5K & $100K Accounts | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-halloween-15-off-funding-on-7-5k-100k-accounts/ |
 | 2025-10-27 | SabioTrade | SabioTrade Halloween Deal: 30% Off Any Account + Free Course | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/ |
 | 2025-10-27 | For Traders | For Traders — Halloween Sale: Up to 30% OFF on Challenges & Master Accounts | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-up-to-30-off-challenges-master-accounts/ |

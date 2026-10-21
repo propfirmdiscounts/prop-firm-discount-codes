@@ -13,39 +13,35 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Atlas Funded 45% Off All Challenges - Halloween Deal
+## Current deal: Atlas Funded 40% Off All Evaluations - Valentine's Day
 
-- Published: 2026-10-21
-- Offer: 45% Off
-- Code: SPOOKY
-- Scope: All account sizes, All challenges, $100K challenge, $200K challenge, $300K challenge, $400K challenge, Halloween
-- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/
+- Published: 2026-02-12
+- Offer: 40% Off
+- Code: HEART40
+- Scope: Valentine's Day, flash promotion, funded accounts, evaluations, funding programs
+- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/
 
 ## Atlas Funded deal FAQ
 
-**What discount does Atlas Funded offer in this Halloween promotion?**
+**What discount does Atlas Funded offer in this Valentine's promotion?**
 
-Atlas Funded offers 45% off across all account sizes in this promotion. The offer also lists 125% of the challenge fee back on the second reward.
+The promotion gives 40% off a funded account purchase and includes a 100% refund. It is framed as a Valentine's Day flash promotion for a limited time.
 
-**Which Atlas Funded challenge sizes include a pack?**
+**Does the Atlas Funded discount change trading rules?**
 
-A $100K challenge and a $200K challenge include a free Elite Pack to open. A $300K challenge and a $400K challenge include the Atlas Black Pack instead.
+No. The offer changes purchase pricing only and it does not reduce trading risk or modify drawdown limits.
 
-**When does the 125% fee back arrive with Atlas Funded?**
+**Who may find this Atlas Funded offer relevant?**
 
-The 125% figure is paid back on the second reward. It is separate from the 45% saving that applies at purchase.
+Buyers who already planned to purchase an evaluation or a funding program may find the lower entry price relevant. Anyone buying only because the price is lower should be cautious.
 
-**How long does the Atlas Funded Halloween promotion run?**
+**How long does the Atlas Funded Valentine's flash promotion run?**
 
-The promotion is described as limited time only. No calendar end date is stated in its terms.
+The promotion is described as a flash deal that will not last long. No calendar end date is stated for it.
 
-**Does this Atlas Funded discount change trading rules or lower risk?**
+**Is the 100% refund part of the Atlas Funded price cut?**
 
-No, the promotion changes the purchase price and the items attached to qualifying sizes. Trading rules, drawdown limits and trading risk stay unchanged.
-
-**What rating does Atlas Funded carry on Trustpilot?**
-
-The firm carries a 4/5 rating from 2026 reviews as of October 2026, according to Trustpilot. That rating sits outside the Halloween promotion terms.
+Yes. The refund sits alongside the 40% reduction as part of the same Valentine's offer. It is a purchase term and it does not change trading conditions.
 
 ## Current deals (last 2 months, newest first)
 
