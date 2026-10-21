@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% Off | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% Off | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
 | 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% Off | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% Off | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
@@ -68,5 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% Off | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-17 | E8 Markets | E8 Markets: 50% Off Signature Classic and Arc Accounts | 50% Off | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/ |
 | 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
-| 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% Off | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
-| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% Off | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |

@@ -7,8 +7,8 @@
 | Prop firm | Code | Discount | Valid from | Valid until | Last deal published | Firm page |
 |---|---|---|---|---|---|---|
 | Alpha Futures | Tran009503 | 15% | 2026-01-01 | 2026-12-31 | 2026-10-20 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
-| AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-14 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| Atlas Funded | PFD | 50% | 2026-01-01 | 2026-12-31 | - | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| AquaFunded | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-21 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| Atlas Funded | PFD | 50% | 2026-01-01 | 2026-12-31 | 2026-10-21 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | Blue Guardian | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-10-20 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 25% | 2026-01-01 | 2026-12-31 | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | 2026-01-01 | 2026-12-31 | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |

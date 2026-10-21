@@ -1,16 +1,18 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **TX3 Funding 30% Off All Accounts – Halloween Deal** from TX3 Funding — 30% off (published 2026-10-20). Codes and live offers below, newest first.
+The newest Halloween prop firm deal is **Atlas Funded 45% Off All Challenges – Halloween Deal** from Atlas Funded — 45% off (published 2026-10-21). Codes and live offers below, newest first.
 
 Top live offers now:
+- Atlas Funded — Atlas Funded 45% Off All Challenges – Halloween Deal (45% Off)
+- AquaFunded — AquaFunded 25% Off Evaluations Halloween, 200% Refund (25% Off)
 - TX3 Funding — TX3 Funding 30% Off All Accounts – Halloween Deal (30% Off)
-- Blue Guardian — Blue Guardian 25% off Reserve discount code (25% Off)
-- FTUK — FTUK 40% Off Instant Funding Plus 20% Payout Boost (40% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% OFF | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
 | 2026-10-20 | FTUK | FTUK 40% Off Instant Funding Plus 20% Payout Boost | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/ |
@@ -24,6 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
+| 2026-10-15 | Atlas Funded | Atlas Funded 40% Off Challenges – Halloween Flash Deal | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
 | 2026-10-14 | Hola Prime | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |
 | 2026-10-14 | Alpha Trader Firm | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
@@ -38,6 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |
 | 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |
-| 2025-10-31 | PropShopTrader | PropShopTrader Halloween Promo: 50% OFF Gladiator Resets | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-50-off-resets/ |
-| 2025-10-31 | PropShopTrader | PropShopTrader Halloween Deal: 70% OFF Warrior Evaluations | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-70-off-warrior-evaluations/ |
-| 2025-10-31 | PropShopTrader | PropShopTrader Halloween Offer: 70% OFF Instant Gladiators Direct Funding | 70% OFF | No Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-70-off-instant-funding/ |

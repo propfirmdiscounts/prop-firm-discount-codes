@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
 | 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
@@ -43,6 +45,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |
+| 2026-10-15 | Atlas Funded | Atlas Funded 40% Off Challenges – Halloween Flash Deal | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/ |
 | 2026-10-15 | For Traders | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
 | 2026-10-15 | For Traders | For Traders: 50% Off All Forex Instant Master Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/ |
 | 2026-10-15 | FXIFY | FXIFY 40% Off Instant Funding Accounts | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
@@ -97,6 +100,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-07 | Top One Trader | Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500) | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/ |
 | 2026-10-07 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40) | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/ |
 | 2026-10-07 | TX3 Funding | TX3 Funding 20% Off All Accounts Harvest Week | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/ |
+| 2026-10-07 | Atlas Funded | Atlas Funded 45% Off All Account Sizes – New Era Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
 | 2026-10-07 | Lark Funding | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |
@@ -166,6 +170,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-28 | Tradexprop | Tradexprop 25% Off Instant Funding Plans | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-25-off-instant-funding-plans/ |
 | 2026-09-26 | Direct Funded Trader | Direct Funded Trader 50% Off All Evaluation Accounts | 50% OFF | PFD | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/ |
 | 2026-09-26 | OFP Funding | OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250 | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/ |
+| 2026-09-26 | Atlas Funded | Atlas Funded 35% Off Any Challenge – September Close | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-any-challenge-september-close/ |
 | 2026-09-26 | BullRush Prop | BullRush Prop 50% Off $5K-$50K Accounts: Entry Cost Reduction | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/ |
 | 2026-09-25 | Finotive Futures | Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts | 50% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/ |
 | 2026-09-25 | Funded Hero Futures | Funded Hero Futures: 55% Off Entry Fees Plus Buy One Get One Free | 55% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/ |
@@ -191,6 +196,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-20 | The Concept Trading | The Concept Trading: 45% Off Challenge Pricing & Intern Retry | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-45-off-intern-retry/ |
 | 2026-09-20 | Funded Hero | Funded Hero 65% Off All Evaluation Accounts | 65% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/ |
 | 2026-09-19 | WSFunded | WSFunded 60% Off $2.5K to $25K Accounts | 60% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-percent-discount-25k/ |
+| 2026-09-19 | Atlas Funded | Atlas Funded 40% Off Challenges – Weekend Promo | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-free-reset/ |
 | 2026-09-18 | FundingPips | FundingPips 20% Off ZERO Accounts (5K-200K) Upfront Entry Cost | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-zero-accounts/ |
 | 2026-09-18 | HyroTrader | HyroTrader: 10% Off Evaluation Challenges | 10% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/ |
 | 2026-09-17 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost | 20% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-90-profit-split-instant-1-step/ |
@@ -304,4 +310,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-01 | Blueberry Funded | Blueberry Funded: 35% Off Prime 2-Step Challenges Plus Additional Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-2-step/ |
 | 2026-09-01 | CK PropFirm | CK Capital 70% Off Evaluations and 75% Off Resets | 70% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/ |
 | 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price |  | No Code Required | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
+| 2026-09-01 | Atlas Funded | Atlas Funded 35% Off Challenges – September Promo | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-challenges-september-promo/ |
 | 2026-09-01 | TradeDay | TradeDay $25k Evaluation Account Deal for $45 |  | No Code Required | https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/ |

@@ -7,44 +7,49 @@ The verified AquaFunded discount code is **PFD** — Up to 25% off, works any ti
 - Code: PFD
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: 2026-01-01 to 2026-12-31
-- Last deal published: 2026-10-14
+- Last deal published: 2026-10-21
 - Trustpilot: 2.2/5 (1210 reviews)
 - Activate: https://propfirmdiscount.com/go/aquafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund
+## Current deal: AquaFunded 25% Off Evaluations Halloween, 200% Refund
 
-- Published: 2026-10-14
+- Published: 2026-10-21
 - Offer: 25% Off
 - Code: SPOOKY
-- Scope: Evaluation accounts
-- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/
+- Scope: One Step Standard, Two Step Standard, Instant Standard, Halloween, evaluation fee refund
+- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/
 
 ## AquaFunded deal FAQ
 
-**What discount does AquaFunded offer in this promotion?**
+**What discount does AquaFunded offer in this Halloween promotion?**
 
-This Halloween offer reduces the evaluation fee by 25%. It also grants a 150% refund on the initial fee when a trader reaches their fourth payout.
+AquaFunded offers 25% off the purchase price on its listed Standard paths in this Halloween promotion. The offer also adds a 200% refund on the evaluation fee.
 
-**Are there any usage limits for this Halloween promotion?**
+**Which AquaFunded accounts does the Halloween offer cover?**
 
-Yes, the promotion is strictly capped at 500 uses. It also has a specific validity window running from 14 to 23 October.
+The offer covers One Step Standard, Two Step Standard and Instant Standard. One Step Standard carries a 9% profit target, Two Step Standard is a classic 2-Step model with static drawdown and Instant Standard is described as the cheapest Instant.
 
-**Does this offer modify AquaFunded trading rules?**
+**How long does the AquaFunded Halloween promotion run and is there a limit?**
 
-No, the promotion affects purchase pricing and the refund structure only. It does not modify trading rules, drawdown limits, or risk parameters.
+The promotion runs through 5 November. It is limited to 250 accounts.
 
-**Who is this pricing structure best suited for?**
+**Does the AquaFunded discount change trading rules or reduce trading risk?**
 
-This offer may suit traders looking for a lower entry cost and who are confident in reaching four payout cycles. It should be approached cautiously if reaching four payouts is unlikely, as the enhanced refund is delayed until that milestone.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters, so a lower entry price does not reduce trading risk.
 
-**What happens if I miss the October 23 deadline?**
+**Who may find this AquaFunded pricing suitable?**
 
-Once the campaign ends on 23 October, or the 500-use cap is reached, the discount and the 150% refund entitlement will no longer apply to new purchases.
+It may suit buyers who had already planned to purchase one of the three Standard paths and who value the lower upfront price plus the evaluation fee refund. Buyers who need more time to assess a purchase should be cautious about the 250-account cap and the 5 November date.
+
+**Is this AquaFunded Halloween offer a coupon or a deal?**
+
+It is a coupon-type promotion tied to the Halloween sale. The same discount and refund terms apply whichever of the three Standard paths a buyer chooses.
 
 ## Current deals (last 2 months, newest first)
 
+- 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off)
 - 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off)
 - 2026-10-01 - [AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) (25% Off)
 - 2026-09-11 - [AquaFunded Autumn Promotion: 30% Off Evaluation Entry Fee](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-promotion-30-off/) (30% Off)

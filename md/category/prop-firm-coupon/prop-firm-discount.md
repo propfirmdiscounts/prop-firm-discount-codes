@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Code | Link |
 |---|---|---|---|---|---|
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal | 62% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
 | 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
 | 2026-10-20 | QT Funded | QT Funded 65% Off All Accounts – Acquisition Deal | 65% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-17 | E8 Markets | E8 Markets: 50% Off Signature Classic and Arc Accounts | 50% OFF | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/ |
 | 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
 | 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
-| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
-| 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% OFF | Campaign Code Required | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
