@@ -5,7 +5,7 @@ No live discount code for FundedTop right now — no new deals in the last 2 mon
 > FundedTop offers beginner and professional Traders an evaluation platform with access to virtual trading capital.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 3.3/5 (112 reviews)
+- Trustpilot: 3.3/5 (111 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtop
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedtop/
 

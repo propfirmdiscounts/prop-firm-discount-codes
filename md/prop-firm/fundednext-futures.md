@@ -3,7 +3,7 @@
 No live discount code for FundedNext Futures right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (81956 reviews)
+- Trustpilot: 4.5/5 (82129 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednextfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 

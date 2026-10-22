@@ -3,7 +3,7 @@
 No live discount code for Bullwaves Prime right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/bullwaves/
 
 - Last deal published: 2026-09-17
-- Trustpilot: 3.5/5 (675 reviews)
+- Trustpilot: 3.5/5 (676 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 

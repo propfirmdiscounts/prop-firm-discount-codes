@@ -3,7 +3,7 @@
 The newest The Concept Trading discount code is **MAD26** — 35% off (October 20, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-20
-- Trustpilot: 4.7/5 (471 reviews)
+- Trustpilot: 4.7/5 (470 reviews)
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 

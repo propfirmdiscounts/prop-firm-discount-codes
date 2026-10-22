@@ -8,7 +8,7 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 - Discount: Up to 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-03
-- Trustpilot: 2.9/5 (589 reviews)
+- Trustpilot: 2.9/5 (600 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

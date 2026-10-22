@@ -5,7 +5,7 @@ No live discount code for ATFunded right now — no new deals in the last 2 mont
 > ATFunded is a proprietary trading firm supported by ATFX, and aims to provide skilled traders with a practical and sustainable environment.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 4.4/5 (69 reviews)
+- Trustpilot: 4.4/5 (68 reviews)
 - Activate: https://propfirmdiscount.com/go/atfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atfunded/
 

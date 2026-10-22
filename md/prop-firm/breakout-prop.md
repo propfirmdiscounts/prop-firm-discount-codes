@@ -3,7 +3,7 @@
 No live discount code for Breakout Prop right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/breakout-prop/
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.7/5 (1222 reviews)
+- Trustpilot: 4.7/5 (1226 reviews)
 - Activate: https://propfirmdiscount.com/go/breakoutprop
 - Firm page: https://propfirmdiscount.com/prop-firm/breakout-prop/
 
