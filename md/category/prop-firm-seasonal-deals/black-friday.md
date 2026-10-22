@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-09-21 | Upcomers | Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free | 90% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/ |
 | 2025-12-02 | Hantec Trader | Hantec Trader Cyber Monday Extended: 25% Off All Challenges | 25% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-cyber-monday-extended-25-off/ |
 | 2025-12-02 | Ifunds | Ifunds Black Friday: 10% Off $10k Funded Account | 10% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/ifunds/ifunds-black-friday-10-off-10k-account/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-14 | Bullwaves Prime | Bullwaves Prime Black Friday — 100% Deposit Bonus on $500+ (Ends Nov 28, 500 Spots) | 100% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-100-percent-deposit-bonus-ends-nov-28/ |
 | 2025-11-14 | Bullwaves Prime | Bullwaves Prime Black Friday — 50% OFF 2-Step Challenges (Ends Nov 28, 500 Spots) | 50% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-50-off-2-step-challenges-ends-nov-28/ |
 | 2025-11-14 | SFX Funded | SFX FUNDED Black Friday — Buy 1 Get 2 Free (First 700 Users) | 50% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-buy-1-get-2-free-first-700-users/ |
-| 2025-11-13 | FundingTraders | FundingTraders Black Friday — 35% OFF + Free 90% Profit Split Add-On | 35% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-35-off-free-90-profit-split-addon/ |

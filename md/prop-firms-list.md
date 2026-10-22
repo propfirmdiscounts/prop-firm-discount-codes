@@ -21,9 +21,9 @@
 | E8 Markets | CHUN | 50% | standing | 2026-10-17 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | standing | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | standing | 2026-08-03 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
-| FXIFY | FXIFY2WRIVW | 10% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/fxify/ |
+| FXIFY | FXIFY2WRIVW | 10% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | standing | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| Finotive Futures | PFDDEAL | 25% | standing | 2026-10-02 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| Finotive Futures | PFDDEAL | 25% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | For Traders | VGYCKXLTY9 | 15% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/forexive/ |
@@ -33,16 +33,16 @@
 | Funded Trading Plus | PFD | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedSeat | PFD | 50% | standing | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | standing | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| Funding Your Trades | PFD | 2% | standing | 2026-10-13 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
+| Funding Your Trades | PFD | 2% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | standing | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | FundingTraders | PFD | 50% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| Goat Funded Trader | CSV | 35% | standing | 2026-09-30 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| Goat Funded Trader | CSV | 35% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 5% | standing | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 40% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
-| PipFarm | PFDC | 30% | standing | 2026-09-28 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| PipFarm | PFDC | 30% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | QT Funded | PFD | 55% | standing | 2026-10-21 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | standing | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |

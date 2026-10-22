@@ -1,16 +1,19 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **BrightFunded 30% Off All Challenges – Halloween Deal** from BrightFunded — 30% off (published 2026-10-21). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **Funding Your Trades 45% Off Halloween Challenges Plus BOGO** from Funding Your Trades — 45% off (published 2026-10-22). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
-- BrightFunded — BrightFunded 30% Off All Challenges – Halloween Deal (30% Off)
-- Atlas Funded — Atlas Funded 45% Off All Challenges – Halloween Deal (45% Off)
-- AquaFunded — AquaFunded 25% Off Evaluations Halloween, 200% Refund (25% Off)
+- Funding Your Trades — Funding Your Trades 45% Off Halloween Challenges Plus BOGO (45% Off)
+- FXIFY — FXIFY 35% Off All Other Programs – Halloween Deal (35% Off)
+- FXIFY — FXIFY 40% Off Instant Funding – Halloween Deal (40% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered; "Offer ended" means the promotion is over and the row is kept as deal history — there is no live code for it.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
+| 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
+| 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
 | 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | 2026-11-05 | Campaign Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
@@ -38,6 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | 2026-10-25 | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | 2026-10-25 | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
-| 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | 2026-10-11 (ended) | Offer ended | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
-| 2026-10-01 | Alpha Trader Firm | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
-| 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |

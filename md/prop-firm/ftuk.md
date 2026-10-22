@@ -1,51 +1,48 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **TRICK40** — 40% off (October 20, 2026). The campaign code changes with each promotion; newest first below.
+The newest FTUK discount code is **TRICK30** — 30% off (October 22, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-22
 - Trustpilot: 3.8/5 (791 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-## Current deal: FTUK 40% Off Instant Funding Plus 20% Payout Boost
+## Current deal: FTUK 30% Off Flex Challenge Activation Fee
 
-- Published: 2026-10-20
-- Offer ends: 2026-10-23
-- Offer: 40% Off
-- Code: TRICK40
-- Scope: Instant Funding, Halloween, Payout Boost
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/
+- Published: 2026-10-22
+- Offer ends: 2026-10-23 19:59
+- Offer: 30% Off
+- Code: TRICK30
+- Scope: Flex Challenge, activation fee, $9 entry, MT5 account purchases
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/
 
 ## FTUK deal FAQ
 
-**What discount does FTUK offer in this Halloween promotion?**
+**What does the FTUK Flex Challenge promotion change?**
 
-The offer gives 40% off Instant Funding only. It also adds a 20% payout boost. The change is to purchase pricing.
+It cuts the activation fee by 30% on the $9 Flex Challenge entry, bringing that fee element to $6.30 and it adds a 20% payout boost. The 2% profit target and the wider trading rules are not changed by the promotion.
 
-**When does the FTUK Halloween offer end?**
+**How much does the FTUK Flex Challenge cost under this offer?**
 
-The banner states that it ends Friday at 23:59 UTC. No longer window is printed in the image. Buyers should not assume an extension.
+The listed price is $9 and the 30% activation fee cut brings the payable figure to $6.30, a saving of $2.70. The saving sits in the upfront fee and it does not reduce trading risk.
 
-**Does this FTUK promotion change trading rules or drawdown limits?**
+**When does this FTUK offer end?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry price does not reduce trading risk.
+The offer ends on Friday 23 October at 23:59 UTC. Buyers comparing the entry late in the week should keep that UTC timing in mind.
 
-**Which FTUK account type does the discount apply to?**
+**What is the profit target on the FTUK Flex Challenge here?**
 
-The banner limits the offer to Instant Funding only. It prints no account sizes and no fixed prices. The saving on a specific purchase is confirmed only when that purchase is priced.
+The Flex Challenge lists a 2% profit target. It also lists one free retake for MT5 account purchases.
 
-**What extra terms does FTUK state in the banner?**
+**Who might this FTUK pricing suit?**
 
-The banner states up to 80% profit split with payouts on demand. It also states weekend holding allowed and news trading allowed. Those statements come from the campaign image itself.
-
-**Who may find this FTUK offer relevant?**
-
-It may be relevant to a buyer who had already planned an Instant Funding purchase before the Friday cutoff. A buyer who would purchase only because of the discount should be cautious. The full terms should be read first.
+It may suit a buyer who had already planned a Flex Challenge purchase and prefers the lower $6.30 upfront figure. Buyers who are uncertain about the terms should be cautious and check the activation fee scope before the deadline.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-22 - [FTUK 30% Off Flex Challenge Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/) (30% Off)
 - 2026-10-20 - [FTUK 40% Off Instant Funding Plus 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/) (40% Off)
 - 2026-10-14 - [FTUK 50% Off Flex Account Activation Fees](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/) (50% Off) — ended 2026-10-14
 - 2026-10-14 - [FTUK 20% Off Flex Account Activation Fees](https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/) (20% Off)

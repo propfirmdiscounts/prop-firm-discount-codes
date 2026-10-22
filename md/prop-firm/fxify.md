@@ -5,45 +5,43 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 - Code: FXIFY2WRIVW
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-15
+- Last deal published: 2026-10-22
 - Trustpilot: 4.3/5 (6477 reviews)
 - Activate: https://propfirmdiscount.com/go/fxify
 - Firm page: https://propfirmdiscount.com/prop-firm/fxify/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FXIFY 40% Off Instant Funding Accounts
+## Current deal: FXIFY 35% Off All Other Programs - Halloween Deal
 
-- Published: 2026-10-15
-- Offer ends: 2026-11-02
-- Offer: 40% Off
-- Code: FUNDED40
-- Scope: Instant Funding, up to $100K
-- Deal page: https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/
+- Published: 2026-10-22
+- Offer ends: 2026-11-02 00:00
+- Offer: 35% Off
+- Code: AGHHH35
+- Scope: All other programs, Instant Funding Lite excluded
+- Deal page: https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/
 
 ## FXIFY deal FAQ
 
-**What discount does FXIFY offer in this promotion?**
+**What discount does FXIFY offer on all other programs in this promotion?**
 
-The promotion reduces the upfront purchase price of FXIFY Instant Funding accounts by 40%. The discount applies strictly to the entry fee and does not change any trading parameters.
+FXIFY offers 35% off all other programs in this Halloween promotion. The offer does not apply to Instant Funding Lite and it ends 2 Nov midnight EST.
 
-**Which account sizes are eligible for the savings?**
+**Does the FXIFY 35% offer cover Instant Funding Lite?**
 
-The reduced pricing applies to Instant Funding account sizes ranging from $1,000 to $100,000. It explicitly excludes the Instant Funding Lite models.
+No. Instant Funding Lite is excluded, so FXIFY describes the 35% reduction for all other programs only.
 
-**Does this change the trading rules or consistency limits?**
+**When does this FXIFY Halloween promotion end?**
 
-No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The unlimited best day cap remains unchanged.
+The promotion ends 2 Nov midnight EST. That deadline covers the 35% purchase price reduction described here.
 
-**When does this promotional pricing expire?**
+**What stays unchanged under the FXIFY discount?**
 
-The reduced entry rates are valid until November 2 at midnight EST. After this deadline, prices revert to their standard amounts.
-
-**How do I apply the discount to my account purchase?**
-
-You can follow the Apply via link at the end of this article to visit the official site and apply the active promotion during the checkout process.
+Purchase pricing changes under the FXIFY discount. Trading rules, drawdown limits and risk parameters are not modified by the promotion.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-22 - [FXIFY 35% Off All Other Programs - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off)
+- 2026-10-22 - [FXIFY 40% Off Instant Funding - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off)
 - 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off)
 - 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)
 - 2026-09-24 - [FXIFY 40% Off All $50K Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) (40% Off)

@@ -7,47 +7,46 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 - Code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-11
+- Last deal published: 2026-10-22
 - Trustpilot: 3.6/5 (342 reviews)
 - Activate: https://propfirmdiscount.com/go/pipfarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: PipFarm 100K Challenges Reduced to $99
+## Current deal: PipFarm 50% Off Accounts Up To 50K Plus 50% Balance
 
-- Published: 2026-10-11
-- Offer: Only $99
-- Scope: 100K Consistency, 100K Endurance, 100K Classic, 1-step, 2-step, Add-ons
-- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/
+- Published: 2026-10-22
+- Offer ends: 2026-10-31
+- Offer: 50% Off
+- Code: FIFTYFIFTY
+- Scope: every model, accounts up to 50K, 5K account, 10K account, 20K account, 50K account
+- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/
 
 ## PipFarm deal FAQ
 
-**What does the PipFarm 100K promotion cost?**
+**What discount does PipFarm offer in this promotion?**
 
-The limited-time promotion sets the 100K Consistency challenge at $99, the Endurance challenge at $149 and the Classic challenge at $199. These prices are applied automatically at checkout without a code.
+PipFarm offers 50% off accounts up to 50K on every model. The promotion also adds 50% to the balance so a 50K account becomes a 75K balance.
 
-**Does the price drop apply to both evaluation types?**
+**Which account sizes are priced in the PipFarm round?**
 
-Yes, the sale pricing is available for both the one-step and two-step evaluation tracks on the 100K account sizes.
+Four sizes are priced. The 5K account is $14.50 from $29.00 and the 10K account is $24.50 from $49.00 and the 20K account is $44.50 from $89.00 and the 50K account is $94.50 from $189.00.
 
-**How do add-ons work with this discount?**
+**When does the PipFarm promotion end?**
 
-Add-ons are calculated as a percentage of the newly discounted sale price, making them cheaper. Furthermore, choosing three or more add-ons triggers an automatic 20% discount on the total add-on cost.
+The promotion ends 31 October. That date applies to the 50% price cut and the 50% balance lift on accounts up to 50K.
 
-**Does PipFarm have a working discount code?**
+**Does the PipFarm discount change trading risk or rules?**
 
-The current $99 offer is applied automatically and cannot be combined with other codes. However, for standard purchases outside this deal, PFDC is an exclusive code that always works and is occasionally applied at the highest available rate.
+No. Beyond the stated price and balance figures the promotion does not state a change to trading rules or drawdown limits or evaluation criteria and a lower entry cost does not reduce trading risk.
 
-**Does this promotion change the drawdown limits?**
+**Who may find the PipFarm pricing relevant?**
 
-No, the promotion only modifies the initial purchase price of the evaluation. It does not change trading rules, profit targets, or risk limits.
-
-**Can I use gift vouchers to buy this challenge?**
-
-No, the promotional 100K challenges cannot be purchased using XP or gift vouchers and the bundle discount does not apply.
+Buyers who were already comparing an account up to 50K on any model may find the lower upfront entry cost relevant. Buyers who need a size above 50K sit outside the stated scope of this round.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off)
 - 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)
 - 2026-10-09 - [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) (Only $9.99)
 - 2026-09-28 - [PipFarm 70% Off and 10% Cashback Evaluation Price](https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/) (70% Off)

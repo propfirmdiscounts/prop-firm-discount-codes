@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | 2026-10-23 | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | - | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | 2026-10-21 (ended) | Offer ended | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-14 | Funded Hero | Funded Hero Offers $1K 2-Step Villain Account for $1 | Only $1 | Ended | Offer ended | https://propfirmdiscount.com/deals/funded-hero/funded-hero-1k-villain-account-deal/ |
 | 2026-06-11 | Blue Guardian | Blue Guardian: Up To 45% Off 2-Step Challenges Entry Fee | 45% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-off-2-step-challenges-june/ |
 | 2026-06-09 | Trade The Pool | Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026 | Free retry credit | Ended | Offer ended | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/ |
-| 2026-06-08 | Alpha Trader Firm | Alpha Trader Firm Buy Two $300K Or $400K Challenges Get A Free $100K Account | BOGO | Ended | Offer ended | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-buy-two-300k-400k-free-100k/ |

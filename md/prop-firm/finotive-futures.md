@@ -7,43 +7,49 @@ The verified Finotive Futures discount code is **PFDDEAL** — Up to 25% off, wo
 - Code: PFDDEAL
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-02
+- Last deal published: 2026-10-22
 - Trustpilot: 3.8/5 (8 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts
+## Current deal: Finotive Futures: 50% Off Instant, 40% Off One Step
 
-- Published: 2026-10-02
+- Published: 2026-10-22
+- Offer ends: 2026-10-25 17:59
 - Offer: 50% Off
-- Code: DUO
-- Scope: Instant accounts, One-Step accounts, all sizes
-- Deal page: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/
+- Code: BOGO
+- Scope: Instant accounts, One Step accounts, free account on first payout, futures
+- Deal page: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/
 
 ## Finotive Futures deal FAQ
 
 **What discount does Finotive Futures offer in this promotion?**
 
-The promotion cuts the upfront fee by 50% for all Instant accounts and 40% for all One-Step accounts. It is applicable to every available account size.
+Instant accounts are cut by 50% and One Step accounts are cut by 40%. A free account of the same type and size is also credited after the first payout.
 
-**Does the Instant funding discount change any trading rules?**
+**How does the free account part work at Finotive Futures?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+Buy an Instant or One Step account before Sunday, 25 October. Reach a first payout and the firm credits a free account at the same type and size with a limit of one free account per trader.
 
-**Are there any minimum trading days on the One-Step program?**
+**When does this Finotive Futures promotion end?**
 
-According to the firm's parameters, the One-Step program operates with no minimum trading days and no consistency rule.
+It ends Sunday, 25 October at 11:59 PM CET. That date applies to purchases made for this offer.
 
-**What platforms are available with these accounts?**
+**What does this Finotive Futures promotion not change?**
 
-Finotive Futures supports trades across six or more institutional platforms as part of their standard offering.
+It changes purchase pricing only. It does not modify trading rules, drawdown limits, or risk parameters and it does not reduce trading risk.
 
-**How are payouts handled under this pricing offer?**
+**Which account types are covered at Finotive Futures?**
 
-The firm maintains its standard structure of payouts on demand, with no waiting cycle or recurring activation charges after passing.
+Instant accounts and One Step accounts are covered. Instant is presented as a direct funded path and One Step is described with one target, no minimum trading days and no consistency rule.
+
+**Who may this Finotive Futures offer suit?**
+
+It may suit buyers who were already comparing Instant or One Step accounts on purchase price. Buyers should be cautious if the lower price is the only reason for the purchase because the free account depends on a first payout.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-22 - [Finotive Futures: 50% Off Instant, 40% Off One Step](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) (50% Off)
 - 2026-10-02 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) (50% Off)
 - 2026-09-25 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) (50% Off)
