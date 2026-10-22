@@ -1,17 +1,17 @@
 # IC Funded Discount Code
 
-The newest IC Funded discount code is **40FOR40** — 40% off (October 18, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for IC Funded right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-18
 - Trustpilot: 3.4/5 (179 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 
-## Current deal: IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October
+## Most recent deal (ended): IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October
 
 - Published: 2026-10-18
+- Offer ends: 2026-10-20 (ended)
 - Offer: 40% Off
-- Code: 40FOR40
 - Scope: All challenges, Instant Funding, Every account size, 1-Step, 2-Step
 - Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/
 
@@ -41,7 +41,7 @@ The promotion affects purchase pricing only. It does not modify trading rules, d
 
 The material states payouts every two weeks. It also states a profit split of up to 90% with an add-on.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-18 - [IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) (40% Off)
+- 2026-10-18 - [IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) (40% Off) — ended 2026-10-20
 - 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off)

@@ -9,9 +9,10 @@ No live discount code for Apex Trader Funding right now — newest deals and off
 - Activate: https://propfirmdiscount.com/go/apextrader
 - Firm page: https://propfirmdiscount.com/prop-firm/apex-trader-funding/
 
-## Current deal: Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations
+## Most recent deal (ended): Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations
 
 - Published: 2026-10-01
+- Offer ends: 2026-10-05 (ended)
 - Offer: 90% Off
 - Scope: 50K, 100K, Intraday NAF, Legacy, EOD evaluations
 - Deal page: https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/
@@ -38,6 +39,6 @@ The $49 50K and $59 100K Intraday accounts explicitly state there is no activati
 
 The 90% discount applies to Legacy, Intraday and EOD evaluations, with Legacy accounts also receiving 80% off recurring monthly fees.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-01 - [Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/) (90% Off)
+- 2026-10-01 - [Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations](https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/) (90% Off) — ended 2026-10-05

@@ -4,7 +4,7 @@ The verified Top One Futures discount code is **PFD** — Up to 50% off, works a
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-05
 - Trustpilot: 4.8/5 (5173 reviews)
 - Activate: https://propfirmdiscount.com/go/toponefutures
@@ -41,7 +41,7 @@ According to Trustpilot, the firm has a 4.8/5 rating from 5,059 reviews as of Oc
 
 Yes, the promotion includes a 20% reduction on access activation fees when you pass an evaluation.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-04 - [Top One Futures: 60% Off Elite Daily & Instant Funding](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) (60% Off)
 - 2026-09-01 - [Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/)

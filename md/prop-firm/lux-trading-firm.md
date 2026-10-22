@@ -7,13 +7,14 @@ No live discount code for Lux Trading Firm right now — no new deals in the las
 - Activate: https://propfirmdiscount.com/go/luxtradingfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/lux-trading-firm/
 
-## Current deal: Lux Trading Firm Harvest Deal: 30% Off All Accounts + $100K Size for £199
+## Most recent deal (ended): Lux Trading Firm Harvest Deal: 30% Off All Accounts + $100K Size for £199
 
 - Published: 2025-09-22
+- Offer ends: Ended
 - Offer: 30% Off
 - Scope: All newly purchased accounts
 - Deal page: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-harvest-deal-30-off-100k-account/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

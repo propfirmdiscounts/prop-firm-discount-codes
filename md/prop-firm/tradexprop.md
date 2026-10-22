@@ -1,6 +1,6 @@
 # Tradexprop Discount Code
 
-The newest Tradexprop discount code is **SPOOK40** — 40% off (October 9, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Tradexprop discount code is **SPOOK40** — 40% off (October 9, 2026). The campaign code changes with each promotion; newest first below.
 
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
@@ -12,6 +12,7 @@ The newest Tradexprop discount code is **SPOOK40** — 40% off (October 9, 2026)
 ## Current deal: Tradexprop Halloween Sale: 40% Off Evaluation Accounts
 
 - Published: 2026-10-09
+- Offer ends: 2026-10-25
 - Offer: 40% Off
 - Code: SPOOK40
 - Scope: Evaluation plans
@@ -35,7 +36,7 @@ The active discount is valid until October 25, 2026, at 11:59 PM UTC.
 
 No, the 40% reduction is specifically for evaluation plans at Tradexprop.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-09 - [Tradexprop Halloween Promo: 20% Off Instant Funding](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/) (20% Off)
 - 2026-10-09 - [Tradexprop Halloween Sale: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/) (40% Off)

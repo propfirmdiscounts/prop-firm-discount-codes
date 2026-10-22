@@ -1,17 +1,17 @@
 # Traders Launch Discount Code
 
-The newest Traders Launch discount code is **FALL** — 25% off (September 28, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for Traders Launch right now — newest deals and offers are below.
 
 - Last deal published: 2026-09-28
 - Trustpilot: 4.7/5 (79 reviews)
 - Activate: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 
-## Current deal: Traders Launch 25% Off Fall Promotion
+## Most recent deal (ended): Traders Launch 25% Off Fall Promotion
 
 - Published: 2026-09-28
+- Offer ends: Ended
 - Offer: 25% Off
-- Code: FALL
 - Scope: All accounts, Fall Promo
 - Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/
 
@@ -33,6 +33,6 @@ No, the promotional event only lowers the initial purchase pricing. All trading 
 
 This is a coupon-based promotion, meaning traders must actively apply the discount code during the checkout process to secure the 25% savings.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-09-28 - [Traders Launch 25% Off Fall Promotion](https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/) (25% Off)

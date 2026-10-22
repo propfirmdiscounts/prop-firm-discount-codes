@@ -5,6 +5,7 @@ Lucid Trading is offering 40% off — discount code **PFD**.
 > Lucid Trading cuts 40% off any account with on-demand payouts when DLL is enabled and the offer runs thru 10/23 at 5PM EST. The saving lowers the purchase price only while trading rules and risk parameters stay unchanged.
 
 - Published: 2026-10-19
+- Offer ends: 2026-10-23
 - Prop firm: Lucid Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - Summary: 40% off any DLL-on account lowers the entry cost while trading rules and risk parameters stay unchanged. Valid thru 10/23 at 5PM EST for eligible accounts.

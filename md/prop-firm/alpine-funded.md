@@ -6,6 +6,6 @@ Alpine Funded has no discount code or deal listed right now — we track the fir
 - Activate: https://propfirmdiscount.com/go/alpinefunded
 - Firm page: https://propfirmdiscount.com/prop-firm/alpine-funded/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Alpine Funded yet. New promotions appear here first — check back soon.

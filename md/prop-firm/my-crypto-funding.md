@@ -6,6 +6,6 @@ My Crypto Funding has no discount code or deal listed right now — we track the
 - Activate: https://propfirmdiscount.com/go/mycryptofunding
 - Firm page: https://propfirmdiscount.com/prop-firm/my-crypto-funding/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for My Crypto Funding yet. New promotions appear here first — check back soon.

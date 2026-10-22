@@ -1,15 +1,15 @@
 # Atlas Funded 40% Off All Evaluations – Valentine’s Day
 
-Atlas Funded is offering 40% off — discount code **HEART40**.
+Atlas Funded was offering 40% off.
 
 > Atlas Funded cuts 40% off evaluations for Valentine's Day plus a 100% refund on accounts. A limited-time flash promotion that lowers entry cost only.
 
 - Published: 2026-02-12
+- Offer ends: Ended
 - Prop firm: Atlas Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - Summary: This Valentine's Day flash promotion cuts the Atlas Funded entry price by 40% with a 100% refund on funded account purchases for a limited time. It lowers cost only and trading rules stay unchanged.
 - Offer: 40% Off
-- Code: HEART40
 - Scope: Valentine's Day, flash promotion, funded accounts, evaluations, funding programs
 - Deal: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

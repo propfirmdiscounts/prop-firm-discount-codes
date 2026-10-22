@@ -1,6 +1,6 @@
 # WSFunded Discount Code
 
-The newest WSFunded discount code is **HISPANIC60** — 60% off (October 12, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for WSFunded right now — newest deals and offers are below.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
@@ -9,11 +9,11 @@ The newest WSFunded discount code is **HISPANIC60** — 60% off (October 12, 202
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-## Current deal: WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts
+## Most recent deal (ended): WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts
 
 - Published: 2026-10-12
+- Offer ends: 2026-10-18 (ended)
 - Offer: 60% Off
-- Code: HISPANIC60
 - Scope: 2.5K to 25K accounts
 - Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/
 
@@ -35,9 +35,9 @@ The promotion is valid this week, according to the campaign materials.
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-12 - [WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/) (60% Off)
+- 2026-10-12 - [WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/) (60% Off) — ended 2026-10-18
 - 2026-10-09 - [WSFunded 50% Off All Challenges and New York Prize Draw](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/) (50% Off)
 - 2026-10-02 - [WSFunded 50% Off All Challenges & New 2% Target Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/) (50% Off)
 - 2026-09-29 - [WSFunded 35% Off Challenge Pricing Plus 2x1 First Payout](https://propfirmdiscount.com/deals/wsfunded/wsfunded-35-off-all-accounts-2x1-payout/) (35% Off)

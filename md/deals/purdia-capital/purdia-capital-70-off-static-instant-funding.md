@@ -1,15 +1,15 @@
 # Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices
 
-Purdia Capital is offering 70% off — discount code **STATIC70**.
+Purdia Capital was offering 70% off.
 
 > A 48-hour promotion providing a 70% reduction on the entry cost for 50K and 100K Static Instant Funding accounts. Trading rules remain unchanged.
 
 - Published: 2026-10-12
+- Offer ends: 2026-10-14 (ended)
 - Prop firm: Purdia Capital
 - Firm page: https://propfirmdiscount.com/prop-firm/purdia-capital/
 - Summary: A 48-hour flash deal reducing the upfront cost of 50K and 100K Static Instant Funding accounts by 70%. It does not alter fixed drawdown limits or payout criteria.
 - Offer: 70% Off
-- Code: STATIC70
 - Scope: 50K, 100K, Static Instant Funding
 - Deal: https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/
 

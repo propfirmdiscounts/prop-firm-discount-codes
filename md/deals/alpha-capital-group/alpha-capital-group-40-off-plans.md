@@ -1,15 +1,15 @@
 # Alpha Capital Group: 40% Off All Evaluation Plans
 
-Alpha Capital Group is offering 40% off — discount code **GIRL40**.
+Alpha Capital Group was offering 40% off.
 
 > Alpha Capital Group reduces the upfront entry cost by 40% across all evaluation plans until midnight BST today. Trading rules remain unchanged.
 
 - Published: 2026-06-27
+- Offer ends: Ended
 - Prop firm: Alpha Capital Group
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 - Summary: Reduce evaluation pricing by 40% across all plans. Valid until midnight BST today. Trading rules remain strictly unchanged.
 - Offer: 40% Off
-- Code: GIRL40
 - Scope: All evaluation models, Multiple use
 - Deal: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-40-off-plans/
 

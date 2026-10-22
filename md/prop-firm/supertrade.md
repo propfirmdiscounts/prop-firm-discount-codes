@@ -6,6 +6,6 @@ SuperTrade has no discount code or deal listed right now — we track the firm a
 - Activate: https://propfirmdiscount.com/go/supertrade
 - Firm page: https://propfirmdiscount.com/prop-firm/supertrade/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for SuperTrade yet. New promotions appear here first — check back soon.

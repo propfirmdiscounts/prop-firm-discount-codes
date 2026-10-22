@@ -1,15 +1,15 @@
 # E8 Markets: 50% Off Signature Classic and Arc Accounts
 
-E8 Markets is offering 50% off — discount code **CHUN**.
+E8 Markets was offering 50% off.
 
 > E8 Markets is retiring its Signature Classic evaluation with a 50% off promotional farewell valid until October 20, 2026. Risk rules remain fully intact.
 
 - Published: 2026-10-17
+- Offer ends: 2026-10-20 (ended)
 - Prop firm: E8 Markets
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - Summary: E8 Markets offers a 50% entry fee reduction on its retiring Signature Classic evaluations and Arc accounts. Valid until October 20, 2026. Trading requirements and risk parameters stay completely unchanged.
 - Offer: 50% Off
-- Code: CHUN
 - Scope: Signature Classic (Forex) evaluations, Arc promotion
 - Deal: https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/
 - Verified standing exclusive code: CHUN (works any time; the live rate is always on the firm page)

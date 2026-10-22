@@ -4,7 +4,7 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-14
 - Trustpilot: 4.2/5 (747 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
@@ -41,10 +41,10 @@ According to the published information, the 6,000 bonus credits (valued at $139)
 
 Yes, traders can use the permanent site code AFF1864062 at checkout, which always works and is occasionally applied at the highest available rate for standard purchases.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) (47% Off)
-- 2026-10-09 - [Funded Elite 35%-50% Off Plus Free Pack Entitlements](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) (50% Off)
+- 2026-10-09 - [Funded Elite 35%-50% Off Plus Free Pack Entitlements](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) (50% Off) — ended 2026-10-14
 - 2026-10-02 - [Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) (35% Off)
 - 2026-09-09 - [Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) (Only $5)
 - 2026-09-03 - [Funded Elite 50% Off 300k And 400k Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) (50% Off)

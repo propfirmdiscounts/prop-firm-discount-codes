@@ -4,7 +4,7 @@ The verified Fundex discount code is **PFD** — Up to 5% off, works any time.
 
 - Code: PFD
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-09
 - Trustpilot: 3.1/5 (42 reviews)
 - Activate: https://propfirmdiscount.com/go/fundex
@@ -41,7 +41,7 @@ The profit target does not change. Traders must still reach the standard 10% pro
 
 This is an active promotion applied at checkout to reduce the initial purchase price, while the firm's standard base pricing structure remains the same.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-09 - [Fundex 20% Off 1-Step Evaluation Accounts](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) (20% Off)
 - 2026-09-25 - [Fundex: 30% Off All Evaluation Accounts (48-Hour Sale)](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) (30% Off)

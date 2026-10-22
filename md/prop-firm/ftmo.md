@@ -9,13 +9,14 @@ No live discount code for FTMO right now — no new deals in the last 2 months. 
 - Activate: https://propfirmdiscount.com/go/ftmo
 - Firm page: https://propfirmdiscount.com/prop-firm/ftmo/
 
-## Current deal: FTMO Black Friday Deal: 20% Off All Challenges
+## Most recent deal (ended): FTMO Black Friday Deal: 20% Off All Challenges
 
 - Published: 2025-11-26
+- Offer ends: Ended
 - Offer: 20% Off
 - Scope: All evaluation models and account sizes.
 - Deal page: https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-20-off-deal/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

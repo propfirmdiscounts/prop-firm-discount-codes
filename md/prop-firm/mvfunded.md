@@ -6,6 +6,6 @@ MVFunded has no discount code or deal listed right now — we track the firm and
 - Activate: https://propfirmdiscount.com/go/mvfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/mvfunded/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for MVFunded yet. New promotions appear here first — check back soon.

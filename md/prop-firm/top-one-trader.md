@@ -1,6 +1,6 @@
 # Top One Trader Discount Code
 
-The newest Top One Trader discount code is **LAUNCHPAD** — 50% off (October 7, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Top One Trader discount code is **LAUNCHPAD** — 50% off (October 7, 2026). The campaign code changes with each promotion; newest first below.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
@@ -43,7 +43,7 @@ Traders can request a payout any day of the week, with up to a $2,000 daily limi
 
 The X-DAILY evaluation model features no maximum time limits and no minimum trading days, allowing for a flexible testing period.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)
 - 2026-10-01 - [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) (40% Off)

@@ -5,6 +5,7 @@ RebelsFunding is offering 70% off — discount code **FORNINE**.
 > RebelsFunding cuts its $1,000 1-step challenge to €9 with 70% off for 3 days only. It disappears on Thursday October 22. Trading risk is unchanged.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-22
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: RebelsFunding reduces the $1,000 1-step challenge entry cost to €9 with 70% off for 3 days only until Thursday October 22. The cut lowers upfront cost only and does not reduce trading risk.

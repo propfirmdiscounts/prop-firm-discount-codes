@@ -6,6 +6,6 @@ FXRK has no discount code or deal listed right now — we track the firm and pub
 - Activate: https://propfirmdiscount.com/go/fxrk
 - Firm page: https://propfirmdiscount.com/prop-firm/fxrk/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for FXRK yet. New promotions appear here first — check back soon.

@@ -5,6 +5,7 @@ OFP Funding is offering 50% off — discount code **OFP50**.
 > Apply this extended promotion to cut the upfront entry cost by 50% across all sizes and secure an extra evaluation on orders over $250. Valid until October 31.
 
 - Published: 2026-10-16
+- Offer ends: 2026-10-31
 - Prop firm: OFP Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 - Summary: Reduce challenge pricing by 50% on all accounts and secure a bonus evaluation when spending over $250. Valid until October 31; risk limits remain strictly unchanged.

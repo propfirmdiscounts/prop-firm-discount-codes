@@ -6,7 +6,7 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-20
 - Trustpilot: 4.4/5 (6194 reviews)
 - Activate: https://propfirmdiscount.com/go/alphafutures
@@ -16,6 +16,7 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 ## Current deal: Alpha Futures 50% Off Standard, Direct, Advanced
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-31
 - Offer: 50% Off
 - Code: MYALPHA50
 - Scope: Standard plan, Direct plan, Advanced plan
@@ -43,7 +44,7 @@ It may suit buyers who already planned to buy a Standard, Direct or Advanced pla
 
 The stated window is Oct 19 - Oct 31. No other validity terms are given for this offer.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-20 - [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) (50% Off)
 - 2026-10-20 - [Alpha Futures 40% Off Zero Plan for MyAlpha Launch](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) (40% Off)

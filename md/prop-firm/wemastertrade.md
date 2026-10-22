@@ -6,7 +6,7 @@ The verified WeMasterTrade discount code is **PFD** — Up to 20% off, works any
 
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-03
 - Trustpilot: 3.9/5 (2357 reviews)
 - Activate: https://propfirmdiscount.com/go/wemastertrade
@@ -39,7 +39,7 @@ No, the discount only applies to the initial purchase price. All profit targets,
 
 Yes, traders can use the site's discount code PFD at checkout. It always works and is occasionally applied at the highest available rate for new evaluations.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-03 - [WeMasterTrade Flash Sale: 30% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) (30% Off)
 - 2026-09-30 - [WeMasterTrade: 32% Off All Packages & Festival Spin](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/) (32% Off)

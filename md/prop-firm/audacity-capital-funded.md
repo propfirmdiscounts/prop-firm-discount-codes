@@ -1,6 +1,6 @@
 # AudaCity Capital Discount Code
 
-The newest AudaCity Capital discount code is **HALLOWEEN** — 35% off (October 16, 2026). The live campaign code changes with each promotion; newest first below.
+The newest AudaCity Capital discount code is **HALLOWEEN** — 35% off (October 16, 2026). The campaign code changes with each promotion; newest first below.
 
 > Founded in 2012 in London, we are the longest-running prop firm dedicated to empowering traders with the capital they need to succeed. Our mission is simple: to give talented traders the resources, support, and freedom to unlock their full potential. With years of experience and a proven track record, we’re here to help you dominate the markets, accelerate your trading career, and achieve long term success.
 
@@ -39,7 +39,7 @@ Yes, according to the campaign details, news trading is explicitly allowed on th
 
 The discount is available during the firm's Halloween campaign period. No exact calendar expiration date is specified in the promotional materials.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-16 - [AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/) (35% Off)
 - 2026-09-11 - [AudaCity Capital 35% Off All Programs Back to Business](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-all-programs/) (35% Off)

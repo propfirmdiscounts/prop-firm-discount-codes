@@ -6,6 +6,6 @@ Funding Rock has no discount code or deal listed right now — we track the firm
 - Activate: https://propfirmdiscount.com/go/fundingrock
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-rock/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Funding Rock yet. New promotions appear here first — check back soon.

@@ -1,17 +1,17 @@
 # Presidents Day Prop Firm Deals (2026)
 
-The newest Presidents Day prop firm deal is **Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65** from Bulenox — Only $15.95 off (published 2026-02-18). Codes and live offers below, newest first.
+The newest Presidents Day prop firm deal is **Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65** from Bulenox — Only $15.95 off (published 2026-02-18). Codes and offers below, newest first, each with the end date its firm gave it.
 
-Top live offers now:
+Newest offers:
 - Bulenox — Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65 (Only $15.95)
 - Funded Hero — Funded Hero Presidents Day Sale: Save 60% on All Evaluation Accounts (60% Off)
 - QT Funded — QT Funded Presidents’ Day: 45% Off + Buy 1 Get 1 Free (45% Off)
 
-How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered; "Offer ended" means the promotion is over and the row is kept as deal history — there is no live code for it.
 
-| Published | Firm | Deal | Discount | Code | Link |
-|---|---|---|---|---|---|
-| 2026-02-18 | Bulenox | Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65 | Only $15.95 | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/ |
-| 2026-02-16 | Funded Hero | Funded Hero Presidents Day Sale: Save 60% on All Evaluation Accounts | 60% OFF | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-presidents-day-60-percent-off/ |
-| 2026-02-16 | QT Funded | QT Funded Presidents’ Day: 45% Off + Buy 1 Get 1 Free | 45% OFF | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-presidents-day-45-off-bogo/ |
-| 2026-02-13 | Earn2Trade | Earn2Trade 60% Off TCP Accounts & Reduced Resets – Presidents’ Day 2026 | 60% OFF | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-presidents-day-tcp-promotion/ |
+| Published | Firm | Deal | Discount | Ends | Code | Link |
+|---|---|---|---|---|---|---|
+| 2026-02-18 | Bulenox | Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65 | Only $15.95 | Ended | Offer ended | https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/ |
+| 2026-02-16 | Funded Hero | Funded Hero Presidents Day Sale: Save 60% on All Evaluation Accounts | 60% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/funded-hero/funded-hero-presidents-day-60-percent-off/ |
+| 2026-02-16 | QT Funded | QT Funded Presidents’ Day: 45% Off + Buy 1 Get 1 Free | 45% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/qt-funded/qt-funded-presidents-day-45-off-bogo/ |
+| 2026-02-13 | Earn2Trade | Earn2Trade 60% Off TCP Accounts & Reduced Resets – Presidents’ Day 2026 | 60% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/earn2trade/earn2trade-presidents-day-tcp-promotion/ |

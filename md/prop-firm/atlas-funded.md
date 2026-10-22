@@ -6,18 +6,18 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-21
 - Trustpilot: 4.0/5 (2026 reviews)
 - Activate: https://propfirmdiscount.com/go/atlasfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Atlas Funded 40% Off All Evaluations - Valentine's Day
+## Most recent deal (ended): Atlas Funded 40% Off All Evaluations - Valentine's Day
 
 - Published: 2026-02-12
+- Offer ends: Ended
 - Offer: 40% Off
-- Code: HEART40
 - Scope: Valentine's Day, flash promotion, funded accounts, evaluations, funding programs
 - Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/
 
@@ -43,10 +43,10 @@ The promotion is described as a flash deal that will not last long. No calendar 
 
 Yes. The refund sits alongside the 40% reduction as part of the same Valentine's offer. It is a purchase term and it does not change trading conditions.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off)
-- 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off)
+- 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — ended 2026-10-18
 - 2026-10-07 - [Atlas Funded 45% Off All Account Sizes - New Era Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) (45% Off)
 - 2026-09-26 - [Atlas Funded 35% Off Any Challenge - September Close](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-any-challenge-september-close/) (35% Off)
 - 2026-09-19 - [Atlas Funded 40% Off Challenges - Weekend Promo](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-free-reset/) (40% Off)

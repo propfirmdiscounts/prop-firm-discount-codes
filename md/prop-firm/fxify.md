@@ -4,7 +4,7 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 
 - Code: FXIFY2WRIVW
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-15
 - Trustpilot: 4.3/5 (6463 reviews)
 - Activate: https://propfirmdiscount.com/go/fxify
@@ -14,6 +14,7 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 ## Current deal: FXIFY 40% Off Instant Funding Accounts
 
 - Published: 2026-10-15
+- Offer ends: 2026-11-02
 - Offer: 40% Off
 - Code: FUNDED40
 - Scope: Instant Funding, up to $100K
@@ -41,7 +42,7 @@ The reduced entry rates are valid until November 2 at midnight EST. After this d
 
 You can follow the Apply via link at the end of this article to visit the official site and apply the active promotion during the checkout process.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off)
 - 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)

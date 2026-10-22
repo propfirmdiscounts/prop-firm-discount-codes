@@ -6,6 +6,6 @@ Mubite has no discount code or deal listed right now — we track the firm and p
 - Activate: https://propfirmdiscount.com/go/mubite
 - Firm page: https://propfirmdiscount.com/prop-firm/mubite/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Mubite yet. New promotions appear here first — check back soon.

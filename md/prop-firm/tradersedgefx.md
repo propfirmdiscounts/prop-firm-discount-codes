@@ -6,6 +6,6 @@ TradersEdgeFX has no discount code or deal listed right now — we track the fir
 - Activate: https://propfirmdiscount.com/go/tradersedgefx
 - Firm page: https://propfirmdiscount.com/prop-firm/tradersedgefx/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for TradersEdgeFX yet. New promotions appear here first — check back soon.

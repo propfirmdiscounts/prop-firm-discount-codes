@@ -5,6 +5,7 @@ Bitfunded is offering 60% off.
 > Bitfunded cuts the total for any Challenge and its included Instant Account by 60% with no code needed. The automatic deal ends Friday at 9 PM UAE.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-23
 - Prop firm: Bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 - Summary: This Bitfunded deal cuts the combined total for any Challenge and its included Instant Account by 60%. Purchase pricing changes only, trading rules and risk stay unchanged. It ends Friday at 9 PM UAE.

@@ -1,15 +1,15 @@
 # We Get Funded: 50K 1 Step first challenge at 48.30 €
 
-We Get Funded is offering Only €48.30 — discount code **PREMIER**.
+We Get Funded was offering Only €48.30.
 
 > We Get Funded first purchase prices start at 48.30 € for the 50K 1 Step challenge, valid until Wednesday 21 October, 11:59 pm Paris time.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-21 (ended)
 - Prop firm: We Get Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 - Summary: This promotion lowers the entry price for We Get Funded challenges, with the 50K 1 Step priced at 48.30 €. Trading rules stay unchanged, valid until Wednesday 21 October, 11:59 pm Paris time.
 - Offer: Only €48.30
-- Code: PREMIER
 - Scope: 1 Step challenge, 2 Steps challenge, 25K, 50K, 100K, 200K, first purchase, single use
 - Deal: https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/
 

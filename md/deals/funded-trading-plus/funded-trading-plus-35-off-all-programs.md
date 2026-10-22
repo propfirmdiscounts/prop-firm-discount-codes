@@ -1,15 +1,15 @@
 # Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale
 
-Funded Trading Plus is offering 35% off — discount code **FLASH35**.
+Funded Trading Plus was offering 35% off.
 
 > This flash sale reduces the challenge pricing by 35% across all programs while keeping trading rules unchanged. Valid until Friday, 16 October at 23:59.
 
 - Published: 2026-10-14
+- Offer ends: 2026-10-16 (ended)
 - Prop firm: Funded Trading Plus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - Summary: Reduce your challenge fee by 35% with this flash sale across all programs. Trading rules remain unaffected. Valid until 16 October at 23:59.
 - Offer: 35% Off
-- Code: FLASH35
 - Scope: 1-Step Express, 2-Step Classic, Instant Funding, excludes PNPL
 - Deal: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

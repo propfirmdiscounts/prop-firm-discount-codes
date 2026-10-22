@@ -6,6 +6,6 @@ My Forex Funds (MFF) has no discount code or deal listed right now — we track 
 - Activate: https://propfirmdiscount.com/go/myforexfunds
 - Firm page: https://propfirmdiscount.com/prop-firm/my-forex-funds-mff/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for My Forex Funds (MFF) yet. New promotions appear here first — check back soon.

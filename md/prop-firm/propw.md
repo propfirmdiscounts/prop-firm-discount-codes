@@ -6,6 +6,6 @@ PropW has no discount code or deal listed right now — we track the firm and pu
 - Activate: https://propfirmdiscount.com/go/propw
 - Firm page: https://propfirmdiscount.com/prop-firm/propw/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for PropW yet. New promotions appear here first — check back soon.

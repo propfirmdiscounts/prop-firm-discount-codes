@@ -42,7 +42,7 @@ Funded traders receive an 80% profit split, with weekly payout eligibility avail
 
 These one-step challenges can be traded on either the TradeLocker or Match Trader platforms.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/) (Only $199)
 - 2026-10-01 - [Alpha Trader Firm Halloween Deal: 50% - 60% Off & Buy 3 Get 1 Free](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/) (50% Off)

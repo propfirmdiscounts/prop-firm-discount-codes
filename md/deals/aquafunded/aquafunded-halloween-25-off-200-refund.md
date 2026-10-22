@@ -5,6 +5,7 @@ AquaFunded is offering 25% off — discount code **SPOOKY**.
 > AquaFunded Halloween cuts 25% off One Step, Two Step and Instant Standard evaluations through 5 November, with a 200% refund on the evaluation fee.
 
 - Published: 2026-10-21
+- Offer ends: 2026-11-05
 - Prop firm: AquaFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - Summary: A 25% Halloween discount lowers the upfront price on One Step Standard, Two Step Standard and Instant Standard through 5 November, while trading rules and trading risk remain unchanged for buyers.

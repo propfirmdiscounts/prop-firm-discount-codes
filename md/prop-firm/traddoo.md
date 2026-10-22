@@ -6,6 +6,6 @@ Traddoo has no discount code or deal listed right now — we track the firm and 
 - Activate: https://propfirmdiscount.com/go/traddoo
 - Firm page: https://propfirmdiscount.com/prop-firm/traddoo/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Traddoo yet. New promotions appear here first — check back soon.

@@ -1,15 +1,15 @@
 # IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October
 
-IC Funded is offering 40% off — discount code **40FOR40**.
+IC Funded was offering 40% off.
 
 > IC Funded offers 40% off all challenges plus Instant Funding on every account size for the 40th Birthday of GM Petros, valid 18-20 October. Trading rules and risk parameters remain unchanged.
 
 - Published: 2026-10-18
+- Offer ends: 2026-10-20 (ended)
 - Prop firm: IC Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 - Summary: This promotion cuts the upfront purchase price for all challenges plus Instant Funding by 40% while trading rules stay unchanged, valid 18-20 October for every account size included in the offer window.
 - Offer: 40% Off
-- Code: 40FOR40
 - Scope: All challenges, Instant Funding, Every account size, 1-Step, 2-Step
 - Deal: https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/
 

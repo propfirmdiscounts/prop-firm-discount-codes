@@ -6,7 +6,7 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-07
 - Trustpilot: 3.7/5 (109 reviews)
 - Activate: https://propfirmdiscount.com/go/theproptrade
@@ -16,6 +16,7 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 ## Current deal: thePropTrade 22% Off All Challenges
 
 - Published: 2026-10-07
+- Offer ends: 2026-10-25
 - Offer: 22% Off
 - Code: TWOYEARS
 - Scope: All Challenges, All Account Sizes
@@ -39,6 +40,6 @@ The promotional pricing is explicitly valid until 25 October, 12:00 PM UTC.
 
 No, the active promotion only reduces the initial entry cost. It does not modify trading rules, drawdown limits, or evaluation criteria.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off)

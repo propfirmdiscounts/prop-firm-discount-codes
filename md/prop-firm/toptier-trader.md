@@ -1,19 +1,19 @@
 # Toptier Trader Discount Code
 
-The newest Toptier Trader discount code is **dvntc7** — 20% off (August 10, 2025). The live campaign code changes with each promotion; newest first below.
+No live discount code for Toptier Trader right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/toptier-trader/
 
 - Last deal published: 2026-09-18
 - Activate: https://propfirmdiscount.com/go/toptiertrader
 - Firm page: https://propfirmdiscount.com/prop-firm/toptier-trader/
 
-## Current deal: Coupon -20% for TopTier Trader (TTT)
+## Most recent deal (ended): Coupon -20% for TopTier Trader (TTT)
 
 - Published: 2025-08-10
+- Offer ends: Ended
 - Offer: 20% Off
-- Code: dvntc7
 - Scope: TopTier Trader subscription
 - Deal page: https://propfirmdiscount.com/deals/toptier-trader/coupon-5-for-toptier-trader/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

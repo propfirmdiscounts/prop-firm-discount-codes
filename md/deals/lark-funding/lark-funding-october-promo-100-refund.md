@@ -5,6 +5,7 @@ Lark Funding is offering 100% off — discount code **OCTOBERFEE**.
 > This October promotion introduces a 100% refundable entry fee on 1-Step and 3-Step accounts upon the first payout. Valid until October 31st. Trading rules remain unchanged.
 
 - Published: 2026-10-07
+- Offer ends: 2026-10-31
 - Prop firm: Lark Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 - Summary: Get a 100% refundable entry fee on 1-Step and 3-Step accounts upon your first payout. This October offer is valid until October 31st. Risk parameters remain unchanged.

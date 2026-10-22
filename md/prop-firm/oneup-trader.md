@@ -9,13 +9,14 @@ No live discount code for OneUp Trader right now — no new deals in the last 2 
 - Activate: https://propfirmdiscount.com/go/oneuptrader
 - Firm page: https://propfirmdiscount.com/prop-firm/oneup-trader/
 
-## Current deal: OneUp Trader Black Friday Sale: 60% OFF $100K Eval + No Activation Fee
+## Most recent deal (ended): OneUp Trader Black Friday Sale: 60% OFF $100K Eval + No Activation Fee
 
 - Published: 2025-11-28
+- Offer ends: Ended
 - Offer: 60% Off
 - Scope: $100K Evaluation + Express accounts.
 - Deal page: https://propfirmdiscount.com/deals/oneup-trader/oneup-trader-black-friday-60-off-100k-express/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

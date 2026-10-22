@@ -6,6 +6,6 @@ ATS Funded has no discount code or deal listed right now — we track the firm a
 - Activate: https://propfirmdiscount.com/go/atsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ats-funded/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for ATS Funded yet. New promotions appear here first — check back soon.

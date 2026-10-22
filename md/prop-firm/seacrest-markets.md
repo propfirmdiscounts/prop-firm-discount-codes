@@ -6,21 +6,21 @@ The verified Seacrest Markets discount code is **jackichun** — Up to 5% off, w
 
 - Code: jackichun
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-05
 - Trustpilot: 4.2/5 (2873 reviews)
 - Activate: https://propfirmdiscount.com/go/seacrestfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/seacrest-markets/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Seacrest Markets — 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only
+## Most recent deal (ended): Seacrest Markets — 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only
 
 - Published: 2025-10-20
+- Offer ends: Ended
 - Offer: 50% Off
-- Code: FLASH50
 - Scope: $5K and $10K accounts only
 - Deal page: https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

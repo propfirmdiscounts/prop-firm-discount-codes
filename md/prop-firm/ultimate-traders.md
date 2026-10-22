@@ -6,6 +6,6 @@ Ultimate Traders has no discount code or deal listed right now — we track the 
 - Activate: https://propfirmdiscount.com/go/ultimatetraders
 - Firm page: https://propfirmdiscount.com/prop-firm/ultimate-traders/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Ultimate Traders yet. New promotions appear here first — check back soon.

@@ -1,6 +1,6 @@
 # Lark Funding Discount Code
 
-The newest Lark Funding discount code is **OCTOBERFEE** — 100% off (October 7, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Lark Funding discount code is **OCTOBERFEE** — 100% off (October 7, 2026). The campaign code changes with each promotion; newest first below.
 
 > Demo Prop Trading. Minus The Nonsense.
 
@@ -12,6 +12,7 @@ The newest Lark Funding discount code is **OCTOBERFEE** — 100% off (October 7,
 ## Current deal: Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts
 
 - Published: 2026-10-07
+- Offer ends: 2026-10-31
 - Offer: 100% Off
 - Code: OCTOBERFEE
 - Scope: 1-Step Accounts, 3-Step Accounts
@@ -35,7 +36,7 @@ The promotion is valid until October 31st.
 
 No, the promotion only affects the refund structure of the entry fee. Trading rules, drawdown limits and risk parameters remain unchanged.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-07 - [Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts](https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/) (100% Off)
 - 2026-09-15 - [Lark Funding 1-Step and 3-Step Challenges from $105 with Free Reset: Challenge Fee Terms](https://propfirmdiscount.com/deals/lark-funding/lark-funding-1-step-3-step-challenges-free-reset-105/) (Only $105)

@@ -5,6 +5,7 @@ Tradexprop is offering 40% off — discount code **SPOOK40**.
 > This Halloween promotion drops the initial entry fee on evaluation plans by 40%. The active discount runs until October 25, 2026 and leaves all risk rules unchanged.
 
 - Published: 2026-10-09
+- Offer ends: 2026-10-25
 - Prop firm: Tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 - Summary: Reduce your upfront evaluation cost by 40% with this Halloween deal. Valid until October 25, 2026, the promotion affects pricing only and does not alter risk rules.

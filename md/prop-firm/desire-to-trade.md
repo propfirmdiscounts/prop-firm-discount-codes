@@ -6,6 +6,6 @@ Desire to Trade has no discount code or deal listed right now — we track the f
 - Activate: https://propfirmdiscount.com/go/desiretotrade
 - Firm page: https://propfirmdiscount.com/prop-firm/desire-to-trade/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Desire to Trade yet. New promotions appear here first — check back soon.

@@ -6,6 +6,6 @@ Funded Peaks has no discount code or deal listed right now — we track the firm
 - Activate: https://propfirmdiscount.com/go/fundedpeaks
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-peaks/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Funded Peaks yet. New promotions appear here first — check back soon.

@@ -6,18 +6,18 @@ The verified Earn2Trade discount code is **PFD** — Up to 50% off, works any ti
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-01
 - Trustpilot: 4.5/5 (5024 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle
+## Most recent deal (ended): Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle
 
 - Published: 2026-10-01
+- Offer ends: 2026-10-18 (ended)
 - Offer: 50% Off
-- Code: PFD
 - Scope: All evaluation models, resets, TCP25 bundle
 - Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
 
@@ -43,6 +43,6 @@ The 50% discount on standard evaluations and resets is valid until October 18, 2
 
 All open bundle accounts will forcibly close and any unused resets will expire entirely on October 30, 2026. Traders must be able to utilize their accounts before this deadline.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-01 - [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) (50% Off)
+- 2026-10-01 - [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) (50% Off) — ended 2026-10-18

@@ -6,6 +6,6 @@ TenTrade has no discount code or deal listed right now — we track the firm and
 - Activate: https://propfirmdiscount.com/go/tentrade
 - Firm page: https://propfirmdiscount.com/prop-firm/tentrade/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for TenTrade yet. New promotions appear here first — check back soon.

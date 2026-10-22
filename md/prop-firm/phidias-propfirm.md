@@ -4,7 +4,7 @@ The verified Phidias Propfirm discount code is **PFD** — Up to 80% off, works 
 
 - Code: PFD
 - Discount: Up to 80% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-20
 - Trustpilot: 3.1/5 (339 reviews)
 - Activate: https://propfirmdiscount.com/go/phidiaspropfirm
@@ -14,6 +14,7 @@ The verified Phidias Propfirm discount code is **PFD** — Up to 80% off, works 
 ## Current deal: Phidias Propfirm 85% Off 50K Discount Code - $108 Express
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-25
 - Offer: 85% Off
 - Code: PFD
 - Scope: 50K Express to Live, 50K Fundamental, 50K Premium, one-time payment accounts
@@ -45,7 +46,7 @@ No change to the stated rules is described for this promotion. The static DD is 
 
 A postscript lists the 10K Drawdown Fall Edition at $30 for a $10K account with 25 E-minis, no target and no consistency rule. Entries for that edition close on November 23.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code - $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off)
 - 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off)

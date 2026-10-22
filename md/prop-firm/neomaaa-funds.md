@@ -6,6 +6,6 @@ NeomAAA Funds has no discount code or deal listed right now — we track the fir
 - Activate: https://propfirmdiscount.com/go/neomaaa
 - Firm page: https://propfirmdiscount.com/prop-firm/neomaaa-funds/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for NeomAAA Funds yet. New promotions appear here first — check back soon.

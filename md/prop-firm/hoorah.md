@@ -6,6 +6,6 @@ Hoorah has no discount code or deal listed right now — we track the firm and p
 - Activate: https://propfirmdiscount.com/go/hoorah
 - Firm page: https://propfirmdiscount.com/prop-firm/hoorah/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Hoorah yet. New promotions appear here first — check back soon.

@@ -6,18 +6,18 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 
 - Code: CHUN
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-17
 - Trustpilot: 4.1/5 (3307 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: E8 Markets: 50% Off Signature Classic and Arc Accounts
+## Most recent deal (ended): E8 Markets: 50% Off Signature Classic and Arc Accounts
 
 - Published: 2026-10-17
+- Offer ends: 2026-10-20 (ended)
 - Offer: 50% Off
-- Code: CHUN
 - Scope: Signature Classic (Forex) evaluations, Arc promotion
 - Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/
 
@@ -47,7 +47,7 @@ The promotion only affects the purchase pricing. It does not modify trading rule
 
 The firm is focusing its Signature rulebook exclusively on Futures, citing the differences in trading hours, contract structures and how positions are held between Futures and Classic markets.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off)
+- 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off) — ended 2026-10-20
 - 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off)

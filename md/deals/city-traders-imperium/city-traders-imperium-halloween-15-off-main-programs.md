@@ -5,6 +5,7 @@ City Traders Imperium (CTI) is offering 15% off — discount code **BREAK15**.
 > City Traders Imperium (CTI) offers 15% off 1-Step, 2-Step and Instant Funding for Halloween Week 2, valid until 25 October. The offer lowers the entry cost only and leaves trading rules unchanged.
 
 - Published: 2026-10-19
+- Offer ends: 2026-10-25
 - Prop firm: City Traders Imperium (CTI)
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 - Summary: City Traders Imperium (CTI) cuts 15% off 1-Step, 2-Step and Instant Funding for Halloween Week 2, valid until 25 October. The saving lowers entry cost only and leaves trading rules unchanged.

@@ -5,6 +5,7 @@ FTUK is offering 40% off — discount code **TRICK40**.
 > Halloween: FTUK cuts Instant Funding by 40% plus a 20% payout boost on Instant Funding only. Ends Friday 23:59 UTC. Rules and risk stay unchanged.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-23
 - Prop firm: FTUK
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 - Summary: FTUK lowers the Instant Funding purchase price by 40% for Halloween, ending Friday at 23:59 UTC, while trading rules, drawdown limits and trading risk remain completely unchanged for every buyer considering this offer.

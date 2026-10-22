@@ -6,6 +6,6 @@ Funded Prime has no discount code or deal listed right now — we track the firm
 - Activate: https://propfirmdiscount.com/go/fundedprime
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-prime/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Funded Prime yet. New promotions appear here first — check back soon.

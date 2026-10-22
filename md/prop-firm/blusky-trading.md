@@ -1,6 +1,6 @@
 # BluSky Trading Discount Code
 
-The newest BluSky Trading discount code is **ARROW** — 30% off (October 2, 2026). The live campaign code changes with each promotion; newest first below.
+The newest BluSky Trading discount code is **ARROW** — 30% off (October 2, 2026). The campaign code changes with each promotion; newest first below.
 
 > We fund and grow day traders.  Those other guys want you to fail. We want you to succeed. Trade our company's live accounts and receive up to 90% of profits.
 
@@ -17,6 +17,6 @@ The newest BluSky Trading discount code is **ARROW** — 30% off (October 2, 202
 - Scope: Propel, Orbit, Launch, Direct2Funding, Instant Funding
 - Deal page: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-02 - [BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/) (30% Off)

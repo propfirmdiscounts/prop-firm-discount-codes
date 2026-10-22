@@ -6,7 +6,7 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-21
 - Trustpilot: 3.5/5 (13350 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
@@ -16,6 +16,7 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 ## Current deal: QT Funded 55% Off All Accounts Plus Free Account
 
 - Published: 2026-10-21
+- Offer ends: 2026-10-25
 - Offer: 55% Off
 - Code: PFD
 - Scope: All accounts, second account of same size
@@ -47,7 +48,7 @@ It may suit a buyer who was already considering an account and who values a lowe
 
 The launch names TradingView Charts, Interactive Forex Heatmaps, an Integrated Economic Calendar and a Smart Lot Size and Risk Calculator. It also names an upgraded dashboard and faster breach detection.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off)
 - 2026-10-20 - [QT Funded 65% Off All Accounts - Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off)

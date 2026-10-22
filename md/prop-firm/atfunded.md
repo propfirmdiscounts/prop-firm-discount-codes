@@ -1,6 +1,6 @@
 # ATFunded Discount Code
 
-The newest ATFunded discount code is **SEPTEMBER** — 15% off (September 24, 2025). The live campaign code changes with each promotion; newest first below.
+No live discount code for ATFunded right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/atfunded/
 
 > ATFunded is a proprietary trading firm supported by ATFX, and aims to provide skilled traders with a practical and sustainable environment.
 
@@ -9,14 +9,14 @@ The newest ATFunded discount code is **SEPTEMBER** — 15% off (September 24, 20
 - Activate: https://propfirmdiscount.com/go/atfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atfunded/
 
-## Current deal: ATFunded – 15% OFF 2-Phase Challenge (This Week)
+## Most recent deal (ended): ATFunded – 15% OFF 2-Phase Challenge (This Week)
 
 - Published: 2025-09-24
+- Offer ends: Ended
 - Offer: 15% Off
-- Code: SEPTEMBER
 - Scope: 2-Phase Challenge
 - Deal page: https://propfirmdiscount.com/deals/atfunded/atfunded-15-off-2-phase-challenge-this-week/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

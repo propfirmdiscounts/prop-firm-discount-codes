@@ -6,22 +6,22 @@ The verified Funded Hero Futures discount code is **PFD** — Up to 65% off, wor
 
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-25
 - Trustpilot: 4.3/5 (17 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedherofutures
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Hero Futures: 55% Off Entry Fees Plus Buy One Get One Free
+## Most recent deal (ended): Funded Hero Futures: 55% Off Entry Fees Plus Buy One Get One Free
 
 - Published: 2026-09-25
+- Offer ends: Ended
 - Offer: 55% Off
-- Code: PFD
 - Scope: All accounts
 - Deal page: https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-09-25 - [Funded Hero Futures: 55% Off Entry Fees Plus Buy One Get One Free](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/) (55% Off)
 - 2026-09-10 - [Funded Hero Futures 70% Off 10k to 100k Instant Accounts Upfront Purchase Cost](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-10k-100k-instant-accounts/) (70% Off)

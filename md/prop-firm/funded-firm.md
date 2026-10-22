@@ -6,6 +6,6 @@ Funded Firm has no discount code or deal listed right now — we track the firm 
 - Activate: https://propfirmdiscount.com/go/fundedfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-firm/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Funded Firm yet. New promotions appear here first — check back soon.

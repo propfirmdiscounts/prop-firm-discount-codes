@@ -5,6 +5,7 @@ Alpha Futures is offering 50% off — discount code **MYALPHA50**.
 > Alpha Futures cuts 50% off Standard, Direct and Advanced plans for the MyAlpha launch, valid Oct 19 - Oct 31. Trading rules stay unchanged.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-31
 - Prop firm: Alpha Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - Summary: Standard, Direct and Advanced plans cost 50% less for the MyAlpha launch, valid Oct 19 - Oct 31, while trading rules and evaluation criteria remain exactly as they were before.

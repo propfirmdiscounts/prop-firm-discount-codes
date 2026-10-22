@@ -1,27 +1,27 @@
 # Monthly Roundup Offers Prop Firm Deals (2026)
 
-The newest Monthly Roundup Offers prop firm deal is **October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup** from  (published 2026-10-01). Codes and live offers below, newest first.
+The newest Monthly Roundup Offers prop firm deal is **October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup** from  (published 2026-10-01). Codes and offers below, newest first, each with the end date its firm gave it.
 
-Top live offers now:
+Newest offers:
 -  — October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup
 -  — September 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup
 -  — August 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup
 
-How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered.
+How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered; "Offer ended" means the promotion is over and the row is kept as deal history — there is no live code for it.
 
-| Published | Firm | Deal | Discount | Code | Link |
-|---|---|---|---|---|---|
-| 2026-10-01 |  | October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/october-2026-prop-firm-coupon-codes/ |
-| 2026-09-01 |  | September 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/september-2026-prop-firm-deals/ |
-| 2026-08-01 |  | August 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/august-2026-prop-firm-deals/ |
-| 2026-07-01 |  | July 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/july-2026-prop-firm-deals/ |
-| 2026-06-02 |  | June 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/june-2026-prop-firm-coupon-codes/ |
-| 2026-05-01 |  | May 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/may-2026-prop-firm-coupon-codes/ |
-| 2026-04-09 |  | April 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/april-2026-prop-firm-coupon-codes/ |
-| 2026-03-02 |  | March 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/march-2026-prop-firm-coupon-codes/ |
-| 2026-02-01 |  | February 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/february-2026-prop-firm-coupon-codes/ |
-| 2026-01-10 |  | January 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/january-2026-prop-firm-coupon-codes/ |
-| 2025-12-01 |  | December 2025 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/december-2025-prop-firm-coupon-codes-discounts/ |
-| 2025-11-02 |  | November 2025 Prop Firm Coupon Codes & Deals – Monthly Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/november-2025-prop-firm-coupon-codes-deals-roundup/ |
-| 2025-11-01 |  | October 2025 Prop Firm Coupon Codes & Deals – Complete Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/october-2025-prop-firm-coupon-codes-deals-roundup/ |
-| 2025-10-01 |  | September 2025 Prop Firm Coupon Codes & Deals – Complete Roundup |  | No Code Required | https://propfirmdiscount.com/monthly-roundups/2025-09-prop-firm-coupon-codes-roundup/ |
+| Published | Firm | Deal | Discount | Ends | Code | Link |
+|---|---|---|---|---|---|---|
+| 2026-10-01 |  | October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | - | No Code Required | https://propfirmdiscount.com/monthly-roundups/october-2026-prop-firm-coupon-codes/ |
+| 2026-09-01 |  | September 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/september-2026-prop-firm-deals/ |
+| 2026-08-01 |  | August 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/august-2026-prop-firm-deals/ |
+| 2026-07-01 |  | July 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/july-2026-prop-firm-deals/ |
+| 2026-06-02 |  | June 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/june-2026-prop-firm-coupon-codes/ |
+| 2026-05-01 |  | May 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/may-2026-prop-firm-coupon-codes/ |
+| 2026-04-09 |  | April 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/april-2026-prop-firm-coupon-codes/ |
+| 2026-03-02 |  | March 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/march-2026-prop-firm-coupon-codes/ |
+| 2026-02-01 |  | February 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/february-2026-prop-firm-coupon-codes/ |
+| 2026-01-10 |  | January 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/january-2026-prop-firm-coupon-codes/ |
+| 2025-12-01 |  | December 2025 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/december-2025-prop-firm-coupon-codes-discounts/ |
+| 2025-11-02 |  | November 2025 Prop Firm Coupon Codes & Deals – Monthly Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/november-2025-prop-firm-coupon-codes-deals-roundup/ |
+| 2025-11-01 |  | October 2025 Prop Firm Coupon Codes & Deals – Complete Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/october-2025-prop-firm-coupon-codes-deals-roundup/ |
+| 2025-10-01 |  | September 2025 Prop Firm Coupon Codes & Deals – Complete Roundup |  | Ended | Offer ended | https://propfirmdiscount.com/monthly-roundups/2025-09-prop-firm-coupon-codes-roundup/ |

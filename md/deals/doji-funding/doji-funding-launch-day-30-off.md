@@ -1,15 +1,15 @@
 # Doji Funding 30% Off All Configurable Challenges
 
-Doji Funding is offering 30% off — discount code **PFD**.
+Doji Funding was offering 30% off.
 
 > Doji Funding is celebrating its Launch Day with a 24-hour flash sale taking 30% off all configurable challenge accounts. The promotion reduces the initial entry fee without modifying your chosen trading rules or payout limits.
 
 - Published: 2026-10-12
+- Offer ends: 2026-10-12 (ended)
 - Prop firm: Doji Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
 - Summary: Save 30% on all evaluation accounts during the Doji Funding Launch Day event. This 24-hour offer lowers upfront evaluation costs while keeping all configured trading parameters unchanged.
 - Offer: 30% Off
-- Code: PFD
 - Scope: All challenges, all configurations, Forex, Indices, Stocks, Crypto, Metals, Energy
 - Deal: https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

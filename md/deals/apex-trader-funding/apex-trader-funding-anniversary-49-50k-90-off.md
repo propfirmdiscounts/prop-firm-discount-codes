@@ -1,10 +1,11 @@
 # Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations
 
-Apex Trader Funding is offering 90% off.
+Apex Trader Funding was offering 90% off.
 
 > Apex Trader Funding's 5-Year Anniversary promotion features $49 50K accounts, $199 5-packs and 90% off evaluations. Valid through October 5.
 
 - Published: 2026-10-01
+- Offer ends: 2026-10-05 (ended)
 - Prop firm: Apex Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/apex-trader-funding/
 - Summary: Apex Trader Funding has introduced $49 50K accounts and $199 5-packs for its anniversary. Valid through October 5, this lowers entry costs but keeps trading rules unchanged.

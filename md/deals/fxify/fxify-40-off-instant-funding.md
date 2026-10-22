@@ -5,6 +5,7 @@ FXIFY is offering 40% off — discount code **FUNDED40**.
 > FXIFY is reducing the initial purchase price of its Instant Funding accounts by 40%, valid until November 2. The promotion affects purchase pricing only and does not modify trading rules.
 
 - Published: 2026-10-15
+- Offer ends: 2026-11-02
 - Prop firm: FXIFY
 - Firm page: https://propfirmdiscount.com/prop-firm/fxify/
 - Summary: FXIFY reduces upfront entry fees by 40% on Instant Funding accounts up to $100K, valid until November 2. This discount strictly lowers pricing without altering core risk parameters or drawdown limits.

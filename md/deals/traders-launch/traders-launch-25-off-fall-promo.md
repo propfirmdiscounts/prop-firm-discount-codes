@@ -1,15 +1,15 @@
 # Traders Launch 25% Off Fall Promotion
 
-Traders Launch is offering 25% off — discount code **FALL**.
+Traders Launch was offering 25% off.
 
 > Reduce the upfront cost of your next evaluation with this 25% discount. This autumn promotion runs until October 5 at 11:59 PM EST and does not alter any trading risk rules.
 
 - Published: 2026-09-28
+- Offer ends: Ended
 - Prop firm: Traders Launch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 - Summary: Lower your initial evaluation cost by 25% with this autumn promotion. The offer is valid until October 5 at 11:59 PM EST and leaves all risk rules unchanged.
 - Offer: 25% Off
-- Code: FALL
 - Scope: All accounts, Fall Promo
 - Deal: https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/
 

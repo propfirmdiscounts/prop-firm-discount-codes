@@ -6,6 +6,6 @@ Pro Trader Fund has no discount code or deal listed right now — we track the f
 - Activate: https://propfirmdiscount.com/go/protradersfund
 - Firm page: https://propfirmdiscount.com/prop-firm/pro-trader-fund/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Pro Trader Fund yet. New promotions appear here first — check back soon.

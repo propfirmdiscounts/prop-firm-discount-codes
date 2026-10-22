@@ -1,15 +1,15 @@
 # Hantec Trader 35% Off Eligible Challenge Pricing
 
-Hantec Trader is offering 35% off — discount code **REACT35**.
+Hantec Trader was offering 35% off.
 
 > Get a 35% discount on eligible Hantec Trader evaluation accounts during this 48-hour community event. Valid from 14 October to 16 October 2026. Excludes Instant24 and EnhancedX models.
 
 - Published: 2026-10-14
+- Offer ends: 2026-10-16 (ended)
 - Prop firm: Hantec Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 - Summary: A 48-hour 35% price reduction on standard evaluation accounts. Does not change trading rules. Valid until 16 October. Excludes Instant24 and EnhancedX models.
 - Offer: 35% Off
-- Code: REACT35
 - Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
 - Deal: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
 

@@ -6,22 +6,22 @@ The verified ThinkCapital discount code is **PFD** — Up to 10% off, works any 
 
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-21
 - Trustpilot: 4.0/5 (608 reviews)
 - Activate: https://propfirmdiscount.com/go/thinkcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: ThinkCapital 15% Off $2,500 to $50,000 Accounts
+## Most recent deal (ended): ThinkCapital 15% Off $2,500 to $50,000 Accounts
 
 - Published: 2026-09-21
+- Offer ends: Ended
 - Offer: 15% Off
-- Code: PEACE15
 - Scope: $2,500-$50,000 accounts, Challenge, Instant funding
 - Deal page: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-09-21 - [ThinkCapital 15% Off $2,500 to $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) (15% Off)
 - 2026-09-07 - [ThinkCapital 20% Discount on $2,500 - $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) (20% Off)

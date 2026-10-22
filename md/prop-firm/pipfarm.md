@@ -6,7 +6,7 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 
 - Code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-11
 - Trustpilot: 3.5/5 (345 reviews)
 - Activate: https://propfirmdiscount.com/go/pipfarm
@@ -46,7 +46,7 @@ No, the promotion only modifies the initial purchase price of the evaluation. It
 
 No, the promotional 100K challenges cannot be purchased using XP or gift vouchers and the bundle discount does not apply.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)
 - 2026-10-09 - [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) (Only $9.99)

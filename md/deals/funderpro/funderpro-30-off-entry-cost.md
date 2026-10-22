@@ -1,15 +1,15 @@
 # FunderPro 30% Off Upfront Entry Cost
 
-FunderPro is offering 30% off — discount code **Q4FUNDED**.
+FunderPro was offering 30% off.
 
 > FunderPro is offering a 30% discount on upfront entry costs for new evaluation accounts. This active promotion is valid until this Friday and leaves all standard trading rules unchanged.
 
 - Published: 2026-09-29
+- Offer ends: Ended
 - Prop firm: FunderPro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 - Summary: Reduce your initial evaluation purchase price with this 30% cost reduction. Valid until this Friday, this promotion lowers the upfront entry fee without altering any trading risk rules.
 - Offer: 30% Off
-- Code: Q4FUNDED
 - Scope: New evaluation purchases
 - Deal: https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-entry-cost/
 

@@ -6,6 +6,6 @@ We Fund You Trade has no discount code or deal listed right now — we track the
 - Activate: https://propfirmdiscount.com/go/wefundyoutrade
 - Firm page: https://propfirmdiscount.com/prop-firm/we-fund-you-trade/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for We Fund You Trade yet. New promotions appear here first — check back soon.

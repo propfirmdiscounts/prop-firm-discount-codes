@@ -6,6 +6,6 @@ Propel Capital Group has no discount code or deal listed right now — we track 
 - Activate: https://propfirmdiscount.com/go/propelcapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/propel-capital-group/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Propel Capital Group yet. New promotions appear here first — check back soon.

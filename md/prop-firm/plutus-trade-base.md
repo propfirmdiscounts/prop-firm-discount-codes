@@ -1,6 +1,6 @@
 # Plutus Trade Base Discount Code
 
-The newest Plutus Trade Base discount code is **PASS50** — 50% off (October 4, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Plutus Trade Base discount code is **PASS50** — 50% off (October 4, 2026). The campaign code changes with each promotion; newest first below.
 
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
@@ -43,7 +43,7 @@ According to the firm's published specifications, successful traders can earn up
 
 The promotional material does not state a specific expiry date, presenting it as a limited-time opportunity to access the $100K account at a reduced rate.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-04 - [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) (50% Off)
 - 2026-09-12 - [Plutus Trade Base 50% Off Challenge Pricing](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-challenge-pricing/) (50% Off)

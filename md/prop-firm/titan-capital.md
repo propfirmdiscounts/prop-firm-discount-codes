@@ -1,6 +1,6 @@
 # Titan Capital Discount Code
 
-The newest Titan Capital discount code is **BOGO** — 60% off (October 19, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for Titan Capital right now — newest deals and offers are below.
 
 > At Titan Capital Markets, we’ve developed an innovative 1,2,3-step Evaluation Process tailored for aspiring traders. This process features a Challenge phase followed by a Verification phase, aimed at uncovering and nurturing trading talent. Upon successfully navigating this journey, you’ll have the chance to manage a Titan Capital Markets Funded Account with a balance of up to 200,000 USD. We’re committed to supporting you every step of the way as you strive for trading success.
 
@@ -9,11 +9,11 @@ The newest Titan Capital discount code is **BOGO** — 60% off (October 19, 2026
 - Activate: https://propfirmdiscount.com/go/titancapital
 - Firm page: https://propfirmdiscount.com/prop-firm/titan-capital/
 
-## Current deal: Titan Capital 60% Off Evaluations Plus Free Second Account
+## Most recent deal (ended): Titan Capital 60% Off Evaluations Plus Free Second Account
 
 - Published: 2026-10-19
+- Offer ends: 2026-10-19 (ended)
 - Offer: 60% Off
-- Code: BOGO
 - Scope: Evaluation, Any evaluation, Free second account, Same size account
 - Deal page: https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/
 
@@ -39,8 +39,8 @@ Buyers who had already planned to purchase an evaluation may find the lower entr
 
 Buyers should confirm that the evaluation they select falls within the any-evaluation scope stated for the promotion. They should also check the October 19, 2026 limit against their own purchase timing.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-19 - [Titan Capital 60% Off Evaluations Plus Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/) (60% Off)
-- 2026-10-01 - [Titan Capital 55% Off All Evaluations and Bonus Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/) (55% Off)
+- 2026-10-19 - [Titan Capital 60% Off Evaluations Plus Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/) (60% Off) — ended 2026-10-19
+- 2026-10-01 - [Titan Capital 55% Off All Evaluations and Bonus Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/) (55% Off) — ended 2026-10-14
 - 2026-09-16 - [Titan Capital 50% Off Any Evaluation and Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-50-off-free-account/) (50% Off)

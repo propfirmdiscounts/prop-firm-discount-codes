@@ -36,6 +36,6 @@ Traders are allowed to purchase up to 5 of the $199 Undead accounts and up to 5 
 
 No, these specific one-time fee models do not feature a 90/10 profit split or allow for account resets.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-15 - [Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) (Only $65)

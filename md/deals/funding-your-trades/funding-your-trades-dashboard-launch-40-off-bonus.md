@@ -1,15 +1,15 @@
 # Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback
 
-Funding Your Trades is offering 40% off — discount code **NEWDASH**.
+Funding Your Trades was offering 40% off.
 
 > Funding Your Trades marks its dashboard launch with a 7-day offer cutting upfront fees by 40%, adding a free second evaluation account and providing 5% wallet cashback.
 
 - Published: 2026-10-13
+- Offer ends: 2026-10-20 (ended)
 - Prop firm: Funding Your Trades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - Summary: Celebrate the Funding Your Trades dashboard launch with 40% off evaluations, an extra account and 5% cashback. Valid for 7 days, this offer reduces costs without altering rules.
 - Offer: 40% Off
-- Code: NEWDASH
 - Scope: Evaluation accounts
 - Deal: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

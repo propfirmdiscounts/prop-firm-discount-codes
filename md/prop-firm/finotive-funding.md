@@ -6,23 +6,23 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 
 - Code: JACKICHUN
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-01
 - Trustpilot: 3.2/5 (1078 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Finotive Funding: 50% Off Evaluation and Instant Funding Accounts
+## Most recent deal (ended): Finotive Funding: 50% Off Evaluation and Instant Funding Accounts
 
 - Published: 2026-10-01
+- Offer ends: 2026-10-19 (ended)
 - Offer: 50% Off
-- Code: OCT50
 - Scope: Instant Funding, Challenge, Pro accounts, all sizes
 - Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off)
+- 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off) — ended 2026-10-19
 - 2026-09-21 - [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) (50% Off)
 - 2026-09-07 - [Finotive Funding Labor Day: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) (40% Off)

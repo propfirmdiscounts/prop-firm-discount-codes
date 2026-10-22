@@ -1,6 +1,6 @@
 # Sure Leverage Funding Discount Code
 
-The newest Sure Leverage Funding discount code is **BOO40** — 40% off (October 6, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Sure Leverage Funding discount code is **BOO40** — 40% off (October 6, 2026). The campaign code changes with each promotion; newest first below.
 
 > SLF is a global prop trading firm built by traders, for traders. We specialize in Instant Funding with the most competitive rules in the industry, including being the only firm to offer Static Drawdown on Instant Funding accounts with a generous 8% maximum. Why 40,000+ Traders Choose SLF: ⚡ 24-Hour Payout Guarantee: Our current average payout time is under 16 hours. 📈 Institutional Infrastructure: We operate on our own dedicated MT5 license for superior execution. 🛡️ Static Drawdown: No trailing drawdown traps—protect your edge with our 8% static limit. 💰 Proven Track Record: Over $1 Billion in funding issued and $2.2 Million+ paid out to date. Join the firm where transparency isn't just a buzzword—it's our standard.
 
@@ -39,7 +39,7 @@ Unless the 30% premium is paid to remove the daily limit, all standard evaluatio
 
 The current campaign is explicitly tied to the October discounts. It is available for purchases made during this seasonal promotional window.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-06 - [Sure Leverage Funding 40% Off October Discounts & Account Customization](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/) (40% Off)
 - 2026-10-04 - [Sure Leverage Funding Buy 1 Get 1 Free October Entitlement](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/) (Buy 1 Get 1)

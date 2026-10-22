@@ -1,15 +1,15 @@
 # Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)
 
-Blueberry Funded is offering 15% off — discount code **SYN15**.
+Blueberry Funded was offering 15% off.
 
 > Blueberry Funded celebrates the launch of synthetic indices with a 15% discount on all Synthetics challenges from $2.5K to $100K. Valid until October 20.
 
 - Published: 2026-10-13
+- Offer ends: 2026-10-20 (ended)
 - Prop firm: Blueberry Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 - Summary: A 15% price reduction on the upfront cost of Blueberry Funded Synthetics challenges to celebrate the launch of their new market. Valid until October 20.
 - Offer: 15% Off
-- Code: SYN15
 - Scope: All Challenges, 2-Step, 1-Step, Instant Funding, $2.5K to $100K accounts, Synthetics
 - Deal: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/
 

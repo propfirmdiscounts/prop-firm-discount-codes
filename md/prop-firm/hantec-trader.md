@@ -1,6 +1,6 @@
 # Hantec Trader Discount Code
 
-The newest Hantec Trader discount code is **REACT35** — 35% off (October 14, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for Hantec Trader right now — newest deals and offers are below.
 
 > Hantec Trader provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our Express, Enhanced, and Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits. We are part of the Hantec Global group, a trusted name in the financial industry with over 35 years of experience.
 
@@ -9,11 +9,11 @@ The newest Hantec Trader discount code is **REACT35** — 35% off (October 14, 2
 - Activate: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 
-## Current deal: Hantec Trader 35% Off Eligible Challenge Pricing
+## Most recent deal (ended): Hantec Trader 35% Off Eligible Challenge Pricing
 
 - Published: 2026-10-14
+- Offer ends: 2026-10-16 (ended)
 - Offer: 35% Off
-- Code: REACT35
 - Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
 - Deal page: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
 
@@ -39,8 +39,8 @@ No. The promotion affects the purchase pricing only and does not modify the eval
 
 You can access the 35% discount by applying the active promotion code at checkout before the 48-hour window closes.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-14 - [Hantec Trader 35% Off Eligible Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/) (35% Off)
+- 2026-10-14 - [Hantec Trader 35% Off Eligible Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/) (35% Off) — ended 2026-10-16
 - 2026-09-29 - [Hantec Trader 50% Off Evaluation Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/) (50% Off)
 - 2026-09-16 - [Hantec Trader 35% Off First Evaluation Challenge](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-first-challenge/) (35% Off)

@@ -1,6 +1,6 @@
 # Hola Prime Discount Code
 
-The newest Hola Prime discount code is **SPOOKY20** — 20% off (October 14, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Hola Prime discount code is **SPOOKY20** — 20% off (October 14, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-14
 - Trustpilot: 4.5/5 (4015 reviews)
@@ -37,7 +37,7 @@ No, the promotion solely affects the entry fee and leaves all trading rules and 
 
 First-time users have a separate offer available; the 20% promotion is designed specifically for returning customers.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) (20% Off)
 - 2026-10-14 - [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) (40% Off)

@@ -6,6 +6,6 @@ Tranquility Traders has no discount code or deal listed right now — we track t
 - Activate: https://propfirmdiscount.com/go/tranquilitytraders
 - Firm page: https://propfirmdiscount.com/prop-firm/tranquility-traders/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Tranquility Traders yet. New promotions appear here first — check back soon.

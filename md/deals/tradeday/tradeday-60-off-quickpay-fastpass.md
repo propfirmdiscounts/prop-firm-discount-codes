@@ -1,15 +1,15 @@
 # TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis
 
-TradeDay is offering 60% off — discount code **FLASH**.
+TradeDay was offering 60% off.
 
 > TradeDay is running a flash sale that cuts up to 60% off QuickPay evaluation accounts and removes activation fees without changing the underlying trading rules. This limited-time promotion is valid until Friday, October 10.
 
 - Published: 2026-10-04
+- Offer ends: 2026-10-10 (ended)
 - Prop firm: TradeDay
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeday/
 - Summary: This flash sale reduces upfront evaluation costs by up to 60% and eliminates activation fees while keeping all risk parameters unchanged. Valid until Friday, October 10.
 - Offer: 60% Off
-- Code: FLASH
 - Scope: QuickPay, FastPass, No Activation Fee
 - Deal: https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/
 

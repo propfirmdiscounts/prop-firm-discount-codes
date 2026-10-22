@@ -1,6 +1,6 @@
 # FundedNext Discount Code
 
-The newest FundedNext discount code is **STRTN** — 32% off (October 12, 2026). The live campaign code changes with each promotion; newest first below.
+The newest FundedNext discount code is **STRTN** — 32% off (October 12, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-12
 - Trustpilot: 4.5/5 (81956 reviews)
@@ -37,7 +37,7 @@ No. The active discount only reduces the initial challenge fee. All profit targe
 
 Yes, the promotional materials indicate that these reduced entry costs are applicable for all users purchasing the specified account sizes in October.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-12 - [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) (32% Off)
 - 2026-10-01 - [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) (Only $29.99)

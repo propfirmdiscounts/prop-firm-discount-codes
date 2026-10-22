@@ -1,6 +1,6 @@
 # FunderPro Discount Code
 
-The newest FunderPro discount code is **Q4FUNDED** — 30% off (September 29, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for FunderPro right now — newest deals and offers are below.
 
 > FunderPro is a prop trading firm looking to empower skilled traders globally. Join our funded trader program and manage up to $200k in Funds.
 
@@ -9,11 +9,11 @@ The newest FunderPro discount code is **Q4FUNDED** — 30% off (September 29, 20
 - Activate: https://propfirmdiscount.com/go/funderpro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 
-## Current deal: FunderPro 30% Off Upfront Entry Cost
+## Most recent deal (ended): FunderPro 30% Off Upfront Entry Cost
 
 - Published: 2026-09-29
+- Offer ends: Ended
 - Offer: 30% Off
-- Code: Q4FUNDED
 - Scope: New evaluation purchases
 - Deal page: https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-entry-cost/
 
@@ -35,6 +35,6 @@ No. The active promotion strictly lowers the initial purchase price and does not
 
 This pricing structure may suit traders preparing to start a new evaluation who want to lower their upfront entry fee without needing relaxed evaluation rules.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-09-29 - [FunderPro 30% Off Upfront Entry Cost](https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-entry-cost/) (30% Off)

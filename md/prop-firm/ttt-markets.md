@@ -6,6 +6,6 @@ TTT Markets has no discount code or deal listed right now — we track the firm 
 - Activate: https://propfirmdiscount.com/go/tttmarkets
 - Firm page: https://propfirmdiscount.com/prop-firm/ttt-markets/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for TTT Markets yet. New promotions appear here first — check back soon.

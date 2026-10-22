@@ -6,7 +6,7 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-20
 - Trustpilot: 4.0/5 (439 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
@@ -47,7 +47,7 @@ No. The promotion changes the purchase price only and states no change to the st
 
 It may suit buyers who prefer a step-by-step evaluation with clear targets at each stage and who were already considering an account at the regular price. Buyers who are uncomfortable with the three-step structure or the drawdown limits should be cautious despite the lower price.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
 - 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)

@@ -6,6 +6,6 @@ Nordic Funder has no discount code or deal listed right now — we track the fir
 - Activate: https://propfirmdiscount.com/go/nordicfunder
 - Firm page: https://propfirmdiscount.com/prop-firm/nordic-funder/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Nordic Funder yet. New promotions appear here first — check back soon.

@@ -1,6 +1,6 @@
 # Alpha Capital Group Discount Code
 
-The newest Alpha Capital Group discount code is **ACG17** — 17% off (August 15, 2023). The live campaign code changes with each promotion; newest first below.
+No live discount code for Alpha Capital Group right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
@@ -9,14 +9,14 @@ The newest Alpha Capital Group discount code is **ACG17** — 17% off (August 15
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
-## Current deal: Alpha Capital Group Promotion: 17.5% Discount + 150% Fee Refund
+## Most recent deal (ended): Alpha Capital Group Promotion: 17.5% Discount + 150% Fee Refund
 
 - Published: 2023-08-15
+- Offer ends: Ended
 - Offer: 17% Off
-- Code: ACG17
 - Scope: Evaluation purchases.
 - Deal page: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-17-5-percent-off-150-fee-refund/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

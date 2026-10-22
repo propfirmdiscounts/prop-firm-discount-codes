@@ -5,6 +5,7 @@ thePropTrade is offering 22% off — discount code **TWOYEARS**.
 > thePropTrade is celebrating its 2nd birthday with 22% off all evaluation challenges and account sizes. This promotional entry pricing is valid until 25 October, 12:00 PM UTC, while trading rules remain unchanged.
 
 - Published: 2026-10-07
+- Offer ends: 2026-10-25
 - Prop firm: thePropTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - Summary: Celebrate thePropTrade's birthday with a 22% reduction on all challenge sizes. This cost-saving offer runs until 25 October, 12:00 PM UTC, lowering the entry fee without modifying any core evaluation parameters.

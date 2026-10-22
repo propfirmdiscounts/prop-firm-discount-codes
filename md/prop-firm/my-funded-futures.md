@@ -1,6 +1,6 @@
 # My Funded Futures Discount Code
 
-The newest My Funded Futures discount code is **CRATE** — 30% off (September 23, 2026). The live campaign code changes with each promotion; newest first below.
+No live discount code for My Funded Futures right now — newest deals and offers are below.
 
 > My Funded Futures is a trader-first futures prop firm built around what matters most: clear rules, reliable payouts, flexible plans, and a real path to live capital. More than 100,000 traders have chosen MFFU, with access to zero activation fees, no daily loss limit on most plans, profit splits up to 90%, and daily payout options. Around 80% of eligible payout requests are approved automatically in under a second—because traders should be able to count on getting paid without unnecessary delays or guesswork. In an industry that can change overnight, we are focused on building something traders can rely on for the long run. That means prioritizing stability, communicating clearly, and continuing to put the trader experience first. Raise your standard. Trade MFFU.
 
@@ -9,14 +9,14 @@ The newest My Funded Futures discount code is **CRATE** — 30% off (September 2
 - Activate: https://propfirmdiscount.com/go/myfundedfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/my-funded-futures/
 
-## Current deal: My Funded Futures 30% Off Plus Diamond Crate: Is It Worth The Entry Fee?
+## Most recent deal (ended): My Funded Futures 30% Off Plus Diamond Crate: Is It Worth The Entry Fee?
 
 - Published: 2026-09-23
+- Offer ends: Ended
 - Offer: 30% Off
-- Code: CRATE
 - Scope: Evaluation Accounts, My Funded Perps
 - Deal page: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-30-off-diamond-crate/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-09-23 - [My Funded Futures 30% Off Plus Diamond Crate: Is It Worth The Entry Fee?](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-30-off-diamond-crate/) (30% Off)

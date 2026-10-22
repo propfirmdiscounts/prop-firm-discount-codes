@@ -9,13 +9,14 @@ No live discount code for AquaFutures right now — no new deals in the last 2 m
 - Activate: https://propfirmdiscount.com/go/aquafutures
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafutures/
 
-## Current deal: AquaFutures Winter Deal: New Beginner Prices & 40% Discount
+## Most recent deal (ended): AquaFutures Winter Deal: New Beginner Prices & 40% Discount
 
 - Published: 2025-01-13
+- Offer ends: Ended
 - Offer: 40% Off
 - Scope: Beginner Challenge accounts (25K to 150K).
 - Deal page: https://propfirmdiscount.com/deals/aquafutures/aquafutures-winter-deal-beginner-pricing/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.

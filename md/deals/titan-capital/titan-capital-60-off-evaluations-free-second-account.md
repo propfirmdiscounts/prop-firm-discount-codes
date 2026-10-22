@@ -1,15 +1,15 @@
 # Titan Capital 60% Off Evaluations Plus Free Second Account
 
-Titan Capital is offering 60% off — discount code **BOGO**.
+Titan Capital was offering 60% off.
 
 > Titan Capital cuts 60% off any evaluation with a free second same-size account included at no extra cost. Limited time until October 19, 2026.
 
 - Published: 2026-10-19
+- Offer ends: 2026-10-19 (ended)
 - Prop firm: Titan Capital
 - Firm page: https://propfirmdiscount.com/prop-firm/titan-capital/
 - Summary: Titan Capital reduces any evaluation price by 60% with a second same-size account included free. The cut lowers entry cost only; trading rules stay unchanged. Limited time until October 19, 2026.
 - Offer: 60% Off
-- Code: BOGO
 - Scope: Evaluation, Any evaluation, Free second account, Same size account
 - Deal: https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/
 

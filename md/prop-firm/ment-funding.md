@@ -1,6 +1,6 @@
 # Ment Funding Discount Code
 
-The newest Ment Funding discount code is **MENT50** — 50% off (October 15, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Ment Funding discount code is **MENT50** — 50% off (October 15, 2026). The campaign code changes with each promotion; newest first below.
 
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
@@ -12,6 +12,7 @@ The newest Ment Funding discount code is **MENT50** — 50% off (October 15, 202
 ## Current deal: Ment Funding 50% Off PropX Accounts Up to $100K
 
 - Published: 2026-10-15
+- Offer ends: 2026-10-25
 - Offer: 50% Off
 - Code: MENT50
 - Scope: PropX Platform, Up to $100K, All Other Platforms, One-Step Evaluations
@@ -39,7 +40,7 @@ Payout schedules remain exactly as standard. Ment Funding maintains its 24 to 48
 
 No. The 50% rate is strictly capped at PropX accounts up to $100K. Any account above that size will receive the 40% discount instead.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-15 - [Ment Funding 50% Off PropX Accounts Up to $100K](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/) (50% Off)
 - 2026-10-09 - [Ment Funding 50% Off PropX and 40% Off Alternative Platforms](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/) (50% Off)

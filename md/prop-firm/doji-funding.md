@@ -4,17 +4,17 @@ The verified Doji Funding discount code is **PFD** — Up to 30% off, works any 
 
 - Code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-12
 - Activate: https://propfirmdiscount.com/go/dojifunding
 - Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Doji Funding 30% Off All Configurable Challenges
+## Most recent deal (ended): Doji Funding 30% Off All Configurable Challenges
 
 - Published: 2026-10-12
+- Offer ends: 2026-10-12 (ended)
 - Offer: 30% Off
-- Code: PFD
 - Scope: All challenges, all configurations, Forex, Indices, Stocks, Crypto, Metals, Energy
 - Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/
 
@@ -40,6 +40,6 @@ No, the promotion only modifies the upfront entry fee. Traders can configure a m
 
 Doji Funding allows traders to build their evaluations around Forex, indices, stocks, crypto, metals and energy. The 30% price reduction applies regardless of which instruments you intend to trade.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
-- 2026-10-12 - [Doji Funding 30% Off All Configurable Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) (30% Off)
+- 2026-10-12 - [Doji Funding 30% Off All Configurable Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) (30% Off) — ended 2026-10-12

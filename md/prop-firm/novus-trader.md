@@ -6,6 +6,6 @@ Novus Trader has no discount code or deal listed right now — we track the firm
 - Activate: https://propfirmdiscount.com/go/novustrader
 - Firm page: https://propfirmdiscount.com/prop-firm/novus-trader/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for Novus Trader yet. New promotions appear here first — check back soon.

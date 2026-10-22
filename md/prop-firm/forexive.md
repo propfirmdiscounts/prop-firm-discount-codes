@@ -6,7 +6,7 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works a
 
 - Code: WHCTXQHRIG
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-14
 - Trustpilot: 3.8/5 (113 reviews)
 - Activate: https://propfirmdiscount.com/go/forexive
@@ -43,7 +43,7 @@ The promotion is available for a limited time to celebrate their new chapter.
 
 This pricing structure may suit traders who are looking to secure their preferred evaluation account size at a lower upfront cost.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Forexive 30% Off All Trading Challenges](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) (30% Off)
 - 2026-09-30 - [Forexive 30% Off All Challenge Accounts](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) (30% Off)

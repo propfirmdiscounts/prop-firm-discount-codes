@@ -4,7 +4,7 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 
 - Code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-15
 - Trustpilot: 4.0/5 (1801 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
@@ -41,7 +41,7 @@ Once funded, successful traders are entitled to an 80% profit split, with reward
 
 Yes, you can always use VGYCKXLTY9 as a standing exclusive code at checkout. It is a verified code that always works and is occasionally applied at the highest available discount rate.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
 - 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)

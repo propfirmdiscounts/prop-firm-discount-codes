@@ -5,6 +5,7 @@ Ment Funding is offering 50% off — discount code **MENT50**.
 > This offer reduces PropX challenge fees by 50% up to $100K and cuts 40% off all other platforms, leaving evaluation rules unchanged. Valid until October 25.
 
 - Published: 2026-10-15
+- Offer ends: 2026-10-25
 - Prop firm: Ment Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 - Summary: Ment Funding cuts 50% off PropX accounts up to $100K and 40% off alternative models, without modifying evaluation rules. Valid until October 25.

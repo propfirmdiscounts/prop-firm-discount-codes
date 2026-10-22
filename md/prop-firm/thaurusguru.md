@@ -6,6 +6,6 @@ ThaurusGuru has no discount code or deal listed right now — we track the firm 
 - Activate: https://propfirmdiscount.com/go/thaurusguru
 - Firm page: https://propfirmdiscount.com/prop-firm/thaurusguru/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for ThaurusGuru yet. New promotions appear here first — check back soon.

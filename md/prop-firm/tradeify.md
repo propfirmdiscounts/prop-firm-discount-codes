@@ -1,6 +1,6 @@
 # Tradeify Discount Code
 
-The newest Tradeify discount code is **MILK** — 50% off (October 20, 2026). The live campaign code changes with each promotion; newest first below.
+The newest Tradeify discount code is **MILK** — 50% off (October 20, 2026). The campaign code changes with each promotion; newest first below.
 
 > At Tradeify, we empower talented traders to trade and earn payouts through a streamlined 3-step process designed to maximise opportunity and minimize personal financial risk. Our program begins with a trading challenge, progresses to a simulated funded stage, and culminates in a live funded account for consistent and successful traders. Tradeify provides cutting-edge tools to support your trading journey, including automated journaling to analyze and improve performance, and a dedicated trader support team to guide you every step of the way. Our platform offers a seamless trading experience with transparent rules, disciplined risk management practices, and opportunities to scale to significant capital. With Tradeify, you’re not just trading—you’re leveraging advanced technology and personalized support to build a successful and lasting partnership.
 
@@ -43,7 +43,7 @@ The promotion lowers the purchase price only. It does not reduce trading risk an
 
 Buyers who want a Futures account should be cautious because Futures accounts are excluded. US Persons should also be cautious because the FX offer is not available to them.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-20 - [Tradeify 50% Off All FX Accounts - Any Size](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/) (50% Off)
 - 2026-09-29 - [Tradeify 50% Off All FX Accounts: Is the Launch Pricing Right for You?](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-launch/) (50% Off)

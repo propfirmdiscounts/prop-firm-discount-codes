@@ -6,6 +6,6 @@ WeFund has no discount code or deal listed right now — we track the firm and p
 - Activate: https://propfirmdiscount.com/go/wefund
 - Firm page: https://propfirmdiscount.com/prop-firm/wefund/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for WeFund yet. New promotions appear here first — check back soon.

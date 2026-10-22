@@ -6,7 +6,7 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-20
 - Trustpilot: 3.2/5 (3288 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
@@ -47,11 +47,11 @@ The source does not state an expiry date for this promotion. Buyers should check
 
 No. The source describes the free matching account as included with the purchase at no additional cost. It is described as included with the purchase only.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-19 - [FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) (50% Off)
 - 2026-10-19 - [FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/) (50% Off)
-- 2026-10-16 - [FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) (70% Off)
+- 2026-10-16 - [FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) (70% Off) — ended 2026-10-18
 - 2026-10-12 - [FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) (90% Off)
 - 2026-10-12 - [FundingTraders 50% Off and BOGO Entitlement for Halloween](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) (50% Off)
 - 2026-10-07 - [FundingTraders 50% Off and Free Matching Account for $100K 2-Step Pro](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/) (50% Off)

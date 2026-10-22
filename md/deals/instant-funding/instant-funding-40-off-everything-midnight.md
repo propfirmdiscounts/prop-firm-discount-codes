@@ -1,15 +1,15 @@
 # Instant Funding 40% Off Everything – Discount Code
 
-Instant Funding is offering 40% off — discount code **ALL40**.
+Instant Funding was offering 40% off.
 
 > Instant Funding offers 40% off everything until midnight tonight, London time. The cut lowers purchase cost only; trading rules and risk stay unchanged.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-20 (ended)
 - Prop firm: Instant Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - Summary: 40% off everything at Instant Funding to midnight tonight, London time. Cost falls only. Rules, drawdown limits and trading risk do not change at all.
 - Offer: 40% Off
-- Code: ALL40
 - Scope: Everything, All accounts
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/
 - Verified standing exclusive code: AFFVOYAGE61 (works any time; the live rate is always on the firm page)

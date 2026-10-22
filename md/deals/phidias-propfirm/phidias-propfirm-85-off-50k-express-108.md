@@ -5,6 +5,7 @@ Phidias Propfirm is offering 85% off — discount code **PFD**.
 > Phidias Propfirm cuts 85% off 50K one-time accounts, with 50K Express to Live at $108 until Sunday, October 25 at 6:00 PM ET, rules as stated.
 
 - Published: 2026-10-20
+- Offer ends: 2026-10-25
 - Prop firm: Phidias Propfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
 - Summary: This promotion cuts the upfront price of 50K one-time payment accounts by 85%, with the 50K Express to Live at $108, while stated account rules stay unchanged until Sunday, October 25 at 6:00 PM ET.

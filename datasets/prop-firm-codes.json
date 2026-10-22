@@ -622,7 +622,7 @@
         {
             "prop_firm": "Funded Hero Futures",
             "code": "PFD",
-            "discount": "55%",
+            "discount": "65%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
             "last_deal_published": "2026-09-25",

@@ -6,7 +6,7 @@ The verified AquaFunded discount code is **PFD** — Up to 25% off, works any ti
 
 - Code: PFD
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-21
 - Trustpilot: 2.2/5 (1210 reviews)
 - Activate: https://propfirmdiscount.com/go/aquafunded
@@ -16,6 +16,7 @@ The verified AquaFunded discount code is **PFD** — Up to 25% off, works any ti
 ## Current deal: AquaFunded 25% Off Evaluations Halloween, 200% Refund
 
 - Published: 2026-10-21
+- Offer ends: 2026-11-05
 - Offer: 25% Off
 - Code: SPOOKY
 - Scope: One Step Standard, Two Step Standard, Instant Standard, Halloween, evaluation fee refund
@@ -47,7 +48,7 @@ It may suit buyers who had already planned to purchase one of the three Standard
 
 It is a coupon-type promotion tied to the Halloween sale. The same discount and refund terms apply whichever of the three Standard paths a buyer chooses.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off)
 - 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off)

@@ -6,6 +6,6 @@ TraderFunder has no discount code or deal listed right now — we track the firm
 - Activate: https://propfirmdiscount.com/go/traderfunder
 - Firm page: https://propfirmdiscount.com/prop-firm/traderfunder/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deals published for TraderFunder yet. New promotions appear here first — check back soon.

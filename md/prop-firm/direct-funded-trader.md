@@ -6,7 +6,7 @@ The verified Direct Funded Trader discount code is **PFD** — Up to 50% off, wo
 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: 2026-01-01 to 2026-12-31
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-05
 - Trustpilot: 2.8/5 (247 reviews)
 - Activate: https://propfirmdiscount.com/go/directfundedtrader
@@ -43,7 +43,7 @@ The 100K evaluation account is reduced from its regular price of $479 to $239.50
 
 Traders can follow the application link provided at the end of the article to claim the offer on the official site.
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - 2026-10-05 - [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) (50% Off)
 - 2026-09-26 - [Direct Funded Trader 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) (50% Off)

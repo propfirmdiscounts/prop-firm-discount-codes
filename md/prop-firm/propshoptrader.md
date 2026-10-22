@@ -9,13 +9,14 @@ No live discount code for PropShopTrader right now — no new deals in the last 
 - Activate: https://propfirmdiscount.com/go/propshoptrader
 - Firm page: https://propfirmdiscount.com/prop-firm/propshoptrader/
 
-## Current deal: PropShopTrader Halloween Offer: 70% OFF Instant Gladiators Direct Funding
+## Most recent deal (ended): PropShopTrader Halloween Offer: 70% OFF Instant Gladiators Direct Funding
 
 - Published: 2025-10-31
+- Offer ends: Ended
 - Offer: 70% Off
 - Scope: Direct funding accounts (25K and 50K).
 - Deal page: https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-70-off-instant-funding/
 
-## Current deals (last 2 months, newest first)
+## Deals (last 2 months, newest first)
 
 - No deal published in the last 2 months. Check back soon for new promotions.
