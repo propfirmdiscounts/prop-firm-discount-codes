@@ -1,20 +1,43 @@
 # Bullwaves Prime Discount Code
 
-No live discount code for Bullwaves Prime right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/bullwaves/
+The newest Bullwaves Prime discount code is **NOTRICKS35** — 35% off (October 23, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-09-17
+- Last deal published: 2026-10-23
 - Trustpilot: 3.5/5 (676 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 
-## Most recent deal (ended): Bullwaves Discount – 15% Off Bullwaves Prime Challenge (Up to $200K Accounts)
+## Current deal: Bullwaves Prime 35% Off All Prime Challenges Halloween
 
-- Published: 2025-09-20
-- Offer ends: Ended
-- Offer: 15% Off
-- Scope: Bullwaves Prime Challenge (Up to $200K Accounts)
-- Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-discount-15-off-bullwaves-prime-challenge-up-to-200k-accounts/
+- Published: 2026-10-23
+- Offer ends: 2026-10-31
+- Offer: 35% Off
+- Code: NOTRICKS35
+- Scope: Prime Challenges, all challenges, Halloween, 50K 2-Step giveaway
+- Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/
+
+## Bullwaves Prime deal FAQ
+
+**What discount does Bullwaves Prime offer in this Halloween promotion?**
+
+Bullwaves Prime offers 35% off all Prime Challenges during the October 23-31, 2026 window. Each purchase in the window is also entered into a random draw for a 50K 2-Step Challenge.
+
+**When does the Bullwaves Prime Halloween promotion run?**
+
+The promotion runs from October 23 to October 31, 2026. The 10 draw winners are selected after the promo ends.
+
+**What can buyers win in the Bullwaves Prime draw?**
+
+Ten winners each receive a 50K 2-Step Challenge. Entry comes with a purchase made under this promotion during the stated window and the draw is random.
+
+**Does the Bullwaves Prime discount change trading rules?**
+
+No. The promotion reduces the upfront entry cost only and does not change trading rules, drawdown limits or evaluation criteria. It also does not reduce trading risk.
+
+**Who may the Bullwaves Prime offer suit?**
+
+It may suit buyers who already planned a Prime Challenge purchase in late October and value a lower entry cost across any size. Buyers should be cautious about relying on the draw, since only 10 winners are selected.
 
 ## Deals (last 2 months, newest first)
 
-- No deal published in the last 2 months. Check back soon for new promotions.
+- 2026-10-23 - [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) (35% Off)

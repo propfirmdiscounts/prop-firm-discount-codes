@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Funding Your Trades 45% Off Halloween Challenges Plus BOGO** from Funding Your Trades — 45% off (published 2026-10-22). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **Bullwaves Prime 35% Off All Prime Challenges Halloween** from Bullwaves Prime — 35% off (published 2026-10-23). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- Bullwaves Prime — Bullwaves Prime 35% Off All Prime Challenges Halloween (35% Off)
 - Funding Your Trades — Funding Your Trades 45% Off Halloween Challenges Plus BOGO (45% Off)
 - FXIFY — FXIFY 35% Off All Other Programs – Halloween Deal (35% Off)
-- FXIFY — FXIFY 40% Off Instant Funding – Halloween Deal (40% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered; "Offer ended" means the promotion is over and the row is kept as deal history — there is no live code for it.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | Campaign Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
 | 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
 | 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 | Campaign Code Required | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
 | 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | 2026-10-25 | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
-| 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | 2026-10-25 | Campaign Code Required | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
