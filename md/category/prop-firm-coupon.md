@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-23 | WeMasterTrade | WeMasterTrade 33% Off All Packages in Flash Sale | 33% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |
 | 2026-10-22 | Goat Funded Trader | Goat Funded Trader 50% Off $100K Account – Expo Deal | 50% OFF | 2026-10-25 | Campaign Code Required | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
 | 2026-10-22 | PipFarm | PipFarm 50% Off Accounts Up To 50K Plus 50% Balance | 50% OFF | 2026-10-31 | Campaign Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/ |
@@ -30,7 +31,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | Tradeify | Tradeify 50% Off All FX Accounts – Any Size | 50% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 35% Off All Challenge Types | 35% OFF | - | Campaign Code Required | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/ |
 | 2026-10-20 | We Get Funded | We Get Funded: 50K 1 Step first challenge at 48.30 € | Only €48.30 | 2026-10-21 (ended) | Offer ended | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/ |
-| 2026-10-20 | RebelsFunding | RebelsFunding 70% Off $1,000 1-Step Challenge for €9 | 70% OFF | 2026-10-22 | Campaign Code Required | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/ |
+| 2026-10-20 | RebelsFunding | RebelsFunding 70% Off $1,000 1-Step Challenge for €9 | 70% OFF | 2026-10-22 (ended) | Offer ended | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/ |
 | 2026-10-20 | Alpha Futures | Alpha Futures 50% Off Standard, Direct, Advanced | 50% OFF | 2026-10-31 | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
 | 2026-10-20 | Alpha Futures | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% OFF | 2026-10-31 | Campaign Code Required | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% OFF | - | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
