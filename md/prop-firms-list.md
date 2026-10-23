@@ -13,7 +13,7 @@
 | Blue Guardian Futures | PFD | 25% | standing | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | standing | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
-| CK PropFirm | PFD | 10% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| CK PropFirm | PFD | 10% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | standing | 2026-09-15 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | standing | 2026-10-05 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 30% | standing | 2026-10-12 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
@@ -50,7 +50,7 @@
 | TX3 Funding | PFDC | 25% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | standing | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
-| Top One Futures | PFD | 60% | standing | 2026-10-04 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| Top One Futures | PFD | 60% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | standing | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | WeMasterTrade | PFD | 20% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |

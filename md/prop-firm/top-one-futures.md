@@ -5,43 +5,48 @@ The verified Top One Futures discount code is **PFD** — Up to 50% off, works a
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-05
+- Last deal published: 2026-10-23
 - Trustpilot: 4.8/5 (5205 reviews)
 - Activate: https://propfirmdiscount.com/go/toponefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Top One Futures: 60% Off Elite Daily & Instant Funding
+## Current deal: Top One Futures X-Daily Spark: Start for $39
 
-- Published: 2026-10-04
-- Offer: 60% Off
+- Published: 2026-10-23
+- Offer: Only $39
 - Code: PFD
-- Scope: Elite Daily, Ignite Instant Funding, Activation Fees
-- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/
+- Scope: X-Daily Spark, evaluation, funded account, activation fee
+- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
 
 ## Top One Futures deal FAQ
 
-**What discounts are available in this Top One Futures promotion?**
+**What does Top One Futures charge to start X-Daily Spark?**
 
-The offer provides 60% off Elite Daily and Ignite Instant Funding accounts. It also includes a 20% discount on access activation fees.
+The starting payment is $39. A $189 activation fee is payable only after the evaluation is passed and it is never paid if the evaluation is not passed.
 
-**Does the 60% discount change the evaluation rules?**
+**How much is the total cost if the evaluation is passed?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+The total is $228, made up of the $39 start payment plus the $189 activation fee. The second payment applies only on the passing outcome.
 
-**What new platform is included with Top One Futures?**
+**Does Top One Futures apply a consistency rule on X-Daily Spark?**
 
-The firm recently integrated WealthCharts. This platform features native copy trading, real-time scanner alerts and drag-to-manage stops.
+No consistency rule applies on the evaluation and no consistency rule applies on the funded stage. That position is stated for both stages of the product.
 
-**What is the Trustpilot rating for Top One Futures?**
+**How often can payouts be requested after funding?**
 
-According to Trustpilot, the firm has a 4.8/5 rating from 5,059 reviews as of October 2026.
+Once an account is funded, payouts can be requested daily. That daily schedule applies to the funded stage of X-Daily Spark.
 
-**Are access activation fees discounted?**
+**How many X-Daily Spark accounts are being released?**
 
-Yes, the promotion includes a 20% reduction on access activation fees when you pass an evaluation.
+The release is capped at 1,500 accounts. The product is described as experimental and there is no promise that it will return after the release is gone.
+
+**What is the Top One Futures Trustpilot rating?**
+
+The rating is 4.8/5 from 5,205 reviews as of October 2026 according to Trustpilot.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-23 - [Top One Futures X-Daily Spark: Start for $39](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) (Only $39)
 - 2026-10-04 - [Top One Futures: 60% Off Elite Daily & Instant Funding](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) (60% Off)
 - 2026-09-01 - [Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/)
