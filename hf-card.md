@@ -20,7 +20,24 @@ size_categories:
 [![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 
 <!-- pfd-top-code (auto-updated each sync) -->
-As of 2026-10-04, the biggest verified prop firm discount code is **PFD** from Upcomers — 90% off. Every firm's code is listed below, newest deals first.
+As of 2026-10-23, the biggest verified prop firm discount code is **PFD** from Bulenox — 91% off. Every firm's code is listed below, newest deals first.
+
+<!-- pfd-exclusive (auto-updated each sync) -->
+## Exclusive Prop Firm Discount Codes
+
+| # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
+|---|---|---|---|---|---|
+| 1 | Phidias Propfirm | PFD | 85% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funded Hero | PFD | 62% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | Top One Futures | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 5 | FundedSeat | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
+| 6 | Lucid Trading | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 7 | AquaFunded | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 8 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 9 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 10 | Funded Trading Plus | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+<!-- /pfd-exclusive -->
 
 Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) — verified prop firm discount codes, funding deals, and Trustpilot ratings. The source of truth is the live site; this repository is a read-only distribution channel, synced hourly.
 
@@ -66,7 +83,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-23T18:38:18Z (auto, hourly)
+Last synced: 2026-10-23T19:24:44Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
