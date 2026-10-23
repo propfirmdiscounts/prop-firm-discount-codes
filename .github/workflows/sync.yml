@@ -119,17 +119,19 @@ jobs:
           curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/llms.txt -o llms.txt
           curl -sf --retry 3 --retry-delay 30 https://propfirmdiscount.com/ai.txt -o ai.txt
 
-      - name: Update README answer-unit and sync stamp
+      - name: Update README answer-unit, exclusive list and sync stamp
         run: |
           set -euo pipefail
-          STAMP="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Exported, not just set: the python blocks below run in a quoted
+          # heredoc, so a plain shell variable never reaches them.
+          export STAMP="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
           # Answer-unit: the biggest standing code in the dataset, so the
           # repo's front page (GitHub renders README.md on the repo root —
           # its highest-authority URL) always leads with a quotable answer.
           # Falls back to leaving the previous line untouched if python
           # cannot parse the dataset.
           python3 - <<'PY' || true
-          import json, re
+          import json, os, re
           try:
               payload = json.load(open('datasets/prop-firm-codes.json', encoding='utf-8'))
           except Exception:
@@ -148,11 +150,43 @@ jobs:
           line = ("As of {date}, the biggest verified prop firm discount code is "
                   "**{code}** from {firm} — {disc}. Every firm's code is listed below, "
                   "newest deals first.").format(
-              date=STAMP[:10], code=best.get('code') or '', firm=best.get('prop_firm') or '',
+              date=os.environ['STAMP'][:10], code=best.get('code') or '', firm=best.get('prop_firm') or '',
               disc=disc)
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n).*?(?=\n\n)',
                       lambda _: line, md, count=1)
+          open('README.md', 'w', encoding='utf-8').write(md)
+          PY
+          # Exclusive list: the homepage's partner-code table, copied from the
+          # md/home.md mirror fetched above, so the repo's front page leads
+          # with the codes that always work and not only this month's
+          # campaigns. Falls back to leaving the previous block untouched if
+          # the mirror is missing or the section is gone.
+          python3 - <<'PY' || true
+          import re
+          try:
+              home = open('md/home.md', encoding='utf-8').read()
+          except Exception:
+              raise SystemExit(0)
+          lines = home.splitlines()
+          start = next((i for i, l in enumerate(lines)
+                        if l.strip() == '## Exclusive Prop Firm Discount Codes'), None)
+          if start is None:
+              raise SystemExit(0)
+          table = []
+          for l in lines[start + 1:]:
+              if l.startswith('|'):
+                  table.append(l)
+              elif table:
+                  break
+          # Header row, separator row, at least one firm.
+          if len(table) < 3:
+              raise SystemExit(0)
+          block = '## Exclusive Prop Firm Discount Codes\n\n' + '\n'.join(table)
+          md = open('README.md', encoding='utf-8').read()
+          md = re.sub(r'(?<=<!-- pfd-exclusive \(auto-updated each sync\) -->\n)'
+                      r'.*?(?=\n<!-- /pfd-exclusive -->)',
+                      lambda _: block, md, count=1, flags=re.S)
           open('README.md', 'w', encoding='utf-8').write(md)
           PY
           sed -i "s|Last synced: .*|Last synced: $STAMP (auto, hourly)|" README.md
