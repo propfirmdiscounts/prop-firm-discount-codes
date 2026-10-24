@@ -168,9 +168,9 @@ function eventMirrorStanding(repoRoot, slugOf) {
         const line = raw.trim();
         if (!line.startsWith('|')) continue;
         const cells = line.replace(/^\||\|$/g, '').split(/(?<!\\)\|/).map((c) => c.trim());
-        if (cells.length < 6) continue;
-        const code = cells[4];
-        if (!code || code === 'Campaign Code Required' || code === 'No Code Required' || code === 'Code' || code === '---') continue;
+        if (cells.length < 7) continue;
+        const code = cells[5];
+        if (!code || code === '-' || code === 'No Code Required' || code === 'Code' || code === '---') continue;
         const slug = slugOf.get(canonFirm(cells[1]));
         if (slug) out.add(slug);
       }

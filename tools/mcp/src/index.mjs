@@ -130,9 +130,9 @@ async function dealsDataset() {
 }
 
 // Parse the coupon mirror's markdown table (| Published | Firm | Deal |
-// Discount | Code | Link |). The Code cell is the firm's standing code (already
-// public) or one of two public-safe labels — a campaign code value is never
-// written into a mirror, so it can never appear here.
+// Discount | Ends | Code | Link |). The Code cell is the firm's standing code
+// (already public), "-" or "No Code Required". "-" covers both campaign codes
+// (value stays on the deal page) and ended offers (the Ends column says it).
 function parseDealTable(md) {
   const rows = [];
   let inTable = false;
@@ -143,17 +143,17 @@ function parseDealTable(md) {
     if (/^\|[\s|:-]+$/.test(line)) continue;
     if (!line.startsWith('|')) { inTable = false; continue; }
     const cells = line.replace(/^\||\|$/g, '').split(/(?<!\\)\|/).map((c) => c.trim());
-    if (cells.length < 6) continue;
-    const [published, firm, dealCell, discount, code] = cells;
+    if (cells.length < 7) continue;
+    const [published, firm, dealCell, discount, ends, code] = cells;
     const lm = /^\[(.+?)\]\((\S+?)\)$/.exec(dealCell);
     const codeTrim = code.trim();
     rows.push({
       published,
       firm: firm.trim(),
       deal: lm ? lm[1] : dealCell,
-      url: lm ? lm[2] : cells[5].trim(),
+      url: lm ? lm[2] : cells[6].trim(),
       discount: discount.trim() || null,
-      codeState: codeTrim === 'Campaign Code Required' ? 'campaign'
+      codeState: codeTrim === '-' ? 'campaign'
         : codeTrim === 'No Code Required' ? 'none' : 'standing',
       codeValue: codeTrim,
     });

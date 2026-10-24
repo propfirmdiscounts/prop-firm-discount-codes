@@ -117,8 +117,8 @@ const PLACEHOLDER_FAVICON = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 
 
 // ── mirror parsing ──────────────────────────────────────────────
 // Category and tag mirrors share one table shape. The Code column carries
-// either the firm's standing code (already public) or one of two public-safe
-// labels; a campaign code value never appears in a mirror.
+// the firm's standing code (already public), "-" or "No Code Required".
+// "-" covers both campaign codes and ended offers.
 function parseEventMirror(md) {
   const rows = [];
   let inTable = false;
@@ -129,17 +129,17 @@ function parseEventMirror(md) {
     if (/^\|[\s|:-]+$/.test(line)) continue;
     if (!line.startsWith('|')) { inTable = false; continue; }
     const cells = line.replace(/^\||\|$/g, '').split(/(?<!\\)\|/).map((c) => c.trim());
-    if (cells.length < 6) continue;
-    const [published, firm, dealCell, discount, code] = cells;
+    if (cells.length < 7) continue;
+    const [published, firm, dealCell, discount, ends, code] = cells;
     const lm = /^\[(.+?)\]\((\S+?)\)$/.exec(dealCell);
     rows.push({
       published,
       firm: firm.trim(),
       title: lm ? lm[1] : dealCell,
-      url: lm ? lm[2] : cells[5].trim(),
+      url: lm ? lm[2] : cells[6].trim(),
       discount: discount.trim(),
       code: code.trim(),
-      codeState: code.trim() === 'Campaign Code Required' ? 'campaign'
+      codeState: code.trim() === '-' ? 'campaign'
         : code.trim() === 'No Code Required' ? 'none' : 'standing',
     });
   }
@@ -324,7 +324,7 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 
 <h2 id="method">About this hub and how the code column works</h2>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every event page mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>, refreshed hourly.</p>
-<p>Reading the Code column: a <code>monospaced value</code> is the firm's discount code and the deal redeems on it any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies to the account without entering anything.</p>
+<p>Reading the Code column: a <code>monospaced value</code> is the firm's discount code and the deal redeems on it any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies to the account without entering anything.</p>
 <p>A row's date is the day the firm's deal went live ${EN_DASH} it is a publish date, not a claim that the offer was re-tested that day. Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the page updates in the next rebuild. Machine readers: <a href="/dataset.json">dataset.json</a> carries every row, <a href="/llms.txt">llms.txt</a> maps the site.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md', extraCss: EVENTS_CSS }) };
 }
@@ -391,8 +391,8 @@ function roundupPage(ev, kind, others, now) {
     ? `This page tracks ${rows.length} dated ${esc(ev.name)} prop firm discount codes, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's discount code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
     : `${rows.length} prop firm discount codes carry the ${esc(ev.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: discount code, campaign code at checkout, or no code needed.`;
   const method = kind === 'category'
-    ? `Rows mirror the dated ${esc(ev.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's discount code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the discount applies with nothing entered.`
-    : `Rows gather every deal PropFirmDiscount tagged ${esc(ev.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's discount code and works any time; the plain-text "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer needs no code.`;
+    ? `Rows mirror the dated ${esc(ev.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the discount applies with nothing entered.`
+    : `Rows gather every deal PropFirmDiscount tagged ${esc(ev.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer needs no code.`;
   // Per-firm rollup so the page answers a firm-specific long tail without the
   // reader scanning the whole table.
   const firmRows = firmRollup(rows);
@@ -427,7 +427,7 @@ function mdDealsTable(rows, withEvent) {
   return [...head,
     ...rows.map((r) => `| ${r.published} | ${withEvent ? `${r.eventShort || EN_DASH} | ` : ''}${r.firm || EN_DASH} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
 }
-const CODE_NOTE = `Code column meaning: a value works any time; the plain-text "Campaign Code Required" means the deal has its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
+const CODE_NOTE = `Code column meaning: a value works any time; "-" means the deal has its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
 // Mirror of dealsByYear for the markdown twin: same years, `###` headings.
 function mdDealsByYear(rows) {
