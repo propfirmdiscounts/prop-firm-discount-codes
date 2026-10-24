@@ -12,6 +12,7 @@ No live discount code for Alpha Trader Firm right now — newest deals and offer
 ## Current deal: Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Offer: Only $199
 - Scope: $100K, $200K, $300K One-Step Challenges
 - Deal page: https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/

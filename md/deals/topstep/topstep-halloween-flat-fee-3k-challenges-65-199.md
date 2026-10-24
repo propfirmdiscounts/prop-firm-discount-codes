@@ -5,6 +5,7 @@ Topstep is offering Only $65.
 > Topstep is offering special Halloween-themed $3K Challenge accounts for a one-time fee of $65 or $199. This deal removes subscriptions but keeps risk rules unchanged.
 
 - Published: 2026-10-15
+- Offer ends: Limited time
 - Prop firm: Topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 - Summary: Topstep's Halloween promotion introduces one-time fee $3K Challenge accounts priced at $65 and $199. This pricing structure lowers upfront costs while leaving evaluation rules and trading risk strictly unchanged.

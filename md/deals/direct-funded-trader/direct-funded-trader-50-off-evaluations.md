@@ -5,6 +5,7 @@ Direct Funded Trader is offering 50% off — discount code **PFD**.
 > Direct Funded Trader is offering a 50% cost reduction on evaluation accounts from 15K to 200K. This promotion changes purchase pricing only and does not alter trading rules.
 
 - Published: 2026-10-05
+- Offer ends: Limited time
 - Prop firm: Direct Funded Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - Summary: Save 50% on evaluation accounts ranging from $15,000 to $200,000. This promotion lowers the initial purchase price without changing any evaluation rules or drawdown limits.

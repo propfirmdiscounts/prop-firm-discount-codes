@@ -16,6 +16,7 @@ The verified Direct Funded Trader discount code is **PFD** — Up to 50% off, wo
 ## Current deal: Direct Funded Trader Cuts Evaluation Account Costs by 50%
 
 - Published: 2026-10-05
+- Offer ends: Limited time
 - Offer: 50% Off
 - Code: PFD
 - Scope: 15K, 25K, 50K, 100K, 200K, evaluations

@@ -14,6 +14,7 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 ## Current deal: Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Offer: 47% Off
 - Code: ATOM
 - Scope: Elite Atom Accounts, 1-Step, 2-Step, $7K to $200K

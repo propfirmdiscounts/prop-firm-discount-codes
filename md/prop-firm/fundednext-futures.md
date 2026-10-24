@@ -10,6 +10,7 @@ The newest FundedNext Futures discount code is **FNDIRECT** — 40.1% off (Octob
 ## Current deal: FundedNext Futures 50K Direct at $169.99, 40.1% Off
 
 - Published: 2026-10-22
+- Offer ends: Limited time
 - Offer: 40.1% Off
 - Code: FNDIRECT
 - Scope: Instant Funded, Direct, 50K account, Futures, No profit goal

@@ -12,6 +12,7 @@ The newest Sure Leverage Funding discount code is **BOO40** — 40% off (October
 ## Current deal: Sure Leverage Funding 40% Off October Discounts & Account Customization
 
 - Published: 2026-10-06
+- Offer ends: Limited time
 - Offer: 40% Off
 - Code: BOO40
 - Scope: October Discounts, Instant Funding Zero

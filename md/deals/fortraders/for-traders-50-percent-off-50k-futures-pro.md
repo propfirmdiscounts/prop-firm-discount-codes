@@ -5,6 +5,7 @@ For Traders is offering 50% off — discount code **NEWPRO**.
 > Get 50% off the $50K Futures Fast Pro one-step challenge, dropping the price to $99 for a limited time. The promotion affects purchase pricing only and not rules.
 
 - Published: 2026-10-15
+- Offer ends: Limited time
 - Prop firm: For Traders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - Summary: Secure the $50K Futures Fast Pro challenge for just $99. This limited-time 50% discount lowers the entry cost without changing the required profit targets or risk limits.

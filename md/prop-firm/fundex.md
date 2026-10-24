@@ -14,6 +14,7 @@ The verified Fundex discount code is **PFD** — Up to 5% off, works any time.
 ## Current deal: Fundex 20% Off 1-Step Evaluation Accounts
 
 - Published: 2026-10-09
+- Offer ends: Limited time
 - Offer: 20% Off
 - Code: 1STEP
 - Scope: 1-Step Evaluation, 100K Account, Coupon

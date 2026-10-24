@@ -16,6 +16,7 @@ The verified Dominion Funding discount code is **PFD5PC** — Up to 5% off, work
 ## Current deal: Dominion Funding: 20% Off All Account Models
 
 - Published: 2026-10-16
+- Offer ends: Limited time
 - Offer: 20% Off
 - Code: AUTUMN20
 - Scope: All accounts, 1-Step Lite, 25K, 50K, 100K

@@ -12,6 +12,7 @@ The newest Top One Trader discount code is **LAUNCHPAD** — 50% off (October 7,
 ## Current deal: Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)
 
 - Published: 2026-10-07
+- Offer ends: Limited time
 - Offer: 50% Off
 - Code: LAUNCHPAD
 - Scope: X-DAILY accounts, $5K size, $100K size, limited to 500 purchases

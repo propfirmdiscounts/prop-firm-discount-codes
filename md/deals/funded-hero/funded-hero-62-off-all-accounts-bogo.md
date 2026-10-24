@@ -5,6 +5,7 @@ Funded Hero is offering 62% off — discount code **PFD**.
 > Funded Hero cuts prices by 62% across all accounts, bringing the $100K 3-Step Hero to $186.96 while targets and drawdown limits stay unchanged.
 
 - Published: 2026-10-20
+- Offer ends: Limited time
 - Prop firm: Funded Hero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - Summary: Funded Hero reduces the purchase price by 62% across all accounts, with the $100K 3-Step Hero priced at $186.96 from $492 and its targets and drawdown limits unchanged throughout the promotion.

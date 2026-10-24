@@ -5,6 +5,7 @@ Tradeify is offering 50% off — discount code **MILK**.
 > Tradeify offers 50% off any FX account at any size until reserves are drained. Futures are excluded and the cut lowers entry cost only.
 
 - Published: 2026-10-20
+- Offer ends: Limited time
 - Prop firm: Tradeify
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeify/
 - Summary: Tradeify cuts the purchase price of any FX account by 50% at any size until reserves are drained. Futures are excluded and the lower entry cost does not change trading rules or reduce trading risk.

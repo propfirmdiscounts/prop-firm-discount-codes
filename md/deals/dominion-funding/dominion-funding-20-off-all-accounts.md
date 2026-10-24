@@ -5,6 +5,7 @@ Dominion Funding is offering 20% off — discount code **AUTUMN20**.
 > This autumn promotion reduces the upfront entry cost of all Dominion Funding evaluation accounts by 20%. The offer strictly lowers the challenge fee without modifying any trading rules or drawdown limits.
 
 - Published: 2026-10-16
+- Offer ends: Limited time
 - Prop firm: Dominion Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
 - Summary: This autumn promotion reduces the upfront entry fee for all Dominion Funding evaluation accounts by 20%. The discount strictly applies to purchase costs and does not alter any trading rules or risk parameters.

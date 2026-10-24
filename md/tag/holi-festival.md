@@ -7,10 +7,10 @@ Newest offers:
 - FundedSquad — FundedSquad 55% Evaluation Discount and 100% Reward Split Offer (55% Off)
 - Funding Your Trades — Funding Your Trades 45% Off and Buy 1 Get 3 Promotion (45% Off)
 
-How to read the code column: a code value is the firm's discount code and works any time; "Campaign Code Required" means the deal carries its own limited-time code, which you copy from the deal page the row links to; "No Code Required" means the offer applies with nothing entered; "Offer ended" means the promotion is over and the row is kept as deal history — there is no live code for it.
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-03-03 | ThinkCapital | ThinkCapital 20% Off All Challenges For Holi | 20% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-holi-promotion/ |
-| 2026-03-03 | FundedSquad | FundedSquad 55% Evaluation Discount and 100% Reward Split Offer | 55% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-55-evaluation-discount-holi/ |
-| 2026-03-03 | Funding Your Trades | Funding Your Trades 45% Off and Buy 1 Get 3 Promotion | 45% OFF | Ended | Offer ended | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-buy-1-get-3/ |
+| 2026-03-03 | ThinkCapital | ThinkCapital 20% Off All Challenges For Holi | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-holi-promotion/ |
+| 2026-03-03 | FundedSquad | FundedSquad 55% Evaluation Discount and 100% Reward Split Offer | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-55-evaluation-discount-holi/ |
+| 2026-03-03 | Funding Your Trades | Funding Your Trades 45% Off and Buy 1 Get 3 Promotion | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-buy-1-get-3/ |

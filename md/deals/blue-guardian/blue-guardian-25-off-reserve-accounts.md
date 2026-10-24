@@ -5,6 +5,7 @@ Blue Guardian is offering 25% off — discount code **PFD**.
 > Halloween: Blue Guardian Reserve evaluations are 25% off, with Reserve from $48 for 25K and higher cuts on added accounts. Trading rules stay unchanged.
 
 - Published: 2026-10-20
+- Offer ends: Limited time
 - Prop firm: Blue Guardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - Summary: Halloween pricing cuts Blue Guardian Reserve evaluation cost by 25% on a first account and up to 50% on a fifth account. The purchase price falls while trading rules and the 6% target stay unchanged.

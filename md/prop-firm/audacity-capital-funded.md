@@ -12,6 +12,7 @@ The newest AudaCity Capital discount code is **HALLOWEEN** — 35% off (October 
 ## Current deal: AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing
 
 - Published: 2026-10-16
+- Offer ends: Limited time
 - Offer: 35% Off
 - Code: HALLOWEEN
 - Scope: Ability 2-Step Program, Challenge, Upfront Fee

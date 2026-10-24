@@ -16,6 +16,7 @@ The verified Funding Your Trades discount code is **PFD** — Up to 2% off, work
 ## Current deal: Funding Your Trades 45% Off Halloween Challenges Plus BOGO
 
 - Published: 2026-10-22
+- Offer ends: Limited time
 - Offer: 45% Off
 - Code: FYTWEEN
 - Scope: Halloween promotion, BOGO Instantly, first reward in 24 hours, free evaluation reset, reward split, cashback, daily drawdown option, reward points

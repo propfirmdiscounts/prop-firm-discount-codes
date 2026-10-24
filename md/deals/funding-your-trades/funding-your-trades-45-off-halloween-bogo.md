@@ -5,6 +5,7 @@ Funding Your Trades is offering 45% off — discount code **FYTWEEN**.
 > Funding Your Trades offers 45% off for Halloween with BOGO Instantly and a choice of 2 of 6 treats. Entry cost falls while trading rules stay unchanged.
 
 - Published: 2026-10-22
+- Offer ends: Limited time
 - Prop firm: Funding Your Trades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - Summary: Funding Your Trades offers 45% off for Halloween plus BOGO Instantly. Entry cost falls but trading rules and trading risk stay the same for buyers.

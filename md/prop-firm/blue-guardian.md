@@ -16,6 +16,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 25% off, works any
 ## Current deal: Blue Guardian 25% off Reserve discount code
 
 - Published: 2026-10-20
+- Offer ends: Limited time
 - Offer: 25% Off
 - Code: PFD
 - Scope: Reserve evaluation accounts, 25K, 50K, 100K, 150K, one-phase evaluation, Halloween promotion

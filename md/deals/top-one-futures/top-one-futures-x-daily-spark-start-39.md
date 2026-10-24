@@ -5,6 +5,7 @@ Top One Futures is offering Only $39 — discount code **PFD**.
 > Top One Futures launches X-Daily Spark at $39 to start with the $189 activation due only after passing, limited to 1,500 accounts.
 
 - Published: 2026-10-23
+- Offer ends: Limited time
 - Prop firm: Top One Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - Summary: X-Daily Spark starts at $39 with the $189 activation due only after the evaluation is passed. The payment timing changes only and trading risk stays unchanged, limited to 1,500 releases.

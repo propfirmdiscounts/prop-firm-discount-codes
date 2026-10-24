@@ -5,6 +5,7 @@ Funded Elite is offering 47% off — discount code **ATOM**.
 > This Funded Elite promotion cuts the upfront entry cost on Elite Atom evaluation accounts by up to 47% on three-account orders, while keeping trading rules and drawdown limits unchanged.
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Prop firm: Funded Elite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Summary: Reduce Elite Atom evaluation fees by up to 47% when buying three accounts, including bonus credits. All core risk parameters and trading rules remain unchanged.

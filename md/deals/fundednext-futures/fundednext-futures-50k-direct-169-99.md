@@ -5,6 +5,7 @@ FundedNext Futures is offering 40.1% off — discount code **FNDIRECT**.
 > FundedNext Futures Direct 50K is $169.99 instead of $283.99 - a 40.1% saving that lowers the upfront purchase price only.
 
 - Published: 2026-10-22
+- Offer ends: Limited time
 - Prop firm: FundedNext Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 - Summary: The FundedNext Futures 50K Direct account is priced at $169.99 instead of $283.99, a 40.1% reduction in the upfront purchase price that leaves trading risk unchanged for buyers considering this single size.

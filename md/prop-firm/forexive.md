@@ -16,6 +16,7 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works a
 ## Current deal: Forexive 30% Off All Trading Challenges
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Offer: 30% Off
 - Code: GET30
 - Scope: All challenges, all account sizes, limited time

@@ -238,7 +238,7 @@
         {
             "prop_firm": "Lucid Trading",
             "code": "PFD",
-            "discount": "40%",
+            "discount": "30%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
             "last_deal_published": "2026-10-19",

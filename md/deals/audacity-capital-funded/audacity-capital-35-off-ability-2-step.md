@@ -5,6 +5,7 @@ AudaCity Capital is offering 35% off — discount code **HALLOWEEN**.
 > Secure spooky savings with this Halloween promotion, which cuts 35% off the upfront entry cost for the AudaCity Capital Ability 2-Step Challenge. The active discount does not change risk rules.
 
 - Published: 2026-10-16
+- Offer ends: Limited time
 - Prop firm: AudaCity Capital
 - Firm page: https://propfirmdiscount.com/prop-firm/audacity-capital-funded/
 - Summary: Drop AudaCity Capital's Ability 2-Step Challenge entry fees by 35% with these spooky savings. This Halloween promotion lowers the initial purchase cost without modifying standing trading rules or drawdown limits.

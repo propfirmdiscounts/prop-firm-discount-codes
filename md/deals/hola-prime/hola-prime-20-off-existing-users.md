@@ -5,6 +5,7 @@ Hola Prime is offering 20% off — discount code **SPOOKY20**.
 > Existing users get 20% off $5K–$200K Forex Challenges and Direct Accounts during this Hola Prime Halloween sale. Evaluative rules stay the same.
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Prop firm: Hola Prime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
 - Summary: Lower the entry fee on your next challenge by 20% with this Hola-Ween returning user offer. Risk limits and trading rules remain unchanged.

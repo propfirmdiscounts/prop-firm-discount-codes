@@ -14,6 +14,7 @@ The verified Top One Futures discount code is **PFD** — Up to 50% off, works a
 ## Current deal: Top One Futures X-Daily Spark: Start for $39
 
 - Published: 2026-10-23
+- Offer ends: Limited time
 - Offer: Only $39
 - Code: PFD
 - Scope: X-Daily Spark, evaluation, funded account, activation fee

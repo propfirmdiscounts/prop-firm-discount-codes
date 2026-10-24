@@ -5,6 +5,7 @@ Sure Leverage Funding is offering 40% off — discount code **BOO40**.
 > Sure Leverage Funding offers a 40% discount on challenge pricing this October, alongside a new option to remove the Daily Loss Limit on Instant Funding Zero accounts by paying a 30% premium. Other trading parameters remain strictly unchanged.
 
 - Published: 2026-10-06
+- Offer ends: Limited time
 - Prop firm: Sure Leverage Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/sure-leverage-funding/
 - Summary: Secure a 40% upfront fee reduction during the October event. Traders can also opt to remove the Daily Loss Limit on Instant Funding Zero for 30% more, while core rules remain unchanged.

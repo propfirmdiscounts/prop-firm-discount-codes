@@ -14,6 +14,7 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 ## Current deal: For Traders 50% Off $50K Futures Fast Pro Challenge
 
 - Published: 2026-10-15
+- Offer ends: Limited time
 - Offer: 50% Off
 - Code: NEWPRO
 - Scope: 50K account, Futures Fast Pro, 1-step challenge

@@ -5,6 +5,7 @@ Bulenox is offering 91% off — discount code **PFD**.
 > This active promotion reduces the upfront entry fee by 91% on Bulenox 25K through 150K Option 1 Qualification Accounts. It lowers the purchase cost strictly without altering any trailing drawdown limits or trading rules.
 
 - Published: 2026-10-07
+- Offer ends: Limited time
 - Prop firm: Bulenox
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - Summary: This active promotion reduces the upfront entry fee by 91% on Bulenox 25K through 150K Option 1 Qualification Accounts. It lowers the purchase cost without changing any evaluation rules or drawdown limits.

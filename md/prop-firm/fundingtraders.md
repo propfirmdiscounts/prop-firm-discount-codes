@@ -16,6 +16,7 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 ## Current deal: FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15
 
 - Published: 2026-10-19
+- Offer ends: Limited time
 - Offer: 50% Off
 - Code: PFD
 - Scope: All accounts, 1-Step, $5K example price, BOGO free matching account

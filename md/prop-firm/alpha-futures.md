@@ -16,6 +16,7 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 ## Current deal: Alpha Futures 40% Off All Plans - New Dashboard
 
 - Published: 2026-10-23
+- Offer ends: Limited time
 - Offer: 40% Off
 - Code: DASH40
 - Scope: All plans, Alpha pro 8% excluded, Alpha pro 10% bi weekly excluded

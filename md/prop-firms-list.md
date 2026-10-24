@@ -39,7 +39,7 @@
 | Goat Funded Trader | CSV | 35% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 5% | standing | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| Lucid Trading | PFD | 40% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| Lucid Trading | PFD | 30% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/pipfarm/ |

@@ -5,6 +5,7 @@ Top One Trader is offering 50% off — discount code **LAUNCHPAD**.
 > Top One Trader is celebrating its 3rd anniversary with a 50% discount on the new X-DAILY evaluation accounts, capped at 500 spots. This promotion reduces the initial entry cost while keeping the 40% consistency rule intact during the evaluation phase.
 
 - Published: 2026-10-07
+- Offer ends: Limited time
 - Prop firm: Top One Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 - Summary: Celebrate the Top One Trader 3rd anniversary with 50% off upfront entry costs on the new X-DAILY accounts. Limited to 500 spots, this deal lowers pricing but keeps trading rules unchanged.

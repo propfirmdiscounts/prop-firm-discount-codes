@@ -5,6 +5,7 @@ Alpha Futures is offering 40% off — discount code **DASH40**.
 > Alpha Futures cuts 40% off all plans in a limited-time offer for its new dashboard. Trading rules and risk parameters stay unchanged.
 
 - Published: 2026-10-23
+- Offer ends: Limited time
 - Prop firm: Alpha Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - Summary: Alpha Futures offers 40% off all plans in a limited-time promotion tied to its new dashboard, lowering the upfront entry cost while trading rules and risk parameters remain unchanged throughout.

@@ -12,6 +12,7 @@ The newest Plutus Trade Base discount code is **PASS50** — 50% off (October 4,
 ## Current deal: Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)
 
 - Published: 2026-10-04
+- Offer ends: Limited time
 - Offer: 50% Off
 - Code: PASS50
 - Scope: $100,000 Accounts, Lightning Pro, 1-Step Evaluation

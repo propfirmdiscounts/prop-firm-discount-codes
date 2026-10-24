@@ -5,6 +5,7 @@ Alpha Trader Firm is offering Only $199.
 > Alpha Trader Firm introduces fixed Halloween pricing on one-step evaluations: $199 for $100K, $299 for $200K and $399 for $300K. Rules remain unchanged. Available during the Halloween period.
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Prop firm: Alpha Trader Firm
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 - Summary: Secure a one-step evaluation at fixed Halloween pricing, ranging from $199 for $100K to $399 for $300K. Evaluation targets and risk limits remain intact. Available during the Halloween period.

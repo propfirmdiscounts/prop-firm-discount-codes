@@ -10,6 +10,7 @@ The newest FundedNext discount code is **STRTN** — 32% off (October 12, 2026).
 ## Current deal: FundedNext October Promotion: Stellar Accounts Starting at $29.99
 
 - Published: 2026-10-12
+- Offer ends: Limited time
 - Offer: 32% Off
 - Code: STRTN
 - Scope: Stellar Lite 5K, Stellar 2-Step 6K, Stellar 1-Step 6K, Stellar Instant 2K, October promotion

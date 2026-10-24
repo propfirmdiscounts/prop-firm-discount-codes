@@ -12,6 +12,7 @@ The newest BrightFunded discount code is **HW30** — 30% off (October 21, 2026)
 ## Current deal: BrightFunded 30% Off All Challenges - Halloween Deal
 
 - Published: 2026-10-21
+- Offer ends: Limited time
 - Offer: 30% Off
 - Code: HW30
 - Scope: All Challenges, Evaluation Profit Reward, Halloween

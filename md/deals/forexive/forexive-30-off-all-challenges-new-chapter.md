@@ -5,6 +5,7 @@ Forexive is offering 30% off — discount code **GET30**.
 > Forexive is celebrating its new chapter with a limited-time 30% discount on all trading challenges. This lowers the upfront entry fee but leaves trading rules unchanged.
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Prop firm: Forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - Summary: Celebrate Forexive's new chapter with 30% off all evaluation accounts. This limited-time promotion lowers the initial purchase price without changing any risk parameters.

@@ -5,6 +5,7 @@ BrightFunded is offering 30% off — discount code **HW30**.
 > BrightFunded cuts 30% off all challenges for Halloween with a 15% evaluation profit reward. Entry cost falls while trading rules and risk stay unchanged.
 
 - Published: 2026-10-21
+- Offer ends: Limited time
 - Prop firm: BrightFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 - Summary: This Halloween offer from BrightFunded cuts the upfront entry cost of all challenges by 30% while trading rules, drawdown limits and evaluation criteria stay exactly as they were before the promotion.

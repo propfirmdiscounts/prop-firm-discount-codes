@@ -10,6 +10,7 @@ The newest Hola Prime discount code is **SPOOKY20** — 20% off (October 14, 202
 ## Current deal: Hola Prime: 20% Off Next $5K–$200K Account for Existing Users
 
 - Published: 2026-10-14
+- Offer ends: Limited time
 - Offer: 20% Off
 - Code: SPOOKY20
 - Scope: Existing users, $5K-$200K, Forex Challenges, Direct Accounts

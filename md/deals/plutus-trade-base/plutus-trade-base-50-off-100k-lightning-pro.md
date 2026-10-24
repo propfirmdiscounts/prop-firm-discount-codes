@@ -5,6 +5,7 @@ Plutus Trade Base is offering 50% off — discount code **PASS50**.
 > Plutus Trade Base is offering a 50% discount on its $100,000 Lightning Pro evaluation, dropping the upfront fee to €29.50. This promotion affects purchase pricing only and does not modify the 1-step trading rules or risk parameters.
 
 - Published: 2026-10-04
+- Offer ends: Limited time
 - Prop firm: Plutus Trade Base
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 - Summary: Secure a 50% discount on the Plutus Trade Base $100,000 Lightning Pro evaluation, reducing the entry cost to €29.50. This active promotion affects purchase pricing exclusively.

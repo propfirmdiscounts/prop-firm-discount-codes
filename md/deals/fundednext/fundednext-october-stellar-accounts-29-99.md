@@ -5,6 +5,7 @@ FundedNext is offering 32% off — discount code **STRTN**.
 > This October offer provides fixed-price reductions on select evaluation models, including the 5K Lite for $29.99 and 6K 2-Step for $39.99, without changing any trading rules.
 
 - Published: 2026-10-12
+- Offer ends: Limited time
 - Prop firm: FundedNext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 - Summary: October fixed-price reductions on select 2K, 5K and 6K evaluation models. Lowers the upfront purchase cost starting at $29.99 while all trading rules remain unchanged.

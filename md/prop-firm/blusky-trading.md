@@ -12,6 +12,7 @@ The newest BluSky Trading discount code is **ARROW** — 30% off (October 2, 202
 ## Current deal: BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts
 
 - Published: 2026-10-02
+- Offer ends: Limited time
 - Offer: 30% Off
 - Code: ARROW
 - Scope: Propel, Orbit, Launch, Direct2Funding, Instant Funding

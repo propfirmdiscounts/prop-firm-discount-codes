@@ -32,7 +32,7 @@ As of 2026-10-24, the biggest verified prop firm discount code is **PFD** from B
 | 3 | Top One Futures | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 6 | Lucid Trading | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| 6 | Lucid Trading | PFD | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 7 | AquaFunded | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 8 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 9 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
@@ -83,7 +83,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-24T06:11:30Z (auto, hourly)
+Last synced: 2026-10-24T11:24:06Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 

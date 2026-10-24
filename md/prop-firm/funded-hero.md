@@ -16,6 +16,7 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 ## Current deal: Funded Hero 62% Off All Accounts Plus BOGO Deal
 
 - Published: 2026-10-20
+- Offer ends: Limited time
 - Offer: 62% Off
 - Code: PFD
 - Scope: All accounts, $100K 3-Step Hero, 3-Step evaluation
