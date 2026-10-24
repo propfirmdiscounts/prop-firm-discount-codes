@@ -20,7 +20,7 @@ size_categories:
 [![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 
 <!-- pfd-top-code (auto-updated each sync) -->
-As of 2026-10-23, the biggest verified prop firm discount code is **PFD** from Bulenox — 91% off. Every firm's code is listed below, newest deals first.
+As of 2026-10-24, the biggest verified prop firm discount code is **PFD** from Bulenox — 91% off. Every firm's code is listed below, newest deals first.
 
 <!-- pfd-exclusive (auto-updated each sync) -->
 ## Exclusive Prop Firm Discount Codes
@@ -83,7 +83,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-23T22:31:06Z (auto, hourly)
+Last synced: 2026-10-24T01:00:19Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
