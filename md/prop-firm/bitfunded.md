@@ -9,10 +9,10 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 - Activate: https://propfirmdiscount.com/go/bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 
-## Current deal: Bitfunded 60% Off Any Challenge Plus Instant Account Deal
+## Most recent deal (ended): Bitfunded 60% Off Any Challenge Plus Instant Account Deal
 
 - Published: 2026-10-20
-- Offer ends: 2026-10-23
+- Offer ends: 2026-10-23 (ended)
 - Offer: 60% Off
 - Scope: Any Challenge, Included Instant Account, Automatic discount, No code
 - Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/
@@ -41,4 +41,4 @@ The promotion ends Friday at 9 PM UAE. Check which Instant size pairs with your 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-20 - [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) (60% Off)
+- 2026-10-20 - [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) (60% Off) — ended 2026-10-23

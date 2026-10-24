@@ -13,12 +13,11 @@ The verified Lucid Trading discount code is **PFD** — Up to 30% off, works any
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts - Check If It Fits
+## Most recent deal (ended): Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts - Check If It Fits
 
 - Published: 2026-10-19
-- Offer ends: 2026-10-23
+- Offer ends: 2026-10-23 (ended)
 - Offer: 40% Off
-- Code: PFD
 - Scope: LucidFlex, LucidPro, LucidDaily, DLL enabled, on-demand payouts, unlimited uses
 - Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/
 
@@ -50,4 +49,4 @@ It may suit buyers who were already considering an eligible DLL-on account and w
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-19 - [Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts - Check If It Fits](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) (40% Off)
+- 2026-10-19 - [Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts - Check If It Fits](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) (40% Off) — ended 2026-10-23

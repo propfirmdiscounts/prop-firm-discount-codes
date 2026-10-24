@@ -42,7 +42,7 @@ It may suit a buyer who had already planned a Flex Challenge purchase and prefer
 ## Deals (last 2 months, newest first)
 
 - 2026-10-22 - [FTUK 30% Off Flex Challenge Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/) (30% Off) — ended 2026-10-23 19:59
-- 2026-10-20 - [FTUK 40% Off Instant Funding Plus 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/) (40% Off)
+- 2026-10-20 - [FTUK 40% Off Instant Funding Plus 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/) (40% Off) — ended 2026-10-23
 - 2026-10-14 - [FTUK 50% Off Flex Account Activation Fees](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/) (50% Off) — ended 2026-10-14
 - 2026-10-14 - [FTUK 20% Off Flex Account Activation Fees](https://propfirmdiscount.com/deals/ftuk/ftuk-20-off-flex-activation/) (20% Off)
 - 2026-10-12 - [FTUK 35% Off Instant Funding and 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/) (35% Off)

@@ -51,7 +51,7 @@ It is a coupon-type promotion tied to the Halloween sale. The same discount and 
 ## Deals (last 2 months, newest first)
 
 - 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off)
-- 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off)
+- 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off) — ended 2026-10-23
 - 2026-10-01 - [AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) (25% Off)
 - 2026-09-11 - [AquaFunded Autumn Promotion: 30% Off Evaluation Entry Fee](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-promotion-30-off/) (30% Off)
 - 2026-09-01 - [AquaFunded 25% Off and 150% Refund: Evaluation Pricing Details](https://propfirmdiscount.com/deals/aquafunded/aquafunded-25-off-150-refund/) (25% Off)
