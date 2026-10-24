@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% Off | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
+| 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Alpha Futures | Alpha Futures 40% Off All Plans – New Dashboard | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% Off | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-23 | Top One Futures | Top One Futures X-Daily Spark: Start for $39 | Only $39 | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
@@ -68,5 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | Alpha Futures | Alpha Futures 50% Off Standard, Direct, Advanced | 50% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
 | 2026-10-20 | Alpha Futures | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
-| 2026-10-20 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Discount Code – $108 Express | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/ |
-| 2026-10-19 | QT Funded | QT Funded 60% Off QT TWO Evaluations to $200K | 60% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/ |

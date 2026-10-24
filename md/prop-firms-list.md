@@ -37,7 +37,7 @@
 | FundingTicks | 05EB577C | 40% | standing | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | FundingTraders | PFD | 50% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| HyroTrader | PFD | 5% | standing | 2026-09-18 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+| HyroTrader | PFD | 5% | standing | 2026-10-24 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |

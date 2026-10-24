@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
+| 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | 2026-10-18 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
 | 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
-| 2026-10-12 | FundingTraders | FundingTraders 50% Off and BOGO Entitlement for Halloween | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/ |
-| 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | 2026-10-25 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
