@@ -13,11 +13,11 @@ The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing
 | 3 | Phidias Propfirm | PFD | 85% | Ends Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 4 | RebelsFunding | SEVEN | 73% | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 5 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 6 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 7 | Funded Hero | PFD | 62% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 8 | Top One Futures | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 9 | Titan Capital | BOGO | 60% | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
-| 10 | WSFunded | HISPANIC60 | 60% | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 6 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
+| 7 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 8 | Funded Hero | PFD | 62% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 9 | Top One Futures | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 10 | Titan Capital | BOGO | 60% | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
 
 ## Exclusive Prop Firm Discount Codes
 
