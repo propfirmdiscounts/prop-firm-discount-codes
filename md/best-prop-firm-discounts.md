@@ -7,8 +7,8 @@ As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Elite Trader Funding | BULLTOBER | 90% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 3 | Phidias Propfirm | PFD | 85% | Exclusive Code | Ends Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Phidias Propfirm | PFD | 90% | Exclusive Code | Ends Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 3 | Elite Trader Funding | BULLTOBER | 90% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 4 | RebelsFunding | SEVEN | 73% | Campaign Code | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 5 | Purdia Capital | STATIC70 | 70% | Campaign Code | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 6 | Plutus Trade Base | SPOOKY | 66% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
@@ -77,7 +77,7 @@ Ranked highest discount first, from the deals each firm posted this month. "Excl
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 1 | Phidias Propfirm | PFD | 90% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 62% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |

@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% OFF | 2026-11-01 17:00 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
 | 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | The Concept Trading | The Concept Trading 35% Off Eligible Programs | 35% OFF | 2026-10-24 (ended) | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/ |
 | 2026-10-20 | Tradeify | Tradeify 50% Off All FX Accounts – Any Size | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 35% Off All Challenge Types | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/ |
-| 2026-10-20 | We Get Funded | We Get Funded: 50K 1 Step first challenge at 48.30 € | Only €48.30 | 2026-10-21 (ended) | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/ |
