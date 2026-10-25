@@ -49,8 +49,8 @@ As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month
 | 41 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 42 | Doji Funding | PFD | 30% | Exclusive Code | Ended Oct 12, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 43 | BluSky Trading | ARROW | 30% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
-| 44 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ends Oct 25, 2026 17:59 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
-| 45 | AquaFunded | PFD | 25% | Exclusive Code | Ends Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 44 | AquaFunded | PFD | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 45 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ends Oct 25, 2026 17:59 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | 46 | TX3 Funding | PFDC | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 47 | Blue Guardian | PFD | 25% | Exclusive Code | Ended Oct 4, 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 48 | Finotive Funding | JACKICHUN | 25% | Exclusive Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
