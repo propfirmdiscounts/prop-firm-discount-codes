@@ -21,7 +21,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-22 | FundedNext Futures | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |
 | 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
 | 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
-| 2026-10-22 | Finotive Futures | Finotive Futures: 50% Off Instant, 40% Off One Step | 50% OFF | 2026-10-25 17:59 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/ |
+| 2026-10-22 | Finotive Futures | Finotive Futures: 50% Off Instant, 40% Off One Step | 50% OFF | 2026-10-25 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/ |
 | 2026-10-22 | FTUK | FTUK 30% Off Flex Challenge Activation Fee | 30% OFF | 2026-10-23 19:59 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/ |
 | 2026-10-21 | QT Funded | QT Funded 55% Off All Accounts Plus Free Account | 55% OFF | 2026-10-25 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/ |
 | 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |

@@ -13,12 +13,11 @@ The verified Finotive Futures discount code is **PFDDEAL** — Up to 25% off, wo
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Finotive Futures: 50% Off Instant, 40% Off One Step
+## Most recent deal (ended): Finotive Futures: 50% Off Instant, 40% Off One Step
 
 - Published: 2026-10-22
-- Offer ends: 2026-10-25 17:59
+- Offer ends: 2026-10-25 17:59 (ended)
 - Offer: 50% Off
-- Code: BOGO
 - Scope: Instant accounts, One Step accounts, free account on first payout, futures
 - Deal page: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/
 
@@ -50,6 +49,6 @@ It may suit buyers who were already comparing Instant or One Step accounts on pu
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [Finotive Futures: 50% Off Instant, 40% Off One Step](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) (50% Off)
+- 2026-10-22 - [Finotive Futures: 50% Off Instant, 40% Off One Step](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) (50% Off) — ended 2026-10-25 17:59
 - 2026-10-02 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) (50% Off)
 - 2026-09-25 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) (50% Off)

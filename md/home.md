@@ -55,7 +55,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% Off | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% Off | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
 | 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% Off | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
-| 2026-10-22 | Finotive Futures | Finotive Futures: 50% Off Instant, 40% Off One Step | 50% Off | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/ |
 | 2026-10-21 | QT Funded | QT Funded 55% Off All Accounts Plus Free Account | 55% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/ |
 | 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% Off | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% Off | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
@@ -70,3 +69,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | Alpha Futures | Alpha Futures 50% Off Standard, Direct, Advanced | 50% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
 | 2026-10-20 | Alpha Futures | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
+| 2026-10-20 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Discount Code – $108 Express | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/ |

@@ -1,16 +1,15 @@
 # Finotive Futures: 50% Off Instant, 40% Off One Step
 
-Finotive Futures is offering 50% off — discount code **BOGO**.
+Finotive Futures was offering 50% off.
 
 > 50% off Instant and 40% off One Step at Finotive Futures. The cut is to price only and rules do not change. It ends Sunday, 25 October at 11:59 PM CET.
 
 - Published: 2026-10-22
-- Offer ends: 2026-10-25 17:59
+- Offer ends: 2026-10-25 17:59 (ended)
 - Prop firm: Finotive Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - Summary: Instant pricing falls 50% and One Step pricing falls 40% while trading rules stay unchanged and trading risk stays unchanged. Ends Sunday, 25 October at 11:59 PM CET.
 - Offer: 50% Off
-- Code: BOGO
 - Scope: Instant accounts, One Step accounts, free account on first payout, futures
 - Deal: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/
 - Verified standing exclusive code: PFDDEAL (works any time; the live rate is always on the firm page)
