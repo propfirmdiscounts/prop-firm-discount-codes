@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 42 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
+As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 41 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -60,7 +60,7 @@ As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month
 | 52 | Alpha Futures | Tran009503 | 15% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | 53 | For Traders | VGYCKXLTY9 | 15% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | 54 | City Traders Imperium (CTI) | BREAK15 | 15% | Campaign Code | Ends Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
-| 55 | CK PropFirm | PFD | 10% | Exclusive Code | Ends Oct 24, 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 55 | CK PropFirm | PFD | 10% | Exclusive Code | Ended Oct 24, 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | 56 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | Ends Nov 2, 2026 00:00 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | 57 | Instant Funding | AFFVOYAGE61 | 10% | Exclusive Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 58 | Forexive | WHCTXQHRIG | 10% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/forexive/ |

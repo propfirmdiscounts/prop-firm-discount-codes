@@ -6,12 +6,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Alpha Futures | Alpha Futures 40% Off All Plans – New Dashboard | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-23 | Top One Futures | Top One Futures X-Daily Spark: Start for $39 | Only $39 | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
-| 2026-10-23 | CK PropFirm | CK PropFirm 80% Off Challenges – Final 24 Hours | 80% OFF | 2026-10-24 | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/ |
+| 2026-10-23 | CK PropFirm | CK PropFirm 80% Off Challenges – Final 24 Hours | 80% OFF | 2026-10-24 (ended) | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/ |
 | 2026-10-23 | WeMasterTrade | WeMasterTrade 33% Off All Packages in Flash Sale | 33% OFF | Limited time | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |
 | 2026-10-22 | Goat Funded Trader | Goat Funded Trader 50% Off $100K Account – Expo Deal | 50% OFF | 2026-10-25 | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
@@ -31,8 +32,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | CK PropFirm | CK PropFirm 80% Off Challenges: $100K Account for $144 | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | 2026-10-25 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
 | 2026-10-20 | Elite Trader Funding | Elite Trader Funding: 90% Off Non-Fast Track Evals | 90% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-evals/ |
-| 2026-10-20 | The Concept Trading | The Concept Trading 35% Off Eligible Programs | 35% OFF | 2026-10-24 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/ |
+| 2026-10-20 | The Concept Trading | The Concept Trading 35% Off Eligible Programs | 35% OFF | 2026-10-24 (ended) | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/ |
 | 2026-10-20 | Tradeify | Tradeify 50% Off All FX Accounts – Any Size | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 35% Off All Challenge Types | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/ |
 | 2026-10-20 | We Get Funded | We Get Funded: 50K 1 Step first challenge at 48.30 € | Only €48.30 | 2026-10-21 (ended) | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/ |
-| 2026-10-20 | RebelsFunding | RebelsFunding 70% Off $1,000 1-Step Challenge for €9 | 70% OFF | 2026-10-22 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/ |

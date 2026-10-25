@@ -1,16 +1,15 @@
 # CK PropFirm 80% Off Challenges – Final 24 Hours
 
-CK PropFirm is offering 80% off — discount code **CK80**.
+CK PropFirm was offering 80% off.
 
 > CK PropFirm cuts 80% off 2-Step Pro and other challenges, valid until 24 October 2026, with entry pricing reduced and trading risk unchanged.
 
 - Published: 2026-10-23
-- Offer ends: 2026-10-24
+- Offer ends: 2026-10-24 (ended)
 - Prop firm: CK PropFirm
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - Summary: An 80% reduction lowers CK PropFirm challenge entry fees for 2-Step Pro and other challenges until 24 October 2026, while trading rules and market risk remain unchanged for buyers to assess carefully.
 - Offer: 80% Off
-- Code: CK80
 - Scope: 2-Step Pro, Other Challenges, No Consistency Rule on 2-Step Pro, News Trading Allowed
 - Deal: https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

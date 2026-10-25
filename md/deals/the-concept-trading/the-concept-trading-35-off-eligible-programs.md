@@ -1,16 +1,15 @@
 # The Concept Trading 35% Off Eligible Programs
 
-The Concept Trading is offering 35% off — discount code **MAD26**.
+The Concept Trading was offering 35% off.
 
 > Get 35% off eligible programs at The Concept Trading in the Market After Dark offer, excluding Starter Models. Ends October 24 at 11:59 PM AEST.
 
 - Published: 2026-10-20
-- Offer ends: 2026-10-24
+- Offer ends: 2026-10-24 (ended)
 - Prop firm: The Concept Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 - Summary: The Market After Dark offer cuts 35% off eligible programs at The Concept Trading, excluding Starter Models. It lowers entry cost only, without changing trading rules or risk, until October 24 at 11:59 PM AEST.
 - Offer: 35% Off
-- Code: MAD26
 - Scope: eligible programs, excludes Starter Models
 - Deal: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/
 

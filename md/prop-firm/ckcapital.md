@@ -13,12 +13,11 @@ The verified CK PropFirm discount code is **PFD** — Up to 10% off, works any t
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: CK PropFirm 80% Off Challenges - Final 24 Hours
+## Most recent deal (ended): CK PropFirm 80% Off Challenges - Final 24 Hours
 
 - Published: 2026-10-23
-- Offer ends: 2026-10-24
+- Offer ends: 2026-10-24 (ended)
 - Offer: 80% Off
-- Code: CK80
 - Scope: 2-Step Pro, Other Challenges, No Consistency Rule on 2-Step Pro, News Trading Allowed
 - Deal page: https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/
 
@@ -42,7 +41,7 @@ It may suit buyers who were already planning to purchase a covered challenge. It
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-23 - [CK PropFirm 80% Off Challenges - Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) (80% Off)
+- 2026-10-23 - [CK PropFirm 80% Off Challenges - Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) (80% Off) — ended 2026-10-24
 - 2026-10-20 - [CK PropFirm 80% Off Challenges: $100K Account for $144](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) (80% Off)
 - 2026-10-16 - [CK PropFirm 75% Off All Accounts Upfront Fee](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) (75% Off)
 - 2026-10-14 - [CK Capital 75% Off All Challenge Accounts and 10% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) (75% Off) — ended 2026-10-21

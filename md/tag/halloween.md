@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **HyroTrader Halloween 15% Off All Challenges** from HyroTrader — 15% off (published 2026-10-24). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **AquaFunded Halloween 35% Off All Accounts CFD Futures** from AquaFunded — 35% off (published 2026-10-25). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- AquaFunded — AquaFunded Halloween 35% Off All Accounts CFD Futures (35% Off)
 - HyroTrader — HyroTrader Halloween 15% Off All Challenges (15% Off)
 - Plutus Trade Base — Plutus Trade Base 66% Off Halloween Challenges (66% Off)
-- Bullwaves Prime — Bullwaves Prime 35% Off All Prime Challenges Halloween (35% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | AquaFunded | AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund | 25% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | 2026-10-18 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-12 | Blue Guardian | Blue Guardian: 35% Off All Accounts Plus 200% Refund | 35% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/ |
-| 2026-10-12 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Bundle for Halloween | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/ |
