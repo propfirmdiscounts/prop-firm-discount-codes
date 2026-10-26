@@ -5,7 +5,7 @@ The newest AudaCity Capital discount code is **HALLOWEEN** — 35% off (October 
 > Founded in 2012 in London, we are the longest-running prop firm dedicated to empowering traders with the capital they need to succeed. Our mission is simple: to give talented traders the resources, support, and freedom to unlock their full potential. With years of experience and a proven track record, we’re here to help you dominate the markets, accelerate your trading career, and achieve long term success.
 
 - Last deal published: 2026-10-16
-- Trustpilot: 2.8/5 (284 reviews)
+- Trustpilot: 2.8/5 (281 reviews)
 - Activate: https://propfirmdiscount.com/go/audacitycapital
 - Firm page: https://propfirmdiscount.com/prop-firm/audacity-capital-funded/
 

@@ -3,7 +3,7 @@
 The newest Bullwaves Prime discount code is **NOTRICKS35** — 35% off (October 23, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-23
-- Trustpilot: 3.5/5 (676 reviews)
+- Trustpilot: 3.5/5 (675 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 

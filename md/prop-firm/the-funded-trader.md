@@ -3,7 +3,7 @@
 No live discount code for The Funded Trader Program (TFT) right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/the-funded-trader/
 
 - Last deal published: 2026-09-17
-- Trustpilot: 2.9/5 (21924 reviews)
+- Trustpilot: 2.9/5 (21916 reviews)
 - Activate: https://propfirmdiscount.com/go/thefundedtraderprogram
 - Firm page: https://propfirmdiscount.com/prop-firm/the-funded-trader/
 

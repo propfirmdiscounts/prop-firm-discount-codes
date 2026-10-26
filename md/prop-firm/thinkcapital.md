@@ -8,7 +8,7 @@ The verified ThinkCapital discount code is **PFD** — Up to 10% off, works any 
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-21
-- Trustpilot: 4.0/5 (608 reviews)
+- Trustpilot: 4.0/5 (605 reviews)
 - Activate: https://propfirmdiscount.com/go/thinkcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

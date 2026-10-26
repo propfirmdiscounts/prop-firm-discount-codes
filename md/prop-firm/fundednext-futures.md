@@ -3,7 +3,7 @@
 The newest FundedNext Futures discount code is **FNDIRECT** — 40.1% off (October 22, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-22
-- Trustpilot: 4.5/5 (82129 reviews)
+- Trustpilot: 4.5/5 (82301 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednextfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 

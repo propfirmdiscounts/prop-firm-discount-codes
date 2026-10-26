@@ -3,7 +3,7 @@
 No live discount code for Topstep right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-15
-- Trustpilot: 3.7/5 (14976 reviews)
+- Trustpilot: 3.7/5 (14989 reviews)
 - Activate: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 

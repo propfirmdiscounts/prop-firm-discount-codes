@@ -8,7 +8,7 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-17
-- Trustpilot: 4.1/5 (3306 reviews)
+- Trustpilot: 4.1/5 (3302 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

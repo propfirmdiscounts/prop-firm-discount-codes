@@ -5,7 +5,7 @@ No live discount code for SFX Funded right now — newest deals and offers are b
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
 - Last deal published: 2026-09-17
-- Trustpilot: 2.3/5 (135 reviews)
+- Trustpilot: 2.3/5 (127 reviews)
 - Activate: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 

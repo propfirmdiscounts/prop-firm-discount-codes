@@ -3,7 +3,7 @@
 No live discount code for IC Funded right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-18
-- Trustpilot: 3.4/5 (179 reviews)
+- Trustpilot: 3.4/5 (183 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 

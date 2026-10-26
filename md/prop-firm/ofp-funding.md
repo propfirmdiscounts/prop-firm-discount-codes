@@ -3,7 +3,7 @@
 The newest OFP Funding discount code is **OFP50** — 50% off (October 16, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-10-16
-- Trustpilot: 2.3/5 (4420 reviews)
+- Trustpilot: 2.3/5 (4418 reviews)
 - Activate: https://propfirmdiscount.com/go/ofpfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 
