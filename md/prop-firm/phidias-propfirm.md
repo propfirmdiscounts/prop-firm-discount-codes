@@ -49,8 +49,8 @@ Follow the Start here link at the end of the article to the official site. Apply
 ## Deals (last 2 months, newest first)
 
 - 2026-10-25 - [Phidias Propfirm Halloween 90% Off First Month Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) (90% Off)
-- 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code - $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off)
-- 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off)
+- 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code - $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off) — ended 2026-10-25
+- 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off) — ended 2026-10-25
 - 2026-10-01 - [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) (Only $30)
 - 2026-09-21 - [Phidias Propfirm Q4 Promotion: Up To 80% Off & $69 Entry Fees](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-q4-discount-69-accounts/) (80% Off)
 - 2026-09-09 - [Phidias Propfirm Equinox Sale: Up to 80% Off Evaluations & Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/) (80% Off)

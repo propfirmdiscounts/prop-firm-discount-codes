@@ -13,12 +13,11 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: QT Funded 55% Off All Accounts Plus Free Account
+## Most recent deal (ended): QT Funded 55% Off All Accounts Plus Free Account
 
 - Published: 2026-10-21
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Offer: 55% Off
-- Code: PFD
 - Scope: All accounts, second account of same size
 - Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/
 
@@ -50,8 +49,8 @@ The launch names TradingView Charts, Interactive Forex Heatmaps, an Integrated E
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off)
-- 2026-10-20 - [QT Funded 65% Off All Accounts - Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off)
+- 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off) — ended 2026-10-25
+- 2026-10-20 - [QT Funded 65% Off All Accounts - Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off) — ended 2026-10-25
 - 2026-10-19 - [QT Funded 60% Off QT TWO Evaluations to $200K](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) (60% Off)
 - 2026-10-01 - [QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) (60% Off)
 - 2026-09-09 - [QT Funded 60% Off Entry Fee + Bonus Account on $5K-$200K Evaluations](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) (60% Off)

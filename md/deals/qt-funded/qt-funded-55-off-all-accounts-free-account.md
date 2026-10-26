@@ -1,16 +1,15 @@
 # QT Funded 55% Off All Accounts Plus Free Account
 
-QT Funded is offering 55% off — discount code **PFD**.
+QT Funded was offering 55% off.
 
 > QT Funded cuts 55% off all accounts for its new platform, plus a second account of the same size free, valid until 25 October 2026 at 11:59 PM UK.
 
 - Published: 2026-10-21
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Prop firm: QT Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - Summary: This promotion cuts 55% off all accounts and includes a second account of the same size free. Trading rules and risk parameters stay unchanged. Valid until 25 October 2026 at 11:59 PM UK time.
 - Offer: 55% Off
-- Code: PFD
 - Scope: All accounts, second account of same size
 - Deal: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

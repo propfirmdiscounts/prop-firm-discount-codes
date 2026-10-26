@@ -11,12 +11,11 @@ The verified Goat Funded Trader discount code is **CSV** — Up to 35% off, work
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Goat Funded Trader 50% Off $100K Account - Expo Deal
+## Most recent deal (ended): Goat Funded Trader 50% Off $100K Account - Expo Deal
 
 - Published: 2026-10-22
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Offer: 50% Off
-- Code: UK50
 - Scope: $100K account
 - Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/
 
@@ -48,7 +47,7 @@ The campaign states live giveaways run across both expo days and free merch is h
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [Goat Funded Trader 50% Off $100K Account - Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off)
+- 2026-10-22 - [Goat Funded Trader 50% Off $100K Account - Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off) — ended 2026-10-25
 - 2026-09-30 - [Goat Funded Trader: 50% Off All Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/) (50% Off)
 - 2026-09-07 - [Goat Funded Trader 45% Off Upfront Entry Cost for Instant and 2-Step Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-percent-discount/) (45% Off)
 - 2026-09-06 - [Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/) (50% Off)

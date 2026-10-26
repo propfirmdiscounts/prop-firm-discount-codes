@@ -1,16 +1,15 @@
 # thePropTrade 22% Off All Challenges
 
-thePropTrade is offering 22% off — discount code **TWOYEARS**.
+thePropTrade was offering 22% off.
 
 > thePropTrade is celebrating its 2nd birthday with 22% off all evaluation challenges and account sizes. This promotional entry pricing is valid until 25 October, 12:00 PM UTC, while trading rules remain unchanged.
 
 - Published: 2026-10-07
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Prop firm: thePropTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - Summary: Celebrate thePropTrade's birthday with a 22% reduction on all challenge sizes. This cost-saving offer runs until 25 October, 12:00 PM UTC, lowering the entry fee without modifying any core evaluation parameters.
 - Offer: 22% Off
-- Code: TWOYEARS
 - Scope: All Challenges, All Account Sizes
 - Deal: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

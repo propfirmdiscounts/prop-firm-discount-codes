@@ -1,16 +1,15 @@
 # TX3 Funding 30% Off All Accounts – Halloween Deal
 
-TX3 Funding is offering 30% off — discount code **COUNTDOWN30**.
+TX3 Funding was offering 30% off.
 
 > TX3 Funding takes 30% off all accounts for Halloween - challenges and instant funded, any size. Runs October 19 to 25, ending October 25 at 11:59 PM ET.
 
 - Published: 2026-10-20
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Prop firm: TX3 Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - Summary: TX3 Funding cuts the one-time entry fee by 30% on all accounts for Halloween, challenges and instant funded at any size, while trading rules and risk stay unchanged, until October 25 at 11:59 PM ET.
 - Offer: 30% Off
-- Code: COUNTDOWN30
 - Scope: All accounts, Challenges, Instant Funded, Any size, 1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro, 100K
 - Deal: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/
 - Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)

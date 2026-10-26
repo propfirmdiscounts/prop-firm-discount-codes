@@ -44,4 +44,4 @@ The material states payouts every two weeks. It also states a profit split of up
 ## Deals (last 2 months, newest first)
 
 - 2026-10-18 - [IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) (40% Off) — ended 2026-10-20
-- 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off)
+- 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off) — ended 2026-10-25

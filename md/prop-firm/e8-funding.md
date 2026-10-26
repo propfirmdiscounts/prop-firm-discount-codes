@@ -50,4 +50,4 @@ The firm is focusing its Signature rulebook exclusively on Futures, citing the d
 ## Deals (last 2 months, newest first)
 
 - 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off) — ended 2026-10-20
-- 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off)
+- 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off) — ended 2026-10-25

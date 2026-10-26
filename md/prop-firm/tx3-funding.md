@@ -11,12 +11,11 @@ The verified TX3 Funding discount code is **PFDC** — Up to 25% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: TX3 Funding 30% Off All Accounts - Halloween Deal
+## Most recent deal (ended): TX3 Funding 30% Off All Accounts - Halloween Deal
 
 - Published: 2026-10-20
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Offer: 30% Off
-- Code: COUNTDOWN30
 - Scope: All accounts, Challenges, Instant Funded, Any size, 1 Phase, 2 Phase Flex, 2 Phase Pro, Instant, Instant Pro, 100K
 - Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/
 
@@ -48,7 +47,7 @@ Buyers who had already chosen a challenge or instant funded account at a specifi
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-20 - [TX3 Funding 30% Off All Accounts - Halloween Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) (30% Off)
+- 2026-10-20 - [TX3 Funding 30% Off All Accounts - Halloween Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) (30% Off) — ended 2026-10-25
 - 2026-10-20 - [TX3 Funding 35% Off All Challenge Types](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/) (35% Off)
 - 2026-10-17 - [TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/) (30% Off) — ended 2026-10-18
 - 2026-10-13 - [TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/) (25% Off) — ended 2026-10-18

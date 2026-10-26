@@ -13,12 +13,11 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: thePropTrade 22% Off All Challenges
+## Most recent deal (ended): thePropTrade 22% Off All Challenges
 
 - Published: 2026-10-07
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Offer: 22% Off
-- Code: TWOYEARS
 - Scope: All Challenges, All Account Sizes
 - Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/
 
@@ -42,4 +41,4 @@ No, the active promotion only reduces the initial entry cost. It does not modify
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off)
+- 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off) — ended 2026-10-25

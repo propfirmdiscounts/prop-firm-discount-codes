@@ -1,16 +1,15 @@
 # Goat Funded Trader 50% Off $100K Account – Expo Deal
 
-Goat Funded Trader is offering 50% off — discount code **UK50**.
+Goat Funded Trader was offering 50% off.
 
 > Goat Funded Trader cuts 50% off with a $100K account for $99 for the London Prop Trading Expo, available until Sunday 25 October 2026.
 
 - Published: 2026-10-22
-- Offer ends: 2026-10-25
+- Offer ends: 2026-10-25 (ended)
 - Prop firm: Goat Funded Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - Summary: Goat Funded Trader cuts entry pricing by 50% and prices a $100K account at $99, available until Sunday 25 October 2026. Purchase pricing changes only; trading rules and risk stay unchanged.
 - Offer: 50% Off
-- Code: UK50
 - Scope: $100K account
 - Deal: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/
 - Verified standing exclusive code: CSV (works any time; the live rate is always on the firm page)
