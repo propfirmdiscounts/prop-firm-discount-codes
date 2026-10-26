@@ -132,35 +132,51 @@ jobs:
           # cannot parse the dataset.
           python3 - <<'PY' || true
           import json, os, re
+          # Read the Exclusive table from md/home.md mirror
           try:
-              payload = json.load(open('datasets/prop-firm-codes.json', encoding='utf-8'))
+              home = open('md/home.md', encoding='utf-8').read()
           except Exception:
               raise SystemExit(0)
-          rows = payload if isinstance(payload, list) else payload.get('data', [])
-          # Collect all firms with discount percentages
+          lines = home.splitlines()
+          start = next((i for i, l in enumerate(lines)
+                        if l.strip() == '## Exclusive Prop Firm Discount Codes'), None)
+          if start is None:
+              raise SystemExit(0)
+          # Parse the table rows
+          rows = []
+          for l in lines[start + 1:]:
+              if l.startswith('|') and not l.startswith('|---'):
+                  parts = [p.strip() for p in l.split('|')]
+                  # Format: | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
+                  if len(parts) >= 6 and parts[1] and parts[1] != '#':
+                      rows.append(parts)
+              elif rows:
+                  break
+          # Extract firms with discount percentages
           firms = []
-          for r in rows:
-              m = re.search(r'(\d+(?:\.\d+)?)\s*%', str(r.get('discount') or ''))
+          for parts in rows:
+              firm = parts[2]  # Prop firm
+              code = parts[3]  # Exclusive code
+              discount = parts[4]  # Discount
+              m = re.search(r'(\d+(?:\.\d+)?)\s*%', discount)
               if m:
-                  firms.append((float(m.group(1)), r))
-          # Sort descending by percentage, take top 3
+                  firms.append((float(m.group(1)), code, firm))
+          # Sort descending by percentage, take top 5
           firms.sort(key=lambda x: x[0], reverse=True)
-          top3 = firms[:3]
-          if not top3:
+          top5 = firms[:5]
+          if not top5:
               raise SystemExit(0)
           # Build the sentence fragments
           parts = []
-          for pct, r in top3:
-              code = r.get('code') or ''
-              firm = r.get('prop_firm') or ''
+          for pct, code, firm in top5:
               parts.append(f"{int(pct)}% OFF with code {code} at {firm}")
-          # Join: "X, Y and Z"
+          # Join: "X, Y and Z" (with Oxford comma for 3+)
           if len(parts) == 1:
               joined = parts[0]
           elif len(parts) == 2:
               joined = f"{parts[0]} and {parts[1]}"
           else:
-              joined = ', '.join(parts[:-1]) + f" and {parts[-1]}"
+              joined = ', '.join(parts[:-1]) + f", and {parts[-1]}"
           line = ("As of {date}, the biggest verified prop firm discount codes are "
                   "{codes}.").format(
               date=os.environ['STAMP'][:10], codes=joined)
