@@ -153,7 +153,7 @@ jobs:
           for pct, r in top3:
               code = r.get('code') or ''
               firm = r.get('prop_firm') or ''
-              parts.append(f"{int(pct)}% OFF code {code} at {firm}")
+              parts.append(f"{int(pct)}% OFF with code {code} at {firm}")
           # Join: "X, Y and Z"
           if len(parts) == 1:
               joined = parts[0]
