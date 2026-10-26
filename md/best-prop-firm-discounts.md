@@ -7,50 +7,50 @@ As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
 | 1 | Bulenox | PFD | 91% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Phidias Propfirm | PFD | 90% | Exclusive Code | Ends Nov 1, 2026 17:00 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Phidias Propfirm | PFD | 90% | Exclusive Code | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | Elite Trader Funding | BULLTOBER | 90% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 4 | RebelsFunding | SEVEN | 73% | Campaign Code | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 5 | Purdia Capital | STATIC70 | 70% | Campaign Code | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 6 | Plutus Trade Base | SPOOKY | 66% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 7 | FundYourFX | HALLOWEEN65 | 65% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 8 | Funded Hero | PFD | 62% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 9 | Top One Futures | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 10 | Titan Capital | BOGO | 60% | Campaign Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
-| 11 | WSFunded | HISPANIC60 | 60% | Campaign Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 12 | TradeDay | FLASH | 60% | Campaign Code | Ended Oct 10, 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
-| 13 | QT Funded | PFD | 55% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 14 | Atlas Funded | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 15 | E8 Markets | CHUN | 50% | Exclusive Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 16 | FundingTraders | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 17 | Direct Funded Trader | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 18 | Earn2Trade | PFD | 50% | Exclusive Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 19 | Tradeify | MILK | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeify/ |
-| 20 | OFP Funding | OFP50 | 50% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
-| 21 | Ment Funding | MENT50 | 50% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/ment-funding/ |
-| 22 | FTUK | FLEX50 | 50% | Campaign Code | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
-| 23 | Top One Trader | LAUNCHPAD | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 24 | The Concept Trading | OS26 | 50% | Campaign Code | Ended Oct 2, 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
-| 25 | Alpha Trader Firm | HALLOWEEN | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 4 | Alpha Trader Firm | BIG80 | 80% | Campaign Code | Ends Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 5 | RebelsFunding | SEVEN | 73% | Campaign Code | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 6 | Purdia Capital | STATIC70 | 70% | Campaign Code | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 7 | Plutus Trade Base | SPOOKY | 66% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
+| 8 | FundYourFX | HALLOWEEN65 | 65% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 9 | Funded Hero | PFD | 62% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 10 | Doji Funding | PFD | 60% | Exclusive Code | Ended Oct 12, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 11 | Top One Futures | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 12 | Titan Capital | BOGO | 60% | Campaign Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
+| 13 | WSFunded | HISPANIC60 | 60% | Campaign Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 14 | TradeDay | FLASH | 60% | Campaign Code | Ended Oct 10, 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
+| 15 | Atlas Funded | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 16 | QT Funded | PFD | 50% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 17 | E8 Markets | CHUN | 50% | Exclusive Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 18 | FundingTraders | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 19 | Earn2Trade | PFD | 50% | Exclusive Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 20 | Tradeify | MILK | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeify/ |
+| 21 | OFP Funding | OFP50 | 50% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
+| 22 | Ment Funding | MENT50 | 50% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/ment-funding/ |
+| 23 | FTUK | FLEX50 | 50% | Campaign Code | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
+| 24 | Top One Trader | LAUNCHPAD | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
+| 25 | The Concept Trading | OS26 | 50% | Campaign Code | Ended Oct 2, 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
 | 26 | FundedNext Futures | FNDIRECT | 40.1% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
-| 27 | IC Funded | 40FOR40 | 40% | Campaign Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
-| 28 | Hola Prime | SPOOKY40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
-| 29 | BrightFunded | WEEKEND | 40% | Campaign Code | Ended Oct 11, 2026 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
-| 30 | Tradexprop | SPOOK40 | 40% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/tradexprop/ |
-| 31 | Sure Leverage Funding | BOO40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
-| 32 | FundedSquad | 2YEARS | 40% | Campaign Code | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
-| 33 | Goat Funded Trader | CSV | 35% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 34 | Bullwaves Prime | NOTRICKS35 | 35% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| 35 | The Trading Pit | OCT35 | 35% | Campaign Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
-| 36 | AudaCity Capital | HALLOWEEN | 35% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
-| 37 | Hantec Trader | REACT35 | 35% | Campaign Code | Ended Oct 16, 2026 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
-| 38 | Blueberry Funded | FLEXSTEP | 35% | Campaign Code | Ended Oct 11, 2026 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
-| 39 | FundedNext | STRTN | 32% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 40 | PipFarm | PFDC | 30% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| 41 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| 42 | Doji Funding | PFD | 30% | Exclusive Code | Ended Oct 12, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 27 | Direct Funded Trader | PFD | 40% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 28 | IC Funded | 40FOR40 | 40% | Campaign Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
+| 29 | Hola Prime | SPOOKY40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
+| 30 | BrightFunded | WEEKEND | 40% | Campaign Code | Ended Oct 11, 2026 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
+| 31 | Tradexprop | SPOOK40 | 40% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/tradexprop/ |
+| 32 | Sure Leverage Funding | BOO40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
+| 33 | FundedSquad | 2YEARS | 40% | Campaign Code | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 34 | Goat Funded Trader | CSV | 35% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 35 | Bullwaves Prime | NOTRICKS35 | 35% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
+| 36 | The Trading Pit | OCT35 | 35% | Campaign Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
+| 37 | AudaCity Capital | HALLOWEEN | 35% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
+| 38 | Hantec Trader | REACT35 | 35% | Campaign Code | Ended Oct 16, 2026 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
+| 39 | Blueberry Funded | FLEXSTEP | 35% | Campaign Code | Ended Oct 11, 2026 | https://propfirmdiscount.com/prop-firm/blueberry-funded/ |
+| 40 | FundedNext | STRTN | 32% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 41 | PipFarm | PFDC | 30% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 42 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 43 | BluSky Trading | ARROW | 30% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
 | 44 | AquaFunded | PFD | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 45 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ended Oct 25, 2026 17:59 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| 45 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | 46 | TX3 Funding | PFDC | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 47 | Blue Guardian | PFD | 25% | Exclusive Code | Ended Oct 4, 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 48 | Finotive Funding | JACKICHUN | 25% | Exclusive Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
@@ -61,7 +61,7 @@ As of October 2026, PropFirmDiscount ranks 64 prop firm offers posted this month
 | 53 | For Traders | VGYCKXLTY9 | 15% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | 54 | City Traders Imperium (CTI) | BREAK15 | 15% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
 | 55 | CK PropFirm | PFD | 10% | Exclusive Code | Ended Oct 24, 2026 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 56 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | Ends Nov 2, 2026 00:00 | https://propfirmdiscount.com/prop-firm/fxify/ |
+| 56 | FXIFY | FXIFY2WRIVW | 10% | Exclusive Code | Ends Nov 2, 2026 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | 57 | Instant Funding | AFFVOYAGE61 | 10% | Exclusive Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 58 | Forexive | WHCTXQHRIG | 10% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/forexive/ |
 | 59 | Funded Trading Plus | PFD | 10% | Exclusive Code | Ended Oct 16, 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |

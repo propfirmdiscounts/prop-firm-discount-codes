@@ -1,42 +1,48 @@
 # WSFunded Discount Code
 
-No live discount code for WSFunded right now — newest deals and offers are below.
+The newest WSFunded discount code is **SPOOKY50** — 50% off (October 26, 2026). The campaign code changes with each promotion; newest first below.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
-- Last deal published: 2026-10-12
+- Last deal published: 2026-10-26
 - Trustpilot: 4.3/5 (4863 reviews)
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-## Most recent deal (ended): WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts
+## Current deal: WSFunded Halloween Sale: 50% Off All Challenges
 
-- Published: 2026-10-12
-- Offer ends: 2026-10-18 (ended)
-- Offer: 60% Off
-- Scope: 2.5K to 25K accounts
-- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/
+- Published: 2026-10-26
+- Offer ends: Limited time
+- Offer: 50% Off
+- Code: SPOOKY50
+- Scope: all challenge types, all account sizes, PRIME Challenge excluded
+- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/
 
 ## WSFunded deal FAQ
 
-**What does the current WSFunded promotion change?**
+**What discount does WSFunded offer in this promotion?**
 
-It provides a 60% discount on the upfront entry cost for accounts sized between $2.5K and $25K. It does not alter any trading rules or drawdown limits.
+It offers 50% off all challenge types and account sizes. The PRIME Challenge is excluded from the offer.
 
-**Does this discount apply to all account sizes?**
+**Which WSFunded accounts does the discount cover?**
 
-No, the 60% reduction applies only to evaluation accounts in the $2.5K to $25K range.
+It covers all challenge types and account sizes apart from PRIME. No account size limit is stated in the promotion.
 
-**How long is this 60% discount available?**
+**Does the WSFunded Halloween Sale change trading rules?**
 
-The promotion is valid this week, according to the campaign materials.
+No. The promotion reduces entry cost only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Are the trading rules easier during this promotion?**
+**Is there an end date for this WSFunded offer?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+No end date is stated in the promotion. The promotion is presented without a stated deadline.
+
+**Who may find this WSFunded pricing useful?**
+
+It may suit buyers who want a lower entry cost across different challenge types and account sizes. It is less relevant for buyers who want the PRIME Challenge, since that model is excluded.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [WSFunded Halloween Sale: 50% Off All Challenges](https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/) (50% Off)
 - 2026-10-12 - [WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/) (60% Off) — ended 2026-10-18
 - 2026-10-09 - [WSFunded 50% Off All Challenges and New York Prize Draw](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/) (50% Off)
 - 2026-10-02 - [WSFunded 50% Off All Challenges & New 2% Target Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/) (50% Off)

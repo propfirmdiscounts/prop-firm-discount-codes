@@ -5,48 +5,50 @@ The verified Goat Funded Trader discount code is **CSV** — Up to 35% off, work
 - Code: CSV
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-22
+- Last deal published: 2026-10-26
 - Trustpilot: 2.1/5 (4332 reviews)
 - Activate: https://propfirmdiscount.com/go/goatfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Goat Funded Trader 50% Off $100K Account - Expo Deal
+## Current deal: Goat Funded Trader Halloween 50% Off Challenge Accounts
 
-- Published: 2026-10-22
-- Offer ends: 2026-10-25 (ended)
+- Published: 2026-10-26
+- Offer ends: Limited time
 - Offer: 50% Off
-- Scope: $100K account
-- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/
+- Code: HALLOWEEN50
+- Scope: account purchases, challenge accounts
+- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/
 
 ## Goat Funded Trader deal FAQ
 
-**What discount does Goat Funded Trader offer in this promotion?**
+**What discount does Goat Funded Trader offer in this Halloween promotion?**
 
-The promotion gives 50% off the purchase price and prices a $100K account at $99. Both figures change the amount paid upfront only.
+Goat Funded Trader offers 50% off an account purchase in this Halloween promotion. The saving applies at purchase level only. It does not change trading rules or reduce trading risk.
 
-**How long is the Goat Funded Trader offer available?**
+**Which accounts does the Halloween promotion cover?**
 
-The offer is available until Sunday 25 October 2026. That closing date follows the London Prop Trading Expo on 23 to 24 October 2026.
+The promotion material describes a buyer choosing an account at checkout. It does not list restricted account sizes or models. A buyer should confirm the chosen account at checkout.
 
-**Where is the firm during the London Prop Trading Expo?**
+**How do Resets work in this offer?**
 
-Goat Funded Trader is at Booth C7 at Old Billingsgate, 16 Lower Thames Street, London EC3R 6DX. The expo runs from 9am to 5pm each day.
+A Reset lets a buyer carry on from the phase already reached after a breach instead of buying a whole new challenge. The offer states that this cover includes funded accounts. It is a continuity feature tied to the purchase.
 
-**Does this Goat Funded Trader promotion change trading rules?**
+**What does Goat Copier do in this offer?**
 
-No. It changes purchase pricing only and leaves trading rules plus drawdown limits and risk parameters unchanged.
+Goat Copier mirrors trades across every account a buyer owns with Goat Funded Trader at no charge. A second account works without a second screen. The material presents it as part of the same Halloween offer.
 
-**Who may this Goat Funded Trader pricing suit?**
+**Does this promotion change trading rules or drawdown limits?**
 
-It may suit buyers who were already considering a $100K account and want a lower upfront entry cost. It should be approached cautiously if the lower price alone is driving the purchase.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry cost is not a lower trading risk.
 
-**What else is happening at the booth?**
+**What is Goat Funded Trader rated on Trustpilot?**
 
-The campaign states live giveaways run across both expo days and free merch is handed out to visitors who stop by. Those items are separate from the 50% pricing and the $99 $100K price.
+According to Trustpilot, Goat Funded Trader holds a 2.1/5 rating from 4332 reviews as of October 2026. That rating is separate from the discount terms in this promotion.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) (50% Off)
 - 2026-10-22 - [Goat Funded Trader 50% Off $100K Account - Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off) — ended 2026-10-25
 - 2026-09-30 - [Goat Funded Trader: 50% Off All Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/) (50% Off)
 - 2026-09-07 - [Goat Funded Trader 45% Off Upfront Entry Cost for Instant and 2-Step Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-percent-discount/) (45% Off)

@@ -1,9 +1,9 @@
 # Top One Futures Discount Code
 
-The verified Top One Futures discount code is **PFD** — Up to 50% off, works any time.
+The verified Top One Futures discount code is **PFD** — Up to 65% off, works any time.
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-23
 - Trustpilot: 4.8/5 (5234 reviews)

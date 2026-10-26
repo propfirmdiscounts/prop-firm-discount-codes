@@ -7,45 +7,42 @@ The verified Direct Funded Trader discount code is **PFD** — Up to 50% off, wo
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-05
+- Last deal published: 2026-10-26
 - Trustpilot: 2.8/5 (234 reviews)
 - Activate: https://propfirmdiscount.com/go/directfundedtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Direct Funded Trader Cuts Evaluation Account Costs by 50%
+## Current deal: Direct Funded Trader Halloween 40% and 50% Off Accounts
 
-- Published: 2026-10-05
+- Published: 2026-10-26
 - Offer ends: Limited time
-- Offer: 50% Off
+- Offer: 40% Off
 - Code: PFD
-- Scope: 15K, 25K, 50K, 100K, 200K, evaluations
-- Deal page: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/
+- Scope: Instant Accounts, Fast Funding Accounts, Evaluation Accounts
+- Deal page: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/
 
 ## Direct Funded Trader deal FAQ
 
-**What discount does Direct Funded Trader offer in this promotion?**
+**What discount does Direct Funded Trader offer in this Halloween promotion?**
 
-The firm is offering a 50% price reduction on its evaluation accounts.
+It offers 40% off all Instant Accounts and 50% off Fast Funding and Evaluation Accounts. The two rates apply to different account groups, so the saving depends on the account type selected.
 
-**Which account sizes does this price cut cover?**
+**Which account types are covered by the Direct Funded Trader Halloween offer?**
 
-The active discount applies directly to the 15K, 25K, 50K, 100K and 200K account models.
+Instant Accounts receive the 40% reduction. Fast Funding Accounts and Evaluation Accounts receive the 50% reduction.
 
-**Does this promotion change the evaluation rules?**
+**Does this promotion change trading rules or risk for Direct Funded Trader accounts?**
 
-No, the discount only reduces the upfront entry cost. It does not alter trading rules, profit targets, or standard drawdown parameters.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry cost does not reduce trading risk.
 
-**How much does the 100K account cost with the discount?**
+**When does the Direct Funded Trader Halloween promotion end?**
 
-The 100K evaluation account is reduced from its regular price of $479 to $239.50.
-
-**How can traders activate this promotion?**
-
-Traders can follow the application link provided at the end of the article to claim the offer on the official site.
+No end date is stated in the promotion. Follow the Start here link to the official site for the full terms.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) (40% Off)
 - 2026-10-05 - [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) (50% Off)
 - 2026-09-26 - [Direct Funded Trader 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) (50% Off)
 - 2026-09-08 - [Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) (Only $5)

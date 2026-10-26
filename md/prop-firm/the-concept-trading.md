@@ -1,40 +1,50 @@
 # The Concept Trading Discount Code
 
-No live discount code for The Concept Trading right now — newest deals and offers are below.
+The newest The Concept Trading discount code is **HWT26** — 45% off (October 26, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-26
 - Trustpilot: 4.7/5 (470 reviews)
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 
-## Most recent deal (ended): The Concept Trading 35% Off Eligible Programs
+## Current deal: The Concept Trading Halloween 45% Off Eligible Programs
 
-- Published: 2026-10-20
-- Offer ends: 2026-10-24 (ended)
-- Offer: 35% Off
-- Scope: eligible programs, excludes Starter Models
-- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/
+- Published: 2026-10-26
+- Offer ends: 2026-10-31 09:59
+- Offer: 45% Off
+- Code: HWT26
+- Scope: eligible programs, Starter Programs excluded, free retry claim within 60 days of account failure
+- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/
 
 ## The Concept Trading deal FAQ
 
 **What discount does The Concept Trading offer in this promotion?**
 
-The promotion gives 35% off eligible programs. Starter Models are excluded from the offer.
+The promotion cuts 45% off eligible programs and adds a free retry. Starter Programs are excluded from the offer.
 
-**When does The Concept Trading Market After Dark offer end?**
+**Which programs does the Halloween offer cover?**
 
-The offer ends October 24 at 11:59 PM AEST. That deadline is stated as part of the promotion terms.
+It covers eligible programs only. Starter Programs are excluded.
 
-**Does the 35% discount change trading rules at The Concept Trading?**
+**When does the offer end?**
 
-No. The promotion reduces entry cost only and does not reduce trading risk. No change to trading rules, drawdown limits or evaluation criteria is stated.
+The stated window ends October 31 at 11:59 PM AEST. Readers should use that stated date as the cutoff.
 
-**Who may find this The Concept Trading offer relevant?**
+**How long do traders have to claim the free retry?**
 
-It may suit buyers already planning to purchase an eligible program. Buyers looking at Starter Models should note those models are excluded.
+The free retry must be claimed within 60 days of account failure. That claim window is separate from the promotion end date.
+
+**What does this promotion not change?**
+
+It only reduces entry cost and does not reduce trading risk. Trading rules, drawdown limits and risk parameters stay unchanged.
+
+**How can a reader reach the official offer?**
+
+Follow the Start here link at the end of this article to reach the official offer page. That page carries the full terms for eligible programs.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) (45% Off)
 - 2026-10-20 - [The Concept Trading 35% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/) (35% Off) — ended 2026-10-24
 - 2026-10-13 - [The Concept Trading: 40% Off Eligible Programs + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/) (40% Off) — ended 2026-10-16
 - 2026-10-05 - [The Concept Trading 30% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/) (30% Off) — ended 2026-10-09

@@ -7,44 +7,50 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-21
+- Last deal published: 2026-10-26
 - Trustpilot: 3.9/5 (2026 reviews)
 - Activate: https://propfirmdiscount.com/go/atlasfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Atlas Funded 40% Off All Evaluations - Valentine's Day
+## Current deal: Atlas Funded 45% Off Challenges Halloween Cashback
 
-- Published: 2026-02-12
-- Offer ends: Ended
-- Offer: 40% Off
-- Scope: Valentine's Day, flash promotion, funded accounts, evaluations, funding programs
-- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/
+- Published: 2026-10-26
+- Offer ends: Limited time
+- Offer: 45% Off
+- Code: SPOOKY
+- Scope: challenges, evaluations, Atlas Balance cashback, second reward fee back
+- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
 
 ## Atlas Funded deal FAQ
 
-**What discount does Atlas Funded offer in this Valentine's promotion?**
+**What discount does Atlas Funded offer in this promotion?**
 
-The promotion gives 40% off a funded account purchase and includes a 100% refund. It is framed as a Valentine's Day flash promotion for a limited time.
+The promotion gives 45% off plus 3x cashback in Atlas Balance capped at 15%. It also gives 125% of the challenge fee back on the second reward.
 
-**Does the Atlas Funded discount change trading rules?**
+**What does the tripled cashback mean for Atlas Funded buyers?**
 
-No. The offer changes purchase pricing only and it does not reduce trading risk or modify drawdown limits.
+The usual Atlas Balance cashback runs from 3% to 10% depending on VIP rank. Under this offer that rate is tripled, with the tripled rate capped at 15%.
 
-**Who may find this Atlas Funded offer relevant?**
+**When does the 125% fee back arrive?**
 
-Buyers who already planned to purchase an evaluation or a funding program may find the lower entry price relevant. Anyone buying only because the price is lower should be cautious.
+The fee back is tied to the second reward. It is not described as an immediate discount at purchase.
 
-**How long does the Atlas Funded Valentine's flash promotion run?**
+**What does this Atlas Funded promotion not change?**
 
-The promotion is described as a flash deal that will not last long. No calendar end date is stated for it.
+The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. It does not reduce trading risk.
 
-**Is the 100% refund part of the Atlas Funded price cut?**
+**What account facts are listed with this offer?**
 
-Yes. The refund sits alongside the 40% reduction as part of the same Valentine's offer. It is a purchase term and it does not change trading conditions.
+The listed facts include a 24-hour payout reward guarantee, a profit split of up to 100% and simulated capital of up to $400K. Those facts describe the account, not the discount itself.
+
+**Is an end date stated for this Atlas Funded offer?**
+
+No end date is stated for this offer. The promotion is described as a Halloween offer without a stated closing date.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) (45% Off)
 - 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off)
 - 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — ended 2026-10-18
 - 2026-10-07 - [Atlas Funded 45% Off All Account Sizes - New Era Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) (45% Off)

@@ -7,40 +7,50 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 - Code: AFFVOYAGE61
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-26
 - Trustpilot: 2.9/5 (4364 reviews)
 - Activate: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Instant Funding 40% Off Everything - Discount Code
+## Current deal: Instant Funding Halloween 30% Off All Accounts Deal
 
-- Published: 2026-10-20
-- Offer ends: 2026-10-20 (ended)
-- Offer: 40% Off
-- Scope: Everything, All accounts
-- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/
+- Published: 2026-10-26
+- Offer ends: 2026-11-01
+- Offer: 30% Off
+- Code: TREAT30
+- Scope: all accounts, instant funding accounts, profit split add-on, PlusPoints cashback
+- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/
 
 ## Instant Funding deal FAQ
 
-**What discount does Instant Funding offer in this promotion?**
+**What discount does Instant Funding offer in this Halloween promotion?**
 
-Instant Funding offers 40% off everything. The cut lowers the upfront purchase cost only and does not change trading rules or trading risk.
+The promotion cuts 30% off all accounts and adds a free 90% profit split add-on with 50% more cashback in PlusPoints. It closes Sunday evening, 1 November.
 
-**How long does the Instant Funding offer run?**
+**Which accounts does the Instant Funding Halloween offer cover?**
 
-The stated window ends at midnight tonight, London time. Buyers who want the lower price need to complete the purchase within that window.
+The offer covers all accounts with no single model singled out. The cut applies across account sizes rather than to one account type.
 
-**Does this Instant Funding promotion change trading rules or drawdown limits?**
+**What does the free 90% profit split add-on change?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters for Instant Funding accounts.
+The add-on is included with the purchase at no extra cost. It does not change trading rules, drawdown limits or risk parameters.
 
-**Who may this Instant Funding offer suit?**
+**How do PlusPoints work in this offer?**
 
-It may suit buyers who had already planned a purchase and can complete it in time. It should be approached cautiously if the short deadline is the only reason to buy.
+The purchase earns 50% more cashback in PlusPoints. Those extra points go towards a later purchase.
+
+**When does this Instant Funding offer end?**
+
+The Halloween Payday window runs 28-30 October and the offer closes Sunday evening, 1 November. That closing day is the date to plan around.
+
+**What does this promotion not change?**
+
+The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. Trading outcomes stay outside what the discount changes.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) (30% Off)
 - 2026-10-20 - [Instant Funding 40% Off Everything - Discount Code](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) (40% Off) — ended 2026-10-20
 - 2026-10-16 - [Instant Funding 35% Off Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) (35% Off)
 - 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off) — ended 2026-10-15

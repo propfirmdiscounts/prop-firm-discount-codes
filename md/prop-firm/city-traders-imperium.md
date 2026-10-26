@@ -1,42 +1,44 @@
 # City Traders Imperium (CTI) Discount Code
 
-No live discount code for City Traders Imperium (CTI) right now — newest deals and offers are below.
+The newest City Traders Imperium (CTI) discount code is **FEARLESS15** — 15% off (October 26, 2026). The campaign code changes with each promotion; newest first below.
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-26
 - Trustpilot: 4.3/5 (1635 reviews)
 - Activate: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-## Most recent deal (ended): City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding
+## Current deal: City Traders Imperium (CTI) 15% Off Main Programs Halloween
 
-- Published: 2026-10-19
-- Offer ends: 2026-10-25 (ended)
+- Published: 2026-10-26
+- Offer ends: 2026-10-31 19:59
 - Offer: 15% Off
-- Scope: 1-Step, 2-Step, Instant Funding, Main programs, Halloween, Unlimited uses
-- Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/
+- Code: FEARLESS15
+- Scope: 1-Step, 2-Step, Instant Funding
+- Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/
 
 ## City Traders Imperium (CTI) deal FAQ
 
 **What discount does City Traders Imperium (CTI) offer in this Halloween promotion?**
 
-City Traders Imperium (CTI) offers 15% off every main program in the Halloween Week 2 offer. The covered programs are 1-Step, 2-Step and Instant Funding.
+It offers 15% off the purchase price. The cut applies to 1-Step, 2-Step and Instant Funding.
 
-**When does the City Traders Imperium (CTI) promotion end?**
+**Which programs does the City Traders Imperium (CTI) Halloween Week 3 offer cover?**
 
-The window runs from Monday 19 October to Sunday 25 October. The source states the close as 11:59pm UK and also as 25 October at 23:59 UTC.
+It covers the three main programs: 1-Step, 2-Step and Instant Funding. One promotion covers all three.
 
-**Does the City Traders Imperium (CTI) discount change trading rules?**
+**When does the City Traders Imperium (CTI) offer end?**
 
-No. The promotion changes purchase pricing only, so trading rules, drawdown limits and risk parameters stay unchanged.
+It is valid till 31st Oct 23:59 UK time. The same deadline applies to all three programs.
 
-**Who may the City Traders Imperium (CTI) offer suit?**
+**Does the promotion change trading rules at City Traders Imperium (CTI)?**
 
-It may suit buyers who already planned to purchase a covered program before 25 October. Buyers should be cautious if a lower price is their only reason to buy, because the risk of the account itself is unchanged.
+No. It affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off)
 - 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — ended 2026-10-25
 - 2026-10-07 - [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) (15% Off) — ended 2026-10-11
 - 2026-09-30 - [City Traders Imperium (CTI): 10% Off Direct Funding Accounts](https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/) (10% Off)

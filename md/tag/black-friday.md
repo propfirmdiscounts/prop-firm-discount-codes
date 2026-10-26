@@ -1,16 +1,18 @@
 # Black Friday Prop Firm Deals (2026)
 
-The newest Black Friday prop firm deal is **Lux Trading Firm £699 $1M Account Black Friday** from Lux Trading Firm — 30% off (published 2026-10-22). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Black Friday prop firm deal is **SFX Funded 55% Off All Accounts Black Friday BOGO Deal** from SFX Funded — 55% off (published 2026-10-26). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- SFX Funded — SFX Funded 55% Off All Accounts Black Friday BOGO Deal (55% Off)
+- Fintokei — Fintokei Black Friday Challenge Fee Back With First Payout (Challenge Fee Back)
 - Lux Trading Firm — Lux Trading Firm £699 $1M Account Black Friday (30% Off)
-- Upcomers — Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free (90% Off)
-- Hantec Trader — Hantec Trader Cyber Monday Extended: 25% Off All Challenges (25% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
+| 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-09-21 | Upcomers | Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/ |
 | 2025-12-02 | Hantec Trader | Hantec Trader Cyber Monday Extended: 25% Off All Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-cyber-monday-extended-25-off/ |
@@ -39,5 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | ThinkCapital | ThinkCapital Black Friday Sale: 40% OFF + Free Challenge Reward | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-black-friday-40-off-free-challenge/ |
 | 2025-11-28 | The Trading Pit | The Trading Pit Black Friday Sale: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-30-off-all-accounts/ |
 | 2025-11-28 | WSFunded | WSFunded Black Friday Flash Sale: 60% Off 5K & 10K Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-60-off-flash-sale/ |
-| 2025-11-28 | Tradeify | Tradeify Black Friday Sale: 40% OFF Lightning & Growth Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-black-friday-40-off-lightning-growth/ |
-| 2025-11-28 | Tradeify | Tradeify Thanksgiving & Black Friday Sale: 40% OFF Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-thanksgiving-black-friday-40-off/ |
