@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-26 | IC Funded | IC Funded Halloween 40% Off All Challenges | 40% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/ |
 | 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
 | 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-26 | TX3 Funding | TX3 Funding Halloween 35% Off All Accounts Weekend Flash | 35% OFF | 2026-10-25 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/ |
@@ -23,7 +25,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% OFF | 2026-10-31 19:59 | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
 | 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% OFF | 2026-11-01 17:00 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
-| 2026-10-25 | Alpha Trader Firm | Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts | 80% OFF | 2026-10-26 19:00 | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/ |
+| 2026-10-25 | Alpha Trader Firm | Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts | 80% OFF | 2026-10-26 19:00 (ended) | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/ |
 | 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-23 | WeMasterTrade | WeMasterTrade 33% Off All Packages in Flash Sale | 33% OFF | Limited time | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |
 | 2026-10-22 | Goat Funded Trader | Goat Funded Trader 50% Off $100K Account – Expo Deal | 50% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
-| 2026-10-22 | PipFarm | PipFarm 50% Off Accounts Up To 50K Plus 50% Balance | 50% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/ |
-| 2026-10-22 | FundedNext Futures | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |

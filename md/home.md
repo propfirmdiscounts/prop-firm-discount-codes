@@ -11,13 +11,13 @@ The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing
 | 1 | Bulenox | PFD | 91% | Limited time | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | 2 | Phidias Propfirm | PFD | 90% | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | Elite Trader Funding | BULLTOBER | 90% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 4 | Alpha Trader Firm | BIG80 | 80% | Ends Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 4 | Alpha Trader Firm | BIG80 | 80% | Ended Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 5 | RebelsFunding | SEVEN | 73% | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 6 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 7 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | 8 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 9 | Funded Hero | PFD | 62% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 10 | Doji Funding | PFD | 60% | Ended Oct 12, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 10 | Doji Funding | PFD | 60% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 
 ## Exclusive Prop Firm Discount Codes
 
@@ -40,6 +40,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-26 | IC Funded | IC Funded Halloween 40% Off All Challenges | 40% Off | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/ |
 | 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts | 50% Off | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
 | 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-26 | The Concept Trading | The Concept Trading Halloween 45% Off Eligible Programs | 45% Off | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/ |
@@ -56,7 +58,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
 | 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
-| 2026-10-25 | Alpha Trader Firm | Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts | 80% Off | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/ |
 | 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% Off | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% Off | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-22 | FundedNext Futures | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% Off | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% Off | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% Off | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
-| 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% Off | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |

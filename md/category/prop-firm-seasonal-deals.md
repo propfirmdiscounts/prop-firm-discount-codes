@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-26 | IC Funded | IC Funded Halloween 40% Off All Challenges | 40% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/ |
 | 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
 | 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-26 | TX3 Funding | TX3 Funding Halloween 35% Off All Accounts Weekend Flash | 35% OFF | 2026-10-25 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | 2026-11-05 | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
-| 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
-| 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code | 25% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |

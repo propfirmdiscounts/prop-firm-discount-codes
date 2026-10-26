@@ -1,16 +1,15 @@
 # Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts
 
-Alpha Trader Firm is offering 80% off — discount code **BIG80**.
+Alpha Trader Firm was offering 80% off.
 
 > Alpha Trader Firm cuts 80% off $300K-$500K instant funding entry fees, ending Oct 26 at 7 PM EST. Purchase cost only changes, trading rules stay unchanged.
 
 - Published: 2026-10-25
-- Offer ends: 2026-10-26 19:00
+- Offer ends: 2026-10-26 19:00 (ended)
 - Prop firm: Alpha Trader Firm
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 - Summary: This 80% cut lowers $300K-$500K instant funding entry fees to $840-$1,200 until Oct 26 at 7 PM EST while trading rules and risk stay unchanged.
 - Offer: 80% Off
-- Code: BIG80
 - Scope: Forex, Instant Funding Pro, Instant Funding Standard, $300K, $400K, $500K, TradeLocker base fees
 - Deal: https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/
 
