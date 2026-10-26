@@ -137,21 +137,33 @@ jobs:
           except Exception:
               raise SystemExit(0)
           rows = payload if isinstance(payload, list) else payload.get('data', [])
-          best, best_pct = None, -1.0
+          # Collect all firms with discount percentages
+          firms = []
           for r in rows:
               m = re.search(r'(\d+(?:\.\d+)?)\s*%', str(r.get('discount') or ''))
-              if m and float(m.group(1)) > best_pct:
-                  best_pct, best = float(m.group(1)), r
-          if not best:
+              if m:
+                  firms.append((float(m.group(1)), r))
+          # Sort descending by percentage, take top 3
+          firms.sort(key=lambda x: x[0], reverse=True)
+          top3 = firms[:3]
+          if not top3:
               raise SystemExit(0)
-          disc = str(best.get('discount') or '').strip()
-          if re.match(r'^\d+(?:\.\d+)?\s*%$', disc):
-              disc += ' off'
-          line = ("As of {date}, the biggest verified prop firm discount code is "
-                  "**{code}** from {firm} — {disc}. Every firm's code is listed below, "
-                  "newest deals first.").format(
-              date=os.environ['STAMP'][:10], code=best.get('code') or '', firm=best.get('prop_firm') or '',
-              disc=disc)
+          # Build the sentence fragments
+          parts = []
+          for pct, r in top3:
+              code = r.get('code') or ''
+              firm = r.get('prop_firm') or ''
+              parts.append(f"{int(pct)}% OFF code {code} at {firm}")
+          # Join: "X, Y and Z"
+          if len(parts) == 1:
+              joined = parts[0]
+          elif len(parts) == 2:
+              joined = f"{parts[0]} and {parts[1]}"
+          else:
+              joined = ', '.join(parts[:-1]) + f" and {parts[-1]}"
+          line = ("As of {date}, the biggest verified prop firm discount codes are "
+                  "{codes}.").format(
+              date=os.environ['STAMP'][:10], codes=joined)
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n).*?(?=\n\n)',
                       lambda _: line, md, count=1)
