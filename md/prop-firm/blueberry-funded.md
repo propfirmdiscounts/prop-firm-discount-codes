@@ -1,50 +1,44 @@
 # Blueberry Funded Discount Code
 
-No live discount code for Blueberry Funded right now — newest deals and offers are below.
+The newest Blueberry Funded discount code is **Scaryprime** — 35% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
-- Last deal published: 2026-10-13
+- Last deal published: 2026-10-27
 - Trustpilot: 3.4/5 (1739 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-## Most recent deal (ended): Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)
+## Current deal: Blueberry Funded Halloween 35% Off Prime Challenge
 
-- Published: 2026-10-13
-- Offer ends: 2026-10-20 (ended)
-- Offer: 15% Off
-- Scope: All Challenges, 2-Step, 1-Step, Instant Funding, $2.5K to $100K accounts, Synthetics
-- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/
+- Published: 2026-10-27
+- Offer ends: 2026-11-01 18:59
+- Offer: 35% Off
+- Code: Scaryprime
+- Scope: Prime Challenge
+- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/
 
 ## Blueberry Funded deal FAQ
 
-**What discount does Blueberry Funded offer in this promotion?**
+**What discount does Blueberry Funded offer in this Halloween promotion?**
 
-The firm provides a 15% discount on the upfront cost of all new Synthetics challenges. This applies to account sizes from $2.5K up to $100K.
+It cuts Prime Challenge entry cost by 35%. It also adds a second account at no additional cost.
 
-**Which account types are included in the synthetics launch deal?**
+**Which accounts does the Blueberry Funded Halloween offer cover?**
 
-The discount covers the 2-Step Challenge, the 1-Step Challenge and the Instant Funding option. All of these models are specifically for the new synthetic indices market.
+It applies to Prime Challenge only. No other account type is named for this saving.
 
-**What are the loss limits for the 1-Step Synthetics Challenge?**
+**When does the Blueberry Funded Halloween promotion end?**
 
-The 1-Step Challenge features a 4% daily loss limit and an 8% maximum loss limit. It requires an 8% profit target to pass.
+It runs from Tuesday, October 27 to Sunday, November 1, 23:59 UK time. Pricing returns to normal on Monday, November 2.
 
-**Does this promotion change the rules for Instant Funding?**
+**What does the Blueberry Funded Halloween promotion not change?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters for any account type.
-
-**How long is the 15% launch discount available?**
-
-The promotion is valid until Tuesday, 20 October.
-
-**What profit split comes with the Blueberry Funded Synthetics accounts?**
-
-According to the firm's published information, every synthetics plan comes with an 80% profit split.
+It changes purchase pricing only. It does not change trading rules and it does not reduce trading risk.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off)
 - 2026-10-13 - [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) (15% Off) — ended 2026-10-20
 - 2026-10-09 - [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) (30% Off) — ended 2026-10-11
 - 2026-10-09 - [Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/) (35% Off) — ended 2026-10-11
