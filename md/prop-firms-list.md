@@ -39,7 +39,7 @@
 | Goat Funded Trader | CSV | 35% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 5% | standing | 2026-10-24 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| Lucid Trading | PFD | 30% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
+| Lucid Trading | PFD | 30% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 90% | standing | 2026-10-25 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
@@ -47,7 +47,7 @@
 | QT Futures | PFD | 50% | standing | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| TX3 Funding | PFDC | 25% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| TX3 Funding | PFDC | 25% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | standing | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 60% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
