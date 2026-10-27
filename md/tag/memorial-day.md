@@ -5,7 +5,7 @@ The newest Memorial Day prop firm deal is **Earn2Trade Memorial Day Sale: 60% Of
 Newest offers:
 - Earn2Trade — Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts (60% Off)
 - Funded Hero — Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day (55% Off)
-- Alpha Trader Firm — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60% Off)
+- Alpha Funded — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
@@ -13,7 +13,7 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-05-26 | Earn2Trade | Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/ |
 | 2026-05-25 | Funded Hero | Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-55-off-30-bonus-memorial-day/ |
-| 2026-05-25 | Alpha Trader Firm | Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-60-off-memorial-day-2026/ |
+| 2026-05-25 | Alpha Funded | Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-60-off-memorial-day-2026/ |
 | 2026-05-25 | Plutus Trade Base | Plutus Trade Base 50% Off Any Challenge Pricing For Memorial Day | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/50-percent-off-all-challenges-memorial-day/ |
 | 2026-05-25 | Phidias Propfirm | Phidias Propfirm Memorial Day: 50%, 60%, and 80% Off Evaluations | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-memorial-day-discount/ |
 | 2026-05-23 | Alpha Capital Group | Alpha Capital Group 30% Off All Accounts Memorial Day Entry Fee Reduction | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-30-off-all-accounts-memorial-day/ |

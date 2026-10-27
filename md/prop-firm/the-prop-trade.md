@@ -7,38 +7,48 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-07
+- Last deal published: 2026-10-27
 - Trustpilot: 3.6/5 (99 reviews)
 - Activate: https://propfirmdiscount.com/go/theproptrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): thePropTrade 22% Off All Challenges
+## Current deal: thePropTrade Halloween 20% Off All Programmes
 
-- Published: 2026-10-07
-- Offer ends: 2026-10-25 (ended)
-- Offer: 22% Off
-- Scope: All Challenges, All Account Sizes
-- Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/
+- Published: 2026-10-27
+- Offer ends: 2026-10-31 19:59
+- Offer: 20% Off
+- Code: SCARY20
+- Scope: any programme, any account size, first challenge, returning buyer, one code per order
+- Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
 
 ## thePropTrade deal FAQ
 
-**What discount does thePropTrade offer in this birthday promotion?**
+**What discount does thePropTrade offer in this promotion?**
 
-thePropTrade is offering a 22% discount on the upfront cost of purchasing an evaluation account. This reduction applies directly to the initial fee.
+The promotion gives 20% off any programme and any account size for Halloween week. Trading rules stay unchanged.
 
-**Which evaluation accounts are eligible for thePropTrade anniversary deal?**
+**When does the thePropTrade Halloween promotion end?**
 
-The current birthday promotion applies to all challenge types and all account sizes offered by the firm.
+It runs until 31 October, 23:59 UTC. One code applies per order.
 
-**When does thePropTrade birthday promotion expire?**
+**Which programmes and account sizes does the discount cover?**
 
-The promotional pricing is explicitly valid until 25 October, 12:00 PM UTC.
+It covers any programme and any account size. It applies to a first challenge or a fifth challenge.
 
-**Does this thePropTrade discount modify the firm's drawdown limits?**
+**What does the discount not change at thePropTrade?**
 
-No, the active promotion only reduces the initial entry cost. It does not modify trading rules, drawdown limits, or evaluation criteria.
+It does not change trading rules, drawdown limits or evaluation criteria. It only reduces entry cost and does not reduce trading risk.
+
+**Does the promotion include a time limit or a reward share change?**
+
+There is no time limit, with one trade every 30 days keeping an account active. Reward share stays at 80% on every programme and static drawdown stays fixed to the starting balance on 1-Step and 2-Steps Classic programmes.
+
+**How does this Halloween offer compare with the recent 22% thePropTrade offer?**
+
+The recent 7 October offer cut 22% off all challenges. The current offer gives 20% off with broad scope across programmes and account sizes.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-27 - [thePropTrade Halloween 20% Off All Programmes](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) (20% Off)
 - 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off) — ended 2026-10-25

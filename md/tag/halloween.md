@@ -1,16 +1,20 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **Blueberry Funded Halloween 35% Off Prime Challenge** from Blueberry Funded — 35% off (published 2026-10-27). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **Funded Hero 70% Off $100K 3-Step Villain Halloween** from Funded Hero — 70% off (published 2026-10-27). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
-- Blueberry Funded — Blueberry Funded Halloween 35% Off Prime Challenge (35% Off)
-- We Get Funded — We Get Funded 65% Off First 1 Step 50K Challenge (65% Off)
-- TX3 Funding — TX3 Funding Halloween 35% Off Challenge Accounts (35% Off)
+- Funded Hero — Funded Hero 70% Off $100K 3-Step Villain Halloween (70% Off)
+- FundedNext — FundedNext Halloween 20% Off Stellar Accounts From $29.99 (41% Off)
+- Alpha Funded — Alpha Funded Halloween 70% Off Instant Funding Accounts (70% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% OFF | 2026-10-31 | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |
+| 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
+| 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
+| 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% OFF | 2026-10-31 19:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% OFF | 2026-10-28 18:59 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% OFF | 2026-10-31 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
@@ -37,7 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
-| 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
-| 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
-| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
-| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |

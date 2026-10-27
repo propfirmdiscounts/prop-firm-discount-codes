@@ -28,15 +28,15 @@
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
-| Funded Hero | PFD | 62% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| Funded Hero | PFD | 70% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 65% | standing | 2026-09-25 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | Funded Trading Plus | PFD | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedSeat | PFD | 50% | standing | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | standing | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
+| Funding Traders | PFD | 50% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Funding Your Trades | PFD | 2% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTicks | 05EB577C | 40% | standing | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
-| FundingTraders | PFD | 50% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| Goat Funded Trader | CSV | 35% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| Goat Funded Trader | CSV | 35% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 5% | standing | 2026-10-24 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
@@ -53,5 +53,5 @@
 | Top One Futures | PFD | 60% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | standing | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| WeMasterTrade | PFD | 20% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
-| thePropTrade | PFD | 20% | standing | 2026-10-07 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
+| WeMasterTrade | PFD | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| thePropTrade | PFD | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

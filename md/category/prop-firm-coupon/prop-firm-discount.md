@@ -6,6 +6,12 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% OFF | 2026-10-31 | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |
+| 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
+| 2026-10-27 | WeMasterTrade | WeMasterTrade 33% Off All Packages Plus Tiered BOGO | 33% OFF | 2026-11-01 02:59 | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/ |
+| 2026-10-27 | Goat Funded Trader | Goat Funded Trader 8% Off Prediction Market Evaluations | 8% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/ |
+| 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
+| 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% OFF | 2026-10-31 19:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | RebelsFunding | RebelsFunding 70% Off $1,000 Account for €3 | 70% OFF | 2026-10-29 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/ |
 | 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% OFF | 2026-10-28 18:59 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
@@ -30,9 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% OFF | 2026-10-31 19:59 | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
-| 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% OFF | 2026-11-01 17:00 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
-| 2026-10-25 | Alpha Trader Firm | Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts | 80% OFF | 2026-10-26 19:00 (ended) | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/ |
-| 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
-| 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
-| 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
-| 2026-10-23 | Alpha Futures | Alpha Futures 40% Off All Plans – New Dashboard | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |

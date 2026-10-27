@@ -1,12 +1,12 @@
 # FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15
 
-FundingTraders is offering 50% off — discount code **PFD**.
+Funding Traders is offering 50% off — discount code **PFD**.
 
 > This Halloween promotion from FundingTraders cuts the entry fee by 50% across all accounts and includes a free matching account while the $5K 1-Step is listed at $15 per account. The discount lowers purchase pricing only and trading rules stay unchanged.
 
 - Published: 2026-10-19
 - Offer ends: Limited time
-- Prop firm: FundingTraders
+- Prop firm: Funding Traders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Summary: This Halloween promotion cuts the FundingTraders entry cost by 50% across all accounts with a free matching account included while trading rules stay unchanged and trading risk is not reduced by the lower price.
 - Offer: 50% Off

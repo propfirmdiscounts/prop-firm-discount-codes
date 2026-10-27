@@ -25,7 +25,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-03 | TX3 Funding | TX3 Funding 30% Off All Challenges ($5K to $300K) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/ |
 | 2026-07-03 | Goat Funded Trader | Goat Funded Trader: 50% Off All Evaluation Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-independence-day/ |
 | 2026-07-02 | Hola Prime | Hola Prime 40% Off Futures Challenges – Independence Day Sale | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-futures-challenges-independence-day/ |
-| 2026-07-02 | Alpha Trader Firm | Alpha Trader Firm: 60% Off 100K+ Accounts Independence Day Offer | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-independence-day-60-off/ |
+| 2026-07-02 | Alpha Funded | Alpha Trader Firm: 60% Off 100K+ Accounts Independence Day Offer | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-independence-day-60-off/ |
 | 2026-07-02 | My Funded Futures | My Funded Futures: 50% Off Rapid Accounts For First 1,000 Traders | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-50-off-rapid-independence-day/ |
 | 2026-07-01 | Alpha Futures | Alpha Futures: 25% Off Any Account Plan Entry Fee | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-independence-day-25-off/ |
 | 2026-07-01 | FXIFY | FXIFY 30% Off All Eligible Programs and 90% Performance Split Add-On | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/ |

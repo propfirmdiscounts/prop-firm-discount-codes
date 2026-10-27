@@ -1,45 +1,50 @@
 # FundedNext Discount Code
 
-The newest FundedNext discount code is **STRTN** — 32% off (October 12, 2026). The campaign code changes with each promotion; newest first below.
+The newest FundedNext discount code is **FNTRICK** — 41% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-12
+- Last deal published: 2026-10-27
 - Trustpilot: 4.5/5 (82301 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 
-## Current deal: FundedNext October Promotion: Stellar Accounts Starting at $29.99
+## Current deal: FundedNext Halloween 20% Off Stellar Accounts From $29.99
 
-- Published: 2026-10-12
+- Published: 2026-10-27
 - Offer ends: Limited time
-- Offer: 32% Off
-- Code: STRTN
-- Scope: Stellar Lite 5K, Stellar 2-Step 6K, Stellar 1-Step 6K, Stellar Instant 2K, October promotion
-- Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/
+- Offer: 41% Off
+- Code: FNTRICK
+- Scope: Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, new users, existing users
+- Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
 
 ## FundedNext deal FAQ
 
-**What accounts are eligible for the $29.99 price?**
+**What discount does FundedNext offer in this Halloween promotion?**
 
-The $29.99 fixed price applies specifically to the Stellar Lite 5K account during this October promotion.
+FundedNext cuts 20% off eligible Stellar accounts and up to 41% off selected Stellar accounts. The selected accounts carry fixed prices from $29.99 instead of a percentage cut alone.
 
-**Does the promotion apply to Instant Funding models?**
+**Which Stellar account sizes get the 20% cut?**
 
-Yes, the Stellar Instant 2K account is included and priced at $49.99. This changes the purchase cost only and does not alter any trading rules or drawdown limits.
+The 20% cut covers Stellar 2-Step at 15K, 25K and 50K, Stellar 1-Step at the same three sizes, Stellar Lite at 10K and 25K and Stellar Instant at 5K, 10K and 20K. Sizes outside that list fall outside the 20% cut.
 
-**How much is the Stellar 6K account under this offer?**
+**What are the fixed prices for the selected small accounts?**
 
-The pricing depends on the model chosen: the 2-Step 6K is reduced to $39.99, while the 1-Step 6K is reduced to $49.99.
+Stellar 2-Step 6K costs $34.99, Stellar 1-Step 6K costs $44.99, Stellar Lite 5K costs $29.99 and Stellar Instant 2K costs $49.99. Those four prices sit inside the up to 41% off part of the offer.
 
-**Are there any changes to the evaluation rules?**
+**Who can use this FundedNext offer?**
 
-No. The active discount only reduces the initial challenge fee. All profit targets, risk parameters and trading rules remain fully intact.
+New and existing users can use the offer. Redemptions are unlimited, subject to the conditions stated with the offer.
 
-**Is this offer valid for all users?**
+**What falls outside this promotion?**
 
-Yes, the promotional materials indicate that these reduced entry costs are applicable for all users purchasing the specified account sizes in October.
+Resets fall outside the offer, as do accounts above 50K. The Double-Up add-on is disabled during this promotion.
+
+**Does the discount change FundedNext trading rules?**
+
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry cost does not reduce trading risk.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-27 - [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) (41% Off)
 - 2026-10-12 - [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) (32% Off)
 - 2026-10-01 - [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) (Only $29.99)
 - 2026-09-15 - [FundedNext 20% Off New or 15% Off Existing 50K Stellar Evaluation Accounts](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) (20% Off)

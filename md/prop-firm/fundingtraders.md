@@ -1,6 +1,6 @@
-# FundingTraders Discount Code
+# Funding Traders Discount Code
 
-The verified FundingTraders discount code is **PFD** — Up to 50% off, works any time.
+The verified Funding Traders discount code is **PFD** — Up to 50% off, works any time.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere. Led by a veteran Wall Street Trader.
 
@@ -22,7 +22,7 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Scope: All accounts, 1-Step, $5K example price, BOGO free matching account
 - Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/
 
-## FundingTraders deal FAQ
+## Funding Traders deal FAQ
 
 **What discount does FundingTraders offer in this Halloween promotion?**
 

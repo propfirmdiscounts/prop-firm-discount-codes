@@ -11,7 +11,7 @@
 | 5 | The5ers | 4.7 | 40536 | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | 6 | OneUp Trader | 4.7 | 2801 | https://propfirmdiscount.com/prop-firm/oneup-trader/ |
 | 7 | Bulenox | 4.7 | 1826 | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 8 | Alpha Trader Firm | 4.7 | 1243 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 8 | Alpha Funded | 4.7 | 1243 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 9 | Breakout Prop | 4.7 | 1231 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |
 | 10 | BluSky Trading | 4.7 | 953 | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
 | 11 | The Concept Trading | 4.7 | 470 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
@@ -99,7 +99,7 @@
 | 93 | BrightFunded | 3.2 | 574 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
 | 94 | Atmos Funded | 3.2 | 348 | https://propfirmdiscount.com/prop-firm/atmos-funded/ |
 | 95 | Fundex | 3.2 | 41 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| 96 | FundingTraders | 3.1 | 3281 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 96 | Funding Traders | 3.1 | 3281 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 97 | Funded Trader Markets | 3.1 | 445 | https://propfirmdiscount.com/prop-firm/funded-trader-markets/ |
 | 98 | Phidias Propfirm | 3.1 | 336 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 99 | TX3 Funding | 3 | 4311 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |

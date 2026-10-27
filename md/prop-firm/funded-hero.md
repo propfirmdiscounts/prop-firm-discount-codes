@@ -7,49 +7,50 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-27
 - Trustpilot: 4.0/5 (439 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Hero 62% Off All Accounts Plus BOGO Deal
+## Current deal: Funded Hero 70% Off $100K 3-Step Villain Halloween
 
-- Published: 2026-10-20
-- Offer ends: Limited time
-- Offer: 62% Off
+- Published: 2026-10-27
+- Offer ends: 2026-10-31
+- Offer: 70% Off
 - Code: PFD
-- Scope: All accounts, $100K 3-Step Hero, 3-Step evaluation
-- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/
+- Scope: all challenges, 3-Step Villain, $100K account
+- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
 
 ## Funded Hero deal FAQ
 
-**What discount does Funded Hero offer in this promotion?**
+**What discount does Funded Hero offer in this Halloween promotion?**
 
-The promotion gives 62% off all accounts and adds Buy One Get One, which is the purchase of a second evaluation account at no additional cost. The featured $100K 3-Step Hero is the clearest example of the pricing.
+Funded Hero offers 70% off every challenge in this Halloween promotion. The $100K 3-Step Villain example falls from $358 to $107.40.
 
-**How much does the $100K 3-Step Hero cost under this Funded Hero promotion?**
+**Which account does the priced example cover?**
 
-The $100K 3-Step Hero is priced at $186.96 against a regular price of $492.00. That is a saving of $305.04 on the featured account.
+The priced example is the $100K 3-Step Villain challenge. No other account size is priced in full in this offer.
 
-**What are the step targets for the Funded Hero 3-Step Hero?**
+**What are the step targets and drawdown limits for the 3-Step Villain challenge?**
 
-The three steps carry targets of 8% for Step 1, 5% for Step 2 and 5% for Step 3. The challenge is presented as a structured path with a defined goal at each stage.
+Step targets are 10% for Step 1, 6% for Step 2 and 6% for Step 3. Daily drawdown is 5% and total drawdown is 10%.
 
-**What drawdown limits apply to the $100K 3-Step Hero?**
+**Are news trading and trading bots allowed in Step 1?**
 
-The stated limits are a 6% daily drawdown and a 12% total drawdown. There are no minimum trading days in Step 1, while news trading and trading bots are allowed.
+News trading is allowed and trading bots are allowed in this challenge. Step 1 carries no minimum trading days.
 
-**Does this Funded Hero discount change the trading rules or lower the risk?**
+**When does the Funded Hero Halloween sale end?**
 
-No. The promotion changes the purchase price only and states no change to the step targets or to either drawdown limit, so a lower entry cost does not reduce trading risk.
+The Halloween sale runs until 31 October 2026. No time of day is stated for that deadline.
 
-**Who may this Funded Hero promotion suit?**
+**What does this promotion not change for Funded Hero buyers?**
 
-It may suit buyers who prefer a step-by-step evaluation with clear targets at each stage and who were already considering an account at the regular price. Buyers who are uncomfortable with the three-step structure or the drawdown limits should be cautious despite the lower price.
+The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. A lower entry cost does not reduce trading risk.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off)
 - 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
 - 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
 - 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)

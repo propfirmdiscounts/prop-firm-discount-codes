@@ -11,20 +11,20 @@ The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing
 | 1 | Bulenox | PFD | 91% | Limited time | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | 2 | Phidias Propfirm | PFD | 90% | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | Elite Trader Funding | BULLTOBER | 90% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 4 | Alpha Trader Firm | BIG80 | 80% | Ended Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 4 | Alpha Funded | BIG80 | 80% | Ended Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 5 | RebelsFunding | SEVEN | 73% | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 6 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 7 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 8 | We Get Funded | FED65 | 65% | Ends Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
-| 9 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 10 | Funded Hero | PFD | 62% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 6 | Funded Hero | PFD | 70% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 7 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
+| 8 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
+| 9 | We Get Funded | FED65 | 65% | Ends Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
+| 10 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 
 ## Exclusive Prop Firm Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 62% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 2 | Funded Hero | PFD | 70% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | Top One Futures | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | FundedSeat | PFD | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
@@ -40,6 +40,12 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |
+| 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% Off | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
+| 2026-10-27 | WeMasterTrade | WeMasterTrade 33% Off All Packages Plus Tiered BOGO | 33% Off | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/ |
+| 2026-10-27 | Goat Funded Trader | Goat Funded Trader 8% Off Prediction Market Evaluations | 8% Off | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/ |
+| 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% Off | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
+| 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% Off | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | RebelsFunding | RebelsFunding 70% Off $1,000 Account for €3 | 70% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/ |
 | 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% Off | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
@@ -64,9 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
 | 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
-| 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% Off | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
-| 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% Off | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
-| 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
-| 2026-10-23 | Alpha Futures | Alpha Futures 40% Off All Plans – New Dashboard | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
-| 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% Off | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
-| 2026-10-23 | Top One Futures | Top One Futures X-Daily Spark: Start for $39 | Only $39 | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |

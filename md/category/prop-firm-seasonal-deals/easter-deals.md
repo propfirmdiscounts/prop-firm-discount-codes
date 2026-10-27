@@ -26,7 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-04-02 | SFX Funded | SFX Funded Easter Promo: 80K Instant Funded Account for $88 | Only $88 | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-easter-80k-instant-88/ |
 | 2026-04-02 | Hantec Trader | Hantec Trader 25% Off All Programs Easter Promotion | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-25-off-all-programs-easter-promotion/ |
 | 2026-04-02 | AudaCity Capital | AudaCity Capital: 25% Off All Programs Challenge Pricing | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-25-off-all-programs-3/ |
-| 2026-04-02 | FundingTraders | Funding Traders Easter Promotion: 40% Off & Buy 1 Get 1 Free | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/ |
+| 2026-04-02 | Funding Traders | Funding Traders Easter Promotion: 40% Off & Buy 1 Get 1 Free | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/ |
 | 2026-04-02 | WSFunded | WSFunded 40% Easter Discount on Evaluation Accounts ($2.5k-$25k) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-easter-discount-evaluation-accounts/ |
 | 2026-04-02 | Blueberry Funded | Blueberry Funded 30% Off 2-Step Challenge Entry Cost | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-2-step-challenge/ |
 | 2026-04-02 | Hola Prime | Hola Prime Easter Sale: 40% Off Forex Challenges From $5K to $100K | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-easter-40-percent-discount-forex-challenges/ |

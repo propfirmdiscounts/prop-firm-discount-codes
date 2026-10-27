@@ -6,6 +6,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% OFF | 2026-10-31 | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |
+| 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
+| 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
+| 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% OFF | 2026-10-31 19:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% OFF | 2026-10-28 18:59 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% OFF | 2026-10-31 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
@@ -32,7 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
-| 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
-| 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
-| 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
-| 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
