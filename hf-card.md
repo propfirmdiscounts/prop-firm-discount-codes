@@ -20,7 +20,7 @@ size_categories:
 [![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 
 <!-- pfd-top-code (auto-updated each sync) -->
-As of 2026-10-27, the biggest verified prop firm discount codes are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 60% OFF with code PFD at Top One Futures, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFD at FundedSeat.
+As of 2026-10-28, the biggest verified prop firm discount codes are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 60% OFF with code PFD at Top One Futures, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFD at FundedSeat.
 
 <!-- pfd-exclusive (auto-updated each sync) -->
 ## Exclusive Prop Firm Discount Codes
@@ -83,7 +83,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-27T21:26:30Z (auto, hourly)
+Last synced: 2026-10-28T00:39:27Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
