@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Limited time | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-16 | Forexive | Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target | Entry Fee | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/ |
 | 2026-06-14 | Funded Hero | Funded Hero Offers $1K 2-Step Villain Account for $1 | Only $1 | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-1k-villain-account-deal/ |
 | 2026-06-11 | Blue Guardian | Blue Guardian: Up To 45% Off 2-Step Challenges Entry Fee | 45% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-off-2-step-challenges-june/ |
-| 2026-06-09 | Trade The Pool | Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026 | Free retry credit | Ended | - | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/ |

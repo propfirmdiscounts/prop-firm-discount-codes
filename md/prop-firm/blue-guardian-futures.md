@@ -1,11 +1,11 @@
 # Blue Guardian Futures Discount Code
 
-The verified Blue Guardian Futures discount code is **PFD** — Up to 25% off, works any time.
+The verified Blue Guardian Futures discount code is **PFD** — Up to 35% off, works any time.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity. Many skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier — giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.
 
 - Code: PFD
-- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-17
 - Trustpilot: 3.7/5 (1667 reviews)

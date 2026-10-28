@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-49 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+51 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -10,7 +10,7 @@
 | AquaFunded | PFD | 25% | standing | 2026-10-25 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | Atlas Funded | PFD | 50% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | Blue Guardian | PFD | 25% | standing | 2026-10-20 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| Blue Guardian Futures | PFD | 25% | standing | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| Blue Guardian Futures | PFD | 35% | standing | 2026-06-22 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Bulenox | PFD | 91% | standing | 2026-10-07 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | CK PropFirm | PFD | 10% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
@@ -22,8 +22,8 @@
 | Earn2Trade | PFD | 50% | standing | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | standing | 2026-08-03 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
 | FXIFY | FXIFY2WRIVW | 10% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/fxify/ |
-| Finotive Funding | JACKICHUN | 25% | standing | 2026-10-01 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| Finotive Futures | PFDDEAL | 25% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| Finotive Funding | JACKICHUN | 25% | standing | 2026-10-28 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| Finotive Futures | PFDDEAL | 25% | standing | 2026-10-28 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | For Traders | VGYCKXLTY9 | 15% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/forexive/ |
@@ -31,6 +31,8 @@
 | Funded Hero | PFD | 70% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 65% | standing | 2026-09-25 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | Funded Trading Plus | PFD | 10% | standing | 2026-10-14 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| FundedNext | PFDC | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| FundedNext Futures | PFDC | 20% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
 | FundedSeat | PFD | 50% | standing | 2026-09-03 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | standing | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Traders | PFD | 50% | standing | 2026-10-19 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |

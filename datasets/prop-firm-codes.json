@@ -2,7 +2,7 @@
     "dataset": "prop firm discount codes",
     "publisher": "propfirmdiscount.com",
     "schema": "coupon_dataset_v2",
-    "count": 49,
+    "count": 51,
     "data": [
         {
             "prop_firm": "Finotive Funding",
@@ -10,7 +10,7 @@
             "discount": "25%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-01",
+            "last_deal_published": "2026-10-28",
             "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
             "archive_url": "https://propfirmdiscount.com/prop-firm/finotive-funding/",
             "trustpilot_score": 3.2,
@@ -414,6 +414,19 @@
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2022/08/fundedtradingplus-logo.png"
         },
         {
+            "prop_firm": "FundedNext",
+            "code": "PFDC",
+            "discount": "20%",
+            "valid_from": "2026-01-01",
+            "valid_until": "2026-12-31",
+            "last_deal_published": "2026-10-27",
+            "activation_link": "https://propfirmdiscount.com/go/fundednext",
+            "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext/",
+            "trustpilot_score": 4.5,
+            "trustpilot_reviews": 82301,
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-logo.jpg"
+        },
+        {
             "prop_firm": "thePropTrade",
             "code": "PFD",
             "discount": "20%",
@@ -594,7 +607,7 @@
         {
             "prop_firm": "Blue Guardian Futures",
             "code": "PFD",
-            "discount": "25%",
+            "discount": "35%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
             "last_deal_published": "2026-06-22",
@@ -634,12 +647,25 @@
             "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_futures_logo_2.jpg"
         },
         {
+            "prop_firm": "FundedNext Futures",
+            "code": "PFDC",
+            "discount": "20%",
+            "valid_from": "2026-01-01",
+            "valid_until": "2026-12-31",
+            "last_deal_published": "2026-10-22",
+            "activation_link": "https://propfirmdiscount.com/go/fundednextfutures",
+            "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext-futures/",
+            "trustpilot_score": 4.5,
+            "trustpilot_reviews": 82301,
+            "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-futures-logo-2.jpg"
+        },
+        {
             "prop_firm": "Finotive Futures",
             "code": "PFDDEAL",
             "discount": "25%",
             "valid_from": "2026-01-01",
             "valid_until": "2026-12-31",
-            "last_deal_published": "2026-10-22",
+            "last_deal_published": "2026-10-28",
             "activation_link": "https://propfirmdiscount.com/go/finotivefutures",
             "archive_url": "https://propfirmdiscount.com/prop-firm/finotive-futures/",
             "trustpilot_score": 3.8,

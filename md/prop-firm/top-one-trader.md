@@ -1,51 +1,51 @@
 # Top One Trader Discount Code
 
-The newest Top One Trader discount code is **LAUNCHPAD** — 50% off (October 7, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Top One Trader right now — newest deals and offers are below.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
-- Last deal published: 2026-10-08
+- Last deal published: 2026-10-28
 - Trustpilot: 4.4/5 (3487 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-## Current deal: Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)
+## Current deal: Top One Trader Halloween Up to 70% Off Sitewide
 
-- Published: 2026-10-07
-- Offer ends: Limited time
-- Offer: 50% Off
-- Code: LAUNCHPAD
-- Scope: X-DAILY accounts, $5K size, $100K size, limited to 500 purchases
-- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/
+- Published: 2026-10-28
+- Offer ends: 2026-10-31
+- Offer: 70% Off
+- Scope: sitewide, all purchases, mystery reward per purchase
+- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/
 
 ## Top One Trader deal FAQ
 
-**What discount does Top One Trader offer in this promotion?**
+**What discount does Top One Trader offer in this Halloween promotion?**
 
-The firm is offering a 50% discount on the upfront entry fee for their newly launched X-DAILY evaluation accounts. This special pricing is part of their 3rd-anniversary celebration.
+Up to 70% off sitewide. Every purchase also brings a mystery reward, which may be store credit, free resets or up to 90% off a funded account.
 
-**Are there limits on how many X-DAILY accounts are available?**
+**What can the mystery reward be?**
 
-Yes, the promotional pricing is strictly capped at the first 500 account purchases. Once this limit is reached, the offer may be withdrawn.
+It may be store credit for a next account, free resets or up to 90% off a funded account. The exact reward stays hidden until after purchase, so no specific form is promised in advance.
 
-**Does the 50% discount change the evaluation rules?**
+**When does the Top One Trader Halloween offer end?**
 
-No, the discount only reduces the initial purchase price. It does not modify trading rules, drawdown limits, or the 40% consistency rule required during the evaluation phase.
+It ends Halloween night, Saturday, October 31. No separate end date is given for the mystery reward itself.
 
-**How much are the X-DAILY accounts with the discount?**
+**What does this Top One Trader promotion not change?**
 
-With the 50% reduction applied, the one-time payment starts at $33 for a $5K account and is $300 for a $100K account.
+It does not change trading rules, drawdown limits or risk parameters. The offer lowers entry cost only and does not reduce trading risk.
 
-**What are the payout rules for the X-DAILY account?**
+**Who may find this Top One Trader offer relevant?**
 
-Traders can request a payout any day of the week, with up to a $2,000 daily limit on a $100K account. Additionally, there is no consistency rule once the account successfully reaches the funded stage.
+It may suit a buyer who planned a purchase across the firm's lineup and values a lower entry price. It may be less relevant for a buyer who needs a known extra reward before buying.
 
-**Are there any time constraints on the X-DAILY evaluation?**
+**Does every purchase get a mystery reward?**
 
-The X-DAILY evaluation model features no maximum time limits and no minimum trading days, allowing for a flexible testing period.
+Yes, every purchase gets its own mystery reward. Each account bought brings another reward to open, with the form revealed only after purchase.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off)
 - 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)
 - 2026-10-01 - [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) (40% Off)
 - 2026-09-04 - [Top One Trader Up To 70% Off Instant Funding Entry Fee](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-up-to-70-percent-off-instant-funding/) (70% Off)

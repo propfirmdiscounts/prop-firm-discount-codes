@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
+| 2026-10-28 | Finotive Futures | Finotive Futures Halloween Up to 50% Off Instant Accounts | 50% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/ |
+| 2026-10-28 | Finotive Funding | Finotive Funding Halloween 50% Off All Challenges | 50% OFF | 2026-11-01 00:00 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/ |
 | 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% OFF | 2026-10-31 | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |
 | 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
 | 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
@@ -153,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-09 | Alpha Funded | Alpha Trader Firm Halloween Sale — 40% OFF All Challenges (Limited-Time) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-40-off-all-challenges/ |
 | 2025-10-08 | Instant Funding | Instant Funding Halloween — 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/ |
 | 2025-10-01 | My Funded Futures | My Funded Futures Halloween — Core Plan + Flex for $59, Triple Payout Cap to $15K | Only $59 | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-halloween-core-plus-flex-59-triple-payout-cap-15k/ |
-| 2024-10-28 | AquaFunded | AquaFunded Halloween Special: 30% OFF + 120% Refund Limited Deal | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-30-off-120-refund/ |

@@ -7,48 +7,50 @@ The verified Finotive Futures discount code is **PFDDEAL** — Up to 25% off, wo
 - Code: PFDDEAL
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-22
+- Last deal published: 2026-10-28
 - Trustpilot: 3.8/5 (8 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Finotive Futures: 50% Off Instant, 40% Off One Step
+## Current deal: Finotive Futures Halloween Up to 50% Off Instant Accounts
 
-- Published: 2026-10-22
-- Offer ends: 2026-10-25 17:59 (ended)
+- Published: 2026-10-28
+- Offer ends: 2026-10-31
 - Offer: 50% Off
-- Scope: Instant accounts, One Step accounts, free account on first payout, futures
-- Deal page: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/
+- Code: BOO
+- Scope: Instant accounts, One Step accounts, free next account after first payout, $500K account giveaway entry
+- Deal page: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/
 
 ## Finotive Futures deal FAQ
 
 **What discount does Finotive Futures offer in this promotion?**
 
-Instant accounts are cut by 50% and One Step accounts are cut by 40%. A free account of the same type and size is also credited after the first payout.
+Finotive Futures offers 50% off every Instant account and 40% off every One Step account in this Halloween promotion. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**How does the free account part work at Finotive Futures?**
+**Which accounts does the Finotive Futures Halloween promotion cover?**
 
-Buy an Instant or One Step account before Sunday, 25 October. Reach a first payout and the firm credits a free account at the same type and size with a limit of one free account per trader.
+The promotion covers every Instant account and every One Step account. No other account type is named in the promotion details.
 
-**When does this Finotive Futures promotion end?**
+**How does the free next account work at Finotive Futures?**
 
-It ends Sunday, 25 October at 11:59 PM CET. That date applies to purchases made for this offer.
+A buyer purchases an Instant or One Step account before November 1, trades it and takes a first payout. Once that payout is processed, the next account is issued free, limited to one per user.
 
-**What does this Finotive Futures promotion not change?**
+**How does the $500K account giveaway entry work?**
 
-It changes purchase pricing only. It does not modify trading rules, drawdown limits, or risk parameters and it does not reduce trading risk.
+Every account bought before November 1 counts as one entry into a $500K account giveaway of free accounts. Buying more accounts gives more entries, while entry alone does not guarantee a win.
 
-**Which account types are covered at Finotive Futures?**
+**When does the Finotive Futures Halloween promotion end?**
 
-Instant accounts and One Step accounts are covered. Instant is presented as a direct funded path and One Step is described with one target, no minimum trading days and no consistency rule.
+Accounts must be bought before November 1 to receive the discount, the free next account eligibility and giveaway entry. No other calendar date is stated in the promotion details.
 
-**Who may this Finotive Futures offer suit?**
+**What does not change under this Finotive Futures promotion?**
 
-It may suit buyers who were already comparing Instant or One Step accounts on purchase price. Buyers should be cautious if the lower price is the only reason for the purchase because the free account depends on a first payout.
+Trading rules, drawdown limits and risk parameters do not change under this promotion. Payouts remain on demand, the fee remains a one-time fee and One Step accounts carry no consistency rule and no minimum trading days.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-28 - [Finotive Futures Halloween Up to 50% Off Instant Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/) (50% Off)
 - 2026-10-22 - [Finotive Futures: 50% Off Instant, 40% Off One Step](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) (50% Off) — ended 2026-10-25 17:59
 - 2026-10-02 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) (50% Off)
 - 2026-09-25 - [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) (50% Off)

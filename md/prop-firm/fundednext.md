@@ -1,11 +1,15 @@
 # FundedNext Discount Code
 
-The newest FundedNext discount code is **FNTRICK** — 41% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
+The verified FundedNext discount code is **PFDC** — Up to 20% off, works any time.
 
+- Code: PFDC
+- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
 - Trustpilot: 4.5/5 (82301 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
+- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Current deal: FundedNext Halloween 20% Off Stellar Accounts From $29.99
 

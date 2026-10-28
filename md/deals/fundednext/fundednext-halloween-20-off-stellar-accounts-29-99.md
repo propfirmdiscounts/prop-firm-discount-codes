@@ -13,6 +13,7 @@ FundedNext is offering 41% off — discount code **FNTRICK**.
 - Code: FNTRICK
 - Scope: Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, new users, existing users
 - Deal: https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
+- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

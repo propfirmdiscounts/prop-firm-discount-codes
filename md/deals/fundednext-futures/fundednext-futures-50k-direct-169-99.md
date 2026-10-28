@@ -13,6 +13,7 @@ FundedNext Futures is offering 40.1% off — discount code **FNDIRECT**.
 - Code: FNDIRECT
 - Scope: Instant Funded, Direct, 50K account, Futures, No profit goal
 - Deal: https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
+- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
