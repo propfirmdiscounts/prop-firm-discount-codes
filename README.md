@@ -6,7 +6,7 @@
 As of 2026-10-29, the biggest verified prop firm discount codes are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero, 60% OFF with code PFD at Top One Futures, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFD at FundedSeat.
 
 <!-- pfd-exclusive (auto-updated each sync) -->
-## Exclusive Prop Firm Discount Codes
+## Prop Firms with the Highest Exclusive Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@ Note: the `discount` field is the code's headline discount. Per-plan percentages
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T13:31:14Z (auto, hourly)
+Last synced: 2026-10-29T14:00:20Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
