@@ -40,6 +40,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-29 | FTUK | FTUK Halloween 35% Off Flex Funded Activation Fee | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/ |
 | 2026-10-29 | Hola Prime | Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges | 50% Off | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% Off | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-28 | Finotive Futures | Finotive Futures Halloween Up to 50% Off Instant Accounts | 50% Off | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/ |
@@ -69,4 +70,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Funded Elite | Funded Elite Halloween 40% Off Five Challenge Models | 40% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 50% Off Plus Free Account | 50% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 60% Off Challenge Entry | 60% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/ |
-| 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% Off | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
