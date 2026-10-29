@@ -1,6 +1,6 @@
 # We Get Funded Discount Code
 
-The newest We Get Funded discount code is **FED65** — 65% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for We Get Funded right now — newest deals and offers are below.
 
 > WeGetFunded is an innovative French prop firm, created by Traders for Traders. We offer a unique experience, combining flexibility and growth opportunities tailored to every trader profile. Our challenges, available in one step or two steps, are accessible on a modern and responsive platform, ensuring optimal conditions for your progress. Additionally, we offer the possibility to be funded up to $800,000. Join a dynamic community and take the next step in your trading journey with WeGetFunded.
 
@@ -9,12 +9,11 @@ The newest We Get Funded discount code is **FED65** — 65% off (October 27, 202
 - Activate: https://propfirmdiscount.com/go/wegetfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 
-## Current deal: We Get Funded 65% Off First 1 Step 50K Challenge
+## Most recent deal (ended): We Get Funded 65% Off First 1 Step 50K Challenge
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-28 18:59
+- Offer ends: 2026-10-28 18:59 (ended)
 - Offer: 65% Off
-- Code: FED65
 - Scope: 1 Step, 2 Steps, first purchase, single use
 - Deal page: https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/
 
@@ -46,7 +45,7 @@ A buyer who already made a first purchase should be cautious, since the offer is
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [We Get Funded 65% Off First 1 Step 50K Challenge](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/) (65% Off)
+- 2026-10-27 - [We Get Funded 65% Off First 1 Step 50K Challenge](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/) (65% Off) — ended 2026-10-28 18:59
 - 2026-10-20 - [We Get Funded: 50K 1 Step first challenge at 48.30 €](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/) (Only €48.30) — ended 2026-10-21
 - 2026-10-09 - [We Get Funded: Buy 1 Get 3 Free Accounts Offer](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-offer/) (Buy 1 Get 3) — ended 2026-10-09
 - 2026-09-29 - [We Get Funded Buy 1 Get 3 Free Accounts Promotion](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-promotion-2/) (Buy 1 Get 3)

@@ -1,16 +1,15 @@
 # We Get Funded 65% Off First 1 Step 50K Challenge
 
-We Get Funded is offering 65% off — discount code **FED65**.
+We Get Funded was offering 65% off.
 
 > We Get Funded cuts 65% off a first 1 Step 50K challenge to EUR 48.30 from EUR 138 for Halloween until October 28 at 11:59 PM Paris time.
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-28 18:59
+- Offer ends: 2026-10-28 18:59 (ended)
 - Prop firm: We Get Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 - Summary: 65% off drops a first 1 Step 50K challenge from EUR 138 to EUR 48.30 with rules unchanged until October 28 at 11:59 PM Paris time.
 - Offer: 65% Off
-- Code: FED65
 - Scope: 1 Step, 2 Steps, first purchase, single use
 - Deal: https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/
 

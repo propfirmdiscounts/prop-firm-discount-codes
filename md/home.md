@@ -16,7 +16,7 @@ The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing
 | 6 | Funded Hero | PFD | 70% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 7 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 8 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 9 | We Get Funded | FED65 | 65% | Ends Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
+| 9 | We Get Funded | FED65 | 65% | Ended Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
 | 10 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 
 ## Exclusive Prop Firm Discount Codes
@@ -51,7 +51,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% Off | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | RebelsFunding | RebelsFunding 70% Off $1,000 Account for €3 | 70% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/ |
-| 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% Off | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
 | 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
@@ -70,3 +69,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | QT Funded | QT Funded Halloween 50% Off Plus Free Account | 50% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 60% Off Challenge Entry | 60% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/ |
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% Off | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
+| 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
