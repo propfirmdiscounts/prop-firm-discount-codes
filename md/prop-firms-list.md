@@ -44,7 +44,7 @@
 | Lucid Trading | PFD | 30% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 90% | standing | 2026-10-25 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 20% | standing | 2026-10-15 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
-| PipFarm | PFDC | 30% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| PipFarm | PFDC | 30% | standing | 2026-10-29 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | QT Funded | PFD | 50% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | standing | 2026-01-19 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
@@ -55,5 +55,5 @@
 | Top One Futures | PFD | 60% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | standing | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| WeMasterTrade | PFD | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| WeMasterTrade | PFD | 20% | standing | 2026-10-29 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | thePropTrade | PFD | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

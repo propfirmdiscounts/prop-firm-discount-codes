@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
+| 2026-10-29 | Ment Funding | Ment Funding 30% Off Halloween Challenge Entry Cost | 30% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/ |
+| 2026-10-29 | WeMasterTrade | WeMasterTrade Halloween 36% Off All Packages Deal | 36% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
 | 2026-10-29 | FTUK | FTUK Halloween 35% Off Flex Funded Activation Fee | 35% OFF | 2026-10-30 19:59 | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-28 | Finotive Futures | Finotive Futures Halloween Up to 50% Off Instant Accounts | 50% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/ |
@@ -153,6 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-14 | AquaFunded | Aqua Funded — 40% OFF + 150% Refund (Limited Time) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aqua-funded-40-off-150-refund-limited-time/ |
 | 2025-10-14 | Blue Guardian | Blue Guardian — 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/ |
 | 2025-10-14 | Funding Traders | FundingTraders — 50% OFF Instant-Funded Accounts (Halloween Promo, Ends Nov 1) | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-instant-funded-accounts-halloween-promo-ends-nov-1/ |
-| 2025-10-14 | Bullwaves Prime | Bullwaves Prime — 20% OFF Step 2 Challenges + Biggest Giveaway (Ends Oct 31) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-step-2-challenges-biggest-giveaway-ends-oct-31/ |
-| 2025-10-09 | Alpha Funded | Alpha Trader Firm Halloween Sale — 40% OFF All Challenges (Limited-Time) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-40-off-all-challenges/ |
-| 2025-10-08 | Instant Funding | Instant Funding Halloween — 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/ |

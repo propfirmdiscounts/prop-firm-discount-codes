@@ -1,46 +1,44 @@
 # Ment Funding Discount Code
 
-No live discount code for Ment Funding right now — newest deals and offers are below.
+The newest Ment Funding discount code is **TREATMENT** — 30% off (October 29, 2026). The campaign code changes with each promotion; newest first below.
 
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
-- Last deal published: 2026-10-15
+- Last deal published: 2026-10-29
 - Trustpilot: 4.5/5 (233 reviews)
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 
-## Most recent deal (ended): Ment Funding 50% Off PropX Accounts Up to $100K
+## Current deal: Ment Funding 30% Off Halloween Challenge Entry Cost
 
-- Published: 2026-10-15
-- Offer ends: 2026-10-25 (ended)
-- Offer: 50% Off
-- Scope: PropX Platform, Up to $100K, All Other Platforms, One-Step Evaluations
-- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/
+- Published: 2026-10-29
+- Offer ends: 2026-10-31
+- Offer: 30% Off
+- Code: TREATMENT
+- Scope: Ment Funding accounts, 100-spot limit
+- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/
 
 ## Ment Funding deal FAQ
 
-**What discount does Ment Funding provide in this promotion?**
+**What discount does Ment Funding offer in this promotion?**
 
-Ment Funding reduces the entry cost of PropX evaluations up to $100K by 50%. All other platforms and larger account sizes receive a 40% discount.
+Ment Funding offers 30% off entry costs in this Halloween promotion. The offer is limited to 100 spots and ends October 31.
 
-**Does this offer change the one-step evaluation rules?**
+**When does the Ment Funding promotion end?**
 
-No. The promotion only reduces the upfront challenge cost and leaves the single-step evaluation requirements and trading parameters completely unchanged.
+The promotion ends October 31. It is also limited to 100 spots.
 
-**When does this promotional rate expire?**
+**What does this Ment Funding discount not change?**
 
-The discount window is strictly valid until October 25.
+The discount does not change trading rules, drawdown limits or evaluation criteria. It lowers the entry cost only and does not lower trading risk.
 
-**Are payout timelines affected by the reduced entry fee?**
+**How can a buyer apply the active Ment Funding promotion?**
 
-Payout schedules remain exactly as standard. Ment Funding maintains its 24 to 48-hour payout processing timeline for funded participants who enter under this promotion.
-
-**Can I get the 50% rate on a $200K PropX account?**
-
-No. The 50% rate is strictly capped at PropX accounts up to $100K. Any account above that size will receive the 40% discount instead.
+Follow the Start here link at the end of this article to reach the official site. The active promotion applies through that official site route.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-29 - [Ment Funding 30% Off Halloween Challenge Entry Cost](https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/) (30% Off)
 - 2026-10-15 - [Ment Funding 50% Off PropX Accounts Up to $100K](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/) (50% Off) — ended 2026-10-25
 - 2026-10-09 - [Ment Funding 50% Off PropX and 40% Off Alternative Platforms](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/) (50% Off) — ended 2026-10-25
 - 2026-10-08 - [Ment Funding 50% Off PropX and 40% Off Alternative Evaluations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-and-40-off-alternatives/) (50% Off) — ended 2026-10-25

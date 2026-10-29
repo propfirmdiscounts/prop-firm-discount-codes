@@ -54,8 +54,8 @@ As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month
 | 46 | TX3 Funding | PFDC | 25% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 47 | AquaFunded | PFD | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 48 | Blue Guardian | PFD | 25% | Exclusive Code | Ended Oct 4, 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 49 | FundedNext | PFDC | 20% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 50 | WeMasterTrade | PFD | 20% | Exclusive Code | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| 49 | WeMasterTrade | PFD | 20% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
+| 50 | FundedNext | PFDC | 20% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 51 | FundedNext Futures | PFDC | 20% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
 | 52 | Phoenix Trader Funding | PFD | 20% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | 53 | thePropTrade | PFD | 20% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |
