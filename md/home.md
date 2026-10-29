@@ -19,7 +19,7 @@ The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing
 | 9 | We Get Funded | FED65 | 65% | Ended Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
 | 10 | FundYourFX | HALLOWEEN65 | 65% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 
-## Exclusive Prop Firm Discount Codes
+## Prop Firms with the Highest Exclusive Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
