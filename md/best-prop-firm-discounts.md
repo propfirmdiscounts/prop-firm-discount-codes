@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 41 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
+As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 42 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -49,10 +49,10 @@ As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month
 | 41 | PipFarm | PFDC | 30% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 42 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 43 | BluSky Trading | ARROW | 30% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
-| 44 | Finotive Funding | JACKICHUN | 25% | Exclusive Code | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 45 | TX3 Funding | PFDC | 25% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 46 | AquaFunded | PFD | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 47 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| 44 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| 45 | Finotive Funding | JACKICHUN | 25% | Exclusive Code | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| 46 | TX3 Funding | PFDC | 25% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 47 | AquaFunded | PFD | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 48 | Blue Guardian | PFD | 25% | Exclusive Code | Ended Oct 4, 2026 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 49 | FundedNext | PFDC | 20% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 50 | WeMasterTrade | PFD | 20% | Exclusive Code | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
