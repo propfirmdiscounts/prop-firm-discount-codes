@@ -210,7 +210,7 @@ jobs:
           # Header row, separator row, at least one firm.
           if len(table) < 3:
               raise SystemExit(0)
-          block = '## Exclusive Prop Firm Discount Codes\n\n' + '\n'.join(table)
+          block = '## Prop Firms with the Highest Exclusive Discount Codes\n\n' + '\n'.join(table)
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-exclusive \(auto-updated each sync\) -->\n)'
                       r'.*?(?=\n<!-- /pfd-exclusive -->)',
