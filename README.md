@@ -39,7 +39,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 
 | Path | What it is |
 |---|---|
-| `datasets/prop-firm-codes.json` | Full dataset: one row per firm (code, discount, validity, last verified, Trustpilot) |
+| `datasets/prop-firm-codes-gh-hf.json` | Full dataset: one row per firm (code, discount, validity, last deal published, Trustpilot) |
 | `datasets/prop-firm-codes.html` | Same rows as a plain HTML table |
 | `md/prop-firm/` | Per-firm discount-code pages — every firm with published deals |
 | `md/prop-firms-list.md` | Directory of every firm with a verified standing code |
@@ -51,13 +51,16 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 | `md/prop-firm-reviews.md` | Trustpilot directory: score and review count per firm |
 | `llms.txt`, `ai.txt` | AI discovery manifests |
 
-## Schema (coupon_dataset_v2)
+## Schema
+
+The dataset is a flat array — one object per firm, no envelope — so dataset
+viewers read each firm as a row.
 
 - `prop_firm` — firm name
 - `code` — the verified discount code
 - `discount` — headline discount of the code
-- `valid_from`, `valid_until` — ISO 8601, current calendar year
-- `last_verified` — date the team last confirmed the code live
+- `validity` — `standing`, meaning the code has no expiry date
+- `last_deal_published` — date the firm's newest coded deal went live on the site, or `null`
 - `activation_link`, `archive_url` — links
 - `trustpilot_score`, `trustpilot_reviews`, `description`, `logo` — optional enrichment
 

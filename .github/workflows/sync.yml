@@ -28,8 +28,12 @@ jobs:
           # stale edge copy for hours. A per-run timestamp makes the URL
           # unique per run and always hits origin.
           BUST="t=$(date +%s)"
-          curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/api/prop-firm-codes/?$BUST" -o datasets/prop-firm-codes.json
+          # Flat array, no envelope: the Hub dataset viewer reads a top-level
+          # array as rows, and the site's envelope would collapse all firms into
+          # one row whose "data" column holds the rest.
+          curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/api/prop-firm-codes/rows.json?$BUST" -o datasets/prop-firm-codes-gh-hf.json
           curl -sf --retry 3 --retry-delay 30 "https://propfirmdiscount.com/api/prop-firm-codes/?format=html&$BUST" -o datasets/prop-firm-codes.html
+          rm -f datasets/prop-firm-codes.json
 
       - name: Fetch markdown mirrors
         run: |
@@ -251,7 +255,7 @@ jobs:
                    '- config_name: prop-firm-codes\n'
                    '  data_files:\n'
                    '  - split: data\n'
-                   '    path: datasets/prop-firm-codes.json\n'
+                   '    path: datasets/prop-firm-codes-gh-hf.json\n'
                    'tags:\n'
                    '- discount-codes\n'
                    '- trading\n'
