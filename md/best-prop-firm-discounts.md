@@ -46,7 +46,7 @@ As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month
 | 38 | The Trading Pit | OCT35 | 35% | Campaign Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/the-trading-pit/ |
 | 39 | AudaCity Capital | HALLOWEEN | 35% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
 | 40 | Hantec Trader | REACT35 | 35% | Campaign Code | Ended Oct 16, 2026 | https://propfirmdiscount.com/prop-firm/hantec-trader/ |
-| 41 | PipFarm | PFDC | 30% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
+| 41 | PipFarm | PFDC | 30% | Exclusive Code | Ends Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 42 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Oct 23, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 43 | BluSky Trading | ARROW | 30% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/blusky-trading/ |
 | 44 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
