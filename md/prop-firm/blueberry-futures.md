@@ -3,7 +3,7 @@
 No live discount code for Blueberry Futures right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/blueberry-futures/
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (3286 reviews)
+- Trustpilot: 4.5/5 (3288 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-futures/
 

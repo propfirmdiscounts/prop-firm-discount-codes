@@ -5,7 +5,7 @@ No live discount code for Alpha Capital Group right now — no new deals in the 
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
 - Last deal published: 2026-09-05
-- Trustpilot: 4.5/5 (22013 reviews)
+- Trustpilot: 4.5/5 (22037 reviews)
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 

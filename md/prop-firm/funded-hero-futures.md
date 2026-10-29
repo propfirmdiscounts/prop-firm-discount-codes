@@ -8,7 +8,7 @@ The verified Funded Hero Futures discount code is **PFD** — Up to 65% off, wor
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-25
-- Trustpilot: 4.3/5 (17 reviews)
+- Trustpilot: 4.4/5 (18 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedherofutures
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

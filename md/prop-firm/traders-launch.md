@@ -3,7 +3,7 @@
 No live discount code for Traders Launch right now — newest deals and offers are below.
 
 - Last deal published: 2026-09-28
-- Trustpilot: 4.7/5 (80 reviews)
+- Trustpilot: 4.6/5 (81 reviews)
 - Activate: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 

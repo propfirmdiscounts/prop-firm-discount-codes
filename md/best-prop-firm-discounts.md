@@ -27,15 +27,15 @@ As of October 2026, PropFirmDiscount ranks 66 prop firm offers posted this month
 | 19 | E8 Markets | CHUN | 50% | Exclusive Code | Ended Oct 20, 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 20 | Funding Traders | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 21 | Earn2Trade | PFD | 50% | Exclusive Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 22 | FTUK | HALLOWEEN50 | 50% | Campaign Code | Ends Oct 30, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
-| 23 | Tradeify | MILK | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeify/ |
-| 24 | OFP Funding | OFP50 | 50% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
-| 25 | Ment Funding | MENT50 | 50% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/ment-funding/ |
-| 26 | Top One Trader | LAUNCHPAD | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 27 | The Concept Trading | OS26 | 50% | Campaign Code | Ended Oct 2, 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
-| 28 | Direct Funded Trader | PFD | 40% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 29 | IC Funded | TREAT40 | 40% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
-| 30 | Hola Prime | SPOOKY40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
+| 22 | Hola Prime | FLY50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
+| 23 | FTUK | HALLOWEEN50 | 50% | Campaign Code | Ends Oct 30, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
+| 24 | Tradeify | MILK | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeify/ |
+| 25 | OFP Funding | OFP50 | 50% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
+| 26 | Ment Funding | MENT50 | 50% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/ment-funding/ |
+| 27 | Top One Trader | LAUNCHPAD | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
+| 28 | The Concept Trading | OS26 | 50% | Campaign Code | Ended Oct 2, 2026 | https://propfirmdiscount.com/prop-firm/the-concept-trading/ |
+| 29 | Direct Funded Trader | PFD | 40% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
+| 30 | IC Funded | TREAT40 | 40% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |
 | 31 | BrightFunded | WEEKEND | 40% | Campaign Code | Ended Oct 11, 2026 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
 | 32 | Tradexprop | SPOOK40 | 40% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/tradexprop/ |
 | 33 | Sure Leverage Funding | BOO40 | 40% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |

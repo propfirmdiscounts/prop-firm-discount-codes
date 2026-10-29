@@ -5,7 +5,7 @@ No live discount code for Ment Funding right now — newest deals and offers are
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
 - Last deal published: 2026-10-15
-- Trustpilot: 4.7/5 (232 reviews)
+- Trustpilot: 4.5/5 (233 reviews)
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 

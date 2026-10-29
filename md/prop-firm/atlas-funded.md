@@ -7,46 +7,37 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-26
-- Trustpilot: 3.9/5 (2026 reviews)
+- Last deal published: 2026-10-29
+- Trustpilot: 3.9/5 (2064 reviews)
 - Activate: https://propfirmdiscount.com/go/atlasfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Atlas Funded 45% Off Challenges Halloween Cashback
+## Most recent deal (ended): Atlas Funded: BOGO + 150% Refund on Evaluations
 
-- Published: 2026-10-26
-- Offer ends: Limited time
-- Offer: 45% Off
-- Code: SPOOKY
-- Scope: challenges, evaluations, Atlas Balance cashback, second reward fee back
-- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
+- Published: 2024-12-22
+- Offer ends: Ended
+- Offer: Buy 1 Get 1
+- Scope: Evaluation accounts, Buy One Get One Free, evaluation fee refund
+- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-bogo-150-refund-evaluations/
 
 ## Atlas Funded deal FAQ
 
-**What discount does Atlas Funded offer in this promotion?**
+**What does Atlas Funded offer in this promotion?**
 
-The promotion gives 45% off plus 3x cashback in Atlas Balance capped at 15%. It also gives 125% of the challenge fee back on the second reward.
+Atlas Funded offers Buy One Get One Free on evaluation accounts plus a 150% refund of the evaluation fee. The second account is sent automatically after purchase and the refund is paid alongside the payout after passing.
 
-**What does the tripled cashback mean for Atlas Funded buyers?**
+**When is the 150% refund paid at Atlas Funded?**
 
-The usual Atlas Balance cashback runs from 3% to 10% depending on VIP rank. Under this offer that rate is tripled, with the tripled rate capped at 15%.
+The refund is paid once the evaluation is passed, alongside the payout. It is not an upfront discount on the purchase price.
 
-**When does the 125% fee back arrive?**
+**Does this Atlas Funded promotion change trading rules?**
 
-The fee back is tied to the second reward. It is not described as an immediate discount at purchase.
+No. The promotion changes purchase structure only and does not modify trading rules, drawdown limits or risk parameters and it does not reduce trading risk.
 
-**What does this Atlas Funded promotion not change?**
+**How long does the Atlas Funded Festive Giveaway offer run?**
 
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. It does not reduce trading risk.
-
-**What account facts are listed with this offer?**
-
-The listed facts include a 24-hour payout reward guarantee, a profit split of up to 100% and simulated capital of up to $400K. Those facts describe the account, not the discount itself.
-
-**Is an end date stated for this Atlas Funded offer?**
-
-No end date is stated for this offer. The promotion is described as a Halloween offer without a stated closing date.
+The offer is framed as Day 6 of the Atlas Festive Giveaway and described as limited time only. No calendar end date is stated for it.
 
 ## Deals (last 2 months, newest first)
 

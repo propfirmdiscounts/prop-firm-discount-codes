@@ -5,7 +5,7 @@ No live discount code for Hantec Trader right now — newest deals and offers ar
 > RZR Funded provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our 1-Step, 2-Step, 3-Step, and various Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits.
 
 - Last deal published: 2026-10-14
-- Trustpilot: 4.3/5 (856 reviews)
+- Trustpilot: 4.4/5 (861 reviews)
 - Activate: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 

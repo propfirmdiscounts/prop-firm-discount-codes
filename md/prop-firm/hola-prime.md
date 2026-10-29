@@ -1,45 +1,50 @@
 # Hola Prime Discount Code
 
-The newest Hola Prime discount code is **SPOOKY20** — 20% off (October 14, 2026). The campaign code changes with each promotion; newest first below.
+The newest Hola Prime discount code is **FLY50** — 50% off (October 29, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-14
-- Trustpilot: 4.5/5 (4066 reviews)
+- Last deal published: 2026-10-29
+- Trustpilot: 4.5/5 (4101 reviews)
 - Activate: https://propfirmdiscount.com/go/holaprime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
 
-## Current deal: Hola Prime: 20% Off Next $5K–$200K Account for Existing Users
+## Current deal: Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges
 
-- Published: 2026-10-14
+- Published: 2026-10-29
 - Offer ends: Limited time
-- Offer: 20% Off
-- Code: SPOOKY20
-- Scope: Existing users, $5K-$200K, Forex Challenges, Direct Accounts
-- Deal page: https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/
+- Offer: 50% Off
+- Code: FLY50
+- Scope: 2-Step Fly challenges, $10K-$100K, Sim. Funded stage
+- Deal page: https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/
 
 ## Hola Prime deal FAQ
 
-**What discount does Hola Prime offer for existing users?**
+**What discount does Hola Prime offer in this promotion?**
 
-During the Hola-Ween campaign, returning traders receive a 20% discount on their next account purchase.
+Hola Prime offers 50% off the upfront entry cost for $10K-$100K 2-Step Fly challenges. The reduction applies to the entry cost at purchase for challenges inside that size range.
 
-**Does the 20% discount apply to Direct Accounts?**
+**Which account sizes are covered by the Hola Prime 2-Step Fly offer?**
 
-Yes, the 20% reduction covers both Forex Challenges and Direct Accounts for existing users.
+The offer covers challenges from $10K to $100K. Sizes outside that range are not covered by this offer.
 
-**Which account sizes are eligible for returning traders?**
+**What is 2-Step Fly?**
 
-The discount covers all account tiers between $5K and $200K.
+2-Step Fly is the first challenge under Proving Ground from Hola Prime. It is a two-step challenge leading toward the Sim. Funded stage.
 
-**Does this offer modify the evaluation criteria?**
+**What rules apply on the Sim. Funded stage for this Hola Prime challenge?**
 
-No, the promotion solely affects the entry fee and leaves all trading rules and evaluation criteria unchanged.
+No daily loss limits, no consistency rules and no minimum profitable days apply on the Sim. Funded stage. Traders still need to watch the 5% MLL, with anytime payouts available.
 
-**Can a first-time user apply this 20% discount?**
+**Does this discount change trading risk for Hola Prime traders?**
 
-First-time users have a separate offer available; the 20% promotion is designed specifically for returning customers.
+No. The promotion reduces entry cost only and does not reduce trading risk or change the 5% MLL requirement.
+
+**Is there an expiry date for this Hola Prime offer?**
+
+No expiry date is stated for this offer. The promotion is presented without a stated end date.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-29 - [Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges](https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/) (50% Off)
 - 2026-10-14 - [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) (20% Off)
 - 2026-10-14 - [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) (40% Off)
 - 2026-09-10 - [Hola Prime: 20% Off $5K-$100K Forex Evaluations and Direct Accounts](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-forex-evaluations-100k/) (20% Off)
