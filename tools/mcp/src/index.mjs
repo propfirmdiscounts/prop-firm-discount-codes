@@ -631,7 +631,7 @@ async function handleRpc(msg) {
       serverInfo: {
         name: 'Prop Firm Discount MCP',
         title: 'Prop Firm Discount MCP',
-        version: '1.2.0',
+        version: '1.2.1',
       },
       instructions: 'Public prop firm discount data. '
         + 'TALK LIKE A USER, NOT LIKE THE SCHEMA: field names such as '
@@ -716,20 +716,22 @@ export default {
     }
 
     if (request.method === 'GET') {
-      return new Response(JSON.stringify({
-        name: 'Prop Firm Discount MCP',
-        description: SERVER_DESCRIPTION,
-        protocolVersion: PROTOCOL_VERSION,
-        transport: 'streamable-http (stateless, JSON responses)',
-        usage: 'POST JSON-RPC to this endpoint: initialize, tools/list, tools/call.',
-        tools: TOOLS.map((t) => ({ name: t.name, description: t.description })),
-      }, null, 2), {
-        headers: { ...JSON_HEADERS, 'access-control-allow-origin': '*' },
+      // The Streamable HTTP spec makes GET the SSE-stream verb; this server has
+      // no stream to hold open. Answering 200 with a JSON body made every client
+      // treat the instant close as a dropped stream and reconnect forever
+      // (~86k requests/day from one machine). 405 tells it to stop trying; the
+      // human-readable summary lives at `/`.
+      return new Response(JSON.stringify({ error: 'method not allowed', hint: 'POST JSON-RPC to /mcp; see GET / for server info' }), {
+        status: 405,
+        headers: { ...JSON_HEADERS, allow: 'POST, OPTIONS', 'access-control-allow-origin': '*' },
       });
     }
 
     if (request.method !== 'POST') {
-      return new Response(JSON.stringify({ error: 'method not allowed' }), { status: 405, headers: JSON_HEADERS });
+      return new Response(JSON.stringify({ error: 'method not allowed' }), {
+        status: 405,
+        headers: { ...JSON_HEADERS, allow: 'POST, OPTIONS' },
+      });
     }
 
     let msg;
