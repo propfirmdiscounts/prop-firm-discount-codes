@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
+| 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-18 | Lark Funding | Lark Funding $10K 1-Step Evaluation With 200K Lottery Entry and Bonus Account | Bonus Account | Ended | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-promo-bonus/ |
 | 2026-06-17 | Trade The Pool | Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | - | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/ |
 | 2026-06-16 | Forexive | Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target | Entry Fee | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/ |
-| 2026-06-14 | Funded Hero | Funded Hero Offers $1K 2-Step Villain Account for $1 | Only $1 | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-1k-villain-account-deal/ |
-| 2026-06-11 | Blue Guardian | Blue Guardian: Up To 45% Off 2-Step Challenges Entry Fee | 45% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-off-2-step-challenges-june/ |

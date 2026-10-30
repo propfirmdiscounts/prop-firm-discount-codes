@@ -6,6 +6,14 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
+| 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
+| 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
+| 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
+| 2026-10-30 | FundingPips | FundingPips Halloween 20% Off New, 15% Off Existing Accounts | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/ |
+| 2026-10-30 | Funding Traders | Funding Traders Halloween 70% Off All Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/ |
+| 2026-10-30 | For Traders | For Traders Halloween $6K Forex Fast for $9.99 | 79.6% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/ |
+| 2026-10-30 | SFX Funded | SFX Funded 55% Off Halloween Instant and Challenge Accounts | 55% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/ |
 | 2026-10-30 | E8 Markets | E8 Markets Winter ARC: Up to 50% Off Accounts | 50% OFF | 2026-11-25 | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/ |
 | 2026-10-30 | SabioTrade | SabioTrade Halloween 25% Off Account Purchase Deal | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/ |
 | 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |

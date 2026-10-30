@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | 2026-10-15 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-16 | FTUK | FTUK 40% Off All Accounts For Patrick’s Day | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/40-off-all-accounts-patricks-day/ |
 | 2026-03-16 | FundedNext | FundedNext Buy 1 Get 1 Free Anniversary BOGO Offer | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-buy-1-get-1-free-anniversary-bogo-offer/ |
 | 2026-03-13 | thePropTrade | thePropTrade: 20% Off Classic Accounts with $100K 1-Step for $479 | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/ |
-| 2026-03-13 | thePropTrade | thePropTrade: 30% Off Instant Accounts Including $100K Tier for $349 | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-30-off-instant-accounts/ |

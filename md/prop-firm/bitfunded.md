@@ -4,41 +4,46 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 
 > First prop trading firm dedicated exclusively to crypto
 
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-30
 - Trustpilot: 4.3/5 (205 reviews)
 - Activate: https://propfirmdiscount.com/go/bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 
-## Most recent deal (ended): Bitfunded 60% Off Any Challenge Plus Instant Account Deal
+## Current deal: Bitfunded Halloween $499 Monster Bundle With Free Instant
 
-- Published: 2026-10-20
-- Offer ends: 2026-10-23 (ended)
-- Offer: 60% Off
-- Scope: Any Challenge, Included Instant Account, Automatic discount, No code
-- Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/
+- Published: 2026-10-30
+- Offer ends: Limited time
+- Offer: Only $499
+- Scope: Expert $100K, Advanced $50K, Instant $2.5K, bundle purchase
+- Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/
 
 ## Bitfunded deal FAQ
 
-**What discount does Bitfunded offer in this promotion?**
+**What does the Bitfunded Monster Bundle cost?**
 
-Bitfunded offers 60% off the total for both accounts in the bundle. The bundle is any Challenge plus the Instant Account included with it and the saving is applied automatically.
+The Monster Bundle costs $499 as a single package. That price covers four accounts in one purchase rather than a single account size.
 
-**How does the Instant Account part of the Bitfunded deal work?**
+**Which accounts are included in the Bitfunded bundle?**
 
-Pick any Challenge and an Instant Account comes with it, so two accounts show up instead of one. The bigger the Challenge you pick, the bigger the Instant Account that comes with it.
+The bundle includes one Expert $100K account, two Advanced $50K accounts and one $2.5K Instant account. The $2.5K Instant account is presented as the free Instant Account in the offer.
 
-**Do I need a code to get the Bitfunded discount?**
+**Is the $2.5K Instant Account free in this Bitfunded offer?**
 
-No code is needed for this Bitfunded promotion. The 60% saving is automatic, with no form to complete and nothing to unlock.
+Yes, the $2.5K Instant account is presented as the free Instant Account that comes with a bundle purchase. The other three accounts are the challenge accounts in the $499 package.
 
-**What does the Bitfunded discount not change?**
+**How long does the Bitfunded Trick or Treat Bundles offer run?**
 
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry price does not reduce trading risk.
+The promotion is presented with final hours left. No calendar end date is stated for the offer, so the validity record is that final-hours wording rather than a dated deadline.
 
-**When does the Bitfunded promotion end?**
+**What does this Bitfunded promotion not change?**
 
-The promotion ends Friday at 9 PM UAE. Check which Instant size pairs with your chosen Challenge before that cutoff.
+The promotion does not change trading rules, drawdown limits or risk parameters. It affects purchase pricing only and the entry cost for the package is the part that changes.
+
+**Who may find the Bitfunded bundle pricing useful?**
+
+The pricing may suit a reader who wants several accounts in one purchase, including an Expert account alongside Advanced accounts. It should be approached cautiously if only one account size or one account type is needed.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-30 - [Bitfunded Halloween $499 Monster Bundle With Free Instant](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/) (Only $499)
 - 2026-10-20 - [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) (60% Off) — ended 2026-10-23

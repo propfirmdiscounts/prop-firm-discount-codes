@@ -5,49 +5,50 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 - Code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-26
+- Last deal published: 2026-10-30
 - Trustpilot: 4.1/5 (1815 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: For Traders Halloween 25% Off Any Challenge
+## Current deal: For Traders Halloween $6K Forex Fast for $9.99
 
-- Published: 2026-10-26
+- Published: 2026-10-30
 - Offer ends: Limited time
-- Offer: 25% Off
-- Code: HALLOWEEN25
-- Scope: any challenge, any model, any account size, Forex, futures, crypto
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/
+- Offer: 79.6% Off
+- Code: BOO6K
+- Scope: Forex Fast, 1-Step, $6K account, MetaTrader 5
+- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
 
 ## For Traders deal FAQ
 
 **What discount does For Traders offer in this promotion?**
 
-For Traders offers 25% off any challenge in any account size for Halloween. The cut applies to any model and covers Forex, futures and crypto challenges.
+The $6K Forex Fast 1-Step challenge on MetaTrader 5 drops from $49 to $9.99. That is a 79.6% cut on the listed entry cost.
 
-**Which account sizes are covered?**
+**Which account is covered by this offer?**
 
-Any account size is covered, since the offer places no size limit on the 25% cut. No single size is named as the only eligible option.
+The offer covers the $6K Forex Fast 1-Step challenge on MetaTrader 5 only. No other account size, model or platform is included.
 
-**How long is the promotion available?**
+**How many challenges are available?**
 
-The promotion is described as limited time, with no calendar end date stated in the offer. Buyers should note that limited timing wording when planning a purchase.
+Only 1,000 challenges are available under this offer. There are no restocks and no extensions once those places fill.
 
-**What does the For Traders discount change and what stays unchanged?**
+**What challenge terms stay unchanged?**
 
-The discount lowers entry cost by 25% only. Trading rules, drawdown limits and risk parameters stay unchanged, so the promotion does not reduce trading risk.
+The terms are a $6,000 size, one step, a 9% profit target, a 6% maximum drawdown, a 3% daily drawdown, payouts every 2 weeks and MetaTrader 5 as the platform. Those terms stay as listed despite the lower entry price.
 
-**Who may find this For Traders pricing relevant?**
+**Does this promotion reduce trading risk?**
 
-It may suit buyers who want a lower entry cost while keeping model and size choice open. It may suit buyers comparing several challenge types, since one percentage covers the whole range.
+No. The promotion only reduces entry cost and does not reduce trading risk or change any trading outcome.
 
-**How can a reader reach the active promotion?**
+**Who may find this pricing relevant?**
 
-Follow the Start here link at the end of this article to reach the official site. That link leads to the full promotion terms.
+A buyer who plans to purchase the $6K Forex Fast 1-Step MT5 challenge may find the lower entry cost relevant at purchase level. A buyer who needs a different size or model should look for a different offer.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-30 - [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) (79.6% Off)
 - 2026-10-26 - [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) (25% Off)
 - 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
 - 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)

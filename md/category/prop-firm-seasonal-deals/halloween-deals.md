@@ -6,6 +6,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
+| 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
+| 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
+| 2026-10-30 | FundingPips | FundingPips Halloween 20% Off New, 15% Off Existing Accounts | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/ |
+| 2026-10-30 | Funding Traders | Funding Traders Halloween 70% Off All Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/ |
+| 2026-10-30 | For Traders | For Traders Halloween $6K Forex Fast for $9.99 | 79.6% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/ |
+| 2026-10-30 | SFX Funded | SFX Funded 55% Off Halloween Instant and Challenge Accounts | 55% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/ |
 | 2026-10-30 | SabioTrade | SabioTrade Halloween 25% Off Account Purchase Deal | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/ |
 | 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
 | 2026-10-29 | Ment Funding | Ment Funding 30% Off Halloween Challenge Entry Cost | 30% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/ |
@@ -149,10 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-20 | Funded Trading Plus | Funded Trading Plus — Halloween Spin to Win: Up to 50% OFF — Deal (no coupon required) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-halloween-spin-to-win-up-to-50-off-deal-no-coupon-required/ |
 | 2025-10-20 | OFP Funding | OFP Funding — 40% OFF (Excludes Instant Pro & Challenge) — 600 Accounts Only (Oct 20–27, 10:00 AM CET) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-40-off-excludes-instant-pro-challenge-600-accounts-only-oct-20-27-1000-am-cet/ |
 | 2025-10-20 | Sure Leverage Funding | Sure Leverage Funding — Halloween: 30% OFF + 10% More Account Size on All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-halloween-30-off-10-more-account-size-on-all-challenges/ |
-| 2025-10-20 | Funded Elite | FundedElite Halloween — 35% OFF Instant & Lite Accounts + Max Loss Up to 14% (Ends Oct 31) | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-35-off-instant-lite-accounts-max-loss-up-to-14-ends-oct-31/ |
-| 2025-10-20 | Funded Elite | Halloween — 40% OFF Standard Accounts + Max Loss Up to 14% (Ends Oct 31) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-elite/fundedelite-halloween-40-off-standard-accounts-max-loss-14-ends-oct-31/ |
-| 2025-10-18 | Blue Guardian Futures | Blue Guardian Futures — 60% OFF All Accounts (Halloween) | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/ |
-| 2025-10-18 | Tradexprop | Tradexprop — 30% OFF All Plans (Unlimited Purchases) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-30-off-all-plans-unlimited-purchases/ |
-| 2025-10-14 | Funding Traders | FundingTraders — 40% OFF All Plans (Halloween Promo, Ends Nov 1) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-off-all-plans-halloween-promo-ends-nov-1/ |
-| 2025-10-14 | AquaFunded | Aqua Funded — 40% OFF + 150% Refund (Limited Time) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aqua-funded-40-off-150-refund-limited-time/ |
-| 2025-10-14 | Blue Guardian | Blue Guardian — 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/ |
