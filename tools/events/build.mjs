@@ -156,7 +156,7 @@ const readMirror = (rel, eventShort) => {
 };
 
 function loadCodes() {
-  const raw = JSON.parse(readFileSync(join(repoRoot, 'datasets', 'prop-firm-codes.json'), 'utf8'));
+  const raw = JSON.parse(readFileSync(join(repoRoot, 'datasets', 'prop-firm-codes-gh-hf.json'), 'utf8'));
   return Array.isArray(raw) ? raw : (raw.data || []);
 }
 // Deal titles sometimes carry the firm again as a "(Firm)" suffix; the
