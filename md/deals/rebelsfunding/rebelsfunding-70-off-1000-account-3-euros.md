@@ -1,16 +1,15 @@
 # RebelsFunding 70% Off $1,000 Account for €3
 
-RebelsFunding is offering 70% off — discount code **FORTHREE**.
+RebelsFunding was offering 70% off.
 
 > RebelsFunding cuts 70% off its $1,000 account to €3 from €9 until Thursday, October 29. The deal cuts entry cost only and leaves trading rules unchanged.
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-29
+- Offer ends: 2026-10-29 (ended)
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: 70% off takes a $1,000 account from €9 to €3 until October 29 or until 2,000 sell out. Price only falls and rules stay the same.
 - Offer: 70% Off
-- Code: FORTHREE
 - Scope: $1,000 trading account, entry fee
 - Deal: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/
 

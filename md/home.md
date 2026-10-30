@@ -55,7 +55,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% Off | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
 | 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% Off | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
-| 2026-10-27 | RebelsFunding | RebelsFunding 70% Off $1,000 Account for €3 | 70% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
 | 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
@@ -70,3 +69,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | FTUK | FTUK 50% Off Instant Funding Accounts Halloween | 50% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/ |
 | 2026-10-26 | Atlas Funded | Atlas Funded 45% Off Challenges Halloween Cashback | 45% Off | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/ |
 | 2026-10-26 | Instant Funding | Instant Funding Halloween 30% Off All Accounts Deal | 30% Off | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/ |
+| 2026-10-26 | Funded Elite | Funded Elite Halloween 40% Off Five Challenge Models | 40% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/ |

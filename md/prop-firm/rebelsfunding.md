@@ -1,6 +1,6 @@
 # RebelsFunding Discount Code
 
-The newest RebelsFunding discount code is **FORTHREE** — 70% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for RebelsFunding right now — newest deals and offers are below.
 
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
@@ -9,12 +9,11 @@ The newest RebelsFunding discount code is **FORTHREE** — 70% off (October 27, 
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-## Current deal: RebelsFunding 70% Off $1,000 Account for €3
+## Most recent deal (ended): RebelsFunding 70% Off $1,000 Account for €3
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-29
+- Offer ends: 2026-10-29 (ended)
 - Offer: 70% Off
-- Code: FORTHREE
 - Scope: $1,000 trading account, entry fee
 - Deal page: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/
 
@@ -46,7 +45,7 @@ Follow the Start here link at the end of the article to the official site. The l
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) (70% Off)
+- 2026-10-27 - [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) (70% Off) — ended 2026-10-29
 - 2026-10-20 - [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) (70% Off) — ended 2026-10-22
 - 2026-10-13 - [RebelsFunding 73% Off $5,000 Trading Accounts For €7](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/) (73% Off) — ended 2026-10-15
 - 2026-10-06 - [RebelsFunding 59% Off $20,000 Evaluation Accounts For €29](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/) (59% Off) — ended 2026-10-08
