@@ -1,16 +1,17 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **PipFarm Halloween 60% Off Challenges Plus Free Power-Up** from PipFarm — 60% off (published 2026-10-29). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **SabioTrade Halloween 25% Off Account Purchase Deal** from SabioTrade — 25% off (published 2026-10-30). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- SabioTrade — SabioTrade Halloween 25% Off Account Purchase Deal (25% Off)
 - PipFarm — PipFarm Halloween 60% Off Challenges Plus Free Power-Up (60% Off)
 - Ment Funding — Ment Funding 30% Off Halloween Challenge Entry Cost (30% Off)
-- WeMasterTrade — WeMasterTrade Halloween 36% Off All Packages Deal (36% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | SabioTrade | SabioTrade Halloween 25% Off Account Purchase Deal | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/ |
 | 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
 | 2026-10-29 | Ment Funding | Ment Funding 30% Off Halloween Challenge Entry Cost | 30% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/ |
 | 2026-10-29 | WeMasterTrade | WeMasterTrade Halloween 36% Off All Packages Deal | 36% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Instant Funding | Instant Funding Halloween 30% Off All Accounts Deal | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/ |
 | 2026-10-26 | Funded Elite | Funded Elite Halloween 40% Off Five Challenge Models | 40% OFF | 2026-10-31 23:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 50% Off Plus Free Account | 50% OFF | 2026-11-01 00:00 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/ |
-| 2026-10-26 | QT Funded | QT Funded Halloween 60% Off Challenge Entry | 60% OFF | 2026-11-01 00:00 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/ |

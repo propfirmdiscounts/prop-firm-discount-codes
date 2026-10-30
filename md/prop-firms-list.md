@@ -18,7 +18,7 @@
 | Direct Funded Trader | PFD | 40% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 60% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | Dominion Funding | PFD5PC | 5% | standing | 2026-10-16 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
-| E8 Markets | CHUN | 50% | standing | 2026-10-17 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| E8 Markets | CHUN | 50% | standing | 2026-10-30 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 50% | standing | 2026-10-01 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | standing | 2026-08-03 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
 | FXIFY | FXIFY2WRIVW | 10% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/fxify/ |
