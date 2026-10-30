@@ -221,7 +221,6 @@ jobs:
                       lambda _: block, md, count=1, flags=re.S)
           open('README.md', 'w', encoding='utf-8').write(md)
           PY
-          sed -i "s|Last synced: .*|Last synced: $STAMP (auto, hourly)|" README.md
 
       - name: Push Hugging Face mirror
         # HF dataset mirror (propfirmdiscounts/prop-firm-discount-codes):
