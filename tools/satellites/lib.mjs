@@ -19,7 +19,7 @@ export const pctOf = (s) => {
 };
 
 export function loadDataset(repoRoot) {
-  const raw = JSON.parse(readFileSync(`${repoRoot}/datasets/prop-firm-codes.json`, 'utf8'));
+  const raw = JSON.parse(readFileSync(`${repoRoot}/datasets/prop-firm-codes-gh-hf.json`, 'utf8'));
   const rows = Array.isArray(raw) ? raw : raw.data;
   return rows.map((r) => {
     const m = /\/prop-firm\/([a-z0-9-]+)\/?$/.exec(r.archive_url || '');
