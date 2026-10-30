@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
 | 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
 | 2026-10-30 | FundingPips | FundingPips Halloween 20% Off New, 15% Off Existing Accounts | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
 | 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
 | 2026-10-26 | IC Funded | IC Funded Halloween 40% Off All Challenges | 40% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/ |
-| 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |

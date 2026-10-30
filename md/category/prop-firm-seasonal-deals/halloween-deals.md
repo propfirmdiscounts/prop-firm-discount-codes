@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
+| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
 | 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
@@ -154,5 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-20 | FXIFY | FXIFY — Halloween: 25% OFF + 2 Free Add-ons (Bi-Weekly Payouts & 90% Performance Split) — Ends Nov 3 (EST) | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-halloween-25-off-2-free-add-ons-bi-weekly-payouts-90-performance-split-ends-nov-3-est/ |
 | 2025-10-20 | Funded Trading Plus | Funded Trading Plus — Prestige Pro Launch: 10% OFF + Scale to $2.5M (65% Weekly or 80% Bi-Weekly) | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-prestige-pro-launch-10-off-scale-to-2-5m-65-weekly-or-80-bi-weekly/ |
 | 2025-10-20 | Funded Trading Plus | Funded Trading Plus — Halloween Spin to Win: Up to 50% OFF — Deal (no coupon required) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-halloween-spin-to-win-up-to-50-off-deal-no-coupon-required/ |
-| 2025-10-20 | OFP Funding | OFP Funding — 40% OFF (Excludes Instant Pro & Challenge) — 600 Accounts Only (Oct 20–27, 10:00 AM CET) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-40-off-excludes-instant-pro-challenge-600-accounts-only-oct-20-27-1000-am-cet/ |
-| 2025-10-20 | Sure Leverage Funding | Sure Leverage Funding — Halloween: 30% OFF + 10% More Account Size on All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-halloween-30-off-10-more-account-size-on-all-challenges/ |

@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 47 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
+As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 48 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -19,8 +19,8 @@ As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month
 | 11 | FundYourFX | HALLOWEEN65 | 65% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 12 | Doji Funding | PFD | 60% | Exclusive Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 13 | Top One Futures | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 14 | Titan Capital | BOGO | 60% | Campaign Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
-| 15 | WSFunded | HISPANIC60 | 60% | Campaign Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 14 | WSFunded | HALLOWEEN60 | 60% | Campaign Code | Ends Nov 2, 2026 | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 15 | Titan Capital | BOGO | 60% | Campaign Code | Ended Oct 19, 2026 | https://propfirmdiscount.com/prop-firm/titan-capital/ |
 | 16 | TradeDay | FLASH | 60% | Campaign Code | Ended Oct 10, 2026 | https://propfirmdiscount.com/prop-firm/tradeday/ |
 | 17 | SFX Funded | SPOOKY | 55% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
 | 18 | E8 Markets | CHUN | 50% | Exclusive Code | Ends Nov 25, 2026 | https://propfirmdiscount.com/prop-firm/e8-funding/ |

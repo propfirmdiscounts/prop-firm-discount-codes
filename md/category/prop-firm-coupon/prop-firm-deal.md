@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
 | 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-02 | My Funded Futures | My Funded Futures: 50% Off Rapid Accounts For First 1,000 Traders | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-50-off-rapid-independence-day/ |
 | 2026-06-18 | Lark Funding | Lark Funding $10K 1-Step Evaluation With 200K Lottery Entry and Bonus Account | Bonus Account | Ended | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-promo-bonus/ |
 | 2026-06-17 | Trade The Pool | Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | - | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/ |
-| 2026-06-16 | Forexive | Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target | Entry Fee | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/ |

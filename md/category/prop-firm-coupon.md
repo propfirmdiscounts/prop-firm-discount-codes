@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
+| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
 | 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |

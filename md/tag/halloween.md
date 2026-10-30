@@ -1,16 +1,18 @@
 # Halloween Prop Firm Deals (2026)
 
-The newest Halloween prop firm deal is **FunderPro Halloween 30% Off Classic and Instant Accounts** from FunderPro — 30% off (published 2026-10-30). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Halloween prop firm deal is **Bitfunded 55% Off Halloween Drop Plus 20X Leverage** from Bitfunded — 55% off (published 2026-10-30). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- Bitfunded — Bitfunded 55% Off Halloween Drop Plus 20X Leverage (55% Off)
+- WSFunded — WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween (60% Off)
 - FunderPro — FunderPro Halloween 30% Off Classic and Instant Accounts (30% Off)
-- Bitfunded — Bitfunded Halloween $499 Monster Bundle With Free Instant (Only $499)
-- The Trading Pit — The Trading Pit Halloween 50% Off Challenges Flash Sale (50% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
+| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
 | 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
@@ -39,5 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
 | 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-26 | TX3 Funding | TX3 Funding Halloween 35% Off All Accounts Weekend Flash | 35% OFF | 2026-10-25 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/ |
-| 2026-10-26 | The Concept Trading | The Concept Trading Halloween 45% Off Eligible Programs | 45% OFF | 2026-10-31 09:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/ |
-| 2026-10-26 | Direct Funded Trader | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |

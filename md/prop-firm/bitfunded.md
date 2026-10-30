@@ -9,41 +9,38 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 - Activate: https://propfirmdiscount.com/go/bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 
-## Current deal: Bitfunded Halloween $499 Monster Bundle With Free Instant
+## Current deal: Bitfunded 55% Off Halloween Drop Plus 20X Leverage
 
 - Published: 2026-10-30
 - Offer ends: Limited time
-- Offer: Only $499
-- Scope: Expert $100K, Advanced $50K, Instant $2.5K, bundle purchase
-- Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/
+- Offer: 55% Off
+- Scope: Evaluation accounts, Halloween Drop
+- Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/
 
 ## Bitfunded deal FAQ
 
-**What does the Bitfunded Monster Bundle cost?**
+**What discount does Bitfunded offer in this Halloween Drop?**
 
-The Monster Bundle costs $499 as a single package. That price covers four accounts in one purchase rather than a single account size.
+Bitfunded offers 55% off entry costs in its Halloween Drop, plus up to 20X leverage. The leverage is described as opening bigger positions with less margin.
 
-**Which accounts are included in the Bitfunded bundle?**
+**How many accounts qualify for this Bitfunded offer?**
 
-The bundle includes one Expert $100K account, two Advanced $50K accounts and one $2.5K Instant account. The $2.5K Instant account is presented as the free Instant Account in the offer.
+Only the first 1,000 accounts qualify, on a first-come, first-served basis. No calendar end date is stated for the offer.
 
-**Is the $2.5K Instant Account free in this Bitfunded offer?**
+**What does Bitfunded mean by evaluation accounts here?**
 
-Yes, the $2.5K Instant account is presented as the free Instant Account that comes with a bundle purchase. The other three accounts are the challenge accounts in the $499 package.
+Bitfunded provides simulated accounts with virtual funds for evaluation purposes only. Clients do not trade real capital and do not receive financial advice.
 
-**How long does the Bitfunded Trick or Treat Bundles offer run?**
+**What stays unchanged in this Bitfunded promotion?**
 
-The promotion is presented with final hours left. No calendar end date is stated for the offer, so the validity record is that final-hours wording rather than a dated deadline.
+No change to other account terms is named beyond the discount and the leverage. The promotion does not name a change to the simulated evaluation nature of the accounts.
 
-**What does this Bitfunded promotion not change?**
+**Who may find this Bitfunded pricing relevant and who should pause?**
 
-The promotion does not change trading rules, drawdown limits or risk parameters. It affects purchase pricing only and the entry cost for the package is the part that changes.
-
-**Who may find the Bitfunded bundle pricing useful?**
-
-The pricing may suit a reader who wants several accounts in one purchase, including an Expert account alongside Advanced accounts. It should be approached cautiously if only one account size or one account type is needed.
+The pricing may suit a buyer who wants a lower entry cost for an evaluation account. A buyer should pause if real capital trading is wanted, since the accounts are simulated for evaluation purposes only.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-30 - [Bitfunded 55% Off Halloween Drop Plus 20X Leverage](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/) (55% Off)
 - 2026-10-30 - [Bitfunded Halloween $499 Monster Bundle With Free Instant](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/) (Only $499)
 - 2026-10-20 - [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) (60% Off) — ended 2026-10-23
