@@ -39,7 +39,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 
 | Path | What it is |
 |---|---|
-| `datasets/prop-firm-codes-gh-hf.json` | Full dataset: one row per firm (code, discount, validity, last deal published, Trustpilot) |
+| `datasets/prop-firm-codes-gh-hf.json` | Full dataset: one row per firm (code, discount, validity, newest deal and its event, deal count, Trustpilot) |
 | `datasets/prop-firm-codes.html` | Same rows as a plain HTML table |
 | `md/prop-firm/` | Per-firm discount-code pages — every firm with published deals |
 | `md/prop-firms-list.md` | Directory of every firm with a verified standing code |
@@ -60,7 +60,7 @@ viewers read each firm as a row.
 - `code` — the verified discount code
 - `discount` — the rate the code gives (see the note below)
 - `validity` — `standing`, meaning the code has no expiry date
-- `last_deal` — the firm's newest published deal, or `null`: `{deal_id, title, offer_type, discount_value, scope, date_published, date_exp, post_url}`
+- `last_deal` — the firm's newest published deal, or `null`: `{deal_id, title, offer_type, discount_value, scope, date_published, date_exp, event, post_url}`
 - `deal_count` — `{total, this_year, year}`, the deals this firm has published here
 - `activation_link`, `archive_url` — links
 - `trustpilot_score`, `trustpilot_reviews`, `description`, `logo` — optional enrichment
@@ -75,6 +75,13 @@ is stated in — a deal priced "Only $39" still takes the code's percentage.
 `discount`. `last_deal.date_exp` is an absolute date, `"Limited time"` or
 `"Ended"`. `last_deal.date_published` is also the date the firm's details were
 last checked — there is no separate verification field.
+
+`last_deal.event` is the seasonal campaign that deal was tagged with on the
+site — `"Halloween"`, `"Black Friday"`, `"Christmas"` — or `null` when it
+belongs to no event. It names the occasion the deal was run for and never
+changes what the deal is worth: a Halloween deal's discount is still its own
+`discount_value`. Read it from the deal, not from the calendar — a deal that is
+not tagged is not part of that event, however close its date falls.
 
 ## Freshness
 
