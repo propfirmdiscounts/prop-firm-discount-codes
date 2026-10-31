@@ -15,7 +15,7 @@ Live endpoint: `https://mcp.propfirmdiscount.com/mcp`
 ## Data sources (all public, cached 10 min)
 
 - `https://propfirmdiscount.com/api/prop-firm-codes/` — verified standing
-  exclusive codes (49 firms).
+  exclusive codes (50 firms), each with its newest deal and deal count.
 - `https://propfirmdiscount.com/wp-content/uploads/pfd-data/dealstores.json` —
   firm directory: every firm the site tracks (name + firm page URL), including
   firms with no code and firms with no deals. Regenerated on the origin
@@ -53,8 +53,8 @@ third-party sources for a firm we track.
 ### Code semantics
 
 - **Standing code** (`list_codes`, `get_firm`, `standing_code` on deal rows):
-  a verified standing exclusive code. It works any time (lifetime); the
-  validity window is a procedural calendar-year label, not an expiry.
+  a verified standing exclusive code. It works any time — there is no expiry
+  date and no validity window.
 - **Deal rows**: each row carries a link to its own propfirmdiscount.com deal
   page (`get_code_url`). `code` has a value only when `code_state` is
   `standing`. For `campaign` (a limited-time code shown on the deal page) or
