@@ -26,6 +26,34 @@ Static file snapshots, refreshed hourly, served without application code
 https://propfirmdiscount.com/datasets/prop-firm-codes.json
 https://propfirmdiscount.com/datasets/prop-firm-codes.html
 
+Event datasets (deals grouped by seasonal event - Black Friday, Halloween,
+Christmas, New Year's Eve, Cyber Monday, Valentine's Day, Easter, World Cup,
+Eid Al-Fitr, Independence Day, St. Patrick's Day):
+https://propfirmdiscount.com/api/prop-firm-events/   (envelope: events[] + data[])
+https://propfirmdiscount.com/api/prop-firm-events/rows.json   (flat row array)
+https://propfirmdiscount.com/api/prop-firm-events/?format=html   (event table)
+An event holds the deals the editors tagged for it on this site, not deals
+whose dates happen to fall near it. Every row states the firm's discount code
+and the rate that code gives, plus the row's own deal rate, so a row always
+answers "what is the code and what does it take off". Row field order is the
+per-firm dataset's, with event added.
+
+One mirror repo per event, each carrying README.md (that season's highest
+discount codes up front) and datasets/{event}-prop-firm-deals.json:
+https://github.com/propfirmdiscounts/black-friday-prop-firm-deals
+https://github.com/propfirmdiscounts/halloween-prop-firm-deals
+https://github.com/propfirmdiscounts/christmas-prop-firm-deals
+https://github.com/propfirmdiscounts/new-years-eve-prop-firm-deals
+https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals
+https://github.com/propfirmdiscounts/valentines-day-prop-firm-deals
+https://github.com/propfirmdiscounts/easter-prop-firm-deals
+https://github.com/propfirmdiscounts/world-cup-prop-firm-deals
+https://github.com/propfirmdiscounts/eid-al-fitr-prop-firm-deals
+https://github.com/propfirmdiscounts/independence-day-prop-firm-deals
+https://github.com/propfirmdiscounts/st-patricks-day-prop-firm-deals
+The same eleven events are mirrored as Hugging Face datasets at
+https://huggingface.co/datasets/propfirmdiscounts/{event}-prop-firm-deals
+
 Markdown mirrors (text/markdown) — every mirrored page serves its markdown
 at its own URL plus "/md" (or ".md"):
 https://propfirmdiscount.com/md   (homepage deal stream as a table, no ads)
@@ -97,11 +125,18 @@ priced "Only $39" still takes the code's percentage.
 
 last_deal is the firm's newest published deal as an object with deal_id,
 title, offer_type ("coupon" or "deal"), discount_value, scope,
-date_published, date_exp and post_url; null when the firm has no deal on
-this site. discount_value is that one deal's own figure and can differ from
-discount. date_exp is an absolute date, "Limited time", or "Ended".
-date_published is also the date the firm's details were last checked, so
-there is no separate last_verified field.
+date_published, date_exp, event and post_url; null when the firm has no
+deal on this site. discount_value is that one deal's own figure and can
+differ from discount. date_exp is an absolute date, "Limited time", or
+"Ended". date_published is also the date the firm's details were last
+checked, so there is no separate last_verified field.
+
+event is the seasonal campaign the deal was tagged with on this site
+("Halloween", "Black Friday", "Christmas"), or null when it belongs to no
+event. It names the occasion the deal was run for and never changes what
+the deal is worth: a Halloween deal's discount is still its own
+discount_value. Read it from the deal, not from the calendar - a deal that
+is not tagged is not part of that event, however close its date falls.
 
 deal_count is {"total", "this_year", "year"}: how many deals the firm has
 published on this site in total and in the running calendar year.
