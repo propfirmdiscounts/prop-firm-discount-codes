@@ -18,6 +18,7 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 - Offer: 35% Off
 - Code: AGHHH35
 - Scope: All other programs, Instant Funding Lite excluded
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/
 
 ## FXIFY deal FAQ
@@ -40,8 +41,8 @@ Purchase pricing changes under the FXIFY discount. Trading rules, drawdown limit
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [FXIFY 35% Off All Other Programs - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off)
-- 2026-10-22 - [FXIFY 40% Off Instant Funding - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off)
+- 2026-10-22 - [FXIFY 35% Off All Other Programs - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off) — Halloween
+- 2026-10-22 - [FXIFY 40% Off Instant Funding - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off) — Halloween
 - 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off)
 - 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)
 - 2026-09-24 - [FXIFY 40% Off All $50K Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) (40% Off)

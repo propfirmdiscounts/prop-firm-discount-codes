@@ -7,54 +7,47 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 - Code: JACKICHUN
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-28
+- Last deal published: 2026-10-31
 - Trustpilot: 3.2/5 (1074 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Finotive Funding Halloween 50% Off All Challenges
+## Current deal: Finotive Funding 65% Off Every Account
 
-- Published: 2026-10-28
-- Offer ends: 2026-11-01 00:00
-- Offer: 50% Off
-- Code: BOO50
-- Scope: Challenge Evaluation, Instant Funding, Pro, up to $200K
+- Published: 2026-10-31
+- Offer ends: 2026-11-02 17:59
+- Offer: 65% Off
+- Code: UNMATCH
+- Scope: Every account, every account type, every account size
 - Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/
+- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/
 
 ## Finotive Funding deal FAQ
 
 **What discount does Finotive Funding offer in this promotion?**
 
-It cuts 50% off every challenge. The cut covers the full range of paths named in the promotion, with accounts up to $200K.
+Finotive Funding offers 65% off entry costs for every account, with every account type and every account size included. The cut lowers entry cost only, with no change named to other account terms.
 
-**Which account types does the 50% cut cover?**
+**Which accounts does the Finotive Funding offer cover?**
 
-It covers Challenge Evaluation, Instant accounts with no evaluation and Pro accounts with a monthly salary. Account sizes run up to $200K under the same cut.
+The offer covers every account, every account type and every account size. No account type or size is named as excluded from the offer.
 
-**When does the Finotive Funding Halloween promotion end?**
+**When does the Finotive Funding offer end?**
 
-It vanishes on November 1st at midnight. No other validity window is stated for this promotion.
+The offer ends Monday 2 November at 11:59 PM CET. That cutoff is stated in the offer itself.
 
-**What does this promotion leave unchanged?**
+**What stays unchanged in this Finotive Funding promotion?**
 
-It affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Static drawdown stays fixed rather than trailing profits or moving against a trader.
+No change to other account terms is named beyond the 65% cut. The promotion does not name a change to any other account term.
 
-**Who may find this pricing relevant?**
+**Who may find this Finotive Funding pricing relevant and who should pause?**
 
-It may suit buyers who want a lower entry cost without narrowing their choice of path. It may also suit buyers who want a larger account size up to $200K at a lower initial purchase price.
-
-**Who should be cautious about this Finotive Funding offer?**
-
-Buyers should be cautious if a lower entry cost is mistaken for lower trading risk. The discount lowers the amount paid at entry, not the work of meeting evaluation criteria or managing an account.
-
-**How do buyers reach this Finotive Funding promotion?**
-
-Buyers can follow the Start here link at the end of this article to the official site. The deal page carries the full terms, scope and deadline for this promotion.
+The pricing may suit a buyer who wants a lower entry cost for any account type or size. A buyer should pause if the purchase timing falls after 2 November at 11:59 PM CET, since that cutoff is stated in the offer.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-10-31 - [Finotive Funding 65% Off Every Account](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) (65% Off) — Halloween
 - 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off) — Halloween
 - 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off) — ended 2026-10-19
 - 2026-09-21 - [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) (50% Off)

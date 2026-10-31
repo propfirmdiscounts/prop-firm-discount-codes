@@ -16,6 +16,7 @@ The newest Ment Funding discount code is **TREATMENT** — 30% off (October 29, 
 - Offer: 30% Off
 - Code: TREATMENT
 - Scope: Ment Funding accounts, 100-spot limit
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/
 
 ## Ment Funding deal FAQ
@@ -38,7 +39,7 @@ Follow the Start here link at the end of this article to reach the official site
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-29 - [Ment Funding 30% Off Halloween Challenge Entry Cost](https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/) (30% Off)
+- 2026-10-29 - [Ment Funding 30% Off Halloween Challenge Entry Cost](https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/) (30% Off) — Halloween
 - 2026-10-15 - [Ment Funding 50% Off PropX Accounts Up to $100K](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/) (50% Off) — ended 2026-10-25
 - 2026-10-09 - [Ment Funding 50% Off PropX and 40% Off Alternative Platforms](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/) (50% Off) — ended 2026-10-25
 - 2026-10-08 - [Ment Funding 50% Off PropX and 40% Off Alternative Evaluations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-and-40-off-alternatives/) (50% Off) — ended 2026-10-25

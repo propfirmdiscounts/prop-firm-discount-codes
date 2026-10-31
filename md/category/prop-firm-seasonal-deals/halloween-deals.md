@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
+| 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
 | 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
@@ -154,5 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-21 | Plutus Trade Base | Plutus Trade Base — Halloween: 50% OFF All Plans (Oct 21–31) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-50-off-all-plans-oct-21-31/ |
 | 2025-10-21 | For Traders | For Traders — Halloween Sale: Up to 30% OFF (Forex/Crypto/Futures) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-sale-up-to-30-off-forex-crypto-futures/ |
 | 2025-10-20 | FXIFY | FXIFY — Halloween: 25% OFF + 2 Free Add-ons (Bi-Weekly Payouts & 90% Performance Split) — Ends Nov 3 (EST) | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-halloween-25-off-2-free-add-ons-bi-weekly-payouts-90-performance-split-ends-nov-3-est/ |
-| 2025-10-20 | Funded Trading Plus | Funded Trading Plus — Prestige Pro Launch: 10% OFF + Scale to $2.5M (65% Weekly or 80% Bi-Weekly) | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-prestige-pro-launch-10-off-scale-to-2-5m-65-weekly-or-80-bi-weekly/ |
-| 2025-10-20 | Funded Trading Plus | Funded Trading Plus — Halloween Spin to Win: Up to 50% OFF — Deal (no coupon required) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-halloween-spin-to-win-up-to-50-off-deal-no-coupon-required/ |

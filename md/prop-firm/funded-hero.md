@@ -20,6 +20,7 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Offer: 70% Off
 - Code: PFD
 - Scope: all challenges, 3-Step Villain, $100K account
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
 
 ## Funded Hero deal FAQ
@@ -50,7 +51,7 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off)
+- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween
 - 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
 - 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
 - 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)

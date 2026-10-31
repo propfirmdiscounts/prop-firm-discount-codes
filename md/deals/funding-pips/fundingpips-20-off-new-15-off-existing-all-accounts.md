@@ -13,7 +13,6 @@ FundingPips is offering 15% off — discount code **HALLOWEEN**.
 - Code: HALLOWEEN
 - Scope: new users, existing users, all account types, all account sizes
 - Deal: https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/
-- Verified standing exclusive code: 7cb05f21 (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

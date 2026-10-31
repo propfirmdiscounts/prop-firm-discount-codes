@@ -17,6 +17,7 @@ The verified The5ers discount code is **NKY03MTJGM** — Up to 5% off, works any
 - Offer ends: Ended
 - Offer: Only $12
 - Scope: $2.5K High Stakes Account
+- Event: New Year's Eve
 - Deal page: https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/
 
 ## Deals (last 2 months, newest first)

@@ -20,6 +20,7 @@ The verified Instant Funding discount code is **AFFVOYAGE61** — Up to 10% off,
 - Offer: 30% Off
 - Code: TREAT30
 - Scope: all accounts, instant funding accounts, profit split add-on, PlusPoints cashback
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/
 
 ## Instant Funding deal FAQ
@@ -50,7 +51,7 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) (30% Off)
+- 2026-10-26 - [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) (30% Off) — Halloween
 - 2026-10-20 - [Instant Funding 40% Off Everything - Discount Code](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) (40% Off) — ended 2026-10-20
 - 2026-10-16 - [Instant Funding 35% Off Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) (35% Off)
 - 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off) — ended 2026-10-15

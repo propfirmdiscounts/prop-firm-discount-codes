@@ -15,6 +15,7 @@ No live discount code for FTMO right now — no new deals in the last 2 months. 
 - Offer ends: Ended
 - Offer: 20% Off
 - Scope: All FTMO Challenges
+- Event: New Year's Eve
 - Deal page: https://propfirmdiscount.com/deals/ftmo/ftmo-new-year-flash-sale-20-off/
 
 ## Deals (last 2 months, newest first)

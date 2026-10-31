@@ -20,6 +20,7 @@ The verified WeMasterTrade discount code is **PFD** — Up to 20% off, works any
 - Offer: 36% Off
 - Code: TREAT36
 - Scope: all packages
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
 
 ## WeMasterTrade deal FAQ
@@ -46,7 +47,7 @@ Buyers seeking a lower entry cost on any package may find it relevant. Buyers wh
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-29 - [WeMasterTrade Halloween 36% Off All Packages Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) (36% Off)
+- 2026-10-29 - [WeMasterTrade Halloween 36% Off All Packages Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) (36% Off) — Halloween
 - 2026-10-27 - [WeMasterTrade 33% Off All Packages Plus Tiered BOGO](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) (33% Off)
 - 2026-10-23 - [WeMasterTrade 33% Off All Packages in Flash Sale](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) (33% Off)
 - 2026-10-03 - [WeMasterTrade Flash Sale: 30% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) (30% Off)

@@ -19,6 +19,7 @@ The verified Seacrest Markets discount code is **jackichun** — Up to 5% off, w
 - Offer ends: Ended
 - Offer: 25% Off
 - Scope: All 1-Step, 2-Step, and 3-Step plans
+- Event: New Year's Eve
 - Deal page: https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/
 
 ## Deals (last 2 months, newest first)

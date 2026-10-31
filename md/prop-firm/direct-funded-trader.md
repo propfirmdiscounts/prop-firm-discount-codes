@@ -20,6 +20,7 @@ The verified Direct Funded Trader discount code is **PFD** — Up to 50% off, wo
 - Offer: 40% Off
 - Code: PFD
 - Scope: Instant Accounts, Fast Funding Accounts, Evaluation Accounts
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/
 
 ## Direct Funded Trader deal FAQ
@@ -42,7 +43,7 @@ No end date is stated in the promotion. Follow the Start here link to the offici
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) (40% Off)
+- 2026-10-26 - [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) (40% Off) — Halloween
 - 2026-10-05 - [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) (50% Off)
 - 2026-09-26 - [Direct Funded Trader 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) (50% Off)
 - 2026-09-08 - [Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) (Only $5)

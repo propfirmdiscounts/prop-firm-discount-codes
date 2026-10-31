@@ -13,6 +13,7 @@ No live discount code for Lux Trading Firm right now — newest deals and offers
 - Offer ends: 2026-11-27
 - Offer: 30% Off
 - Scope: 1-Step Evaluation, $1M account, Instant Funding, $400K account, Black Friday
+- Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/
 
 ## Lux Trading Firm deal FAQ
@@ -39,4 +40,4 @@ It may suit buyers who had already considered one of the two named accounts and 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [Lux Trading Firm £699 $1M Account Black Friday](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/) (30% Off)
+- 2026-10-22 - [Lux Trading Firm £699 $1M Account Black Friday](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/) (30% Off) — Black Friday

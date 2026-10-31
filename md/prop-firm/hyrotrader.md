@@ -18,6 +18,7 @@ The verified HyroTrader discount code is **PFD** — Up to 5% off, works any tim
 - Offer: 15% Off
 - Code: FEAR15
 - Scope: all challenges
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/
 
 ## HyroTrader deal FAQ
@@ -48,5 +49,5 @@ Buyers should be cautious if the discount alone is driving the purchase. A lower
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-24 - [HyroTrader Halloween 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) (15% Off)
+- 2026-10-24 - [HyroTrader Halloween 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) (15% Off) — Halloween
 - 2026-09-18 - [HyroTrader: 10% Off Evaluation Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) (10% Off)

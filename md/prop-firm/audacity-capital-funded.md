@@ -16,6 +16,7 @@ The newest AudaCity Capital discount code is **HALLOWEEN** — 35% off (October 
 - Offer: 35% Off
 - Code: HALLOWEEN
 - Scope: Ability 2-Step Program, Challenge, Upfront Fee
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/
 
 ## AudaCity Capital deal FAQ
@@ -42,5 +43,5 @@ The discount is available during the firm's Halloween campaign period. No exact 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-16 - [AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/) (35% Off)
+- 2026-10-16 - [AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/) (35% Off) — Halloween
 - 2026-09-11 - [AudaCity Capital 35% Off All Programs Back to Business](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-all-programs/) (35% Off)

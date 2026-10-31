@@ -18,6 +18,7 @@ The verified FundedNext discount code is **PFDC** — Up to 20% off, works any t
 - Offer: 41% Off
 - Code: FNTRICK
 - Scope: Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, new users, existing users
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/
 
 ## FundedNext deal FAQ
@@ -48,7 +49,7 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) (41% Off)
+- 2026-10-27 - [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) (41% Off) — Halloween
 - 2026-10-12 - [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) (32% Off)
 - 2026-10-01 - [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) (Only $29.99)
 - 2026-09-15 - [FundedNext 20% Off New or 15% Off Existing 50K Stellar Evaluation Accounts](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) (20% Off)

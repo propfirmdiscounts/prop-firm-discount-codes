@@ -15,6 +15,7 @@ No live discount code for Klein Funding right now — no new deals in the last 2
 - Offer ends: Ended
 - Offer: 5% Off
 - Scope: Standard Accounts, BOGO
+- Event: Valentine's Day
 - Deal page: https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/
 
 ## Deals (last 2 months, newest first)

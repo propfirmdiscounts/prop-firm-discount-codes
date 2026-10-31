@@ -19,6 +19,7 @@ The verified Forex Funds Flow discount code is **PFD** — Up to 10% off, works 
 - Offer ends: Ended
 - Offer: 15% Off
 - Scope: All programs
+- Event: World Cup
 - Deal page: https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/
 
 ## Deals (last 2 months, newest first)

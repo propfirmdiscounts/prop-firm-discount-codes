@@ -15,6 +15,7 @@ No live discount code for Ifunds right now — no new deals in the last 2 months
 - Offer ends: Ended
 - Offer: 10% Off
 - Scope: $10k Funded Account
+- Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/ifunds/ifunds-black-friday-10-off-10k-account/
 
 ## Deals (last 2 months, newest first)

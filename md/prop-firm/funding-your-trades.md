@@ -20,6 +20,7 @@ The verified Funding Your Trades discount code is **PFD** — Up to 2% off, work
 - Offer: 45% Off
 - Code: FYTWEEN
 - Scope: Halloween promotion, BOGO Instantly, first reward in 24 hours, free evaluation reset, reward split, cashback, daily drawdown option, reward points
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/
 
 ## Funding Your Trades deal FAQ
@@ -50,7 +51,7 @@ It is a purchase entitlement for a second evaluation account at no additional co
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [Funding Your Trades 45% Off Halloween Challenges Plus BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) (45% Off)
+- 2026-10-22 - [Funding Your Trades 45% Off Halloween Challenges Plus BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) (45% Off) — Halloween
 - 2026-10-13 - [Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/) (40% Off) — ended 2026-10-20
 - 2026-09-30 - [Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/) (40% Off)
 - 2026-09-14 - [Funding Your Trades 50% Off Challenge Pricing Valid Tonight Only](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-50-discount/) (50% Off)

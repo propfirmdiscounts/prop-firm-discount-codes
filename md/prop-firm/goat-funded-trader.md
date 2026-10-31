@@ -53,9 +53,9 @@ No end date is given for this promotion. Readers should check the deal page for 
 ## Deals (last 2 months, newest first)
 
 - 2026-10-27 - [Goat Funded Trader 8% Off Prediction Market Evaluations](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) (8% Off)
-- 2026-10-26 - [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) (50% Off)
+- 2026-10-26 - [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) (50% Off) — Halloween
 - 2026-10-22 - [Goat Funded Trader 50% Off $100K Account - Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off) — ended 2026-10-25
 - 2026-09-30 - [Goat Funded Trader: 50% Off All Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/) (50% Off)
 - 2026-09-07 - [Goat Funded Trader 45% Off Upfront Entry Cost for Instant and 2-Step Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-percent-discount/) (45% Off)
-- 2026-09-06 - [Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/) (50% Off)
+- 2026-09-06 - [Goat Funded Trader 50% Off Evaluation Accounts: Labor Day Entry Fee Reduction](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-labor-day/) (50% Off) — Labor Day
 - 2026-09-01 - [Goat Funded Trader 45% Off All Plans Lowers Upfront Entry Cost](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-off-all-plans/) (45% Off)

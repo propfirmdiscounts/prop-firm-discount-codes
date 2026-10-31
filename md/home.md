@@ -1,23 +1,12 @@
 # Prop Firm Discount Codes
 
-The top prop firm offer this month is **PFD** from Bulenox — 91% off (standing exclusive code, lifetime).
+The top verified prop firm discount code is **PFD** from Phidias Propfirm — 90% off.
 
 > The three fact blocks of the PropFirmDiscount homepage as plain tables. Sponsored cards shown on the homepage are not listed here. Full dataset: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Top October 2026 Discount Codes
 
-| # | Prop firm | Discount code | Discount | Offer ends | Firm page |
-|---|---|---|---|---|---|
-| 1 | Bulenox | PFD | 91% | Limited time | https://propfirmdiscount.com/prop-firm/bulenox/ |
-| 2 | Phidias Propfirm | PFD | 90% | Ends Nov 1, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 3 | Elite Trader Funding | BULLTOBER | 90% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 4 | Alpha Funded | BIG80 | 80% | Ended Oct 26, 2026 | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
-| 5 | RebelsFunding | SEVEN | 73% | Ended Oct 15, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 6 | Funded Hero | PFD | 70% | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 7 | Funding Traders | PFD | 70% | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 8 | Purdia Capital | STATIC70 | 70% | Ended Oct 14, 2026 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
-| 9 | Plutus Trade Base | SPOOKY | 66% | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 10 | We Get Funded | FED65 | 65% | Ended Oct 28, 2026 | https://propfirmdiscount.com/prop-firm/we-get-funded/ |
+No prop firm deal carrying a discount code has been posted this month, so this table is empty; the ranking lives at https://propfirmdiscount.com/best-prop-firm-discounts/.
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
@@ -40,6 +29,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% Off | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
+| 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% Off | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% Off | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
 | 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
 | 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% Off | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
@@ -68,5 +59,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
-| 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
-| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |

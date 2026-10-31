@@ -13,7 +13,6 @@ WSFunded is offering 60% off — discount code **HALLOWEEN60**.
 - Code: HALLOWEEN60
 - Scope: ELITE Challenge, 2.5K to 25K accounts
 - Deal: https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/
-- Verified standing exclusive code: wsf960316 (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

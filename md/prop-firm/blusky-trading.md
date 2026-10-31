@@ -16,6 +16,7 @@ The newest BluSky Trading discount code is **SPOOKY** — $10-$120 Off (October 
 - Offer: $10-$120 Off
 - Code: SPOOKY
 - Scope: Propel, Launch, 100K, 200K Static, 300K Static, 50K, 100K, 200K Static
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/
 
 ## BluSky Trading deal FAQ
@@ -46,5 +47,5 @@ The promotion is applied through the official site link in the Quick summary at 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) ($10-$120 Off)
+- 2026-10-26 - [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) ($10-$120 Off) — Halloween
 - 2026-10-02 - [BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/) (30% Off)

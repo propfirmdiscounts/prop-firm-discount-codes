@@ -24,4 +24,4 @@ The verified ThinkCapital discount code is **PFD** — Up to 10% off, works any 
 ## Deals (last 2 months, newest first)
 
 - 2026-09-21 - [ThinkCapital 15% Off $2,500 to $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) (15% Off)
-- 2026-09-07 - [ThinkCapital 20% Discount on $2,500 - $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) (20% Off)
+- 2026-09-07 - [ThinkCapital 20% Discount on $2,500 - $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) (20% Off) — Labor Day

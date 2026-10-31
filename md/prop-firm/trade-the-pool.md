@@ -19,8 +19,9 @@ The verified Trade The Pool discount code is **WWS4GW** — Up to 10% off, works
 - Offer ends: Ended
 - Offer: 15% Off
 - Scope: all accounts, all sizes, all models
+- Event: Labor Day
 - Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-02 - [Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) (15% Off)
+- 2026-09-02 - [Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) (15% Off) — Labor Day

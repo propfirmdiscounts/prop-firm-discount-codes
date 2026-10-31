@@ -18,6 +18,7 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 - Offer: 79.6% Off
 - Code: BOO6K
 - Scope: Forex Fast, 1-Step, $6K account, MetaTrader 5
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
 
 ## For Traders deal FAQ
@@ -48,8 +49,8 @@ A buyer who plans to purchase the $6K Forex Fast 1-Step MT5 challenge may find t
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) (79.6% Off)
-- 2026-10-26 - [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) (25% Off)
+- 2026-10-30 - [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) (79.6% Off) — Halloween
+- 2026-10-26 - [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) (25% Off) — Halloween
 - 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
 - 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)
 - 2026-10-05 - [For Traders Cuts $6K Fast Crypto Challenge to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) (Only $9.99)

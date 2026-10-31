@@ -15,6 +15,7 @@ No live discount code for Trading Funds right now — no new deals in the last 2
 - Offer ends: Ended
 - Offer: 40% Off
 - Scope: 1-step challenges, 2-step challenges, instant funding
+- Event: Easter
 - Deal page: https://propfirmdiscount.com/deals/tradingfunds/trading-funds-40-percent-easter-discount/
 
 ## Deals (last 2 months, newest first)

@@ -16,6 +16,7 @@ The newest Alpha Funded discount code is **SCARY70** — 70% off (October 27, 20
 - Offer: 70% Off
 - Code: SCARY70
 - Scope: Instant Funding, Forex, Futures, any size, one-time fee, 100% profit split add-on
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/
 
 ## Alpha Funded deal FAQ
@@ -46,8 +47,8 @@ Use the Start here link at the end of this article to reach the firm's official 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) (70% Off)
+- 2026-10-27 - [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) (70% Off) — Halloween
 - 2026-10-25 - [Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/) (80% Off) — ended 2026-10-26 19:00
-- 2026-10-14 - [Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/) (Only $199)
-- 2026-10-01 - [Alpha Trader Firm Halloween Deal: 50% - 60% Off & Buy 3 Get 1 Free](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/) (50% Off)
-- 2026-09-03 - [Alpha Trader Firm Labor Day Promo: 70% Off $200K+ Accounts & Free Add-ons](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-labor-day-70-off-200k/) (70% Off)
+- 2026-10-14 - [Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/) (Only $199) — Halloween
+- 2026-10-01 - [Alpha Trader Firm Halloween Deal: 50% - 60% Off & Buy 3 Get 1 Free](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/) (50% Off) — Halloween
+- 2026-09-03 - [Alpha Trader Firm Labor Day Promo: 70% Off $200K+ Accounts & Free Add-ons](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-labor-day-70-off-200k/) (70% Off) — Labor Day

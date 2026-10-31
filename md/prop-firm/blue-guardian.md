@@ -20,6 +20,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 35% off, works any
 - Offer: 25% Off
 - Code: PFD
 - Scope: Reserve evaluation accounts, 25K, 50K, 100K, 150K, one-phase evaluation, Halloween promotion
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/
 
 ## Blue Guardian deal FAQ
@@ -50,6 +51,6 @@ No expiry date is stated in the source material. Readers should treat the validi
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-20 - [Blue Guardian 25% off Reserve discount code](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) (25% Off)
-- 2026-10-12 - [Blue Guardian: 35% Off All Accounts Plus 200% Refund](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) (35% Off)
+- 2026-10-20 - [Blue Guardian 25% off Reserve discount code](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) (25% Off) — Halloween
+- 2026-10-12 - [Blue Guardian: 35% Off All Accounts Plus 200% Refund](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) (35% Off) — Halloween
 - 2026-10-02 - [Blue Guardian: 50% Off Futures Accounts Starting at $59](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) (50% Off) — ended 2026-10-04

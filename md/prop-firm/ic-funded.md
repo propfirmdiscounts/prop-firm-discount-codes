@@ -1,49 +1,47 @@
 # IC Funded Discount Code
 
-The newest IC Funded discount code is **TREAT40** — 40% off (October 26, 2026). The campaign code changes with each promotion; newest first below.
+The newest IC Funded discount code is **RENACER40** — 40% off (October 31, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-26
+- Last deal published: 2026-10-31
 - Trustpilot: 3.4/5 (184 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 
-## Current deal: IC Funded Halloween 40% Off All Challenges
+## Current deal: IC Funded 40% Off Every Challenge Día de Muertos
 
-- Published: 2026-10-26
-- Offer ends: 2026-10-31
+- Published: 2026-10-31
+- Offer ends: 2026-11-02 17:59
 - Offer: 40% Off
-- Code: TREAT40
-- Scope: all challenges, 1-Step, 2-Step, any size, up to $500K 2-Step accounts
-- Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/
+- Code: RENACER40
+- Scope: Every challenge type, Día de Muertos
+- Event: Halloween
+- Deal page: https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/
 
 ## IC Funded deal FAQ
 
 **What discount does IC Funded offer in this promotion?**
 
-IC Funded offers 40% off all challenges. The reduction applies to the purchase price, not to trading rules or risk parameters.
+IC Funded offers 40% off entry costs for every challenge type in its Du00eda de Muertos offer, framed for Halloween. The cut lowers entry cost only, with no change named to other account terms.
 
-**Which challenge types and sizes does the offer cover?**
+**Which challenge types does the IC Funded offer cover?**
 
-The offer covers every challenge type, including 1-Step and 2-Step models, in any size. The promotion also states up to $500K for 2-Step accounts.
+The offer covers every challenge type, with a size picked at purchase. No challenge type is named as excluded from the offer.
 
-**When is the IC Funded Halloween offer valid?**
+**When does the IC Funded offer end?**
 
-The offer is valid 26-31 October. The final date in that window is 31 October.
+The offer runs 31 October to 2 November, ending 2 November at 23:59 CET. That cutoff is stated in the offer itself.
 
-**Does the promotion change trading rules or risk?**
+**What stays unchanged in this IC Funded promotion?**
 
-No. The promotion only reduces entry cost and does not modify trading rules, drawdown limits or risk parameters.
+No change to other account terms is named beyond the 40% cut. The promotion does not name a change to any other account term.
 
-**Who may find this IC Funded offer relevant?**
+**Who may find this IC Funded pricing relevant and who should pause?**
 
-It may suit a buyer who has settled on a challenge model and size and wants a lower entry price for that purchase. The relevance stays at purchase level, not at trading level.
-
-**How does a reader reach the IC Funded offer?**
-
-Use the Start here link at the end of this article to reach the official site and apply the active promotion. The link sits in the Quick summary at the end of the article.
+The pricing may suit a buyer who wants a lower entry cost for any challenge type. A buyer should pause if the purchase timing falls after 2 November at 23:59 CET, since that cutoff is stated in the offer.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [IC Funded Halloween 40% Off All Challenges](https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/) (40% Off)
+- 2026-10-31 - [IC Funded 40% Off Every Challenge Día de Muertos](https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/) (40% Off) — Halloween
+- 2026-10-26 - [IC Funded Halloween 40% Off All Challenges](https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/) (40% Off) — Halloween
 - 2026-10-18 - [IC Funded 40% Off All Challenges Plus Instant Funding - Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) (40% Off) — ended 2026-10-20
 - 2026-10-06 - [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) (30% Off) — ended 2026-10-25

@@ -45,6 +45,6 @@ No expiry date is stated for this offer. The promotion is presented without a st
 ## Deals (last 2 months, newest first)
 
 - 2026-10-29 - [Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges](https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/) (50% Off)
-- 2026-10-14 - [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) (20% Off)
-- 2026-10-14 - [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) (40% Off)
+- 2026-10-14 - [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) (20% Off) — Halloween
+- 2026-10-14 - [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) (40% Off) — Halloween
 - 2026-09-10 - [Hola Prime: 20% Off $5K-$100K Forex Evaluations and Direct Accounts](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-forex-evaluations-100k/) (20% Off)

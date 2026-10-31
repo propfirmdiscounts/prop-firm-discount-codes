@@ -16,6 +16,7 @@ The newest Plutus Trade Base discount code is **SPOOKY** — 66% off (October 24
 - Offer: 66% Off
 - Code: SPOOKY
 - Scope: Lightning, Freedom, any challenge, any size, sitewide, every plan
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/
 
 ## Plutus Trade Base deal FAQ
@@ -42,9 +43,9 @@ It may suit a buyer who already planned a Lightning or Freedom challenge at a ch
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-24 - [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) (66% Off)
+- 2026-10-24 - [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) (66% Off) — Halloween
 - 2026-10-04 - [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) (50% Off)
 - 2026-09-12 - [Plutus Trade Base 50% Off Challenge Pricing](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-challenge-pricing/) (50% Off)
 - 2026-09-12 - [Plutus Trade Base 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-accounts/) (50% Off)
-- 2026-09-05 - [Plutus Trade Base 50% Off All Evaluation Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/) (50% Off)
-- 2026-09-03 - [Plutus Trade Base 50% Off Evaluation Challenges for Labor Day](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-labor-day/) (50% Off)
+- 2026-09-05 - [Plutus Trade Base 50% Off All Evaluation Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-evaluation-challenges/) (50% Off) — Labor Day
+- 2026-09-03 - [Plutus Trade Base 50% Off Evaluation Challenges for Labor Day](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-labor-day/) (50% Off) — Labor Day

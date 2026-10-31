@@ -16,6 +16,7 @@ The newest WSFunded discount code is **HALLOWEEN60** — 60% off (October 30, 20
 - Offer: 60% Off
 - Code: HALLOWEEN60
 - Scope: ELITE Challenge, 2.5K to 25K accounts
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/
 
 ## WSFunded deal FAQ
@@ -50,8 +51,8 @@ The pricing may suit a buyer who wants a lower entry cost for an ELITE account i
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween](https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/) (60% Off)
-- 2026-10-26 - [WSFunded Halloween Sale: 50% Off All Challenges](https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/) (50% Off)
+- 2026-10-30 - [WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween](https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/) (60% Off) — Halloween
+- 2026-10-26 - [WSFunded Halloween Sale: 50% Off All Challenges](https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/) (50% Off) — Halloween
 - 2026-10-12 - [WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/) (60% Off) — ended 2026-10-18
 - 2026-10-09 - [WSFunded 50% Off All Challenges and New York Prize Draw](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/) (50% Off)
 - 2026-10-02 - [WSFunded 50% Off All Challenges & New 2% Target Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/) (50% Off)
@@ -59,5 +60,5 @@ The pricing may suit a buyer who wants a lower entry cost for an ELITE account i
 - 2026-09-19 - [WSFunded 60% Off $2.5K to $25K Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-percent-discount-25k/) (60% Off)
 - 2026-09-11 - [WSFunded 50% Off ELITE Challenge Entry Fee](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-percent-off-elite-challenge/) (50% Off)
 - 2026-09-08 - [WSFunded 30% Off Challenge Pricing and 200% Refund on Instant Accounts](https://propfirmdiscount.com/deals/wsfunded/wsfunded-30-off-200-refund-instant-accounts/) (30% Off)
-- 2026-09-07 - [WSFunded 60% Off Evaluation Accounts For $2.5K To $25K Sizes](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-sizes/) (60% Off)
+- 2026-09-07 - [WSFunded 60% Off Evaluation Accounts For $2.5K To $25K Sizes](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-sizes/) (60% Off) — Labor Day
 - 2026-09-04 - [WSFunded 50% Off All Evaluation Accounts and ELITE Access](https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-accounts-elite/) (50% Off)

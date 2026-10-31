@@ -20,6 +20,7 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 - Offer: 45% Off
 - Code: SPOOKY
 - Scope: challenges, evaluations, Atlas Balance cashback, second reward fee back
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
 
 ## Atlas Funded deal FAQ
@@ -50,9 +51,9 @@ No end date is stated for this offer. The promotion is described as a Halloween 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) (45% Off)
-- 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off)
-- 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — ended 2026-10-18
+- 2026-10-26 - [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) (45% Off) — Halloween
+- 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off) — Halloween
+- 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — Halloween — ended 2026-10-18
 - 2026-10-07 - [Atlas Funded 45% Off All Account Sizes - New Era Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) (45% Off)
 - 2026-09-26 - [Atlas Funded 35% Off Any Challenge - September Close](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-any-challenge-september-close/) (35% Off)
 - 2026-09-19 - [Atlas Funded 40% Off Challenges - Weekend Promo](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-free-reset/) (40% Off)

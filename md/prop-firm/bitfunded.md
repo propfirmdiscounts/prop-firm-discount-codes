@@ -15,6 +15,7 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 - Offer ends: Limited time
 - Offer: 55% Off
 - Scope: Evaluation accounts, Halloween Drop
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/
 
 ## Bitfunded deal FAQ
@@ -41,6 +42,6 @@ The pricing may suit a buyer who wants a lower entry cost for an evaluation acco
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [Bitfunded 55% Off Halloween Drop Plus 20X Leverage](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/) (55% Off)
-- 2026-10-30 - [Bitfunded Halloween $499 Monster Bundle With Free Instant](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/) (Only $499)
+- 2026-10-30 - [Bitfunded 55% Off Halloween Drop Plus 20X Leverage](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/) (55% Off) — Halloween
+- 2026-10-30 - [Bitfunded Halloween $499 Monster Bundle With Free Instant](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/) (Only $499) — Halloween
 - 2026-10-20 - [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) (60% Off) — ended 2026-10-23

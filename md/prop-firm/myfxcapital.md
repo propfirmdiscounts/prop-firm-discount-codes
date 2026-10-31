@@ -15,6 +15,7 @@ No live discount code for MyFxCapital right now — no new deals in the last 2 m
 - Offer ends: Ended
 - Offer: 70% Off
 - Scope: All 2-Step Evaluations.
+- Event: Cyber Monday
 - Deal page: https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-cyber-monday-70-off-2-step/
 
 ## Deals (last 2 months, newest first)

@@ -15,6 +15,7 @@ No live discount code for Darwinex Zero right now — no new deals in the last 2
 - Offer ends: Ended
 - Offer: 20% Off
 - Scope: 1-Year and 3-Year subscription plans.
+- Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-black-friday-20-off-long-term-plans/
 
 ## Deals (last 2 months, newest first)

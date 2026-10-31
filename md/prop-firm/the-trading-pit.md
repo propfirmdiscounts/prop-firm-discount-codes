@@ -15,6 +15,7 @@ No live discount code for The Trading Pit right now — newest deals and offers 
 - Offer ends: 2026-11-01
 - Offer: 50% Off
 - Scope: challenges
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/
 
 ## The Trading Pit deal FAQ
@@ -41,6 +42,6 @@ The timing may suit a buyer who already knows their preferred challenge size and
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [The Trading Pit Halloween 50% Off Challenges Flash Sale](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/) (50% Off)
+- 2026-10-30 - [The Trading Pit Halloween 50% Off Challenges Flash Sale](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/) (50% Off) — Halloween
 - 2026-10-16 - [The Trading Pit 35% Off Selected Accounts And Free $5K Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/) (35% Off) — ended 2026-10-23
 - 2026-10-05 - [The Trading Pit: 35% Off All Products and Free $5,000 Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/) (35% Off) — ended 2026-10-23

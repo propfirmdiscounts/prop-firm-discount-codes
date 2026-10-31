@@ -13,6 +13,7 @@ No live discount code for The Concept Trading right now — newest deals and off
 - Offer ends: 2026-10-31 09:59 (ended)
 - Offer: 45% Off
 - Scope: eligible programs, Starter Programs excluded, free retry claim within 60 days of account failure
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/
 
 ## The Concept Trading deal FAQ
@@ -43,7 +44,7 @@ Follow the Start here link at the end of this article to reach the official offe
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) (45% Off) — ended 2026-10-31 09:59
+- 2026-10-26 - [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) (45% Off) — Halloween — ended 2026-10-31 09:59
 - 2026-10-20 - [The Concept Trading 35% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/) (35% Off) — ended 2026-10-24
 - 2026-10-13 - [The Concept Trading: 40% Off Eligible Programs + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/) (40% Off) — ended 2026-10-16
 - 2026-10-05 - [The Concept Trading 30% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/) (30% Off) — ended 2026-10-09

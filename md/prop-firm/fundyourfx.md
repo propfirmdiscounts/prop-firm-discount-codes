@@ -14,6 +14,7 @@ The newest FundYourFX discount code is **HALLOWEEN65** — 65% off (October 18, 
 - Offer: 65% Off
 - Code: HALLOWEEN65
 - Scope: All plans
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/
 
 ## FundYourFX deal FAQ
@@ -36,7 +37,7 @@ Buyers who had already planned a purchase may find the lower upfront price relev
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-18 - [FundYourFX 65% Off All Plans: Check the Halloween Entry Fee](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/) (65% Off)
+- 2026-10-18 - [FundYourFX 65% Off All Plans: Check the Halloween Entry Fee](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/) (65% Off) — Halloween
 - 2026-10-12 - [FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/) (55% Off) — ended 2026-10-17
 - 2026-10-11 - [FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/) (55% Off) — ended 2026-10-17
 - 2026-10-01 - [FundYourFX 60% Off Entry Cost Extension](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-extension/) (60% Off) — ended 2026-10-08

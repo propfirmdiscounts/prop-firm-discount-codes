@@ -16,6 +16,7 @@ The newest City Traders Imperium (CTI) discount code is **FEARLESS15** — 15% o
 - Offer: 15% Off
 - Code: FEARLESS15
 - Scope: 1-Step, 2-Step, Instant Funding
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/
 
 ## City Traders Imperium (CTI) deal FAQ
@@ -38,9 +39,9 @@ No. It affects purchase pricing only and does not modify trading rules, drawdown
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off)
-- 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — ended 2026-10-25
-- 2026-10-07 - [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) (15% Off) — ended 2026-10-11
+- 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off) — Halloween
+- 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — Halloween — ended 2026-10-25
+- 2026-10-07 - [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) (15% Off) — Halloween — ended 2026-10-11
 - 2026-09-30 - [City Traders Imperium (CTI): 10% Off Direct Funding Accounts](https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/) (10% Off)
 - 2026-09-23 - [City Traders Imperium 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-promotion/) (15% Off)
 - 2026-09-16 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-discount/) (15% Off)

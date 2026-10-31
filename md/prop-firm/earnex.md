@@ -12,6 +12,7 @@ No live discount code for Earnex Prime right now — no new deals in the last 2 
 - Offer ends: Ended
 - Offer: 60% Off
 - Scope: Instant, 2-Step, and 3-Step accounts.
+- Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-off-bonus/
 
 ## Deals (last 2 months, newest first)

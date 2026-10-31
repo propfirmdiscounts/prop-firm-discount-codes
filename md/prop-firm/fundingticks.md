@@ -12,6 +12,7 @@ No live discount code for FundingTicks right now — no new deals in the last 2 
 - Offer ends: Ended
 - Offer: 35% Off
 - Scope: Zero Master Accounts and All Evaluations
+- Event: Christmas
 - Deal page: https://propfirmdiscount.com/deals/fundingticks/fundingticks-holiday-offer-35-off-zero-evaluation-accounts/
 
 ## Deals (last 2 months, newest first)

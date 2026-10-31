@@ -5,21 +5,21 @@
         "discount": "25%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13054,
-            "title": "Halloween 50% Off Every Challenge Up To $200K",
+            "deal_id": 13077,
+            "title": "65% off every account, every type and size",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "65%",
             "scope": [
-                "Challenge Evaluation, Instant Funding, Pro, Up To $200K"
+                "Every Account, Every Account Type, Every Account Size"
             ],
-            "date_published": "2026-10-28",
-            "date_exp": "2026-11-01 00:00",
+            "date_published": "2026-10-31",
+            "date_exp": "2026-11-02 17:59",
             "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/"
+            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/"
         },
         "deal_count": {
-            "total": 58,
-            "this_year": 32,
+            "total": 59,
+            "this_year": 33,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
@@ -29,6 +29,36 @@
         "trustpilot_url": "https://www.trustpilot.com/review/finotivefunding.com",
         "description": "Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.\nWe provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.\nOur mission is simple \u2014 to build the fairest, most transparent, and most flexible funding model in the industry.\nWith static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we\u2019ve redefined what traders can expect from a prop firm.\nSince 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support.\nEvery account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success.\nTrade fairly. Trade freely. Trade Finotive.",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/finotive_funding_logo.jpg"
+    },
+    {
+        "prop_firm": "Crypto Fund Trader",
+        "code": "platinum5",
+        "discount": "5%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12791,
+            "title": "22% Reduction on 1-Phase and 2-Phase Evaluations",
+            "offer_type": "coupon",
+            "discount_value": "22%",
+            "scope": [
+                "1-Phase, 2-Phase"
+            ],
+            "date_published": "2026-09-15",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/"
+        },
+        "deal_count": {
+            "total": 6,
+            "this_year": 4,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/cryptofundtrader",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/crypto-fund-trader/",
+        "trustpilot_score": 4.2,
+        "trustpilot_reviews": 1109,
+        "trustpilot_url": "https://www.trustpilot.com/review/cryptofundtrader.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2024/11/Crypto-Fund-Trader-Logo_2-min.jpg"
     },
     {
         "prop_firm": "E8 Markets",
@@ -62,250 +92,35 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/e8-markets-logo-1.jpg"
     },
     {
-        "prop_firm": "QT Funded",
+        "prop_firm": "Equity Edge",
         "code": "PFD",
-        "discount": "50%",
+        "discount": "20%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13027,
-            "title": "50% Off Halloween Entry With Second Account Free",
-            "offer_type": "coupon",
-            "discount_value": "50%",
-            "scope": [
-                "Challenge Purchases, Second Account Same Size"
-            ],
-            "date_published": "2026-10-26",
-            "date_exp": "2026-11-01 00:00",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/"
-        },
-        "deal_count": {
-            "total": 60,
-            "this_year": 37,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/qtfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
-        "trustpilot_score": 3.5,
-        "trustpilot_reviews": 13369,
-        "trustpilot_url": "https://www.trustpilot.com/review/quanttekel.com",
-        "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/qtfunded-logo.jpg"
-    },
-    {
-        "prop_firm": "CK PropFirm",
-        "code": "PFD",
-        "discount": "10%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13013,
-            "title": "80% Off Challenges in Final 24 Hours",
-            "offer_type": "coupon",
-            "discount_value": "80%",
-            "scope": [
-                "2-Step Pro, Other Challenges, No Consistency Rule On 2-Step Pro, News Trading Allowed"
-            ],
-            "date_published": "2026-10-23",
-            "date_exp": "2026-10-24 (ended)",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/"
-        },
-        "deal_count": {
-            "total": 50,
-            "this_year": 34,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/ckcapital",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
-        "trustpilot_score": 3,
-        "trustpilot_reviews": 407,
-        "trustpilot_url": "https://www.trustpilot.com/review/ckcapital.co.uk",
-        "description": "CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.\nWe offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.\nTraders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance.\nAt CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/10/ck_propfirm_logo_2.jpg"
-    },
-    {
-        "prop_firm": "Forexive",
-        "code": "WHCTXQHRIG",
-        "discount": "10%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12902,
-            "title": "30% Off All Evaluation Accounts",
+            "deal_id": 12628,
+            "title": "30% Off Flagship Evaluation Accounts",
             "offer_type": "coupon",
             "discount_value": "30%",
             "scope": [
-                "All Challenges, All Account Sizes, Limited Time"
+                "Flagship Challenge, 1-Step, 2-Step"
             ],
-            "date_published": "2026-10-14",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/"
-        },
-        "deal_count": {
-            "total": 25,
-            "this_year": 8,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/forexive",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/forexive/",
-        "trustpilot_score": 3.6,
-        "trustpilot_reviews": 112,
-        "trustpilot_url": "https://www.trustpilot.com/review/forexive.com",
-        "description": "FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/forexive-logo.jpg"
-    },
-    {
-        "prop_firm": "Funded Elite",
-        "code": "AFF1864062",
-        "discount": "10%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13028,
-            "title": "Halloween cut of 40% on five challenge types",
-            "offer_type": "coupon",
-            "discount_value": "40%",
-            "scope": [
-                "Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, Activation Fee"
-            ],
-            "date_published": "2026-10-26",
-            "date_exp": "2026-10-31 23:59",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/"
-        },
-        "deal_count": {
-            "total": 36,
-            "this_year": 27,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundedelite",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-elite/",
-        "trustpilot_score": 4.2,
-        "trustpilot_reviews": 745,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundedelite.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funded-elite-logo.jpg"
-    },
-    {
-        "prop_firm": "TX3 Funding",
-        "code": "PFDC",
-        "discount": "25%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13044,
-            "title": "35% off challenge accounts for Halloween week",
-            "offer_type": "coupon",
-            "discount_value": "35%",
-            "scope": [
-                "Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts"
-            ],
-            "date_published": "2026-10-27",
-            "date_exp": "2026-10-31 23:59",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/"
-        },
-        "deal_count": {
-            "total": 63,
-            "this_year": 46,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/tx3funding",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/tx3-funding/",
-        "trustpilot_score": 3,
-        "trustpilot_reviews": 4310,
-        "trustpilot_url": "https://www.trustpilot.com/review/www.tx3funding.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/TX3-Funding-logo-2.jpg"
-    },
-    {
-        "prop_firm": "Earn2Trade",
-        "code": "PFD",
-        "discount": "50%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12792,
-            "title": "50% Off Challenge Pricing and $165 Bundle Package",
-            "offer_type": "coupon",
-            "discount_value": "50%",
-            "scope": [
-                "All Evaluation Models, Resets, Tcp25 Bundle"
-            ],
-            "date_published": "2026-10-01",
-            "date_exp": "2026-10-18 (ended)",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/"
-        },
-        "deal_count": {
-            "total": 18,
-            "this_year": 11,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/earn2trade",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
-        "trustpilot_score": 4.5,
-        "trustpilot_reviews": 5052,
-        "trustpilot_url": "https://www.trustpilot.com/review/www.earn2trade.com",
-        "description": "Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Earn2Trade-logo.jpg"
-    },
-    {
-        "prop_firm": "QT Futures",
-        "code": "PFD",
-        "discount": "50%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 10727,
-            "title": "Limited Offer: 30% OFF All Evaluations and Activation Fees",
-            "offer_type": "coupon",
-            "discount_value": "30%",
-            "scope": [
-                "All Evaluations, Activation Fees, Instant Funded"
-            ],
-            "date_published": "2026-01-19",
+            "date_published": "2026-08-03",
             "date_exp": "Ended",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/"
+            "post_url": "https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/"
         },
         "deal_count": {
-            "total": 3,
-            "this_year": 1,
+            "total": 41,
+            "this_year": 12,
             "year": 2026
         },
-        "activation_link": "https://propfirmdiscount.com/go/qtfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/qt-futures/",
-        "trustpilot_score": 3.7,
-        "trustpilot_reviews": 13197,
-        "trustpilot_url": "https://www.trustpilot.com/review/quanttekel.com",
-        "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/qt-futures-logo.jpg"
-    },
-    {
-        "prop_firm": "Seacrest Markets",
-        "code": "jackichun",
-        "discount": "5%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 10532,
-            "title": "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout",
-            "offer_type": "coupon",
-            "discount_value": "25%",
-            "scope": [
-                "All 1-Step, 2-Step, And 3-Step Plans"
-            ],
-            "date_published": "2026-01-02",
-            "date_exp": "Ended",
-            "event": "New Year's Eve",
-            "post_url": "https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/"
-        },
-        "deal_count": {
-            "total": 8,
-            "this_year": 1,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/seacrestfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/seacrest-markets/",
+        "activation_link": "https://propfirmdiscount.com/go/equityedge",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/equity-edge/",
         "trustpilot_score": 4.2,
-        "trustpilot_reviews": 2873,
-        "trustpilot_url": "https://www.trustpilot.com/review/myfundedfx.com",
-        "description": "At Seacrest Markets, speed meets reliability.\nWe deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.\nChoose the account type that fits your strategy and access multiple asset classes \u2014 all backed by responsive support and strong risk protection.\nTrade smarter. Trade faster. Trade with confidence at Seacrest Markets.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/SeacrestMarkets-logo.jpg"
+        "trustpilot_reviews": 2536,
+        "trustpilot_url": "https://www.trustpilot.com/review/equityedge.io",
+        "description": "Equity Edge Ltd., proudly based in Saint Lucia, is a dynamic prop trading firm dedicated to empowering traders with the virtual capital, tools, and insights they need to thrive in today\u2019s fast-paced markets. Established with a vision to democratize trading, we provide access to simulated accounts ranging from $2,500 to $100,000, enabling our community to test strategies and maximize profits without personal financial risk. Our innovative platform, backed by cutting-edge technology, supports real-time data analysis and seamless execution, making us a go-to choice for serious traders.\nWhat sets us apart is our strategic partnership with top social media influencers, who bring market trends and opportunities directly to our audience. Through engaging content on X, Instagram, TikTok, YouTube, and beyond, our affiliates amplify our reach, connecting with a global network of aspiring traders. We foster a transparent, trader-first culture, ensuring clear communication and fair practices\u2014our commitment to integrity is at the heart of every deal.\nJoin our growing community, where collaboration meets opportunity. Whether you\u2019re scaling your trading career or exploring new revenue streams as an influencer, Equity Edge Ltd. offers the resources and support to succeed. With a team passionate about financial empowerment, we\u2019re here to help you elevate your game. Discover the edge today and see why traders trust us to shape their future. Have questions? Our support team is ready to assist via email, live chat or Discord. Let\u2019s build your success together!",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/equityedge_logo_1.jpg"
     },
     {
         "prop_firm": "For Traders",
@@ -336,98 +151,6 @@
         "trustpilot_reviews": 1815,
         "trustpilot_url": "https://www.trustpilot.com/review/fortraders.com",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/fortraders-logo-2.jpg"
-    },
-    {
-        "prop_firm": "Dominion Funding",
-        "code": "PFD5PC",
-        "discount": "5%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12921,
-            "title": "20% Off Evaluation Account Purchase Costs",
-            "offer_type": "coupon",
-            "discount_value": "20%",
-            "scope": [
-                "All Accounts, 1-Step Lite, 25K, 50K, 100K"
-            ],
-            "date_published": "2026-10-16",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/"
-        },
-        "deal_count": {
-            "total": 22,
-            "this_year": 14,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/dominionfunding",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/dominion-funding/",
-        "trustpilot_score": 2.9,
-        "trustpilot_reviews": 289,
-        "trustpilot_url": "https://www.trustpilot.com/review/dominionfunding.trade",
-        "description": "Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Dominion-Funding-logo.jpg"
-    },
-    {
-        "prop_firm": "BullRush Prop",
-        "code": "7XTG8N",
-        "discount": "5%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12712,
-            "title": "50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure",
-            "offer_type": "coupon",
-            "discount_value": "50%",
-            "scope": [
-                "$5K Accounts, $10K Accounts, $25K Accounts, $50K Accounts, Evaluation Accounts"
-            ],
-            "date_published": "2026-09-26",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/"
-        },
-        "deal_count": {
-            "total": 8,
-            "this_year": 2,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/bullrush",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/bullrush/",
-        "trustpilot_score": 4.2,
-        "trustpilot_reviews": 82,
-        "trustpilot_url": "https://www.trustpilot.com/review/bullrush.com",
-        "description": "BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/bullrush-prop-logo-2.jpg"
-    },
-    {
-        "prop_firm": "Crypto Fund Trader",
-        "code": "platinum5",
-        "discount": "5%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12791,
-            "title": "22% Reduction on 1-Phase and 2-Phase Evaluations",
-            "offer_type": "coupon",
-            "discount_value": "22%",
-            "scope": [
-                "1-Phase, 2-Phase"
-            ],
-            "date_published": "2026-09-15",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/"
-        },
-        "deal_count": {
-            "total": 6,
-            "this_year": 4,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/cryptofundtrader",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/crypto-fund-trader/",
-        "trustpilot_score": 4.2,
-        "trustpilot_reviews": 1109,
-        "trustpilot_url": "https://www.trustpilot.com/review/cryptofundtrader.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2024/11/Crypto-Fund-Trader-Logo_2-min.jpg"
     },
     {
         "prop_firm": "Instant Funding",
@@ -461,97 +184,95 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/instantfunding_logo_2.jpg"
     },
     {
-        "prop_firm": "Blue Guardian",
-        "code": "PFD",
-        "discount": "25%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12941,
-            "title": "Reserve accounts cut by 25% with promo code",
-            "offer_type": "coupon",
-            "discount_value": "25%",
-            "scope": [
-                "Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion"
-            ],
-            "date_published": "2026-10-20",
-            "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/"
-        },
-        "deal_count": {
-            "total": 30,
-            "this_year": 20,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/blueguardian",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian/",
-        "trustpilot_score": 3.1,
-        "trustpilot_reviews": 2123,
-        "trustpilot_url": "https://www.trustpilot.com/review/blueguardian.com",
-        "description": "At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.\nTherefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/Blue-Guardian-Logo-2.jpg"
-    },
-    {
-        "prop_firm": "Lucid Trading",
-        "code": "PFD",
+        "prop_firm": "Super Funded",
+        "code": "CHUN",
         "discount": "30%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13042,
-            "title": "30% Off Every Account When DLL Is Switched On",
+            "deal_id": 12674,
+            "title": "30% Off 100K And 200K Trading Challenges",
             "offer_type": "coupon",
             "discount_value": "30%",
             "scope": [
-                "All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts"
+                "100K Challenge, 200K Challenge, Upfront Fee"
             ],
-            "date_published": "2026-10-27",
-            "date_exp": "Limited time",
+            "date_published": "2026-06-26",
+            "date_exp": "Ended",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/"
+            "post_url": "https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/"
         },
         "deal_count": {
-            "total": 23,
-            "this_year": 10,
+            "total": 29,
+            "this_year": 20,
             "year": 2026
         },
-        "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
+        "activation_link": "https://propfirmdiscount.com/go/superfunded",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/super-funded/",
         "trustpilot_score": 4.5,
-        "trustpilot_reviews": 8202,
-        "trustpilot_url": "https://www.trustpilot.com/review/lucidtrading.com",
-        "description": "Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading\u2019s goal is to provide a clear path forward through all these phases.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/lucidtrading-logo-2.jpg"
+        "trustpilot_reviews": 60,
+        "trustpilot_url": "https://www.trustpilot.com/review/superfunded.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2023/08/Super-Funded-min.jpg"
     },
     {
-        "prop_firm": "Alpha Futures",
-        "code": "Tran009503",
-        "discount": "15%",
+        "prop_firm": "TX3 Funding",
+        "code": "PFDC",
+        "discount": "25%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13016,
-            "title": "All Plans Get 40% Off for Dashboard Launch",
+            "deal_id": 13044,
+            "title": "35% off challenge accounts for Halloween week",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "35%",
             "scope": [
-                "All Plans, Alpha Pro 8% Excluded, Alpha Pro 10% Bi Weekly Excluded"
+                "Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts"
             ],
-            "date_published": "2026-10-23",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/"
+            "date_published": "2026-10-27",
+            "date_exp": "2026-10-31 23:59",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/"
         },
         "deal_count": {
-            "total": 34,
-            "this_year": 19,
+            "total": 63,
+            "this_year": 46,
             "year": 2026
         },
-        "activation_link": "https://propfirmdiscount.com/go/alphafutures",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
-        "trustpilot_score": 4.3,
-        "trustpilot_reviews": 6215,
-        "trustpilot_url": "https://www.trustpilot.com/review/alpha-futures.com",
-        "description": "At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.\nWe prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.\nJoin Alpha Futures today and unlock your full trading potential!",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Alpha-Futures-logo-2.jpg"
+        "activation_link": "https://propfirmdiscount.com/go/tx3funding",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/tx3-funding/",
+        "trustpilot_score": 3,
+        "trustpilot_reviews": 4310,
+        "trustpilot_url": "https://www.trustpilot.com/review/www.tx3funding.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/TX3-Funding-logo-2.jpg"
+    },
+    {
+        "prop_firm": "CK PropFirm",
+        "code": "PFD",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13013,
+            "title": "80% Off Challenges in Final 24 Hours",
+            "offer_type": "coupon",
+            "discount_value": "80%",
+            "scope": [
+                "2-Step Pro, Other Challenges, No Consistency Rule On 2-Step Pro, News Trading Allowed"
+            ],
+            "date_published": "2026-10-23",
+            "date_exp": "2026-10-24 (ended)",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/"
+        },
+        "deal_count": {
+            "total": 50,
+            "this_year": 34,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/ckcapital",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/ckcapital/",
+        "trustpilot_score": 3,
+        "trustpilot_reviews": 407,
+        "trustpilot_url": "https://www.trustpilot.com/review/ckcapital.co.uk",
+        "description": "CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management.\nWe offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation.\nTraders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance.\nAt CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/10/ck_propfirm_logo_2.jpg"
     },
     {
         "prop_firm": "AquaFunded",
@@ -585,6 +306,651 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/AquaFunded-logo.jpg"
     },
     {
+        "prop_firm": "QT Funded",
+        "code": "PFD",
+        "discount": "50%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13027,
+            "title": "50% Off Halloween Entry With Second Account Free",
+            "offer_type": "coupon",
+            "discount_value": "50%",
+            "scope": [
+                "Challenge Purchases, Second Account Same Size"
+            ],
+            "date_published": "2026-10-26",
+            "date_exp": "2026-11-01 00:00",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/"
+        },
+        "deal_count": {
+            "total": 60,
+            "this_year": 37,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
+        "trustpilot_score": 3.5,
+        "trustpilot_reviews": 13369,
+        "trustpilot_url": "https://www.trustpilot.com/review/quanttekel.com",
+        "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/qtfunded-logo.jpg"
+    },
+    {
+        "prop_firm": "FXIFY",
+        "code": "FXIFY2WRIVW",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13006,
+            "title": "35% Off All Other Programs - Halloween",
+            "offer_type": "coupon",
+            "discount_value": "35%",
+            "scope": [
+                "All Other Programs, Instant Funding Lite Excluded"
+            ],
+            "date_published": "2026-10-22",
+            "date_exp": "2026-11-02 00:00",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/"
+        },
+        "deal_count": {
+            "total": 40,
+            "this_year": 24,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fxify",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/fxify/",
+        "trustpilot_score": 4.3,
+        "trustpilot_reviews": 6537,
+        "trustpilot_url": "https://www.trustpilot.com/review/fxify.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/FXIFY-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Blue Guardian Futures",
+        "code": "PFD",
+        "discount": "35%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12225,
+            "title": "40% Off All Futures Challenge Pricing",
+            "offer_type": "coupon",
+            "discount_value": "40%",
+            "scope": [
+                "All Futures Accounts, Standard, Pro, Rapid, Instant, 25K, 50K, 100K, 150K"
+            ],
+            "date_published": "2026-06-22",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/"
+        },
+        "deal_count": {
+            "total": 19,
+            "this_year": 10,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/blueguardianfutures",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian-futures/",
+        "trustpilot_score": 3.7,
+        "trustpilot_reviews": 1650,
+        "trustpilot_url": "https://www.trustpilot.com/review/blueguardianfutures.com",
+        "description": "At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.\nMany skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier \u2014 giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Blue-Guardian-Futures-logo.jpg"
+    },
+    {
+        "prop_firm": "Blue Guardian",
+        "code": "PFD",
+        "discount": "25%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12941,
+            "title": "Reserve accounts cut by 25% with promo code",
+            "offer_type": "coupon",
+            "discount_value": "25%",
+            "scope": [
+                "Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion"
+            ],
+            "date_published": "2026-10-20",
+            "date_exp": "Limited time",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/"
+        },
+        "deal_count": {
+            "total": 30,
+            "this_year": 20,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/blueguardian",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian/",
+        "trustpilot_score": 3.1,
+        "trustpilot_reviews": 2123,
+        "trustpilot_url": "https://www.trustpilot.com/review/blueguardian.com",
+        "description": "At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.\nTherefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/Blue-Guardian-Logo-2.jpg"
+    },
+    {
+        "prop_firm": "Goat Funded Trader",
+        "code": "CSV",
+        "discount": "35%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13050,
+            "title": "8% Off Kalshi-Based Prediction Evaluations",
+            "offer_type": "coupon",
+            "discount_value": "8%",
+            "scope": [
+                "Prediction Markets, Kalshi-Based Evaluations, Politics Markets, Sports Markets, Economy Markets, Funded Capital Evaluations"
+            ],
+            "date_published": "2026-10-27",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/"
+        },
+        "deal_count": {
+            "total": 50,
+            "this_year": 30,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/goatfunded",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+        "trustpilot_score": 2.1,
+        "trustpilot_reviews": 4336,
+        "trustpilot_url": "https://www.trustpilot.com/review/goatfundedtrader.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Goat-Funded-Trader-logo.jpg"
+    },
+    {
+        "prop_firm": "FundedNext",
+        "code": "PFDC",
+        "discount": "20%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13052,
+            "title": "Halloween 20% off Stellar entry fees from $29.99",
+            "offer_type": "coupon",
+            "discount_value": "41%",
+            "scope": [
+                "Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users"
+            ],
+            "date_published": "2026-10-27",
+            "date_exp": "Limited time",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/"
+        },
+        "deal_count": {
+            "total": 32,
+            "this_year": 20,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundednext",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext/",
+        "trustpilot_score": 4.5,
+        "trustpilot_reviews": 82520,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundednext.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-logo.jpg"
+    },
+    {
+        "prop_firm": "Alpha Futures",
+        "code": "Tran009503",
+        "discount": "15%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13016,
+            "title": "All Plans Get 40% Off for Dashboard Launch",
+            "offer_type": "coupon",
+            "discount_value": "40%",
+            "scope": [
+                "All Plans, Alpha Pro 8% Excluded, Alpha Pro 10% Bi Weekly Excluded"
+            ],
+            "date_published": "2026-10-23",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/"
+        },
+        "deal_count": {
+            "total": 34,
+            "this_year": 19,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/alphafutures",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
+        "trustpilot_score": 4.3,
+        "trustpilot_reviews": 6215,
+        "trustpilot_url": "https://www.trustpilot.com/review/alpha-futures.com",
+        "description": "At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.\nWe prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.\nJoin Alpha Futures today and unlock your full trading potential!",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Alpha-Futures-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Top One Futures",
+        "code": "PFD",
+        "discount": "60%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13014,
+            "title": "X-Daily Spark starts at $39",
+            "offer_type": "coupon",
+            "discount_value": "Only $39",
+            "scope": [
+                "X-Daily Spark, Evaluation, Funded Account, Activation Fee"
+            ],
+            "date_published": "2026-10-23",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/"
+        },
+        "deal_count": {
+            "total": 12,
+            "this_year": 10,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
+        "trustpilot_score": 4.8,
+        "trustpilot_reviews": 5257,
+        "trustpilot_url": "https://www.trustpilot.com/review/toponefutures.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Top-One-Futures-logo.jpg"
+    },
+    {
+        "prop_firm": "Earn2Trade",
+        "code": "PFD",
+        "discount": "50%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12792,
+            "title": "50% Off Challenge Pricing and $165 Bundle Package",
+            "offer_type": "coupon",
+            "discount_value": "50%",
+            "scope": [
+                "All Evaluation Models, Resets, Tcp25 Bundle"
+            ],
+            "date_published": "2026-10-01",
+            "date_exp": "2026-10-18 (ended)",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/"
+        },
+        "deal_count": {
+            "total": 18,
+            "this_year": 11,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
+        "trustpilot_score": 4.5,
+        "trustpilot_reviews": 5052,
+        "trustpilot_url": "https://www.trustpilot.com/review/www.earn2trade.com",
+        "description": "Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Earn2Trade-logo.jpg"
+    },
+    {
+        "prop_firm": "Seacrest Markets",
+        "code": "jackichun",
+        "discount": "5%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 10532,
+            "title": "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout",
+            "offer_type": "coupon",
+            "discount_value": "25%",
+            "scope": [
+                "All 1-Step, 2-Step, And 3-Step Plans"
+            ],
+            "date_published": "2026-01-02",
+            "date_exp": "Ended",
+            "event": "New Year's Eve",
+            "post_url": "https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/"
+        },
+        "deal_count": {
+            "total": 8,
+            "this_year": 1,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/seacrestfunded",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/seacrest-markets/",
+        "trustpilot_score": 4.2,
+        "trustpilot_reviews": 2873,
+        "trustpilot_url": "https://www.trustpilot.com/review/myfundedfx.com",
+        "description": "At Seacrest Markets, speed meets reliability.\nWe deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.\nChoose the account type that fits your strategy and access multiple asset classes \u2014 all backed by responsive support and strong risk protection.\nTrade smarter. Trade faster. Trade with confidence at Seacrest Markets.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/SeacrestMarkets-logo.jpg"
+    },
+    {
+        "prop_firm": "Dominion Funding",
+        "code": "PFD5PC",
+        "discount": "5%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12921,
+            "title": "20% Off Evaluation Account Purchase Costs",
+            "offer_type": "coupon",
+            "discount_value": "20%",
+            "scope": [
+                "All Accounts, 1-Step Lite, 25K, 50K, 100K"
+            ],
+            "date_published": "2026-10-16",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/"
+        },
+        "deal_count": {
+            "total": 22,
+            "this_year": 14,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/dominionfunding",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/dominion-funding/",
+        "trustpilot_score": 2.9,
+        "trustpilot_reviews": 289,
+        "trustpilot_url": "https://www.trustpilot.com/review/dominionfunding.trade",
+        "description": "Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Dominion-Funding-logo.jpg"
+    },
+    {
+        "prop_firm": "Funded Hero Futures",
+        "code": "PFD",
+        "discount": "65%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12711,
+            "title": "55% Off Challenge Pricing Plus BOGO Account",
+            "offer_type": "coupon",
+            "discount_value": "55%",
+            "scope": [
+                "All Accounts"
+            ],
+            "date_published": "2026-09-25",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/"
+        },
+        "deal_count": {
+            "total": 12,
+            "this_year": 10,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundedherofutures",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero-futures/",
+        "trustpilot_score": 4.4,
+        "trustpilot_reviews": 18,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundedherofutures.com",
+        "description": "FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.\nHow it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.\nOur programs:\n- Hero ZERO - available as a 1-Step or 2-Step evaluation\n- Hero ONE - available as a 1-Step or 2-Step evaluation\n- Hero Live - one clear rule set\nTrade your way: accounts run on Volumetrica and can also be traded through TradingView, so you can use the charts and tools you already know.\nSupport that shows up: reach our team through live chat on fundedherofutures.com or join the FundedHero Futures community on Discord to connect with other traders, get updates and ask questions.\nFundedHero Futures is part of the FundedHero family. Whether you are taking your first evaluation or scaling up, our goal is to give futures traders a fair, transparent path to funding.\nWe read every review on Trustpilot. If you have traded with us, we would love to hear about your experience - good or bad - so we can keep improving.\nVisit fundedherofutures.com to see current plans and pricing.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_futures_logo_2.jpg"
+    },
+    {
+        "prop_firm": "Funded Elite",
+        "code": "AFF1864062",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13028,
+            "title": "Halloween cut of 40% on five challenge types",
+            "offer_type": "coupon",
+            "discount_value": "40%",
+            "scope": [
+                "Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, Activation Fee"
+            ],
+            "date_published": "2026-10-26",
+            "date_exp": "2026-10-31 23:59",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/"
+        },
+        "deal_count": {
+            "total": 36,
+            "this_year": 27,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundedelite",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-elite/",
+        "trustpilot_score": 4.2,
+        "trustpilot_reviews": 745,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundedelite.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funded-elite-logo.jpg"
+    },
+    {
+        "prop_firm": "Funded Hero",
+        "code": "PFD",
+        "discount": "70%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13053,
+            "title": "70% Off $100K Villain Challenge for Halloween",
+            "offer_type": "coupon",
+            "discount_value": "70%",
+            "scope": [
+                "All Challenges, 3-Step Villain, $100K Account"
+            ],
+            "date_published": "2026-10-27",
+            "date_exp": "2026-10-31",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/"
+        },
+        "deal_count": {
+            "total": 46,
+            "this_year": 43,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundedhero",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero/",
+        "trustpilot_score": 4,
+        "trustpilot_reviews": 442,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundedhero.com",
+        "description": "At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.\nGetting started with us is simple. We\u2019ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.\nOur platform is built with you in mind, featuring powerful tools like a lot size calculator and a P&amp;L calendar to help you trade smarter. And if issues arise such as payment concerns our support team is here to resolve them efficiently, because your trust is our top priority.\nWe\u2019re more than just a prop firm we\u2019re your partner in trading success. At FundedHero, we\u2019re committed to helping you reach your goals with fairness, speed, and a personal touch.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_logo_2.jpg"
+    },
+    {
+        "prop_firm": "BullRush Prop",
+        "code": "7XTG8N",
+        "discount": "5%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12712,
+            "title": "50% Off $5K-$50K Evaluation Accounts: Challenge Pricing Structure",
+            "offer_type": "coupon",
+            "discount_value": "50%",
+            "scope": [
+                "$5K Accounts, $10K Accounts, $25K Accounts, $50K Accounts, Evaluation Accounts"
+            ],
+            "date_published": "2026-09-26",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/"
+        },
+        "deal_count": {
+            "total": 8,
+            "this_year": 2,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/bullrush",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/bullrush/",
+        "trustpilot_score": 4.2,
+        "trustpilot_reviews": 82,
+        "trustpilot_url": "https://www.trustpilot.com/review/bullrush.com",
+        "description": "BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/bullrush-prop-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Funding Traders",
+        "code": "PFD",
+        "discount": "70%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13067,
+            "title": "Halloween 70% off every account entry fee",
+            "offer_type": "coupon",
+            "discount_value": "70%",
+            "scope": [
+                "All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses"
+            ],
+            "date_published": "2026-10-30",
+            "date_exp": "Limited time",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/"
+        },
+        "deal_count": {
+            "total": 89,
+            "this_year": 65,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
+        "trustpilot_score": 3.1,
+        "trustpilot_reviews": 3279,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundingtraders.com",
+        "description": "FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.\nLed by a veteran Wall Street Trader.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funding-traders-logo_2.jpg"
+    },
+    {
+        "prop_firm": "QT Futures",
+        "code": "PFD",
+        "discount": "50%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 10727,
+            "title": "Limited Offer: 30% OFF All Evaluations and Activation Fees",
+            "offer_type": "coupon",
+            "discount_value": "30%",
+            "scope": [
+                "All Evaluations, Activation Fees, Instant Funded"
+            ],
+            "date_published": "2026-01-19",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/"
+        },
+        "deal_count": {
+            "total": 3,
+            "this_year": 1,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/qt-futures/",
+        "trustpilot_score": 3.7,
+        "trustpilot_reviews": 13197,
+        "trustpilot_url": "https://www.trustpilot.com/review/quanttekel.com",
+        "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/qt-futures-logo.jpg"
+    },
+    {
+        "prop_firm": "FundedNext Futures",
+        "code": "PFDC",
+        "discount": "20%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13008,
+            "title": "50K Direct Account Now $169.99 - Save 40.1%",
+            "offer_type": "coupon",
+            "discount_value": "40.1%",
+            "scope": [
+                "Instant Funded, Direct, 50K Account, Futures, No Profit Goal"
+            ],
+            "date_published": "2026-10-22",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/"
+        },
+        "deal_count": {
+            "total": 16,
+            "this_year": 5,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/fundednextfutures",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext-futures/",
+        "trustpilot_score": 4.5,
+        "trustpilot_reviews": 82520,
+        "trustpilot_url": "https://www.trustpilot.com/review/fundednext.com",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-futures-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Lucid Trading",
+        "code": "PFD",
+        "discount": "30%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13042,
+            "title": "30% Off Every Account When DLL Is Switched On",
+            "offer_type": "coupon",
+            "discount_value": "30%",
+            "scope": [
+                "All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts"
+            ],
+            "date_published": "2026-10-27",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/"
+        },
+        "deal_count": {
+            "total": 23,
+            "this_year": 10,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
+        "trustpilot_score": 4.5,
+        "trustpilot_reviews": 8202,
+        "trustpilot_url": "https://www.trustpilot.com/review/lucidtrading.com",
+        "description": "Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading\u2019s goal is to provide a clear path forward through all these phases.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/lucidtrading-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Forexive",
+        "code": "WHCTXQHRIG",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12902,
+            "title": "30% Off All Evaluation Accounts",
+            "offer_type": "coupon",
+            "discount_value": "30%",
+            "scope": [
+                "All Challenges, All Account Sizes, Limited Time"
+            ],
+            "date_published": "2026-10-14",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/"
+        },
+        "deal_count": {
+            "total": 25,
+            "this_year": 8,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/forexive",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/forexive/",
+        "trustpilot_score": 3.6,
+        "trustpilot_reviews": 112,
+        "trustpilot_url": "https://www.trustpilot.com/review/forexive.com",
+        "description": "FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/forexive-logo.jpg"
+    },
+    {
+        "prop_firm": "Forex Funds Flow",
+        "code": "PFD",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12167,
+            "title": "15% Off All Evaluation Programs",
+            "offer_type": "coupon",
+            "discount_value": "15%",
+            "scope": [
+                "All Programs"
+            ],
+            "date_published": "2026-06-12",
+            "date_exp": "Ended",
+            "event": "World Cup",
+            "post_url": "https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/"
+        },
+        "deal_count": {
+            "total": 15,
+            "this_year": 9,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/forexfundsflow",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/forex-funds-flow/",
+        "trustpilot_score": 3.5,
+        "trustpilot_reviews": 256,
+        "trustpilot_url": "https://www.trustpilot.com/review/forexfundsflow.com",
+        "description": "Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000.\nOur mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style.\nWith advanced account analytics, educational resources, and dedicated trader support, we're here to guide you every step of the way toward achieving consistency, growth, and long-term success as a funded trader.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Forex-Funds-Flow-logo.jpg"
+    },
+    {
         "prop_firm": "The5ers",
         "code": "NKY03MTJGM",
         "discount": "5%",
@@ -613,37 +979,6 @@
         "trustpilot_reviews": 40750,
         "trustpilot_url": "https://www.trustpilot.com/review/the5ers.com",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/the5ers_log.png"
-    },
-    {
-        "prop_firm": "Equity Edge",
-        "code": "PFD",
-        "discount": "20%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12628,
-            "title": "30% Off Flagship Evaluation Accounts",
-            "offer_type": "coupon",
-            "discount_value": "30%",
-            "scope": [
-                "Flagship Challenge, 1-Step, 2-Step"
-            ],
-            "date_published": "2026-08-03",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/"
-        },
-        "deal_count": {
-            "total": 41,
-            "this_year": 12,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/equityedge",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/equity-edge/",
-        "trustpilot_score": 4.2,
-        "trustpilot_reviews": 2536,
-        "trustpilot_url": "https://www.trustpilot.com/review/equityedge.io",
-        "description": "Equity Edge Ltd., proudly based in Saint Lucia, is a dynamic prop trading firm dedicated to empowering traders with the virtual capital, tools, and insights they need to thrive in today\u2019s fast-paced markets. Established with a vision to democratize trading, we provide access to simulated accounts ranging from $2,500 to $100,000, enabling our community to test strategies and maximize profits without personal financial risk. Our innovative platform, backed by cutting-edge technology, supports real-time data analysis and seamless execution, making us a go-to choice for serious traders.\nWhat sets us apart is our strategic partnership with top social media influencers, who bring market trends and opportunities directly to our audience. Through engaging content on X, Instagram, TikTok, YouTube, and beyond, our affiliates amplify our reach, connecting with a global network of aspiring traders. We foster a transparent, trader-first culture, ensuring clear communication and fair practices\u2014our commitment to integrity is at the heart of every deal.\nJoin our growing community, where collaboration meets opportunity. Whether you\u2019re scaling your trading career or exploring new revenue streams as an influencer, Equity Edge Ltd. offers the resources and support to succeed. With a team passionate about financial empowerment, we\u2019re here to help you elevate your game. Discover the edge today and see why traders trust us to shape their future. Have questions? Our support team is ready to assist via email, live chat or Discord. Let\u2019s build your success together!",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/equityedge_logo_1.jpg"
     },
     {
         "prop_firm": "WeMasterTrade",
@@ -830,36 +1165,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/Phoenix-Trader-Funding-logo.jpg"
     },
     {
-        "prop_firm": "Super Funded",
-        "code": "CHUN",
-        "discount": "30%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12674,
-            "title": "30% Off 100K And 200K Trading Challenges",
-            "offer_type": "coupon",
-            "discount_value": "30%",
-            "scope": [
-                "100K Challenge, 200K Challenge, Upfront Fee"
-            ],
-            "date_published": "2026-06-26",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/"
-        },
-        "deal_count": {
-            "total": 29,
-            "this_year": 20,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/superfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/super-funded/",
-        "trustpilot_score": 4.5,
-        "trustpilot_reviews": 60,
-        "trustpilot_url": "https://www.trustpilot.com/review/superfunded.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2023/08/Super-Funded-min.jpg"
-    },
-    {
         "prop_firm": "Funded Trading Plus",
         "code": "PFD",
         "discount": "10%",
@@ -889,36 +1194,6 @@
         "trustpilot_url": "https://www.trustpilot.com/review/fundedtradingplus.com",
         "description": "The Most Trusted Prop Firm in the Industry Since 2021\nWith 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we\u2019re committed to supporting you at every stage.\nWe offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed!\nGet started on your funding here:\nhttps://www.fundedtradingplus.com/\nFor any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at\nsimon@fundedtradingplus.com",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2022/08/fundedtradingplus-logo.png"
-    },
-    {
-        "prop_firm": "FundedNext",
-        "code": "PFDC",
-        "discount": "20%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13052,
-            "title": "Halloween 20% off Stellar entry fees from $29.99",
-            "offer_type": "coupon",
-            "discount_value": "41%",
-            "scope": [
-                "Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users"
-            ],
-            "date_published": "2026-10-27",
-            "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/"
-        },
-        "deal_count": {
-            "total": 32,
-            "this_year": 20,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundednext",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext/",
-        "trustpilot_score": 4.5,
-        "trustpilot_reviews": 82520,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundednext.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-logo.jpg"
     },
     {
         "prop_firm": "thePropTrade",
@@ -1014,67 +1289,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/03/FundedSeat-logo-2.jpg"
     },
     {
-        "prop_firm": "Forex Funds Flow",
-        "code": "PFD",
-        "discount": "10%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12167,
-            "title": "15% Off All Evaluation Programs",
-            "offer_type": "coupon",
-            "discount_value": "15%",
-            "scope": [
-                "All Programs"
-            ],
-            "date_published": "2026-06-12",
-            "date_exp": "Ended",
-            "event": "World Cup",
-            "post_url": "https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/"
-        },
-        "deal_count": {
-            "total": 15,
-            "this_year": 9,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/forexfundsflow",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/forex-funds-flow/",
-        "trustpilot_score": 3.5,
-        "trustpilot_reviews": 256,
-        "trustpilot_url": "https://www.trustpilot.com/review/forexfundsflow.com",
-        "description": "Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000.\nOur mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style.\nWith advanced account analytics, educational resources, and dedicated trader support, we're here to guide you every step of the way toward achieving consistency, growth, and long-term success as a funded trader.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Forex-Funds-Flow-logo.jpg"
-    },
-    {
-        "prop_firm": "FXIFY",
-        "code": "FXIFY2WRIVW",
-        "discount": "10%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13006,
-            "title": "35% Off All Other Programs - Halloween",
-            "offer_type": "coupon",
-            "discount_value": "35%",
-            "scope": [
-                "All Other Programs, Instant Funding Lite Excluded"
-            ],
-            "date_published": "2026-10-22",
-            "date_exp": "2026-11-02 00:00",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/"
-        },
-        "deal_count": {
-            "total": 40,
-            "this_year": 24,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fxify",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/fxify/",
-        "trustpilot_score": 4.3,
-        "trustpilot_reviews": 6537,
-        "trustpilot_url": "https://www.trustpilot.com/review/fxify.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/FXIFY-logo-2.jpg"
-    },
-    {
         "prop_firm": "Upcomers",
         "code": "PFD",
         "discount": "90%",
@@ -1167,36 +1381,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/PipFarm-logo.jpg"
     },
     {
-        "prop_firm": "Top One Futures",
-        "code": "PFD",
-        "discount": "60%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13014,
-            "title": "X-Daily Spark starts at $39",
-            "offer_type": "coupon",
-            "discount_value": "Only $39",
-            "scope": [
-                "X-Daily Spark, Evaluation, Funded Account, Activation Fee"
-            ],
-            "date_published": "2026-10-23",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/"
-        },
-        "deal_count": {
-            "total": 12,
-            "this_year": 10,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/toponefutures",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
-        "trustpilot_score": 4.8,
-        "trustpilot_reviews": 5257,
-        "trustpilot_url": "https://www.trustpilot.com/review/toponefutures.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Top-One-Futures-logo.jpg"
-    },
-    {
         "prop_firm": "Funding Your Trades",
         "code": "PFD",
         "discount": "2%",
@@ -1228,67 +1412,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Funding-Your-Trades-logo-2.jpg"
     },
     {
-        "prop_firm": "Funding Traders",
-        "code": "PFD",
-        "discount": "70%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13067,
-            "title": "Halloween 70% off every account entry fee",
-            "offer_type": "coupon",
-            "discount_value": "70%",
-            "scope": [
-                "All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses"
-            ],
-            "date_published": "2026-10-30",
-            "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/"
-        },
-        "deal_count": {
-            "total": 89,
-            "this_year": 65,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
-        "trustpilot_score": 3.1,
-        "trustpilot_reviews": 3279,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundingtraders.com",
-        "description": "FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.\nLed by a veteran Wall Street Trader.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/funding-traders-logo_2.jpg"
-    },
-    {
-        "prop_firm": "Goat Funded Trader",
-        "code": "CSV",
-        "discount": "35%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13050,
-            "title": "8% Off Kalshi-Based Prediction Evaluations",
-            "offer_type": "coupon",
-            "discount_value": "8%",
-            "scope": [
-                "Prediction Markets, Kalshi-Based Evaluations, Politics Markets, Sports Markets, Economy Markets, Funded Capital Evaluations"
-            ],
-            "date_published": "2026-10-27",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/"
-        },
-        "deal_count": {
-            "total": 50,
-            "this_year": 30,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
-        "trustpilot_score": 2.1,
-        "trustpilot_reviews": 4336,
-        "trustpilot_url": "https://www.trustpilot.com/review/goatfundedtrader.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Goat-Funded-Trader-logo.jpg"
-    },
-    {
         "prop_firm": "Trade The Pool",
         "code": "WWS4GW",
         "discount": "10%",
@@ -1318,129 +1441,6 @@
         "trustpilot_url": "https://www.trustpilot.com/review/tradethepool.com",
         "description": "Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.\nOur experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.\nA similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Trade-The-Pool-logo.jpg"
-    },
-    {
-        "prop_firm": "Blue Guardian Futures",
-        "code": "PFD",
-        "discount": "35%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12225,
-            "title": "40% Off All Futures Challenge Pricing",
-            "offer_type": "coupon",
-            "discount_value": "40%",
-            "scope": [
-                "All Futures Accounts, Standard, Pro, Rapid, Instant, 25K, 50K, 100K, 150K"
-            ],
-            "date_published": "2026-06-22",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/"
-        },
-        "deal_count": {
-            "total": 19,
-            "this_year": 10,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/blueguardianfutures",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/blue-guardian-futures/",
-        "trustpilot_score": 3.7,
-        "trustpilot_reviews": 1650,
-        "trustpilot_url": "https://www.trustpilot.com/review/blueguardianfutures.com",
-        "description": "At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.\nMany skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier \u2014 giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/Blue-Guardian-Futures-logo.jpg"
-    },
-    {
-        "prop_firm": "Funded Hero",
-        "code": "PFD",
-        "discount": "70%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13053,
-            "title": "70% Off $100K Villain Challenge for Halloween",
-            "offer_type": "coupon",
-            "discount_value": "70%",
-            "scope": [
-                "All Challenges, 3-Step Villain, $100K Account"
-            ],
-            "date_published": "2026-10-27",
-            "date_exp": "2026-10-31",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/"
-        },
-        "deal_count": {
-            "total": 46,
-            "this_year": 43,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundedhero",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero/",
-        "trustpilot_score": 4,
-        "trustpilot_reviews": 442,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundedhero.com",
-        "description": "At FundedHero, we pride ourselves on delivering an exceptional experience for traders worldwide. Our customers value our prompt and helpful service we respond quickly, provide clear guidance, and ensure every trader feels supported from day one. As a team, including our two CEO, we stay actively engaged with our community on Discord so you always have direct access to us when you need it.\nGetting started with us is simple. We\u2019ve designed our onboarding process to be straightforward and stress-free, giving you the tools and guidance to focus on your trading performance. When it comes to payouts, we process them quickly and reliably, so you can enjoy your earnings without delays. Our rules are fair and transparent, and our evaluation process is clear and easy to understand.\nOur platform is built with you in mind, featuring powerful tools like a lot size calculator and a P&amp;L calendar to help you trade smarter. And if issues arise such as payment concerns our support team is here to resolve them efficiently, because your trust is our top priority.\nWe\u2019re more than just a prop firm we\u2019re your partner in trading success. At FundedHero, we\u2019re committed to helping you reach your goals with fairness, speed, and a personal touch.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_logo_2.jpg"
-    },
-    {
-        "prop_firm": "Funded Hero Futures",
-        "code": "PFD",
-        "discount": "65%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 12711,
-            "title": "55% Off Challenge Pricing Plus BOGO Account",
-            "offer_type": "coupon",
-            "discount_value": "55%",
-            "scope": [
-                "All Accounts"
-            ],
-            "date_published": "2026-09-25",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/"
-        },
-        "deal_count": {
-            "total": 12,
-            "this_year": 10,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundedherofutures",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/funded-hero-futures/",
-        "trustpilot_score": 4.4,
-        "trustpilot_reviews": 18,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundedherofutures.com",
-        "description": "FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.\nHow it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.\nOur programs:\n- Hero ZERO - available as a 1-Step or 2-Step evaluation\n- Hero ONE - available as a 1-Step or 2-Step evaluation\n- Hero Live - one clear rule set\nTrade your way: accounts run on Volumetrica and can also be traded through TradingView, so you can use the charts and tools you already know.\nSupport that shows up: reach our team through live chat on fundedherofutures.com or join the FundedHero Futures community on Discord to connect with other traders, get updates and ask questions.\nFundedHero Futures is part of the FundedHero family. Whether you are taking your first evaluation or scaling up, our goal is to give futures traders a fair, transparent path to funding.\nWe read every review on Trustpilot. If you have traded with us, we would love to hear about your experience - good or bad - so we can keep improving.\nVisit fundedherofutures.com to see current plans and pricing.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_futures_logo_2.jpg"
-    },
-    {
-        "prop_firm": "FundedNext Futures",
-        "code": "PFDC",
-        "discount": "20%",
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13008,
-            "title": "50K Direct Account Now $169.99 - Save 40.1%",
-            "offer_type": "coupon",
-            "discount_value": "40.1%",
-            "scope": [
-                "Instant Funded, Direct, 50K Account, Futures, No Profit Goal"
-            ],
-            "date_published": "2026-10-22",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/"
-        },
-        "deal_count": {
-            "total": 16,
-            "this_year": 5,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/fundednextfutures",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/fundednext-futures/",
-        "trustpilot_score": 4.5,
-        "trustpilot_reviews": 82520,
-        "trustpilot_url": "https://www.trustpilot.com/review/fundednext.com",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/fundednext-futures-logo-2.jpg"
     },
     {
         "prop_firm": "Finotive Futures",
