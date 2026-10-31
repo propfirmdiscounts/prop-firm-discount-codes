@@ -72,7 +72,8 @@ prop_firm
 code
 discount
 validity
-last_deal_published
+last_deal
+deal_count
 activation_link
 archive_url
 trustpilot_score
@@ -87,8 +88,23 @@ the window this used to print (Jan 1 to Dec 31 of the running year) was a
 calendar label, not a fact about the code, and agents read it as a deadline.
 Campaign deals are dated on their own deal pages instead.
 
-last_deal_published is the ISO 8601 date the firm's newest deal went live
-on this site, coded or not, not a claim the code was re-checked that day.
+discount is the discount the code gives. On a firm whose code applies to
+every deal it runs, that is the percentage of the firm's newest percentage
+deal published in the current or previous month; if the firm published no
+such deal in that window it is the code's own headline discount. The code
+applies at its own rate whatever form the newest deal is stated in - a deal
+priced "Only $39" still takes the code's percentage.
+
+last_deal is the firm's newest published deal as an object with deal_id,
+title, offer_type ("coupon" or "deal"), discount_value, scope,
+date_published, date_exp and post_url; null when the firm has no deal on
+this site. discount_value is that one deal's own figure and can differ from
+discount. date_exp is an absolute date, "Limited time", or "Ended".
+date_published is also the date the firm's details were last checked, so
+there is no separate last_verified field.
+
+deal_count is {"total", "this_year", "year"}: how many deals the firm has
+published on this site in total and in the running calendar year.
 
 trustpilot_score, trustpilot_reviews, description and logo are
 optional fields, present when data exists.
