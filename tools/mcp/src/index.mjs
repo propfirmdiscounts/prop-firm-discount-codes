@@ -64,8 +64,15 @@ async function codesDataset() {
   // The canonical API path, NOT /datasets/prop-firm-codes.json: the edge
   // currently serves that static file as brotli without a content-encoding
   // header to clients that send no Accept-Encoding, which decodes to garbage.
-  // The API path is clean for every client and is CF-cached upstream.
-  const raw = await cachedJson(`${ORIGIN}/api/prop-firm-codes/`);
+  // The API path is clean for every client.
+  //
+  // Bucketed cache-buster: the zone's Cache Rule pins this path for 2 hours,
+  // so a bare fetch kept serving the previous field set for two hours after a
+  // deploy — the schema changed under the tools and every row lost last_deal.
+  // A 10-minute bucket is the same freshness this worker already promises and
+  // still one shared edge entry per window, not one origin hit per request.
+  const bucket = Math.floor(Date.now() / (CACHE_TTL * 1000));
+  const raw = await cachedJson(`${ORIGIN}/api/prop-firm-codes/?v=${bucket}`);
   return Array.isArray(raw) ? raw : (raw.data || []);
 }
 
