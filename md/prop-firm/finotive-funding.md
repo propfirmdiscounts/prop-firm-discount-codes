@@ -20,6 +20,7 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 - Offer: 50% Off
 - Code: BOO50
 - Scope: Challenge Evaluation, Instant Funding, Pro, up to $200K
+- Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/
 
 ## Finotive Funding deal FAQ
@@ -54,7 +55,7 @@ Buyers can follow the Start here link at the end of this article to the official
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off)
+- 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off) — Halloween
 - 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off) — ended 2026-10-19
 - 2026-09-21 - [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) (50% Off)
-- 2026-09-07 - [Finotive Funding Labor Day: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) (40% Off)
+- 2026-09-07 - [Finotive Funding Labor Day: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) (40% Off) — Labor Day
