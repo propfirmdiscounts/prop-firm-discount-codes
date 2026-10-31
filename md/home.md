@@ -55,7 +55,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% Off | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
 | 2026-10-29 | Ment Funding | Ment Funding 30% Off Halloween Challenge Entry Cost | 30% Off | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/ |
 | 2026-10-29 | WeMasterTrade | WeMasterTrade Halloween 36% Off All Packages Deal | 36% Off | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
-| 2026-10-29 | FTUK | FTUK Halloween 35% Off Flex Funded Activation Fee | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/ |
 | 2026-10-29 | Hola Prime | Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges | 50% Off | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% Off | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-28 | Finotive Futures | Finotive Futures Halloween Up to 50% Off Instant Accounts | 50% Off | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/ |
@@ -70,3 +69,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
 | 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% Off | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
+| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |

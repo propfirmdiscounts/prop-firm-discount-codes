@@ -1,6 +1,6 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **HALLOWEEN35** — 35% off (October 29, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for FTUK right now — newest deals and offers are below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
@@ -9,12 +9,11 @@ The newest FTUK discount code is **HALLOWEEN35** — 35% off (October 29, 2026).
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-## Current deal: FTUK Halloween 35% Off Flex Funded Activation Fee
+## Most recent deal (ended): FTUK Halloween 35% Off Flex Funded Activation Fee
 
 - Published: 2026-10-29
-- Offer ends: 2026-10-30 19:59
+- Offer ends: 2026-10-30 19:59 (ended)
 - Offer: 35% Off
-- Code: HALLOWEEN35
 - Scope: Flex Funded, activation fee, pay after passing
 - Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/
 
@@ -46,8 +45,8 @@ At 0.25% risk per trade and a 1:2 reward ratio, each win adds 0.5% and four wins
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-29 - [FTUK Halloween 35% Off Flex Funded Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/) (35% Off)
-- 2026-10-26 - [FTUK 50% Off Instant Funding Accounts Halloween](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/) (50% Off)
+- 2026-10-29 - [FTUK Halloween 35% Off Flex Funded Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/) (35% Off) — ended 2026-10-30 19:59
+- 2026-10-26 - [FTUK 50% Off Instant Funding Accounts Halloween](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/) (50% Off) — ended 2026-10-30 19:59
 - 2026-10-22 - [FTUK 30% Off Flex Challenge Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/) (30% Off) — ended 2026-10-23 19:59
 - 2026-10-20 - [FTUK 40% Off Instant Funding Plus 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/) (40% Off) — ended 2026-10-23
 - 2026-10-14 - [FTUK 50% Off Flex Account Activation Fees](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-flex-activation-fee/) (50% Off) — ended 2026-10-14

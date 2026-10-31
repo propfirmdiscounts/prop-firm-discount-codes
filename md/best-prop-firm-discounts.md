@@ -2,7 +2,7 @@
 
 ## Top October 2026 Discount Codes
 
-As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 48 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
+As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month by how much they take off. The largest is Bulenox code PFD for 91%. 47 of these are still running; the ended ones stay in the ranking with "Ended" where "Ends" would be, because the month's results do not change when a deal finishes.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ As of October 2026, PropFirmDiscount ranks 69 prop firm offers posted this month
 | 20 | QT Funded | PFD | 50% | Exclusive Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 21 | Earn2Trade | PFD | 50% | Exclusive Code | Ended Oct 18, 2026 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 22 | Hola Prime | FLY50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
-| 23 | FTUK | HALLOWEEN50 | 50% | Campaign Code | Ends Oct 30, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
+| 23 | FTUK | HALLOWEEN50 | 50% | Campaign Code | Ended Oct 30, 2026 | https://propfirmdiscount.com/prop-firm/ftuk/ |
 | 24 | Tradeify | MILK | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeify/ |
 | 25 | OFP Funding | OFP50 | 50% | Campaign Code | Ends Oct 31, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
 | 26 | Ment Funding | MENT50 | 50% | Campaign Code | Ended Oct 25, 2026 | https://propfirmdiscount.com/prop-firm/ment-funding/ |

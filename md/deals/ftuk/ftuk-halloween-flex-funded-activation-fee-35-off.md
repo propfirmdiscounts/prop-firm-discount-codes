@@ -1,16 +1,15 @@
 # FTUK Halloween 35% Off Flex Funded Activation Fee
 
-FTUK is offering 35% off — discount code **HALLOWEEN35**.
+FTUK was offering 35% off.
 
 > FTUK cuts 35% off the Flex Funded activation fee for Halloween, payable after passing. Rules and risk stay unchanged. Ends 30 Oct 23:59 UTC.
 
 - Published: 2026-10-29
-- Offer ends: 2026-10-30 19:59
+- Offer ends: 2026-10-30 19:59 (ended)
 - Prop firm: FTUK
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 - Summary: FTUK offers 35% off the Flex Funded activation fee for Halloween, payable after passing. The discount lowers entry cost only and leaves trading rules and risk parameters unchanged. Ends Fri 30 Oct 23:59 UTC.
 - Offer: 35% Off
-- Code: HALLOWEEN35
 - Scope: Flex Funded, activation fee, pay after passing
 - Deal: https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/
 
