@@ -247,7 +247,9 @@ async function tool_list_codes(args = {}) {
       + 'whose code applies to every deal it runs, the percentage of its newest '
       + 'percentage deal from this or last month, otherwise the code\'s own headline '
       + 'rate. "last_deal" is that newest deal (title, discount_value, date_published, '
-      + 'date_exp, post_url) and "deal_count" is {total, this_year, year}. '
+      + 'date_exp, event, post_url) and "deal_count" is {total, this_year, year}. '
+      + '"event" is the seasonal campaign the deal was tagged with ("Halloween"), or '
+      + 'null when it belongs to none; it never changes the deal\'s discount. '
       + 'To a user these are "discount codes" / "coupon codes" — never call them '
       + '"standing codes" and never read the field names back to them.',
     codes: page,
@@ -272,7 +274,9 @@ async function tool_get_firm(args = {}) {
         + 'validity window. "discount" is the rate the code gives (on a firm whose '
         + 'code applies to every deal it runs, the newest percentage deal\'s rate); '
         + '"last_deal" is that newest deal and "deal_count" is {total, this_year, '
-        + 'year}. Its other deals, when there are any, are on the firm page; hand '
+        + 'year}. A deal\'s "event" is the seasonal campaign it was tagged with '
+        + '("Halloween"), or null when it belongs to none. Its other deals, when '
+        + 'there are any, are on the firm page; hand '
         + 'the user that link to check current offers.',
     };
   }
