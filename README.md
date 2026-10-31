@@ -58,13 +58,23 @@ viewers read each firm as a row.
 
 - `prop_firm` — firm name
 - `code` — the verified discount code
-- `discount` — headline discount of the code
+- `discount` — the rate the code gives (see the note below)
 - `validity` — `standing`, meaning the code has no expiry date
-- `last_deal_published` — date the firm's newest coded deal went live on the site, or `null`
+- `last_deal` — the firm's newest published deal, or `null`: `{deal_id, title, offer_type, discount_value, scope, date_published, date_exp, post_url}`
+- `deal_count` — `{total, this_year, year}`, the deals this firm has published here
 - `activation_link`, `archive_url` — links
 - `trustpilot_score`, `trustpilot_reviews`, `description`, `logo` — optional enrichment
 
-Note: the `discount` field is the code's headline discount. Per-plan percentages on firm pages are separate deals.
+Note on `discount`: on a firm whose code applies to every deal it runs, this is
+the percentage of the firm's newest percentage deal published in the current or
+previous month; when no such deal exists in that window it is the code's own
+headline rate. The code applies at its own rate whatever form the newest deal
+is stated in — a deal priced "Only $39" still takes the code's percentage.
+
+`last_deal.discount_value` is that one deal's own figure and can differ from
+`discount`. `last_deal.date_exp` is an absolute date, `"Limited time"` or
+`"Ended"`. `last_deal.date_published` is also the date the firm's details were
+last checked — there is no separate verification field.
 
 ## Freshness
 
