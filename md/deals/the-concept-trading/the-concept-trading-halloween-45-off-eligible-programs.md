@@ -1,16 +1,15 @@
 # The Concept Trading Halloween 45% Off Eligible Programs
 
-The Concept Trading is offering 45% off — discount code **HWT26**.
+The Concept Trading was offering 45% off.
 
 > The Concept Trading Halloween cuts 45% off eligible programs with a free retry. Valid until October 31 at 11:59 PM AEST. Excludes Starter Programs.
 
 - Published: 2026-10-26
-- Offer ends: 2026-10-31 09:59
+- Offer ends: 2026-10-31 09:59 (ended)
 - Prop firm: The Concept Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 - Summary: This Halloween promotion cuts 45% off eligible programs with a free retry included. Starter Programs are excluded. Trading rules stay unchanged. Valid until October 31 at 11:59 PM AEST.
 - Offer: 45% Off
-- Code: HWT26
 - Scope: eligible programs, Starter Programs excluded, free retry claim within 60 days of account failure
 - Deal: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/
 
