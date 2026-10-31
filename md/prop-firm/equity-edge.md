@@ -7,19 +7,19 @@ The verified Equity Edge discount code is **PFD** — Up to 20% off, works any t
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-09-17
+- Last deal published: 2026-08-03
 - Trustpilot: 4.2/5 (2536 reviews)
 - Activate: https://propfirmdiscount.com/go/equityedge
 - Firm page: https://propfirmdiscount.com/prop-firm/equity-edge/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Equity Edge 50% OFF Instant Accounts + 35% OFF Challenges – Exclusive Promo
+## Most recent deal (ended): Equity Edge 30% Discount on All Flagship Challenge Accounts
 
-- Published: 2025-09-05
+- Published: 2026-08-03
 - Offer ends: Ended
-- Offer: 35% Off
-- Scope: all challenges
-- Deal page: https://propfirmdiscount.com/deals/equity-edge/equity-edge-50-off-instant-accounts-35-off-challenges-exclusive-promo/
+- Offer: 30% Off
+- Scope: Flagship Challenge, 1-Step, 2-Step
+- Deal page: https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/
 
 ## Deals (last 2 months, newest first)
 

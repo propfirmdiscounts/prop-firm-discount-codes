@@ -4,7 +4,7 @@ No live discount code for Ifunds right now — no new deals in the last 2 months
 
 > iFunds is not just another instant funding firm; it is a beacon of opportunity for traders seeking to elevate their performance in the financial markets. Founded by seasoned traders and risk managers, iFunds was born out of a collective vision to create a secure haven where traders can truly scale their potential with confidence. Our team understands the challenges and uncertainties that traders face in today's dynamic market environment. That's why we've meticulously crafted a platform that provides a safe zone for traders to amplify their performance without unnecessary risks or constraints.
 
-- Last deal published: 2026-09-05
+- Last deal published: 2025-12-02
 - Trustpilot: 4.6/5 (206 reviews)
 - Activate: https://propfirmdiscount.com/go/ifunds
 - Firm page: https://propfirmdiscount.com/prop-firm/ifunds/

@@ -1,22 +1,18 @@
 # FundingTicks Discount Code
 
-The verified FundingTicks discount code is **05EB577C** — Up to 40% off, works any time.
+No live discount code for FundingTicks right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/fundingticks/
 
-- Code: 05EB577C
-- Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-09-05
+- Last deal published: 2025-12-19
 - Activate: https://propfirmdiscount.com/go/fundingticks
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingticks/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): FundingTicks — Halloween: 35% OFF First Purchase or 20% OFF for Existing Users + Zero Evaluation to Master
+## Most recent deal (ended): FundingTicks Holiday Offer: 35% OFF Zero & Evaluation Accounts
 
-- Published: 2025-10-24
+- Published: 2025-12-19
 - Offer ends: Ended
-- Offer: 30% Off
-- Scope: your first purchase
-- Deal page: https://propfirmdiscount.com/deals/fundingticks/fundingticks-halloween-35-off-first-purchase-or-20-off-for-existing-users-zero-evaluation-to-master/
+- Offer: 35% Off
+- Scope: Zero Master Accounts and All Evaluations
+- Deal page: https://propfirmdiscount.com/deals/fundingticks/fundingticks-holiday-offer-35-off-zero-evaluation-accounts/
 
 ## Deals (last 2 months, newest first)
 

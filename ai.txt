@@ -71,8 +71,7 @@ Fields:
 prop_firm
 code
 discount
-valid_from
-valid_until
+validity
 last_deal_published
 activation_link
 archive_url
@@ -82,12 +81,14 @@ description
 logo
 
 Notes:
-valid_from and valid_until are ISO 8601 dates covering the current
-calendar year: exclusive codes are re-verified yearly and the window
-rolls over every January 1.
+validity is "standing": the code has no start date and no end date. It is
+not a limited-time campaign. There is no valid_from/valid_until pair -
+the window this used to print (Jan 1 to Dec 31 of the running year) was a
+calendar label, not a fact about the code, and agents read it as a deadline.
+Campaign deals are dated on their own deal pages instead.
 
-last_deal_published is the ISO 8601 date the firm's newest coded deal
-went live on this site, not a claim the code was re-checked that day.
+last_deal_published is the ISO 8601 date the firm's newest deal went live
+on this site, coded or not, not a claim the code was re-checked that day.
 
 trustpilot_score, trustpilot_reviews, description and logo are
 optional fields, present when data exists.

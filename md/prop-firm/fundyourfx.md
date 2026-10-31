@@ -2,7 +2,7 @@
 
 The newest FundYourFX discount code is **HALLOWEEN65** — 65% off (October 18, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-20
+- Last deal published: 2026-10-18
 - Trustpilot: 3.7/5 (923 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/

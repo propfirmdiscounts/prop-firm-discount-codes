@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-51 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+50 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -37,7 +37,6 @@
 | Fundex | PFD | 5% | standing | 2026-10-09 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Traders | PFD | 70% | standing | 2026-10-30 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Funding Your Trades | PFD | 2% | standing | 2026-10-22 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
-| FundingTicks | 05EB577C | 40% | standing | 2025-12-19 | https://propfirmdiscount.com/prop-firm/fundingticks/ |
 | Goat Funded Trader | CSV | 35% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 5% | standing | 2026-10-24 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | AFFVOYAGE61 | 10% | standing | 2026-10-26 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
@@ -50,10 +49,10 @@
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 | https://propfirmdiscount.com/prop-firm/super-funded/ |
 | TX3 Funding | PFDC | 25% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| The5ers | NKY03MTJGM | 5% | standing | - | https://propfirmdiscount.com/prop-firm/the5ers/ |
+| The5ers | NKY03MTJGM | 5% | standing | 2025-12-22 | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 60% | standing | 2026-10-23 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| Trade The Pool | WWS4GW | 10% | standing | 2026-01-16 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
+| Trade The Pool | WWS4GW | 10% | standing | 2026-09-02 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
 | Upcomers | PFD | 90% | standing | 2026-09-21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | WeMasterTrade | PFD | 20% | standing | 2026-10-29 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | thePropTrade | PFD | 20% | standing | 2026-10-27 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

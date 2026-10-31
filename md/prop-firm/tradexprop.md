@@ -9,31 +9,31 @@ No live discount code for Tradexprop right now — newest deals and offers are b
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 
-## Most recent deal (ended): Tradexprop Halloween Sale: 40% Off Evaluation Accounts
+## Most recent deal (ended): Tradexprop Halloween Promo: 20% Off Instant Funding
 
 - Published: 2026-10-09
 - Offer ends: 2026-10-25 (ended)
-- Offer: 40% Off
-- Scope: Evaluation plans
-- Deal page: https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/
+- Offer: 20% Off
+- Scope: Instant funding plans
+- Deal page: https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/
 
 ## Tradexprop deal FAQ
 
-**What discount is available for evaluation plans?**
+**What does the Halloween deal offer for instant funding?**
 
-The active promotion provides a 40% cost reduction on the upfront entry fee for Tradexprop evaluation accounts.
+The active promotion cuts the initial entry cost of Tradexprop instant funding plans by 20%.
 
-**Does the Halloween deal change any trading rules?**
+**Does the instant funding plan have easier trading conditions now?**
 
 No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**When does the evaluation discount expire?**
+**When does the instant funding discount expire?**
 
-The active discount is valid until October 25, 2026, at 11:59 PM UTC.
+The active discount remains open until October 25, 2026, at 11:59 PM UTC.
 
-**Can this offer be applied to instant funding models?**
+**Can I use this active promotion on evaluation accounts?**
 
-No, the 40% reduction is specifically for evaluation plans at Tradexprop.
+No, this specific cost reduction is applied only to instant funding models.
 
 ## Deals (last 2 months, newest first)
 
