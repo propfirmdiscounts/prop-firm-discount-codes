@@ -13,12 +13,11 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: thePropTrade Halloween 20% Off All Programmes
+## Most recent deal (ended): thePropTrade Halloween 20% Off All Programmes
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31 19:59
+- Offer ends: 2026-10-31 19:59 (ended)
 - Offer: 20% Off
-- Code: SCARY20
 - Scope: any programme, any account size, first challenge, returning buyer, one code per order
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
@@ -51,5 +50,5 @@ The recent 7 October offer cut 22% off all challenges. The current offer gives 2
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [thePropTrade Halloween 20% Off All Programmes](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) (20% Off) — Halloween
+- 2026-10-27 - [thePropTrade Halloween 20% Off All Programmes](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) (20% Off) — Halloween — ended 2026-10-31 19:59
 - 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off) — ended 2026-10-25

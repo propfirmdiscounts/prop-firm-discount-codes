@@ -1,16 +1,15 @@
 # thePropTrade Halloween 20% Off All Programmes
 
-thePropTrade is offering 20% off — discount code **SCARY20**.
+thePropTrade was offering 20% off.
 
 > thePropTrade Halloween week offer cuts 20% off every programme and account size with no change to trading rules. Valid until 31 October, 23:59 UTC.
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31 19:59
+- Offer ends: 2026-10-31 19:59 (ended)
 - Prop firm: thePropTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - Summary: This Halloween deal cuts 20% off all sizes and programmes while rules stay the same. Valid until 31 October, 23:59 UTC for all new buyers.
 - Offer: 20% Off
-- Code: SCARY20
 - Scope: any programme, any account size, first challenge, returning buyer, one code per order
 - Deal: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
