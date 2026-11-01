@@ -1,41 +1,42 @@
 # FundYourFX Discount Code
 
-No live discount code for FundYourFX right now — newest deals and offers are below.
+The newest FundYourFX discount code is **NOVEMBER60** — 60% off (November 1, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-18
+- Last deal published: 2026-11-01
 - Trustpilot: 3.7/5 (923 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-## Most recent deal (ended): FundYourFX 65% Off All Plans: Check the Halloween Entry Fee
+## Current deal: FundYourFX November Trading Rush 60% Off All Plans
 
-- Published: 2026-10-18
-- Offer ends: 2026-10-31 (ended)
-- Offer: 65% Off
+- Published: 2026-11-01
+- Offer ends: 2026-11-10
+- Offer: 60% Off
+- Code: NOVEMBER60
 - Scope: All plans
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/
+- Deal page: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-november-trading-rush-60-off-all-plans/
 
 ## FundYourFX deal FAQ
 
-**What discount does FundYourFX offer for Halloween?**
+**What does the FundYourFX November Trading Rush offer?**
 
-FundYourFX offers 65% off all plans during the Halloween Mega Sale, valid from 18 October to 31 October. Buyers pay 35% of the regular price and the discount affects purchase pricing only.
+It cuts 60% off all FundYourFX plans. The cut lowers the upfront entry cost, while the plan chosen stays the same.
 
-**When does the FundYourFX Halloween Mega Sale run?**
+**When does the FundYourFX November Trading Rush run?**
 
-The promotion runs from 18 October to 31 October. The campaign states it is scheduled to disappear once October ends.
+The promotion runs 1 to 10 November. Once November 10 arrives, the promotion is scheduled to disappear.
 
-**Does the FundYourFX price cut change trading rules or risk?**
+**Which FundYourFX plans does the 60% cut cover?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. A lower price does not reduce trading risk.
+The cut covers all FundYourFX plans. No plan type is excluded in the promotion as presented.
 
-**Who may find the FundYourFX offer relevant?**
+**How do I get the FundYourFX discount code for this offer?**
 
-Buyers who had already planned a purchase may find the lower upfront price relevant across all plans. Buyers deciding only because of the deadline should be cautious because the cost cut leaves trading risk unchanged.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-01 - [FundYourFX November Trading Rush 60% Off All Plans](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-november-trading-rush-60-off-all-plans/) (60% Off)
 - 2026-10-18 - [FundYourFX 65% Off All Plans: Check the Halloween Entry Fee](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/) (65% Off) — Halloween — ended 2026-10-31
 - 2026-10-12 - [FundYourFX October Sale: 55% Off Upfront Entry Fee Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus-2/) (55% Off) — ended 2026-10-17
 - 2026-10-11 - [FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus](https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/) (55% Off) — ended 2026-10-17

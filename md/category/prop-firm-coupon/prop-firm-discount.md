@@ -6,6 +6,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | FundedNext | FundedNext November 30% Off All Stellar Instant Accounts | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/ |
+| 2026-11-01 | FundedNext | FundedNext November Up to 41% Off Stellar Challenges | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/ |
+| 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
+| 2026-11-01 | FundYourFX | FundYourFX November Trading Rush 60% Off All Plans | 60% OFF | 2026-11-10 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-november-trading-rush-60-off-all-plans/ |
 | 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
 | 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
 | 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
@@ -32,7 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% OFF | 2026-10-31 19:59 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
 | 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | RebelsFunding | RebelsFunding 70% Off $1,000 Account for €3 | 70% OFF | 2026-10-29 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/ |
-| 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% OFF | 2026-10-28 18:59 (ended) | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
-| 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
-| 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
-| 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |

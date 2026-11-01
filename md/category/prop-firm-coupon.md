@@ -6,6 +6,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | FundedNext | FundedNext November 30% Off All Stellar Instant Accounts | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/ |
+| 2026-11-01 | FundedNext | FundedNext November Up to 41% Off Stellar Challenges | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/ |
+| 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
+| 2026-11-01 | FundYourFX | FundYourFX November Trading Rush 60% Off All Plans | 60% OFF | 2026-11-10 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-november-trading-rush-60-off-all-plans/ |
 | 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
 | 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |

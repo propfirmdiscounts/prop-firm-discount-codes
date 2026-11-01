@@ -455,21 +455,21 @@
         "discount": "20%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13052,
-            "title": "Halloween 20% off Stellar entry fees from $29.99",
+            "deal_id": 13081,
+            "title": "Flat 30% off all Stellar Instant accounts in November",
             "offer_type": "coupon",
-            "discount_value": "41%",
+            "discount_value": "30%",
             "scope": [
-                "Stellar 2-Step, Stellar 1-Step, Stellar Lite, Stellar Instant, 2K, 5K, 6K, 10K, 15K, 20K, 25K, 50K, New Users, Existing Users"
+                "Stellar Instant Accounts In 2K, 5K, 10K And 20K Sizes"
             ],
-            "date_published": "2026-10-27",
+            "date_published": "2026-11-01",
             "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/"
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/"
         },
         "deal_count": {
-            "total": 32,
-            "this_year": 20,
+            "total": 34,
+            "this_year": 22,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundednext",

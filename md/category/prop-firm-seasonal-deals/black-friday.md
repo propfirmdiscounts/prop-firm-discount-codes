@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-14 | Traders Launch | Traders Launch Early Black Friday Sale: 20% Off Storewide | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-early-black-friday-20-off/ |
 | 2025-11-14 | Trading Funds | TradingFunds Black Friday — 50% OFF + Free Account Whether You Pass or Fail | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/tradingfunds/tradingfunds-black-friday-50-off-free-account-pass-or-fail/ |
 | 2025-11-14 | SFX Funded | SFX Funded Black Friday — 50% OFF + Buy 1 Get 2 Free (Last Chance) | Buy 1 Get 2 | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-50-off-buy-1-get-2-free-last-chance/ |
-| 2025-11-14 | Bullwaves Prime | Bullwaves Prime Black Friday — 100% Deposit Bonus on $500+ (Ends Nov 28, 500 Spots) | 100% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-100-percent-deposit-bonus-ends-nov-28/ |

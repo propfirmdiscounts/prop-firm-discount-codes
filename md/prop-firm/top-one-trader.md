@@ -1,51 +1,45 @@
 # Top One Trader Discount Code
 
-No live discount code for Top One Trader right now — newest deals and offers are below.
+The newest Top One Trader discount code is **BLACKFRIDAY** — 80% off (November 1, 2026). The campaign code changes with each promotion; newest first below.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
-- Last deal published: 2026-10-28
+- Last deal published: 2026-11-01
 - Trustpilot: 4.4/5 (3488 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-## Most recent deal (ended): Top One Trader Halloween Up to 70% Off Sitewide
+## Current deal: Top One Trader Black November Up to 80% Off Instant Funded
 
-- Published: 2026-10-28
-- Offer ends: 2026-10-31 (ended)
-- Offer: 70% Off
-- Scope: sitewide, all purchases, mystery reward per purchase
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/
+- Published: 2026-11-01
+- Offer ends: Limited time
+- Offer: 80% Off
+- Code: BLACKFRIDAY
+- Scope: Instant Funded accounts, other account types
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/
 
 ## Top One Trader deal FAQ
 
-**What discount does Top One Trader offer in this Halloween promotion?**
+**What does Top One Trader Black November offer?**
 
-Up to 70% off sitewide. Every purchase also brings a mystery reward, which may be store credit, free resets or up to 90% off a funded account.
+It cuts up to 80% off Instant Funded accounts and up to 75% off other account types. The cut lowers the upfront entry cost, while the account type chosen stays the same.
 
-**What can the mystery reward be?**
+**Which Top One Trader accounts get the 80% cut?**
 
-It may be store credit for a next account, free resets or up to 90% off a funded account. The exact reward stays hidden until after purchase, so no specific form is promised in advance.
+Instant Funded accounts get up to 80% off. Other account types get up to 75% off.
 
-**When does the Top One Trader Halloween offer end?**
+**When does Top One Trader Black November end?**
 
-It ends Halloween night, Saturday, October 31. No separate end date is given for the mystery reward itself.
+No end date is stated for this promotion.
 
-**What does this Top One Trader promotion not change?**
+**How do I get the Top One Trader discount code for this offer?**
 
-It does not change trading rules, drawdown limits or risk parameters. The offer lowers entry cost only and does not reduce trading risk.
-
-**Who may find this Top One Trader offer relevant?**
-
-It may suit a buyer who planned a purchase across the firm's lineup and values a lower entry price. It may be less relevant for a buyer who needs a known extra reward before buying.
-
-**Does every purchase get a mystery reward?**
-
-Yes, every purchase gets its own mystery reward. Each account bought brings another reward to open, with the form revealed only after purchase.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-01 - [Top One Trader Black November Up to 80% Off Instant Funded](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/) (80% Off) — Black Friday
 - 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off) — Halloween — ended 2026-10-31
 - 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)
 - 2026-10-01 - [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) (40% Off)

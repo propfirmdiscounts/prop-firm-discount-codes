@@ -1,16 +1,17 @@
 # Black Friday Prop Firm Deals (2026)
 
-The newest Black Friday prop firm deal is **SFX Funded 55% Off All Accounts Black Friday BOGO Deal** from SFX Funded — 55% off (published 2026-10-26). Codes and offers below, newest first, each with the end date its firm gave it.
+The newest Black Friday prop firm deal is **Top One Trader Black November Up to 80% Off Instant Funded** from Top One Trader — 80% off (published 2026-11-01). Codes and offers below, newest first, each with the end date its firm gave it.
 
 Newest offers:
+- Top One Trader — Top One Trader Black November Up to 80% Off Instant Funded (80% Off)
 - SFX Funded — SFX Funded 55% Off All Accounts Black Friday BOGO Deal (55% Off)
 - Fintokei — Fintokei Black Friday Challenge Fee Back With First Payout (Challenge Fee Back)
-- Lux Trading Firm — Lux Trading Firm £699 $1M Account Black Friday (30% Off)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
@@ -40,4 +41,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | My Funded Futures | MyFunded Futures Black Friday: 50% OFF Pro Accounts + Reset Chance | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/myfunded-futures-black-friday-50-off-pro-accounts/ |
 | 2025-11-28 | ThinkCapital | ThinkCapital Black Friday Sale: 40% OFF + Free Challenge Reward | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-black-friday-40-off-free-challenge/ |
 | 2025-11-28 | The Trading Pit | The Trading Pit Black Friday Sale: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-30-off-all-accounts/ |
-| 2025-11-28 | WSFunded | WSFunded Black Friday Flash Sale: 60% Off 5K & 10K Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-60-off-flash-sale/ |
