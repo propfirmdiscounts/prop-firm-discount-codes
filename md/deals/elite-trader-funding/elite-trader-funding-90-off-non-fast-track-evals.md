@@ -1,16 +1,15 @@
 # Elite Trader Funding: 90% Off Non-Fast Track Evals
 
-Elite Trader Funding is offering 90% off — discount code **BULLTOBER**.
+Elite Trader Funding was offering 90% off.
 
 > 90% off non-Fast Track evaluations at Elite Trader Funding, valid until October 31 at 11:59 PM Eastern. Entry cost falls and trading rules stay unchanged.
 
 - Published: 2026-10-20
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Elite Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/elite-trader-funding/
 - Summary: A 90% cut lowers the first-month cost of non-Fast Track evaluations. Trading rules and risk stay unchanged. Valid until October 31 at 11:59 PM Eastern.
 - Offer: 90% Off
-- Code: BULLTOBER
 - Scope: Non-Fast Track evaluations, 1-Step, End-of-Day, Static, Diamond Hands, Multi-Cart, Multi-Reset, up to 20 accounts
 - Deal: https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-evals/
 

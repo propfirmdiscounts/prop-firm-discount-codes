@@ -1,6 +1,6 @@
 # Traders Launch Discount Code
 
-No live discount code for Traders Launch right now — newest deals and offers are below.
+No live discount code for Traders Launch right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/traders-launch/
 
 - Last deal published: 2026-09-28
 - Trustpilot: 4.6/5 (81 reviews)
@@ -35,4 +35,4 @@ This is a coupon-based promotion, meaning traders must actively apply the discou
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-28 - [Traders Launch 25% Off Fall Promotion](https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/) (25% Off)
+- No deal published in the last 2 months. Check back soon for new promotions.

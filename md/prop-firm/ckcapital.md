@@ -45,5 +45,3 @@ It may suit buyers who were already planning to purchase a covered challenge. It
 - 2026-10-20 - [CK PropFirm 80% Off Challenges: $100K Account for $144](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) (80% Off)
 - 2026-10-16 - [CK PropFirm 75% Off All Accounts Upfront Fee](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) (75% Off)
 - 2026-10-14 - [CK Capital 75% Off All Challenge Accounts and 10% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) (75% Off) — ended 2026-10-21
-- 2026-09-06 - [CK Capital $100K Account for $199: Upfront Entry Cost Details](https://propfirmdiscount.com/deals/ckcapital/ck-capital-100k-account-199-deal/) (Only $199)
-- 2026-09-01 - [CK Capital 70% Off Evaluations and 75% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluations-september-promo/) (70% Off)

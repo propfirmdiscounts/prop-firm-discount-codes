@@ -1,16 +1,15 @@
 # FundedSquad 45% Off All Models Plus BOGO Anniversary
 
-FundedSquad is offering 45% off — discount code **2YEARS**.
+FundedSquad was offering 45% off.
 
 > FundedSquad Anniversary Offer cuts 45% off every model while trading rules stay unchanged, with a free second account of the same size, ending 31 October.
 
 - Published: 2026-10-30
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: FundedSquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 - Summary: FundedSquad Anniversary Offer cuts 45% off every model and adds a free second account of the same size while rules stay unchanged, ending 31 October.
 - Offer: 45% Off
-- Code: 2YEARS
 - Scope: all models, all account sizes, bundle purchases
 - Deal: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/
 

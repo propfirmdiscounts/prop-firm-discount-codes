@@ -1,16 +1,15 @@
 # HyroTrader Halloween 15% Off All Challenges
 
-HyroTrader is offering 15% off — discount code **FEAR15**.
+HyroTrader was offering 15% off.
 
 > HyroTrader Halloween cuts 15% off all challenges October 24 to October 31 with no change to trading rules. The $5,000 challenge starts at $50.
 
 - Published: 2026-10-24
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: HyroTrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
 - Summary: This Halloween promotion reduces the cost of all HyroTrader challenges by 15% from October 24 to October 31. Trading rules stay unchanged while the price falls. The $5,000 challenge starts at $50 after the reduction.
 - Offer: 15% Off
-- Code: FEAR15
 - Scope: all challenges
 - Deal: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

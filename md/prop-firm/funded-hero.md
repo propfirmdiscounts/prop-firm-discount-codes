@@ -13,12 +13,11 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Hero 70% Off $100K 3-Step Villain Halloween
+## Most recent deal (ended): Funded Hero 70% Off $100K 3-Step Villain Halloween
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 70% Off
-- Code: PFD
 - Scope: all challenges, 3-Step Villain, $100K account
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
@@ -51,12 +50,7 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween
+- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween — ended 2026-10-31
 - 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
 - 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
 - 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)
-- 2026-09-24 - [Funded Hero: 60% Off All Evaluation Accounts Plus BOGO](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) (60% Off)
-- 2026-09-20 - [Funded Hero 65% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-all-accounts-weekend-promo/) (65% Off)
-- 2026-09-10 - [Funded Hero: 60% Off Challenge Pricing and 10% Payout Bonus](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-payout-bonus/) (60% Off)
-- 2026-09-03 - [Funded Hero 65% Off Evaluation Accounts Plus Buy 1 Get 1 Free](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-bogo/) (65% Off)
-- 2026-09-01 - [Funded Hero 65% Off Challenge Pricing For Crypto Payments](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-crypto-discount/) (65% Off)

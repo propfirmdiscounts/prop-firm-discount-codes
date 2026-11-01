@@ -1,16 +1,15 @@
 # Funded Elite Halloween 40% Off Five Challenge Models
 
-Funded Elite is offering 40% off — discount code **SPOOKY**.
+Funded Elite was offering 40% off.
 
 > Funded Elite Halloween cuts 40% off Free Retry, Lite, Instant, Instant Elite and Catalyst with a Whale Pack and 6,000 credits until 31 October at 23:59.
 
 - Published: 2026-10-26
-- Offer ends: 2026-10-31 23:59
+- Offer ends: 2026-10-31 23:59 (ended)
 - Prop firm: Funded Elite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Summary: Funded Elite deal cuts entry cost by 40% on five models with packs and credits while trading rules stay unchanged until 31 October at 23:59.
 - Offer: 40% Off
-- Code: SPOOKY
 - Scope: Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, activation fee
 - Deal: https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/
 - Verified standing exclusive code: AFF1864062 (works any time; the live rate is always on the firm page)

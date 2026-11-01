@@ -1,16 +1,15 @@
 # OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250
 
-OFP Funding is offering 50% off — discount code **OFP50**.
+OFP Funding was offering 50% off.
 
 > Apply this extended promotion to cut the upfront entry cost by 50% across all sizes and secure an extra evaluation on orders over $250. Valid until October 31.
 
 - Published: 2026-10-16
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: OFP Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 - Summary: Reduce challenge pricing by 50% on all accounts and secure a bonus evaluation when spending over $250. Valid until October 31; risk limits remain strictly unchanged.
 - Offer: 50% Off
-- Code: OFP50
 - Scope: All Accounts, Instant Lite, Instant Classic, Instant Plus, BOGO over $250
 - Deal: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/
 

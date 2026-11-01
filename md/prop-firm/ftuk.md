@@ -55,9 +55,3 @@ At 0.25% risk per trade and a 1:2 reward ratio, each win adds 0.5% and four wins
 - 2026-10-12 - [FTUK 35% Off Instant Funding and 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost/) (35% Off)
 - 2026-10-09 - [FTUK 50% Off Futures Accounts for WealthCharts Launch](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-futures-wealthcharts-launch/) (50% Off)
 - 2026-10-01 - [FTUK: 35% Off Instant Funding Evaluation Price](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding/) (35% Off) — ended 2026-10-04
-- 2026-09-28 - [FTUK 40% Off Forex Instant Accounts Upfront Cost](https://propfirmdiscount.com/deals/ftuk/ftuk-40-percent-off-instant-accounts/) (40% Off)
-- 2026-09-23 - [FTUK 35% Off All Accounts and 35% Extra Payout Promo](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-extra-payout-promo/) (35% Off)
-- 2026-09-22 - [FTUK 35% Discount and $200,000 Account Pricing](https://propfirmdiscount.com/deals/ftuk/ftuk-35-percent-discount-200k-account/) (35% Off)
-- 2026-09-15 - [FTUK 30% Off All Forex and Futures Accounts Plus 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-forex-futures-accounts-5/) (30% Off)
-- 2026-09-07 - [FTUK 30% Off All Forex & Futures Accounts](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-forex-futures-accounts-4/) (30% Off)
-- 2026-09-01 - [FTUK 35% Off All Forex and Futures Accounts](https://propfirmdiscount.com/deals/ftuk/ftuk-35-percent-discount-september/) (35% Off)

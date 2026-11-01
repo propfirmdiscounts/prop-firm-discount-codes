@@ -46,7 +46,3 @@ Yes, there is a standing exclusive code available. You can apply PFD at checkout
 ## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/) (35% Off) — ended 2026-10-16
-- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & 9% Drawdown Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/) (20% Off)
-- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & 90% Split Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/) (20% Off)
-- 2026-09-28 - [Funded Trading Plus (FT+) 20% Discount & $5 Million Scaling Upgrade](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-instant-funding-scaling-discount/) (20% Off)
-- 2026-09-17 - [Funded Trading Plus (FT+) 20% Off and 90% Profit Split Upgrade on Account Purchase Cost](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-90-profit-split-instant-1-step/) (20% Off)

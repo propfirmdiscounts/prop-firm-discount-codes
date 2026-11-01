@@ -1,11 +1,11 @@
 # Top One Trader Halloween Up to 70% Off Sitewide
 
-Top One Trader is offering 70% off.
+Top One Trader was offering 70% off.
 
 > Top One Trader Halloween: up to 70% off sitewide with a mystery reward on every purchase. Rules stay unchanged. Ends Saturday, October 31.
 
 - Published: 2026-10-28
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Top One Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 - Summary: Up to 70% off sitewide for Halloween, with a mystery reward on every purchase. The cut lowers entry cost only and leaves trading rules unchanged. Ends Halloween night, Saturday, October 31.

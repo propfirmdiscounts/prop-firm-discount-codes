@@ -1,16 +1,15 @@
 # Finotive Futures Halloween Up to 50% Off Instant Accounts
 
-Finotive Futures is offering 50% off — discount code **BOO**.
+Finotive Futures was offering 50% off.
 
 > Finotive Futures Halloween offer: 50% off Instant accounts and 40% off One Step accounts with rules unchanged. Valid before November 1 with giveaway entry.
 
 - Published: 2026-10-28
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Finotive Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - Summary: Halloween: 50% off Instant, 40% off One Step, rules unchanged. Valid before November 1, free next account after first payout, giveaway entry for each buy.
 - Offer: 50% Off
-- Code: BOO
 - Scope: Instant accounts, One Step accounts, free next account after first payout, $500K account giveaway entry
 - Deal: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/
 - Verified standing exclusive code: PFDDEAL (works any time; the live rate is always on the firm page)

@@ -1,6 +1,6 @@
 # SFX Funded Discount Code
 
-The newest SFX Funded discount code is **SPOOKY** — 55% off (October 30, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for SFX Funded right now — newest deals and offers are below.
 
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
@@ -9,12 +9,11 @@ The newest SFX Funded discount code is **SPOOKY** — 55% off (October 30, 2026)
 - Activate: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 
-## Current deal: SFX Funded 55% Off Halloween Instant and Challenge Accounts
+## Most recent deal (ended): SFX Funded 55% Off Halloween Instant and Challenge Accounts
 
 - Published: 2026-10-30
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 55% Off
-- Code: SPOOKY
 - Scope: Instant Accounts, 1-Step Pro Accounts, 2-Step Accounts, $50K, $100K
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/
@@ -55,7 +54,5 @@ Follow the Start here link at the end of this article to reach the official site
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [SFX Funded 55% Off Halloween Instant and Challenge Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/) (55% Off) — Halloween
+- 2026-10-30 - [SFX Funded 55% Off Halloween Instant and Challenge Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/) (55% Off) — Halloween — ended 2026-10-31
 - 2026-10-26 - [SFX Funded 55% Off All Accounts Black Friday BOGO Deal](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/) (55% Off) — Black Friday
-- 2026-09-04 - [SFX Funded 70% Off Instant Accounts ($80K to $200K)](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-70-off-instant-accounts/) (70% Off)
-- 2026-09-03 - [SFX Funded 50% Off $80K, $120K, and $100K Evaluation Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-50-percent-off-bogo-refund/) (50% Off)

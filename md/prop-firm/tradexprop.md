@@ -40,5 +40,3 @@ No, this specific cost reduction is applied only to instant funding models.
 
 - 2026-10-09 - [Tradexprop Halloween Promo: 20% Off Instant Funding](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/) (20% Off) — Halloween — ended 2026-10-25
 - 2026-10-09 - [Tradexprop Halloween Sale: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/) (40% Off) — Halloween — ended 2026-10-25
-- 2026-09-28 - [Tradexprop 25% Off Instant Funding Plans](https://propfirmdiscount.com/deals/tradexprop/tradexprop-25-off-instant-funding-plans/) (25% Off)
-- 2026-09-07 - [Tradexprop Malaysia Day Promo: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-40-off-evaluation-malaysia-day/) (40% Off)

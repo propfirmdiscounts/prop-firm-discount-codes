@@ -1,16 +1,15 @@
 # Funded Hero 70% Off $100K 3-Step Villain Halloween
 
-Funded Hero is offering 70% off — discount code **PFD**.
+Funded Hero was offering 70% off.
 
 > Funded Hero cuts 70% off every challenge during the Halloween sale, including the $100K 3-Step Villain at $107.40, down from $358. Valid until 31 October.
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Funded Hero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - Summary: Funded Hero cuts 70% off all deals, with $100K Villain at $107.40 from $358. Rules do not change and low cost is not low risk. Valid to 31 October.
 - Offer: 70% Off
-- Code: PFD
 - Scope: all challenges, 3-Step Villain, $100K account
 - Deal: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

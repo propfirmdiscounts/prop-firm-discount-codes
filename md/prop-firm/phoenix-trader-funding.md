@@ -13,12 +13,11 @@ The verified Phoenix Trader Funding discount code is **PFD** — Up to 20% off, 
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Phoenix Trader Funding: 40% Off Daily Seed Challenges
+## Most recent deal (ended): Phoenix Trader Funding: 40% Off Daily Seed Challenges
 
 - Published: 2026-10-15
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 40% Off
-- Code: HALLOWEEN40
 - Scope: Daily Seed
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
@@ -47,11 +46,8 @@ The discount remains valid until 31 October.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-15 - [Phoenix Trader Funding: 40% Off Daily Seed Challenges](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) (40% Off) — Halloween
-- 2026-10-15 - [Phoenix Trader Funding: 30% Off Classic Starter Evaluations](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) (30% Off) — Halloween
+- 2026-10-15 - [Phoenix Trader Funding: 40% Off Daily Seed Challenges](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) (40% Off) — Halloween — ended 2026-10-31
+- 2026-10-15 - [Phoenix Trader Funding: 30% Off Classic Starter Evaluations](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) (30% Off) — Halloween — ended 2026-10-31
 - 2026-10-15 - [Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/) (30% Off)
 - 2026-10-07 - [Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40)](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/) (40% Off) — ended 2026-10-12
 - 2026-10-01 - [Phoenix Trader Funding: 30% Off Every Classic Size Evaluation](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/) (30% Off) — ended 2026-10-15
-- 2026-09-16 - [Phoenix Trader Funding: 30% Off Classic Evaluation Accounts (25K-100K)](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-accounts-3/) (30% Off)
-- 2026-09-12 - [Phoenix Trader Funding: 20% Off 10K And 25K Spark Accounts From $35.20](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-20-off-spark/) (20% Off)
-- 2026-09-01 - [Phoenix Trader Funding 40% Off Daily Evaluation Accounts](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts/) (40% Off)

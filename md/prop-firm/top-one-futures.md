@@ -50,4 +50,3 @@ The rating is 4.8/5 from 5,205 reviews as of October 2026 according to Trustpilo
 
 - 2026-10-23 - [Top One Futures X-Daily Spark: Start for $39](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) (Only $39)
 - 2026-10-04 - [Top One Futures: 60% Off Elite Daily & Instant Funding](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) (60% Off)
-- 2026-09-01 - [Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) (50% Off)

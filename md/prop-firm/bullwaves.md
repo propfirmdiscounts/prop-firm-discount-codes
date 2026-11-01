@@ -1,18 +1,17 @@
 # Bullwaves Prime Discount Code
 
-The newest Bullwaves Prime discount code is **NOTRICKS35** — 35% off (October 23, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Bullwaves Prime right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-23
 - Trustpilot: 3.5/5 (677 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 
-## Current deal: Bullwaves Prime 35% Off All Prime Challenges Halloween
+## Most recent deal (ended): Bullwaves Prime 35% Off All Prime Challenges Halloween
 
 - Published: 2026-10-23
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 35% Off
-- Code: NOTRICKS35
 - Scope: Prime Challenges, all challenges, Halloween, 50K 2-Step giveaway
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/
@@ -41,4 +40,4 @@ It may suit buyers who already planned a Prime Challenge purchase in late Octobe
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-23 - [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) (35% Off) — Halloween
+- 2026-10-23 - [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) (35% Off) — Halloween — ended 2026-10-31

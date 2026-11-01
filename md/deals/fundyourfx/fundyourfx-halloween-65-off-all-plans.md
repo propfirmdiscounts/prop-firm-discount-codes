@@ -1,16 +1,15 @@
 # FundYourFX 65% Off All Plans: Check the Halloween Entry Fee
 
-FundYourFX is offering 65% off — discount code **HALLOWEEN65**.
+FundYourFX was offering 65% off.
 
 > FundYourFX Halloween promotion gives 65% off all plans, valid from 18 October to 31 October, leaving 35% of the regular challenge pricing to pay. The reduction lowers purchase cost only and does not change trading rules or risk.
 
 - Published: 2026-10-18
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: FundYourFX
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 - Summary: Halloween promotion reduces all plan prices by 65%, valid from 18 October to 31 October, lowering purchase cost only while trading rules, drawdown limits and risk parameters remain unchanged for buyers.
 - Offer: 65% Off
-- Code: HALLOWEEN65
 - Scope: All plans
 - Deal: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/
 

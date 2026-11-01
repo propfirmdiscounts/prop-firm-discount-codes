@@ -43,4 +43,3 @@ Buyers should confirm that the evaluation they select falls within the any-evalu
 
 - 2026-10-19 - [Titan Capital 60% Off Evaluations Plus Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-60-off-evaluations-free-second-account/) (60% Off) — ended 2026-10-19
 - 2026-10-01 - [Titan Capital 55% Off All Evaluations and Bonus Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/) (55% Off) — ended 2026-10-14
-- 2026-09-16 - [Titan Capital 50% Off Any Evaluation and Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-50-off-free-account/) (50% Off)

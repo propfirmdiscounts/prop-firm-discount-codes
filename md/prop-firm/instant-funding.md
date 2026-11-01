@@ -56,8 +56,3 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 - 2026-10-16 - [Instant Funding 35% Off Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) (35% Off)
 - 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off) — ended 2026-10-15
 - 2026-10-02 - [Instant Funding 40% Off Micro Lite Accounts Up to $25K](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) (40% Off)
-- 2026-09-22 - [Instant Funding: 37.5% Off IF Micro Account Purchase Cost](https://propfirmdiscount.com/deals/instant-funding/instant-funding-37-5-percent-discount-if-micro/) (37% Off)
-- 2026-09-21 - [Instant Funding: 10% Off All Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-10-off-evolve-evaluations/) (10% Off)
-- 2026-09-11 - [Instant Funding 30% Discount & Free 90% Profit Split Evaluation Pricing](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-discount-90-profit-split/) (30% Off)
-- 2026-09-11 - [Instant Funding 40% Off One-Phase Clarity Evaluations](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-one-phase-clarity/) (40% Off)
-- 2026-09-01 - [Instant Funding: 30% Off Clarity and Original Ranges](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-clarity-original/) (30% Off)

@@ -106,7 +106,6 @@ activation_link
 archive_url
 trustpilot_score
 trustpilot_reviews
-description
 logo
 
 Notes:
@@ -141,7 +140,7 @@ is not tagged is not part of that event, however close its date falls.
 deal_count is {"total", "this_year", "year"}: how many deals the firm has
 published on this site in total and in the running calendar year.
 
-trustpilot_score, trustpilot_reviews, description and logo are
+trustpilot_score, trustpilot_reviews and logo are
 optional fields, present when data exists.
 
 Category:

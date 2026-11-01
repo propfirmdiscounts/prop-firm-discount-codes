@@ -52,9 +52,6 @@ No, a lower entry cost does not reduce trading risk. The discount changes the pu
 ## Deals (last 2 months, newest first)
 
 - 2026-10-29 - [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) (60% Off) — Halloween
-- 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off)
+- 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off) — ended 2026-10-31
 - 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)
 - 2026-10-09 - [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) (Only $9.99)
-- 2026-09-28 - [PipFarm 70% Off and 10% Cashback Evaluation Price](https://propfirmdiscount.com/deals/pipfarm/70-off-10-cashback-limited/) (70% Off)
-- 2026-09-08 - [PipFarm 20% Off Plus 20% Extra Balance On All Evaluation Accounts](https://propfirmdiscount.com/deals/pipfarm/20-percent-off-extra-balance-all-accounts/) (20% Off)
-- 2026-09-01 - [PipFarm 50% Discount and 50% Balance Increase on Accounts up to 50K](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-discount-balance-increase/) (50% Off)

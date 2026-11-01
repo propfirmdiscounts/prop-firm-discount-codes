@@ -42,5 +42,3 @@ No, the 70% discount applies exclusively to the 50K and 100K Static Instant Fund
 ## Deals (last 2 months, newest first)
 
 - 2026-10-12 - [Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices](https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/) (70% Off) — ended 2026-10-14
-- 2026-09-09 - [Purdia Capital: 60% Off First 100K Instant Funding and Evaluation Accounts](https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-60-off-first-purchase/) (60% Off)
-- 2026-09-08 - [Purdia Capital 50% Off 100K Static Instant Funding Entry Cost](https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-50-off-evaluation-instant-funding/) (50% Off)

@@ -45,4 +45,3 @@ The current campaign is explicitly tied to the October discounts. It is availabl
 - 2026-10-06 - [Sure Leverage Funding 40% Off October Discounts & Account Customization](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/) (40% Off)
 - 2026-10-04 - [Sure Leverage Funding Buy 1 Get 1 Free October Entitlement](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/) (Buy 1 Get 1)
 - 2026-10-04 - [Sure Leverage Funding 40% Off October Promotion](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/) (40% Off)
-- 2026-09-16 - [Sure Leverage Funding 40% Off Sitewide Accounts](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off/) (40% Off)

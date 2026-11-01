@@ -1,6 +1,6 @@
 # FundedSquad Discount Code
 
-The newest FundedSquad discount code is **2YEARS** — 45% off (October 30, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for FundedSquad right now — newest deals and offers are below.
 
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
@@ -9,12 +9,11 @@ The newest FundedSquad discount code is **2YEARS** — 45% off (October 30, 2026
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-## Current deal: FundedSquad 45% Off All Models Plus BOGO Anniversary
+## Most recent deal (ended): FundedSquad 45% Off All Models Plus BOGO Anniversary
 
 - Published: 2026-10-30
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 45% Off
-- Code: 2YEARS
 - Scope: all models, all account sizes, bundle purchases
 - Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/
 
@@ -46,7 +45,5 @@ The promotion affects purchase pricing only and does not modify trading rules, d
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off)
+- 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off) — ended 2026-10-31
 - 2026-10-01 - [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) (40% Off) — ended 2026-10-15
-- 2026-09-16 - [FundedSquad 50% Off All Models And Giveaway Entry](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-72-hours/) (50% Off)
-- 2026-09-01 - [FundedSquad 50% Off Evaluations, 35% Off Instant Models & Buy 1 Get 2 Free](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-evaluation-35-instant-buy-1-get-2/) (50% Off)

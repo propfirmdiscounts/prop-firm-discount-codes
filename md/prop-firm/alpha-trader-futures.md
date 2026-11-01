@@ -1,6 +1,6 @@
 # Alpha Trader Futures Discount Code
 
-No live discount code for Alpha Trader Futures right now — newest deals and offers are below.
+No live discount code for Alpha Trader Futures right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/alpha-trader-futures/
 
 > Alpha Trader Futures is a Proprietary Trading Firm that provides virtual trading challenges. Pass the challenge and trade our virtual capital.
 
@@ -19,4 +19,4 @@ No live discount code for Alpha Trader Futures right now — newest deals and of
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-01 - [Alpha Trader Futures 60% Off Entry Fee For All Account Types](https://propfirmdiscount.com/deals/alpha-trader-futures/alpha-trader-futures-60-off-discount/) (60% Off)
+- No deal published in the last 2 months. Check back soon for new promotions.

@@ -47,4 +47,3 @@ This pricing structure may suit traders who are looking to secure their preferre
 ## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Forexive 30% Off All Trading Challenges](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) (30% Off)
-- 2026-09-30 - [Forexive 30% Off All Challenge Accounts](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) (30% Off)

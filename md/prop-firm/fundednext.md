@@ -52,6 +52,3 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 - 2026-10-27 - [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) (41% Off) — Halloween
 - 2026-10-12 - [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) (32% Off)
 - 2026-10-01 - [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) (Only $29.99)
-- 2026-09-15 - [FundedNext 20% Off New or 15% Off Existing 50K Stellar Evaluation Accounts](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) (20% Off)
-- 2026-09-07 - [FundedNext: 30% Off Stellar Instant Accounts (2K to 20K)](https://propfirmdiscount.com/deals/fundednext/fundednext-30-off-stellar-instant/) (30% Off)
-- 2026-09-01 - [FundedNext September Promo: 6K Stellar 2-Step For $29.99 And 1-Step For $39.99](https://propfirmdiscount.com/deals/fundednext/fundednext-september-stellar-6k-promo/) (Only $29.99)

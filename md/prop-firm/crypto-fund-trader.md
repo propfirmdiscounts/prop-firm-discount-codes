@@ -39,4 +39,4 @@ The 22% reduction is valid across all 1-phase and 2-phase models currently offer
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-15 - [Crypto Fund Trader 22% Off 1-Phase and 2-Phase Challenges](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) (22% Off)
+- No deal published in the last 2 months. Check back soon for new promotions.

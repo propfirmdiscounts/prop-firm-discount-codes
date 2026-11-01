@@ -49,7 +49,3 @@ Follow the Start here link at the end of this article to reach the official offe
 - 2026-10-13 - [The Concept Trading: 40% Off Eligible Programs + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/) (40% Off) — ended 2026-10-16
 - 2026-10-05 - [The Concept Trading 30% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-eligible-evaluations/) (30% Off) — ended 2026-10-09
 - 2026-10-01 - [The Concept Trading: 50% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-50-off-eligible-evaluations/) (50% Off) — ended 2026-10-02
-- 2026-09-20 - [The Concept Trading: 45% Off Challenge Pricing & Intern Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-45-off-intern-retry/) (45% Off)
-- 2026-09-16 - [The Concept Trading: 35% Off Evaluations & Intern Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-intern-retry/) (35% Off)
-- 2026-09-08 - [The Concept Trading 25% Off Evaluation Accounts: Pricing Overview](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-25-off-eligible-programs/) (25% Off)
-- 2026-09-03 - [The Concept Trading Flash Sale: 30% Off Eligible Evaluations](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-30-off-flash-sale/) (30% Off)

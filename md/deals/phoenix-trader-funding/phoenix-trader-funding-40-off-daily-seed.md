@@ -1,16 +1,15 @@
 # Phoenix Trader Funding: 40% Off Daily Seed Challenges
 
-Phoenix Trader Funding is offering 40% off — discount code **HALLOWEEN40**.
+Phoenix Trader Funding was offering 40% off.
 
 > Phoenix Trader Funding offers a 40% discount on its one-time Daily Seed evaluation, cutting the entry cost to $59.40 for Halloween. Valid until 31 October.
 
 - Published: 2026-10-15
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Phoenix Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - Summary: Secure a 40% price reduction on the Daily Seed challenge at Phoenix Trader Funding this Halloween. The one-time entry fee drops to $59.40 until 31 October.
 - Offer: 40% Off
-- Code: HALLOWEEN40
 - Scope: Daily Seed
 - Deal: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

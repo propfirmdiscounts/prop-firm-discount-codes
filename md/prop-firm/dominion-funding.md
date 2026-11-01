@@ -44,5 +44,3 @@ You can activate the 20% price reduction by visiting the Dominion Funding offici
 
 - 2026-10-16 - [Dominion Funding: 20% Off All Account Models](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) (20% Off)
 - 2026-10-06 - [Dominion Funding: 30% Off All Accounts For TradeHawk Launch](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) (30% Off)
-- 2026-09-21 - [Dominion Funding 30% Off All Evaluations](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) (30% Off)
-- 2026-09-02 - [Dominion Funding 35% Off All Accounts: Cost Reduction Breakdown](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) (35% Off)

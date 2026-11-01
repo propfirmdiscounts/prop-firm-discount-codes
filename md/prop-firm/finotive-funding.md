@@ -48,7 +48,5 @@ The pricing may suit a buyer who wants a lower entry cost for any account type o
 ## Deals (last 2 months, newest first)
 
 - 2026-10-31 - [Finotive Funding 65% Off Every Account](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) (65% Off) — Halloween
-- 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off) — Halloween
+- 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off) — ended 2026-10-19
-- 2026-09-21 - [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) (50% Off)
-- 2026-09-07 - [Finotive Funding Labor Day: 40% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) (40% Off) — Labor Day

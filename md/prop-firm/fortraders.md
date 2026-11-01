@@ -55,4 +55,3 @@ A buyer who plans to purchase the $6K Forex Fast 1-Step MT5 challenge may find t
 - 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)
 - 2026-10-05 - [For Traders Cuts $6K Fast Crypto Challenge to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) (Only $9.99)
 - 2026-10-02 - [For Traders: $6K Fast Evaluation Reduced to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) (79% Off)
-- 2026-09-02 - [For Traders 50% Off London Expo Ticket Promotion](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-expo-ticket/) (50% Off)

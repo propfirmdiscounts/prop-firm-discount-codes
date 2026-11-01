@@ -44,8 +44,3 @@ It changes purchase pricing only. It does not change trading rules and it does n
 - 2026-10-09 - [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) (30% Off) — ended 2026-10-11
 - 2026-10-09 - [Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/) (35% Off) — ended 2026-10-11
 - 2026-10-01 - [Blueberry Funded 35% Off Prime Challenge and Second Account](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/) (35% Off) — ended 2026-10-02
-- 2026-09-29 - [Blueberry Funded: 30% Off and BOGO on Instant Elite Accounts](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-bogo-instant-elite-2/) (30% Off)
-- 2026-09-29 - [Blueberry Funded: 35% Off and BOGO on Prime Evaluation Accounts](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-bogo-prime/) (35% Off)
-- 2026-09-23 - [Blueberry Funded: 40% Off Prime Challenges Plus Bonus Evaluation Account](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-40-off-prime-bonus-account/) (40% Off)
-- 2026-09-10 - [Blueberry Funded: 30% Off and Free Second Account on Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-bogo-instant-elite/) (30% Off)
-- 2026-09-01 - [Blueberry Funded: 35% Off Prime 2-Step Challenges Plus Additional Account](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-2-step/) (35% Off)

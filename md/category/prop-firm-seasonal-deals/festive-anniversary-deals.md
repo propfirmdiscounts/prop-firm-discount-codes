@@ -6,7 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
+| 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | 2026-10-15 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
 | 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |

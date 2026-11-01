@@ -43,6 +43,5 @@ No. The promotion reduces purchase cost only and it does not modify trading rule
 ## Deals (last 2 months, newest first)
 
 - 2026-10-23 - [Alpha Futures 40% Off All Plans - New Dashboard](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) (40% Off)
-- 2026-10-20 - [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) (50% Off)
-- 2026-10-20 - [Alpha Futures 40% Off Zero Plan for MyAlpha Launch](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) (40% Off)
-- 2026-09-15 - [Alpha Futures 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/) (50% Off)
+- 2026-10-20 - [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) (50% Off) — ended 2026-10-31
+- 2026-10-20 - [Alpha Futures 40% Off Zero Plan for MyAlpha Launch](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) (40% Off) — ended 2026-10-31

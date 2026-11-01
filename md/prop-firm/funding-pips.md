@@ -40,5 +40,3 @@ No end date is stated in the promotion details. Readers should check the deal pa
 ## Deals (last 2 months, newest first)
 
 - 2026-10-30 - [FundingPips Halloween 20% Off New, 15% Off Existing Accounts](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/) (15% Off) — Halloween
-- 2026-09-18 - [FundingPips 20% Off ZERO Accounts (5K-200K) Upfront Entry Cost](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-zero-accounts/) (20% Off)
-- 2026-09-07 - [FundingPips 22% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funding-pips/fundingpips-22-percent-off-promotion/) (22% Off)

@@ -23,4 +23,4 @@ The verified BullRush Prop discount code is **7XTG8N** — Up to 5% off, works a
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-26 - [BullRush Prop 50% Off $5K-$50K Accounts: Entry Cost Reduction](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) (50% Off)
+- No deal published in the last 2 months. Check back soon for new promotions.

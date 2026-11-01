@@ -11,12 +11,11 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Funded Elite Halloween 40% Off Five Challenge Models
+## Most recent deal (ended): Funded Elite Halloween 40% Off Five Challenge Models
 
 - Published: 2026-10-26
-- Offer ends: 2026-10-31 23:59
+- Offer ends: 2026-10-31 23:59 (ended)
 - Offer: 40% Off
-- Code: SPOOKY
 - Scope: Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, activation fee
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/
@@ -57,10 +56,7 @@ Free packs and credits require the stated qualifying purchases. Each Elite Pack 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-26 - [Funded Elite Halloween 40% Off Five Challenge Models](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) (40% Off) — Halloween
+- 2026-10-26 - [Funded Elite Halloween 40% Off Five Challenge Models](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) (40% Off) — Halloween — ended 2026-10-31 23:59
 - 2026-10-14 - [Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) (47% Off)
 - 2026-10-09 - [Funded Elite 35%-50% Off Plus Free Pack Entitlements](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) (50% Off) — ended 2026-10-14
 - 2026-10-02 - [Funded Elite: 35% Off $7K–$300K Evaluation Accounts Plus Weekly Payouts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-percent-off-weekly-payouts/) (35% Off)
-- 2026-09-09 - [Funded Elite: 5 Evaluation Accounts For $5 Total Upfront Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-5-accounts-5-dollars-deal/) (Only $5)
-- 2026-09-03 - [Funded Elite 50% Off 300k And 400k Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-50-off-instant-elite/) (50% Off)
-- 2026-09-03 - [Funded Elite 35% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-off-evaluations/) (35% Off)

@@ -9,10 +9,10 @@ No live discount code for Top One Trader right now — newest deals and offers a
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-## Current deal: Top One Trader Halloween Up to 70% Off Sitewide
+## Most recent deal (ended): Top One Trader Halloween Up to 70% Off Sitewide
 
 - Published: 2026-10-28
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 70% Off
 - Scope: sitewide, all purchases, mystery reward per purchase
 - Event: Halloween
@@ -46,7 +46,6 @@ Yes, every purchase gets its own mystery reward. Each account bought brings anot
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off) — Halloween
+- 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off) — Halloween — ended 2026-10-31
 - 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)
 - 2026-10-01 - [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) (40% Off)
-- 2026-09-04 - [Top One Trader Up To 70% Off Instant Funding Entry Fee](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-up-to-70-percent-off-instant-funding/) (70% Off)

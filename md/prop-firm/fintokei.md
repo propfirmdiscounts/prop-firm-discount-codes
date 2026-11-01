@@ -44,6 +44,3 @@ Buyers should check that the fee return applies to their challenge fee and that 
 ## Deals (last 2 months, newest first)
 
 - 2026-10-26 - [Fintokei Black Friday Challenge Fee Back With First Payout](https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/) (Challenge Fee Back) — Black Friday
-- 2026-09-15 - [Fintokei 25% Off SwiftTrader Accounts up to $50,000 Lowers Entry Fee](https://propfirmdiscount.com/deals/fintokei/fintokei-swifttrader-25-percent-discount/) (25% Off)
-- 2026-09-11 - [Fintokei: 10% Off ProTrader $50,000 Challenges Plus Free $5,000 Account](https://propfirmdiscount.com/deals/fintokei/fintokei-10-discount-free-5k-account-protrader/) (10% Off)
-- 2026-09-09 - [Fintokei 2x First Payout Bonus Capped at 4x Purchase Price: Terms to Consider](https://propfirmdiscount.com/deals/fintokei/fintokei-protrader-2x-first-payout/) (2x First Payout)

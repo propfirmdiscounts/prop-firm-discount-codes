@@ -48,4 +48,3 @@ Buyers based in the United States should be cautious, since Instant Accounts in 
 ## Deals (last 2 months, newest first)
 
 - 2026-10-30 - [FunderPro Halloween 30% Off Classic and Instant Accounts](https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/) (30% Off) — Halloween
-- 2026-09-29 - [FunderPro 30% Off Upfront Entry Cost](https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-entry-cost/) (30% Off)

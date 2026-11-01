@@ -47,5 +47,3 @@ Buyers who want a Futures account should be cautious because Futures accounts ar
 ## Deals (last 2 months, newest first)
 
 - 2026-10-20 - [Tradeify 50% Off All FX Accounts - Any Size](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/) (50% Off)
-- 2026-09-29 - [Tradeify 50% Off All FX Accounts: Is the Launch Pricing Right for You?](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-launch/) (50% Off)
-- 2026-09-01 - [Tradeify - 50% Off All Accounts](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-all-accounts/) (50% Off)

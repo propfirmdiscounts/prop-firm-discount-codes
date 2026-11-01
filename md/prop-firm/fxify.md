@@ -45,6 +45,3 @@ Purchase pricing changes under the FXIFY discount. Trading rules, drawdown limit
 - 2026-10-22 - [FXIFY 40% Off Instant Funding - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off) — Halloween
 - 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off)
 - 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)
-- 2026-09-24 - [FXIFY 40% Off All $50K Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) (40% Off)
-- 2026-09-09 - [FXIFY: 30% Off Evaluation Programs Up To $400K](https://propfirmdiscount.com/deals/fxify/fxify-30-off-evaluation-programs/) (30% Off)
-- 2026-09-03 - [FXIFY 20% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-20-off-evaluations/) (20% Off)

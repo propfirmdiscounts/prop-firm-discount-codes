@@ -45,4 +45,3 @@ This is an active promotion applied at checkout to reduce the initial purchase p
 ## Deals (last 2 months, newest first)
 
 - 2026-10-09 - [Fundex 20% Off 1-Step Evaluation Accounts](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) (20% Off)
-- 2026-09-25 - [Fundex: 30% Off All Evaluation Accounts (48-Hour Sale)](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) (30% Off)

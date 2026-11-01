@@ -1,16 +1,15 @@
 # Bullwaves Prime 35% Off All Prime Challenges Halloween
 
-Bullwaves Prime is offering 35% off — discount code **NOTRICKS35**.
+Bullwaves Prime was offering 35% off.
 
 > Bullwaves Prime cuts 35% off all Prime Challenges for Halloween, valid until October 31, 2026. Rules stay unchanged and trading risk is not reduced.
 
 - Published: 2026-10-23
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: Bullwaves Prime
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 - Summary: A 35% Halloween reduction lowers the upfront entry cost for all Prime Challenges, valid until October 31, 2026, while trading rules and evaluation criteria remain unchanged and trading risk stays the same for every buyer.
 - Offer: 35% Off
-- Code: NOTRICKS35
 - Scope: Prime Challenges, all challenges, Halloween, 50K 2-Step giveaway
 - Deal: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/
 

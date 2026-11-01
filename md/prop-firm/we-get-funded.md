@@ -49,7 +49,3 @@ A buyer who already made a first purchase should be cautious, since the offer is
 - 2026-10-27 - [We Get Funded 65% Off First 1 Step 50K Challenge](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/) (65% Off) — Halloween — ended 2026-10-28 18:59
 - 2026-10-20 - [We Get Funded: 50K 1 Step first challenge at 48.30 €](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/) (Only €48.30) — ended 2026-10-21
 - 2026-10-09 - [We Get Funded: Buy 1 Get 3 Free Accounts Offer](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-offer/) (Buy 1 Get 3) — ended 2026-10-09
-- 2026-09-29 - [We Get Funded Buy 1 Get 3 Free Accounts Promotion](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-promotion-2/) (Buy 1 Get 3)
-- 2026-09-15 - [We Get Funded: Buy 1 Evaluation Account Get 3 Free](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free/) (Buy 1 Get 1)
-- 2026-09-06 - [We Get Funded Buy 1 Get 1 Free On $50K And $100K 1-Step Challenges](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-bogo-1-step-challenge/) (Buy 1 Get 1)
-- 2026-09-04 - [We Get Funded Buy 1 Get 3 Free Evaluation Accounts](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-promotion/) (Buy 1 Get 3)

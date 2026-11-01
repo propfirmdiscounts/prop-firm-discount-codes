@@ -49,8 +49,3 @@ Follow the Start here link at the end of the article to the official site. The l
 - 2026-10-20 - [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) (70% Off) — ended 2026-10-22
 - 2026-10-13 - [RebelsFunding 73% Off $5,000 Trading Accounts For €7](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/) (73% Off) — ended 2026-10-15
 - 2026-10-06 - [RebelsFunding 59% Off $20,000 Evaluation Accounts For €29](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-59-percent-off-20000-account/) (59% Off) — ended 2026-10-08
-- 2026-09-29 - [RebelsFunding 70% Off $1,000 Evaluation Accounts For €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3/) (70% Off)
-- 2026-09-22 - [RebelsFunding 65% Off: $10,000 Evaluation Account For €14](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-65-off-10000-account-14/) (65% Off)
-- 2026-09-15 - [RebelsFunding 73% Discount on $5,000 Trading Challenges](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-percent-discount-5000-program/) (73% Off)
-- 2026-09-10 - [RebelsFunding: 70% Off 2-Step $1,000 and $5,000 Evaluation Accounts](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-2-step/) (70% Off)
-- 2026-09-01 - [RebelsFunding: 70% Off $1,000 Evaluation Accounts](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-2/) (70% Off)

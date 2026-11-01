@@ -24,6 +24,4 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 
 ## Deals (last 2 months, newest first)
 
-- 2026-09-21 - [Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) (90% Off) — Black Friday
-- 2026-09-15 - [Upcomers Promotion: Free Bonus Account on $50K+ Evaluations](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) (Free Bonus Account)
-- 2026-09-03 - [Upcomers 90% Off Perpetuals Launch Offer](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) (90% Off)
+- No deal published in the last 2 months. Check back soon for new promotions.

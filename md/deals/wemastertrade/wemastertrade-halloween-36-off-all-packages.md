@@ -1,16 +1,15 @@
 # WeMasterTrade Halloween 36% Off All Packages Deal
 
-WeMasterTrade is offering 36% off — discount code **TREAT36**.
+WeMasterTrade was offering 36% off.
 
 > WeMasterTrade Halloween promotion reduces entry cost by 36% across all packages while trading rules remain unchanged. Valid October 29-31, 2026 (UTC-7).
 
 - Published: 2026-10-29
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: WeMasterTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
 - Summary: WeMasterTrade Halloween deal cuts 36% off all packs, cuts entry cost, keeps rules same, valid Oct 29-31, 2026 (UTC-7) for all buyers on any pack size.
 - Offer: 36% Off
-- Code: TREAT36
 - Scope: all packages
 - Deal: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

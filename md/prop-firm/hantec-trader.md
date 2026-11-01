@@ -42,5 +42,3 @@ You can access the 35% discount by applying the active promotion code at checkou
 ## Deals (last 2 months, newest first)
 
 - 2026-10-14 - [Hantec Trader 35% Off Eligible Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/) (35% Off) — ended 2026-10-16
-- 2026-09-29 - [Hantec Trader 50% Off Evaluation Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/) (50% Off)
-- 2026-09-16 - [Hantec Trader 35% Off First Evaluation Challenge](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-first-challenge/) (35% Off)

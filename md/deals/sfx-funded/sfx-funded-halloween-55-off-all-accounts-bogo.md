@@ -1,16 +1,15 @@
 # SFX Funded 55% Off Halloween Instant and Challenge Accounts
 
-SFX Funded is offering 55% off — discount code **SPOOKY**.
+SFX Funded was offering 55% off.
 
 > SFX Funded cuts 55% off Instant, 1-Step Pro and 2-Step accounts with a buy-one-get-one offer and a 100% first reward split. Ends 31 October.
 
 - Published: 2026-10-30
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Prop firm: SFX Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 - Summary: SFX Funded cuts Instant, 1-Step Pro and 2-Step costs by 55% with a second account at no extra cost and a 100% first reward split. Trading rules stay unchanged. It ends 31 October after Halloween.
 - Offer: 55% Off
-- Code: SPOOKY
 - Scope: Instant Accounts, 1-Step Pro Accounts, 2-Step Accounts, $50K, $100K
 - Deal: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/
 

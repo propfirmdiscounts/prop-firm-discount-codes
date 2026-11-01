@@ -41,8 +41,3 @@ No. It affects purchase pricing only and does not modify trading rules, drawdown
 - 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off) — Halloween — ended 2026-10-31 19:59
 - 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — Halloween — ended 2026-10-25
 - 2026-10-07 - [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) (15% Off) — Halloween — ended 2026-10-11
-- 2026-09-30 - [City Traders Imperium (CTI): 10% Off Direct Funding Accounts](https://propfirmdiscount.com/deals/city-traders-imperium/cti-10-off-direct-funding/) (10% Off)
-- 2026-09-23 - [City Traders Imperium 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-promotion/) (15% Off)
-- 2026-09-16 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-discount/) (15% Off)
-- 2026-09-09 - [City Traders Imperium (CTI): 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-evaluation-instant-funding/) (15% Off)
-- 2026-09-02 - [City Traders Imperium (CTI): 15% Off 1-Step, 2-Step, and Instant Funding Challenges](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-evaluations-instant-funding-2/) (15% Off)

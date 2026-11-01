@@ -1,16 +1,15 @@
 # QT Funded Halloween 50% Off Plus Free Account
 
-QT Funded is offering 50% off — discount code **PFD**.
+QT Funded was offering 50% off.
 
 > QT Funded Halloween offer cuts challenge entry by 50% and adds a second evaluation account at no extra cost. Ends Sunday, 1 November at midnight.
 
 - Published: 2026-10-26
-- Offer ends: 2026-11-01 00:00
+- Offer ends: 2026-11-01 00:00 (ended)
 - Prop firm: QT Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - Summary: This Halloween offer cuts QT Funded challenge entry by 50% while trading rules stay unchanged. It gives buy one, get one free on a same-size second account. Ends Sunday, 1 November at midnight.
 - Offer: 50% Off
-- Code: PFD
 - Scope: challenge purchases, second account same size
 - Deal: https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

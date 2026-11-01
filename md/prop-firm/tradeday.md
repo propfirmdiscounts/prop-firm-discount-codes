@@ -42,4 +42,3 @@ Yes, according to the promotional release, candidates are permitted to run up to
 ## Deals (last 2 months, newest first)
 
 - 2026-10-04 - [TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis](https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/) (60% Off) — ended 2026-10-10
-- 2026-09-01 - [TradeDay $25k Evaluation Account Deal for $45](https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/)
