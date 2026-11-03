@@ -1,6 +1,6 @@
 # Direct Funded Trader Halloween 40% and 50% Off Accounts
 
-Direct Funded Trader is offering 40% off — discount code **PFD**.
+Direct Funded Trader is offering 40% off — discount code **SPOOKY**.
 
 > Direct Funded Trader Halloween: 40% off Instant Accounts and 50% off Fast Funding and Evaluation Accounts, cutting entry cost, the trading rules unchanged.
 
@@ -10,7 +10,7 @@ Direct Funded Trader is offering 40% off — discount code **PFD**.
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - Summary: This offer cuts Instant Accounts by 40% and Fast Funding and Evaluation Accounts by 50%, lowering entry fees while trading rules and risk stay the same.
 - Offer: 40% Off
-- Code: PFD
+- Code: SPOOKY
 - Scope: Instant Accounts, Fast Funding Accounts, Evaluation Accounts
 - Deal: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

@@ -106,6 +106,7 @@ activation_link
 archive_url
 trustpilot_score
 trustpilot_reviews
+description
 logo
 
 Notes:
@@ -140,8 +141,11 @@ is not tagged is not part of that event, however close its date falls.
 deal_count is {"total", "this_year", "year"}: how many deals the firm has
 published on this site in total and in the running calendar year.
 
-trustpilot_score, trustpilot_reviews and logo are
-optional fields, present when data exists.
+trustpilot_score, trustpilot_reviews, description and logo are
+optional fields. description is the company's own blurb as published on its
+Trustpilot profile ("Written by the company"); it is an empty string when
+Trustpilot carries no summary for that firm. The other three are present when
+data exists.
 
 Category:
 prop firm discount codes

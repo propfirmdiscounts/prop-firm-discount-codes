@@ -7,51 +7,46 @@ The verified Funding Traders discount code is **PFD** — Up to 50% off, works a
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-03
 - Trustpilot: 3.1/5 (3283 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest Funding Traders offers this month: 90% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 50% OFF with code PFD.
+As of 2026-11-03, the biggest Funding Traders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: Funding Traders 50% Off All Accounts in November
+## Current deal: Funding Traders 50% Off Instant Funded and Pro Accounts
 
-- Published: 2026-11-02
+- Published: 2026-11-03
 - Offer ends: Limited time
 - Offer: 50% Off
 - Code: PFD
-- Scope: All accounts, example given: $5K 1-Step
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/
+- Scope: Instant Funded, 1-Step Pro, 2-Step Pro 10
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/
 
 ## Funding Traders deal FAQ
 
-**What does Funding Traders offer on all accounts?**
+**What discount does Funding Traders offer on Instant Funded accounts?**
 
-It cuts 50% off all accounts in November. The cut lowers the upfront entry cost.
+Funding Traders offers 50% off Instant Funded, 1-Step Pro and 2-Step Pro 10 accounts in this promotion. Only the purchase price falls and the account rules stay as they are.
 
-**What is the named example price for Funding Traders?**
+**Does the Funding Traders Instant Funded discount change any trading rules?**
 
-The $5K 1-Step account is $29, from a $59 list price. All accounts get the same 50% cut.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. Instant Funded is an account type and its rules are not changed by the price cut.
 
-**Is any Funding Traders account excluded from this offer?**
+**Which account types does this Funding Traders promotion cover?**
 
-No account is excluded from this offer. Every account gets the same 50% saving.
+It covers Instant Funded, 1-Step Pro and 2-Step Pro 10 accounts. No other account type is named for this 50% promotion.
 
-**When does this Funding Traders offer end?**
+**Who may this Funding Traders discount suit?**
 
-No end date is stated for this promotion.
-
-**What stays the same with this Funding Traders offer?**
-
-The account picked stays the same, with the saving on price only. A buyer with no account purchase planned gains nothing from the cut alone.
-
-**How do I get the Funding Traders discount code for this offer?**
-
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+It may suit a buyer who had already chosen one of the three covered account types and who accepts the rules attached to that account. A buyer choosing only because of the price cut should be cautious because no rule changes with the price.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-03 - [Funding Traders 50% Off Instant Funded and Pro Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) (50% Off)
+- 2026-11-03 - [Funding Traders 70% Off 2-Step Swing Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) (70% Off)
+- 2026-11-03 - [Funding Traders 70% Off 2-Step Day Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) (70% Off)
 - 2026-11-02 - [Funding Traders 50% Off All Accounts in November](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/) (50% Off)
 - 2026-10-30 - [Funding Traders Halloween 70% Off All Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) (70% Off) — Halloween
 - 2026-10-19 - [FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) (50% Off) — Halloween

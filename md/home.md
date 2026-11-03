@@ -33,9 +33,9 @@ As of 2026-11-03, the biggest verified prop firm discount codes are 80% OFF with
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | Atlas Funded | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Lucid Trading | PFD | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| 8 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 9 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 7 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 8 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 9 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 10 | Funded Trading Plus | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 
 ## Current deals (newest first)
@@ -44,6 +44,11 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
+| 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
+| 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
+| 2026-11-03 | Funding Traders | Funding Traders 70% Off 2-Step Swing Accounts | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/ |
+| 2026-11-03 | Funding Traders | Funding Traders 70% Off 2-Step Day Accounts | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/ |
 | 2026-11-02 | BrightFunded | BrightFunded 50% Off BrightPlus BrightCore | 50% Off | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/ |
 | 2026-11-02 | CK PropFirm | CK PropFirm 75% Off All Challenge Accounts | 75% Off | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% Off | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
@@ -69,8 +74,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Alpha Capital Group | Alpha Capital Group $10K Evaluation for $40 in November | $40 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-10k-evaluation-for-40-november/ |
 | 2026-11-02 | Alpha Capital Group | Alpha Capital Group 20% Off All Plans in November | 20% Off | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-20-off-all-plans-november/ |
 | 2026-11-02 | Alpha Capital Group | Alpha Capital Group 40% Off Alpha Direct Plan | 40% Off | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-40-off-alpha-direct-plan/ |
-| 2026-11-02 | Lark Funding | Lark Funding Double Up Free Second Account on 30-Day Pass | Free second account | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-double-up-free-second-account-30-day/ |
-| 2026-11-02 | The Concept Trading | The Concept Trading 30% Off Eligible Programs in November | 30% Off | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/ |
-| 2026-11-01 | FundedNext | FundedNext November 30% Off All Stellar Instant Accounts | 30% Off | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/ |
-| 2026-11-01 | FundedNext | FundedNext November Up to 41% Off Stellar Challenges | 41% Off | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/ |
-| 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% Off | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |

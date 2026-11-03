@@ -41,9 +41,9 @@ Ranked highest discount first, from the deals each firm posted this month. "Excl
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | Atlas Funded | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Lucid Trading | PFD | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| 8 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 9 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 7 | Blue Guardian | PFD | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 8 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 9 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 10 | Funded Trading Plus | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 
 Full dataset of every verified standing exclusive code: https://propfirmdiscount.com/api/prop-firm-codes/
