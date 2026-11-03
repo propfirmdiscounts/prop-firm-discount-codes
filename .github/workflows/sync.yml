@@ -223,7 +223,7 @@ jobs:
           PY
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (propfirmdiscounts/prop-firm-discount-codes):
+        # HF dataset mirror (propfirmdiscount/prop-firm-discount-codes):
         # same content as this repo, on a second distribution channel.
         # Runs after the GitHub commit so HF never gets content that failed
         # to land here first. Skipped silently when HF_TOKEN is unset.
@@ -237,7 +237,7 @@ jobs:
           import os
           from huggingface_hub import HfApi
           api = HfApi(token=os.environ['HF_TOKEN'])
-          repo = 'propfirmdiscounts/prop-firm-discount-codes'
+          repo = 'propfirmdiscount/prop-firm-discount-codes'
           for folder in ('datasets', 'md'):
               api.upload_folder(folder_path=folder, path_in_repo=folder,
                                 repo_id=repo, repo_type='dataset',
