@@ -1,38 +1,39 @@
 # Traders Launch Discount Code
 
-No live discount code for Traders Launch right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/traders-launch/
+The newest Traders Launch discount code is **HUSH** — Mystery discount (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-09-28
+- Last deal published: 2026-11-02
 - Trustpilot: 4.6/5 (81 reviews)
 - Activate: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 
-## Most recent deal (ended): Traders Launch 25% Off Fall Promotion
+## Current deal: Traders Launch Mystery Discount Account
 
-- Published: 2026-09-28
-- Offer ends: Ended
-- Offer: 25% Off
-- Scope: All accounts, Fall Promo
-- Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/
+- Published: 2026-11-02
+- Offer ends: 2026-11-09 23:59
+- Offer: Mystery discount
+- Code: HUSH
+- Scope: A chosen account
+- Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
 
 ## Traders Launch deal FAQ
 
-**How much does this Traders Launch promotion save?**
+**What does Traders Launch offer in this mystery promo?**
 
-Traders receive a 25% discount on the purchase price of their evaluation accounts. The reduction applies exclusively to the initial entry cost.
+It offers a mystery discount on a chosen account, with the rate revealed at checkout. No rate is stated in advance.
 
-**When does the Traders Launch autumn promotion end?**
+**When does this Traders Launch offer end?**
 
-The discount window officially closes on Monday, October 5 at 11:59 PM EST.
+It ends Monday, November 9 at 11:59 PM EST. The deadline is stated in the offer terms.
 
-**Does this offer change any evaluation rules?**
+**What is known about the rate before checkout?**
 
-No, the promotional event only lowers the initial purchase pricing. All trading risk parameters and payout criteria at Traders Launch remain fully intact.
+Nothing is stated about the rate before checkout, since the discount is revealed at checkout. A buyer cannot compare the rate with past offers in advance.
 
-**Is this a coupon or a direct deal?**
+**How do I get the Traders Launch discount code for this offer?**
 
-This is a coupon-based promotion, meaning traders must actively apply the discount code during the checkout process to secure the 25% savings.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
-- No deal published in the last 2 months. Check back soon for new promotions.
+- 2026-11-02 - [Traders Launch Mystery Discount Account](https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/) (Mystery discount)

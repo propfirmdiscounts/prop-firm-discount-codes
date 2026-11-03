@@ -5,9 +5,11 @@ The newest Plutus Trade Base discount code is **SPOOKY** — 66% off (October 24
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
 - Last deal published: 2026-10-24
-- Trustpilot: 3.6/5 (1179 reviews)
+- Trustpilot: 3.6/5 (1180 reviews)
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
+
+As of 2026-11-03, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY and 50% OFF with code PASS50.
 
 ## Current deal: Plutus Trade Base 66% Off Halloween Challenges
 

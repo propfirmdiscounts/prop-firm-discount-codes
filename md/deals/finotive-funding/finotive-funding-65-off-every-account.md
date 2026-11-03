@@ -1,16 +1,15 @@
 # Finotive Funding 65% Off Every Account
 
-Finotive Funding is offering 65% off — discount code **UNMATCH**.
+Finotive Funding was offering 65% off.
 
 > Finotive Funding cuts 65% off entry costs for every account, every type and size, ending Monday 2 November at 11:59 PM CET, with terms unchanged.
 
 - Published: 2026-10-31
-- Offer ends: 2026-11-02 17:59
+- Offer ends: 2026-11-02 17:59 (ended)
 - Prop firm: Finotive Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - Summary: Finotive Funding cuts costs 65% for every account type and size in this offer, with terms unchanged. Ends Monday 2 November at 11:59 PM CET.
 - Offer: 65% Off
-- Code: UNMATCH
 - Scope: Every account, every account type, every account size
 - Deal: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/
 - Verified standing exclusive code: JACKICHUN (works any time; the live rate is always on the firm page)

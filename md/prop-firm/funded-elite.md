@@ -5,57 +5,52 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-26
-- Trustpilot: 4.2/5 (745 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 4.2/5 (743 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Funded Elite Halloween 40% Off Five Challenge Models
+As of 2026-11-03, the biggest Funded Elite offers this month: 50% OFF with code PACKS, 47% OFF with code ATOM, 40% OFF with code NOV40, 40% OFF with code SPOOKY, and 35% OFF with code OCT35.
 
-- Published: 2026-10-26
-- Offer ends: 2026-10-31 23:59 (ended)
+## Current deal: Funded Elite 40% Off Five Account Types
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-22 18:59
 - Offer: 40% Off
-- Scope: Free Retry, Lite, Instant, Instant Elite, Catalyst, Atom, Flash Activation, activation fee
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/
+- Code: NOV40
+- Scope: Five account types: Free Retry, Lite, Instant, Instant Elite and Catalyst, including Instant Elite accounts up to $200K
+- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/
 
 ## Funded Elite deal FAQ
 
-**What discount does Funded Elite offer in this promotion?**
+**What does Funded Elite offer on five account types?**
 
-Funded Elite offers 40% off Free Retry, Lite, Instant, Instant Elite and Catalyst challenges with a free Whale Pack and 6,000 credits. Atom, Flash Activation and activation fee savings are included in the same Halloween round.
+It cuts 40% off five account types in November, with a 14% drawdown and a free Whale Pack. The cut lowers the upfront entry cost.
 
-**Which challenge models get the 40% cut?**
+**When does this Funded Elite offer end?**
 
-The 40% cut applies to Free Retry, Lite, Instant, Instant Elite and Catalyst. Each qualifying purchase in that group also adds a free Whale Pack and 6,000 credits.
+It ends November 22 at 6:59 PM EST, from the stated 23:59 UTC deadline. Every account in scope is discounted until then.
 
-**What does the Atom offer include?**
+**Which Funded Elite account types are covered by this offer?**
 
-Atom gets 30% off and the discount is available separately. A free Whale Pack and credits are added when three Atom accounts are bought together.
+Free Retry, Lite, Instant, Instant Elite and Catalyst are covered. The offer includes Instant Elite accounts up to $200K.
 
-**How does Flash Activation work in this offer?**
+**What does Catalyst do with this Funded Elite offer?**
 
-Flash Activation costs $2.50 upfront and adds a Breakout Pack with 2,500 credits. Use is limited to five times in total.
+Catalyst doubles the account size with every payout, up to $1M. Instant Elite has no consistency rules and goes straight to funding.
 
-**Who gets the 20% activation fee cut?**
+**What stays the same with this Funded Elite offer?**
 
-Traders who already passed a Flash Activation challenge get 20% off the activation fee. That saving also adds a Whale Pack and 6,000 credits.
+The account picked stays the same, with the benefit as price, not a different account.
 
-**When does the Funded Elite Halloween promotion end?**
+**How do I get the Funded Elite discount code for this offer?**
 
-The Halloween treats disappear on 31 October at 23:59. Buyers need to complete the qualifying purchase within that window to receive the stated terms.
-
-**What does the promotion not change?**
-
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry cost does not reduce trading risk.
-
-**What limits apply to packs and credits?**
-
-Free packs and credits require the stated qualifying purchases. Each Elite Pack contains three random cards and specific card rewards are not guaranteed.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [Funded Elite 40% Off Five Account Types](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/) (40% Off)
 - 2026-10-26 - [Funded Elite Halloween 40% Off Five Challenge Models](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) (40% Off) — Halloween — ended 2026-10-31 23:59
 - 2026-10-14 - [Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) (47% Off)
 - 2026-10-09 - [Funded Elite 35%-50% Off Plus Free Pack Entitlements](https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/) (50% Off) — ended 2026-10-14

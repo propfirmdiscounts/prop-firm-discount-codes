@@ -5,9 +5,11 @@ The newest Top One Trader discount code is **BLACKFRIDAY** — 80% off (November
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
 - Last deal published: 2026-11-01
-- Trustpilot: 4.4/5 (3488 reviews)
+- Trustpilot: 4.4/5 (3489 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
+
+As of 2026-11-03, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
 
 ## Current deal: Top One Trader Black November Up to 80% Off Instant Funded
 

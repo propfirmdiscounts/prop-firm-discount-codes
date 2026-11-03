@@ -8,10 +8,12 @@ The verified thePropTrade discount code is **PFD** — Up to 20% off, works any 
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
-- Trustpilot: 3.6/5 (99 reviews)
+- Trustpilot: 3.5/5 (98 reviews)
 - Activate: https://propfirmdiscount.com/go/theproptrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+As of 2026-11-03, the biggest thePropTrade offers this month: 22% OFF with code TWOYEARS and 20% OFF with code SCARY20.
 
 ## Most recent deal (ended): thePropTrade Halloween 20% Off All Programmes
 

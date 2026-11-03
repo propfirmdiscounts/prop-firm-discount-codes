@@ -1,11 +1,6 @@
 # Valentine’s Day Prop Firm Deals (2026)
 
-The newest Valentine’s Day prop firm deal is **Bullwaves Prime Valentine’s Day Offer: 30% Off Any Challenge** from Bullwaves Prime — 30% off (published 2026-02-16). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Bullwaves Prime — Bullwaves Prime Valentine’s Day Offer: 30% Off Any Challenge (30% Off)
-- Bullwaves Prime — Bullwaves Prime Valentine’s Day: 100% Deposit Bonus from $500 (100% Deposit)
-- WSFunded — WSFunded Valentine’s Offer: 50% Off Challenge Pricing and Prize Draws (50% Off)
+As of 2026-02-16, the biggest offers: 100% OFF at Bullwaves Prime, 69% OFF at Sure Leverage Funding, 50% OFF with code LOVE50 at WSFunded, 50% OFF with code VDAY50 at Forexive, and 30% OFF with code VALENTINE30 at Bullwaves Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

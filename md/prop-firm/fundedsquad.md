@@ -1,49 +1,53 @@
 # FundedSquad Discount Code
 
-No live discount code for FundedSquad right now — newest deals and offers are below.
+The newest FundedSquad discount code is **FLASH** — 50% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
-- Last deal published: 2026-10-30
-- Trustpilot: 2.0/5 (398 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 1.9/5 (400 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-## Most recent deal (ended): FundedSquad 45% Off All Models Plus BOGO Anniversary
+As of 2026-11-03, the biggest FundedSquad offers this month: 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
 
-- Published: 2026-10-30
-- Offer ends: 2026-10-31 (ended)
-- Offer: 45% Off
-- Scope: all models, all account sizes, bundle purchases
-- Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/
+## Current deal: FundedSquad 50% Off All Models Plus BOGO
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-09 07:00
+- Offer: 50% Off
+- Code: FLASH
+- Scope: All models: Instant Flex, 1 Step Flex and 2 Step Flex
+- Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/
 
 ## FundedSquad deal FAQ
 
-**What discount does FundedSquad offer in this promotion?**
+**What does FundedSquad offer on all models?**
 
-FundedSquad offers 45% off every model in its Anniversary Offer. The purchase also includes a free second account of the same size at no additional cost.
+It cuts 50% off all models in November, with Buy one get one of the same size, issued instantly. The cut lowers the upfront entry cost.
 
-**Which models and account sizes does the offer cover?**
+**When does this FundedSquad offer end?**
 
-The offer covers all models and all account sizes. Bundle tiers from 25K to 200K carry the additional free bundle account described in the article.
+It ends November 9 at 12pm UK time. The end time is stated in UK time.
 
-**What free account comes with a bundle purchase?**
+**Which FundedSquad models are covered by this offer?**
 
-A 25K bundle adds a free 5K account, a 50K bundle adds a free 10K account, a 100K bundle adds a free 25K account and a 200K bundle adds a free 50K account. A bundle in that range also includes the free second account of the same size.
+Instant Flex, 1 Step Flex and 2 Step Flex are covered. All models get the same 50% cut.
 
-**When does the FundedSquad Anniversary Offer end?**
+**What are the 100K prices with this FundedSquad offer?**
 
-The promotion ends on 31 October. The Apple Bundle Giveaway winners are announced on 1 November.
+100K Instant Flex is $649.50, 100K 1 Step Flex is $399.50 and 100K 2 Step Flex is $359.50. Each price is half the list price.
 
-**How does the Apple Bundle Giveaway work?**
+**What stays the same with this FundedSquad offer?**
 
-The giveaway names three winners. Each eligible purchase gives one entry.
+The model picked stays the same, with the benefit as price plus an instant second account, not a different model.
 
-**What does this promotion not change?**
+**How do I get the FundedSquad discount code for this offer?**
 
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. It does not reduce trading risk.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) (50% Off)
 - 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off) — ended 2026-10-31
 - 2026-10-01 - [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) (40% Off) — ended 2026-10-15

@@ -1,11 +1,6 @@
 # Presidents Day Prop Firm Deals (2026)
 
-The newest Presidents Day prop firm deal is **Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65** from Bulenox — Only $15.95 off (published 2026-02-18). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Bulenox — Bulenox Presidents Week: 25K Account for $15.95, 100K for $23.65 (Only $15.95)
-- Funded Hero — Funded Hero Presidents Day Sale: Save 60% on All Evaluation Accounts (60% Off)
-- QT Funded — QT Funded Presidents’ Day: 45% Off + Buy 1 Get 1 Free (45% Off)
+As of 2026-02-16, the biggest offers: 60% OFF with code PFD at Funded Hero, 60% OFF with code PFD at Earn2Trade, and 45% OFF with code PFD at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

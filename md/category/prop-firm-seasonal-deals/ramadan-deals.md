@@ -1,6 +1,6 @@
-# Ramadan Prop Firm Deals & Discount Codes
+# Ramadan Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2026-02-19, the biggest offers: 70% OFF with code RAM70 at CK PropFirm, 44% OFF with code Ramadan at Funding Your Trades, 40% OFF at Funding Your Trades, 40% OFF with code RAMADAN40 at Funding Your Trades, and 35% OFF at Finotive Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

@@ -5,9 +5,11 @@ No live discount code for RebelsFunding right now — newest deals and offers ar
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
 - Last deal published: 2026-10-27
-- Trustpilot: 4.2/5 (2866 reviews)
+- Trustpilot: 4.2/5 (2885 reviews)
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
+
+As of 2026-11-03, the biggest RebelsFunding offers this month: 73% OFF with code SEVEN, 70% OFF with code FORTHREE, 70% OFF with code FORNINE, and 59% OFF with code JUST29.
 
 ## Most recent deal (ended): RebelsFunding 70% Off $1,000 Account for €3
 

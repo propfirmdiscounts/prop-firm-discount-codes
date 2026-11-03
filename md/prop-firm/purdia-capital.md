@@ -9,6 +9,8 @@ No live discount code for Purdia Capital right now — newest deals and offers a
 - Activate: https://propfirmdiscount.com/go/purdia
 - Firm page: https://propfirmdiscount.com/prop-firm/purdia-capital/
 
+As of 2026-11-03, the biggest Purdia Capital offers this month: 70% OFF with code STATIC70.
+
 ## Most recent deal (ended): Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices
 
 - Published: 2026-10-12

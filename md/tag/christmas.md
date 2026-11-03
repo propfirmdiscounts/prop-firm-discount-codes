@@ -1,11 +1,6 @@
 # Christmas Prop Firm Deals (2026)
 
-The newest Christmas prop firm deal is **Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account** from Upcomers — 85% off (published 2026-01-05). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Upcomers — Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account (85% Off)
-- Equity Edge — Equity Edge Holiday Promotion: $100K Instant Funded Account for $64 (Only $64)
-- Lark Funding — Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program (Buy 1 Get 2)
+As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code PFD at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

@@ -1,11 +1,6 @@
 # Eid al-Adha Prop Firm Deals (2026)
 
-The newest Eid al-Adha prop firm deal is **Equity Edge Eid Mubarak Discount: 100K Instant Funded For $65** from Equity Edge — Only $65 off (published 2026-05-31). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Equity Edge — Equity Edge Eid Mubarak Discount: 100K Instant Funded For $65 (Only $65)
-- Equity Edge — Equity Edge Eid Mubarak Promo: 200K Instant Funded For $159 (Only $159)
-- Equity Edge — Equity Edge Eid Mubarak Deal: 300K Instant Funded For $299 (Only $299)
+As of 2026-05-27, the biggest offers: 55% OFF with code PFD at QT Funded, 55% OFF with code EID at FundedSquad, 50% OFF with code EID50 at Finotive Funding, 25% OFF with code BBFBOGO at Blueberry Funded, and 25% OFF with code EIDFNC at FundedNext.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

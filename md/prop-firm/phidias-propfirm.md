@@ -5,51 +5,53 @@ The verified Phidias Propfirm discount code is **PFD** — Up to 80% off, works 
 - Code: PFD
 - Discount: Up to 80% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-25
-- Trustpilot: 3.0/5 (337 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.0/5 (338 reviews)
 - Activate: https://propfirmdiscount.com/go/phidiaspropfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Phidias Propfirm Halloween 90% Off First Month Evaluations
+As of 2026-11-03, the biggest Phidias Propfirm offers this month: 90% OFF with code PFD, 85% OFF with code PFD, 85% OFF with code PFD, and 80% OFF with code PFD.
 
-- Published: 2026-10-25
-- Offer ends: 2026-11-01 17:00
-- Offer: 90% Off
+## Current deal: Phidias Propfirm Up to 80% Off Every Account
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-10
+- Offer: 80% Off
 - Code: PFD
-- Scope: Fundamental evaluations, Premium evaluations, Express to Live monthly evaluations, one-time payment accounts, 50K, 100K, 150K
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/
+- Scope: Every Phidias account: Express to Live, Fundamental and Premium
+- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/
 
 ## Phidias Propfirm deal FAQ
 
-**What discount does Phidias Propfirm offer in this Halloween promotion?**
+**What does Phidias Propfirm offer on every account?**
 
-Phidias Propfirm cuts 90% off the first month of Fundamental and Premium monthly evaluations. Express to Live monthly evaluations are 50% off and one-time payment accounts are 80% off.
+It cuts up to 80% off every account in November, with one-time payment accounts at 80% off and evaluations at up to 60% off. The cut lowers the upfront entry cost.
 
-**Which account sizes are included in the 90% first month cut?**
+**When does this Phidias Propfirm offer end?**
 
-The 90% first month cut covers 50K, 100K and 150K Fundamental evaluations and 50K, 100K and 150K Premium evaluations. First month prices start at $16.40 for a 50K Fundamental evaluation.
+It ends November 10. Every account is discounted until November 10, with no time stated for the end.
 
-**How long does the Halloween promotion run?**
+**Which Phidias Propfirm accounts are covered by this offer?**
 
-The campaign runs October 25 at 6:00 PM ET through November 1 at 5:00 PM ET. No extension is planned for this promotion.
+Express to Live, Fundamental and Premium are covered. Every account gets a stated saving in this promotion.
 
-**Does the promotion change trading rules?**
+**What are the named prices with this Phidias Propfirm offer?**
 
-No, the promotion affects purchase pricing only in the first month and does not modify trading rules, drawdown limits or risk parameters. It does not reduce trading risk.
+Express to Live 25K one-time payment is $69 and 50K is $144.60, Fundamental 50K first month is $65.60 and one-time payment is $116, Premium 50K first month is $131.60 and one-time payment is $144.60.
 
-**Who may suit this pricing and who should be cautious?**
+**What stays the same with this Phidias Propfirm offer?**
 
-It may suit buyers seeking a lower first month entry cost for a Fundamental or Premium monthly evaluation. Buyers should be cautious if they expect 90% beyond the first month or if they want a structure with a different rate.
+The account picked stays the same, with the benefit as price, not a different account.
 
-**How is the discount activated?**
+**How do I get the Phidias Propfirm discount code for this offer?**
 
-Follow the Start here link at the end of the article to the official site. Apply the active promotion at checkout for the account structure you choose.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-25 - [Phidias Propfirm Halloween 90% Off First Month Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) (90% Off) — Halloween
+- 2026-11-02 - [Phidias Propfirm Up to 80% Off Every Account](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) (80% Off)
+- 2026-10-25 - [Phidias Propfirm Halloween 90% Off First Month Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) (90% Off) — Halloween — ended 2026-11-01 17:00
 - 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code - $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off) — ended 2026-10-25
 - 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off) — ended 2026-10-25
 - 2026-10-01 - [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) (Only $30)

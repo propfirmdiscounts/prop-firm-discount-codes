@@ -1,58 +1,54 @@
 # SFX Funded Discount Code
 
-No live discount code for SFX Funded right now — newest deals and offers are below.
+The newest SFX Funded discount code is **BF55** — 55% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
-- Last deal published: 2026-10-30
-- Trustpilot: 2.3/5 (127 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 2.4/5 (128 reviews)
 - Activate: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 
-## Most recent deal (ended): SFX Funded 55% Off Halloween Instant and Challenge Accounts
+As of 2026-11-03, the biggest SFX Funded offers this month: 55% OFF with code BF55, 55% OFF with code SPOOKY, and 55% OFF with code BF55.
 
-- Published: 2026-10-30
-- Offer ends: 2026-10-31 (ended)
+## Current deal: SFX Funded 55% Off All Accounts Black Friday
+
+- Published: 2026-11-02
+- Offer ends: Limited time
 - Offer: 55% Off
-- Scope: Instant Accounts, 1-Step Pro Accounts, 2-Step Accounts, $50K, $100K
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/
+- Code: BF55
+- Scope: All accounts: Instant, 1-Step Pro and 2-Step Pro, in $50K and $100K sizes
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/
 
 ## SFX Funded deal FAQ
 
-**What discount does SFX Funded offer in this Halloween promotion?**
+**What does SFX Funded offer on all accounts?**
 
-SFX Funded offers 55% off Instant, 1-Step Pro and 2-Step accounts. The promotion also includes a buy-one-get-one account and a 100% split on the first reward.
+It cuts 55% off all accounts in November, with Buy 1 Get 1 Free and a 150% refund. The cut lowers the upfront entry cost.
 
-**Which SFX Funded account sizes are priced in this promotion?**
+**When do BOGO and the refund unlock with this SFX Funded offer?**
 
-The priced examples cover $50K and $100K accounts. Each size is listed for Instant, 1-Step Pro and 2-Step accounts with its own list price and discounted price.
+Both unlock at payout, not at purchase. A buyer reaching payout unlocks another account and gets back more than paid.
 
-**How much does a $50K Instant account cost after the discount?**
+**Which SFX Funded accounts are covered by this offer?**
 
-A $50K Instant account drops from $319 to $143 after the 55% cut. That is a saving of $176 on that package.
+Instant, 1-Step Pro and 2-Step Pro accounts are covered, in $50K and $100K sizes. All accounts get the same 55% cut.
 
-**What does the buy-one-get-one element mean for SFX Funded buyers?**
+**When does this SFX Funded Black Friday offer end?**
 
-It means the purchase of a second evaluation account at no additional cost. The promotion does not describe how that second account is used after purchase.
+No end date is stated for this promotion. The offer is described as Black Friday early access.
 
-**What does the 100% first reward split mean?**
+**What stays the same with this SFX Funded offer?**
 
-It means the reader keeps everything from the first reward as stated in the promotion. It is a reward split term and not a change to trading rules.
+The account picked stays the same, with the benefit as price plus payout-linked benefits, not a different account.
 
-**When does this SFX Funded Halloween promotion end?**
+**How do I get the SFX Funded discount code for this offer?**
 
-The promotion ends 31 October, after Halloween. That date is the calendar date for the Halloween end point stated in the promotion.
-
-**What does this promotion not change for SFX Funded traders?**
-
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. A lower entry price does not reduce market risk.
-
-**How can a reader reach the SFX Funded official site for this promotion?**
-
-Follow the Start here link at the end of this article to reach the official site. The link is the final item in the Quick Offer Snapshot above.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [SFX Funded 55% Off All Accounts Black Friday](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/) (55% Off) — Black Friday
 - 2026-10-30 - [SFX Funded 55% Off Halloween Instant and Challenge Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/) (55% Off) — Halloween — ended 2026-10-31
 - 2026-10-26 - [SFX Funded 55% Off All Accounts Black Friday BOGO Deal](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/) (55% Off) — Black Friday

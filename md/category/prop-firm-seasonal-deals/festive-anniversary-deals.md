@@ -1,11 +1,12 @@
-# Holiday, Celebration & Anniversary Prop Firm Deals
+# Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2026-09-07, the biggest offers: 60% OFF with code PFD at Funding Traders, 60% OFF with code LABORDAY at WSFunded, 55% OFF with code PFD at QT Funded, 50% OFF with code LABORDAY50 at Goat Funded Trader, and 45% OFF with code 2YEARS at FundedSquad.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
 | 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |
 | 2026-10-01 | FundedSquad | FundedSquad 40% Off All Evaluation Models | 40% OFF | 2026-10-15 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-16 | AquaFunded | AquaFunded: 50% Off Instant Funded, 40% Off Challenges and 150% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/ |
 | 2026-03-16 | FTUK | FTUK 40% Off All Accounts For Patrick’s Day | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/40-off-all-accounts-patricks-day/ |
 | 2026-03-16 | FundedNext | FundedNext Buy 1 Get 1 Free Anniversary BOGO Offer | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-buy-1-get-1-free-anniversary-bogo-offer/ |
-| 2026-03-13 | thePropTrade | thePropTrade: 20% Off Classic Accounts with $100K 1-Step for $479 | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-classic-accounts/ |

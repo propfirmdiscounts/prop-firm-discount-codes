@@ -1,6 +1,4 @@
-# Prop Firm News, Tips & Tools - Guides for Traders
-
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+# Prop Firm News, Tips & Tools - Guides for Traders Prop Firm Deals (2026)
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

@@ -1,20 +1,21 @@
 # Blueberry Funded Discount Code
 
-The newest Blueberry Funded discount code is **Scaryprime** — 35% off (October 27, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Blueberry Funded right now — newest deals and offers are below.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
 - Last deal published: 2026-10-27
-- Trustpilot: 3.4/5 (1745 reviews)
+- Trustpilot: 3.4/5 (1743 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-## Current deal: Blueberry Funded Halloween 35% Off Prime Challenge
+As of 2026-11-03, the biggest Blueberry Funded offers this month: 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, 30% OFF with code CLASSIC, and 15% OFF with code SYN15.
+
+## Most recent deal (ended): Blueberry Funded Halloween 35% Off Prime Challenge
 
 - Published: 2026-10-27
-- Offer ends: 2026-11-01 18:59
+- Offer ends: 2026-11-01 18:59 (ended)
 - Offer: 35% Off
-- Code: Scaryprime
 - Scope: Prime Challenge
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/
@@ -39,7 +40,7 @@ It changes purchase pricing only. It does not change trading rules and it does n
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off) — Halloween
+- 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off) — Halloween — ended 2026-11-01 18:59
 - 2026-10-13 - [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) (15% Off) — ended 2026-10-20
 - 2026-10-09 - [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) (30% Off) — ended 2026-10-11
 - 2026-10-09 - [Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/) (35% Off) — ended 2026-10-11

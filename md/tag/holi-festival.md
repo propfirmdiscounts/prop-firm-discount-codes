@@ -1,11 +1,6 @@
 # Holi Festival Prop Firm Deals (2026)
 
-The newest Holi Festival prop firm deal is **ThinkCapital 20% Off All Challenges For Holi** from ThinkCapital — 20% off (published 2026-03-03). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- ThinkCapital — ThinkCapital 20% Off All Challenges For Holi (20% Off)
-- FundedSquad — FundedSquad 55% Evaluation Discount and 100% Reward Split Offer (55% Off)
-- Funding Your Trades — Funding Your Trades 45% Off and Buy 1 Get 3 Promotion (45% Off)
+As of 2026-03-03, the biggest offers: 55% OFF with code HOLI55 at FundedSquad, 45% OFF with code HOLI at Funding Your Trades, and 20% OFF with code HOLI26 at ThinkCapital.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

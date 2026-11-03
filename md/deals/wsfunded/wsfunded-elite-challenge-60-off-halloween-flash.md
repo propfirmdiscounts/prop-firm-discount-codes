@@ -1,16 +1,15 @@
 # WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween
 
-WSFunded is offering 60% off — discount code **HALLOWEEN60**.
+WSFunded was offering 60% off.
 
 > WSFunded cuts 60% off ELITE Challenge upfront entry costs from 2.5K to 25K for Halloween, rules unchanged. Ends Monday 2 November at 23:59 Spanish time.
 
 - Published: 2026-10-30
-- Offer ends: 2026-11-02 17:59
+- Offer ends: 2026-11-02 17:59 (ended)
 - Prop firm: WSFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 - Summary: WSFunded cuts ELITE costs at entry by 60% for 2.5K-25K accounts in this Halloween flash offer, with rules unchanged for buyers. Ends Monday 2 November.
 - Offer: 60% Off
-- Code: HALLOWEEN60
 - Scope: ELITE Challenge, 2.5K to 25K accounts
 - Deal: https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/
 

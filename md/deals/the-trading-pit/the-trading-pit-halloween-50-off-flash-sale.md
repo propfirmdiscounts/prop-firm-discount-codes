@@ -1,11 +1,11 @@
 # The Trading Pit Halloween 50% Off Challenges Flash Sale
 
-The Trading Pit is offering 50% off.
+The Trading Pit was offering 50% off.
 
 > The Trading Pit Halloween flash sale cuts challenge costs by 50% for 72 hours from October 30 to November 1, with trading rules unchanged.
 
 - Published: 2026-10-30
-- Offer ends: 2026-11-01
+- Offer ends: 2026-11-01 (ended)
 - Prop firm: The Trading Pit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 - Summary: This Halloween flash sale cuts The Trading Pit challenge costs by 50% for 72 hours from October 30 to November 1. It changes purchase price only and leaves trading rules unchanged.

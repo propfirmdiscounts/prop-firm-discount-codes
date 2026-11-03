@@ -1,49 +1,44 @@
 # The Concept Trading Discount Code
 
-No live discount code for The Concept Trading right now — newest deals and offers are below.
+The newest The Concept Trading discount code is **BTB26** — 30% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-26
-- Trustpilot: 4.7/5 (470 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 4.7/5 (471 reviews)
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 
-## Most recent deal (ended): The Concept Trading Halloween 45% Off Eligible Programs
+As of 2026-11-03, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code MAD26, and 30% OFF with code BTB26.
 
-- Published: 2026-10-26
-- Offer ends: 2026-10-31 09:59 (ended)
-- Offer: 45% Off
-- Scope: eligible programs, Starter Programs excluded, free retry claim within 60 days of account failure
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/
+## Current deal: The Concept Trading 30% Off Eligible Programs in November
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-10 08:59
+- Offer: 30% Off
+- Code: BTB26
+- Scope: Eligible programs, excluding Foundation and Starter Models
+- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/
 
 ## The Concept Trading deal FAQ
 
-**What discount does The Concept Trading offer in this promotion?**
+**What does The Concept Trading Before the Bell offer?**
 
-The promotion cuts 45% off eligible programs and adds a free retry. Starter Programs are excluded from the offer.
+It cuts 30% off eligible programs in Before the Bell. The offer runs from November 2 to 10.
 
-**Which programs does the Halloween offer cover?**
+**When does The Concept Trading Before the Bell end?**
 
-It covers eligible programs only. Starter Programs are excluded.
+It ends November 10 at 11:59 PM AEST. Foundation and Starter Models are excluded from the cut.
 
-**When does the offer end?**
+**Which The Concept Trading models are excluded from this offer?**
 
-The stated window ends October 31 at 11:59 PM AEST. Readers should use that stated date as the cutoff.
+Foundation and Starter Models are excluded. The cut covers eligible programs only.
 
-**How long do traders have to claim the free retry?**
+**How do I get The Concept Trading discount code for this offer?**
 
-The free retry must be claimed within 60 days of account failure. That claim window is separate from the promotion end date.
-
-**What does this promotion not change?**
-
-It only reduces entry cost and does not reduce trading risk. Trading rules, drawdown limits and risk parameters stay unchanged.
-
-**How can a reader reach the official offer?**
-
-Follow the Start here link at the end of this article to reach the official offer page. That page carries the full terms for eligible programs.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [The Concept Trading 30% Off Eligible Programs in November](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/) (30% Off)
 - 2026-10-26 - [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) (45% Off) — Halloween — ended 2026-10-31 09:59
 - 2026-10-20 - [The Concept Trading 35% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/) (35% Off) — ended 2026-10-24
 - 2026-10-13 - [The Concept Trading: 40% Off Eligible Programs + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/) (40% Off) — ended 2026-10-16

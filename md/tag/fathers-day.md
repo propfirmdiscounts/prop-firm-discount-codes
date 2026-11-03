@@ -1,11 +1,6 @@
 # Father's Day Prop Firm Deals (2026)
 
-The newest Father's Day prop firm deal is **Sure Leverage Funding 40% Off All Funding Products For Father’s Day** from Sure Leverage Funding — 40% off (published 2026-06-23). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Sure Leverage Funding — Sure Leverage Funding 40% Off All Funding Products For Father’s Day (40% Off)
-- Alpha Funded — Alpha Trader Firm: 65% Off Any 100K Accounts (65% Off)
-- Phidias Propfirm — Phidias Propfirm Father’s Day Offer: 90% Off Monthly Evaluation Accounts (90% Off)
+As of 2026-06-21, the biggest offers: 90% OFF with code PFD at Phidias Propfirm, 65% OFF with code FATHER at Alpha Funded, 50% OFF with code DAD50 at Plutus Trade Base, 40% OFF with code PAPA40 at Sure Leverage Funding, and 40% OFF with code FATHERSDAY at AquaFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

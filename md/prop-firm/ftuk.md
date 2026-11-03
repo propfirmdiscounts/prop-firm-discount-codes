@@ -1,51 +1,54 @@
 # FTUK Discount Code
 
-No live discount code for FTUK right now — newest deals and offers are below.
+The newest FTUK discount code is **FLEX** — $1 to start (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-10-29
-- Trustpilot: 3.8/5 (792 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.8/5 (791 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-## Most recent deal (ended): FTUK Halloween 35% Off Flex Funded Activation Fee
+As of 2026-11-03, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code HALLOWEEN35.
 
-- Published: 2026-10-29
-- Offer ends: 2026-10-30 19:59 (ended)
-- Offer: 35% Off
-- Scope: Flex Funded, activation fee, pay after passing
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/
+## Current deal: FTUK $1 to Start Challenge, 1% Target
+
+- Published: 2026-11-02
+- Offer ends: Limited time
+- Offer: $1 to start
+- Code: FLEX
+- Scope: The challenge, one per customer
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/
 
 ## FTUK deal FAQ
 
-**What discount does FTUK offer in this promotion?**
+**What does FTUK offer with this challenge?**
 
-FTUK cuts 35% off the Flex Funded activation fee for Halloween. The fee is payable after passing.
+It lets a buyer start the challenge for $1, reach a 1% profit target and pay after passing. The $1 start lowers the upfront cost.
 
-**When does the FTUK promotion end?**
+**When does this FTUK offer end?**
 
-The promotion ends Fri 30 Oct 23:59 UTC. That closing time is stated in UTC.
+No end date is stated for this offer. The offer terms give no deadline for the $1 start.
 
-**How is the activation fee paid under this FTUK offer?**
+**How does the $1 start compare with a typical FTUK evaluation?**
 
-Payment falls due after passing. The discount applies to that activation fee only.
+A typical evaluation wants the full fee first, with an 8% profit target and payment before starting. This challenge starts at $1, with a 1% profit target and payment after passing.
 
-**What does this promotion leave unchanged?**
+**What rules apply to this FTUK challenge?**
 
-The promotion reduces entry cost only and does not modify trading rules, drawdown limits or risk parameters. The funded account keeps the terms set out with the offer.
+The challenge carries no stop-loss rule and no time limit, with news and weekends allowed and payouts on demand. All accounts operate in a simulated trading environment.
 
-**What funded path features are listed with this offer?**
+**What stays the same with this FTUK offer?**
 
-The funded path carries no minimum trading days, payouts on demand, up to 90% profit split and news trading allowed. Those features describe the funded account, not a change made by the discount.
+The challenge picked stays the same, with the benefit as price and timing, not a different challenge.
 
-**What figures accompany the 1% target in this promotion?**
+**How do I get the FTUK discount code for this offer?**
 
-At 0.25% risk per trade and a 1:2 reward ratio, each win adds 0.5% and four wins reach 1%. The break-even win rate at 1:2 is 33% and the average outcome per trade at a 40% win rate is +0.2R before costs.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [FTUK $1 to Start Challenge, 1% Target](https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/) ($1 to start)
 - 2026-10-29 - [FTUK Halloween 35% Off Flex Funded Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/) (35% Off) — Halloween — ended 2026-10-30 19:59
 - 2026-10-26 - [FTUK 50% Off Instant Funding Accounts Halloween](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/) (50% Off) — Halloween — ended 2026-10-30 19:59
 - 2026-10-22 - [FTUK 30% Off Flex Challenge Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/) (30% Off) — ended 2026-10-23 19:59

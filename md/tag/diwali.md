@@ -1,11 +1,6 @@
 # Diwali Prop Firm Deals (2026)
 
-The newest Diwali prop firm deal is **Diwali 2025 Prop Firm Discount Codes & Deals — Roundup** from  (published 2025-10-22). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
--  — Diwali 2025 Prop Firm Discount Codes & Deals — Roundup
-- PipFarm — PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) (40% Off)
-- QT Funded — QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 (30% Off)
+As of 2025-10-20, the biggest offers: 50% OFF with code PRO50 at ATFunded, 50% OFF with code PFD at QT Funded, 50% OFF with code DIWALI50 at Goat Funded Trader, 50% OFF with code HAPPYDIWALI at Earnex Prime, and 40% OFF with code DIWALI at PipFarm.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

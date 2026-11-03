@@ -1,6 +1,6 @@
-# Thanksgiving Prop Firm Discounts & Promo Codes
+# Thanksgiving Prop Firm Discounts & Promo Codes Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2025-11-26, the biggest offers: 70% OFF with code THANKSGIVING70 at OFP Funding, 40% OFF with code BF at Tradeify, 35% OFF with code NOV35 at Alpha Funded, 30% OFF with code NOV30 at Alpha Capital Group, and 25% OFF with code NOV25 at Alpha Futures.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

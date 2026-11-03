@@ -1,16 +1,15 @@
 # FunderPro Halloween 30% Off Classic and Instant Accounts
 
-FunderPro is offering 30% off — discount code **TREAT30**.
+FunderPro was offering 30% off.
 
 > FunderPro Halloween offer cuts 30% off Classic Challenges and Instant Accounts plus a free reset, with trading rules unchanged. Runs 27 Oct to 1 Nov.
 
 - Published: 2026-10-30
-- Offer ends: 2026-11-01
+- Offer ends: 2026-11-01 (ended)
 - Prop firm: FunderPro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 - Summary: FunderPro Halloween promotion reduces entry cost by 30% for Classic Challenges and Instant Accounts, while trading rules, drawdown limits and risk parameters remain unchanged. It runs 27 Oct to 1 Nov.
 - Offer: 30% Off
-- Code: TREAT30
 - Scope: Classic Challenges, Instant Accounts, 5K, 10K, 25K, 50K, 100K, 150K, 200K, non-US clients for Instant Accounts
 - Deal: https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/
 

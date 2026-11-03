@@ -7,42 +7,50 @@ The verified Funded Trading Plus discount code is **PFD** — Up to 10% off, wor
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-14
-- Trustpilot: 4.0/5 (2669 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 4.0/5 (2668 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale
+As of 2026-11-03, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45 and 35% OFF with code FLASH35.
 
-- Published: 2026-10-14
-- Offer ends: 2026-10-16 (ended)
-- Offer: 35% Off
-- Scope: 1-Step Express, 2-Step Classic, Instant Funding, excludes PNPL
-- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/
+## Current deal: Funded Trading Plus $4 Activation Account, 2% Target
+
+- Published: 2026-11-02
+- Offer ends: Limited time
+- Offer: Only $4
+- Scope: Activation Accounts, $25K to $100K, on MT5 or Match-Trader
+- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/
 
 ## Funded Trading Plus deal FAQ
 
-**What does the Funded Trading Plus flash sale provide?**
+**What does Funded Trading Plus offer with the Activation Account?**
 
-It offers a 35% reduction on the purchase price of evaluation accounts. This applies across their main program lineup.
+It starts the Activation Account for $4, with a 2% target and payment only after passing. The $4 upfront price applies whether a buyer chooses a $25K or a $100K account.
 
-**Are Instant Funding accounts included in this discount?**
+**When does this Funded Trading Plus deal end?**
 
-Yes, Instant Funding models are included in the promotion. However, the promotion affects purchase pricing only and does not modify trading rules.
+No end date is stated for this deal. The offer terms give no deadline for the $4 start.
 
-**Does the 35% discount apply to PNPL activation accounts?**
+**What are the rules for this Funded Trading Plus challenge?**
 
-No, the promotional materials explicitly state that PNPL activation accounts are excluded from the offer.
+One phase carries a 2% profit target, with no time limit, no minimum trading days and no consistency rule. Four account sizes are offered, from $25K to $100K, on MT5 or Match-Trader.
 
-**How long is the Funded Trading Plus flash sale active?**
+**What happens if a buyer does not pass this Funded Trading Plus challenge?**
 
-The discount remains valid until Friday, 16 October at 23:59.
+There is no additional activation fee to pay, so the cost stops at $4. The remaining activation fee is paid only if passing, before the simulated funded account is issued.
 
-**Does Funded Trading Plus have a working discount code outside of this flash sale?**
+**What stays the same with this Funded Trading Plus deal?**
 
-Yes, there is a standing exclusive code available. You can apply PFD at checkout, which always works and occasionally applies at the highest available rate.
+The account picked stays the same, with the benefit as price and timing, not a different account.
+
+**How do I get the Funded Trading Plus deal for this offer?**
+
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [Funded Trading Plus $4 Activation Account, 2% Target](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/) (Only $4)
+- 2026-11-02 - [Funded Trading Plus 45% Off Instant Funding](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/) (45% Off) — Halloween
 - 2026-10-14 - [Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/) (35% Off) — ended 2026-10-16

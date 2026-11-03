@@ -1,16 +1,15 @@
 # Black Friday Prop Firm Deals (2026)
 
-The newest Black Friday prop firm deal is **Top One Trader Black November Up to 80% Off Instant Funded** from Top One Trader — 80% off (published 2026-11-01). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Top One Trader — Top One Trader Black November Up to 80% Off Instant Funded (80% Off)
-- SFX Funded — SFX Funded 55% Off All Accounts Black Friday BOGO Deal (55% Off)
-- Fintokei — Fintokei Black Friday Challenge Fee Back With First Payout (Challenge Fee Back)
+As of 2026-09-21, the biggest offers: 90% OFF with code PFD at Upcomers, 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, and 55% OFF with code BF55 at SFX Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
+| 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
+| 2026-11-02 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/ |
+| 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
 | 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
@@ -37,7 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | BluSky Trading | BluSky Trading Black Friday Flash Sale: 150K Static Plan for $100 | Only $100 | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-150k-static-plan-100/ |
 | 2025-11-28 | FundYourFX | FundYourFX Black Friday Flash Sale: 40% OFF 100K Accounts + Bonuses | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-40-off-100k-flash-sale/ |
 | 2025-11-28 | Blueberry Futures | Blueberry Futures Black Friday Deal: 60% OFF Ascent Challenges | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-black-friday-60-off-ascent/ |
-| 2025-11-28 | Hantec Trader | Hantec Trader Black Friday & Cyber Monday: 15% Off + Weekly Payouts | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-black-friday-cyber-monday-15-off-weekly-payouts/ |
-| 2025-11-28 | My Funded Futures | MyFunded Futures Black Friday: 50% OFF Pro Accounts + Reset Chance | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/myfunded-futures-black-friday-50-off-pro-accounts/ |
-| 2025-11-28 | ThinkCapital | ThinkCapital Black Friday Sale: 40% OFF + Free Challenge Reward | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-black-friday-40-off-free-challenge/ |
-| 2025-11-28 | The Trading Pit | The Trading Pit Black Friday Sale: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-30-off-all-accounts/ |

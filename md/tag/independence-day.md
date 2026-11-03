@@ -1,11 +1,6 @@
 # Independence Day Prop Firm Deals (2026)
 
-The newest Independence Day prop firm deal is **Hola Prime 45% Off Forex Challenges – Independence Day Offer** from Hola Prime — 45% off (published 2026-07-04). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Hola Prime — Hola Prime 45% Off Forex Challenges – Independence Day Offer (45% Off)
-- City Traders Imperium (CTI) — City Traders Imperium (CTI) 15% Off Account Purchase Cost: Independence Day Deal (15% Off)
-- CK PropFirm — CK Capital Independence Day Offer: Buy 1 Get Up to 4 Accounts (Buy 1 Get 1)
+As of 2026-07-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, 65% OFF with code PFD at Funded Hero, 60% OFF with code USA250 at FundYourFX, and 45% OFF with code FREEDOM45 at Hola Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

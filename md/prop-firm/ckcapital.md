@@ -7,40 +7,44 @@ The verified CK PropFirm discount code is **PFD** — Up to 10% off, works any t
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-23
-- Trustpilot: 3.0/5 (407 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.0/5 (408 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): CK PropFirm 80% Off Challenges - Final 24 Hours
+As of 2026-11-03, the biggest CK PropFirm offers this month: 80% OFF with code CK80, 80% OFF with code OCT80, 75% OFF with code NOV75, 75% OFF with code OCT75, and 75% OFF.
 
-- Published: 2026-10-23
-- Offer ends: 2026-10-24 (ended)
-- Offer: 80% Off
-- Scope: 2-Step Pro, Other Challenges, No Consistency Rule on 2-Step Pro, News Trading Allowed
-- Deal page: https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/
+## Current deal: CK PropFirm 75% Off All Challenge Accounts
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-30
+- Offer: 75% Off
+- Code: NOV75
+- Scope: All challenge accounts, new and existing traders
+- Deal page: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/
 
 ## CK PropFirm deal FAQ
 
-**What discount does CK PropFirm offer in this promotion?**
+**What does CK PropFirm offer in November?**
 
-CK PropFirm offers 80% off 2-Step Pro and other challenges. The cut lowers the entry fee only and it does not reduce trading risk.
+It cuts 75% off all challenge accounts, for new and existing traders. The cut covers every challenge account.
 
-**When does the CK PropFirm promotion end?**
+**When does this CK PropFirm offer end?**
 
-The final 24-hour window resolves to 24 October 2026. Buyers who want the reduced entry fee need to complete the purchase inside that window.
+It runs November only. The offer terms state the cut lasts as long as November does.
 
-**Which CK PropFirm challenges are covered?**
+**Who can use this CK PropFirm offer?**
 
-The promotion covers 2-Step Pro and other challenges. 2-Step Pro is listed with no consistency rule and news trading is allowed.
+New traders and existing traders can both use it. The cut covers all challenge accounts for both groups.
 
-**Who may find this CK PropFirm offer relevant?**
+**How do I get the CK PropFirm discount code for this offer?**
 
-It may suit buyers who were already planning to purchase a covered challenge. It should be approached cautiously if the short deadline is the sole reason for buying.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [CK PropFirm 75% Off All Challenge Accounts](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) (75% Off)
 - 2026-10-23 - [CK PropFirm 80% Off Challenges - Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) (80% Off) — ended 2026-10-24
 - 2026-10-20 - [CK PropFirm 80% Off Challenges: $100K Account for $144](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) (80% Off)
 - 2026-10-16 - [CK PropFirm 75% Off All Accounts Upfront Fee](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) (75% Off)

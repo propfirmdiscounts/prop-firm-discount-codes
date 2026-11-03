@@ -5,9 +5,11 @@ No live discount code for Tradexprop right now — newest deals and offers are b
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
 - Last deal published: 2026-10-09
-- Trustpilot: 4.0/5 (41 reviews)
+- Trustpilot: 4.0/5 (42 reviews)
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
+
+As of 2026-11-03, the biggest Tradexprop offers this month: 40% OFF with code SPOOK40 and 20% OFF with code SPOOK20.
 
 ## Most recent deal (ended): Tradexprop Halloween Promo: 20% Off Instant Funding
 

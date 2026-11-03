@@ -1,6 +1,6 @@
-# Cyber Monday Prop Firm Promo Codes & Flash Sales
+# Cyber Monday Prop Firm Promo Codes & Flash Sales Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2025-12-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code MONDAY60 at Blueberry Funded, 55% OFF with code PFD at QT Funded, and 45% OFF with code CHALL45 at OFP Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

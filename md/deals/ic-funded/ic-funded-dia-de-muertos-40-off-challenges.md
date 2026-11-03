@@ -1,16 +1,15 @@
 # IC Funded 40% Off Every Challenge Día de Muertos
 
-IC Funded is offering 40% off — discount code **RENACER40**.
+IC Funded was offering 40% off.
 
 > IC Funded cuts 40% off every challenge for Día de Muertos, in a Halloween-season offer ending 2 November at 23:59 CET, with terms unchanged.
 
 - Published: 2026-10-31
-- Offer ends: 2026-11-02 17:59
+- Offer ends: 2026-11-02 17:59 (ended)
 - Prop firm: IC Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 - Summary: IC Funded cuts costs 40% for every challenge type in its Día de Muertos Halloween offer, with terms unchanged. Ends 2 November at 23:59 CET.
 - Offer: 40% Off
-- Code: RENACER40
 - Scope: Every challenge type, Día de Muertos
 - Deal: https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/
 

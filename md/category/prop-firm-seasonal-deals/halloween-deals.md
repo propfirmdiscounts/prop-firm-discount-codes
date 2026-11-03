@@ -1,18 +1,21 @@
-# Halloween Prop Firm Discounts & 48–72h Flash Codes
+# Halloween Prop Firm Discounts & 48–72h Flash Codes Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2026-10-31, the biggest offers: 65% OFF with code UNMATCH at Finotive Funding, 60% OFF with code HALLOWEEN60 at WSFunded, 55% OFF at Bitfunded, 50% OFF at The Trading Pit, and 45% OFF with code INSTANT45 at Funded Trading Plus.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
-| 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
+| 2026-11-02 | Funded Trading Plus | Funded Trading Plus 45% Off Instant Funding | 45% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/ |
+| 2026-11-02 | Instant Funding | Instant Funding 30% Off Everything Plus Add-Ons | 30% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/ |
+| 2026-11-02 | Instant Funding | Instant Funding 40% Off IF Pro and IF Lite | 40% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/ |
+| 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
+| 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
-| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
-| 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
+| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
+| 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
-| 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
+| 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
 | 2026-10-30 | FundingPips | FundingPips Halloween 20% Off New, 15% Off Existing Accounts | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/ |
 | 2026-10-30 | Funding Traders | Funding Traders Halloween 70% Off All Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/ |
 | 2026-10-30 | For Traders | For Traders Halloween $6K Forex Fast for $9.99 | 79.6% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/ |
@@ -29,7 +32,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | FundedNext | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
 | 2026-10-27 | Alpha Funded | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |
 | 2026-10-27 | thePropTrade | thePropTrade Halloween 20% Off All Programmes | 20% OFF | 2026-10-31 19:59 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
-| 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
+| 2026-10-27 | Blueberry Funded | Blueberry Funded Halloween 35% Off Prime Challenge | 35% OFF | 2026-11-01 18:59 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
 | 2026-10-27 | We Get Funded | We Get Funded 65% Off First 1 Step 50K Challenge | 65% OFF | 2026-10-28 18:59 (ended) | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
@@ -44,19 +47,19 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | Doji Funding | Doji Funding Halloween 60% Off Every Challenge | 60% OFF | 2026-10-31 (ended) | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/ |
 | 2026-10-26 | FTUK | FTUK 50% Off Instant Funding Accounts Halloween | 50% OFF | 2026-10-30 19:59 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/ |
 | 2026-10-26 | Atlas Funded | Atlas Funded 45% Off Challenges Halloween Cashback | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/ |
-| 2026-10-26 | Instant Funding | Instant Funding Halloween 30% Off All Accounts Deal | 30% OFF | 2026-11-01 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/ |
+| 2026-10-26 | Instant Funding | Instant Funding Halloween 30% Off All Accounts Deal | 30% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/ |
 | 2026-10-26 | Funded Elite | Funded Elite Halloween 40% Off Five Challenge Models | 40% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 50% Off Plus Free Account | 50% OFF | 2026-11-01 00:00 (ended) | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 60% Off Challenge Entry | 60% OFF | 2026-11-01 00:00 (ended) | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% OFF | 2026-10-31 19:59 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
-| 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% OFF | 2026-11-01 17:00 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
+| 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations | 90% OFF | 2026-11-01 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
 | 2026-10-25 | AquaFunded | AquaFunded Halloween 35% Off All Accounts CFD Futures | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/ |
 | 2026-10-24 | HyroTrader | HyroTrader Halloween 15% Off All Challenges | 15% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |
 | 2026-10-24 | Plutus Trade Base | Plutus Trade Base 66% Off Halloween Challenges | 66% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-23 | Bullwaves Prime | Bullwaves Prime 35% Off All Prime Challenges Halloween | 35% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/ |
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
-| 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
-| 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
+| 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 (ended) | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
+| 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 (ended) | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
 | 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
 | 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | 2026-11-05 | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
@@ -84,7 +87,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
 | 2026-10-07 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off All Main Programs | 15% OFF | 2026-10-11 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/ |
-| 2026-10-01 | Alpha Funded | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
+| 2026-10-01 | Alpha Funded | Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/ |
 | 2025-10-31 | PipFarm | PipFarm Halloween Power-Ups — 50% OFF + Shield/Armor/Invincibility Codes | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-50-off-shield-armor-invincibility-codes/ |
 | 2025-10-31 | PropShopTrader | PropShopTrader Halloween Promo: 50% OFF Gladiator Resets | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-50-off-resets/ |
 | 2025-10-31 | PropShopTrader | PropShopTrader Halloween Deal: 70% OFF Warrior Evaluations | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-halloween-70-off-warrior-evaluations/ |
@@ -153,6 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-23 | Hola Prime | Hola Prime 40% Off $10K to $25K Forex and $50K to $100K Future Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-10k-25k-forex-50k-100k-future/ |
 | 2025-10-23 | Hola Prime | Hola Prime 45% Off $50K Forex Evaluation Account | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-50k-forex-account/ |
 | 2025-10-23 | Hola Prime | Hola Prime 50% Off $100K Forex and $150K to $200K Future Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-100k-forex-150k-200k-future/ |
-| 2025-10-21 | Plutus Trade Base | Plutus Trade Base — Halloween: 50% OFF All Plans (Oct 21–31) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-50-off-all-plans-oct-21-31/ |
-| 2025-10-21 | For Traders | For Traders — Halloween Sale: Up to 30% OFF (Forex/Crypto/Futures) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-sale-up-to-30-off-forex-crypto-futures/ |
-| 2025-10-20 | FXIFY | FXIFY — Halloween: 25% OFF + 2 Free Add-ons (Bi-Weekly Payouts & 90% Performance Split) — Ends Nov 3 (EST) | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-halloween-25-off-2-free-add-ons-bi-weekly-payouts-90-performance-split-ends-nov-3-est/ |

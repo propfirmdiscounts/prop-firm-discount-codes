@@ -1,42 +1,50 @@
 # OFP Funding Discount Code
 
-No live discount code for OFP Funding right now — newest deals and offers are below.
+The newest OFP Funding discount code is **45OFF** — 45% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-16
-- Trustpilot: 2.3/5 (4421 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 2.3/5 (4425 reviews)
 - Activate: https://propfirmdiscount.com/go/ofpfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 
-## Most recent deal (ended): OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250
+As of 2026-11-03, the biggest OFP Funding offers this month: 50% OFF with code OFP50 and 45% OFF with code 45OFF.
 
-- Published: 2026-10-16
-- Offer ends: 2026-10-31 (ended)
-- Offer: 50% Off
-- Scope: All Accounts, Instant Lite, Instant Classic, Instant Plus, BOGO over $250
-- Deal page: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/
+## Current deal: OFP Funding 45% Off Everything Plus BOGO
+
+- Published: 2026-11-02
+- Offer ends: 2026-11-08
+- Offer: 45% Off
+- Code: 45OFF
+- Scope: Every account, in every model, including new 400K and 500K Instant accounts
+- Deal page: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-percent-off-everything-bogo/
 
 ## OFP Funding deal FAQ
 
-**What discount does OFP Funding offer in this extension?**
+**What does OFP Funding offer on every account?**
 
-The promotion cuts the upfront evaluation cost by 50% across all account sizes and models. If the final payment exceeds $250, a second account of the same size is provided at no extra cost.
+It cuts 45% off everything in November, with a second account of the same size on orders above $250 after the discount. The cut lowers the upfront entry cost.
 
-**Which account models does the promotion cover?**
+**When does this OFP Funding offer end?**
 
-The markdown applies to every size within the Instant Lite, Instant Classic and Instant Plus categories.
+It ends November 8. The window is November 1 to November 8, with no time stated for the end.
 
-**Do the trading rules change with this OFP Funding promotion?**
+**Which OFP Funding accounts are covered by this offer?**
 
-No, the promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The accounts retain their static drawdown and no-consistency rules.
+Every account in every model is covered, including new 400K and 500K Instant accounts on Instant Lite, Instant Classic and Instant Plus.
 
-**How is the $250 threshold measured for the second account?**
+**How does the second account work with this OFP Funding offer?**
 
-The $250 minimum is measured on the actual amount paid after the 50% discount has been applied at checkout.
+Every order above $250 after the discount comes with a second account of the same size and the same conditions. On a 500K account, that gives one million in trading capital from a single purchase.
 
-**When does this OFP Funding offer expire?**
+**What stays the same with this OFP Funding offer?**
 
-The extended deadline for this promotion is October 31 at 23:59 CET.
+The account picked stays the same, with the benefit as price plus a second account, not a different account.
+
+**How do I get the OFP Funding discount code for this offer?**
+
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [OFP Funding 45% Off Everything Plus BOGO](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-percent-off-everything-bogo/) (45% Off)
 - 2026-10-16 - [OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/) (50% Off) — ended 2026-10-31

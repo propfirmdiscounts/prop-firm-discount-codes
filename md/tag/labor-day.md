@@ -1,11 +1,6 @@
 # Labor Day Prop Firm Deals (2026)
 
-The newest Labor Day prop firm deal is **QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account** from QT Funded — 55% off (published 2026-09-07). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- QT Funded — QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account (55% Off)
-- Finotive Funding — Finotive Funding Labor Day: 40% Off All Evaluation Accounts (40% Off)
-- ThinkCapital — ThinkCapital 20% Discount on $2,500 – $50,000 Accounts (20% Off)
+As of 2026-09-04, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code LABOR at Alpha Funded, 60% OFF with code PFD at Funding Traders, 60% OFF with code LABORDAY at WSFunded, and 55% OFF with code PFD at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

@@ -5,7 +5,7 @@ No live discount code for Prop Nimbus right now — no new deals in the last 2 m
 > At Prop Nimbus, we do more than just support traders—we empower them to reach new heights. With access to significant capital, cutting-edge tools, and expert guidance, we turn your trading ambitions into real, measurable success. Join a thriving community where your growth is our mission, and discover how we make every trade an opportunity to excel. Ready to elevate your trading game? Let’s make it happen.
 
 - Last deal published: 2025-11-14
-- Trustpilot: 2.4/5 (191 reviews)
+- Trustpilot: 2.4/5 (190 reviews)
 - Activate: https://propfirmdiscount.com/go/propnimbus
 - Firm page: https://propfirmdiscount.com/prop-firm/prop-nimbus/
 

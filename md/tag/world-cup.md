@@ -1,11 +1,6 @@
 # World Cup Prop Firm Deals (2026)
 
-The newest World Cup prop firm deal is **WSFunded 60% Off $2.5K to $25K Accounts** from WSFunded — 60% off (published 2026-07-20). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- WSFunded — WSFunded 60% Off $2.5K to $25K Accounts (60% Off)
-- WSFunded — WSFunded Buy 5 Get 5 Free Evaluation Accounts (Buy 5 Get 5)
-- Funding Traders — FundingTraders World Cup Special: 50% Off Evaluation Accounts with 100% Profit Split (50% Off)
+As of 2026-07-20, the biggest offers: 60% OFF with code MUNDIAL60 at WSFunded, 50% OFF with code PFD at Funding Traders, 50% OFF with code PFD at Funding Traders, 50% OFF with code SPAIN at WSFunded, and 50% OFF with code WORLDCUP50 at Goat Funded Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

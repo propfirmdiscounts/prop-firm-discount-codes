@@ -1,11 +1,6 @@
 # Cyber Monday Prop Firm Deals (2026)
 
-The newest Cyber Monday prop firm deal is **Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee** from Earn2Trade — 60% off (published 2025-12-16). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Earn2Trade — Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee (60% Off)
-- QT Funded — QT Funded Cyber Monday Deal: 55% OFF + Free Account (55% Off)
-- QT Futures — QT Futures Cyber Monday Deal: 30% OFF Purchase & Activation Fees (30% Off)
+As of 2025-12-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code MONDAY60 at Blueberry Funded, 55% OFF with code PFD at QT Funded, and 45% OFF with code CHALL45 at OFP Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

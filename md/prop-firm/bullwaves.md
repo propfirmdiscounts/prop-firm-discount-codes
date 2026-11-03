@@ -3,9 +3,11 @@
 No live discount code for Bullwaves Prime right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-23
-- Trustpilot: 3.5/5 (677 reviews)
+- Trustpilot: 3.4/5 (668 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
+
+As of 2026-11-03, the biggest Bullwaves Prime offers this month: 35% OFF with code NOTRICKS35.
 
 ## Most recent deal (ended): Bullwaves Prime 35% Off All Prime Challenges Halloween
 

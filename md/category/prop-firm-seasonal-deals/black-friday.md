@@ -1,11 +1,15 @@
-# Black Friday Prop Firm Discount Codes & Deals
+# Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-> Newest deals in this category, as one table. The HTML archive shows the same posts as deal cards (plus sponsored cards, not mirrored). Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+As of 2026-09-21, the biggest offers: 90% OFF with code PFD at Upcomers, 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, and 55% OFF with code BF55 at SFX Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
+| 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
+| 2026-11-02 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/ |
+| 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
 | 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
@@ -152,7 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-17 | FTUK | FTUK Early Black Friday — 50% OFF All Forex & Futures Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-50-off-all-forex-futures-accounts/ |
 | 2025-11-17 | Equity Edge | Equity Edge Early Black Friday — 50% OFF + Free Instant Account | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-early-black-friday-50-off-free-instant-account/ |
 | 2025-11-17 | Dominion Funding | Dominion Funding Black Friday — 30% OFF All Accounts (Challenge & Instant Funding) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-all-accounts/ |
-| 2025-11-15 | Goat Funded Trader | Goat Funded Trader Black Friday 2025: 40% Off + 90% Profit Split | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-40-off-90-split/ |
-| 2025-11-14 | Traders Launch | Traders Launch Early Black Friday Sale: 20% Off Storewide | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-early-black-friday-20-off/ |
-| 2025-11-14 | Trading Funds | TradingFunds Black Friday — 50% OFF + Free Account Whether You Pass or Fail | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/tradingfunds/tradingfunds-black-friday-50-off-free-account-pass-or-fail/ |
-| 2025-11-14 | SFX Funded | SFX Funded Black Friday — 50% OFF + Buy 1 Get 2 Free (Last Chance) | Buy 1 Get 2 | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-50-off-buy-1-get-2-free-last-chance/ |

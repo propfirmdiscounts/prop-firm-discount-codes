@@ -5,48 +5,51 @@ The verified Top One Futures discount code is **PFD** — Up to 65% off, works a
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-23
-- Trustpilot: 4.8/5 (5257 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 4.8/5 (5297 reviews)
 - Activate: https://propfirmdiscount.com/go/toponefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Top One Futures X-Daily Spark: Start for $39
+As of 2026-11-03, the biggest Top One Futures offers this month: 65% OFF and 60% OFF with code PFD.
 
-- Published: 2026-10-23
+## Current deal: Top One Futures Black November Up to 65% Off
+
+- Published: 2026-11-02
 - Offer ends: Limited time
-- Offer: Only $39
-- Code: PFD
-- Scope: X-Daily Spark, evaluation, funded account, activation fee
-- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
+- Offer: 65% Off
+- Scope: Bundles of 5+ accounts, Ignite Instant Funding, Elite Daily, Elite Access activation fees
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/
 
 ## Top One Futures deal FAQ
 
-**What does Top One Futures charge to start X-Daily Spark?**
+**What does Top One Futures offer for Black November?**
 
-The starting payment is $39. A $189 activation fee is payable only after the evaluation is passed and it is never paid if the evaluation is not passed.
+It offers up to 65% off when bundling 5+ accounts, 60% off Ignite Instant Funding and 55% off Elite Daily on a one time payment. Activation fees for Elite Access get 25% off.
 
-**How much is the total cost if the evaluation is passed?**
+**When does this Top One Futures offer end?**
 
-The total is $228, made up of the $39 start payment plus the $189 activation fee. The second payment applies only on the passing outcome.
+No end date is stated for this offer. The offer terms give no deadline for the Black November cuts.
 
-**Does Top One Futures apply a consistency rule on X-Daily Spark?**
+**What is the largest cut in this Top One Futures offer?**
 
-No consistency rule applies on the evaluation and no consistency rule applies on the funded stage. That position is stated for both stages of the product.
+The largest cut is up to 65% off when bundling 5+ accounts. Other tiers carry 60% off Ignite Instant Funding and 55% off Elite Daily.
 
-**How often can payouts be requested after funding?**
+**What service terms come with this Top One Futures offer?**
 
-Once an account is funded, payouts can be requested daily. That daily schedule applies to the funded stage of X-Daily Spark.
+Payouts run in under 24 hours on average, with support answering in under 60 seconds, 24/7. Elite Access now has a static drawdown on the evaluation phase.
 
-**How many X-Daily Spark accounts are being released?**
+**What stays the same with this Top One Futures offer?**
 
-The release is capped at 1,500 accounts. The product is described as experimental and there is no promise that it will return after the release is gone.
+The plan picked stays the same, with the benefit as price, not a different service.
 
-**What is the Top One Futures Trustpilot rating?**
+**How do I get the Top One Futures discount for this offer?**
 
-The rating is 4.8/5 from 5,205 reviews as of October 2026 according to Trustpilot.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [Top One Futures Black November Up to 65% Off](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) (65% Off) — Black Friday
 - 2026-10-23 - [Top One Futures X-Daily Spark: Start for $39](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) (Only $39)
 - 2026-10-04 - [Top One Futures: 60% Off Elite Daily & Instant Funding](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) (60% Off)

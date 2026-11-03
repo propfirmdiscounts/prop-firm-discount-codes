@@ -8,17 +8,18 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-31
-- Trustpilot: 3.2/5 (1074 reviews)
+- Trustpilot: 3.2/5 (1075 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Finotive Funding 65% Off Every Account
+As of 2026-11-03, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code BOO50, and 50% OFF with code OCT50.
+
+## Most recent deal (ended): Finotive Funding 65% Off Every Account
 
 - Published: 2026-10-31
-- Offer ends: 2026-11-02 17:59
+- Offer ends: 2026-11-02 17:59 (ended)
 - Offer: 65% Off
-- Code: UNMATCH
 - Scope: Every account, every account type, every account size
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/
@@ -47,6 +48,6 @@ The pricing may suit a buyer who wants a lower entry cost for any account type o
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-31 - [Finotive Funding 65% Off Every Account](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) (65% Off) — Halloween
+- 2026-10-31 - [Finotive Funding 65% Off Every Account](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) (65% Off) — Halloween — ended 2026-11-02 17:59
 - 2026-10-28 - [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) (50% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-01 - [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) (50% Off) — ended 2026-10-19

@@ -1,11 +1,6 @@
 # Mother's Day Prop Firm Deals (2026)
 
-The newest Mother's Day prop firm deal is **Funded Hero 60% Off All Account Types** from Funded Hero — 60% off (published 2026-05-11). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Funded Hero — Funded Hero 60% Off All Account Types (60% Off)
-- Sure Leverage Funding — Sure Leverage Funding Mother’s Day Promo: 35% Off All Programs (35% Off)
-- Funding Your Trades — Funding Your Trades: 42.5% Off All Models + Buy 1 Get 2 (Mother’s Day) (42% Off)
+As of 2026-05-11, the biggest offers: 60% OFF with code PFD at Funded Hero, 60% OFF with code MOTHERSDAY at AquaFutures, 45% OFF with code MOTHERSDAY at AquaFunded, 42% OFF with code MOTHER at Funding Your Trades, and 35% OFF with code MOTHERSDAYREFUND at Sure Leverage Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

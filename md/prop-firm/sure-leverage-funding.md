@@ -9,6 +9,8 @@ The newest Sure Leverage Funding discount code is **BOO40** — 40% off (October
 - Activate: https://propfirmdiscount.com/go/sureleverage
 - Firm page: https://propfirmdiscount.com/prop-firm/sure-leverage-funding/
 
+As of 2026-11-03, the biggest Sure Leverage Funding offers this month: 40% OFF with code BOO40 and 40% OFF with code B0040.
+
 ## Current deal: Sure Leverage Funding 40% Off October Discounts & Account Customization
 
 - Published: 2026-10-06

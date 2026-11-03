@@ -1,44 +1,46 @@
 # BrightFunded Discount Code
 
-The newest BrightFunded discount code is **HW30** — 30% off (October 21, 2026). The campaign code changes with each promotion; newest first below.
+The newest BrightFunded discount code is **BRIGHTFUTURES** — 50% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 > Welcome to BrightFunded, a leading prop trading firm that is revolutionizing the way traders engage in financial markets through the likes of Trade2Earn. Become a funded trader up to $400,000 USD and be rewarded instantly along the way.
 
-- Last deal published: 2026-10-21
-- Trustpilot: 3.2/5 (573 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.2/5 (576 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 
-## Current deal: BrightFunded 30% Off All Challenges - Halloween Deal
+As of 2026-11-03, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 40% OFF with code WEEKEND, 30% OFF with code HW30, and 25% OFF with code DOUBLE25.
 
-- Published: 2026-10-21
+## Current deal: BrightFunded 50% Off BrightPlus BrightCore
+
+- Published: 2026-11-02
 - Offer ends: Limited time
-- Offer: 30% Off
-- Code: HW30
-- Scope: All Challenges, Evaluation Profit Reward, Halloween
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/
+- Offer: 50% Off
+- Code: BRIGHTFUTURES
+- Scope: BrightPlus and BrightCore challenges
+- Deal page: https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/
 
 ## BrightFunded deal FAQ
 
-**What discount does BrightFunded offer in this Halloween promotion?**
+**What does BrightFunded offer in the Futures launch?**
 
-BrightFunded offers 30% off all challenges in this Halloween promotion. The offer also adds a 15% evaluation profit reward.
+It cuts 50% off BrightPlus and BrightCore challenges. The cut halves the entry cost on both challenge types.
 
-**Does the BrightFunded discount change trading rules or lower risk?**
+**When does this BrightFunded offer end?**
 
-No. The promotion reduces the purchase price only and it does not change trading rules, drawdown limits or evaluation criteria. Trading risk stays the same.
+The offer runs with only 6 hours left. No absolute deadline is stated, so the window is given as hours left.
 
-**How long does the BrightFunded Halloween offer run?**
+**Which challenges get this BrightFunded cut?**
 
-No end date is given for this Halloween offer. Buyers who need a deadline before paying should check the full deal details before paying.
+BrightPlus and BrightCore challenges get the 50% cut. The cut applies at purchase in the Futures launch offer.
 
-**Who may the BrightFunded Halloween pricing suit?**
+**How do I get the BrightFunded discount code for this offer?**
 
-It may suit buyers who had already planned to buy a challenge within the all-challenges scope and who want to pay less at entry. It should be approached cautiously if the lower price is the only reason for buying.
+Follow the Start here link at the end of this article to reach the deal page for the full offer details.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [BrightFunded 50% Off BrightPlus BrightCore](https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/) (50% Off)
 - 2026-10-21 - [BrightFunded 30% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/) (30% Off) — Halloween
 - 2026-10-14 - [BrightFunded 25% Off All Challenges & Free Account Promo](https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/) (25% Off) — ended 2026-10-20
 - 2026-10-09 - [BrightFunded Cuts 40% Off $100K and $200K 1-Step Challenges](https://propfirmdiscount.com/deals/bright-funded/brightfunded-40-off-100k-200k-1-step/) (40% Off) — ended 2026-10-11

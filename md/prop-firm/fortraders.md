@@ -6,10 +6,12 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
-- Trustpilot: 4.1/5 (1815 reviews)
+- Trustpilot: 4.1/5 (1825 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+As of 2026-11-03, the biggest For Traders offers this month: 79% OFF with code BOO6K, 79% OFF with code OCTOBER6K, 50% OFF with code NEWPRO, 50% OFF with code NEWINSTANT, and 25% OFF with code HALLOWEEN25.
 
 ## Current deal: For Traders Halloween $6K Forex Fast for $9.99
 

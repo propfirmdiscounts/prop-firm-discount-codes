@@ -1,11 +1,6 @@
 # New Year’s Eve Prop Firm Deals (2026)
 
-The newest New Year’s Eve prop firm deal is **PipFarm Lunar New Year: 60% Off One-Stage Challenges** from PipFarm — 60% off (published 2026-02-18). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- PipFarm — PipFarm Lunar New Year: 60% Off One-Stage Challenges (60% Off)
-- FXIFY — FXIFY Chinese New Year Sale: 28% Off Programs + Free Addons (28% Off)
-- Funding Traders — FundingTraders Lunar New Year: 32% Off All Challenge Fees (32% Off)
+As of 2026-01-22, the biggest offers: 90% OFF with code PFD at Upcomers, 60% OFF with code GALLOP60 at PipFarm, 45% OFF with code JAN45 at FundYourFX, 40% OFF with code JAN40 at FundYourFX, and 32% OFF with code PFD at Funding Traders.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

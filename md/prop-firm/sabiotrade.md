@@ -9,6 +9,8 @@ The newest SabioTrade discount code is **BOO25** — 25% off (October 30, 2026).
 - Activate: https://propfirmdiscount.com/go/sabiotrade
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 
+As of 2026-11-03, the biggest SabioTrade offers this month: 25% OFF with code BOO25.
+
 ## Current deal: SabioTrade Halloween 25% Off Account Purchase Deal
 
 - Published: 2026-10-30

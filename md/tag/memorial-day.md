@@ -1,11 +1,6 @@
 # Memorial Day Prop Firm Deals (2026)
 
-The newest Memorial Day prop firm deal is **Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts** from Earn2Trade — 60% off (published 2026-05-26). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Earn2Trade — Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts (60% Off)
-- Funded Hero — Funded Hero 55% Off Challenge Pricing and 30% Payout Bonus for Memorial Day (55% Off)
-- Alpha Funded — Alpha Trader Firm 60% Off Challenge Pricing Plus Free $10K Account for Memorial Day 2026 (60% Off)
+As of 2026-05-25, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code ME60 at Alpha Funded, 55% OFF with code PFD at Funded Hero, and 50% OFF with code MEMORIAL50 at Plutus Trade Base.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

@@ -1,11 +1,6 @@
 # International Women’s Day Prop Firm Deals (2026)
 
-The newest International Women’s Day prop firm deal is **FundingTraders 35% Off, 90% Profit Split and BOGO Account Entry Fee Limited to 3 Uses** from Funding Traders — 35% off (published 2026-03-08). Codes and offers below, newest first, each with the end date its firm gave it.
-
-Newest offers:
-- Funding Traders — FundingTraders 35% Off, 90% Profit Split and BOGO Account Entry Fee Limited to 3 Uses (35% Off)
-- ThinkCapital — ThinkCapital 25% Off All Challenges for International Women’s Day (25% Off)
-- WeMasterTrade — WeMasterTrade 30% Off All Packages: International Women’s Day Evaluation Pricing (30% Off)
+As of 2026-03-06, the biggest offers: 50% OFF with code WOMEN50 at Goat Funded Trader, 40% OFF with code WD40 at Blueberry Funded, 35% OFF with code PFD at Funding Traders, 30% OFF with code WOMENDAY at WeMasterTrade, and 30% OFF with code WOMEN30 at FXIFY.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
