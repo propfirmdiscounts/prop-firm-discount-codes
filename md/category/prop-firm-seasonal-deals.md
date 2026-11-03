@@ -1,11 +1,12 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-01, the biggest offers this month: 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 65% OFF with code UNMATCH at Finotive Funding, 55% OFF with code BF55 at SFX Funded, and 50% OFF with code BLACK50 at Hola Prime.
+As of 2026-11-01, the biggest offers this month: 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, 50% OFF with code NOFEE50 at Take Profit Trader, and 50% OFF with code BLACK50 at Hola Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus 45% Off Instant Funding | 45% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
 | 2026-10-28 | Finotive Futures | Finotive Futures Halloween Up to 50% Off Instant Accounts | 50% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/ |
 | 2026-10-28 | Finotive Funding | Finotive Funding Halloween 50% Off All Challenges | 50% OFF | 2026-11-01 00:00 (ended) | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/ |
-| 2026-10-27 | Funded Hero | Funded Hero 70% Off $100K 3-Step Villain Halloween | 70% OFF | 2026-10-31 (ended) | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/ |

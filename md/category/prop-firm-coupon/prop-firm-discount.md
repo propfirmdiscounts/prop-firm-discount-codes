@@ -1,11 +1,18 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-02, the biggest offers this month: 75% OFF with code NOV75 at CK PropFirm, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code PFD at Funding Traders, 70% OFF with code PFD at Funding Traders, and 60% OFF with code PFD at Doji Funding.
+As of 2026-11-03, the biggest offers this month: 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, 55% OFF with code ELITE55 at Funded Elite, 50% OFF with code ALPHA50 at Alpha Futures, and 50% OFF with code NOFEE50 at Take Profit Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Alpha Futures | Alpha Futures 50% Off Standard Direct Advanced | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
+| 2026-11-03 | Alpha Funded | Alpha Funded 70% Off $300K+ Forex and Futures Flex | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/ |
+| 2026-11-03 | Funded Elite | Funded Elite November 55% Off Instant Elite Accounts | 55% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |
+| 2026-11-03 | FunderPro | FunderPro 20% Off Classic and Instant Challenges | 20% OFF | 2026-11-08 18:59 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/ |
+| 2026-11-03 | Lucid Trading | Lucid Trading 30% Off All LucidDaily Plans – Price Cut | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/ |
+| 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
+| 2026-11-03 | FTUK | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
 | 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% OFF | 2026-11-05 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
 | 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
@@ -29,10 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
 | 2026-11-02 | Instant Funding | Instant Funding 30% Off Everything Plus Add-Ons | 30% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/ |
 | 2026-11-02 | Instant Funding | Instant Funding 40% Off IF Pro and IF Lite | 40% OFF | 2026-11-03 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/ |
-| 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
-| 2026-11-02 | Funding Traders | Funding Traders 50% Off All Accounts in November | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/ |
-| 2026-11-02 | Alpha Capital Group | Alpha Capital Group $10K Evaluation for $40 in November | $40 | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-10k-evaluation-for-40-november/ |
-| 2026-11-02 | Alpha Capital Group | Alpha Capital Group 20% Off All Plans in November | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-20-off-all-plans-november/ |
-| 2026-11-02 | Alpha Capital Group | Alpha Capital Group 40% Off Alpha Direct Plan | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-40-off-alpha-direct-plan/ |
-| 2026-11-02 | Lark Funding | Lark Funding Double Up Free Second Account on 30-Day Pass | Free second account | 2026-11-22 | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-double-up-free-second-account-30-day/ |
-| 2026-11-02 | The Concept Trading | The Concept Trading 30% Off Eligible Programs in November | 30% OFF | 2026-11-10 08:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/ |

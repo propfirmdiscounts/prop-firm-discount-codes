@@ -501,21 +501,21 @@
         "discount": "15%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13109,
-            "title": "40% off the Zero Plan in November",
+            "deal_id": 13110,
+            "title": "50% off three plans in November",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "50%",
             "scope": [
-                "The Zero Plan"
+                "Standard, Direct And Advanced Plans"
             ],
-            "date_published": "2026-11-02",
+            "date_published": "2026-11-03",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/"
+            "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/"
         },
         "deal_count": {
-            "total": 35,
-            "this_year": 20,
+            "total": 36,
+            "this_year": 21,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/alphafutures",
@@ -687,21 +687,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13099,
-            "title": "40% off five account types in November",
+            "deal_id": 13105,
+            "title": "55% off Instant Elite accounts in November",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "55%",
             "scope": [
-                "Five Account Types: Free Retry, Lite, Instant, Instant Elite And Catalyst, Including Instant Elite Accounts Up To $200K"
+                "$300K And $400K Instant Elite Accounts"
             ],
-            "date_published": "2026-11-02",
+            "date_published": "2026-11-03",
             "date_exp": "2026-11-22 18:59",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/"
         },
         "deal_count": {
-            "total": 37,
-            "this_year": 28,
+            "total": 38,
+            "this_year": 29,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedelite",
@@ -873,21 +873,21 @@
         "discount": "30%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13042,
-            "title": "30% Off Every Account When DLL Is Switched On",
+            "deal_id": 13128,
+            "title": "30% Off All LucidDaily Plans - Lower Plan Prices",
             "offer_type": "coupon",
             "discount_value": "30%",
             "scope": [
-                "All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts"
+                "Luciddaily Plans"
             ],
-            "date_published": "2026-10-27",
+            "date_published": "2026-11-03",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/"
+            "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/"
         },
         "deal_count": {
-            "total": 23,
-            "this_year": 10,
+            "total": 24,
+            "this_year": 11,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
@@ -1455,6 +1455,37 @@
         "trustpilot_url": "https://www.trustpilot.com/review/tradethepool.com",
         "description": "Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.\nOur experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.\nA similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Trade-The-Pool-logo.jpg"
+    },
+    {
+        "prop_firm": "Breakout Prop",
+        "code": "3GVKFT",
+        "discount": "5%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12373,
+            "title": "24% Off Evaluation Accounts Over $10K",
+            "offer_type": "coupon",
+            "discount_value": "24%",
+            "scope": [
+                "$10K+ Accounts, Maximum $200K Total Funding, All Evaluation Models"
+            ],
+            "date_published": "2026-07-27",
+            "date_exp": "Ended",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/"
+        },
+        "deal_count": {
+            "total": 6,
+            "this_year": 3,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/",
+        "trustpilot_score": 4.7,
+        "trustpilot_reviews": 1252,
+        "trustpilot_url": "https://www.trustpilot.com/review/breakoutprop.com",
+        "description": "",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Breakout-funded-logo-2.jpg"
     },
     {
         "prop_firm": "Finotive Futures",

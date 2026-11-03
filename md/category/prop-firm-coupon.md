@@ -6,6 +6,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Alpha Futures | Alpha Futures 50% Off Standard Direct Advanced | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
+| 2026-11-03 | Alpha Funded | Alpha Funded 70% Off $300K+ Forex and Futures Flex | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/ |
+| 2026-11-03 | Funded Elite | Funded Elite November 55% Off Instant Elite Accounts | 55% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |
+| 2026-11-03 | FunderPro | FunderPro 20% Off Classic and Instant Challenges | 20% OFF | 2026-11-08 18:59 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/ |
+| 2026-11-03 | Lucid Trading | Lucid Trading 30% Off All LucidDaily Plans – Price Cut | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/ |
+| 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
+| 2026-11-03 | FTUK | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
 | 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% OFF | 2026-11-05 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
 | 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |

@@ -1,53 +1,50 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **FLEX** — $1 to start (November 2, 2026). The campaign code changes with each promotion; newest first below.
+The newest FTUK discount code is **INSTANT35** — 35% off (November 3, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-03
 - Trustpilot: 3.8/5 (791 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-03, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code HALLOWEEN35.
+As of 2026-11-03, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
 
-## Current deal: FTUK $1 to Start Challenge, 1% Target
+## Current deal: FTUK 35% Off Instant Funding + 20% Payout Boost
 
-- Published: 2026-11-02
+- Published: 2026-11-03
 - Offer ends: Limited time
-- Offer: $1 to start
-- Code: FLEX
-- Scope: The challenge, one per customer
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/
+- Offer: 35% Off
+- Code: INSTANT35
+- Scope: Instant Funding accounts
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/
 
 ## FTUK deal FAQ
 
-**What does FTUK offer with this challenge?**
+**What discount does FTUK offer on Instant Funding accounts?**
 
-It lets a buyer start the challenge for $1, reach a 1% profit target and pay after passing. The $1 start lowers the upfront cost.
+FTUK offers 35% off all Instant Funding accounts with a 20% payout boost on the same accounts. The two parts form one promotion on the same purchase.
 
-**When does this FTUK offer end?**
+**How much is the FTUK payout boost in this promotion?**
 
-No end date is stated for this offer. The offer terms give no deadline for the $1 start.
+The payout boost is 20% on the same Instant Funding accounts that receive the 35% discount. No other payout figure is stated for this promotion.
 
-**How does the $1 start compare with a typical FTUK evaluation?**
+**Which FTUK accounts does this promotion cover?**
 
-A typical evaluation wants the full fee first, with an 8% profit target and payment before starting. This challenge starts at $1, with a 1% profit target and payment after passing.
+It covers all Instant Funding accounts. The 35% discount and the 20% payout boost both apply to that full Instant Funding range.
 
-**What rules apply to this FTUK challenge?**
+**Does the FTUK promotion change trading rules or drawdown limits?**
 
-The challenge carries no stop-loss rule and no time limit, with news and weekends allowed and payouts on demand. All accounts operate in a simulated trading environment.
+No. The promotion affects purchase pricing only and the payout terms stated above. Trading rules and drawdown limits stay as set and trading risk is not reduced.
 
-**What stays the same with this FTUK offer?**
+**Who may this FTUK Instant Funding promotion suit?**
 
-The challenge picked stays the same, with the benefit as price and timing, not a different challenge.
-
-**How do I get the FTUK discount code for this offer?**
-
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+It may suit a buyer who had already chosen Instant Funding and was comparing purchase prices across account sizes. A buyer who finds the account limits unsuitable at full price should be cautious because the discount changes none of them.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-03 - [FTUK 35% Off Instant Funding + 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/) (35% Off)
 - 2026-11-02 - [FTUK $1 to Start Challenge, 1% Target](https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/) ($1 to start)
 - 2026-10-29 - [FTUK Halloween 35% Off Flex Funded Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/) (35% Off) — Halloween — ended 2026-10-30 19:59
 - 2026-10-26 - [FTUK 50% Off Instant Funding Accounts Halloween](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/) (50% Off) — Halloween — ended 2026-10-30 19:59
