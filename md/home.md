@@ -6,20 +6,20 @@ The top prop firm offer this month is **PFD** from Phidias Propfirm — 80% off 
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-03, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 60% OFF with code PFD at Doji Funding, and 60% OFF with code NOVEMBER60 at FundYourFX.
+As of 2026-11-03, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, and 60% OFF with code PFD at Doji Funding.
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 80% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Top One Trader | BLACKFRIDAY | 80% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
 | 3 | RebelsFunding | 1STEP19 | 72% | Ends Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 4 | Doji Funding | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 5 | FundYourFX | NOVEMBER60 | 60% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 6 | SFX Funded | BF55 | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 7 | Funding Traders | PFD | 50% | Ends Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 8 | BrightFunded | BRIGHTFUTURES | 50% | Limited time | https://propfirmdiscount.com/prop-firm/bright-funded/ |
-| 9 | Hola Prime | BLACK50 | 50% | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
-| 10 | FundedSquad | FLASH | 50% | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 4 | Alpha Funded | BIG70 | 70% | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 5 | Doji Funding | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 6 | FundYourFX | NOVEMBER60 | 60% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 7 | SFX Funded | BF55 | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
+| 8 | Funding Traders | PFD | 50% | Ends Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 9 | Take Profit Trader | NOFEE50 | 50% | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/take-profit-trader/ |
+| 10 | BrightFunded | BRIGHTFUTURES | 50% | Limited time | https://propfirmdiscount.com/prop-firm/bright-funded/ |
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
