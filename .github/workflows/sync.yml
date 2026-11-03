@@ -2,7 +2,7 @@ name: Hourly Sync
 
 on:
   schedule:
-    # Hourly at minute 31 (offset from busy :00 slots).
+    # Offset from the platform's busy :00 slots.
     - cron: '31 * * * *'
   workflow_dispatch:
 
@@ -223,12 +223,14 @@ jobs:
           PY
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (propfirmdiscount/prop-firm-discount-codes):
-        # same content as this repo, on a second distribution channel.
-        # Runs after the GitHub commit so HF never gets content that failed
-        # to land here first. Skipped silently when HF_TOKEN is unset.
+        # HF dataset mirror (propfirm/prop-firm-discount-codes): same content as
+        # this repo, on a second distribution channel. Runs after the GitHub
+        # commit so HF never gets content that failed to land here first.
+        # Skipped silently when HF_TOKEN is unset.
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_NAMESPACE: propfirm
+          REPO_NAME: prop-firm-discount-codes
         if: env.HF_TOKEN != ''
         run: |
           set -euo pipefail
@@ -237,7 +239,7 @@ jobs:
           import os
           from huggingface_hub import HfApi
           api = HfApi(token=os.environ['HF_TOKEN'])
-          repo = 'propfirmdiscount/prop-firm-discount-codes'
+          repo = f"{os.environ['HF_NAMESPACE']}/{os.environ['REPO_NAME']}"
           for folder in ('datasets', 'md'):
               api.upload_folder(folder_path=folder, path_in_repo=folder,
                                 repo_id=repo, repo_type='dataset',
