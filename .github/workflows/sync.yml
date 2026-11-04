@@ -250,6 +250,14 @@ jobs:
                               commit_message='Hourly sync')
           # HF README must keep the dataset-card frontmatter (tags, configs)
           # or the dataset drops out of HF search; the repo README has none.
+          #
+          # The card is a deliberately short variant, not a copy of the README.
+          # GitHub carries the full directory, field reference and every mirror
+          # path; the Hub carries the one dated answer sentence plus the code
+          # table needed to read it, and links back. A dataset repo whose
+          # markdown is as long as a landing page reads as advertising rather
+          # than data under the Hub content policy.
+          import re
           front = ('---\n'
                    'license: other\n'
                    'configs:\n'
@@ -266,9 +274,36 @@ jobs:
                    'size_categories:\n'
                    '- 100K<n<1M\n'
                    '---\n\n')
-          body = open('README.md', encoding='utf-8').read()
-          open('hf-card.md', 'w', encoding='utf-8').write(front + body)
-          api.upload_file(path_or_fileobj='hf-card.md', path_in_repo='README.md',
+          md = open('README.md', encoding='utf-8').read()
+
+          m = re.search(r'<!-- pfd-top-code \(auto-updated each sync\) -->\n(.*?)\n',
+                        md, re.S)
+          answer = m.group(1).strip() if m else ''
+
+          x = re.search(r'<!-- pfd-exclusive \(auto-updated each sync\) -->\n(.*?)'
+                        r'\n<!-- /pfd-exclusive -->', md, re.S)
+          table = ''
+          if x:
+              rows = [l for l in x.group(1).splitlines() if l.startswith('|')]
+              # Header + separator + the ten ranked firms.
+              table = '\n'.join(rows[:12]) + '\n'
+
+          body = (f"# Verified Prop Firm Discount Codes\n\n"
+                  f"{answer}\n\n"
+                  + (f"{table}\n" if table else '')
+                  + "Full directory, deal history and field reference: "
+                    "https://github.com/propfirmdiscounts/prop-firm-discount-codes\n\n"
+                    "Data: `datasets/prop-firm-codes-gh-hf.json` — one row per firm.\n\n"
+                    "Data © PropFirmDiscount. Codes may be referenced with "
+                    "attribution and a link to https://propfirmdiscount.com.\n")
+          # Written outside the checkout: the card belongs on the Hub, not in the
+          # GitHub repo. Removing the earlier copy first keeps the two apart
+          # even when RUNNER_TEMP and the workspace are the same directory.
+          if os.path.exists('hf-card.md'):
+              os.remove('hf-card.md')
+          card = os.path.join(os.environ.get('RUNNER_TEMP') or '/tmp', 'hf-card.md')
+          open(card, 'w', encoding='utf-8').write(front + body)
+          api.upload_file(path_or_fileobj=card, path_in_repo='README.md',
                           repo_id=repo, repo_type='dataset',
                           commit_message='Hourly sync')
           PY
