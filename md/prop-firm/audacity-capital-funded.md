@@ -9,7 +9,7 @@ The newest AudaCity Capital discount code is **14th** — 14% off (November 3, 2
 - Activate: https://propfirmdiscount.com/go/audacitycapital
 - Firm page: https://propfirmdiscount.com/prop-firm/audacity-capital-funded/
 
-As of 2026-11-03, the biggest AudaCity Capital offers this month: 35% OFF with code HALLOWEEN and 14% OFF with code 14th.
+As of 2026-11-04, the biggest AudaCity Capital offers this month: 35% OFF with code HALLOWEEN and 14% OFF with code 14th.
 
 ## Current deal: AudaCity Capital 14% Off All Programs - Entry Fees Cut
 

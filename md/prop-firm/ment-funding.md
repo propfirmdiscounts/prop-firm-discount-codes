@@ -9,7 +9,7 @@ No live discount code for Ment Funding right now — newest deals and offers are
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 
-As of 2026-11-03, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, and 30% OFF with code TREATMENT.
+As of 2026-11-04, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, and 30% OFF with code TREATMENT.
 
 ## Most recent deal (ended): Ment Funding 30% Off Halloween Challenge Entry Cost
 

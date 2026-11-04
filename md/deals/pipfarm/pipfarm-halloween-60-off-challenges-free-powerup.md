@@ -1,16 +1,15 @@
 # PipFarm Halloween 60% Off Challenges Plus Free Power-Up
 
-PipFarm is offering 60% off — discount code **POWERUP**.
+PipFarm was offering 60% off.
 
 > PipFarm Halloween promotion cuts every challenge fee by 60% and adds a free Power-Up, while trading rules stay unchanged, valid until 3 November.
 
 - Published: 2026-10-29
-- Offer ends: 2026-11-03
+- Offer ends: 2026-11-03 (ended)
 - Prop firm: PipFarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - Summary: 60% off each challenge and one free Power-Up at random this Halloween. Rules stay the same. Ends 3 November. You may use it more than once.
 - Offer: 60% Off
-- Code: POWERUP
 - Scope: every challenge, free Power-Up, multiple uses
 - Deal: https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/
 - Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)

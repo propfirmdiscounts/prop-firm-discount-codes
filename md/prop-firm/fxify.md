@@ -11,7 +11,7 @@ The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any
 - Firm page: https://propfirmdiscount.com/prop-firm/fxify/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest FXIFY offers this month: 40% OFF with code FUNDED40, 40% OFF with code FUNDED40, 35% OFF with code AGHHH35, 25% OFF with code FUNDED25, and 25% OFF with code REWARD25.
+As of 2026-11-04, the biggest FXIFY offers this month: 40% OFF with code FUNDED40, 40% OFF with code FUNDED40, 35% OFF with code AGHHH35, 25% OFF with code FUNDED25, and 25% OFF with code REWARD25.
 
 ## Current deal: FXIFY 25% Off Plus Two Free Add-Ons
 

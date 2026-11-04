@@ -9,7 +9,7 @@ No live discount code for WSFunded right now — newest deals and offers are bel
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-As of 2026-11-03, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
+As of 2026-11-04, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
 
 ## Most recent deal (ended): WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween
 

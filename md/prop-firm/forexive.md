@@ -13,7 +13,7 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works a
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest Forexive offers this month: 30% OFF with code GET30.
+As of 2026-11-04, the biggest Forexive offers this month: 30% OFF with code GET30.
 
 ## Current deal: Forexive 30% Off All Trading Challenges
 

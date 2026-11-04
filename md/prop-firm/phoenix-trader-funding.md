@@ -13,7 +13,7 @@ The verified Phoenix Trader Funding discount code is **PFD** — Up to 20% off, 
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest Phoenix Trader Funding offers this month: 40% OFF with code HALLOWEEN40, 40% OFF with code DAILY40, 30% OFF with code HALLOWEEN30, 30% OFF with code AGILE30, and 30% OFF with code FALL30.
+As of 2026-11-04, the biggest Phoenix Trader Funding offers this month: 40% OFF with code HALLOWEEN40, 40% OFF with code DAILY40, 30% OFF with code HALLOWEEN30, 30% OFF with code AGILE30, and 30% OFF with code FALL30.
 
 ## Most recent deal (ended): Phoenix Trader Funding: 40% Off Daily Seed Challenges
 

@@ -7,7 +7,7 @@ No live discount code for IC Funded right now — newest deals and offers are be
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 
-As of 2026-11-03, the biggest IC Funded offers this month: 40% OFF with code RENACER40, 40% OFF with code TREAT40, 40% OFF with code 40FOR40, and 30% OFF with code SCALE30.
+As of 2026-11-04, the biggest IC Funded offers this month: 40% OFF with code RENACER40, 40% OFF with code TREAT40, 40% OFF with code 40FOR40, and 30% OFF with code SCALE30.
 
 ## Most recent deal (ended): IC Funded 40% Off Every Challenge Día de Muertos
 

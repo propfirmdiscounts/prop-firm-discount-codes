@@ -13,7 +13,7 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest QT Funded offers this month: 65% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, and 55% OFF with code PFD.
+As of 2026-11-04, the biggest QT Funded offers this month: 65% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, and 55% OFF with code PFD.
 
 ## Most recent deal (ended): QT Funded Halloween 50% Off Plus Free Account
 

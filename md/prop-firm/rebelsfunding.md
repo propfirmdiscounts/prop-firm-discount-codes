@@ -9,7 +9,7 @@ The newest RebelsFunding discount code is **1STEP19** — 72% off (November 3, 2
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-As of 2026-11-03, the biggest RebelsFunding offers this month: 73% OFF with code SEVEN, 72% OFF with code 1STEP19, 70% OFF with code FORTHREE, 70% OFF with code FORNINE, and 59% OFF with code JUST29.
+As of 2026-11-04, the biggest RebelsFunding offers this month: 73% OFF with code SEVEN, 72% OFF with code 1STEP19, 70% OFF with code FORTHREE, 70% OFF with code FORNINE, and 59% OFF with code JUST29.
 
 ## Current deal: RebelsFunding 72% Off $5,000 1-Step Program
 

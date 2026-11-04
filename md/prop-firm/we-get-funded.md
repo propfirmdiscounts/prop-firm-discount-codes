@@ -9,7 +9,7 @@ No live discount code for We Get Funded right now — newest deals and offers ar
 - Activate: https://propfirmdiscount.com/go/wegetfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 
-As of 2026-11-03, the biggest We Get Funded offers this month: 65% OFF with code FED65.
+As of 2026-11-04, the biggest We Get Funded offers this month: 65% OFF with code FED65.
 
 ## Most recent deal (ended): We Get Funded 65% Off First 1 Step 50K Challenge
 

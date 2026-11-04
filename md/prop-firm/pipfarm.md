@@ -13,14 +13,13 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest PipFarm offers this month: 60% OFF with code POWERUP and 50% OFF with code FIFTYFIFTY.
+As of 2026-11-04, the biggest PipFarm offers this month: 60% OFF with code POWERUP and 50% OFF with code FIFTYFIFTY.
 
-## Current deal: PipFarm Halloween 60% Off Challenges Plus Free Power-Up
+## Most recent deal (ended): PipFarm Halloween 60% Off Challenges Plus Free Power-Up
 
 - Published: 2026-10-29
-- Offer ends: 2026-11-03
+- Offer ends: 2026-11-03 (ended)
 - Offer: 60% Off
-- Code: POWERUP
 - Scope: every challenge, free Power-Up, multiple uses
 - Event: Halloween
 - Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/
@@ -53,7 +52,7 @@ No, a lower entry cost does not reduce trading risk. The discount changes the pu
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-29 - [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) (60% Off) — Halloween
+- 2026-10-29 - [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) (60% Off) — Halloween — ended 2026-11-03
 - 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off) — ended 2026-10-31
 - 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)
 - 2026-10-09 - [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) (Only $9.99)

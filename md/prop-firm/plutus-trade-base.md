@@ -9,7 +9,7 @@ The newest Plutus Trade Base discount code is **SPOOKY** — 66% off (October 24
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 
-As of 2026-11-03, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY and 50% OFF with code PASS50.
+As of 2026-11-04, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY and 50% OFF with code PASS50.
 
 ## Current deal: Plutus Trade Base 66% Off Halloween Challenges
 

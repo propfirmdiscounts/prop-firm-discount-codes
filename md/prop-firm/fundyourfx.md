@@ -7,7 +7,7 @@ The newest FundYourFX discount code is **NOVEMBER60** — 60% off (November 1, 2
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-As of 2026-11-03, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code NOVEMBER60, 60% OFF with code OCTA60, 55% OFF with code CASH55, and 55% OFF with code CASH55.
+As of 2026-11-04, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code NOVEMBER60, 60% OFF with code OCTA60, 55% OFF with code CASH55, and 55% OFF with code CASH55.
 
 ## Current deal: FundYourFX November Trading Rush 60% Off All Plans
 

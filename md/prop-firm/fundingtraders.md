@@ -13,7 +13,7 @@ The verified Funding Traders discount code is **PFD** — Up to 50% off, works a
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest Funding Traders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-04, the biggest Funding Traders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
 ## Current deal: Funding Traders 50% Off Instant Funded and Pro Accounts
 
@@ -45,8 +45,8 @@ It may suit a buyer who had already chosen one of the three covered account type
 ## Deals (last 2 months, newest first)
 
 - 2026-11-03 - [Funding Traders 50% Off Instant Funded and Pro Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) (50% Off)
-- 2026-11-03 - [Funding Traders 70% Off 2-Step Swing Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) (70% Off)
-- 2026-11-03 - [Funding Traders 70% Off 2-Step Day Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) (70% Off)
+- 2026-11-03 - [Funding Traders 70% Off 2-Step Swing Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) (70% Off) — ended 2026-11-03 20:00
+- 2026-11-03 - [Funding Traders 70% Off 2-Step Day Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) (70% Off) — ended 2026-11-03 20:00
 - 2026-11-02 - [Funding Traders 50% Off All Accounts in November](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/) (50% Off)
 - 2026-10-30 - [Funding Traders Halloween 70% Off All Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) (70% Off) — Halloween
 - 2026-10-19 - [FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) (50% Off) — Halloween

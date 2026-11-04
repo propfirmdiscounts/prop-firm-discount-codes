@@ -13,7 +13,7 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-03, the biggest Funded Hero offers this month: 70% OFF with code PFD, 70% OFF with code PFD, 65% OFF with code PFD, and 62% OFF with code PFD.
+As of 2026-11-04, the biggest Funded Hero offers this month: 70% OFF with code PFD, 70% OFF with code PFD, 65% OFF with code PFD, and 62% OFF with code PFD.
 
 ## Most recent deal (ended): Funded Hero 70% Off $100K 3-Step Villain Halloween
 

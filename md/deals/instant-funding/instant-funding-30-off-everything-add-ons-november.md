@@ -1,16 +1,15 @@
 # Instant Funding 30% Off Everything Plus Add-Ons
 
-Instant Funding is offering 30% off — discount code **TREAT30**.
+Instant Funding was offering 30% off.
 
 > Instant Funding cuts 30% off everything, ending November 3, with a free 90% profit split add-on and 50% more PlusPoints cashback, lowering the entry cost.
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-03
+- Offer ends: 2026-11-03 (ended)
 - Prop firm: Instant Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - Summary: 30% off everything plus add-ons, ending November 3, with cost down and the picked account left the same for buyers ready to start at purchase.
 - Offer: 30% Off
-- Code: TREAT30
 - Scope: Every account
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/
 - Verified standing exclusive code: AFFVOYAGE61 (works any time; the live rate is always on the firm page)
