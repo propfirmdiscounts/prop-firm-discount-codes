@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-04 |  | Black Friday 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/black-friday-2026-prop-firm-coupon-codes/ |
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | Funding Your Trades | Funding Your Trades Black Friday Sale: 45% Off + Buy 1 Get 3 Deal | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-45-off-buy-1-get-3/ |
 | 2025-11-28 | BluSky Trading | BluSky Trading Black Friday Deal: 300K Static Plan for $100 | Only $100 | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-300k-static-plan-100/ |
 | 2025-11-28 | BluSky Trading | BluSky Trading Black Friday Flash Sale: 150K Static Plan for $100 | Only $100 | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-150k-static-plan-100/ |
-| 2025-11-28 | FundYourFX | FundYourFX Black Friday Flash Sale: 40% OFF 100K Accounts + Bonuses | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-40-off-100k-flash-sale/ |

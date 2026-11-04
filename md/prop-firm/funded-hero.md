@@ -7,51 +7,52 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 - Code: PFD
 - Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-27
+- Last deal published: 2026-11-04
 - Trustpilot: 4.0/5 (443 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedhero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-04, the biggest Funded Hero offers this month: 70% OFF with code PFD, 70% OFF with code PFD, 65% OFF with code PFD, and 62% OFF with code PFD.
+As of 2026-11-04, the biggest Funded Hero offers this month: 70% OFF with code PFD, 70% OFF with code PFD, 65% OFF with code PFD, 62% OFF with code PFD, and 60% OFF with code PFD.
 
-## Most recent deal (ended): Funded Hero 70% Off $100K 3-Step Villain Halloween
+## Current deal: Funded Hero 60% Off $100K Instant Elite - Now $799.60
 
-- Published: 2026-10-27
-- Offer ends: 2026-10-31 (ended)
-- Offer: 70% Off
-- Scope: all challenges, 3-Step Villain, $100K account
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/
+- Published: 2026-11-04
+- Offer ends: Limited time
+- Offer: 60% Off
+- Code: PFD
+- Scope: Instant Elite, $100K account, all challenges, instant accounts
+- Deal page: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
 
 ## Funded Hero deal FAQ
 
-**What discount does Funded Hero offer in this Halloween promotion?**
+**What price does Funded Hero offer on the $100K Instant Elite?**
 
-Funded Hero offers 70% off every challenge in this Halloween promotion. The $100K 3-Step Villain example falls from $358 to $107.40.
+Funded Hero offers the $100K Instant Elite at $799.60 instead of $1,999. That is a saving of $1,199.40 on the named account.
 
-**Which account does the priced example cover?**
+**What else does the Funded Hero 60% rate cover?**
 
-The priced example is the $100K 3-Step Villain challenge. No other account size is priced in full in this offer.
+The same 60% rate applies to every challenge. The $100K Instant Elite is the named priced account inside the wider challenge scope.
 
-**What are the step targets and drawdown limits for the 3-Step Villain challenge?**
+**What drawdown limits apply to the Funded Hero Instant Elite?**
 
-Step targets are 10% for Step 1, 6% for Step 2 and 6% for Step 3. Daily drawdown is 5% and total drawdown is 10%.
+The stated limits are a 3% daily drawdown and a 6% max drawdown. News trading, weekend holding and trading bots are allowed, with a 1-minute minimum trade time.
 
-**Are news trading and trading bots allowed in Step 1?**
+**What payout terms are stated for the Funded Hero Instant Elite?**
 
-News trading is allowed and trading bots are allowed in this challenge. Step 1 carries no minimum trading days.
+The stated terms are a 50% profit share, 10 minimum trading days, payouts every 21 days and a 1% minimum profit required to request a payout.
 
-**When does the Funded Hero Halloween sale end?**
+**Does the Funded Hero discount change the Instant Elite rules?**
 
-The Halloween sale runs until 31 October 2026. No time of day is stated for that deadline.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**What does this promotion not change for Funded Hero buyers?**
+**Who may this Funded Hero pricing suit?**
 
-The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. A lower entry cost does not reduce trading risk.
+It may suit a buyer who had already chosen the $100K Instant Elite or a challenge and was comparing entry prices. A buyer expecting the lower price to loosen the drawdown limits should be cautious because those limits stay at 3% daily and 6% maximum.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-04 - [Funded Hero 60% Off $100K Instant Elite - Now $799.60](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) (60% Off)
 - 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween — ended 2026-10-31
 - 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
 - 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)

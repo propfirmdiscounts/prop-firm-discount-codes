@@ -4,6 +4,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-04 |  | November 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/monthly-roundups/november-2026-prop-firm-coupon-codes/ |
 | 2026-10-01 |  | October 2026 Prop Firm Coupon Codes & Discounts – Monthly Roundup |  | Ended | - | https://propfirmdiscount.com/monthly-roundups/october-2026-prop-firm-coupon-codes/ |
 | 2026-09-01 |  | September 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | Ended | - | https://propfirmdiscount.com/monthly-roundups/september-2026-prop-firm-deals/ |
 | 2026-08-01 |  | August 2026 Prop Firm Deals, Discount Codes & Coupons – Updated Roundup |  | Ended | - | https://propfirmdiscount.com/monthly-roundups/august-2026-prop-firm-deals/ |

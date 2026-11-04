@@ -1,11 +1,11 @@
 # Forexive Discount Code
 
-The verified Forexive discount code is **WHCTXQHRIG** — Up to 10% off, works any time.
+The verified Forexive discount code is **WHCTXQHRIG** — Up to 30% off, works any time.
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 
 - Code: WHCTXQHRIG
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-14
 - Trustpilot: 3.7/5 (114 reviews)

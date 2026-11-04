@@ -312,24 +312,24 @@
     {
         "prop_firm": "QT Funded",
         "code": "PFD",
-        "discount": "50%",
+        "discount": "60%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13027,
-            "title": "50% Off Halloween Entry With Second Account Free",
+            "deal_id": 13145,
+            "title": "60% Off All Accounts - Free Same-Size Account",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "60%",
             "scope": [
-                "Challenge Purchases, Second Account Same Size"
+                "All Accounts, Qt One, Qt Two, Qt Instant, Qt Power, $5K Accounts"
             ],
-            "date_published": "2026-10-26",
-            "date_exp": "2026-11-01 00:00 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/"
+            "date_published": "2026-11-04",
+            "date_exp": "2026-11-08",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/"
         },
         "deal_count": {
-            "total": 60,
-            "this_year": 37,
+            "total": 61,
+            "this_year": 38,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/qtfunded",
@@ -405,24 +405,24 @@
     {
         "prop_firm": "Blue Guardian",
         "code": "PFD",
-        "discount": "25%",
+        "discount": "30%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12941,
-            "title": "Reserve accounts cut by 25% with promo code",
+            "deal_id": 13135,
+            "title": "30% Off CFD and Futures Accounts - From $54",
             "offer_type": "coupon",
-            "discount_value": "25%",
+            "discount_value": "30%",
             "scope": [
-                "Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion"
+                "Cfd Accounts, Futures Accounts, Futures From $54, Reserve Plan, Cfd Bundles"
             ],
-            "date_published": "2026-10-20",
+            "date_published": "2026-11-04",
             "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/"
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/"
         },
         "deal_count": {
-            "total": 30,
-            "this_year": 20,
+            "total": 31,
+            "this_year": 21,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/blueguardian",
@@ -715,24 +715,24 @@
     {
         "prop_firm": "Funded Hero",
         "code": "PFD",
-        "discount": "62%",
+        "discount": "60%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13053,
-            "title": "70% Off $100K Villain Challenge for Halloween",
+            "deal_id": 13136,
+            "title": "60% Off Instant Elite and Every Challenge",
             "offer_type": "coupon",
-            "discount_value": "70%",
+            "discount_value": "60%",
             "scope": [
-                "All Challenges, 3-Step Villain, $100K Account"
+                "Instant Elite, $100K Account, All Challenges, Instant Accounts"
             ],
-            "date_published": "2026-10-27",
-            "date_exp": "2026-10-31 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/"
+            "date_published": "2026-11-04",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/"
         },
         "deal_count": {
-            "total": 46,
-            "this_year": 43,
+            "total": 47,
+            "this_year": 44,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedhero",
@@ -901,7 +901,7 @@
     {
         "prop_firm": "Forexive",
         "code": "WHCTXQHRIG",
-        "discount": "10%",
+        "discount": "30%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 12902,
@@ -1087,7 +1087,7 @@
     {
         "prop_firm": "HyroTrader",
         "code": "PFD",
-        "discount": "5%",
+        "discount": "10%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 13018,
@@ -1149,24 +1149,24 @@
     {
         "prop_firm": "Phoenix Trader Funding",
         "code": "PFD",
-        "discount": "20%",
+        "discount": "40%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12911,
-            "title": "40% Off Daily Seed Challenge Pricing",
+            "deal_id": 13132,
+            "title": "25K Daily Starter at $119.40 - 40% Off on TFeed",
             "offer_type": "coupon",
             "discount_value": "40%",
             "scope": [
-                "Daily Seed"
+                "Daily Starter, 25K Account, Tfeed"
             ],
-            "date_published": "2026-10-15",
-            "date_exp": "2026-10-31 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/"
+            "date_published": "2026-11-04",
+            "date_exp": "2026-11-18 17:59",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/"
         },
         "deal_count": {
-            "total": 22,
-            "this_year": 21,
+            "total": 24,
+            "this_year": 23,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/phoenixtraderfunding",
@@ -1183,21 +1183,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13112,
-            "title": "$4 activation account in November",
-            "offer_type": "deal",
-            "discount_value": "Only $4",
+            "deal_id": 13146,
+            "title": "35% Off All Accounts - Ends 9 November",
+            "offer_type": "coupon",
+            "discount_value": "35%",
             "scope": [
-                "Activation Accounts, $25K To $100K, On Mt5 Or Match-Trader"
+                "All Accounts, Instant Funding, Challenge Accounts, All Account Sizes"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "Limited time",
+            "date_published": "2026-11-04",
+            "date_exp": "2026-11-09",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/"
         },
         "deal_count": {
-            "total": 59,
-            "this_year": 40,
+            "total": 60,
+            "this_year": 41,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
