@@ -1,13 +1,15 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-02, the biggest offers this month: 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, 50% OFF with code NOFEE50 at Take Profit Trader, 50% OFF with code BLACK50 at Hola Prime, and 45% OFF with code BLACKIC45 at IC Funded.
+As of 2026-11-02, the biggest offers this month: 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, 50% OFF with code NOFEE50 at Take Profit Trader, 50% OFF with code BLACK50 at Hola Prime, and 45% OFF with code DIWALI45 at Funding Your Trades.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-29 | PipFarm | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
 | 2026-10-29 | Ment Funding | Ment Funding 30% Off Halloween Challenge Entry Cost | 30% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/ |
 | 2026-10-29 | WeMasterTrade | WeMasterTrade Halloween 36% Off All Packages Deal | 36% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
-| 2026-10-29 | FTUK | FTUK Halloween 35% Off Flex Funded Activation Fee | 35% OFF | 2026-10-30 19:59 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/ |
-| 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |

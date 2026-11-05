@@ -22,6 +22,7 @@ As of 2026-11-05, the biggest Instant Funding offers this month: 40% OFF with co
 - Offer: 40% Off
 - Code: LIGHT40
 - Scope: Lite accounts, Instant Funding Lite, IF Micro Lite, One-Phase Lite
+- Event: Diwali
 - Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
 
 ## Instant Funding deal FAQ
@@ -48,7 +49,7 @@ It may suit a buyer who had already chosen a Lite account and was comparing upfr
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-04 - [Instant Funding 40% Off All Lite Accounts - Diwali Offer](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) (40% Off)
+- 2026-11-04 - [Instant Funding 40% Off All Lite Accounts - Diwali Offer](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) (40% Off) — Diwali
 - 2026-11-02 - [Instant Funding 30% Off Everything Plus Add-Ons](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/) (30% Off) — Halloween — ended 2026-11-03
 - 2026-11-02 - [Instant Funding 40% Off IF Pro and IF Lite](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/) (40% Off) — Halloween — ended 2026-11-03
 - 2026-10-26 - [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) (30% Off) — Halloween — ended 2026-11-01

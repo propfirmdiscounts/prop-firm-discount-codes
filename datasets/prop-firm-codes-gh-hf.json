@@ -156,8 +156,8 @@
     },
     {
         "prop_firm": "Instant Funding",
-        "code": "AFFVOYAGE61",
-        "discount": "10%",
+        "code": "PFD",
+        "discount": "20%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 13149,
@@ -169,7 +169,7 @@
             ],
             "date_published": "2026-11-04",
             "date_exp": "2026-11-09 18:59",
-            "event": null,
+            "event": "Diwali",
             "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/"
         },
         "deal_count": {
@@ -687,21 +687,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13106,
-            "title": "20% off activation fee in November",
+            "deal_id": 13107,
+            "title": "30% off Atom accounts in November",
             "offer_type": "coupon",
-            "discount_value": "20%",
+            "discount_value": "30%",
             "scope": [
-                "The Activation Fee For Flash Activation Accounts"
+                "Atom Accounts"
             ],
-            "date_published": "2026-11-04",
+            "date_published": "2026-11-05",
             "date_exp": "2026-11-22 18:59",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/"
         },
         "deal_count": {
-            "total": 39,
-            "this_year": 30,
+            "total": 40,
+            "this_year": 31,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedelite",
@@ -1028,21 +1028,21 @@
         "discount": "50%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13035,
-            "title": "50% off Fast Funding and Evaluation, 40% off Instant",
+            "deal_id": 13162,
+            "title": "100K 2-Step Evaluation for Only $99",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "$99",
             "scope": [
-                "Instant Accounts, Fast Funding Accounts, Evaluation Accounts"
+                "The $100K 2-Step Evaluation Account"
             ],
-            "date_published": "2026-10-26",
+            "date_published": "2026-11-05",
             "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/"
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/"
         },
         "deal_count": {
-            "total": 9,
-            "this_year": 4,
+            "total": 10,
+            "this_year": 5,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/directfundedtrader",
@@ -1180,7 +1180,7 @@
     {
         "prop_firm": "Funded Trading Plus",
         "code": "PFD",
-        "discount": "10%",
+        "discount": "20%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 13146,
@@ -1400,21 +1400,21 @@
         "discount": "2%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13010,
-            "title": "45% Off Halloween Challenges With BOGO Instantly",
+            "deal_id": 13163,
+            "title": "Diwali 45% Off + Buy 1 Get 3 Accounts",
             "offer_type": "coupon",
             "discount_value": "45%",
             "scope": [
-                "Halloween Promotion, Bogo Instantly, First Reward In 24 Hours, Free Evaluation Reset, Reward Split, Cashback, Daily Drawdown Option, Reward Points"
+                "Challenges - Buy 1, Trade 3 Accounts"
             ],
-            "date_published": "2026-10-22",
-            "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/"
+            "date_published": "2026-11-05",
+            "date_exp": "2026-11-12",
+            "event": "Diwali",
+            "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/"
         },
         "deal_count": {
-            "total": 41,
-            "this_year": 28,
+            "total": 42,
+            "this_year": 29,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundingyourtrades",

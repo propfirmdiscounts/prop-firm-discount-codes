@@ -7,51 +7,48 @@ The verified Funding Your Trades discount code is **PFD** — Up to 2% off, work
 - Code: PFD
 - Discount: Up to 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-22
+- Last deal published: 2026-11-05
 - Trustpilot: 3.1/5 (127 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingyourtrades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-05, the biggest Funding Your Trades offers this month: 45% OFF with code FYTWEEN and 40% OFF with code NEWDASH.
+As of 2026-11-05, the biggest Funding Your Trades offers this month: 45% OFF with code DIWALI45, 45% OFF with code FYTWEEN, and 40% OFF with code NEWDASH.
 
-## Current deal: Funding Your Trades 45% Off Halloween Challenges Plus BOGO
+## Current deal: Funding Your Trades Diwali 45% Off + Buy 1 Get 3
 
-- Published: 2026-10-22
-- Offer ends: Limited time
+- Published: 2026-11-05
+- Offer ends: 2026-11-12
 - Offer: 45% Off
-- Code: FYTWEEN
-- Scope: Halloween promotion, BOGO Instantly, first reward in 24 hours, free evaluation reset, reward split, cashback, daily drawdown option, reward points
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/
+- Code: DIWALI45
+- Scope: Challenges - buy 1, trade 3 accounts
+- Event: Diwali
+- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/
 
 ## Funding Your Trades deal FAQ
 
-**What discount does Funding Your Trades offer in this promotion?**
+**What does the Funding Your Trades Diwali promotion include?**
 
-Funding Your Trades offers 45% off under the Haunted Vault Halloween promotion. The offer also includes BOGO Instantly plus a choice of any 2 of 6 treats.
+It includes 45% off plus a buy 1 get 3 structure. The buyer pays for one challenge and receives two bonus accounts, so three accounts are available to trade.
 
-**Which treats can buyers pick at Funding Your Trades?**
+**How long does the Funding Your Trades Diwali offer run?**
 
-The six options are First Reward in 24 Hours; 1 Free Evaluation Reset / Retry; 100% Reward Split; 6% Instant FYT Cashback; Turn Off Daily Drawdown; 500 FYT Reward Points. Each purchase includes a choice of any 2 from that list.
+It runs for 7 days only, ending 12 November. After that window the three-account structure and the 45% rate are no longer part of this promotion.
 
-**Does the discount change trading risk at Funding Your Trades?**
+**Are the Funding Your Trades bonus accounts added straight away?**
 
-No. The 45% cut lowers the purchase cost only and does not reduce trading risk. Apart from a treat a buyer selects from the six named options the promotion does not state any other change to trading rules.
+Yes. The two bonus accounts are added instantly with the purchase, rather than after a pass or a payout milestone.
 
-**Who may this Funding Your Trades promotion suit?**
+**Does the Funding Your Trades discount change challenge rules?**
 
-It may suit buyers who had already planned a purchase and want to pay 45% less plus receive a second evaluation account at no extra cost. It may also suit buyers who can pick 2 relevant treats before they pay.
+No. The promotion lowers the purchase price only. Challenge rules and drawdown limits stay as set and trading risk is not reduced on any of the three accounts.
 
-**Is there an end date for the Funding Your Trades Haunted Vault offer?**
+**Who may this Funding Your Trades structure suit?**
 
-No end date is stated for this Halloween promotion. Buyers should check the full terms on the official site before completing a purchase.
-
-**What does BOGO Instantly mean in this promotion?**
-
-It is a purchase entitlement for a second evaluation account at no additional cost on the same purchase. The promotion does not describe how that second account should be used.
+It may suit a buyer who had already planned to run more than one challenge account. A buyer treating it as a Diwali-season purchase should keep the cost inside a comfortable festive budget.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-05 - [Funding Your Trades Diwali 45% Off + Buy 1 Get 3](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/) (45% Off) — Diwali
 - 2026-10-22 - [Funding Your Trades 45% Off Halloween Challenges Plus BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) (45% Off) — Halloween
 - 2026-10-13 - [Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/) (40% Off) — ended 2026-10-20

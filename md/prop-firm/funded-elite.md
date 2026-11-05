@@ -5,7 +5,7 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 - Code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-04
+- Last deal published: 2026-11-05
 - Trustpilot: 4.1/5 (747 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedelite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
@@ -13,28 +13,28 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 
 As of 2026-11-05, the biggest Funded Elite offers this month: 55% OFF with code ELITE55, 50% OFF with code PACKS, 47% OFF with code ATOM, 40% OFF with code NOV40, and 40% OFF with code SPOOKY.
 
-## Current deal: Funded Elite 20% Off Activation Fee
+## Current deal: Funded Elite 30% Off Atom Accounts
 
-- Published: 2026-11-04
+- Published: 2026-11-05
 - Offer ends: 2026-11-22 18:59
-- Offer: 20% Off
-- Code: ACT20
-- Scope: The activation fee for Flash Activation accounts
-- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/
+- Offer: 30% Off
+- Code: ATOM30
+- Scope: Atom accounts
+- Deal page: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
 
 ## Funded Elite deal FAQ
 
-**What does Funded Elite offer on the activation fee?**
+**What does Funded Elite offer on Atom accounts?**
 
-It cuts 20% off the activation fee in November, with a free Whale Pack. The cut lowers the cost due after passing.
+It cuts 30% off Atom accounts in November, with no minimum trading days, no minimum profitable days and no time limit. The cut lowers the upfront entry cost.
 
 **When does this Funded Elite offer end?**
 
-It ends November 22 at 6:59 PM EST, from the stated 23:59 UTC deadline. Every fee in scope is discounted until then.
+It ends November 22 at 6:59 PM EST, from the stated 23:59 UTC deadline. Every Atom account is discounted until then.
 
-**How does Flash Activation work with this Funded Elite offer?**
+**What bonus comes with an Atom Max Bundle in this Funded Elite offer?**
 
-A buyer starts for just $5, paying the remaining activation fee after passing. The offer saves 20% on that fee.
+Buying an Atom Max Bundle adds a free Whale Pack and 6,000 credits, on top of the 30% cut. The bonus requires an Atom Max Bundle purchase.
 
 **What stays the same with this Funded Elite offer?**
 
@@ -46,6 +46,7 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-05 - [Funded Elite 30% Off Atom Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/) (30% Off)
 - 2026-11-04 - [Funded Elite 20% Off Activation Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/) (20% Off)
 - 2026-11-03 - [Funded Elite November 55% Off Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/) (55% Off)
 - 2026-11-02 - [Funded Elite 40% Off Five Account Types](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/) (40% Off)

@@ -1,11 +1,13 @@
 # Diwali Prop Firm Deals (2026)
 
-As of 2025-10-20, the biggest offers: 50% OFF with code PRO50 at ATFunded, 50% OFF with code PFD at QT Funded, 50% OFF with code DIWALI50 at Goat Funded Trader, 50% OFF with code HAPPYDIWALI at Earnex Prime, and 40% OFF with code DIWALI at PipFarm.
+As of 2025-10-20, the biggest offers: 50% OFF with code PRO50 at ATFunded, 50% OFF with code PFD at QT Funded, 50% OFF with code DIWALI50 at Goat Funded Trader, 45% OFF with code DIWALI45 at Funding Your Trades, and 40% OFF with code LIGHT40 at Instant Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2025-10-22 |  | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |
 | 2025-10-20 | PipFarm | PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-diwali-40-off-all-accounts-24-hours-unlimited-uses/ |
 | 2025-10-20 | QT Funded | QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 | 30% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-futures-diwali-30-off-bogo-payout-instant-1-step-ends-oct-22/ |

@@ -19,7 +19,7 @@ As of 2026-11-05, the biggest prop firm offers this month: 80% OFF with code PFD
 | 7 | Doji Funding | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 8 | FundYourFX | NOVEMBER60 | 60% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 9 | SFX Funded | BF55 | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 10 | Funding Traders | PFD | 50% | Ended Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 10 | Direct Funded Trader | PFD | 50% | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
@@ -33,10 +33,10 @@ As of 2026-11-05, the biggest verified prop firm discount codes are 80% OFF with
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | 5 | Atlas Funded | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Blue Guardian | PFD | 30% | Lifetime | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 8 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 7 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 8 | Funded Trading Plus | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 9 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 10 | Funded Trading Plus | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 10 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 
 ## Current deals (newest first)
 
@@ -44,6 +44,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
+| 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% Off | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
+| 2026-11-05 | Direct Funded Trader | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% Off | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-05 | Plutus Trade Base | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% Off | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% Off | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
@@ -71,6 +74,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
 | 2026-11-02 | BrightFunded | BrightFunded 50% Off BrightPlus BrightCore | 50% Off | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/ |
 | 2026-11-02 | CK PropFirm | CK PropFirm 75% Off All Challenge Accounts | 75% Off | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |
-| 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% Off | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
-| 2026-11-02 | Doji Funding | Doji Funding Election Day 60% Off Challenges | 60% Off | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/ |
-| 2026-11-02 | Traders Launch | Traders Launch Mystery Discount Account | Mystery discount | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |
