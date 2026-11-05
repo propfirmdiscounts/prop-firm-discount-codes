@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-17 | Funding Traders | FundingTraders Black Friday Finale — 50% OFF Pro & Instant (Novice Excluded) | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-finale-50-off-pro-instant-novice-excluded/ |
 | 2025-11-17 | FundedSquad | FundedSquad Black Friday — 50% OFF + Buy 1 Get 2 Free (25k+) + 200% Refundable Fees | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-50-off-b1g2-200-percent-refund-ends-dec-8/ |
 | 2025-11-17 | FTUK | FTUK Early Black Friday — 50% OFF All Forex & Futures Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-50-off-all-forex-futures-accounts/ |
-| 2025-11-17 | Equity Edge | Equity Edge Early Black Friday — 50% OFF + Free Instant Account | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-early-black-friday-50-off-free-instant-account/ |

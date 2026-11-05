@@ -160,21 +160,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13091,
-            "title": "30% off everything plus add-ons in November",
+            "deal_id": 13149,
+            "title": "40% Off All Lite Accounts - Ends 9 November",
             "offer_type": "coupon",
-            "discount_value": "30%",
+            "discount_value": "40%",
             "scope": [
-                "Every Account"
+                "Lite Accounts, Instant Funding Lite, If Micro Lite, One-Phase Lite"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "2026-11-03 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/"
+            "date_published": "2026-11-04",
+            "date_exp": "2026-11-09 18:59",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/"
         },
         "deal_count": {
-            "total": 35,
-            "this_year": 29,
+            "total": 36,
+            "this_year": 30,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/instantfunding",
@@ -687,21 +687,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13105,
-            "title": "55% off Instant Elite accounts in November",
+            "deal_id": 13106,
+            "title": "20% off activation fee in November",
             "offer_type": "coupon",
-            "discount_value": "55%",
+            "discount_value": "20%",
             "scope": [
-                "$300K And $400K Instant Elite Accounts"
+                "The Activation Fee For Flash Activation Accounts"
             ],
-            "date_published": "2026-11-03",
+            "date_published": "2026-11-04",
             "date_exp": "2026-11-22 18:59",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/"
         },
         "deal_count": {
-            "total": 38,
-            "this_year": 29,
+            "total": 39,
+            "this_year": 30,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedelite",

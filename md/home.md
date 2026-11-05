@@ -44,6 +44,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% Off | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% Off | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
+| 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
 | 2026-11-04 | AudaCity Capital | AudaCity Capital 20% Off Ability One and FTP Instant Funding | 20% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/ |
 | 2026-11-04 | WSFunded | WSFunded 40% Off All Challenges Plus 300% Refund Offer | 40% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/ |
 | 2026-11-04 | Funded Trading Plus | Funded Trading Plus 35% Off All Accounts Until 9 November | 35% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/ |
@@ -71,6 +74,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Traders Launch | Traders Launch Mystery Discount Account | Mystery discount | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% Off | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
-| 2026-11-02 | Goat Funded Trader | Goat Funded Trader 40% Off Plus Buy One Get One Free | 40% Off | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/ |
-| 2026-11-02 | Alpha Futures | Alpha Futures 40% Off Zero Plan | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/ |
-| 2026-11-02 | FTUK | FTUK $1 to Start Challenge, 1% Target | $1 to start | - | https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/ |

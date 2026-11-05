@@ -1,11 +1,14 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-04, the biggest offers this month: 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Funded Hero, 50% OFF with code ALPHA50 at Alpha Futures, 40% OFF with code BIGLIVE at WSFunded, and 40% OFF with code MENTMAX at Ment Funding.
+As of 2026-11-04, the biggest offers this month: 60% OFF with code PFD at QT Funded, 60% OFF with code PFD at Funded Hero, 45% OFF with code BLACKIC45 at IC Funded, 40% OFF with code LIGHT40 at Instant Funding, and 40% OFF with code BIGLIVE at WSFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
+| 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
 | 2026-11-04 | AudaCity Capital | AudaCity Capital 20% Off Ability One and FTP Instant Funding | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/ |
 | 2026-11-04 | WSFunded | WSFunded 40% Off All Challenges Plus 300% Refund Offer | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/ |
 | 2026-11-04 | Funded Trading Plus | Funded Trading Plus 35% Off All Accounts Until 9 November | 35% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Doji Funding | Doji Funding Election Day 60% Off Challenges | 60% OFF | 2026-11-08 | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/ |
 | 2026-11-02 | Traders Launch | Traders Launch Mystery Discount Account | Mystery discount | 2026-11-09 23:59 | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
-| 2026-11-02 | Goat Funded Trader | Goat Funded Trader 40% Off Plus Buy One Get One Free | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/ |
-| 2026-11-02 | Alpha Futures | Alpha Futures 40% Off Zero Plan | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/ |
-| 2026-11-02 | FTUK | FTUK $1 to Start Challenge, 1% Target | $1 to start | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/ |
