@@ -5,11 +5,11 @@ The newest BrightFunded discount code is **BRIGHTFUTURES** — 50% off (November
 > Welcome to BrightFunded, a leading prop trading firm that is revolutionizing the way traders engage in financial markets through the likes of Trade2Earn. Become a funded trader up to $400,000 USD and be rewarded instantly along the way.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 3.2/5 (576 reviews)
+- Trustpilot: 3.1/5 (576 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 
-As of 2026-11-04, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 40% OFF with code WEEKEND, 30% OFF with code HW30, and 25% OFF with code DOUBLE25.
+As of 2026-11-05, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 40% OFF with code WEEKEND, 30% OFF with code HW30, and 25% OFF with code DOUBLE25.
 
 ## Current deal: BrightFunded 50% Off BrightPlus BrightCore
 

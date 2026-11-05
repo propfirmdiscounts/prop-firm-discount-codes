@@ -4,4 +4,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | - | https://propfirmdiscount.com/easter-2026-prop-firm-coupon-codes/ |
+| 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/easter-2026-prop-firm-coupon-codes/ |

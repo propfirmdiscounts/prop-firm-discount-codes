@@ -1,49 +1,49 @@
 # Plutus Trade Base Discount Code
 
-The newest Plutus Trade Base discount code is **SPOOKY** — 66% off (October 24, 2026). The campaign code changes with each promotion; newest first below.
+The newest Plutus Trade Base discount code is **PASS50** — 50% off (November 5, 2026). The campaign code changes with each promotion; newest first below.
 
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
-- Last deal published: 2026-10-24
-- Trustpilot: 3.6/5 (1180 reviews)
+- Last deal published: 2026-11-05
+- Trustpilot: 3.6/5 (1182 reviews)
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 
-As of 2026-11-04, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY and 50% OFF with code PASS50.
+As of 2026-11-05, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY, 50% OFF with code PASS50, and 50% OFF with code PASS50.
 
-## Current deal: Plutus Trade Base 66% Off Halloween Challenges
+## Current deal: Plutus Trade Base 50% Off the Freedom Plan Challenge
 
-- Published: 2026-10-24
+- Published: 2026-11-05
 - Offer ends: Limited time
-- Offer: 66% Off
-- Code: SPOOKY
-- Scope: Lightning, Freedom, any challenge, any size, sitewide, every plan
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/
+- Offer: 50% Off
+- Code: PASS50
+- Scope: Freedom Plan, Freedom Challenge, 1-step evaluation
+- Deal page: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/
 
 ## Plutus Trade Base deal FAQ
 
-**What discount does Plutus Trade Base offer in this promotion?**
+**What discount does Plutus Trade Base offer on the Freedom Plan?**
 
-It cuts 66% off the next challenge. The cut applies to any challenge and any size in Lightning or Freedom.
+Plutus Trade Base offers 50% off the Freedom Plan. The rate applies to that single plan rather than across every challenge the firm sells.
 
-**Which challenges does the 66% cut cover?**
+**What are the Plutus Trade Base Freedom Plan terms?**
 
-It covers any challenge, any size, in Lightning or Freedom. It applies sitewide across every plan.
+The stated terms are one step, a 5% profit target, no time limit and no minimum trading days. The plan is passed whenever the trader passes it.
 
-**What stays unchanged under this Plutus Trade Base promotion?**
+**What withdrawal terms are stated for the Plutus Trade Base Freedom Plan?**
 
-Trading rules, drawdown limits and evaluation criteria stay unchanged. The promotion lowers the purchase price only and it does not reduce trading risk.
+From the moment a trader is funded, withdrawals are available on day one. They are stated as auto-approved and in the trader's account within 24 hours.
 
-**How long does this Plutus Trade Base offer last?**
+**Does the Plutus Trade Base discount change the Freedom Plan rules?**
 
-The promotion is live for a limited time. No calendar end date is stated for it.
+No. The promotion lowers the purchase price only. Trading rules and drawdown limits stay as set and trading risk is not reduced.
 
-**Who may find this Plutus Trade Base pricing relevant?**
+**Who may this Plutus Trade Base pricing suit?**
 
-It may suit a buyer who already planned a Lightning or Freedom challenge at a chosen size. Caution applies if the size or model is still undecided.
+It may suit a buyer who had already chosen the Freedom Plan and was comparing its purchase price. A buyer expecting the lower price to make the 5% target easier should be cautious because no plan term changes with the price.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-05 - [Plutus Trade Base 50% Off the Freedom Plan Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/) (50% Off)
 - 2026-10-24 - [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) (66% Off) — Halloween
 - 2026-10-04 - [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) (50% Off)

@@ -8,12 +8,12 @@ The verified Phoenix Trader Funding discount code is **PFD** — Up to 40% off, 
 - Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 4.5/5 (261 reviews)
+- Trustpilot: 4.5/5 (263 reviews)
 - Activate: https://propfirmdiscount.com/go/phoenixtraderfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-04, the biggest Phoenix Trader Funding offers this month: 40% OFF with code CUP40, 40% OFF with code HALLOWEEN40, 40% OFF with code DAILY40, 30% OFF with code CUP30, and 30% OFF with code HALLOWEEN30.
+As of 2026-11-05, the biggest Phoenix Trader Funding offers this month: 40% OFF with code CUP40, 40% OFF with code HALLOWEEN40, 40% OFF with code DAILY40, 30% OFF with code CUP30, and 30% OFF with code HALLOWEEN30.
 
 ## Current deal: Phoenix Trader Funding 40% Off 25K Daily Starter - $119.40
 

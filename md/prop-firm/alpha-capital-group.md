@@ -5,11 +5,11 @@ The newest Alpha Capital Group discount code is **10KFOR40** — $40 (November 2
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 4.5/5 (22037 reviews)
+- Trustpilot: 4.5/5 (22078 reviews)
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
-As of 2026-11-04, the biggest Alpha Capital Group offers this month: 40% OFF with code FUNDED40 and 20% OFF with code ALPHA20.
+As of 2026-11-05, the biggest Alpha Capital Group offers this month: 40% OFF with code FUNDED40 and 20% OFF with code ALPHA20.
 
 ## Current deal: Alpha Capital Group $10K Evaluation for $40 in November
 

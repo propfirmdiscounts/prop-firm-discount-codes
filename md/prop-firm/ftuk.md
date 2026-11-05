@@ -5,11 +5,11 @@ The newest FTUK discount code is **INSTANT35** — 35% off (November 3, 2026). T
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
 - Last deal published: 2026-11-03
-- Trustpilot: 3.8/5 (791 reviews)
+- Trustpilot: 3.8/5 (796 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-04, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
+As of 2026-11-05, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
 
 ## Current deal: FTUK 35% Off Instant Funding + 20% Payout Boost
 

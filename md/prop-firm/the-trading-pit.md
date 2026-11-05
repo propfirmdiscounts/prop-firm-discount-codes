@@ -5,11 +5,11 @@ No live discount code for The Trading Pit right now — newest deals and offers 
 > Welcome to The Trading Pit, a prop trading firm where your trading skills meet unparalleled opportunities. We offer a unique challenge-based evaluation process in a simulated trading environment, allowing you to demonstrate your trading expertise. Successfully passing our challenge unlocks access to trade with substantial simulated capital, scaling up to hundreds of thousands of dollars of trading capital. Learn, be part of a great community and trade confidently futures or CFDs/ Forex. Join us to turn your trading potential into real profit. Founded in February 2022, The Trading Pit (TTP) is an award-winning prop trading firm headquartered in Liechtenstein. With a global presence, the firm boasts an operational office in Cyprus and a representative office in Spain.
 
 - Last deal published: 2026-10-30
-- Trustpilot: 3.8/5 (1085 reviews)
+- Trustpilot: 3.8/5 (1086 reviews)
 - Activate: https://propfirmdiscount.com/go/thetradingpit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 
-As of 2026-11-04, the biggest The Trading Pit offers this month: 50% OFF, 35% OFF with code OCT35, and 35% OFF with code OCT35.
+As of 2026-11-05, the biggest The Trading Pit offers this month: 50% OFF, 35% OFF with code OCT35, and 35% OFF with code OCT35.
 
 ## Most recent deal (ended): The Trading Pit Halloween 50% Off Challenges Flash Sale
 

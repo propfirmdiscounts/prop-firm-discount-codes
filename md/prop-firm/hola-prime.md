@@ -3,11 +3,11 @@
 The newest Hola Prime discount code is **BLACK50** — 50% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 4.5/5 (4137 reviews)
+- Trustpilot: 4.5/5 (4179 reviews)
 - Activate: https://propfirmdiscount.com/go/holaprime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
 
-As of 2026-11-04, the biggest Hola Prime offers this month: 50% OFF with code BLACK50, 50% OFF with code FLY50, 40% OFF with code SPOOKY40, and 20% OFF with code SPOOKY20.
+As of 2026-11-05, the biggest Hola Prime offers this month: 50% OFF with code BLACK50, 50% OFF with code FLY50, 40% OFF with code SPOOKY40, and 20% OFF with code SPOOKY20.
 
 ## Current deal: Hola Prime Black Friday 50% Off 2-Step Fly
 

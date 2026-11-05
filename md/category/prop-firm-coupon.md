@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
+| 2026-11-05 | Plutus Trade Base | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
@@ -245,11 +247,11 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-05 | Direct Funded Trader | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |
 | 2026-10-05 | E8 Markets | E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts | 50% OFF | 2026-10-25 (ended) | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/ |
 | 2026-10-05 | The Trading Pit | The Trading Pit: 35% Off All Products and Free $5,000 Account | 35% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/ |
-| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
-| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
-| 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
+| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding Buy 1 Get 1 Free October Entitlement | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/ |
+| 2026-10-04 | Sure Leverage Funding | Sure Leverage Funding 40% Off October Promotion | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october/ |
+| 2026-10-04 | Plutus Trade Base | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
 | 2026-10-04 | TradeDay | TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis | 60% OFF | 2026-10-10 (ended) | - | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/ |
-| 2026-10-04 | Top One Futures | Top One Futures: 60% Off Elite Daily & Instant Funding | 60% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |
+| 2026-10-04 | Top One Futures | Top One Futures: 60% Off Elite Daily & Instant Funding | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |
 | 2026-10-03 | WeMasterTrade | WeMasterTrade Flash Sale: 30% Off All Evaluation Packages | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/ |
 | 2026-10-03 | FXIFY | FXIFY 25% Off Evaluation Accounts | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/ |
 | 2026-10-02 | Finotive Futures | Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/ |

@@ -5,11 +5,11 @@ No live discount code for City Traders Imperium (CTI) right now — newest deals
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
 - Last deal published: 2026-10-26
-- Trustpilot: 4.3/5 (1636 reviews)
+- Trustpilot: 4.3/5 (1639 reviews)
 - Activate: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-As of 2026-11-04, the biggest City Traders Imperium (CTI) offers this month: 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
+As of 2026-11-05, the biggest City Traders Imperium (CTI) offers this month: 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
 
 ## Most recent deal (ended): City Traders Imperium (CTI) 15% Off Main Programs Halloween
 

@@ -1,13 +1,14 @@
 # Black Friday Prop Firm Deals (2026)
 
-As of 2026-09-21, the biggest offers: 90% OFF with code PFD at Upcomers, 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, and 55% OFF with code BF55 at SFX Funded.
+As of 2026-11-01, the biggest offers this month: 80% OFF with code BLACKFRIDAY at Top One Trader, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, 55% OFF with code BF55 at SFX Funded, and 50% OFF with code NOFEE50 at Take Profit Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
-| 2026-11-04 |  | Black Friday 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/black-friday-2026-prop-firm-coupon-codes/ |
+| 2026-11-04 |  | Black Friday 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/black-friday-2026-prop-firm-coupon-codes/ |
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | QT Funded | QT Funded Black Friday Last Chance: 55% OFF + Free Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-55-off-free-account/ |
 | 2025-11-28 | Dominion Funding | Dominion Funding Black Friday Sale: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-everything/ |
 | 2025-11-28 | Funding Your Trades | Funding Your Trades Black Friday Sale: 45% Off + Buy 1 Get 3 Deal | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-45-off-buy-1-get-3/ |
-| 2025-11-28 | BluSky Trading | BluSky Trading Black Friday Deal: 300K Static Plan for $100 | Only $100 | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-300k-static-plan-100/ |

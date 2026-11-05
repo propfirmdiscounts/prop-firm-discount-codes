@@ -11,7 +11,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-04-06 | Phidias Propfirm | Phidias Propfirm: 90% Off First Month and 60% Off Subsequent Months | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/ |
 | 2026-04-06 | Alpha Capital Group | Alpha Capital Group Easter Promotion: 30% Off All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-30-off-all-accounts-easter/ |
 | 2026-04-05 | Funding Your Trades | Funding Your Trades: 50% Off All Models and Buy 1 Get 2 Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/50-off-buy-1-get-2-all-models/ |
-| 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | - | https://propfirmdiscount.com/easter-2026-prop-firm-coupon-codes/ |
+| 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/easter-2026-prop-firm-coupon-codes/ |
 | 2026-04-05 | Blueberry Funded | Blueberry Funded: 40% Off All Prime Challenges | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-40-off-prime-challenges-2/ |
 | 2026-04-04 | CK PropFirm | CK Capital 70% Off Evaluation Accounts and Free Reset Easter Offer | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-easter-evaluation-discount/ |
 | 2026-04-04 | WeMasterTrade | WeMasterTrade: 30% Off All Packages Upfront Cost | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/ |

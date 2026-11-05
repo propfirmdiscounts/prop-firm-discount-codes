@@ -6,12 +6,12 @@ The verified FundedNext discount code is **PFDC** — Up to 20% off, works any t
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-01
-- Trustpilot: 4.5/5 (82860 reviews)
+- Trustpilot: 4.5/5 (83088 reviews)
 - Activate: https://propfirmdiscount.com/go/fundednext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-04, the biggest FundedNext offers this month: 41% OFF with code NOVSTR, 41% OFF with code FNTRICK, 32% OFF with code STRTN, and 30% OFF with code NOVINS.
+As of 2026-11-05, the biggest FundedNext offers this month: 41% OFF with code NOVSTR, 41% OFF with code FNTRICK, 32% OFF with code STRTN, and 30% OFF with code NOVINS.
 
 ## Current deal: FundedNext November 30% Off All Stellar Instant Accounts
 

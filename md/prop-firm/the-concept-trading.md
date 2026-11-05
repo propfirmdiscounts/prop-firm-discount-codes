@@ -3,11 +3,11 @@
 The newest The Concept Trading discount code is **BTB26** — 30% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 4.7/5 (471 reviews)
+- Trustpilot: 4.7/5 (470 reviews)
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 
-As of 2026-11-04, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code MAD26, and 30% OFF with code BTB26.
+As of 2026-11-05, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code MAD26, and 30% OFF with code BTB26.
 
 ## Current deal: The Concept Trading 30% Off Eligible Programs in November
 

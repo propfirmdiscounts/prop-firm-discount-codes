@@ -13,7 +13,7 @@ Instant Funding is offering 40% off — discount code **LIGHT40**.
 - Code: LIGHT40
 - Scope: Lite accounts, Instant Funding Lite, IF Micro Lite, One-Phase Lite
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
-- Verified standing exclusive code: AFFVOYAGE61 (works any time; the live rate is always on the firm page)
+- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -8,12 +8,12 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-31
-- Trustpilot: 3.2/5 (1075 reviews)
+- Trustpilot: 3.5/5 (1059 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-04, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code BOO50, and 50% OFF with code OCT50.
+As of 2026-11-05, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code BOO50, and 50% OFF with code OCT50.
 
 ## Most recent deal (ended): Finotive Funding 65% Off Every Account
 

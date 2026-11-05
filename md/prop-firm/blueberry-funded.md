@@ -5,11 +5,11 @@ No live discount code for Blueberry Funded right now — newest deals and offers
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
 - Last deal published: 2026-10-27
-- Trustpilot: 3.4/5 (1743 reviews)
+- Trustpilot: 3.4/5 (1752 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-As of 2026-11-04, the biggest Blueberry Funded offers this month: 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, 30% OFF with code CLASSIC, and 15% OFF with code SYN15.
+As of 2026-11-05, the biggest Blueberry Funded offers this month: 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, 30% OFF with code CLASSIC, and 15% OFF with code SYN15.
 
 ## Most recent deal (ended): Blueberry Funded Halloween 35% Off Prime Challenge
 
