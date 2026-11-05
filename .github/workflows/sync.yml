@@ -223,13 +223,13 @@ jobs:
           PY
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (propfirm/prop-firm-discount-codes): same content as
+        # HF dataset mirror (prop-firm/prop-firm-discount-codes): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
         # commit so HF never gets content that failed to land here first.
         # Skipped silently when HF_TOKEN is unset.
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_NAMESPACE: propfirm
+          HF_NAMESPACE: prop-firm
           REPO_NAME: prop-firm-discount-codes
         if: env.HF_TOKEN != ''
         run: |
@@ -280,17 +280,11 @@ jobs:
                         md, re.S)
           answer = m.group(1).strip() if m else ''
 
-          x = re.search(r'<!-- pfd-exclusive \(auto-updated each sync\) -->\n(.*?)'
-                        r'\n<!-- /pfd-exclusive -->', md, re.S)
-          table = ''
-          if x:
-              rows = [l for l in x.group(1).splitlines() if l.startswith('|')]
-              # Header + separator + the ten ranked firms.
-              table = '\n'.join(rows[:12]) + '\n'
+          # No code table on the HF card: codes live on the GitHub README only,
+          # so the Hub side stays a dated answer sentence plus links.
 
           body = (f"# Verified Prop Firm Discount Codes\n\n"
                   f"{answer}\n\n"
-                  + (f"{table}\n" if table else '')
                   + "Full directory, deal history and field reference: "
                     "https://github.com/propfirmdiscounts/prop-firm-discount-codes\n\n"
                     "Data: `datasets/prop-firm-codes-gh-hf.json` — one row per firm.\n\n"
