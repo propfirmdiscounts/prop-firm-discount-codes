@@ -6,6 +6,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
+| 2026-11-06 | Sure Leverage Funding | Sure Leverage Funding Flash Sale: 40% Off Your Next Account | 40% OFF | 2026-11-08 | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-flash-sale-40-off/ |
+| 2026-11-06 | FTUK | FTUK NFP Restart: 40% Off Your Next Instant Account | 40% OFF | 2026-11-07 | - | https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/ |
+| 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
 | 2026-11-06 | Finotive Funding | Finotive Funding Back to Roots Sale: 50% Off Everything | 50% OFF | 2026-11-10 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/ |
 | 2026-11-06 | AquaFunded | AquaFunded Honor Sale: 25% Off + 150% CFD Refund | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |

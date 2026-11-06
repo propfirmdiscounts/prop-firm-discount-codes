@@ -1,11 +1,12 @@
 # Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 55% OFF with code PFD at QT Funded, and 45% OFF with code DIWALI45 at Funding Your Trades.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 45% OFF with code DIWALI45 at Funding Your Trades, and 45% OFF with code 2YEARS at FundedSquad.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-17 | Dominion Funding | Dominion Funding 20% Off Everything Upfront Entry Cost – St. Patrick’s Day Offer | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/ |
 | 2026-03-17 | Funded Trading Plus | Funded Trading Plus 30% Off Up To $100k Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/ |
 | 2026-03-17 | FundingTraders | FundingTraders St. Patrick’s Day Promotion: 35% Off Evaluation Cost | 35% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-st-patricks-day-35-off/ |
-| 2026-03-17 | FunderPro | FunderPro: 25% Off $50K-$200K Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-25-percent-discount-50k-200k-challenges/ |

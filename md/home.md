@@ -15,15 +15,15 @@ As of 2026-11-06, the biggest prop firm offers this month: 90% OFF with code PFD
 | 3 | Top One Trader | BLACKFRIDAY | 80% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
 | 4 | RebelsFunding | 1STEP19 | 72% | Ended Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 5 | Alpha Funded | BIG70 | 70% | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
-| 6 | QT Funded | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 6 | QT Funded | PFD | 60% | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 7 | Funded Hero | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 8 | Doji Funding | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 9 | FundYourFX | NOVEMBER60 | 60% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 10 | SFX Funded | BF55 | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
+| 10 | FundedSquad | DIWALI | 55% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-As of 2026-11-06, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 40% OFF with code PFD at Atlas Funded.
+As of 2026-11-06, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -31,9 +31,9 @@ As of 2026-11-06, the biggest verified prop firm discount codes are 80% OFF with
 | 2 | FundedSeat | PFD | 65% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | 3 | Funded Hero | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | Atlas Funded | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | TX3 Funding | PFDC | 25% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 5 | TX3 Funding | PFDC | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 6 | Atlas Funded | PFD | 40% | Lifetime | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 7 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
 | 8 | Funded Trading Plus | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 9 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 10 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
@@ -44,6 +44,10 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% Off | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
+| 2026-11-06 | Sure Leverage Funding | Sure Leverage Funding Flash Sale: 40% Off Your Next Account | 40% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-flash-sale-40-off/ |
+| 2026-11-06 | FTUK | FTUK NFP Restart: 40% Off Your Next Instant Account | 40% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/ |
+| 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
 | 2026-11-06 | Finotive Funding | Finotive Funding Back to Roots Sale: 50% Off Everything | 50% Off | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/ |
 | 2026-11-06 | AquaFunded | AquaFunded Honor Sale: 25% Off + 150% CFD Refund | 25% Off | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% Off | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
@@ -70,7 +74,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-04 | Ment Funding | Ment Funding 40% Off All Evaluation Accounts Until Nov 30 | 40% Off | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-all-evaluation-accounts/ |
 | 2026-11-04 | Alpha Funded | Alpha Funded Free 100% Profit Split Add-On for Flex | Free Add-on | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/ |
 | 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 40% Off 25K Daily Starter – $119.40 | 40% Off | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/ |
-| 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 30% Off Classic Accounts on TFeed | 30% Off | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/ |
-| 2026-11-03 | Alpha Futures | Alpha Futures 50% Off Standard Direct Advanced | 50% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
-| 2026-11-03 | Alpha Funded | Alpha Funded 70% Off $300K+ Forex and Futures Flex | 70% Off | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/ |
-| 2026-11-03 | Funded Elite | Funded Elite November 55% Off Instant Elite Accounts | 55% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |

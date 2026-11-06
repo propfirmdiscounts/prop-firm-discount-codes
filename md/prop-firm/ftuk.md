@@ -1,49 +1,46 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **INSTANT35** — 35% off (November 3, 2026). The campaign code changes with each promotion; newest first below.
+The newest FTUK discount code is **NFP40** — 40% off (November 6, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-11-03
+- Last deal published: 2026-11-06
 - Trustpilot: 3.8/5 (796 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-06, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
+As of 2026-11-06, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
 
-## Current deal: FTUK 35% Off Instant Funding + 20% Payout Boost
+## Current deal: FTUK NFP Restart: 40% Off Your Next Instant Account
 
-- Published: 2026-11-03
-- Offer ends: Limited time
-- Offer: 35% Off
-- Code: INSTANT35
-- Scope: Instant Funding accounts
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/
+- Published: 2026-11-06
+- Offer ends: 2026-11-07
+- Offer: 40% Off
+- Code: NFP40
+- Scope: Next Instant account
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/
 
 ## FTUK deal FAQ
 
-**What discount does FTUK offer on Instant Funding accounts?**
+**What does the FTUK NFP restart offer include?**
 
-FTUK offers 35% off all Instant Funding accounts with a 20% payout boost on the same accounts. The two parts form one promotion on the same purchase.
+It includes 40% off your next Instant account, framed as a restart offer after the NFP release. The offer is open for 24 hours only.
 
-**How much is the FTUK payout boost in this promotion?**
+**Who is the FTUK restart offer aimed at?**
 
-The payout boost is 20% on the same Instant Funding accounts that receive the 35% discount. No other payout figure is stated for this promotion.
+It is aimed at traders whose account was caught by the NFP release, where a fill in the first seconds moved away from the intended price. The discount applies to the next Instant account.
 
-**Which FTUK accounts does this promotion cover?**
+**Does the FTUK discount change account rules?**
 
-It covers all Instant Funding accounts. The 35% discount and the 20% payout boost both apply to that full Instant Funding range.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The restarted account carries the same rules and market risk.
 
-**Does the FTUK promotion change trading rules or drawdown limits?**
+**Who may this FTUK offer suit?**
 
-No. The promotion affects purchase pricing only and the payout terms stated above. Trading rules and drawdown limits stay as set and trading risk is not reduced.
-
-**Who may this FTUK Instant Funding promotion suit?**
-
-It may suit a buyer who had already chosen Instant Funding and was comparing purchase prices across account sizes. A buyer who finds the account limits unsuitable at full price should be cautious because the discount changes none of them.
+It may suit a trader who had already decided to start another Instant account after a release-related breach. The 24-hour window means the purchase has to be completed quickly.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-06 - [FTUK NFP Restart: 40% Off Your Next Instant Account](https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/) (40% Off)
 - 2026-11-03 - [FTUK 35% Off Instant Funding + 20% Payout Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/) (35% Off)
 - 2026-11-02 - [FTUK $1 to Start Challenge, 1% Target](https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/) ($1 to start)
 - 2026-10-29 - [FTUK Halloween 35% Off Flex Funded Activation Fee](https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/) (35% Off) — Halloween — ended 2026-10-30 19:59

@@ -1,11 +1,14 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, and 50% OFF with code ROOTS50 at Finotive Funding.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 50% OFF with code ROOTS50 at Finotive Funding, and 40% OFF with code DIWALI40 at Alpha Capital Group.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
+| 2026-11-06 | Sure Leverage Funding | Sure Leverage Funding Flash Sale: 40% Off Your Next Account | 40% OFF | 2026-11-08 | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-flash-sale-40-off/ |
+| 2026-11-06 | FTUK | FTUK NFP Restart: 40% Off Your Next Instant Account | 40% OFF | 2026-11-07 | - | https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/ |
 | 2026-11-06 | Finotive Funding | Finotive Funding Back to Roots Sale: 50% Off Everything | 50% OFF | 2026-11-10 17:59 | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/ |
 | 2026-11-06 | AquaFunded | AquaFunded Honor Sale: 25% Off + 150% CFD Refund | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 40% Off 25K Daily Starter – $119.40 | 40% OFF | 2026-11-18 17:59 | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/ |
 | 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 30% Off Classic Accounts on TFeed | 30% OFF | 2026-11-18 17:59 | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/ |
 | 2026-11-03 | Alpha Futures | Alpha Futures 50% Off Standard Direct Advanced | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
-| 2026-11-03 | Alpha Funded | Alpha Funded 70% Off $300K+ Forex and Futures Flex | 70% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/ |
-| 2026-11-03 | Funded Elite | Funded Elite November 55% Off Instant Elite Accounts | 55% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |
-| 2026-11-03 | FunderPro | FunderPro 20% Off Classic and Instant Challenges | 20% OFF | 2026-11-08 18:59 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/ |

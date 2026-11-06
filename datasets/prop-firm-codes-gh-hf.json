@@ -219,7 +219,7 @@
     {
         "prop_firm": "TX3 Funding",
         "code": "PFDC",
-        "discount": "25%",
+        "discount": "50%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 13044,
@@ -904,21 +904,21 @@
         "discount": "30%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12902,
-            "title": "30% Off All Evaluation Accounts",
-            "offer_type": "coupon",
-            "discount_value": "30%",
+            "deal_id": 13176,
+            "title": "1-Step Access $5 Start Any Size",
+            "offer_type": "deal",
+            "discount_value": "$5",
             "scope": [
-                "All Challenges, All Account Sizes, Limited Time"
+                "1-Step Access Accounts, 5K To 200K"
             ],
-            "date_published": "2026-10-14",
+            "date_published": "2026-11-06",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/"
+            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/"
         },
         "deal_count": {
-            "total": 25,
-            "this_year": 8,
+            "total": 26,
+            "this_year": 9,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/forexive",

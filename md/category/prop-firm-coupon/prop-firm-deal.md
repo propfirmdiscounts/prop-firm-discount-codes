@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
 | 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale | 35% OFF | 2026-11-06 17:00 | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | Limited time | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-16 | Apex Trader Funding | Apex Trader Funding: $49 For 50K No-Activation Fee Accounts Plus 90% Off Other Evaluations | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-49-flat-50k-90-off/ |
 | 2026-07-14 | Fintokei | Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fintokei/fintokei-summer-30-off-protrader-5k/ |
 | 2026-07-10 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations & $59 PA Activations | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-59-pa/ |
-| 2026-07-04 | Lark Funding | Lark Funding $10,000 1-Step Challenge Pricing at $200 with 200K Raffle Ticket | Bonus Account | Ended | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-flash-deal/ |

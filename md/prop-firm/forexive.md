@@ -7,7 +7,7 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 30% off, works a
 - Code: WHCTXQHRIG
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-14
+- Last deal published: 2026-11-06
 - Trustpilot: 3.7/5 (113 reviews)
 - Activate: https://propfirmdiscount.com/go/forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
@@ -15,37 +15,33 @@ The verified Forexive discount code is **WHCTXQHRIG** — Up to 30% off, works a
 
 As of 2026-11-06, the biggest Forexive offers this month: 30% OFF with code GET30.
 
-## Current deal: Forexive 30% Off All Trading Challenges
+## Current deal: Forexive 1-Step Access: Start Any Size for $5
 
-- Published: 2026-10-14
+- Published: 2026-11-06
 - Offer ends: Limited time
-- Offer: 30% Off
-- Code: GET30
-- Scope: All challenges, all account sizes, limited time
-- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/
+- Offer: $5
+- Scope: 1-Step Access accounts, 5K to 200K
+- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
 
 ## Forexive deal FAQ
 
-**What discount does Forexive offer to celebrate its new chapter?**
+**How does the Forexive $5 start work?**
 
-Forexive offers a 30% discount on the initial purchase price for all evaluation challenges.
+The buyer pays $5 upfront on any 1-Step Access size from 5K to 200K and settles the remaining fee after passing. The amount of the remaining fee is not stated in the announcement.
 
-**Does this promotion change the trading rules at Forexive?**
+**What terms apply to Forexive 1-Step Access?**
 
-No, this limited-time offer only reduces the upfront entry fee. All drawdown limits, profit targets and trading rules remain completely unchanged.
+The stated terms are a 3% Phase 1 target, a 5% daily drawdown and a 10% maximum drawdown. The challenge is simulated and terms apply.
 
-**Which account sizes are eligible for the 30% discount?**
+**Does the Forexive $5 start change the challenge terms?**
 
-The 30% discount applies to every evaluation challenge account offered by Forexive.
+No. Only the upfront payment changes. The target and drawdown limits stay as set and trading risk is not reduced.
 
-**Is there an expiration date for this Forexive offer?**
+**Who may this Forexive deal suit?**
 
-The promotion is available for a limited time to celebrate their new chapter.
-
-**Who might benefit from this reduced entry fee?**
-
-This pricing structure may suit traders who are looking to secure their preferred evaluation account size at a lower upfront cost.
+It may suit a buyer who had already chosen a 1-Step Access size and was comparing upfront cost against the amount deferred. The full comparison depends on the remaining fee, which is not stated.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-06 - [Forexive 1-Step Access: Start Any Size for $5](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) ($5)
 - 2026-10-14 - [Forexive 30% Off All Trading Challenges](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) (30% Off)

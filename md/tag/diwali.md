@@ -1,11 +1,12 @@
 # Diwali Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 50% OFF with code PRO50 at ATFunded, and 45% OFF with code DIWALI45 at Funding Your Trades.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 45% OFF with code DIWALI45 at Funding Your Trades, and 40% OFF with code DIWALI40 at Alpha Capital Group.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
