@@ -7,52 +7,48 @@ The verified AquaFunded discount code is **PFD** — Up to 35% off, works any ti
 - Code: PFD
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-25
+- Last deal published: 2026-11-06
 - Trustpilot: 2.0/5 (1206 reviews)
 - Activate: https://propfirmdiscount.com/go/aquafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-06, the biggest AquaFunded offers this month: 35% OFF with code HALLOWEEN, 25% OFF with code SPOOKY, 25% OFF with code SPOOKY, and 25% OFF with code AUTUMN.
+As of 2026-11-06, the biggest AquaFunded offers this month: 35% OFF with code HALLOWEEN, 25% OFF with code HONOR, 25% OFF with code SPOOKY, 25% OFF with code SPOOKY, and 25% OFF with code AUTUMN.
 
-## Current deal: AquaFunded Halloween 35% Off All Accounts CFD Futures
+## Current deal: AquaFunded Honor Sale: 25% Off + 150% CFD Refund
 
-- Published: 2026-10-25
+- Published: 2026-11-06
 - Offer ends: Limited time
-- Offer: 35% Off
-- Code: HALLOWEEN
-- Scope: all models, all account sizes, CFD, Futures, 200% refund on CFD only
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/
+- Offer: 25% Off
+- Code: HONOR
+- Scope: Instant, One Step and Two Step accounts, $2.5K to $400K; 150% refund on CFD accounts
+- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/
 
 ## AquaFunded deal FAQ
 
-**What discount does AquaFunded offer in this promotion?**
+**What does the AquaFunded Honor Sale include?**
 
-This promotion cuts 35% off all accounts across CFD and Futures. It also adds a 200% refund on CFD accounts. The promotion affects purchase pricing only.
+It includes 25% off every Instant, One Step and Two Step account, across sizes from $2.5K to $400K. A 150% refund on CFD accounts is attached to the 4th payout.
 
-**Which accounts does the AquaFunded promotion cover?**
+**How does the AquaFunded 150% refund work?**
 
-It covers every model and every account size across CFD and Futures. No model or size in that range is left out of the 35% cut. The refund is narrower, as described in the next answer.
+The refund applies on CFD accounts and arrives with the 4th payout. It is separate from the 25% checkout saving and it depends on the account reaching that payout stage.
 
-**Does the 200% refund apply to Futures accounts?**
+**Does the AquaFunded discount change account rules?**
 
-No. The 200% refund applies to CFD accounts only. A Futures account receives the 35% cut without a refund element.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Trading risk is not reduced.
 
-**What does this promotion leave unchanged?**
+**What account sizes does the AquaFunded Honor Sale cover?**
 
-Trading rules, drawdown limits and risk parameters stay unchanged. A lower entry price does not lower market risk. The promotion changes what a buyer pays to start, not the trading terms that follow.
+Account sizes run from $2.5K to $400K across the Instant, One Step and Two Step models. The 25% rate applies across that range.
 
-**Does AquaFunded state an end date for this offer?**
+**Who may this AquaFunded stack suit?**
 
-No end date is stated in the promotion material. Buyers should therefore plan around the terms as written, without assuming a stated cutoff.
-
-**Who may find this AquaFunded pricing relevant?**
-
-It may suit a buyer who was already planning to buy an account in the covered range. It may suit a buyer who wants a lower upfront entry cost at purchase level. It does not suit a purchase decision that depends on a refund for a Futures account.
+It may suit a buyer who had already chosen an account model and was comparing entry prices. The refund component suits a CFD buyer who had already planned to hold the account through multiple payouts.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-06 - [AquaFunded Honor Sale: 25% Off + 150% CFD Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) (25% Off)
 - 2026-10-25 - [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) (35% Off) — Halloween
 - 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off) — Halloween — ended 2026-11-05
 - 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off) — Halloween — ended 2026-10-23

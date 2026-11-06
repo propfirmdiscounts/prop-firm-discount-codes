@@ -1,17 +1,19 @@
 # Prop Firm Deals & Limited-Time Offers Prop Firm Deals (2026)
 
-As of 2026-10-01, the biggest offers: 90% OFF at Apex Trader Funding, 75% OFF at CK PropFirm, 70% OFF at Top One Trader, 65% OFF at Top One Futures, and 60% OFF at Bitfunded.
+As of 2026-10-14, the biggest offers: 75% OFF at CK PropFirm, 70% OFF at Top One Trader, 65% OFF at Top One Futures, 60% OFF at Bitfunded, and 55% OFF at Bitfunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale | 35% OFF | 2026-11-06 17:00 | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | Limited time | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
 | 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |
 | 2026-10-30 | The Trading Pit | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
 | 2026-10-28 | Top One Trader | Top One Trader Halloween Up to 70% Off Sitewide | 70% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
+| 2026-10-28 | Trade The Pool | Trade The Pool Stocktober Sale: 20% Off All Accounts | 20% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
 | 2026-10-20 | Bitfunded | Bitfunded 60% Off Any Challenge Plus Instant Account Deal | 60% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Limited time | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
@@ -34,5 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-14 | Fintokei | Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fintokei/fintokei-summer-30-off-protrader-5k/ |
 | 2026-07-10 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations & $59 PA Activations | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-59-pa/ |
 | 2026-07-04 | Lark Funding | Lark Funding $10,000 1-Step Challenge Pricing at $200 with 200K Raffle Ticket | Bonus Account | Ended | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-flash-deal/ |
-| 2026-07-03 | Apex Trader Funding | Apex Trader Funding Independence Day Sale: 90% Off 5-Packs and Evaluations | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-independence-day-evaluations/ |
-| 2026-07-02 | My Funded Futures | My Funded Futures: 50% Off Rapid Accounts For First 1,000 Traders | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-50-off-rapid-independence-day/ |

@@ -1,11 +1,14 @@
 # Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-09-07, the biggest offers: 60% OFF with code PFD at FundingTraders, 55% OFF with code PFD at QT Funded, 45% OFF with code DIWALI45 at Funding Your Trades, 45% OFF with code 2YEARS at FundedSquad, and 40% OFF with code LIGHT40 at Instant Funding.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 55% OFF with code PFD at QT Funded, and 45% OFF with code DIWALI45 at Funding Your Trades.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
+| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
+| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
@@ -153,6 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-17 | Funded Trading Plus | Funded Trading Plus 30% Off Up To $100k Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/ |
 | 2026-03-17 | FundingTraders | FundingTraders St. Patrick’s Day Promotion: 35% Off Evaluation Cost | 35% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-st-patricks-day-35-off/ |
 | 2026-03-17 | FunderPro | FunderPro: 25% Off $50K-$200K Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-25-percent-discount-50k-200k-challenges/ |
-| 2026-03-17 | Funded Hero | Funded Hero 50% Off Evaluation Accounts and Giveaway Entry | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-giveaway-entry/ |
-| 2026-03-16 | AquaFutures | AquaFutures 60% Off All Accounts: Patrick’s Day Sale Structure | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-60-off-all-accounts-patricks-day/ |
-| 2026-03-16 | AquaFunded | AquaFunded: 50% Off Instant Funded, 40% Off Challenges and 150% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/ |

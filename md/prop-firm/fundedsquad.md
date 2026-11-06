@@ -1,53 +1,51 @@
 # FundedSquad Discount Code
 
-The newest FundedSquad discount code is **FLASH** — 50% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
+The newest FundedSquad discount code is **DIWALI** — 55% off (November 6, 2026). The campaign code changes with each promotion; newest first below.
 
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-06
 - Trustpilot: 1.9/5 (402 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-As of 2026-11-06, the biggest FundedSquad offers this month: 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
+As of 2026-11-06, the biggest FundedSquad offers this month: 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
 
-## Current deal: FundedSquad 50% Off All Models Plus BOGO
+## Current deal: FundedSquad Diwali 55% Off $25K and $50K Instant
 
-- Published: 2026-11-02
-- Offer ends: 2026-11-09 07:00
-- Offer: 50% Off
-- Code: FLASH
-- Scope: All models: Instant Flex, 1 Step Flex and 2 Step Flex
-- Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/
+- Published: 2026-11-06
+- Offer ends: 2026-11-10 07:00
+- Offer: 55% Off
+- Code: DIWALI
+- Scope: $25K and $50K Instant Lite and Instant Flex accounts, first 500 accounts
+- Event: Diwali
+- Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/
 
 ## FundedSquad deal FAQ
 
-**What does FundedSquad offer on all models?**
+**What does the FundedSquad Diwali promotion include?**
 
-It cuts 50% off all models in November, with Buy one get one of the same size, issued instantly. The cut lowers the upfront entry cost.
+It includes 55% off $25K and $50K accounts across the Instant models, Instant Lite and Instant Flex. It is valid till 10 November at 12 p.m. UK time and limited to the first 500 accounts.
 
-**When does this FundedSquad offer end?**
+**What are the FundedSquad sale prices for the Instant accounts?**
 
-It ends November 9 at 12pm UK time. The end time is stated in UK time.
+The $25K account is $215.55 instead of $479 on both Instant models, saving $263.45. The $50K account is $350.55 instead of $779, saving $428.45.
 
-**Which FundedSquad models are covered by this offer?**
+**Does the FundedSquad discount change Instant account rules?**
 
-Instant Flex, 1 Step Flex and 2 Step Flex are covered. All models get the same 50% cut.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Trading risk is not reduced.
 
-**What are the 100K prices with this FundedSquad offer?**
+**What limits apply to the FundedSquad Diwali offer?**
 
-100K Instant Flex is $649.50, 100K 1 Step Flex is $399.50 and 100K 2 Step Flex is $359.50. Each price is half the list price.
+Two limits apply together: the 10 November, 12 p.m. UK time deadline and the first 500 accounts. Either one can close the offer for a later buyer.
 
-**What stays the same with this FundedSquad offer?**
+**Who may these FundedSquad prices suit?**
 
-The model picked stays the same, with the benefit as price plus an instant second account, not a different model.
-
-**How do I get the FundedSquad discount code for this offer?**
-
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+They may suit a buyer who had already chosen an Instant account size and was comparing entry prices. A buyer treating it as a Diwali-season purchase should keep the cost inside a comfortable festive budget.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-06 - [FundedSquad Diwali 55% Off $25K and $50K Instant](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/) (55% Off) — Diwali
 - 2026-11-02 - [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) (50% Off)
 - 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off) — ended 2026-10-31
 - 2026-10-01 - [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) (40% Off) — ended 2026-10-15

@@ -1,11 +1,14 @@
 # Diwali Prop Firm Deals (2026)
 
-As of 2025-10-20, the biggest offers: 50% OFF with code PRO50 at ATFunded, 50% OFF with code PFD at QT Funded, 50% OFF with code DIWALI50 at Goat Funded Trader, 45% OFF with code DIWALI45 at Funding Your Trades, and 40% OFF with code LIGHT40 at Instant Funding.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 50% OFF with code PRO50 at ATFunded, and 45% OFF with code DIWALI45 at Funding Your Trades.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
+| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
+| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2025-10-22 |  | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |

@@ -7,21 +7,40 @@ The verified Trade The Pool discount code is **WWS4GW** — Up to 10% off, works
 - Code: WWS4GW
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-09-02
+- Last deal published: 2026-10-28
 - Trustpilot: 4.5/5 (956 reviews)
 - Activate: https://propfirmdiscount.com/go/tradethepool
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts
+As of 2026-11-06, the biggest Trade The Pool offers this month: 20% OFF.
 
-- Published: 2026-09-02
-- Offer ends: Ended
-- Offer: 15% Off
-- Scope: all accounts, all sizes, all models
-- Event: Labor Day
-- Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
+## Current deal: Trade The Pool Stocktober Sale: 20% Off All Accounts
+
+- Published: 2026-10-28
+- Offer ends: Limited time
+- Offer: 20% Off
+- Scope: All accounts
+- Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
+
+## Trade The Pool deal FAQ
+
+**What does the Trade The Pool Stocktober Sale include?**
+
+It includes 20% off all Trade The Pool accounts. The sale is stated as this week only and no account prices or closing date are stated.
+
+**How long does the Trade The Pool Stocktober Sale run?**
+
+It is stated as this week only, as a limited-time sale. No specific end date is given, so the 20% rate should be treated as tied to that short window.
+
+**Does the Trade The Pool discount change account rules?**
+
+No. The promotion lowers the purchase price only. Evaluation rules, membership terms and drawdown limits stay as set and trading risk is not reduced.
+
+**Who may this Trade The Pool sale suit?**
+
+It may suit a buyer who had already chosen an account and was comparing entry prices. The account-wide scope means the comparison does not depend on picking a particular tier.
 
 ## Deals (last 2 months, newest first)
 
-- No deal published in the last 2 months. Check back soon for new promotions.
+- 2026-10-28 - [Trade The Pool Stocktober Sale: 20% Off All Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) (20% Off)

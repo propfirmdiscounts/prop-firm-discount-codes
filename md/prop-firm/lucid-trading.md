@@ -7,51 +7,47 @@ The verified Lucid Trading discount code is **PFD** — Up to 30% off, works any
 - Code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-03
+- Last deal published: 2026-11-06
 - Trustpilot: 4.5/5 (8716 reviews)
 - Activate: https://propfirmdiscount.com/go/lucidtrading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-06, the biggest Lucid Trading offers this month: 40% OFF with code PFD, 30% OFF with code PFD, and 30% OFF with code PFD.
+As of 2026-11-06, the biggest Lucid Trading offers this month: 40% OFF with code PFD, 35% OFF, 30% OFF with code PFD, and 30% OFF with code PFD.
 
-## Current deal: Lucid Trading 30% Off All LucidDaily Plans - Price Cut
+## Current deal: Lucid Trading 35% Off All Plans - Concrete Day Sale
 
-- Published: 2026-11-03
-- Offer ends: Limited time
-- Offer: 30% Off
-- Code: PFD
-- Scope: LucidDaily plans
-- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/
+- Published: 2026-11-06
+- Offer ends: 2026-11-06 17:00
+- Offer: 35% Off
+- Scope: All plans; bundle of 5 accounts at 40% off
+- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/
 
 ## Lucid Trading deal FAQ
 
-**What discount does Lucid Trading offer on LucidDaily plans?**
+**What does the Lucid Trading National Concrete Day sale include?**
 
-Lucid Trading offers 30% off all LucidDaily plans in this promotion. The discount lowers the price of every plan in the LucidDaily range.
+It includes 35% off all plans through Friday at 5pm EST. Bundling 5 accounts saves an extra 5%, taking the total reduction on the bundle to 40% off.
 
-**How does the Lucid Trading drawdown setup work on LucidDaily?**
+**When does the Lucid Trading flash sale end?**
 
-Intraday drawdown is turned off in the evaluation and the funded stage. End-of-day drawdown is turned on in the evaluation and kept in the funded stage instead.
+It runs through Friday 6 November at 5pm EST. Purchases after that cut-off are not covered by the 35% or 40% rates in this sale.
 
-**What consistency choice do Lucid Trading plans offer?**
+**How does the Lucid Trading bundle rate work?**
 
-A buyer chooses a consistency setting of 30% or 40% for the plan. That choice is part of the stated plan structure and it is not changed by the discount.
+The extra 5% applies when 5 accounts are bundled in one purchase. A single plan purchase is covered by the base rate of 35% off.
 
-**What happens on a Lucid Trading plan after passing with DLL on?**
+**Does the Lucid Trading discount change plan rules?**
 
-Passing with DLL switched on brings on-demand payouts without intraday drawdown. That is a stated feature of the LucidDaily plans.
+No. The promotion lowers the purchase price only. Plan rules and drawdown limits stay as set and trading risk is not reduced.
 
-**Does the Lucid Trading discount reduce trading risk?**
+**Who may this Lucid Trading sale suit?**
 
-No. The promotion lowers the plan price only and it does not change trading rules or drawdown limits. Trading risk stays the same at the lower price.
-
-**Who may this Lucid Trading LucidDaily discount suit?**
-
-It may suit a buyer who had already chosen a LucidDaily plan and was comparing the plan price. A buyer expecting the lower price to make a plan easier should be cautious because no term changes with the price.
+It may suit a buyer who had already chosen a plan and was comparing entry prices inside the window. The bundle tier suits a buyer who had already planned to hold 5 accounts.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-06 - [Lucid Trading 35% Off All Plans - Concrete Day Sale](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) (35% Off)
 - 2026-11-03 - [Lucid Trading 30% Off All LucidDaily Plans - Price Cut](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/) (30% Off)
 - 2026-10-27 - [Lucid Trading 30% Off All Accounts With DLL On](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) (30% Off)
 - 2026-10-19 - [Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts - Check If It Fits](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) (40% Off) — ended 2026-10-23
