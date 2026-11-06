@@ -9,7 +9,7 @@ The newest Alpha Funded discount code is **WINTER** — Free Add-on (November 4,
 - Activate: https://propfirmdiscount.com/go/alphatrader
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 
-As of 2026-11-05, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, and 50% OFF with code HALLOWEEN.
+As of 2026-11-06, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, and 50% OFF with code HALLOWEEN.
 
 ## Current deal: Alpha Funded Free 100% Profit Split Add-On for Flex
 

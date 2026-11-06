@@ -1,16 +1,15 @@
 # RebelsFunding 72% Off $5,000 1-Step Program
 
-RebelsFunding is offering 72% off — discount code **1STEP19**.
+RebelsFunding was offering 72% off.
 
 > RebelsFunding cuts 72% off its $5,000 1-step program, down to €19 from €69. The price cut does not change trading risk. Valid until 5 November.
 
 - Published: 2026-11-03
-- Offer ends: 2026-11-05
+- Offer ends: 2026-11-05 (ended)
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: RebelsFunding cuts the $5,000 1-step program fee by 72%, down to €19 from €69. The discount lowers the entry cost only, while the program terms and trading risk stay as set. Valid until 5 November.
 - Offer: 72% Off
-- Code: 1STEP19
 - Scope: 1-step program, $5,000 account, no daily drawdown limit
 - Deal: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/
 

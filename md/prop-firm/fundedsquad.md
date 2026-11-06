@@ -9,7 +9,7 @@ The newest FundedSquad discount code is **FLASH** — 50% off (November 2, 2026)
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-As of 2026-11-05, the biggest FundedSquad offers this month: 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
+As of 2026-11-06, the biggest FundedSquad offers this month: 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
 
 ## Current deal: FundedSquad 50% Off All Models Plus BOGO
 

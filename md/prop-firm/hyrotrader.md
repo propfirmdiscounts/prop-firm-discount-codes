@@ -11,7 +11,7 @@ The verified HyroTrader discount code is **PFD** — Up to 10% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-05, the biggest HyroTrader offers this month: 15% OFF with code FEAR15.
+As of 2026-11-06, the biggest HyroTrader offers this month: 15% OFF with code FEAR15.
 
 ## Most recent deal (ended): HyroTrader Halloween 15% Off All Challenges
 

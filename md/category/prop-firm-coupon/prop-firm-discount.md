@@ -1,11 +1,12 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-05, the biggest offers this month: 50% OFF with code PASS50 at Plutus Trade Base, 45% OFF with code DIWALI45 at Funding Your Trades, 45% OFF with code BLACKIC45 at IC Funded, 40% OFF with code BF2026 at Dominion Funding, and 40% OFF with code LIGHT40 at Instant Funding.
+As of 2026-11-06, the biggest offers this month: 90% OFF with code PFD at Upcomers, 50% OFF with code PASS50 at Plutus Trade Base, 45% OFF with code DIWALI45 at Funding Your Trades, 45% OFF with code BLACKIC45 at IC Funded, and 40% OFF with code BF2026 at Dominion Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-05 | Direct Funded Trader | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | Limited time | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |
@@ -32,7 +33,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-03 | FTUK | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
-| 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% OFF | 2026-11-05 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
-| 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
-| 2026-11-03 | Funding Traders | Funding Traders 70% Off 2-Step Swing Accounts | 70% OFF | 2026-11-03 20:00 (ended) | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/ |
-| 2026-11-03 | Funding Traders | Funding Traders 70% Off 2-Step Day Accounts | 70% OFF | 2026-11-03 20:00 (ended) | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/ |
+| 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% OFF | 2026-11-05 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
+| 2026-11-03 | FundingTraders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
+| 2026-11-03 | FundingTraders | Funding Traders 70% Off 2-Step Swing Accounts | 70% OFF | 2026-11-03 20:00 (ended) | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/ |

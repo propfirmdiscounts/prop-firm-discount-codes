@@ -2,13 +2,13 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-05, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, and 60% OFF with code PFD at QT Funded. PropFirmDiscount ranks 40 offers posted this month by discount size. 38 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-06, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, and 60% OFF with code PFD at QT Funded. PropFirmDiscount ranks 40 offers posted this month by discount size. 37 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 80% | Exclusive Code | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Top One Trader | BLACKFRIDAY | 80% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 3 | RebelsFunding | 1STEP19 | 72% | Campaign Code | Ends Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 3 | RebelsFunding | 1STEP19 | 72% | Campaign Code | Ended Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 4 | Alpha Funded | BIG70 | 70% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 5 | QT Funded | PFD | 60% | Exclusive Code | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 6 | Funded Hero | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
@@ -16,7 +16,7 @@ As of 2026-11-05, the biggest prop firm offers this month: 80% OFF with code PFD
 | 8 | FundYourFX | NOVEMBER60 | 60% | Campaign Code | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 9 | SFX Funded | BF55 | 55% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
 | 10 | Direct Funded Trader | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 11 | Funding Traders | PFD | 50% | Exclusive Code | Ended Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 11 | FundingTraders | PFD | 50% | Exclusive Code | Ended Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 12 | Plutus Trade Base | PASS50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | 13 | Take Profit Trader | NOFEE50 | 50% | Campaign Code | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/take-profit-trader/ |
 | 14 | BrightFunded | BRIGHTFUTURES | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/bright-funded/ |

@@ -6,13 +6,13 @@ The top prop firm offer this month is **PFD** from Phidias Propfirm — 80% off 
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-05, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, and 60% OFF with code PFD at QT Funded.
+As of 2026-11-06, the biggest prop firm offers this month: 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, 70% OFF with code BIG70 at Alpha Funded, and 60% OFF with code PFD at QT Funded.
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 80% | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Top One Trader | BLACKFRIDAY | 80% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 3 | RebelsFunding | 1STEP19 | 72% | Ends Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 3 | RebelsFunding | 1STEP19 | 72% | Ended Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 4 | Alpha Funded | BIG70 | 70% | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 5 | QT Funded | PFD | 60% | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | 6 | Funded Hero | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
@@ -23,7 +23,7 @@ As of 2026-11-05, the biggest prop firm offers this month: 80% OFF with code PFD
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-As of 2026-11-05, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 40% OFF with code PFD at Atlas Funded.
+As of 2026-11-06, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 40% OFF with code PFD at Atlas Funded.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% Off | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% Off | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-05 | Direct Funded Trader | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |
@@ -70,7 +71,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% Off | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-03 | FTUK | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
-| 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
-| 2026-11-03 | Funding Traders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
+| 2026-11-03 | FundingTraders | Funding Traders 50% Off Instant Funded and Pro Accounts | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/ |
 | 2026-11-02 | BrightFunded | BrightFunded 50% Off BrightPlus BrightCore | 50% Off | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/ |
 | 2026-11-02 | CK PropFirm | CK PropFirm 75% Off All Challenge Accounts | 75% Off | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |

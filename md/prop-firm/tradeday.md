@@ -9,7 +9,7 @@ No live discount code for TradeDay right now — newest deals and offers are bel
 - Activate: https://propfirmdiscount.com/go/tradeday
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeday/
 
-As of 2026-11-05, the biggest TradeDay offers this month: 60% OFF with code FLASH.
+As of 2026-11-06, the biggest TradeDay offers this month: 60% OFF with code FLASH.
 
 ## Most recent deal (ended): TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis
 

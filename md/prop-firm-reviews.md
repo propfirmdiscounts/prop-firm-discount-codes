@@ -97,7 +97,7 @@
 | 91 | FundedTop | 3.3 | 111 | https://propfirmdiscount.com/prop-firm/fundedtop/ |
 | 92 | Purdia Capital | 3.3 | 92 | https://propfirmdiscount.com/prop-firm/purdia-capital/ |
 | 93 | Fundex | 3.2 | 41 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| 94 | Funding Traders | 3.1 | 3284 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 94 | FundingTraders | 3.1 | 3284 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 95 | Blue Guardian | 3.1 | 2136 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | 96 | BrightFunded | 3.1 | 576 | https://propfirmdiscount.com/prop-firm/bright-funded/ |
 | 97 | Phidias Propfirm | 3.1 | 335 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |

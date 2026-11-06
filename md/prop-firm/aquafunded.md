@@ -13,7 +13,7 @@ The verified AquaFunded discount code is **PFD** — Up to 35% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-05, the biggest AquaFunded offers this month: 35% OFF with code HALLOWEEN, 25% OFF with code SPOOKY, 25% OFF with code SPOOKY, and 25% OFF with code AUTUMN.
+As of 2026-11-06, the biggest AquaFunded offers this month: 35% OFF with code HALLOWEEN, 25% OFF with code SPOOKY, 25% OFF with code SPOOKY, and 25% OFF with code AUTUMN.
 
 ## Current deal: AquaFunded Halloween 35% Off All Accounts CFD Futures
 
@@ -54,6 +54,6 @@ It may suit a buyer who was already planning to buy an account in the covered ra
 ## Deals (last 2 months, newest first)
 
 - 2026-10-25 - [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) (35% Off) — Halloween
-- 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off) — Halloween
+- 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off) — Halloween — ended 2026-11-05
 - 2026-10-14 - [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) (25% Off) — Halloween — ended 2026-10-23
 - 2026-10-01 - [AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) (25% Off) — ended 2026-10-31

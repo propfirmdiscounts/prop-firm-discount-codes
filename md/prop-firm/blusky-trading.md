@@ -9,7 +9,7 @@ The newest BluSky Trading discount code is **SPOOKY** — $10-$120 Off (October 
 - Activate: https://propfirmdiscount.com/go/bluskypro
 - Firm page: https://propfirmdiscount.com/prop-firm/blusky-trading/
 
-As of 2026-11-05, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
+As of 2026-11-06, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
 
 ## Current deal: BluSky Trading Halloween $120 Off Propel Accounts
 

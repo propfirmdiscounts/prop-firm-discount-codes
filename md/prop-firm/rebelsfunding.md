@@ -1,6 +1,6 @@
 # RebelsFunding Discount Code
 
-The newest RebelsFunding discount code is **1STEP19** — 72% off (November 3, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for RebelsFunding right now — newest deals and offers are below.
 
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
@@ -9,14 +9,13 @@ The newest RebelsFunding discount code is **1STEP19** — 72% off (November 3, 2
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-As of 2026-11-05, the biggest RebelsFunding offers this month: 73% OFF with code SEVEN, 72% OFF with code 1STEP19, 70% OFF with code FORTHREE, 70% OFF with code FORNINE, and 59% OFF with code JUST29.
+As of 2026-11-06, the biggest RebelsFunding offers this month: 73% OFF with code SEVEN, 72% OFF with code 1STEP19, 70% OFF with code FORTHREE, 70% OFF with code FORNINE, and 59% OFF with code JUST29.
 
-## Current deal: RebelsFunding 72% Off $5,000 1-Step Program
+## Most recent deal (ended): RebelsFunding 72% Off $5,000 1-Step Program
 
 - Published: 2026-11-03
-- Offer ends: 2026-11-05
+- Offer ends: 2026-11-05 (ended)
 - Offer: 72% Off
-- Code: 1STEP19
 - Scope: 1-step program, $5,000 account, no daily drawdown limit
 - Deal page: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/
 
@@ -44,7 +43,7 @@ It may suit a buyer who had already chosen a $5,000 account size with a 1-step s
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-03 - [RebelsFunding 72% Off $5,000 1-Step Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/) (72% Off)
+- 2026-11-03 - [RebelsFunding 72% Off $5,000 1-Step Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/) (72% Off) — ended 2026-11-05
 - 2026-10-27 - [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) (70% Off) — ended 2026-10-29
 - 2026-10-20 - [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) (70% Off) — ended 2026-10-22
 - 2026-10-13 - [RebelsFunding 73% Off $5,000 Trading Accounts For €7](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/) (73% Off) — ended 2026-10-15

@@ -9,7 +9,7 @@ No live discount code for Elite Trader Funding right now — newest deals and of
 - Activate: https://propfirmdiscount.com/go/elitetraderfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/elite-trader-funding/
 
-As of 2026-11-05, the biggest Elite Trader Funding offers this month: 90% OFF with code BULLTOBER, 85% OFF with code 20BACK, and 42% OFF with code R1014.
+As of 2026-11-06, the biggest Elite Trader Funding offers this month: 90% OFF with code BULLTOBER, 85% OFF with code 20BACK, and 42% OFF with code R1014.
 
 ## Most recent deal (ended): Elite Trader Funding: 90% Off Non-Fast Track Evals
 

@@ -1,12 +1,12 @@
 # Funding Traders 50% Off Instant Funded and Pro Accounts
 
-Funding Traders is offering 50% off — discount code **PFD**.
+FundingTraders is offering 50% off — discount code **PFD**.
 
 > Funding Traders cuts 50% off Instant Funded, 1-Step Pro and 2-Step Pro 10 accounts. Only the purchase price changes and trading rules stay the same.
 
 - Published: 2026-11-03
 - Offer ends: Limited time
-- Prop firm: Funding Traders
+- Prop firm: FundingTraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Summary: Funding Traders cuts 50% off Instant Funded, 1-Step Pro and 2-Step Pro 10 purchase prices. The discount lowers the upfront cost only, while trading rules, drawdown limits and trading risk stay as set.
 - Offer: 50% Off

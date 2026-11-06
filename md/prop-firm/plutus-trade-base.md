@@ -9,7 +9,7 @@ The newest Plutus Trade Base discount code is **PASS50** — 50% off (November 5
 - Activate: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 
-As of 2026-11-05, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY, 50% OFF with code PASS50, and 50% OFF with code PASS50.
+As of 2026-11-06, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY, 50% OFF with code PASS50, and 50% OFF with code PASS50.
 
 ## Current deal: Plutus Trade Base 50% Off the Freedom Plan Challenge
 

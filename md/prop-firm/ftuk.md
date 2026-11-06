@@ -9,7 +9,7 @@ The newest FTUK discount code is **INSTANT35** — 35% off (November 3, 2026). T
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-05, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
+As of 2026-11-06, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code TRICK40, and 35% OFF with code INSTANT35.
 
 ## Current deal: FTUK 35% Off Instant Funding + 20% Payout Boost
 
