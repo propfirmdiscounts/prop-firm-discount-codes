@@ -230,7 +230,6 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_NAMESPACE: prop-firm
-          HF_REPO_NAME: prop-firm-discount-codes
           REPO_NAME: prop-firm-discount-codes
         if: env.HF_TOKEN != ''
         run: |
@@ -240,7 +239,7 @@ jobs:
           import os
           from huggingface_hub import HfApi
           api = HfApi(token=os.environ['HF_TOKEN'])
-          repo = f"{os.environ['HF_NAMESPACE']}/{os.environ['HF_REPO_NAME']}"
+          repo = f"{os.environ['HF_NAMESPACE']}/{os.environ['REPO_NAME']}"
           for folder in ('datasets', 'md'):
               api.upload_folder(folder_path=folder, path_in_repo=folder,
                                 repo_id=repo, repo_type='dataset',
