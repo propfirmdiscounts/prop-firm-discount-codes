@@ -9,7 +9,7 @@ The newest WSFunded discount code is **BIGLIVE** — 40% off (November 4, 2026).
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-As of 2026-11-06, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
+As of 2026-11-07, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
 
 ## Current deal: WSFunded 40% Off All Challenges Plus 300% Refund Offer
 

@@ -9,7 +9,7 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 - Activate: https://propfirmdiscount.com/go/bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 
-As of 2026-11-06, the biggest Bitfunded offers this month: 60% OFF and 55% OFF.
+As of 2026-11-07, the biggest Bitfunded offers this month: 60% OFF and 55% OFF.
 
 ## Current deal: Bitfunded 55% Off Halloween Drop Plus 20X Leverage
 

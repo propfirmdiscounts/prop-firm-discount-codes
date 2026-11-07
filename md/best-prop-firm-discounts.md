@@ -2,7 +2,7 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-06, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, and 70% OFF with code BIG70 at Alpha Funded. PropFirmDiscount ranks 46 offers posted this month by discount size. 43 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-07, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, and 70% OFF with code BIG70 at Alpha Funded. PropFirmDiscount ranks 46 offers posted this month by discount size. 42 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ As of 2026-11-06, the biggest prop firm offers this month: 90% OFF with code PFD
 | 33 | Instant Funding | PFD | 20% | Exclusive Code | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 34 | Funded Trading Plus | PFD | 20% | Exclusive Code | Ended Nov 3, 2026 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 35 | FundedNext | PFDC | 20% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 36 | City Traders Imperium (CTI) | NFP20 | 20% | Campaign Code | Ends Nov 6, 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
+| 36 | City Traders Imperium (CTI) | NFP20 | 20% | Campaign Code | Ended Nov 6, 2026 | https://propfirmdiscount.com/prop-firm/city-traders-imperium/ |
 | 37 | AudaCity Capital | NOW20 | 20% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/audacity-capital-funded/ |
 | 38 | FunderPro | NOV20 | 20% | Campaign Code | Ends Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/funderpro/ |
 | 39 | Fintokei | BLACKFRIDAY20 | 20% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/fintokei/ |

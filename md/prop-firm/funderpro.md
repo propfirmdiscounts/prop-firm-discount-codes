@@ -9,7 +9,7 @@ The newest FunderPro discount code is **NOV20** — 20% off (November 3, 2026). 
 - Activate: https://propfirmdiscount.com/go/funderpro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 
-As of 2026-11-06, the biggest FunderPro offers this month: 30% OFF with code TREAT30 and 20% OFF with code NOV20.
+As of 2026-11-07, the biggest FunderPro offers this month: 30% OFF with code TREAT30 and 20% OFF with code NOV20.
 
 ## Current deal: FunderPro 20% Off Classic and Instant Challenges
 

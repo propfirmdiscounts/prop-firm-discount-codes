@@ -1,6 +1,6 @@
 # City Traders Imperium (CTI) Discount Code
 
-The newest City Traders Imperium (CTI) discount code is **NFP20** — 20% off (November 6, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for City Traders Imperium (CTI) right now — newest deals and offers are below.
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
@@ -9,14 +9,13 @@ The newest City Traders Imperium (CTI) discount code is **NFP20** — 20% off (N
 - Activate: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-As of 2026-11-06, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
+As of 2026-11-07, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
 
-## Current deal: City Traders Imperium 20% Off Until NFP Drops
+## Most recent deal (ended): City Traders Imperium 20% Off Until NFP Drops
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-06
+- Offer ends: 2026-11-06 (ended)
 - Offer: 20% Off
-- Code: NFP20
 - Scope: 1-Step, 2-Step and Instant Funding accounts
 - Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/
 
@@ -44,7 +43,7 @@ It may suit a buyer who had already chosen a 1-Step, 2-Step or Instant Funding a
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-06 - [City Traders Imperium 20% Off Until NFP Drops](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/) (20% Off)
+- 2026-11-06 - [City Traders Imperium 20% Off Until NFP Drops](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/) (20% Off) — ended 2026-11-06
 - 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off) — Halloween — ended 2026-10-31 19:59
 - 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — Halloween — ended 2026-10-25
 - 2026-10-07 - [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) (15% Off) — Halloween — ended 2026-10-11

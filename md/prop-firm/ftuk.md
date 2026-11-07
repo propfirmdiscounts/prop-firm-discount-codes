@@ -9,7 +9,7 @@ The newest FTUK discount code is **NFP40** — 40% off (November 6, 2026). The c
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-06, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
+As of 2026-11-07, the biggest FTUK offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 50% OFF with code WEALTHCHARTS, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
 
 ## Current deal: FTUK NFP Restart: 40% Off Your Next Instant Account
 

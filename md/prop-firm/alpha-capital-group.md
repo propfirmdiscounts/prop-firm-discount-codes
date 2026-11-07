@@ -9,7 +9,7 @@ The newest Alpha Capital Group discount code is **DIWALI40** — 40% off (Novemb
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
-As of 2026-11-06, the biggest Alpha Capital Group offers this month: 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, and 20% OFF with code ALPHA20.
+As of 2026-11-07, the biggest Alpha Capital Group offers this month: 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, and 20% OFF with code ALPHA20.
 
 ## Current deal: Alpha Capital Group Diwali: 40% Off All Plans
 

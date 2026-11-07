@@ -6,7 +6,7 @@ The top prop firm offer this month is **PFD** from Upcomers — 90% off (standin
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-06, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, and 70% OFF with code BIG70 at Alpha Funded.
+As of 2026-11-07, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, and 70% OFF with code BIG70 at Alpha Funded.
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ As of 2026-11-06, the biggest prop firm offers this month: 90% OFF with code PFD
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-As of 2026-11-06, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+As of 2026-11-07, the biggest verified prop firm discount codes are 80% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -54,7 +54,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | HyroTrader | HyroTrader Hyro Instant Launch: 15% Off First 30 | 15% Off | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% Off | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% Off | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
-| 2026-11-06 | City Traders Imperium (CTI) | City Traders Imperium 20% Off Until NFP Drops | 20% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% Off | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% Off | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
@@ -74,3 +73,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-04 | Alpha Funded | Alpha Funded Free 100% Profit Split Add-On for Flex | Free Add-on | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/ |
 | 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 40% Off 25K Daily Starter – $119.40 | 40% Off | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/ |
 | 2026-11-04 | Phoenix Trader Funding | Phoenix Trader Funding 30% Off Classic Accounts on TFeed | 30% Off | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/ |
+| 2026-11-03 | Alpha Futures | Alpha Futures 50% Off Standard Direct Advanced | 50% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |

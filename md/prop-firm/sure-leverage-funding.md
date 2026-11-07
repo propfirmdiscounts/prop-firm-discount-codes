@@ -9,7 +9,7 @@ The newest Sure Leverage Funding discount code is **FLASH40** — 40% off (Novem
 - Activate: https://propfirmdiscount.com/go/sureleverage
 - Firm page: https://propfirmdiscount.com/prop-firm/sure-leverage-funding/
 
-As of 2026-11-06, the biggest Sure Leverage Funding offers this month: 40% OFF with code FLASH40, 40% OFF with code BOO40, and 40% OFF with code B0040.
+As of 2026-11-07, the biggest Sure Leverage Funding offers this month: 40% OFF with code FLASH40, 40% OFF with code BOO40, and 40% OFF with code B0040.
 
 ## Current deal: Sure Leverage Funding Flash Sale: 40% Off Your Next Account
 

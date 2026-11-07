@@ -13,7 +13,7 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-06, the biggest PipFarm offers this month: 60% OFF with code POWERUP and 50% OFF with code FIFTYFIFTY.
+As of 2026-11-07, the biggest PipFarm offers this month: 60% OFF with code POWERUP and 50% OFF with code FIFTYFIFTY.
 
 ## Most recent deal (ended): PipFarm Halloween 60% Off Challenges Plus Free Power-Up
 

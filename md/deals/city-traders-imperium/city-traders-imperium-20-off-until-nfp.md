@@ -1,16 +1,15 @@
 # City Traders Imperium 20% Off Until NFP Drops
 
-City Traders Imperium (CTI) is offering 20% off — discount code **NFP20**.
+City Traders Imperium (CTI) was offering 20% off.
 
 > City Traders Imperium cuts 20% off 1-Step, 2-Step and Instant Funding until NFP drops, with no news restrictions. Only pricing changes.
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-06
+- Offer ends: 2026-11-06 (ended)
 - Prop firm: City Traders Imperium (CTI)
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 - Summary: City Traders Imperium cuts 20% off 1-Step, 2-Step and Instant Funding until the NFP release, with no news restrictions. Only the purchase price changes and trading rules and trading risk stay as set.
 - Offer: 20% Off
-- Code: NFP20
 - Scope: 1-Step, 2-Step and Instant Funding accounts
 - Deal: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/
 

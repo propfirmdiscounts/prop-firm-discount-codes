@@ -13,7 +13,7 @@ The verified Instant Funding discount code is **PFD** — Up to 20% off, works a
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-06, the biggest Instant Funding offers this month: 40% OFF with code LIGHT40, 40% OFF with code TREAT40, 40% OFF with code ALL40, 40% OFF with code LITE40, and 35% OFF with code EVOLVE35.
+As of 2026-11-07, the biggest Instant Funding offers this month: 40% OFF with code LIGHT40, 40% OFF with code TREAT40, 40% OFF with code ALL40, 40% OFF with code LITE40, and 35% OFF with code EVOLVE35.
 
 ## Current deal: Instant Funding 40% Off All Lite Accounts - Diwali Offer
 
