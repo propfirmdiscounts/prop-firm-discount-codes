@@ -1,11 +1,11 @@
 # Lucid Trading 35% Off All Plans – Concrete Day Sale
 
-Lucid Trading is offering 35% off.
+Lucid Trading was offering 35% off.
 
 > Lucid Trading cuts 35% off all plans for National Concrete Day through Friday at 5pm EST, rising to 40% when bundling 5 accounts.
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-06 17:00
+- Offer ends: 2026-11-06 17:00 (ended)
 - Prop firm: Lucid Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - Summary: Lucid Trading cuts 35% off all plans for its National Concrete Day flash sale through Friday at 5pm EST, rising to 40% off when bundling 5 accounts. Only the purchase price changes.

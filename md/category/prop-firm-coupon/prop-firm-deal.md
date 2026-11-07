@@ -7,7 +7,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
 | 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
-| 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale | 35% OFF | 2026-11-06 17:00 | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
+| 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale | 35% OFF | 2026-11-06 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | Limited time | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
 | 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
