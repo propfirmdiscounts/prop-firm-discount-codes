@@ -4,7 +4,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-11-08 |  | Diwali Prop Firm Deals 2026 Recap – Every Offer Reviewed |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/prop-firm-event-deals-roundup-diwali-2026/ |
+| 2026-11-08 |  | Diwali 2026 Prop Firm Deals Recap: The 9 Offers That Ran This Festival |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/prop-firm-event-deals-roundup-diwali-2026/ |
 | 2026-11-07 |  | Diwali 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2026-prop-firm-coupon-codes/ |
 | 2026-11-04 |  | Black Friday 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/black-friday-2026-prop-firm-coupon-codes/ |
 | 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-2026-prop-firm-coupon-codes/ |

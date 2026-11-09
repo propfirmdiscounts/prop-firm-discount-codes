@@ -5,7 +5,7 @@ The newest FundedSquad discount code is **DIWALI** — 55% off (November 6, 2026
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
 - Last deal published: 2026-11-06
-- Trustpilot: 1.9/5 (402 reviews)
+- Trustpilot: 2.0/5 (406 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
@@ -46,6 +46,6 @@ They may suit a buyer who had already chosen an Instant account size and was com
 ## Deals (last 2 months, newest first)
 
 - 2026-11-06 - [FundedSquad Diwali 55% Off $25K and $50K Instant](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/) (55% Off) — Diwali
-- 2026-11-02 - [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) (50% Off)
+- 2026-11-02 - [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) (50% Off) — ended 2026-11-09 07:00
 - 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off) — ended 2026-10-31
 - 2026-10-01 - [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) (40% Off) — ended 2026-10-15

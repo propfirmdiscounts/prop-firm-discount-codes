@@ -2,18 +2,18 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-09, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 72% OFF with code 1STEP19 at RebelsFunding, and 70% OFF with code PFD at FundingTraders. PropFirmDiscount ranks 20 offers posted this month by discount size. 17 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-09, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 75% OFF with code NOV75 at Elite Trader Funding, and 72% OFF with code 1STEP19 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 18 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Phidias Propfirm | PFD | 80% | Exclusive Code | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | Top One Trader | BLACKFRIDAY | 80% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 4 | RebelsFunding | 1STEP19 | 72% | Campaign Code | Ended Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
-| 5 | FundingTraders | PFD | 70% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 6 | Alpha Funded | BIG70 | 70% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
-| 7 | Funded Hero | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 8 | Doji Funding | PFD | 60% | Exclusive Code | Ended Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 4 | Elite Trader Funding | NOV75 | 75% | Campaign Code | Ends Nov 13, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
+| 5 | RebelsFunding | 1STEP19 | 72% | Campaign Code | Ended Nov 5, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 6 | FundingTraders | PFD | 70% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 7 | Alpha Funded | BIG70 | 70% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 8 | Funded Hero | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 9 | FundYourFX | NOVEMBER60 | 60% | Campaign Code | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 10 | FundedSquad | DIWALI | 55% | Campaign Code | Ends Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 | 11 | SFX Funded | BF55 | 55% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |

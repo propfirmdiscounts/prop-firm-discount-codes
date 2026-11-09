@@ -5,7 +5,7 @@ No live discount code for FunderPro right now — newest deals and offers are be
 > FunderPro is a prop trading firm looking to empower skilled traders globally. Join our funded trader program and manage up to $200k in Funds.
 
 - Last deal published: 2026-11-03
-- Trustpilot: 2.7/5 (1540 reviews)
+- Trustpilot: 2.7/5 (1547 reviews)
 - Activate: https://propfirmdiscount.com/go/funderpro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 

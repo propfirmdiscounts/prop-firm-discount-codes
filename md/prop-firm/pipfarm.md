@@ -7,51 +7,56 @@ The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time
 - Code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-29
-- Trustpilot: 3.5/5 (342 reviews)
+- Last deal published: 2026-11-09
+- Trustpilot: 3.6/5 (343 reviews)
 - Activate: https://propfirmdiscount.com/go/pipfarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest PipFarm offers this month: 60% OFF with code POWERUP and 50% OFF with code FIFTYFIFTY.
+As of 2026-11-09, the biggest PipFarm offers this month: 60% OFF with code POWERUP, 50% OFF with code FIFTYFIFTY, and 40% OFF with code PROFIT.
 
-## Most recent deal (ended): PipFarm Halloween 60% Off Challenges Plus Free Power-Up
+## Current deal: PipFarm Classic: 40% Off Pay with Profits Challenges
 
-- Published: 2026-10-29
-- Offer ends: 2026-11-03 (ended)
-- Offer: 60% Off
-- Scope: every challenge, free Power-Up, multiple uses
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/
+- Published: 2026-11-09
+- Offer ends: Limited time
+- Offer: 40% Off
+- Code: PROFIT
+- Scope: Classic Challenges, Pay with Profits
+- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/
 
 ## PipFarm deal FAQ
 
-**What discount does PipFarm offer in this promotion?**
+**What is PipFarm Classic?**
 
-PipFarm offers 60% off every challenge in this Halloween promotion. Each challenge bought also adds one free Power-Up chosen at random from nine named options.
+Classic is PipFarm's newest Pay with Profits mode. You pass your challenge without profitable days or a consistency score. Minimum trading days still apply: 4 on a one-stage challenge, or 3 on each stage of a two-stage.
 
-**Which Power-Ups can arrive as the free one?**
+**What does the launch code take off and what is an example price?**
 
-The free Power-Up is drawn at random from Shield, Invincibility, Armour, Checkpoint, Respawn, Rewind, Boost, Erase or Imposter. A buyer cannot select a named Power-Up in advance from the terms given.
+The code takes 40% off every Classic challenge at checkout. The firm's example: a 100K two-stage challenge starts at $129, or $77.40 with the code applied. Admission across the range starts at $11.
 
-**What do Shield and Armour add?**
+**Can the code be combined with other promotions?**
 
-Shield adds an extra 1% of Daily Loss and Armour adds an extra 1% of Max Loss, for use when closest to the limit. Those benefits describe only those two Power-Ups, not the other seven.
+No. The announcement states it cannot be combined with any other promotion, offer, discount, voucher or XP.
 
-**Until when is this PipFarm promotion available?**
+**What are the Classic pass conditions?**
 
-The promotion is available until 3 November. No time of day is stated for that deadline in the promotion terms.
+Profit targets are 12% on one stage, or 9% then 6% on two stages. Limits are 10% static max loss, 5% daily loss and 3% max risk. There is no consistency score and no profitable days requirement.
 
-**Can a buyer use this PipFarm promotion more than once?**
+**How does Pay with Profits pricing work?**
 
-Yes, the promotion can be used more than once. Each challenge bought under the promotion adds one free Power-Up chosen at random.
+You pay a small admission fee to start. The PWP fee comes out of your first payout. The firm lowered that fee by 0.5% at every risk tier on 30 October, so it now runs from 0.5% to 2.5% of the account. Your first payout is on demand.
 
-**Does the 60% discount change trading risk?**
+**What is the Skip Minimum Trading Days add-on?**
 
-No, a lower entry cost does not reduce trading risk. The discount changes the purchase price only.
+A checkout add-on that lets you pass the moment you hit your target, even on day one. It carries over to the funded account for payout requests. On PWP it costs 20% of the admission fee - $25.80 on a 100K two-stage challenge.
+
+**When does this offer end?**
+
+The announcement states no end date for the code. It is presented as the launch offer for the Classic mode.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-09 - [PipFarm Classic: 40% Off Pay with Profits Challenges](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) (40% Off)
 - 2026-10-29 - [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) (60% Off) — Halloween — ended 2026-11-03
 - 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off) — ended 2026-10-31
 - 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)

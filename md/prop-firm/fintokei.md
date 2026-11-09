@@ -5,7 +5,7 @@ The newest Fintokei discount code is **BLACKFRIDAY20** — 20% off (November 2, 
 > Fintokei stands as the leading modern proprietary trading firm in Japan, driven by global ambitions. We are dedicated to educating and empowering ambitious and focused traders, rewarding their hard work with well-capitalized trading accounts via our ProTrader and SwiftTrader programs.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 4.3/5 (1427 reviews)
+- Trustpilot: 4.3/5 (1433 reviews)
 - Activate: https://propfirmdiscount.com/go/fintokei
 - Firm page: https://propfirmdiscount.com/prop-firm/fintokei/
 

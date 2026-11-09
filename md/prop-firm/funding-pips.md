@@ -2,10 +2,10 @@
 
 The newest FundingPips discount code is **HALLOWEEN** — 15% off (October 30, 2026). The campaign code changes with each promotion; newest first below.
 
-> At FundingPips, we don't just elevate traders. We build them. Founded with one mission: create a transparent environment where talent is recognized, performance is rewarded, and growth never stops. Trusted by 3M+ traders across 195 countries, with $300M+ in rewards distributed and a Zero Reward Denial Policy that puts traders first. Your trading journey is more than a challenge. It’s the beginning of a career. Your trading career starts here.
+> At FundingPips, we don't just elevate traders. We build them. Founded with one mission: create a transparent environment where talent is recognized, performance is rewarded, and growth never stops. Trusted by 3M+ traders across 195 countries, with $324M+ in rewards distributed and a Zero Reward Denial Policy that puts traders first. Your trading journey is more than a challenge. It’s the beginning of a career. Your trading career starts here.
 
 - Last deal published: 2026-10-30
-- Trustpilot: 4.5/5 (72038 reviews)
+- Trustpilot: 4.4/5 (72787 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingpips
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-pips/
 

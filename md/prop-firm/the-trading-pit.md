@@ -1,49 +1,51 @@
 # The Trading Pit Discount Code
 
-No live discount code for The Trading Pit right now — newest deals and offers are below.
+The newest The Trading Pit discount code is **BF40** — 40% off (November 9, 2026). The campaign code changes with each promotion; newest first below.
 
 > Welcome to The Trading Pit, a prop trading firm where your trading skills meet unparalleled opportunities. We offer a unique challenge-based evaluation process in a simulated trading environment, allowing you to demonstrate your trading expertise. Successfully passing our challenge unlocks access to trade with substantial simulated capital, scaling up to hundreds of thousands of dollars of trading capital. Learn, be part of a great community and trade confidently futures or CFDs/ Forex. Join us to turn your trading potential into real profit. Founded in February 2022, The Trading Pit (TTP) is an award-winning prop trading firm headquartered in Liechtenstein. With a global presence, the firm boasts an operational office in Cyprus and a representative office in Spain.
 
-- Last deal published: 2026-10-30
+- Last deal published: 2026-11-09
 - Trustpilot: 3.8/5 (1086 reviews)
 - Activate: https://propfirmdiscount.com/go/thetradingpit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 
-As of 2026-11-09, the biggest The Trading Pit offers this month: 50% OFF, 35% OFF with code OCT35, and 35% OFF with code OCT35.
+As of 2026-11-09, the biggest The Trading Pit offers this month: 50% OFF, 40% OFF with code BF40, 35% OFF with code OCT35, and 35% OFF with code OCT35.
 
-## Most recent deal (ended): The Trading Pit Halloween 50% Off Challenges Flash Sale
+## Current deal: The Trading Pit Black Friday: 40% Off Prime + Instant
 
-- Published: 2026-10-30
-- Offer ends: 2026-11-01 (ended)
-- Offer: 50% Off
-- Scope: challenges
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/
+- Published: 2026-11-09
+- Offer ends: 2026-11-29
+- Offer: 40% Off
+- Code: BF40
+- Scope: Prime Challenges, Instant Accounts
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/
 
 ## The Trading Pit deal FAQ
 
-**What discount does The Trading Pit offer in this promotion?**
+**What does The Trading Pit's Black Friday offer cover?**
 
-The Trading Pit offers 50% off challenges in this Halloween flash sale. The saving applies to the purchase price of a challenge during the stated window.
+A 40% discount on selected Prime Challenges and on Instant accounts. Coverage on the challenge side is selected rather than universal, so check your account on the deal page.
 
-**When does The Trading Pit Halloween flash sale run?**
+**Which account is excluded?**
 
-The flash sale runs from October 30 to November 1. The window lasts 72 hours only.
+The Prime $5K. The offer banner names it as the exclusion from the 40% discount.
 
-**What does the discount apply to?**
+**When does the offer end?**
 
-The discount applies to challenges. The promotion does not name a specific account size or model in its stated terms.
+The firm's post caption states until 29 November 2026, while the banner prints a validity window of 9 to 30 November. The safe planning date is 29 November.
 
-**What does this promotion not change?**
+**Does the discount change the account rules or reduce trading risk?**
 
-The promotion changes purchase price only. It does not change trading rules, drawdown limits or evaluation criteria.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Who may find this timing suitable?**
+**Is every Prime Challenge included at 40% off?**
 
-The timing may suit a buyer who already knows their preferred challenge size and can decide within 72 hours. A buyer who needs more time to compare sizes may find the short window rushed.
+No. The offer covers selected Prime Challenges only, with the Prime $5K excluded by name. The deal page carries the eligible list.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-09 - [The Trading Pit Black Friday: 40% Off Prime + Instant](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/) (40% Off) — Black Friday
 - 2026-10-30 - [The Trading Pit Halloween 50% Off Challenges Flash Sale](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/) (50% Off) — Halloween — ended 2026-11-01
 - 2026-10-16 - [The Trading Pit 35% Off Selected Accounts And Free $5K Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/) (35% Off) — ended 2026-10-23
 - 2026-10-05 - [The Trading Pit: 35% Off All Products and Free $5,000 Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/) (35% Off) — ended 2026-10-23

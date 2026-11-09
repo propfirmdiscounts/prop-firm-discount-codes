@@ -5,7 +5,7 @@ The newest Blueberry Funded discount code is **DIWALI30** — 30% off (November 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
 - Last deal published: 2026-11-08
-- Trustpilot: 3.4/5 (1752 reviews)
+- Trustpilot: 3.4/5 (1751 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 

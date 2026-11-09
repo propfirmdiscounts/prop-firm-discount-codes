@@ -1,53 +1,55 @@
 # WSFunded Discount Code
 
-The newest WSFunded discount code is **BIGLIVE** — 40% off (November 4, 2026). The campaign code changes with each promotion; newest first below.
+The newest WSFunded discount code is **4INSTANT** — 30% off (November 9, 2026). The campaign code changes with each promotion; newest first below.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
-- Last deal published: 2026-11-04
-- Trustpilot: 4.3/5 (4974 reviews)
+- Last deal published: 2026-11-09
+- Trustpilot: 4.3/5 (5001 reviews)
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
 As of 2026-11-09, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
 
-## Current deal: WSFunded 40% Off All Challenges Plus 300% Refund Offer
+## Current deal: WSFunded Black Friday: 4 Instant Challenges $68.60
 
-- Published: 2026-11-04
+- Published: 2026-11-09
 - Offer ends: Limited time
-- Offer: 40% Off
-- Code: BIGLIVE
-- Scope: All challenges, all account sizes, Instant Pro, 2-Step Ultra, 1-Step
-- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/
+- Offer: 30% Off
+- Code: 4INSTANT
+- Scope: Instant Challenges
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/
 
 ## WSFunded deal FAQ
 
-**What discount does WSFunded offer on its challenges?**
+**What do I get under this WSFunded bundle?**
 
-WSFunded offers 40% off all challenges and all account sizes, with no exceptions. A 300% refund offer also sits on top of the discount.
+Four Instant challenges in total: you buy 2 challenges with the same account balance at 30% off. Two more identical challenges are then added free, instantly and without waiting.
 
-**What are the WSFunded 10K challenge prices in this promotion?**
+**How does the $68.60 price work?**
 
-The Instant Pro 10K is $61.20 instead of $102, the 2-Step Ultra 10K is $47.40 instead of $79 and the 1-Step 10K is $57 instead of $95.
+The announcement prices the starting four-challenge bundle at $68.60 instead of $196, a difference of $127.40. That is the headline starting price; larger account balances are priced from their own list prices.
 
-**How does the WSFunded 300% refund offer work?**
+**Do the free challenges need evaluations?**
 
-On top of the 40% discount, a buyer could also get a 300% refund. The refund offer applies on every purchase alongside the reduced price.
+No. The announcement states you start trading directly on funded accounts, with no evaluations. The bundle changes purchase pricing only - it does not change trading rules or reduce trading risk.
 
-**Is the WSFunded promotion limited to one account?**
+**How many times can the offer be used?**
 
-No. The same terms can be used as many times as the buyer likes, with 40% off and the 300% refund offer on every purchase.
+The announcement states the code can be used as many times as you like. The full terms sit on the deal page.
 
-**Does the WSFunded discount change challenge rules?**
+**When does this offer end?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+The announcement states no end date for the bundle. The only date given is 1 December, when the prize draw winners will be announced live.
 
-**Who may this WSFunded pricing suit?**
+**How do I enter the prize draw?**
 
-It may suit a buyer who had already chosen a challenge type and account size and was comparing entry prices. A buyer focused only on the refund figure should be cautious because the refund is an offer on top of the purchase and not part of the checkout saving.
+Entry comes with the purchase itself - buying under this offer enters you into the draw for iPhones, trips, a PS5 Pro and more.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-09 - [WSFunded Black Friday: 4 Instant Challenges $68.60](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/) (30% Off) — Black Friday
 - 2026-11-04 - [WSFunded 40% Off All Challenges Plus 300% Refund Offer](https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/) (40% Off)
 - 2026-10-30 - [WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween](https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/) (60% Off) — Halloween — ended 2026-11-02 17:59
 - 2026-10-26 - [WSFunded Halloween Sale: 50% Off All Challenges](https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/) (50% Off) — Halloween
