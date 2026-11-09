@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-51 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 91% off. Every code is listed below, alphabetical by firm.
+51 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 90% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -12,7 +12,7 @@
 | Blue Guardian | PFD | 30% | standing | 2026-11-04 · 30% · [deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) | - | 21 / 31 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 35% | standing | 2026-06-22 · 40% · [deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) | - | 10 / 19 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Breakout Prop | 3GVKFT | 5% | standing | 2026-07-27 · 24% · [deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) | - | 3 / 6 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |
-| Bulenox | PFD | 91% | standing | 2026-10-07 · 91% · [deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) | - | 11 / 12 | https://propfirmdiscount.com/prop-firm/bulenox/ |
+| Bulenox | PFD | 89% | standing | 2026-10-07 · 91% · [deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) | - | 11 / 12 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 · 50% · [deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) | - | 2 / 8 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | CK PropFirm | PFD | 10% | standing | 2026-11-06 · 80% · [deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) | Diwali | 36 / 52 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | standing | 2026-09-15 · 22% · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
@@ -37,7 +37,7 @@
 | FundedSeat | PFD | 65% | standing | 2026-09-03 · 50% · [deal](https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/) | - | 8 / 14 | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | Fundex | PFD | 5% | standing | 2026-10-09 · 20% · [deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) | - | 4 / 4 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFD | 2% | standing | 2026-11-05 · 45% · [deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/) | Diwali | 29 / 42 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
-| FundingTraders | PFD | 50% | standing | 2026-11-03 · 50% · [deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) | - | 69 / 93 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| FundingTraders | PFD | 70% | standing | 2026-11-07 · 70% · [deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) | Diwali | 70 / 94 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | standing | 2026-11-02 · 40% · [deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) | - | 31 / 51 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 10% | standing | 2026-11-06 · 15% · [deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) | - | 8 / 8 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | PFD | 20% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) | Diwali | 30 / 36 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
@@ -45,7 +45,7 @@
 | Phidias Propfirm | PFD | 80% | standing | 2026-11-02 · 80% · [deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) | - | 34 / 40 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 40% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/) | - | 23 / 24 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | standing | 2026-10-29 · 60% · [deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) | Halloween | 46 / 69 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| QT Funded | PFD | 60% | standing | 2026-11-06 · 60% · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) | Diwali | 39 / 62 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| QT Funded | PFD | 50% | standing | 2026-11-07 · 60% · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) | - | 40 / 63 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | standing | 2026-01-19 · 30% · [deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) | - | 1 / 3 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 · 25% · [deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) | New Year's Eve | 1 / 8 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 · 30% · [deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/) | - | 20 / 29 | https://propfirmdiscount.com/prop-firm/super-funded/ |

@@ -26,7 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-01 | Hantec Trader | Hantec Trader Cyber Monday: 20% OFF All Programs (Ends Tonight) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-cyber-monday-20-off/ |
 | 2025-12-01 | PropShopTrader | PropShopTrader Black Friday Code: 90% OFF Warriors Accounts | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-black-friday-90-off-warriors/ |
 | 2025-11-30 | Alpha Futures | Alpha Futures Black Friday Extended: 30% OFF Standard, Advanced & Zero Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-extended-30-off/ |
-| 2025-11-30 | QT Funded | QT Funded BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/ |
+| 2025-11-30 | QT Funded | QT Funded BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/ |
 | 2025-11-29 | Ment Funding | Ment Funding Black Friday Offer: 10% OFF Evaluations | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-black-friday-10-off/ |
 | 2025-11-29 | MyFxCapital | MyFxCapital Black Friday Deal: 50% OFF All Account Sizes | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-black-friday-50-off-all-accounts/ |
 | 2025-11-28 | Sure Leverage Funding | Sure Leverage Funding Black Friday Sale: Up to 70% Off All Challenges | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off/ |
@@ -34,5 +34,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | Elite Trader Funding | Elite Trader Funding Black Friday: 80% OFF 1 Step Evaluations | 80% OFF | Ended | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-black-friday-80-off-1-step/ |
 | 2025-11-28 | The Trading Pit | The Trading Pit Black Friday Sale: 30% OFF All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-30-off/ |
 | 2025-11-28 | Alpha Capital Group | Alpha Capital Group Black Friday Sale: 35% OFF All Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-black-friday-35-off/ |
-| 2025-11-28 | QT Funded | QT Funded Black Friday Last Chance: 55% OFF + Free Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-55-off-free-account/ |
+| 2025-11-28 | QT Funded | QT Funded Black Friday Last Chance: 55% OFF + Free Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-55-off-free-account/ |
 | 2025-11-28 | Dominion Funding | Dominion Funding Black Friday Sale: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-everything/ |

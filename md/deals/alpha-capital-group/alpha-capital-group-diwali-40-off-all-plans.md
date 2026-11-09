@@ -1,16 +1,15 @@
 # Alpha Capital Group Diwali: 40% Off All Plans
 
-Alpha Capital Group is offering 40% off — discount code **DIWALI40**.
+Alpha Capital Group was offering 40% off.
 
 > Alpha Capital Group cuts 40% off all plans for Diwali until Sunday 8 November at 23:59. Bi-weekly plans allow two uses, on-demand plans unlimited.
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-08 23:59
+- Offer ends: 2026-11-08 23:59 (ended)
 - Prop firm: Alpha Capital Group
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 - Summary: Alpha Capital Group cuts 40% off all plans for Diwali until Sunday 8 November at 23:59, with two uses on bi-weekly plans and unlimited use on-demand. Only plan pricing changes in the promotion.
 - Offer: 40% Off
-- Code: DIWALI40
 - Scope: All plans
 - Deal: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/
 

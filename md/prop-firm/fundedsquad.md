@@ -9,7 +9,7 @@ The newest FundedSquad discount code is **DIWALI** — 55% off (November 6, 2026
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-As of 2026-11-07, the biggest FundedSquad offers this month: 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
+As of 2026-11-09, the biggest FundedSquad offers this month: 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
 
 ## Current deal: FundedSquad Diwali 55% Off $25K and $50K Instant
 

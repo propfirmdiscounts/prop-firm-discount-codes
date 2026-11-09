@@ -9,7 +9,7 @@ No live discount code for Tradexprop right now — newest deals and offers are b
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 
-As of 2026-11-07, the biggest Tradexprop offers this month: 40% OFF with code SPOOK40 and 20% OFF with code SPOOK20.
+As of 2026-11-09, the biggest Tradexprop offers this month: 40% OFF with code SPOOK40 and 20% OFF with code SPOOK20.
 
 ## Most recent deal (ended): Tradexprop Halloween Promo: 20% Off Instant Funding
 

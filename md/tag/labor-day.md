@@ -1,12 +1,12 @@
 # Labor Day Prop Firm Deals (2026)
 
-As of 2026-09-04, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code LABOR at Alpha Funded, 60% OFF with code PFD at FundingTraders, 60% OFF with code LABORDAY at WSFunded, and 55% OFF with code PFD at QT Funded.
+As of 2026-09-04, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code LABOR at Alpha Funded, 60% OFF with code PFD at FundingTraders, 60% OFF with code LABORDAY at WSFunded, and 55% OFF with code USA55 at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |
+| 2026-09-07 | QT Funded | QT Funded 55% Off Any Evaluation: Labor Day Bonus Evaluation Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/ |
 | 2026-09-07 | Finotive Funding | Finotive Funding Labor Day: 40% Off All Evaluation Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/ |
 | 2026-09-07 | ThinkCapital | ThinkCapital 20% Discount on $2,500 – $50,000 Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/ |
 | 2026-09-07 | FundingTraders | FundingTraders 60% Off All Account Types Labor Day Promotion | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-60-off-labor-day/ |

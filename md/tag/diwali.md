@@ -1,25 +1,29 @@
 # Diwali Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 60% OFF with code PFD at QT Funded, 55% OFF with code DIWALI at FundedSquad, 45% OFF with code DIWALI45 at Funding Your Trades, and 40% OFF with code DIWALI40 at Alpha Capital Group.
+As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code DIWALI at QT Funded, 55% OFF with code DIWALI at FundedSquad, and 50% OFF with code DIWALI50 at Sure Leverage Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
+| 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
+| 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
+| 2026-11-07 |  | Diwali 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2026-prop-firm-coupon-codes/ |
+| 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |
+| 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 (ended) | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
-| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
+| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2025-10-22 |  | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |
 | 2025-10-20 | PipFarm | PipFarm — Diwali: 40% OFF All Accounts (24 Hours, Unlimited Uses) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-diwali-40-off-all-accounts-24-hours-unlimited-uses/ |
-| 2025-10-20 | QT Funded | QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 | 30% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-futures-diwali-30-off-bogo-payout-instant-1-step-ends-oct-22/ |
+| 2025-10-20 | QT Funded | QT Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-futures-diwali-30-off-bogo-payout-instant-1-step-ends-oct-22/ |
 | 2025-10-20 | ThinkCapital | ThinkCapital — Diwali: 35% OFF on 5K–50K Challenges (Oct 20–26) | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-diwali-35-off-on-5k-50k-challenges-oct-20-26/ |
 | 2025-10-20 | ATFunded | AT Funded — Diwali: 15% OFF Challenge Accounts (48 Hours, Ends Oct 21) | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/atfunded/at-funded-diwali-15-off-challenge-accounts-48-hours-ends-oct-21/ |
 | 2025-10-20 | ATFunded | AT Funded — Diwali: 50% OFF PRO Accounts (48 Hours, Ends Oct 21) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/atfunded/at-funded-diwali-50-off-pro-accounts-48-hours-ends-oct-21/ |
 | 2025-10-20 | Funding Your Trades | Funding Your Trades — Diwali: 28% OFF All Models + Instant BOGO (Same-Size 3-Step) — 72 Hours | 38% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-28-off-all-models-instant-bogo-same-size-3-step-72-hours/ |
-| 2025-10-19 | QT Funded | QT Funded — Diwali: 50% OFF Evaluations + Free Instant on Payout, 100% Profit Split & 100% Refund | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-50-off-evaluations-free-instant-on-payout-100-profit-split-100-refund/ |
+| 2025-10-19 | QT Funded | QT Funded — Diwali: 50% OFF Evaluations + Free Instant on Payout, 100% Profit Split & 100% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-50-off-evaluations-free-instant-on-payout-100-profit-split-100-refund/ |
 | 2025-10-19 | Goat Funded Trader | GOAT Funded Trader — Diwali Festival of Lights: 50% OFF Sitewide (72 Hours Only) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-diwali-festival-of-lights-50-off-sitewide-72-hours-only/ |
 | 2025-10-18 | Earnex Prime | Earnex Prime — 50% OFF + Free Half-Size Account & 90% First-Payout Split (Diwali) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-50-off-free-half-size-account-90-first-payout-split-diwali/ |
 | 2025-10-18 | Blueberry Funded | Blueberry Funded — 30% OFF on Prime & Instant Accounts (Diwali) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-on-prime-instant-accounts-diwali/ |

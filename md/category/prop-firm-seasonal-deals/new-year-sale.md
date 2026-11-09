@@ -25,7 +25,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-01-07 | SFX Funded | SFX Funded New Year Deal: Up to 70% Off Entry Fees + BOGO | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-new-year-deal-70-off-bogo/ |
 | 2026-01-06 | Apex Trader Funding | Apex Trader Funding New Year Special: 90% Off 1st Month + PA Fee Deals | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-special-90-off/ |
 | 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
-| 2026-01-06 | QT Funded | QT Funded New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/ |
+| 2026-01-06 | QT Funded | QT Funded New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/ |
 | 2026-01-05 | HyroTrader | HyroTrader New Year 2026 Offer: 20% Off Evaluation Costs | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/ |
 | 2026-01-05 | Earn2Trade | Earn2Trade 2026 New Year Deal: 50% Off Select Evaluations | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/ |
 | 2026-01-05 | AudaCity Capital | AudaCity Capital Funded: 14% OFF All Programs (New Year Update) | 14% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-new-year-promotion/ |
@@ -49,7 +49,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-31 | Alpha Funded | Alpha Trader Firm New Year Deal: 15% OFF + 200% Refund & Price Updates | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-new-year-15-off-200-refund/ |
 | 2025-12-31 | Goat Funded Trader | Goat Funded Trader New Year Offer: 40% Off All Plans | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-new-year-offer-40-off/ |
 | 2025-12-31 | WSFunded | WSFunded New Year Deal: 50% OFF Entry Fees + Giveaway Draw | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-new-year-offer-50-off/ |
-| 2025-12-31 | QT Funded | QT Funded New Year Offer: 50% Off All Evaluations + BOGO | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-50-off-bogo/ |
+| 2025-12-31 | QT Funded | QT Funded New Year Offer: 50% Off All Evaluations + BOGO | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-50-off-bogo/ |
 | 2025-12-31 | Super Funded | Super Funded New Year Offer: 5K Challenge for $5 | Only $5 | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-5k-challenge-deal/ |
 | 2025-12-31 | OFP Funding | OFP Funding Start 2026 Offer: 55% OFF All Accounts | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-start-2026-offer/ |
 | 2025-12-31 | FXIFY | FXIFY New Year Offer: 26% OFF All Accounts + Free Add-Ons | 26% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-new-year-promotion/ |
@@ -72,7 +72,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-29 | Finotive Funding | Finotive Funding End the Year Sale: 35% OFF All Challenge Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-end-year-sale-35-off-challenges/ |
 | 2025-12-29 | The Concept Trading | The Concept Trading: 35% Off Standard Evaluations and Free Intern Retry | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-evaluations-retry/ |
 | 2025-12-27 | Apex Trader Funding | Apex Trader Funding New Year Deal: 90% Off First Month + $84.60 PA Fees | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-90-percent-off/ |
-| 2025-12-27 | QT Funded | QT Funded Christmas and New Year Offer: 50% Off + Free Half-Size Account | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/ |
+| 2025-12-27 | QT Funded | QT Funded Christmas and New Year Offer: 50% Off + Free Half-Size Account | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/ |
 | 2025-12-24 | BluSky Trading | BluSky Trading New Year Offer: 50% OFF Launch Plans | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-new-year-offer-50-off/ |
 | 2025-12-22 | The5ers | The5ers New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | - | https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/ |
 | 2025-12-22 | FundedSquad | FundedSquad New Year Promo: 50% Off Evaluations + Buy 1 Get 2 Free | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-new-year-evaluation-promo/ |

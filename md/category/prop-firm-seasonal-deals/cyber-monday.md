@@ -7,7 +7,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
 | 2025-12-16 | Earn2Trade | Earn2Trade Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/ |
-| 2025-12-09 | QT Funded | QT Funded Cyber Monday Deal: 55% OFF + Free Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/ |
+| 2025-12-09 | QT Funded | QT Funded Cyber Monday Deal: 55% OFF + Free Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/ |
 | 2025-12-05 | QT Futures | QT Futures Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/ |
 | 2025-12-04 | The Concept Trading | The Concept Trading Cyber Monday: 35% Off Upfront Fees and Free Retry | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-cyber-monday-35-off-retry/ |
 | 2025-12-03 | Phidias Propfirm | Phidias Propfirm Cyber Sale: 80% Off OTP Accounts & 60% Off Evaluations | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/ |
@@ -53,7 +53,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-01 | My Funded Futures | MyFunded Futures Cyber Monday Deal: 30% Off Pro Plans + Reset Giveaway | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/myfunded-futures-cyber-monday-30-off/ |
 | 2025-12-01 | Hantec Trader | Hantec Trader Cyber Monday: 20% OFF All Programs (Ends Tonight) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-cyber-monday-20-off/ |
 | 2025-12-01 | Bitfunded | Bitfunded Cyber Monday Deal: Buy 3 Get 3 Free + 100% Profit Share | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-cyber-monday-buy-3-get-3-free/ |
-| 2025-12-01 | QT Funded | QT Funded Cyber Monday Deal: 55% OFF + Free Account | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account/ |
+| 2025-12-01 | QT Funded | QT Funded Cyber Monday Deal: 55% OFF + Free Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account/ |
 | 2025-12-01 | Seacrest Markets | Seacrest Markets Cyber Monday Offer: 30% OFF + Triple Rewards | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/ |
 | 2025-12-01 | PropShopTrader | PropShopTrader Black Friday Code: 90% OFF Warriors Accounts | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-black-friday-90-off-warriors/ |
 | 2025-12-01 | FXIFY | FXIFY Cyber Week Sale: 35% Off + 2 Free Add-ons | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-cyber-week-35-off-free-addons/ |

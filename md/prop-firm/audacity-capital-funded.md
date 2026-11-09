@@ -9,7 +9,7 @@ The newest AudaCity Capital discount code is **NOW20** — 20% off (November 4, 
 - Activate: https://propfirmdiscount.com/go/audacitycapital
 - Firm page: https://propfirmdiscount.com/prop-firm/audacity-capital-funded/
 
-As of 2026-11-07, the biggest AudaCity Capital offers this month: 35% OFF with code HALLOWEEN, 20% OFF with code NOW20, and 14% OFF with code 14th.
+As of 2026-11-09, the biggest AudaCity Capital offers this month: 35% OFF with code HALLOWEEN, 20% OFF with code NOW20, and 14% OFF with code 14th.
 
 ## Current deal: AudaCity Capital 20% Off Ability One and FTP Instant Funding
 

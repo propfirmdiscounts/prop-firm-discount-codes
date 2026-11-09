@@ -1,16 +1,15 @@
 # Doji Funding Election Day 60% Off Challenges
 
-Doji Funding is offering 60% off — discount code **PFD**.
+Doji Funding was offering 60% off.
 
 > Doji Funding cuts 60% off every challenge for Election Day, with 25% off the first two resets, for 1-Step and 2-Step challenges, ending November 8.
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-08
+- Offer ends: 2026-11-08 (ended)
 - Prop firm: Doji Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
 - Summary: 60% off every challenge, with 25% off the first two resets, ending November 8 for buyers today ready to start this month now in November.
 - Offer: 60% Off
-- Code: PFD
 - Scope: 1-Step and 2-Step challenges
 - Deal: https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

@@ -13,14 +13,13 @@ The verified Doji Funding discount code is **PFD** — Up to 40% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-07, the biggest Doji Funding offers this month: 60% OFF with code PFD, 60% OFF with code PFD, and 30% OFF with code PFD.
+As of 2026-11-09, the biggest Doji Funding offers this month: 60% OFF with code PFD, 60% OFF with code PFD, and 30% OFF with code PFD.
 
-## Current deal: Doji Funding Election Day 60% Off Challenges
+## Most recent deal (ended): Doji Funding Election Day 60% Off Challenges
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-08
+- Offer ends: 2026-11-08 (ended)
 - Offer: 60% Off
-- Code: PFD
 - Scope: 1-Step and 2-Step challenges
 - Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/
 
@@ -44,6 +43,6 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Doji Funding Election Day 60% Off Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) (60% Off)
+- 2026-11-02 - [Doji Funding Election Day 60% Off Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) (60% Off) — ended 2026-11-08
 - 2026-10-26 - [Doji Funding Halloween 60% Off Every Challenge](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) (60% Off) — Halloween — ended 2026-10-31
 - 2026-10-12 - [Doji Funding 30% Off All Configurable Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) (30% Off) — ended 2026-10-12

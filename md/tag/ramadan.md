@@ -16,6 +16,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-02-19 | Funding Your Trades | Funding Your Trades 40% Off Challenge Pricing and Extra Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-bonus-accounts-ramadan/ |
 | 2026-02-19 | CK PropFirm | CK Capital 70% Off All Evaluation Programs And Resets | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-ramadan-promotion/ |
 | 2026-02-19 | Funding Your Trades | Funding Your Trades 35% Discount and Second Account | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-35-discount-second-account-ramadan/ |
-| 2026-02-18 | QT Funded | QT Funded Ramadan Deal: 40% Off Entry + Free Account & 100% Refund | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-ramadan-promotion-40-off-bogo/ |
+| 2026-02-18 | QT Funded | QT Funded Ramadan Deal: 40% Off Entry + Free Account & 100% Refund | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-ramadan-promotion-40-off-bogo/ |
 | 2026-02-18 | Forex Funds Flow | Forex Funds Flow 10% Off All Evaluations and Instant Accounts | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-10-percent-off-ramadan/ |
 | 2026-02-17 | ThinkCapital | ThinkCapital Ramadan Offer: 25% Off All Trading Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-ramadan-25-percent-off/ |

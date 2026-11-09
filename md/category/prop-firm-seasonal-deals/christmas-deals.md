@@ -1,6 +1,6 @@
 # Christmas Prop Firm Deals & Holiday Promo Codes Prop Firm Deals (2026)
 
-As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code PFD at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
+As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
@@ -11,7 +11,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-30 | Lark Funding | Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program | Buy 1 Get 2 | Ended | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-boxing-day-buy-1-get-2-tries/ |
 | 2025-12-29 | Forex Funds Flow | Forex Funds Flow Christmas Flash Offer: 23% OFF All Models | 23% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-flash-offer-23-off/ |
 | 2025-12-28 | Atlas Funded | Atlas Funded 50% Off All Evaluations – Christmas | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-evaluations-christmas/ |
-| 2025-12-27 | QT Funded | QT Funded Christmas and New Year Offer: 50% Off + Free Half-Size Account | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/ |
+| 2025-12-27 | QT Funded | QT Funded Christmas and New Year Offer: 50% Off + Free Half-Size Account | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/ |
 | 2025-12-27 | Dominion Funding | Dominion Funding Christmas Offer: 30% OFF All Accounts & Temporary Sizes | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-christmas-offer-30-off/ |
 | 2025-12-26 | Atmos Funded | Atmos Funded Christmas Sale: 35% Off 1-Step & Plus, 20% Off Standard & Instant | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-christmas-sale-35-percent-off/ |
 | 2025-12-26 | Finotive Funding | Finotive Funding Christmas Offer: 40% OFF All Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-christmas-promotion-40-off/ |
@@ -20,7 +20,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-25 | Hantec Trader | Hantec Trader Christmas Deal: 50% OFF All Challenges | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-christmas-50-off/ |
 | 2025-12-25 | Sure Leverage Funding | Sure Leverage Funding Christmas Offer: Free Reset for 24 Hours | Free Reset | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-christmas-free-reset/ |
 | 2025-12-25 | Sure Leverage Funding | Sure Leverage Funding Christmas Sale: 50% Off 50K and Less, 35% Off 50K and Above + BOGO | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-christmas-bogo-tiered-discount/ |
-| 2025-12-25 | QT Funded | QT Funded Christmas Offer: 50% OFF All Evaluations + BOGO | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/ |
+| 2025-12-25 | QT Funded | QT Funded Christmas Offer: 50% OFF All Evaluations + BOGO | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/ |
 | 2025-12-25 | Super Funded | Super Funded Christmas Offer: 35% OFF All Evaluation Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-christmas-promotion-35-off/ |
 | 2025-12-25 | Elite Trader Funding | Elite Trader Funding Elitemas: 90% OFF Static & 1-Step + 80% OFF EOD | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-elitemas-sale-90-off/ |
 | 2025-12-25 | Funding Your Trades | Funding Your Trades Christmas Offer: 45% OFF + Buy 1 Get 3 Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-christmas-buy-1-get-3/ |
@@ -34,7 +34,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-23 | Elite Trader Funding | Elite Trader Funding Christmas Offer: 50% OFF All Add-ons | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-christmas-add-on-sale/ |
 | 2025-12-23 | WSFunded | WSFunded Christmas Sale: 50% OFF Challenge Pricing + Giveaway | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-christmas-sale-50-off/ |
 | 2025-12-23 | Tradexprop | Tradexprop Christmas Sale: 30% Off All Plans Until Dec 26 | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-christmas-30-off/ |
-| 2025-12-23 | QT Funded | QT Funded Christmas Deal: 50% Off All Accounts + Free Account on Pass | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-deal-50-off/ |
+| 2025-12-23 | QT Funded | QT Funded Christmas Deal: 50% Off All Accounts + Free Account on Pass | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-deal-50-off/ |
 | 2025-12-23 | Tradeify | Tradeify Christmas Offer: 40% OFF Tradovate Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-christmas-promotion/ |
 | 2025-12-23 | Alpha Futures | Alpha Futures Christmas Offer: 40% Off All Accounts + Giveaway | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-christmas-promotion/ |
 | 2025-12-23 | City Traders Imperium (CTI) | City Traders Imperium Christmas Offer: 15% OFF 50K-100K Challenges | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-christmas-offer-15-off/ |
@@ -112,7 +112,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-10 | City Traders Imperium (CTI) | City Traders Imperium (CTI) Christmas Flash Sale: 20% OFF 2-Step Challenges | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-christmas-20-off-2-step/ |
 | 2025-12-10 | Fintokei | Fintokei Christmas Deal: 5% OFF + Spin to Win Guaranteed Prizes | 5% OFF | Ended | - | https://propfirmdiscount.com/deals/fintokei/fintokei-christmas-deal-5-off-spin-wheel/ |
 | 2025-12-09 | Super Funded | Super Funded Holiday Sale: 40% OFF Challenges (Limited Spots) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-holiday-sale-40-off-limited/ |
-| 2025-12-09 | QT Funded | QT Funded Christmas Offer: 50% Off + Free Instant Account (BOGO) | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-free-instant-account/ |
+| 2025-12-09 | QT Funded | QT Funded Christmas Offer: 50% Off + Free Instant Account (BOGO) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-free-instant-account/ |
 | 2025-12-09 | City Traders Imperium (CTI) | City Traders Imperium Christmas Flash Sale: 15% OFF Funding | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-christmas-15-off-flash-sale/ |
 | 2025-12-09 | WSFunded | WSFunded Christmas Offer: 30% Discount + 300% Refund | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-christmas-30-off-300-refund/ |
 | 2025-12-08 | Forexive | Forexive Christmas Flash Sale: 50% OFF All Evaluation Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-christmas-flash-sale-50-off-evaluations/ |

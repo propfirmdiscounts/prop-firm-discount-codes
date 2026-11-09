@@ -312,24 +312,24 @@
     {
         "prop_firm": "QT Funded",
         "code": "PFD",
-        "discount": "60%",
+        "discount": "50%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13169,
-            "title": "Diwali 60% Off + Free Account + Payout Extra",
+            "deal_id": 13185,
+            "title": "60% Off + Free Same-Size Account",
             "offer_type": "coupon",
             "discount_value": "60%",
             "scope": [
-                "Qt Accounts; Free Same-Size Account And Extra 10% On Payout Included"
+                "Any Account - Qt One, Qt Two, Qt Instant, Qt Power"
             ],
-            "date_published": "2026-11-06",
-            "date_exp": "2026-11-09",
-            "event": "Diwali",
-            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/"
+            "date_published": "2026-11-07",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/"
         },
         "deal_count": {
-            "total": 62,
-            "this_year": 39,
+            "total": 63,
+            "this_year": 40,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/qtfunded",
@@ -777,24 +777,24 @@
     {
         "prop_firm": "FundingTraders",
         "code": "PFD",
-        "discount": "50%",
+        "discount": "70%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13122,
-            "title": "Half Price on Instant Funded and Pro Accounts",
+            "deal_id": 13181,
+            "title": "Diwali 70% Off 1-Step Accounts",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "70%",
             "scope": [
-                "Instant Funded, 1-Step Pro, 2-Step Pro 10"
+                "$5K And $10K 1-Step Accounts"
             ],
-            "date_published": "2026-11-03",
+            "date_published": "2026-11-07",
             "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/"
+            "event": "Diwali",
+            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/"
         },
         "deal_count": {
-            "total": 93,
-            "this_year": 69,
+            "total": 94,
+            "this_year": 70,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
@@ -1118,7 +1118,7 @@
     {
         "prop_firm": "Bulenox",
         "code": "PFD",
-        "discount": "91%",
+        "discount": "89%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 12830,
@@ -1129,7 +1129,7 @@
                 "Option 1 Accounts, 25K To 150K"
             ],
             "date_published": "2026-10-07",
-            "date_exp": "Limited time",
+            "date_exp": "Ended",
             "event": null,
             "post_url": "https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/"
         },
@@ -1563,7 +1563,7 @@
                 "1-Step And 2-Step Challenges"
             ],
             "date_published": "2026-11-02",
-            "date_exp": "2026-11-08",
+            "date_exp": "2026-11-08 (ended)",
             "event": null,
             "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/"
         },

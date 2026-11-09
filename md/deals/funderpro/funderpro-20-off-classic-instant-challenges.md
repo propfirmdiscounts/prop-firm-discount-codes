@@ -1,16 +1,15 @@
 # FunderPro 20% Off Classic and Instant Challenges
 
-FunderPro is offering 20% off — discount code **NOV20**.
+FunderPro was offering 20% off.
 
 > FunderPro cuts 20% off all challenges, Classic and Instant. The price cut does not change trading risk. Ends Sunday 8 November at 23:59 UTC.
 
 - Published: 2026-11-03
-- Offer ends: 2026-11-08 18:59
+- Offer ends: 2026-11-08 18:59 (ended)
 - Prop firm: FunderPro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 - Summary: FunderPro cuts 20% off all challenges, covering both Classic and Instant. The discount lowers the entry cost only, while challenge rules and trading risk stay exactly as set. Ends Sunday 8 November at 23:59 UTC.
 - Offer: 20% Off
-- Code: NOV20
 - Scope: Classic challenges, Instant challenges
 - Deal: https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/
 

@@ -7,50 +7,46 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-07
 - Trustpilot: 3.5/5 (13383 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-07, the biggest QT Funded offers this month: 65% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, 60% OFF with code PFD, and 60% OFF with code PFD.
+As of 2026-11-09, the biggest QT Funded offers this month: 65% OFF with code NEW, 60% OFF with code DISCORD, 60% OFF with code DIWALI, 60% OFF with code TREAT, and 60% OFF with code TRICK.
 
-## Current deal: QT Funded Diwali 60% Off + Free Same-Size Account
+## Current deal: QT Funded: 60% Off Any Account + Free Same-Size Account
 
-- Published: 2026-11-06
-- Offer ends: 2026-11-09
+- Published: 2026-11-07
+- Offer ends: Limited time
 - Offer: 60% Off
-- Code: PFD
-- Scope: QT accounts; free same-size account and extra 10% on payout included
-- Event: Diwali
-- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/
+- Code: DISCORD
+- Scope: Any account - QT ONE, QT TWO, QT INSTANT, QT POWER
+- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/
 
 ## QT Funded deal FAQ
 
-**What does the QT Funded Diwali promotion include?**
+**What does the QT Funded Discord offer include?**
 
-It includes 60% off, a free same-size account and an extra 10% on payout. The offer ends Monday 9 November and trading is simulated, with offer and account terms applying.
+It includes 60% off any account plus a free second account of the same size. Four routes are priced: QT TWO $100,000 at $220, QT ONE $10,000 at $76, QT INSTANT $50,000 at $150 and QT POWER $25,000 at $50, in USD on MT5 before optional add-ons.
 
-**How is the QT Funded Diwali offer claimed?**
+**Is QT Funded trading real or simulated under this offer?**
 
-The buyer chooses an account and enters the promotion code at checkout before the Monday deadline. The free same-size account is part of the same purchase.
-
-**What does the extra 10% on payout mean at QT Funded?**
-
-A payout on the account carries an extra 10% under this promotion. The extra applies when a payout is reached and it does not change the likelihood of reaching one.
+Trading is simulated and offer and account terms apply. The stated prices are after the 60% discount and before optional add-ons.
 
 **Does the QT Funded discount change account rules?**
 
-No. The promotion lowers the purchase price and lifts the payout percentage only. Account rules and drawdown limits stay as set and trading risk is not reduced.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The free same-size account carries the same rules as the paid account.
 
-**Who may this QT Funded package suit?**
+**Who may this QT Funded offer suit?**
 
-It may suit a buyer who had already chosen their next QT account and was comparing entry prices. A buyer treating it as a Diwali purchase should keep the cost inside a comfortable festive budget.
+It may suit a buyer who had already chosen a starting route and was comparing entry prices. The announcement gives no end date, so the purchase timing should be treated as part of the decision.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-07 - [QT Funded: 60% Off Any Account + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) (60% Off)
 - 2026-11-06 - [QT Funded Diwali 60% Off + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) (60% Off) — Diwali
-- 2026-11-04 - [QT Funded 60% Off All Accounts Plus Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) (60% Off)
+- 2026-11-04 - [QT Funded 60% Off All Accounts Plus Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) (60% Off) — ended 2026-11-08
 - 2026-10-26 - [QT Funded Halloween 50% Off Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) (50% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-26 - [QT Funded Halloween 60% Off Challenge Entry](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) (60% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off) — ended 2026-10-25

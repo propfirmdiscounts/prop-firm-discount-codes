@@ -1,16 +1,15 @@
 # OFP Funding 45% Off Everything Plus BOGO
 
-OFP Funding is offering 45% off — discount code **45OFF**.
+OFP Funding was offering 45% off.
 
 > OFP Funding cuts 45% off everything, ending November 8, with a second account on orders above $250 after the discount, lowering the entry cost for buyers.
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-08
+- Offer ends: 2026-11-08 (ended)
 - Prop firm: OFP Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 - Summary: 45% off everything, ending November 8, with a second account on orders above $250 after the discount and cost down for buyers at purchase today.
 - Offer: 45% Off
-- Code: 45OFF
 - Scope: Every account, in every model, including new 400K and 500K Instant accounts
 - Deal: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-percent-off-everything-bogo/
 

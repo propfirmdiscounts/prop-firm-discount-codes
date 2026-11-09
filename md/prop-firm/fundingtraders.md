@@ -7,43 +7,45 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-03
+- Last deal published: 2026-11-07
 - Trustpilot: 3.1/5 (3284 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-07, the biggest FundingTraders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-09, the biggest FundingTraders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: Funding Traders 50% Off Instant Funded and Pro Accounts
+## Current deal: FundingTraders Diwali Special: 70% Off 1-Step Accounts
 
-- Published: 2026-11-03
+- Published: 2026-11-07
 - Offer ends: Limited time
-- Offer: 50% Off
+- Offer: 70% Off
 - Code: PFD
-- Scope: Instant Funded, 1-Step Pro, 2-Step Pro 10
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/
+- Scope: $5K and $10K 1-Step accounts
+- Event: Diwali
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/
 
 ## FundingTraders deal FAQ
 
-**What discount does Funding Traders offer on Instant Funded accounts?**
+**What does the FundingTraders Diwali Special include?**
 
-Funding Traders offers 50% off Instant Funded, 1-Step Pro and 2-Step Pro 10 accounts in this promotion. Only the purchase price falls and the account rules stay as they are.
+It includes 70% off the $5K and $10K 1-Step accounts, offered to the Indian trading community for Diwali. The $5K is priced at $18 instead of $59 and the $10K at $33 instead of $109, with no end date stated.
 
-**Does the Funding Traders Instant Funded discount change any trading rules?**
+**Which account sizes does the FundingTraders Diwali discount cover?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits or risk parameters. Instant Funded is an account type and its rules are not changed by the price cut.
+It covers the $5K and $10K 1-Step accounts only. No other sizes are named in the offer.
 
-**Which account types does this Funding Traders promotion cover?**
+**Does the FundingTraders discount change account rules?**
 
-It covers Instant Funded, 1-Step Pro and 2-Step Pro 10 accounts. No other account type is named for this 50% promotion.
+No. The promotion lowers the purchase price only. Evaluation targets, drawdown limits and payout terms stay as set and trading risk is not reduced.
 
-**Who may this Funding Traders discount suit?**
+**Who may this FundingTraders offer suit?**
 
-It may suit a buyer who had already chosen one of the three covered account types and who accepts the rules attached to that account. A buyer choosing only because of the price cut should be cautious because no rule changes with the price.
+It may suit a buyer who had already chosen between the $5K and $10K 1-Step sizes and was comparing entry prices. The festival framing does not change the account requirements.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-07 - [FundingTraders Diwali Special: 70% Off 1-Step Accounts](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) (70% Off) — Diwali
 - 2026-11-03 - [Funding Traders 50% Off Instant Funded and Pro Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) (50% Off)
 - 2026-11-03 - [Funding Traders 70% Off 2-Step Swing Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) (70% Off) — ended 2026-11-03 20:00
 - 2026-11-03 - [Funding Traders 70% Off 2-Step Day Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) (70% Off) — ended 2026-11-03 20:00

@@ -33,6 +33,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-02-12 | Atlas Funded | Atlas Funded 40% Off All Evaluations – Valentine’s Day | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluations-valentines/ |
 | 2026-02-12 | FundYourFX | FundYourFX Valentine’s Day Sale: 50% Off All Programs & Refund Boost | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-valentines-day-promotion/ |
 | 2026-02-12 | AudaCity Capital | AudaCity Capital Funded Valentine’s Day Deal: 25% Off All Programs | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-valentines-day-25-off/ |
-| 2026-02-12 | QT Funded | QT Funded Valentine’s Day: 45% Off, Free Instant Account, 100% Split | 45% OFF | Ended | PFD | https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/ |
+| 2026-02-12 | QT Funded | QT Funded Valentine’s Day: 45% Off, Free Instant Account, 100% Split | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/ |
 | 2026-02-12 | CK PropFirm | CK Capital 70% Off Evaluation Accounts and Resets Valentine’s Day | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-70-off-evaluation-accounts-resets-valentines-day/ |
 | 2026-02-11 | Funding Your Trades | Funding Your Trades Valentine’s Deal: $425K Bundle for $479 | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-valentines-425k-bundle/ |
