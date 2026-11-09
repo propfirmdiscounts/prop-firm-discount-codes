@@ -223,13 +223,13 @@ jobs:
           PY
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (prop-firm/prop-firm-discount-codes): same content as
+        # HF dataset mirror (propfirmdiscountcode/prop-firm-discount-codes): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
         # commit so HF never gets content that failed to land here first.
         # Skipped silently when HF_TOKEN is unset.
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_NAMESPACE: prop-firm
+          HF_NAMESPACE: propfirmdiscountcode
           REPO_NAME: prop-firm-discount-codes
         if: env.HF_TOKEN != ''
         run: |
