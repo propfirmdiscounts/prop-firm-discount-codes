@@ -9,7 +9,7 @@ The newest Blueberry Funded discount code is **DIWALI30** — 30% off (November 
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-As of 2026-11-09, the biggest Blueberry Funded offers this month: 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, 30% OFF with code DIWALI30, and 30% OFF with code CLASSIC.
+As of 2026-11-10, the biggest Blueberry Funded offers this month: 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, 30% OFF with code DIWALI30, and 30% OFF with code CLASSIC.
 
 ## Current deal: Blueberry Funded Diwali: 30% Off All Challenges
 

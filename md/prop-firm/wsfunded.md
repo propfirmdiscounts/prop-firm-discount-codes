@@ -9,7 +9,7 @@ The newest WSFunded discount code is **4INSTANT** — 30% off (November 9, 2026)
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-As of 2026-11-09, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
+As of 2026-11-10, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code SPOOKY50, 50% OFF with code NEWYORK50, and 50% OFF with code FLASH50.
 
 ## Current deal: WSFunded Black Friday: 4 Instant Challenges $68.60
 

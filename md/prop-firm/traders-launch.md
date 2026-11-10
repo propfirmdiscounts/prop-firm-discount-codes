@@ -1,18 +1,17 @@
 # Traders Launch Discount Code
 
-The newest Traders Launch discount code is **HUSH** — Mystery discount (November 2, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Traders Launch right now — newest deals and offers are below.
 
 - Last deal published: 2026-11-02
 - Trustpilot: 4.6/5 (82 reviews)
 - Activate: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 
-## Current deal: Traders Launch Mystery Discount Account
+## Most recent deal (ended): Traders Launch Mystery Discount Account
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-09 23:59
+- Offer ends: 2026-11-09 23:59 (ended)
 - Offer: Mystery discount
-- Code: HUSH
 - Scope: A chosen account
 - Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
 
@@ -36,4 +35,4 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Traders Launch Mystery Discount Account](https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/) (Mystery discount)
+- 2026-11-02 - [Traders Launch Mystery Discount Account](https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/) (Mystery discount) — ended 2026-11-09 23:59

@@ -1,16 +1,15 @@
 # Funded Trading Plus 35% Off All Accounts Until 9 November
 
-Funded Trading Plus is offering 35% off — discount code **LIGHT35**.
+Funded Trading Plus was offering 35% off.
 
 > Funded Trading Plus cuts 35% off all accounts for the Festival of Lights until 9 November. The $4 Pass Now, Pay Later Challenge is excluded.
 
 - Published: 2026-11-04
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Prop firm: Funded Trading Plus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - Summary: Funded Trading Plus cuts 35% off all accounts until 9 November, covering Instant Funding and challenges. Only the purchase price changes, while trading rules and trading risk stay exactly as set throughout.
 - Offer: 35% Off
-- Code: LIGHT35
 - Scope: All accounts, Instant Funding, challenge accounts, all account sizes
 - Deal: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

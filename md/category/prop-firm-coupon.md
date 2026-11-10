@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
 | 2026-11-09 | Elite Trader Funding | Elite Trader Funding: 75% Off Non-Fast Track Evals | 75% OFF | 2026-11-13 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/ |
 | 2026-11-09 | PipFarm | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
@@ -26,7 +27,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-06 | HyroTrader | HyroTrader Hyro Instant Launch: 15% Off First 30 | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
-| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
+| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale | 35% OFF | 2026-11-06 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-06 | City Traders Imperium (CTI) | City Traders Imperium 20% Off Until NFP Drops | 20% OFF | 2026-11-06 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
@@ -40,7 +41,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
 | 2026-11-04 | AudaCity Capital | AudaCity Capital 20% Off Ability One and FTP Instant Funding | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/ |
 | 2026-11-04 | WSFunded | WSFunded 40% Off All Challenges Plus 300% Refund Offer | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/ |
-| 2026-11-04 | Funded Trading Plus | Funded Trading Plus 35% Off All Accounts Until 9 November | 35% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/ |
+| 2026-11-04 | Funded Trading Plus | Funded Trading Plus 35% Off All Accounts Until 9 November | 35% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/ |
 | 2026-11-04 | QT Funded | QT Funded 60% Off All Accounts Plus Free Same-Size Account | 60% OFF | 2026-11-08 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/ |
 | 2026-11-04 | Funded Hero | Funded Hero 60% Off $100K Instant Elite – Now $799.60 | 60% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/ |
 | 2026-11-04 | Blue Guardian | Blue Guardian 30% Off CFD and Futures Accounts From $54 | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/ |
@@ -53,7 +54,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-03 | Funded Elite | Funded Elite November 55% Off Instant Elite Accounts | 55% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |
 | 2026-11-03 | FunderPro | FunderPro 20% Off Classic and Instant Challenges | 20% OFF | 2026-11-08 18:59 (ended) | - | https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/ |
 | 2026-11-03 | Lucid Trading | Lucid Trading 30% Off All LucidDaily Plans – Price Cut | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/ |
-| 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
+| 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
 | 2026-11-03 | FTUK | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-03 | AudaCity Capital | AudaCity Capital 14% Off All Programs – Entry Fees Cut | 14% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/ |
 | 2026-11-03 | RebelsFunding | RebelsFunding 72% Off $5,000 1-Step Program | 72% OFF | 2026-11-05 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/ |
@@ -64,7 +65,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | CK PropFirm | CK PropFirm 75% Off All Challenge Accounts | 75% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |
 | 2026-11-02 | Top One Futures | Top One Futures Black November Up to 65% Off | 65% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
 | 2026-11-02 | Doji Funding | Doji Funding Election Day 60% Off Challenges | 60% OFF | 2026-11-08 (ended) | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/ |
-| 2026-11-02 | Traders Launch | Traders Launch Mystery Discount Account | Mystery discount | 2026-11-09 23:59 | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |
+| 2026-11-02 | Traders Launch | Traders Launch Mystery Discount Account | Mystery discount | 2026-11-09 23:59 (ended) | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |
 | 2026-11-02 | Hola Prime | Hola Prime Black Friday 50% Off 2-Step Fly | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | Limited time | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
 | 2026-11-02 | Goat Funded Trader | Goat Funded Trader 40% Off Plus Buy One Get One Free | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/ |
@@ -77,7 +78,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | FundedSquad | FundedSquad 50% Off All Models Plus BOGO | 50% OFF | 2026-11-09 07:00 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/ |
 | 2026-11-02 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/ |
 | 2026-11-02 | FXIFY | FXIFY 25% Off Plus Two Free Add-Ons | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/ |
-| 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
+| 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
 | 2026-11-02 | Instant Funding | Instant Funding 30% Off Everything Plus Add-Ons | 30% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/ |
 | 2026-11-02 | Instant Funding | Instant Funding 40% Off IF Pro and IF Lite | 40% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/ |
 | 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
@@ -242,15 +243,15 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-12 | Phidias Propfirm | Phidias Propfirm 85% Off 50K Evaluation Accounts | 85% OFF | 2026-10-25 (ended) | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/ |
 | 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | Limited time | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
 | 2026-10-11 | FundYourFX | FundYourFX 55% Off Challenge Pricing Plus $155 Payout Bonus | 55% OFF | 2026-10-17 (ended) | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-october-sale-55-off-155-bonus/ |
-| 2026-10-09 | Fundex | Fundex 20% Off 1-Step Evaluation Accounts | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |
-| 2026-10-09 | FTUK | FTUK 50% Off Futures Accounts for WealthCharts Launch | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-futures-wealthcharts-launch/ |
+| 2026-10-09 | Fundex | Fundex 20% Off 1-Step Evaluation Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |
+| 2026-10-09 | FTUK | FTUK 50% Off Futures Accounts for WealthCharts Launch | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-futures-wealthcharts-launch/ |
 | 2026-10-09 | Ment Funding | Ment Funding 50% Off PropX and 40% Off Alternative Platforms | 50% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-evaluations/ |
 | 2026-10-09 | BrightFunded | BrightFunded Cuts 40% Off $100K and $200K 1-Step Challenges | 40% OFF | 2026-10-11 (ended) | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-40-off-100k-200k-1-step/ |
 | 2026-10-09 | Elite Trader Funding | Elite Trader Funding: 85% Off Non-Fast Track Evaluations & 20-Account Limit | 85% OFF | 2026-10-09 (ended) | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-85-off-non-fast-track/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
 | 2026-10-09 | Tradexprop | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |
-| 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | Limited time | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
-| 2026-10-09 | WSFunded | WSFunded 50% Off All Challenges and New York Prize Draw | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/ |
+| 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
+| 2026-10-09 | WSFunded | WSFunded 50% Off All Challenges and New York Prize Draw | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/ |
 | 2026-10-09 | Funded Elite | Funded Elite 35%-50% Off Plus Free Pack Entitlements | 50% OFF | 2026-10-14 (ended) | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-35-to-50-off-packs-launch/ |
 | 2026-10-09 | Blueberry Funded | Blueberry Funded 1-Step Classic: 30% Off Entry Fees | 30% OFF | 2026-10-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/ |
 | 2026-10-09 | Blueberry Funded | Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing | 35% OFF | 2026-10-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/ |

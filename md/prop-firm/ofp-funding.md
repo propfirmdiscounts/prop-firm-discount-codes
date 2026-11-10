@@ -7,7 +7,7 @@ No live discount code for OFP Funding right now — newest deals and offers are 
 - Activate: https://propfirmdiscount.com/go/ofpfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 
-As of 2026-11-09, the biggest OFP Funding offers this month: 50% OFF with code OFP50 and 45% OFF with code 45OFF.
+As of 2026-11-10, the biggest OFP Funding offers this month: 50% OFF with code OFP50 and 45% OFF with code 45OFF.
 
 ## Most recent deal (ended): OFP Funding 45% Off Everything Plus BOGO
 

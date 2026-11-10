@@ -13,14 +13,13 @@ The verified Atlas Funded discount code is **PFD** — Up to 40% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest Atlas Funded offers this month: 45% OFF with code SPOOKY, 45% OFF with code SPOOKY, 45% OFF with code NEWERA, 40% OFF with code ATLAS2, and 40% OFF with code OCTFLASH.
+As of 2026-11-10, the biggest Atlas Funded offers this month: 45% OFF with code SPOOKY, 45% OFF with code SPOOKY, 45% OFF with code NEWERA, 40% OFF with code ATLAS2, and 40% OFF with code OCTFLASH.
 
-## Current deal: Atlas Funded 40% Off Futures Evaluations
+## Most recent deal (ended): Atlas Funded 40% Off Futures Evaluations
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Offer: 40% Off
-- Code: ATLAS2
 - Scope: Futures evaluations, on the Tradara platform
 - Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/
 
@@ -52,7 +51,7 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Atlas Funded 40% Off Futures Evaluations](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) (40% Off)
+- 2026-11-02 - [Atlas Funded 40% Off Futures Evaluations](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) (40% Off) — ended 2026-11-09
 - 2026-10-26 - [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) (45% Off) — Halloween
 - 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off) — Halloween
 - 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — Halloween — ended 2026-10-18

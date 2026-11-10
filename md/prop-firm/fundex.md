@@ -11,14 +11,13 @@ The verified Fundex discount code is **PFD** — Up to 5% off, works any time.
 - Firm page: https://propfirmdiscount.com/prop-firm/fundex/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest Fundex offers this month: 20% OFF with code 1STEP.
+As of 2026-11-10, the biggest Fundex offers this month: 20% OFF with code 1STEP.
 
-## Current deal: Fundex 20% Off 1-Step Evaluation Accounts
+## Most recent deal (ended): Fundex 20% Off 1-Step Evaluation Accounts
 
 - Published: 2026-10-09
-- Offer ends: Limited time
+- Offer ends: Ended
 - Offer: 20% Off
-- Code: 1STEP
 - Scope: 1-Step Evaluation, 100K Account, Coupon
 - Deal page: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
 

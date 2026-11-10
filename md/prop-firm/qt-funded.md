@@ -13,7 +13,7 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest QT Funded offers this month: 65% OFF with code NEW, 60% OFF with code DISCORD, 60% OFF with code DIWALI, 60% OFF with code TREAT, and 60% OFF with code TRICK.
+As of 2026-11-10, the biggest QT Funded offers this month: 65% OFF with code NEW, 60% OFF with code DISCORD, 60% OFF with code DIWALI, 60% OFF with code TREAT, and 60% OFF with code TRICK.
 
 ## Current deal: QT Funded: 60% Off Any Account + Free Same-Size Account
 
@@ -45,7 +45,7 @@ It may suit a buyer who had already chosen a starting route and was comparing en
 ## Deals (last 2 months, newest first)
 
 - 2026-11-07 - [QT Funded: 60% Off Any Account + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) (60% Off)
-- 2026-11-06 - [QT Funded Diwali 60% Off + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) (60% Off) — Diwali
+- 2026-11-06 - [QT Funded Diwali 60% Off + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) (60% Off) — Diwali — ended 2026-11-09
 - 2026-11-04 - [QT Funded 60% Off All Accounts Plus Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) (60% Off) — ended 2026-11-08
 - 2026-10-26 - [QT Funded Halloween 50% Off Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) (50% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-26 - [QT Funded Halloween 60% Off Challenge Entry](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) (60% Off) — Halloween — ended 2026-11-01 00:00

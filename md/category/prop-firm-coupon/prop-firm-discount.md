@@ -1,11 +1,12 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-09, the biggest offers this month: 75% OFF with code NOV75 at Elite Trader Funding, 70% OFF with code PFD at FundingTraders, 60% OFF with code DISCORD at QT Funded, 50% OFF with code DIWALI50 at Sure Leverage Funding, and 40% OFF with code PROFIT at PipFarm.
+As of 2026-11-09, the biggest offers this month: 75% OFF with code NOV75 at Elite Trader Funding, 60% OFF with code VET60 at FundYourFX, 60% OFF with code DISCORD at QT Funded, 50% OFF with code DIWALI50 at Sure Leverage Funding, and 40% OFF with code PROFIT at PipFarm.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
 | 2026-11-09 | Elite Trader Funding | Elite Trader Funding: 75% Off Non-Fast Track Evals | 75% OFF | 2026-11-13 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/ |
 | 2026-11-09 | PipFarm | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
@@ -25,7 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-06 | HyroTrader | HyroTrader Hyro Instant Launch: 15% Off First 30 | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/ |
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
-| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
+| 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-06 | City Traders Imperium (CTI) | City Traders Imperium 20% Off Until NFP Drops | 20% OFF | 2026-11-06 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-05 | Plutus Trade Base | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
-| 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |

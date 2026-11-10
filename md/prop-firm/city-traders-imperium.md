@@ -9,7 +9,7 @@ No live discount code for City Traders Imperium (CTI) right now — newest deals
 - Activate: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-As of 2026-11-09, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
+As of 2026-11-10, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
 
 ## Most recent deal (ended): City Traders Imperium 20% Off Until NFP Drops
 

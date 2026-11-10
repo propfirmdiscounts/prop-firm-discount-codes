@@ -1,6 +1,6 @@
 # Take Profit Trader Discount Code
 
-The newest Take Profit Trader discount code is **NOFEE50** — 50% off (November 3, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Take Profit Trader right now — newest deals and offers are below.
 
 > We fund futures traders. We’re a no-nonsense futures funding company with helpful 24/5 live trader support and an industry-leading payout program which allows you to get paid from day-one of your PRO account. Progress on your trading journey with us to live market PRO+ accounts and 90% profit splits. Come trade futures with the TPT team!
 
@@ -9,14 +9,13 @@ The newest Take Profit Trader discount code is **NOFEE50** — 50% off (November
 - Activate: https://propfirmdiscount.com/go/takeprofittrader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
 
-As of 2026-11-09, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
+As of 2026-11-10, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
 
-## Current deal: Take Profit Trader Black Friday 50% Off Test Accounts
+## Most recent deal (ended): Take Profit Trader Black Friday 50% Off Test Accounts
 
 - Published: 2026-11-03
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Offer: 50% Off
-- Code: NOFEE50
 - Scope: Test accounts (evaluation accounts), new accounts
 - Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/
@@ -49,4 +48,4 @@ No. The promotion lowers purchase pricing and waives the activation fee only. Tr
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-03 - [Take Profit Trader Black Friday 50% Off Test Accounts](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/) (50% Off) — Black Friday
+- 2026-11-03 - [Take Profit Trader Black Friday 50% Off Test Accounts](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/) (50% Off) — Black Friday — ended 2026-11-09

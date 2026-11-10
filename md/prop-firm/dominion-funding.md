@@ -13,7 +13,7 @@ The verified Dominion Funding discount code is **PFD5PC** — Up to 5% off, work
 - Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest Dominion Funding offers this month: 40% OFF with code BF2026, 30% OFF with code HAWK30, and 20% OFF with code AUTUMN20.
+As of 2026-11-10, the biggest Dominion Funding offers this month: 40% OFF with code BF2026, 30% OFF with code HAWK30, and 20% OFF with code AUTUMN20.
 
 ## Current deal: Dominion Funding Black Friday 40% Off Every Evaluation
 

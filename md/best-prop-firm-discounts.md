@@ -2,7 +2,7 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-09, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 75% OFF with code NOV75 at Elite Trader Funding, and 72% OFF with code 1STEP19 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 18 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-10, the biggest prop firm offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Phidias Propfirm, 80% OFF with code BLACKFRIDAY at Top One Trader, 75% OFF with code NOV75 at Elite Trader Funding, and 72% OFF with code 1STEP19 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 17 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ As of 2026-11-09, the biggest prop firm offers this month: 90% OFF with code PFD
 | 13 | Direct Funded Trader | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | 14 | Sure Leverage Funding | DIWALI50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
 | 15 | Plutus Trade Base | PASS50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
-| 16 | Take Profit Trader | NOFEE50 | 50% | Campaign Code | Ends Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/take-profit-trader/ |
+| 16 | Take Profit Trader | NOFEE50 | 50% | Campaign Code | Ended Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/take-profit-trader/ |
 | 17 | BrightFunded | BRIGHTFUTURES | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/bright-funded/ |
 | 18 | Hola Prime | BLACK50 | 50% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/hola-prime/ |
 | 19 | IC Funded | BLACKIC45 | 45% | Campaign Code | Ends Nov 30, 2026 | https://propfirmdiscount.com/prop-firm/ic-funded/ |

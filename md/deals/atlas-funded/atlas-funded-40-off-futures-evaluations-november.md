@@ -1,16 +1,15 @@
 # Atlas Funded 40% Off Futures Evaluations
 
-Atlas Funded is offering 40% off — discount code **ATLAS2**.
+Atlas Funded was offering 40% off.
 
 > Atlas Funded cuts 40% off Futures evaluations, ending November 9, lowering the upfront entry cost while the evaluation picked stays the same for buyers.
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Prop firm: Atlas Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - Summary: 40% off Futures evaluations, ending November 9, with cost down and the picked evaluation left exactly the same for buyers ready to start at purchase.
 - Offer: 40% Off
-- Code: ATLAS2
 - Scope: Futures evaluations, on the Tradara platform
 - Deal: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

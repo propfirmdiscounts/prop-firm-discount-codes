@@ -11,7 +11,7 @@ The verified FundedNext Futures discount code is **PFDC** — Up to 20% off, wor
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest FundedNext Futures offers this month: 40% OFF with code FNDIRECT.
+As of 2026-11-10, the biggest FundedNext Futures offers this month: 40% OFF with code FNDIRECT.
 
 ## Current deal: FundedNext Futures 50K Direct at $169.99, 40.1% Off
 

@@ -13,14 +13,13 @@ The verified Funded Trading Plus discount code is **PFD** — Up to 20% off, wor
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-09, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, and 35% OFF with code FLASH35.
+As of 2026-11-10, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, and 35% OFF with code FLASH35.
 
-## Current deal: Funded Trading Plus 35% Off All Accounts Until 9 November
+## Most recent deal (ended): Funded Trading Plus 35% Off All Accounts Until 9 November
 
 - Published: 2026-11-04
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Offer: 35% Off
-- Code: LIGHT35
 - Scope: All accounts, Instant Funding, challenge accounts, all account sizes
 - Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/
 
@@ -48,7 +47,7 @@ It may suit a buyer who had already chosen an Instant Funding or challenge accou
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-04 - [Funded Trading Plus 35% Off All Accounts Until 9 November](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/) (35% Off)
+- 2026-11-04 - [Funded Trading Plus 35% Off All Accounts Until 9 November](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/) (35% Off) — ended 2026-11-09
 - 2026-11-02 - [Funded Trading Plus $4 Activation Account, 2% Target](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/) (Only $4)
 - 2026-11-02 - [Funded Trading Plus 45% Off Instant Funding](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/) (45% Off) — Halloween — ended 2026-11-03
 - 2026-10-14 - [Funded Trading Plus: 35% Off Upfront Entry Cost Flash Sale](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/) (35% Off) — ended 2026-10-16

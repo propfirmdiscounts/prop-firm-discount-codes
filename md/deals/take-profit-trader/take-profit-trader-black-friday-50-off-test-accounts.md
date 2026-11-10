@@ -1,16 +1,15 @@
 # Take Profit Trader Black Friday 50% Off Test Accounts
 
-Take Profit Trader is offering 50% off — discount code **NOFEE50**.
+Take Profit Trader was offering 50% off.
 
 > Take Profit Trader Black Friday: 50% off test accounts with no activation fee. The fee cut does not reduce trading risk. Ends 9 November.
 
 - Published: 2026-11-03
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Prop firm: Take Profit Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
 - Summary: Take Profit Trader cuts 50% off test accounts with no activation fee on the same accounts for Black Friday. The discount lowers pricing only, while trading rules and risk stay as set. Ends 9 November.
 - Offer: 50% Off
-- Code: NOFEE50
 - Scope: Test accounts (evaluation accounts), new accounts
 - Deal: https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/
 
