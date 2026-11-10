@@ -69,8 +69,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% Off | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-05 | Plutus Trade Base | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% Off | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% Off | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
-| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% Off | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% Off | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
 | 2026-11-04 | AudaCity Capital | AudaCity Capital 20% Off Ability One and FTP Instant Funding | 20% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/ |
 | 2026-11-04 | WSFunded | WSFunded 40% Off All Challenges Plus 300% Refund Offer | 40% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/ |
 | 2026-11-04 | Funded Trading Plus | Funded Trading Plus 35% Off All Accounts Until 9 November | 35% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/ |
+| 2026-11-04 | Funded Hero | Funded Hero 60% Off $100K Instant Elite – Now $799.60 | 60% Off | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/ |

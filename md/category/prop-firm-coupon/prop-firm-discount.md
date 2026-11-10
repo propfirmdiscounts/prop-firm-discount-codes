@@ -34,5 +34,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-05 | Plutus Trade Base | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
-| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-04 | Funded Elite | Funded Elite 20% Off Activation Fee | 20% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |

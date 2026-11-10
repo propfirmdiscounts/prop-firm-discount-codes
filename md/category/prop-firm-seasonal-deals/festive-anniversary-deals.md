@@ -14,7 +14,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
-| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
+| 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
 | 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
 | 2026-10-30 | FundedSquad | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
 | 2026-10-07 | thePropTrade | thePropTrade 22% Off All Challenges | 22% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |

@@ -1,16 +1,15 @@
 # Instant Funding 40% Off All Lite Accounts – Diwali Offer
 
-Instant Funding is offering 40% off — discount code **LIGHT40**.
+Instant Funding was offering 40% off.
 
 > Instant Funding cuts 40% off every Lite account for Diwali until 9 November at 11:59 PM UK time. Only purchase pricing changes.
 
 - Published: 2026-11-04
-- Offer ends: 2026-11-09 18:59
+- Offer ends: 2026-11-09 18:59 (ended)
 - Prop firm: Instant Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - Summary: Instant Funding cuts 40% off every account in the Lite range until 9 November, covering Instant Funding Lite, IF Micro Lite and One-Phase Lite. Only purchase pricing changes and trading risk stays the same.
 - Offer: 40% Off
-- Code: LIGHT40
 - Scope: Lite accounts, Instant Funding Lite, IF Micro Lite, One-Phase Lite
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
