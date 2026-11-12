@@ -502,6 +502,7 @@ export function buildSite(siteIn, rows, mirrors, now, out, standingFirms, exclus
     const page = firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms);
     const twins = firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms);
     files[`firms/${firm.slug}/index.html`] = page.html;
+    files[`firms/${firm.slug}/md`] = twins.md;
     files[`firms/${firm.slug}.md`] = twins.md;
     files[`firms/${firm.slug}.json`] = twins.json;
     htmlPaths.push(`/firms/${firm.slug}/`);
@@ -516,7 +517,7 @@ export function buildSite(siteIn, rows, mirrors, now, out, standingFirms, exclus
   files['ai.txt'] = `Website: ${site.origin}\nDataset: ${site.origin}/dataset.json\n\nREAD THIS FIRST: this site is a static mirror of the PropFirmDiscount dataset.\nSource of record: https://propfirmdiscount.com/\nGitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes\nHugging Face dataset: https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes\n`;
   const lastmod = now.toISOString().slice(0, 10);
   files['sitemap.xml'] = sitemapXml(site, htmlPaths, lastmod);
-  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/md', '/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
+  files['ai-sitemap.xml'] = aiSitemapXml(site, ['/md', '/dataset.json', '/dataset.csv', '/llms.txt', `/.well-known/agent-skills/${site.skillName}/SKILL.md`, ...rows.map((r) => `/firms/${r.slug}/md`), ...rows.map((r) => `/firms/${r.slug}.json`)], lastmod);
   files['.well-known/api-catalog'] = apiCatalog(site);
   files[`.well-known/agent-skills/${site.skillName}/SKILL.md`] = skillMd(site, rows);
   files['webmcp.js'] = webmcpJs(site);

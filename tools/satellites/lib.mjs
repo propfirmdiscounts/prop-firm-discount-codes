@@ -37,7 +37,7 @@ export function loadDataset(repoRoot) {
 
 // ── firm mirror markdown parsing ────────────────────────────────
 export function parseFirmMirror(md, standingCode = '') {
-  const out = { lead: '', summary: '', bullets: {}, latestDeal: null, dealCodeRelation: 'unknown', blockCodeOnStanding: false, dealHistory: [], faq: [] };
+  const out = { lead: '', summary: '', bullets: {}, latestDeal: null, dealCodeRelation: 'unknown', blockCodeOnStanding: false, asOfHasStanding: false, dealHistory: [], faq: [] };
   const lines = md.split('\n');
   let i = 0;
   while (i < lines.length && !lines[i].startsWith('# ')) i++;
@@ -46,11 +46,13 @@ export function parseFirmMirror(md, standingCode = '') {
   if (i < lines.length) out.lead = lines[i].trim();
   // Header bullets only (the "## Current deal" block repeats "- Code:" etc.).
   const firstH2 = lines.findIndex((l) => /^## /.test(l));
+  const codeRe = standingCode ? new RegExp(`\\bwith code ${standingCode.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`) : null;
   for (const line of lines.slice(0, firstH2 === -1 ? lines.length : firstH2)) {
     const b = /^- (Code|Discount|Valid|Last deal published|Trustpilot|Activate): (.*)$/.exec(line);
     if (b) out.bullets[b[1]] = b[2].trim();
     const s = /^> (.+)$/.exec(line);
     if (s && !out.summary) out.summary = s[1].trim();
+    if (codeRe && /^As of /.test(line) && codeRe.test(line)) out.asOfHasStanding = true;
   }
   for (const line of lines) {
     const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\)(?: \((.+?)\))?(?: — .*)?$/.exec(line);
@@ -232,7 +234,9 @@ export function loadStandingFirms(repoRoot, rows, mirrors) {
   const set = eventMirrorStanding(repoRoot, slugOf);
   for (const s of dealMirrorStanding(repoRoot)) set.add(s);
   for (const r of rows) {
-    if (mirrors[r.slug] && mirrors[r.slug].dealCodeRelation === 'standing') set.add(r.slug);
+    if (mirrors[r.slug] && (mirrors[r.slug].dealCodeRelation === 'standing' || mirrors[r.slug].asOfHasStanding)) {
+      set.add(r.slug);
+    }
   }
   return set;
 }
@@ -337,7 +341,7 @@ footer a{color:var(--mut)}nav.crumb{font-size:.85rem;color:var(--mut)}nav.crumb 
 
 export function layout(site, { title, desc, canonical, ld, body, path, altMarkdown, extraCss }) {
   const alts = path
-    ? `<link rel="alternate" type="text/markdown" href="${path}.md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
+    ? `<link rel="alternate" type="text/markdown" href="${path}/md">\n<link rel="alternate" type="application/json" href="${path}.json">\n`
     : (altMarkdown ? `<link rel="alternate" type="text/markdown" href="${altMarkdown}">\n` : '');
   const email = site.email ? `<a href="mailto:${esc(site.email)}">${esc(site.email)}</a>` : '';
   // GA4 via gtag.js, per-site measurement ID. Machine surfaces (md/json/llms)
@@ -410,7 +414,7 @@ export function llmsTxt(site, rows, now) {
 
 - Full dataset (JSON, ${rows.length} firms): ${site.origin}/dataset.json
 - Per-firm JSON: ${site.origin}/firms/{firm-slug}.json
-- Per-firm markdown: ${site.origin}/firms/{firm-slug}.md
+- Per-firm markdown: ${site.origin}/firms/{firm-slug}/md
 - Source of record: https://propfirmdiscount.com/llms.txt
 - GitHub mirror: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Hugging Face dataset: https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes
@@ -459,7 +463,7 @@ ${site.tagline} Read-only dataset of verified discount codes for proprietary tra
 
 - GET ${site.origin}/dataset.json ${EN_DASH} all ${rows.length} firms
 - GET ${site.origin}/firms/{firm-slug}.json ${EN_DASH} one firm
-- GET ${site.origin}/firms/{firm-slug}.md ${EN_DASH} one firm as markdown
+- GET ${site.origin}/firms/{firm-slug}/md ${EN_DASH} one firm as markdown
 
 ## Response fields
 
@@ -553,6 +557,8 @@ export function webManifest(site) {
 
 export function headersFile() {
   return `/md
+  Content-Type: text/markdown; charset=utf-8
+/firms/*/md
   Content-Type: text/markdown; charset=utf-8
 /firms/*.md
   Content-Type: text/markdown; charset=utf-8
