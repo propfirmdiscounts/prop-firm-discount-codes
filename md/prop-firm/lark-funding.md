@@ -5,7 +5,7 @@ The newest Lark Funding discount code is **DOUBLELARK** — Free second account 
 > Demo Prop Trading. Minus The Nonsense.
 
 - Last deal published: 2026-11-02
-- Trustpilot: 4.3/5 (519 reviews)
+- Trustpilot: 4.3/5 (516 reviews)
 - Activate: https://propfirmdiscount.com/go/larkfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 

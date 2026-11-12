@@ -3,7 +3,7 @@
 The newest FundYourFX discount code is **VET60** — 60% off (November 10, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-11-10
-- Trustpilot: 3.7/5 (923 reviews)
+- Trustpilot: 3.7/5 (921 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 

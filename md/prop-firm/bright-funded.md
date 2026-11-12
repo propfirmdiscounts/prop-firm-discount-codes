@@ -2,10 +2,10 @@
 
 The newest BrightFunded discount code is **UNLUCKY** — 30% off (November 9, 2026). The campaign code changes with each promotion; newest first below.
 
-> Welcome to BrightFunded, a leading prop trading firm that is revolutionizing the way traders engage in financial markets through the likes of Trade2Earn. Become a funded trader up to $400,000 USD and be rewarded instantly along the way.
+> BrightFunded is a prop firm that offers trading evaluations on simulated accounts. Founded in 2023 and based in Dubai, we give traders a clear way to show their skill. Traders pay a one-time fee for a challenge and trade a simulated account under clear risk rules. Traders who pass receive a simulated BrightFunded account and earn performance rewards. Traders can choose between forex, indices, commodities and crypto, with crypto open 7 days a week. Rewards start at 80% and scale up to 100%, and traders already earn a 15% reward on the profits they make during the evaluation. With unlimited scaling, account sizes can keep growing with consistent performance. Platforms include MetaTrader 5, cTrader and DXtrade. BrightFunded Futures offers two one-step evaluations, BrightPlus and BrightCore, with account sizes from $25K to $150K. Traders pay a one-time fee with no subscription and no activation fee, and there is no daily loss limit and no time limit to pass. Futures traders can request daily payouts and trade on NinjaTrader, Tradovate or TradingView. What sets BrightFunded apart is speed: payouts are instant, so traders never have to wait for their rewards. With Trade2Earn, traders also collect BrightFunded Tokens through their trading activity and redeem them for perks. BrightFunded is a digital service, not a broker or investment firm. We do not take deposits or hold client funds.
 
 - Last deal published: 2026-11-09
-- Trustpilot: 3.1/5 (579 reviews)
+- Trustpilot: 3.2/5 (576 reviews)
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 

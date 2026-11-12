@@ -5,7 +5,7 @@ The newest WSFunded discount code is **4INSTANT** — 30% off (November 9, 2026)
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
 - Last deal published: 2026-11-09
-- Trustpilot: 4.3/5 (5001 reviews)
+- Trustpilot: 4.3/5 (5072 reviews)
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 

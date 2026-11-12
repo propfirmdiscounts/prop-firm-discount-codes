@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
 | 2026-11-11 | The Concept Trading | The Concept Trading: 35% Off Instant Programs | 35% OFF | 2026-11-13 08:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/ |
 | 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | Finotive Funding | Finotive Funding Back to Roots Sale: 50% Off Everything | 50% OFF | 2026-11-10 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/ |
 | 2026-11-06 | AquaFunded | AquaFunded Honor Sale: 25% Off + 150% CFD Refund | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/ |
 | 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
-| 2026-11-06 | HyroTrader | HyroTrader Hyro Instant Launch: 15% Off First 30 | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/ |

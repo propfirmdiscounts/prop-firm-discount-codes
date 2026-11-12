@@ -3,7 +3,7 @@
 No live discount code for Atmos Funded right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/atmos-funded/
 
 - Last deal published: 2026-07-28
-- Trustpilot: 3.1/5 (341 reviews)
+- Trustpilot: 3.0/5 (349 reviews)
 - Activate: https://propfirmdiscount.com/go/atmosfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atmos-funded/
 

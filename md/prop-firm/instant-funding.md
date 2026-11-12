@@ -8,7 +8,7 @@ The verified Instant Funding discount code is **PFD** — Up to 20% off, works a
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 2.8/5 (4379 reviews)
+- Trustpilot: 2.8/5 (4381 reviews)
 - Activate: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/

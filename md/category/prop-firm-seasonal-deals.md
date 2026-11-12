@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
 | 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
 | 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Instant Funding | Instant Funding 40% Off IF Pro and IF Lite | 40% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/ |
 | 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
 | 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
-| 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |

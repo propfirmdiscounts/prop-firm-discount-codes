@@ -2,7 +2,7 @@
 
 Phidias Propfirm is offering 85% off — discount code **PFD**.
 
-> Phidias Propfirm takes 85% off every 150K One-Time Payment account for Veterans Day - Express and Premium $168.45, Fundamental $129.45, until 24 Nov.
+> Phidias Propfirm: 85% off 150K One-Time Payment accounts with discount code PFD - Express/Premium $168.45, Fundamental $129.45, until 24 Nov.
 
 - Published: 2026-11-11
 - Offer ends: 2026-11-24

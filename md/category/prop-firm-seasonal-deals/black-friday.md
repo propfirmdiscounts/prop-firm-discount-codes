@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
 | 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-17 | Earn2Trade | Earn2Trade Black Friday Deal: 60% OFF Subscriptions + Resets | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/ |
 | 2025-11-17 | City Traders Imperium (CTI) | City Traders Imperium (CTI) Black Friday Sale: 20% OFF All Funding Programs | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-cti-black-friday-sale-20-off/ |
 | 2025-11-17 | Funded Trading Plus | Funded Trading Plus (FT+) Black Friday 2025 Deal: 20% OFF Top Challenges | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-2025-sale-20-off/ |
-| 2025-11-17 | QT Funded | QT Funded Black Friday Coupon: Free Half-Size Instant Account on Payout | Get a FREE Account | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-free-instant-account-payout/ |
