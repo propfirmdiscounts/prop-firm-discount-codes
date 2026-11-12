@@ -228,10 +228,9 @@ ${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.publishe
 // of scrolling past last year's. Single-year events keep the bare table —
 // a lone "2026" heading would only repeat the year already in the H1.
 // `rows` arrives newest-first, so the year keys come out newest-first too.
-function dealsByYear(rows) {
+function dealsByYear(rows, eventShort) {
   const years = [...new Set(rows.map((r) => r.published.slice(0, 4)))];
-  if (years.length <= 1) return dealsTable(rows);
-  return years.map((y) => `<h3>${y}</h3>\n${dealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n');
+  return years.map((y) => `<h2>${y} ${esc(eventShort)} Prop Firm Deals</h2>\n${dealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n');
 }
 
 // One combined table for both event groups. Rows sort newest-first by their
@@ -411,23 +410,53 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 }
 
 // ── event (roundup) page ─────────────────────────────────────
+function eventIntroLead(ev, rows) {
+  const byFirm = new Map();
+  let bestAny = null;
+  for (const r of rows) {
+    const p = pctOf(r.discount);
+    if (p === null) continue;
+    const firm = canonicalFirm(r.firm) || r.firm;
+    if (!firm) continue;
+    if (!bestAny || p > bestAny.pct || (p === bestAny.pct && r.published > bestAny.published)) {
+      bestAny = { firm, pct: p, published: r.published };
+    }
+    if (r.codeState === 'standing' && r.code) {
+      const cur = byFirm.get(firm);
+      if (!cur || p > cur.pct || (p === cur.pct && r.published > cur.published)) {
+        byFirm.set(firm, { firm, pct: p, code: r.code, published: r.published });
+      }
+    }
+  }
+  const topStanding = [...byFirm.values()]
+    .sort((a, b) => b.pct - a.pct || b.published.localeCompare(a.published) || a.firm.localeCompare(b.firm))
+    .slice(0, 2);
+  if (topStanding.length >= 2) {
+    const list = topStanding.map((r) => `${r.pct}% OFF with code ${r.code} from ${r.firm}`).join(', ');
+    return `The highest ${ev.short} prop firm discounts currently include ${list}, and other seasonal offers from tracked proprietary trading firms.`;
+  }
+  if (topStanding.length === 1) {
+    const r = topStanding[0];
+    return `The highest ${ev.short} prop firm discount currently includes ${r.pct}% OFF with code ${r.code} from ${r.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
+  }
+  if (bestAny) {
+    return `Recorded ${ev.short} prop firm discounts reach up to ${bestAny.pct}% OFF from ${bestAny.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
+  }
+  return `Browse recorded ${ev.short} seasonal offers from tracked proprietary trading firms below.`;
+}
+
 function roundupPage(ev, kind, others, now) {
   const rows = ev.rows;
   const newest = rows[0] || null;
-  const nStanding = rows.filter((r) => r.codeState === 'standing').length;
-  const nCampaign = rows.filter((r) => r.codeState === 'campaign').length;
-  const nNone = rows.filter((r) => r.codeState === 'none').length;
   // Every event — holiday category or event tag — lives at the site root,
   // so no event ever needs a /tag/ prefix.
   const path = `/${ev.slug}`;
   // Year stamp follows this event's newest deal, matching the hub: an event
   // whose latest entry is from an earlier year never claims the current one.
   const year = newest ? newest.published.slice(0, 4) : now.getUTCFullYear();
-  const h1 = `${ev.name} Prop Firm Discount Code ${year}`;
-  const title = h1;
-  const desc = (kind === 'category'
-    ? `${ev.name} prop firm discount codes: ${rows.length} dated seasonal offers from the firms running ${ev.name} promotions, newest first, each row marked with how its code redeems ${EN_DASH} the firm's discount code, a campaign code entered at checkout, or no code at all.`
-    : `${ev.name} prop firm discount codes: ${rows.length} dated offers from every firm tagged ${ev.name}, newest first, each marked with how its code redeems.`) + ` Updated ${monthYearUTC(now)}.`;
+  const h1 = `${ev.short} Prop Firm Deals & Discount Codes ${year}`;
+  const title = `${ev.short} Prop Firm Deals & Discount Codes (${year})`;
+  const desc = `Explore ${rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required. Updated ${monthYearUTC(now)}.`;
   const shortDesc = desc.slice(0, 300);
   const firms = new Map();
   for (const r of rows) {
@@ -468,35 +497,39 @@ function roundupPage(ev, kind, others, now) {
       },
     ],
   };
-  const bridge = kind === 'category'
-    ? `This page tracks ${rows.length} dated ${esc(ev.name)} prop firm discount codes, newest first${newest ? `; the most recent, ${esc(newest.title)}, went live ${esc(newest.published)}` : ''}. Of these, ${nStanding} run on the firm's discount code, ${nCampaign} need the deal's own campaign code at checkout, and ${nNone} apply with no code at all.`
-    : `${rows.length} prop firm discount codes carry the ${esc(ev.name)} tag across every season, newest first${newest ? `; the latest, ${esc(newest.title)}, was published ${esc(newest.published)}` : ''}. The Code column marks each one: discount code, campaign code at checkout, or no code needed.`;
-  const method = kind === 'category'
-    ? `Rows mirror the dated ${esc(ev.name)} archive on PropFirmDiscount. A <code>monospaced value</code> is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the discount applies with nothing entered.`
-    : `Rows gather every deal PropFirmDiscount tagged ${esc(ev.name)}, whatever season it ran in. A <code>monospaced value</code> is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer needs no code.`;
-  // Per-firm rollup so the page answers a firm-specific long tail without the
-  // reader scanning the whole table.
+  const introLead = eventIntroLead(ev, rows);
+  const introSub = `Explore ${rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
+  // Per-firm rollup so the page answers a firm-specific long tail without
+  // the reader scanning the whole table.
   const firmRows = firmRollup(rows);
-  const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.name)} discount code by firm</h2>
-<p>Every firm with a ${esc(ev.name)} offer on record, deepest cut first. The Code column shows the firm's discount code where it publishes one, whatever deal produced the best offer; a firm with no discount code is left blank.</p>
+  const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.short)} Deals by Prop Firm: Highest Discounts &amp; Codes</h2>
+<p>Compare prop firms with recorded ${esc(ev.short)} promotions, ranked by their highest advertised discount. The table shows each firm's best recorded offer, total number of ${esc(ev.short)} deals, latest publication date, and available standing discount code.</p>
 <div class="tscroll w560"><table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
 ${firmRows.map((f) => { const code = firmStandingCode(f.name); return `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td>${code ? `<td data-code-state="standing"><code>${esc(code)}</code></td>` : `<td></td>`}</tr>`; }).join('\n')}
 </tbody>
 </table></div>` : '';
-  const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.name)}</nav>
+  const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.short)}</nav>
 <h1>${esc(h1)}</h1>
-<p class="answer">${bridge}</p>
-${dealsByYear(rows)}
+<p class="answer">${esc(introLead)}</p>
+<p>${esc(introSub)}</p>
+${dealsByYear(rows, ev.short)}
 ${rows.length >= 150 ? `<p>Showing the newest ${rows.length} recorded deals here; older entries live in the <a href="https://propfirmdiscount.com/">PropFirmDiscount</a> archive.</p>` : ''}
 ${firmSection}
 <h2 id="others">Other events &amp; holidays</h2>
 <p>${others.map((o) => `<a href="${o.href}">${esc(o.name)}</a>`).join(` ${EN_DASH} `)}.</p>
-<h2 id="method">How to read this table</h2>
-<p>${method}</p>
+<h2 id="method">${esc(ev.short)} Deal Listings: How to Read the Data</h2>
+<h3>How to Read ${esc(ev.short)} Deal Listings</h3>
+<p>Each row represents a ${esc(ev.short)} promotional deal recorded on PropFirmDiscount, with its publication date, firm name, advertised discount, and redemption method.</p>
+<ul>
+<li><strong>Standing Discount Code:</strong> A monospaced code represents the firm's regular discount code, tracked separately from individual seasonal campaigns.</li>
+<li><strong>Campaign Code:</strong> A dash (-) indicates that no standing firm code is displayed in the table. The linked deal page provides the relevant campaign code and redemption details when applicable.</li>
+<li><strong>No Code Required:</strong> The promotion can be redeemed without entering a discount code at checkout.</li>
+</ul>
+<p>The archive includes both current and expired promotional offers. Publication dates indicate when deals were published, not when their codes were independently re-verified. Always check the original deal page for campaign validity and applicable terms.</p>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. This page was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
-<p>Dates are publish dates, not re-test claims. Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
+<p>Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
   return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
 }
 
@@ -516,11 +549,10 @@ function mdDealsTable(rows, withEvent) {
 }
 const CODE_NOTE = `Code column meaning: a value works any time; "-" means the deal has its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
-// Mirror of dealsByYear for the markdown twin: same years, `###` headings.
-function mdDealsByYear(rows) {
+// Mirror of dealsByYear for the markdown twin: same years, `##` headings.
+function mdDealsByYear(rows, eventShort) {
   const years = [...new Set(rows.map((r) => r.published.slice(0, 4)))];
-  if (years.length <= 1) return mdDealsTable(rows);
-  return years.map((y) => `### ${y}\n\n${mdDealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n\n');
+  return years.map((y) => `## ${y} ${eventShort} Prop Firm Deals\n\n${mdDealsTable(rows.filter((r) => r.published.startsWith(y)))}`).join('\n\n');
 }
 
 function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
@@ -564,15 +596,27 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
 }
 
 function roundupMarkdown(ev, kind) {
-  const lead = kind === 'category'
-    ? `${ev.name} prop firm discount codes: ${ev.rows.length} dated seasonal offers, newest first, each row marked with how its code redeems ${EN_DASH} the firm's discount code, a campaign code entered at checkout, or no code at all.`
-    : `${ev.name} prop firm discount codes across every firm tagged ${ev.name}: ${ev.rows.length} dated offers, newest first, each marked with how its code redeems.`;
+  const introLead = eventIntroLead(ev, ev.rows);
+  const introSub = `Explore ${ev.rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
   const firms = firmRollup(ev.rows);
   const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
-  return [`# ${ev.name} Prop Firm Discount Code${year ? ` ${year}` : ''}`, '', lead, '', mdDealsByYear(ev.rows), '',
-    ...(firms.length ? [`## ${ev.name} discount code by firm`, '', `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
-      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${firmStandingCode(f.name)} |`), ''] : []),
-    CODE_NOTE, '', `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
+  return [`# ${ev.short} Prop Firm Deals & Discount Codes${year ? ` ${year}` : ''}`, '',
+    introLead, '', introSub, '',
+    mdDealsByYear(ev.rows, ev.short), '',
+    ...(firms.length ? [
+      `## ${ev.short} Deals by Prop Firm: Highest Discounts & Codes`, '',
+      `Compare prop firms with recorded ${ev.short} promotions, ranked by their highest advertised discount. The table shows each firm's best recorded offer, total number of ${ev.short} deals, latest publication date, and available standing discount code.`, '',
+      `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
+      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${firmStandingCode(f.name)} |`), '',
+    ] : []),
+    `## ${ev.short} Deal Listings: How to Read the Data`, '',
+    `### How to Read ${ev.short} Deal Listings`, '',
+    `Each row represents a ${ev.short} promotional deal recorded on PropFirmDiscount, with its publication date, firm name, advertised discount, and redemption method.`, '',
+    `- **Standing Discount Code:** A monospaced code represents the firm's regular discount code, tracked separately from individual seasonal campaigns.`,
+    `- **Campaign Code:** A dash (-) indicates that no standing firm code is displayed in the table. The linked deal page provides the relevant campaign code and redemption details when applicable.`,
+    `- **No Code Required:** The promotion can be redeemed without entering a discount code at checkout.`, '',
+    `The archive includes both current and expired promotional offers. Publication dates indicate when deals were published, not when their codes were independently re-verified. Always check the original deal page for campaign validity and applicable terms.`, '',
+    `Corrections: ${site.email}. Dataset: ${site.origin}/dataset.json.`].join('\n') + '\n';
 }
 
 // ── roots ───────────────────────────────────────────────────────
