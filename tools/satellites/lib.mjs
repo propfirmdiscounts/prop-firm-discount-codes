@@ -53,8 +53,8 @@ export function parseFirmMirror(md, standingCode = '') {
     if (s && !out.summary) out.summary = s[1].trim();
   }
   for (const line of lines) {
-    const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\) \((.+?)\)$/.exec(line);
-    if (d) out.dealHistory.push({ date: d[1], title: d[2], url: d[3], offer: d[4] });
+    const d = /^- (\d{4}-\d{2}-\d{2}) - \[(.+?)\]\((.+?)\)(?: \((.+?)\))?(?: — .*)?$/.exec(line);
+    if (d) out.dealHistory.push({ date: d[1], title: d[2], url: d[3], offer: d[4] || '' });
   }
   // The mirror's "## Current deal" block is ordered by last-modified but prints
   // its Published date as the publish date, so for some firms it names an older
