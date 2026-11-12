@@ -295,7 +295,18 @@ function joinEnglishList(parts) {
   return `${parts.slice(0, -1).join(', ')} and ${parts[parts.length - 1]}`;
 }
 
-function hubAnswerText(sorted, now, html = false) {
+function monthSpanLabel(months) {
+  const ordered = [...months].reverse();
+  if (ordered.length !== 2) return ordered.map((m) => monthLabel(m.ym)).join(', ');
+  const [a, b] = ordered.map((m) => {
+    const [y, mo] = m.ym.split('-');
+    const name = new Intl.DateTimeFormat('en-US', { month: 'long', timeZone: 'UTC' }).format(new Date(`${m.ym}-01T00:00:00Z`));
+    return { y, name, full: `${name} ${y}` };
+  });
+  return a.y === b.y ? `${a.name} and ${b.name} ${b.y}` : `${a.full} and ${b.full}`;
+}
+
+function hubAnswerParts(sorted, now, html = false) {
   const top5 = sorted.filter((r) => pctOf(r.discount) !== null).slice(0, 5);
   const items = top5.map((r) => {
     const pct = pctOf(r.discount);
@@ -304,7 +315,10 @@ function hubAnswerText(sorted, now, html = false) {
     return `${pct}% OFF with code ${code} at ${firm}`;
   });
   const lead = items.length ? `As of ${monthYearUTC(now)}, the biggest current prop firm discounts are ${joinEnglishList(items)}. ` : '';
-  return `${lead}Explore all ${sorted.length} prop firm discount codes, ranked from the highest to the lowest available discounts. All promo codes are free to use, and you'll receive the same discount whether you use our activation link or visit the prop firm's website directly.`;
+  return {
+    answer: `${lead}Explore all ${sorted.length} prop firm discount codes, compare available savings, and browse each firm's discount history.`,
+    note: "All promo codes are free to use, and you'll receive the same discount whether you use our activation link or visit the prop firm's website directly.",
+  };
 }
 
 function dealTitleFor(d, standingFirms) {
@@ -337,8 +351,8 @@ export function hubPage(site, rows, mirrors, now, standingFirms) {
 ${sorted.map(rowOf).join('\n')}
 </tbody>
 </table></div>`;
-  const latestSection = latest.length ? `<h2 id="latest">Latest deals across tracked firms</h2>
-<p>The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the checks above. Dates are the firms' publish dates, not re-test dates. Deals that redeem on the firm's standing discount code include it in the deal title; other deals carry their own limited-time campaign code on the linked deal page.</p>
+  const latestSection = latest.length ? `<h2 id="latest">Latest Prop Firm Deals &amp; Promotions</h2>
+<p>Browse the ${latest.length} most recent promotional deals published by tracked prop firms, ranked by publication date. Each record links to its original deal page, providing a dated history of promotional campaigns, advertised discounts, and special offers. Dates are the firms' publish dates, not re-test dates. Deals that redeem on the firm's standing discount code include it in the deal title; other deals carry their own limited-time campaign code on the linked deal page.</p>
 <div class="tscroll w560"><table class="checks">
 <thead><tr><th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Offer</th></tr></thead>
 <tbody>
@@ -362,9 +376,9 @@ ${latest.map((d) => `<tr>
 <td><time datetime="${esc(f.last)}">${esc(f.last)}</time></td>
 <td><code>${esc(f.code)}</code></td>
 </tr>`).join('\n');
-  const activitySection = stats.total ? `<h2 id="activity">Tracking activity</h2>
+  const activitySection = stats.total ? `<h2 id="activity">Prop Firm Discount &amp; Promotion Statistics</h2>
 <p>Counting only deals the firms published with a date on them: ${stats.total} dated deals across ${rows.length} tracked firms in the last two months, running from ${esc(stats.first)} to ${esc(stats.last)}. Updated ${esc(monthYearUTC(now))}.</p>
-<h3>Deals recorded by month</h3>
+<h3>Monthly Prop Firm Deal Statistics</h3>
 <p>The last two calendar months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.</p>
 <div class="tscroll w480"><table class="checks">
 <thead><tr><th scope="col">Month</th><th scope="col">Deals</th><th scope="col">Firms active</th></tr></thead>
@@ -372,8 +386,8 @@ ${latest.map((d) => `<tr>
 ${monthRows}
 </tbody>
 </table></div>
-<h3>Most active firms</h3>
-<p>Ranked by deals published over those same two months, then by best percentage offer. The Code column shows each firm's standing discount code.</p>
+<h3>Most Active Prop Firms by Promotional Activity</h3>
+<p>Track promotional activity across ${rows.length} proprietary trading firms using ${stats.total} dated deal records from ${esc(monthSpanLabel(stats.months))}. Explore monthly promotion counts, compare firm activity, and identify which proprietary trading firms have published the most deals recently.</p>
 <div class="tscroll w640"><table class="checks">
 <thead><tr><th scope="col">Firm</th><th scope="col">Deals (2 mo)</th><th scope="col">Best offer</th><th scope="col">Last deal</th><th scope="col">Code</th></tr></thead>
 <tbody>
@@ -399,16 +413,21 @@ ${firmRows}
       },
     ],
   };
+  const ans = hubAnswerParts(sorted, now, true);
   const body = `<h1>${esc(title)}</h1>
-<p class="answer">${hubAnswerText(sorted, now, true)}</p>
-<h2 id="log">Checks, highest to lowest</h2>
+<p class="answer">${ans.answer}</p>
+<p>${ans.note}</p>
+<h2 id="log">Prop Firm Discount Codes ${EN_DASH} Ranked by Discount</h2>
 ${table}
 ${latestSection}
 ${activitySection}
 <h2 id="method">About this site and how codes are checked</h2>
-<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
-<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Codes listed here are standing discount codes with no expiry date.</p>
-<p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
+<p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022.</p>
+<p>Every listed code is maintained as a standing discount code associated with its respective prop firm, rather than a code limited to a specific promotional campaign.</p>
+<p>When a firm publishes a new deal featuring a discount code, the team confirms whether the standing code still applies and records the deal with its original publication date.</p>
+<p>The date displayed in the deal history represents the firm's publication date, not the date the standing code was independently re-tested. Listed codes have no published expiry date, but availability and terms may change.</p>
+<p>Corrections are welcome at <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Verified corrections are reflected in the next hourly database rebuild.</p>
+<p>Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a> and <a href="/llms.txt">llms.txt</a>.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md' }) };
 }
 
@@ -419,17 +438,19 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
+  const ans = hubAnswerParts(sorted, now, false);
   const md = [`# Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`, '',
-    hubAnswerText(sorted, now, false), '',
-    `## Checks, highest to lowest`, '',
+    ans.answer, '',
+    ans.note, '',
+    `## Prop Firm Discount Codes ${EN_DASH} Ranked by Discount`, '',
     `| Firm | Code | Discount | Checked | Last deal |`,
     `|------|------|----------|---------|-----------|`];
   for (const r of sorted) {
     md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${lastDealDate(r) || EN_DASH} |`);
   }
   if (latest.length) {
-    md.push('', `## Latest deals across tracked firms`, '',
-      `The ${latest.length} most recent coded deals published by the firms on this list, newest first ${EN_DASH} the dated trail behind the checks above. Dates are the firms' publish dates, not re-test dates. Deals that redeem on the firm's standing discount code include it in the deal title; other deals carry their own limited-time campaign code on the linked deal page.`, '',
+    md.push('', `## Latest Prop Firm Deals & Promotions`, '',
+      `Browse the ${latest.length} most recent promotional deals published by tracked prop firms, ranked by publication date. Each record links to its original deal page, providing a dated history of promotional campaigns, advertised discounts, and special offers. Dates are the firms' publish dates, not re-test dates. Deals that redeem on the firm's standing discount code include it in the deal title; other deals carry their own limited-time campaign code on the linked deal page.`, '',
       `| Published | Firm | Deal | Offer |`,
       `|-----------|------|------|-------|`);
     for (const d of latest) {
@@ -437,23 +458,26 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
     }
   }
   if (stats.total) {
-    md.push('', `## Tracking activity`, '',
+    md.push('', `## Prop Firm Discount & Promotion Statistics`, '',
       `Counting only deals the firms published with a date on them: ${stats.total} dated deals across ${rows.length} tracked firms in the last two months, running from ${stats.first} to ${stats.last}. Updated ${monthYearUTC(now)}.`, '',
-      `### Deals recorded by month`, '',
+      `### Monthly Prop Firm Deal Statistics`, '',
       `The last two calendar months. Months with no recorded deal show 0 ${EN_DASH} the log does not hide quiet stretches.`, '',
       `| Month | Deals | Firms active |`,
       `|-------|-------|--------------|`);
     for (const m of stats.months) md.push(`| ${monthLabel(m.ym)} | ${m.deals} | ${m.firms} |`);
-    md.push('', `### Most active firms`, '',
-      `Ranked by deals published over those same two months, then by best percentage offer. The Code column shows each firm's standing discount code.`, '',
+    md.push('', `### Most Active Prop Firms by Promotional Activity`, '',
+      `Track promotional activity across ${rows.length} proprietary trading firms using ${stats.total} dated deal records from ${monthSpanLabel(stats.months)}. Explore monthly promotion counts, compare firm activity, and identify which proprietary trading firms have published the most deals recently.`, '',
       `| Firm | Deals (2 mo) | Best offer | Last deal | Code |`,
       `|------|---------------|------------|-----------|------|`);
     for (const f of stats.topFirms) md.push(`| [${f.firm}](${site.origin}/firms/${f.slug}/) | ${f.count} | ${f.best === null ? EN_DASH : `${f.best}%`} | ${f.last} | ${f.code} |`);
   }
   md.push('', '## About this site and how codes are checked', '',
-    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
-    `What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Codes listed here are standing discount codes with no expiry date.`, '',
-    `Corrections welcome: ${site.email}. Full dataset: ${site.origin}/dataset.json. Methodology notes: ${site.origin}/llms.txt.`);
+    `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022.`, '',
+    `Every listed code is maintained as a standing discount code associated with its respective prop firm, rather than a code limited to a specific promotional campaign.`, '',
+    `When a firm publishes a new deal featuring a discount code, the team confirms whether the standing code still applies and records the deal with its original publication date.`, '',
+    `The date displayed in the deal history represents the firm's publication date, not the date the standing code was independently re-tested. Listed codes have no published expiry date, but availability and terms may change.`, '',
+    `Corrections are welcome at ${site.email}. Verified corrections are reflected in the next hourly database rebuild.`, '',
+    `Full dataset and methodology notes: ${site.origin}/dataset.json and ${site.origin}/llms.txt.`);
   return md.join('\n') + '\n';
 }
 
