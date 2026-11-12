@@ -222,11 +222,27 @@ jobs:
           open('README.md', 'w', encoding='utf-8').write(md)
           PY
 
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -m "Hourly snapshot of the public dataset and markdown mirrors."
+          git push
+
       - name: Push Hugging Face mirror
         # HF dataset mirror (propfirmdiscountcode/prop-firm-discount-codes): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
-        # commit so HF never gets content that failed to land here first.
+        # commit so HF never gets content that failed to land here first, and
+        # never blocks GitHub sync or downstream site deploys if HF fails.
         # Skipped silently when HF_TOKEN is unset.
+        continue-on-error: true
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_NAMESPACE: propfirmdiscountcode
@@ -301,17 +317,3 @@ jobs:
                           repo_id=repo, repo_type='dataset',
                           commit_message='Hourly sync')
           PY
-
-      - name: Commit and push
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "no changes"
-            exit 0
-          fi
-          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-            -m "Hourly snapshot of the public dataset and markdown mirrors."
-          git push
