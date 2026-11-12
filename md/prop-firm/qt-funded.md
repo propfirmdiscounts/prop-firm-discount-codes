@@ -7,43 +7,48 @@ The verified QT Funded discount code is **PFD** — Up to 50% off, works any tim
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-07
+- Last deal published: 2026-11-10
 - Trustpilot: 3.5/5 (13388 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-10, the biggest QT Funded offers this month: 65% OFF with code NEW, 60% OFF with code DISCORD, 60% OFF with code DIWALI, 60% OFF with code TREAT, and 60% OFF with code TRICK.
+As of 2026-11-12, the biggest QT Funded offers this month: 65% OFF with code NEW, 60% OFF with code DISCORD, 60% OFF with code DIWALI, 60% OFF with code TREAT, and 60% OFF with code TRICK.
 
-## Current deal: QT Funded: 60% Off Any Account + Free Same-Size Account
+## Current deal: QT Funded: 55% Off All Challenges + Free Account
 
-- Published: 2026-11-07
+- Published: 2026-11-10
 - Offer ends: Limited time
-- Offer: 60% Off
-- Code: DISCORD
-- Scope: Any account - QT ONE, QT TWO, QT INSTANT, QT POWER
-- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/
+- Offer: 55% Off
+- Code: QT55
+- Scope: All Challenges
+- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/
 
 ## QT Funded deal FAQ
 
-**What does the QT Funded Discord offer include?**
+**What does the QT Funded code take off?**
 
-It includes 60% off any account plus a free second account of the same size. Four routes are priced: QT TWO $100,000 at $220, QT ONE $10,000 at $76, QT INSTANT $50,000 at $150 and QT POWER $25,000 at $50, in USD on MT5 before optional add-ons.
+55% off all challenges. Every purchase also adds a free same-size account - one purchase, two accounts.
 
-**Is QT Funded trading real or simulated under this offer?**
+**Which challenges are included?**
 
-Trading is simulated and offer and account terms apply. The stated prices are after the 60% discount and before optional add-ons.
+All of them. The announcement names the full range: QT ONE, QT TWO, QT INSTANT and QT POWER.
 
-**Does the QT Funded discount change account rules?**
+**How does the free account work?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The free same-size account carries the same rules as the paid account.
+It mirrors the challenge you bought: buy one account at 55% off and a second account of the same size is added free. The announcement states no extra conditions for it.
 
-**Who may this QT Funded offer suit?**
+**When does this offer end?**
 
-It may suit a buyer who had already chosen a starting route and was comparing entry prices. The announcement gives no end date, so the purchase timing should be treated as part of the decision.
+The announcement states no end date for the code.
+
+**Does the discount change how the accounts trade?**
+
+No. The code reduces purchase pricing only; trading rules, drawdown limits and trading risk are unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-10 - [QT Funded: 55% Off All Challenges + Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/) (55% Off)
 - 2026-11-07 - [QT Funded: 60% Off Any Account + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) (60% Off)
 - 2026-11-06 - [QT Funded Diwali 60% Off + Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) (60% Off) — Diwali — ended 2026-11-09
 - 2026-11-04 - [QT Funded 60% Off All Accounts Plus Free Same-Size Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) (60% Off) — ended 2026-11-08

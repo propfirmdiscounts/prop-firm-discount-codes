@@ -1,16 +1,15 @@
 # FundedSquad Diwali 55% Off $25K and $50K Instant
 
-FundedSquad is offering 55% off — discount code **DIWALI**.
+FundedSquad was offering 55% off.
 
 > FundedSquad cuts 55% off $25K and $50K Instant accounts for Diwali, valid till 10 November at 12 p.m. UK time, for the first 500 accounts.
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-10 07:00
+- Offer ends: 2026-11-10 07:00 (ended)
 - Prop firm: FundedSquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 - Summary: FundedSquad cuts 55% off $25K and $50K accounts across Instant models for Diwali, valid till 10 November at 12 p.m. UK time and limited to the first 500 accounts. Only purchase pricing changes.
 - Offer: 55% Off
-- Code: DIWALI
 - Scope: $25K and $50K Instant Lite and Instant Flex accounts, first 500 accounts
 - Deal: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/
 

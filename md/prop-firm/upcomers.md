@@ -7,46 +7,51 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 - Code: PFD
 - Discount: Up to 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-11
 - Trustpilot: 2.9/5 (580 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-10, the biggest Upcomers offers this month: 90% OFF with code PFD.
+As of 2026-11-12, the biggest Upcomers offers this month: 93% OFF with code PFD and 90% OFF with code PFD.
 
-## Current deal: Upcomers Black Friday: $100K Thunderbolt Challenge $99
+## Current deal: Upcomers Black Friday Vol. 2: Up to 93% Off
 
-- Published: 2026-11-06
+- Published: 2026-11-11
 - Offer ends: Limited time
-- Offer: 90% Off
+- Offer: 93% Off
 - Code: PFD
-- Scope: $100K Thunderbolt Challenge (1-Phase) at $99; $50K at $49; two extra accounts free
+- Scope: Accounts, 50K 2-Step Odyssey
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/
+- Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/
 
 ## Upcomers deal FAQ
 
-**What does the Upcomers Black Friday promotion include?**
+**What does the Upcomers code take off?**
 
-It includes the $100K Thunderbolt Challenge at $99 instead of $990, a saving of $891, plus two extra accounts free. A $50K size is priced at $49.
+Up to 93% off accounts in Black Friday Vol. 2. The spotlight offer is the 50K 2-Step Odyssey at $99 instead of $1,419 - a $1,320 saving on the firm's figures, at the firm's stated 93% off (the exact figure would be $99.33, rounded to $99).
 
-**What split and structure does the Upcomers Thunderbolt Challenge carry?**
+**How does buy one, get two free work this time?**
 
-The challenge has one phase to pass and carries an 80% reward split. Those terms are unchanged by the $99 price.
+Buy one account and up to two additional accounts unlock through fully approved payouts, on eligible challenge accounts. The free accounts are tied to payout milestones; they do not arrive outright with the purchase.
 
-**How do the Upcomers free accounts work?**
+**What is the free perps account?**
 
-The structure is buy 1 get 2 free: two extra accounts come free on top of the paid challenge. Each account still has to be passed under its own rules.
+With every purchase of 100K or larger, the firm adds a free perpetuals account worth 10% of the purchased account size.
 
-**Does the Upcomers $99 price change challenge rules?**
+**What terms does the Odyssey carry?**
 
-No. The promotion lowers the purchase price only. Challenge rules stay as set and trading risk is not reduced on any of the three accounts.
+The announcement states no consistency rule and no time limit for the 50K 2-Step Odyssey.
 
-**Who may this Upcomers pricing suit?**
+**When does Vol. 2 end?**
 
-It may suit a buyer who had already chosen the $100K Thunderbolt size and was comparing entry prices. A buyer should be cautious about treating the Black Friday price alone as a reason to buy.
+The announcement calls it a limited time offer and states no end date.
+
+**Is any real capital involved?**
+
+The offer material's own footer states: simulation only, no real capital involved, for evaluation purposes only, not a financial product. The discounts reduce purchase prices only; trading risk is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-11 - [Upcomers Black Friday Vol. 2: Up to 93% Off](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) (93% Off) — Black Friday
 - 2026-11-06 - [Upcomers Black Friday: $100K Thunderbolt Challenge $99](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) (90% Off) — Black Friday

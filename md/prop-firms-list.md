@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-51 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 90% off. Every code is listed below, alphabetical by firm.
+51 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -8,19 +8,19 @@
 |---|---|---|---|---|---|---|---|
 | Alpha Futures | Tran009503 | 15% | standing | 2026-11-03 · 50% · [deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/) | - | 21 / 36 | https://propfirmdiscount.com/prop-firm/alpha-futures/ |
 | AquaFunded | PFD | 35% | standing | 2026-11-06 · 25% · [deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) | - | 31 / 65 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| Atlas Funded | PFD | 40% | standing | 2026-11-02 · 40% · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) | - | 15 / 40 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| Atlas Funded | PFD | 50% | standing | 2026-11-10 · 40% · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/) | - | 16 / 41 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | Blue Guardian | PFD | 30% | standing | 2026-11-04 · 30% · [deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) | - | 21 / 31 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 35% | standing | 2026-06-22 · 40% · [deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) | - | 10 / 19 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Breakout Prop | 3GVKFT | 5% | standing | 2026-07-27 · 24% · [deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) | - | 3 / 6 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |
 | Bulenox | PFD | 89% | standing | 2026-10-07 · 91% · [deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) | - | 11 / 12 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 · 50% · [deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) | - | 2 / 8 | https://propfirmdiscount.com/prop-firm/bullrush/ |
-| CK PropFirm | PFD | 10% | standing | 2026-11-06 · 80% · [deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) | Diwali | 36 / 52 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| CK PropFirm | PFD | 10% | standing | 2026-11-11 · 80% · [deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Black Friday | 37 / 53 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
 | Crypto Fund Trader | platinum5 | 5% | standing | 2026-09-15 · 22% · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | standing | 2026-11-05 · $99 · [deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) | - | 5 / 10 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 40% | standing | 2026-11-02 · 60% · [deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) | - | 3 / 3 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | Dominion Funding | PFD5PC | 5% | standing | 2026-11-05 · 40% · [deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Black Friday | 15 / 23 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 | E8 Markets | CHUN | 50% | standing | 2026-10-30 · 50% · [deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) | - | 14 / 18 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| Earn2Trade | PFD | 50% | standing | 2026-10-01 · 50% · [deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) | - | 11 / 18 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| Earn2Trade | PFD | 50% | standing | 2026-11-02 · 50% · [deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) | - | 12 / 19 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | standing | 2026-08-03 · 30% · [deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/) | - | 12 / 41 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
 | FXIFY | FXIFY2WRIVW | 10% | standing | 2026-11-02 · 25% · [deal](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) | - | 25 / 41 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | JACKICHUN | 25% | standing | 2026-11-06 · 50% · [deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) | - | 34 / 60 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
@@ -42,10 +42,10 @@
 | HyroTrader | PFD | 10% | standing | 2026-11-06 · 15% · [deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) | - | 8 / 8 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | PFD | 20% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) | Diwali | 30 / 36 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-11-06 · 35% · [deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | - | 12 / 25 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
-| Phidias Propfirm | PFD | 80% | standing | 2026-11-02 · 80% · [deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) | - | 34 / 40 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| Phidias Propfirm | PFD | 85% | standing | 2026-11-11 · 85% · [deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) | Veterans Day | 35 / 41 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 40% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/) | - | 23 / 24 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
 | PipFarm | PFDC | 30% | standing | 2026-11-09 · 40% · [deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) | - | 47 / 70 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
-| QT Funded | PFD | 50% | standing | 2026-11-07 · 60% · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) | - | 40 / 63 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| QT Funded | PFD | 50% | standing | 2026-11-10 · 55% · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/) | - | 41 / 64 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFD | 50% | standing | 2026-01-19 · 30% · [deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) | - | 1 / 3 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 · 25% · [deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) | New Year's Eve | 1 / 8 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 · 30% · [deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/) | - | 20 / 29 | https://propfirmdiscount.com/prop-firm/super-funded/ |
@@ -54,6 +54,6 @@
 | ThinkCapital | PFD | 10% | standing | 2026-09-21 · 15% · [deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) | - | 21 / 30 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 65% | standing | 2026-11-02 · 65% · [deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Black Friday | 11 / 13 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Trade The Pool | WWS4GW | 10% | standing | 2026-10-28 · 20% · [deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) | - | 7 / 9 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
-| Upcomers | PFD | 90% | standing | 2026-11-06 · 90% · [deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) | Black Friday | 15 / 20 | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| Upcomers | PFD | 93% | standing | 2026-11-11 · 93% · [deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) | Black Friday | 16 / 21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | WeMasterTrade | PFD | 20% | standing | 2026-10-29 · 36% · [deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) | Halloween | 29 / 29 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | thePropTrade | PFD | 20% | standing | 2026-10-27 · 20% · [deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) | Halloween | 29 / 37 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

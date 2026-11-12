@@ -1,17 +1,20 @@
 # Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code DIWALI at QT Funded, 55% OFF with code DIWALI at FundedSquad, and 50% OFF with code DIWALI50 at Sure Leverage Funding.
+As of 2026-11-11, the biggest offers this month: 85% OFF with code PFD at Phidias Propfirm, 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code VET60 at FundYourFX, and 60% OFF with code DIWALI at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
+| 2026-11-11 | BluSky Trading | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
-| 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
+| 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
 | 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |
 | 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 (ended) | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
-| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
-| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
+| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
+| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
@@ -153,6 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-17 | FundingTraders | FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/ |
 | 2026-03-17 | Trading Funds | Trading Funds 40% Off Standard Accounts And $9 Flex Challenge Price | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradingfunds/trading-funds-40-off-standard-accounts-9-flex-challenge/ |
 | 2026-03-17 | Top One Trader | Top One Trader St. Patrick’s Day Promotion: Up to 77.7% Off All Accounts | 77% OFF | Ended | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-st-patricks-day-discount/ |
-| 2026-03-17 | Blueberry Funded | Blueberry Funded 25% Off 1-Step Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-1-step/ |
-| 2026-03-17 | Blueberry Funded | Blueberry Funded 30% Off 2-Step Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-2-step/ |
-| 2026-03-17 | Atmos Funded | Atmos Funded 35% and 25% Off St. Patrick’s Day Flash Sale | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-35-25-off-st-patricks-day-flash-sale/ |

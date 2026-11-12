@@ -1,16 +1,15 @@
 # Blueberry Funded Diwali: 30% Off All Challenges
 
-Blueberry Funded is offering 30% off — discount code **DIWALI30**.
+Blueberry Funded was offering 30% off.
 
 > Blueberry Funded marks Diwali with 30% off every challenge from $25K to $200K, across all paths. The offer ends 11 November 2026.
 
 - Published: 2026-11-08
-- Offer ends: 2026-11-11
+- Offer ends: 2026-11-11 (ended)
 - Prop firm: Blueberry Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 - Summary: Blueberry Funded is offering 30% off every challenge for Diwali, on account sizes from $25K to $200K across Prime 2-Step, Flex 1-Step, 1-Step Classic, Synthetic Indices and Instant Funding, until 11 November 2026.
 - Offer: 30% Off
-- Code: DIWALI30
 - Scope: All Challenges, $25K-$200K Accounts
 - Deal: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/
 

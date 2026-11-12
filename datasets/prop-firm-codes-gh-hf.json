@@ -13,7 +13,7 @@
                 "All Accounts - Instant, Pro, Challenge; Every Account Size"
             ],
             "date_published": "2026-11-06",
-            "date_exp": "2026-11-10 17:59",
+            "date_exp": "2026-11-10 17:59 (ended)",
             "event": null,
             "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/"
         },
@@ -253,21 +253,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13170,
-            "title": "Diwali 80% Off All Challenges",
+            "deal_id": 13217,
+            "title": "Black Friday: 80% Off Challenges",
             "offer_type": "coupon",
             "discount_value": "80%",
             "scope": [
-                "All Challenge Types"
+                "All Challenges"
             ],
-            "date_published": "2026-11-06",
-            "date_exp": "2026-11-11",
-            "event": "Diwali",
-            "post_url": "https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/"
+            "date_published": "2026-11-11",
+            "date_exp": "Limited time",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/"
         },
         "deal_count": {
-            "total": 52,
-            "this_year": 36,
+            "total": 53,
+            "this_year": 37,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/ckcapital",
@@ -315,21 +315,21 @@
         "discount": "50%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13185,
-            "title": "60% Off + Free Same-Size Account",
+            "deal_id": 13205,
+            "title": "55% Off Challenges + Free Account",
             "offer_type": "coupon",
-            "discount_value": "60%",
+            "discount_value": "55%",
             "scope": [
-                "Any Account - Qt One, Qt Two, Qt Instant, Qt Power"
+                "All Challenges"
             ],
-            "date_published": "2026-11-07",
+            "date_published": "2026-11-10",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/"
+            "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/"
         },
         "deal_count": {
-            "total": 63,
-            "this_year": 40,
+            "total": 64,
+            "this_year": 41,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/qtfunded",
@@ -563,21 +563,21 @@
         "discount": "50%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12792,
-            "title": "50% Off Challenge Pricing and $165 Bundle Package",
+            "deal_id": 13211,
+            "title": "50% Off All Evaluations",
             "offer_type": "coupon",
             "discount_value": "50%",
             "scope": [
-                "All Evaluation Models, Resets, Tcp25 Bundle"
+                "All Evaluations"
             ],
-            "date_published": "2026-10-01",
-            "date_exp": "2026-10-18 (ended)",
+            "date_published": "2026-11-02",
+            "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/"
+            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/"
         },
         "deal_count": {
-            "total": 18,
-            "this_year": 11,
+            "total": 19,
+            "this_year": 12,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/earn2trade",
@@ -1056,24 +1056,24 @@
     {
         "prop_firm": "Phidias Propfirm",
         "code": "PFD",
-        "discount": "80%",
+        "discount": "85%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13098,
-            "title": "Up to 80% off every account, ending November 10",
+            "deal_id": 13213,
+            "title": "85% Off Every 150K Account",
             "offer_type": "coupon",
-            "discount_value": "80%",
+            "discount_value": "85%",
             "scope": [
-                "Every Phidias Account: Express To Live, Fundamental And Premium"
+                "150K One-Time Payment Accounts"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "2026-11-10",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/"
+            "date_published": "2026-11-11",
+            "date_exp": "2026-11-24",
+            "event": "Veterans Day",
+            "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/"
         },
         "deal_count": {
-            "total": 40,
-            "this_year": 34,
+            "total": 41,
+            "this_year": 35,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
@@ -1304,24 +1304,24 @@
     {
         "prop_firm": "Upcomers",
         "code": "PFD",
-        "discount": "90%",
+        "discount": "93%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13166,
-            "title": "Black Friday $99 Thunderbolt + 2 Free Accounts",
+            "deal_id": 13215,
+            "title": "Black Friday Vol. 2: Up to 93% Off",
             "offer_type": "coupon",
-            "discount_value": "90%",
+            "discount_value": "93%",
             "scope": [
-                "$100K Thunderbolt Challenge (1-Phase) At $99; $50K At $49; Two Extra Accounts Free"
+                "Accounts, 50K 2-Step Odyssey"
             ],
-            "date_published": "2026-11-06",
+            "date_published": "2026-11-11",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/"
+            "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/"
         },
         "deal_count": {
-            "total": 20,
-            "this_year": 15,
+            "total": 21,
+            "this_year": 16,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/upcomers",
@@ -1521,24 +1521,24 @@
     {
         "prop_firm": "Atlas Funded",
         "code": "PFD",
-        "discount": "40%",
+        "discount": "50%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13092,
-            "title": "40% off Futures evaluations in November",
+            "deal_id": 13207,
+            "title": "40% Off Evaluations From $25.80",
             "offer_type": "coupon",
             "discount_value": "40%",
             "scope": [
-                "Futures Evaluations, On The Tradara Platform"
+                "Evaluations, 2 Step, Instant Zero, Instant Funded"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "2026-11-09 (ended)",
+            "date_published": "2026-11-10",
+            "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/"
+            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/"
         },
         "deal_count": {
-            "total": 40,
-            "this_year": 15,
+            "total": 41,
+            "this_year": 16,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/atlasfunded",

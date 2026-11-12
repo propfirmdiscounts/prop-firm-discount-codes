@@ -1,16 +1,15 @@
 # Finotive Funding Back to Roots Sale: 50% Off Everything
 
-Finotive Funding is offering 50% off — discount code **ROOTS50**.
+Finotive Funding was offering 50% off.
 
 > Finotive Funding cuts 50% off everything in the Back to Roots Sale - Instant, Pro and Challenge at every size - until Tuesday 10 November.
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-10 17:59
+- Offer ends: 2026-11-10 17:59 (ended)
 - Prop firm: Finotive Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - Summary: Finotive Funding cuts 50% off everything in the Back to Roots Sale, covering Instant, Pro and Challenge at every account size until Tuesday 10 November. Only the purchase price changes in the sale.
 - Offer: 50% Off
-- Code: ROOTS50
 - Scope: All accounts - Instant, Pro, Challenge; every account size
 - Deal: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/
 - Verified standing exclusive code: JACKICHUN (works any time; the live rate is always on the firm page)

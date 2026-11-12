@@ -1,48 +1,50 @@
 # City Traders Imperium (CTI) Discount Code
 
-No live discount code for City Traders Imperium (CTI) right now — newest deals and offers are below.
+The newest City Traders Imperium (CTI) discount code is **NEWS15** — 15% off (November 10, 2026). The campaign code changes with each promotion; newest first below.
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-10
 - Trustpilot: 4.3/5 (1641 reviews)
 - Activate: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-As of 2026-11-10, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
+As of 2026-11-12, the biggest City Traders Imperium (CTI) offers this month: 20% OFF with code NFP20, 15% OFF with code NEWS15, 15% OFF with code FEARLESS15, 15% OFF with code BREAK15, and 15% OFF with code PORTAL15.
 
-## Most recent deal (ended): City Traders Imperium 20% Off Until NFP Drops
+## Current deal: CTI: 15% Off 1-Step, 2-Step and Instant Funding
 
-- Published: 2026-11-06
-- Offer ends: 2026-11-06 (ended)
-- Offer: 20% Off
-- Scope: 1-Step, 2-Step and Instant Funding accounts
-- Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/
+- Published: 2026-11-10
+- Offer ends: Limited time
+- Offer: 15% Off
+- Code: NEWS15
+- Scope: 1-Step, 2-Step, Instant Funding
+- Deal page: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-news-trading/
 
 ## City Traders Imperium (CTI) deal FAQ
 
-**What does the City Traders Imperium NFP promotion include?**
+**What does the CTI code take off?**
 
-It includes 20% off 1-Step, 2-Step and Instant Funding accounts. The promotion runs until NFP drops on Friday 6 November.
+15% off any 1-Step, 2-Step or Instant Funding account. The announcement names no size limits or exclusions.
 
-**Is news trading restricted on City Traders Imperium accounts?**
+**Is news trading really unrestricted at CTI?**
 
-No. The firm states that news trading is not restricted, so the accounts can be traded through the release. That term does not reduce the risk of trading a major data release.
+That is the firm's own stated policy in this announcement: news trading is never restricted at CTI, including the release minute that restricted firms block. The policy is the firm's standing rule, not an effect of the discount.
 
-**Does the City Traders Imperium discount change account rules?**
+**When does the offer end?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Trading risk is not reduced.
+The announcement states no end date. Its framing is the next big release rather than a fixed deadline.
 
-**What did the firm describe about the previous NFP release?**
+**What happened in the CPI release, on the firm's account?**
 
-The firm describes Friday 2 October as quiet before the number dropped, with 57% more traders placing trades in the first hour than on a normal Friday. That is the firm's account of the last release, not a forecast.
+The firm reports that six times as many traders opened trades in the release minute as in a normal minute. Nearly 9 in 10 take-profits landed in that same minute. Those are the firm's figures for its own platform.
 
-**Who may this City Traders Imperium window suit?**
+**Does the discount change the accounts or reduce risk?**
 
-It may suit a buyer who had already chosen a 1-Step, 2-Step or Instant Funding account and was comparing entry prices before the release. The window closes when NFP drops, so the timing is part of the decision.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Trading a release minute carries the same risk as ever.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-10 - [CTI: 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-news-trading/) (15% Off)
 - 2026-11-06 - [City Traders Imperium 20% Off Until NFP Drops](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/) (20% Off) — ended 2026-11-06
 - 2026-10-26 - [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) (15% Off) — Halloween — ended 2026-10-31 19:59
 - 2026-10-19 - [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) (15% Off) — Halloween — ended 2026-10-25

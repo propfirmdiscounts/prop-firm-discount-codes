@@ -9,7 +9,7 @@ No live discount code for Hantec Trader right now — newest deals and offers ar
 - Activate: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 
-As of 2026-11-10, the biggest Hantec Trader offers this month: 35% OFF with code REACT35.
+As of 2026-11-12, the biggest Hantec Trader offers this month: 35% OFF with code REACT35.
 
 ## Most recent deal (ended): Hantec Trader 35% Off Eligible Challenge Pricing
 

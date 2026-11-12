@@ -1,11 +1,13 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 90% OFF with code PFD at Upcomers, 65% OFF at Top One Futures, 55% OFF with code BF55 at SFX Funded, 50% OFF with code NOFEE50 at Take Profit Trader, and 50% OFF with code BLACK50 at Hola Prime.
+As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 90% OFF with code PFD at Upcomers, 80% OFF with code BF80 at CK PropFirm, 65% OFF at Top One Futures, and 50% OFF with code NOFEE50 at Take Profit Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
+| 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
@@ -154,5 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-17 | City Traders Imperium (CTI) | City Traders Imperium (CTI) Black Friday Sale: 20% OFF All Funding Programs | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-cti-black-friday-sale-20-off/ |
 | 2025-11-17 | Funded Trading Plus | Funded Trading Plus (FT+) Black Friday 2025 Deal: 20% OFF Top Challenges | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-2025-sale-20-off/ |
 | 2025-11-17 | QT Funded | QT Funded Black Friday Coupon: Free Half-Size Instant Account on Payout | Get a FREE Account | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-free-instant-account-payout/ |
-| 2025-11-17 | Tradexprop | Tradexprop Black Friday Coupon: 30% OFF All Prop Trading Plans | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-coupon-30-off/ |
-| 2025-11-17 | AquaFunded | AquaFunded Black Friday Early Access: 50% OFF + 150% Refundable Fee | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-early-access-50-off/ |

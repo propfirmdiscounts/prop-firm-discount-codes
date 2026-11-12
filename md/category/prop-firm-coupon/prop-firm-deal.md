@@ -20,7 +20,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Limited time | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-14 | CK PropFirm | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% OFF | 2026-10-21 (ended) | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |
 | 2026-10-14 | Alpha Funded | Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399 | Only $199 | Limited time | No Code Required | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/ |
-| 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | Limited time | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
+| 2026-10-11 | PipFarm | PipFarm 100K Challenges Reduced to $99 | Only $99 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
 | 2026-10-09 | PipFarm | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |
 | 2026-10-01 | Top One Trader | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |
 | 2026-10-01 | Apex Trader Funding | Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations | 90% OFF | 2026-10-05 (ended) | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/ |

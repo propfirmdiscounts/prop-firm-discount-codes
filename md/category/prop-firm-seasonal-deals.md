@@ -1,19 +1,24 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-06, the biggest offers this month: 90% OFF with code PFD at Upcomers, 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code DIWALI at QT Funded, and 55% OFF with code DIWALI at FundedSquad.
+As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 80% OFF with code BF80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, and 60% OFF with code VET60 at FundYourFX.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
+| 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
+| 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
+| 2026-11-11 | BluSky Trading | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
-| 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
+| 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
 | 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |
 | 2026-11-06 | Alpha Capital Group | Alpha Capital Group Diwali: 40% Off All Plans | 40% OFF | 2026-11-08 23:59 (ended) | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/ |
-| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
-| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
+| 2026-11-06 | FundedSquad | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% OFF | 2026-11-10 07:00 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
+| 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
@@ -31,8 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Fintokei | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
 | 2026-11-01 | Top One Trader | Top One Trader Black November Up to 80% Off Instant Funded | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
 | 2026-10-31 | Finotive Funding | Finotive Funding 65% Off Every Account | 65% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
-| 2026-10-31 | IC Funded | IC Funded 40% Off Every Challenge Día de Muertos | 40% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/ |
-| 2026-10-30 | Bitfunded | Bitfunded 55% Off Halloween Drop Plus 20X Leverage | 55% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/ |
-| 2026-10-30 | WSFunded | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% OFF | 2026-11-02 17:59 (ended) | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
-| 2026-10-30 | FunderPro | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |
-| 2026-10-30 | Bitfunded | Bitfunded Halloween $499 Monster Bundle With Free Instant | Only $499 | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/ |

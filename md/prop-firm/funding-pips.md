@@ -9,7 +9,7 @@ The newest FundingPips discount code is **HALLOWEEN** — 15% off (October 30, 2
 - Activate: https://propfirmdiscount.com/go/fundingpips
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-pips/
 
-As of 2026-11-10, the biggest FundingPips offers this month: 15% OFF with code HALLOWEEN.
+As of 2026-11-12, the biggest FundingPips offers this month: 15% OFF with code HALLOWEEN.
 
 ## Current deal: FundingPips Halloween 20% Off New, 15% Off Existing Accounts
 

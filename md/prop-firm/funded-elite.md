@@ -11,7 +11,7 @@ The verified Funded Elite discount code is **AFF1864062** — Up to 10% off, wor
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-10, the biggest Funded Elite offers this month: 55% OFF with code ELITE55, 50% OFF with code PACKS, 47% OFF with code ATOM, 40% OFF with code NOV40, and 40% OFF with code SPOOKY.
+As of 2026-11-12, the biggest Funded Elite offers this month: 55% OFF with code ELITE55, 50% OFF with code PACKS, 47% OFF with code ATOM, 40% OFF with code NOV40, and 40% OFF with code SPOOKY.
 
 ## Current deal: Funded Elite 30% Off Atom Accounts
 

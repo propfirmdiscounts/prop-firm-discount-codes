@@ -7,44 +7,46 @@ The verified Earn2Trade discount code is **PFD** — Up to 50% off, works any ti
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-01
+- Last deal published: 2026-11-02
 - Trustpilot: 4.5/5 (5080 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-10, the biggest Earn2Trade offers this month: 50% OFF with code PFD.
+As of 2026-11-12, the biggest Earn2Trade offers this month: 50% OFF with code PFD and 50% OFF with code PFD.
 
-## Most recent deal (ended): Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle
+## Current deal: Earn2Trade: 50% Off All Evaluations, Ladder Removed
 
-- Published: 2026-10-01
-- Offer ends: 2026-10-18 (ended)
+- Published: 2026-11-02
+- Offer ends: Limited time
 - Offer: 50% Off
-- Scope: All evaluation models, resets, TCP25 bundle
-- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
+- Code: PFD
+- Scope: All Evaluations
+- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
 
 ## Earn2Trade deal FAQ
 
-**What discount does Earn2Trade offer in this anniversary promotion?**
+**What does the Earn2Trade code take off?**
 
-The promotion includes a 50% discount on standard evaluation fees and resets. Additionally, there is a no-code $165 Anniversary Bundle that provides three TCP25 evaluations and three resets for a one-time payment.
+50% off all evaluations. The discount applies for the first 60 days of the subscription, including the purchase date; evaluations renew automatically every 30 days until you pass or cancel. Standard prices apply after the 60 days.
 
-**Does the Earn2Trade anniversary bundle change any trading rules?**
+**Which resets are discounted?**
 
-No, the promotion solely reduces the initial purchase price and groups accounts into a single payment structure. Standard TCP25 rules, drawdown limits and risk parameters remain entirely unchanged.
+On select plans: TCP25 resets are $65 (35% off), TCP50 resets are $85 (25% off) and GAU50 resets are $75 (35% off), under the same first-60-days terms.
 
-**Does Earn2Trade have a working discount code?**
+**What changed with the Progression Ladder?**
 
-Yes, you can reliably use the PFD discount code at checkout. It always works and is occasionally applied at the highest available rate on the platform.
+From 2 November the ladder is gone for new evaluations: contract limits are enforced automatically, so exceeding your maximum no longer results in a failure. The update applies to evaluations purchased on or after 2 November; existing subscriptions and their funded accounts stay under the rules from purchase.
 
-**How long is the 50% discount valid?**
+**When does the offer end?**
 
-The 50% discount on standard evaluations and resets is valid until October 18, 2026. The separate $165 Anniversary Bundle is only available to purchase between October 1 and October 10, 2026.
+The announcement says the offer is available for a limited time only and states no end date. Separately, the discounted pricing itself runs for the first 60 days of each subscription.
 
-**What happens to unused resets in the $165 bundle?**
+**Does the discount make the evaluation easier to pass?**
 
-All open bundle accounts will forcibly close and any unused resets will expire entirely on October 30, 2026. Traders must be able to utilize their accounts before this deadline.
+No. The discount lowers the subscription cost only. The ladder removal is a separate firm rule update. All evaluations use a virtual account balance - trading risk itself is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-02 - [Earn2Trade: 50% Off All Evaluations, Ladder Removed](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) (50% Off)
 - 2026-10-01 - [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) (50% Off) — ended 2026-10-18
