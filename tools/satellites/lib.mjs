@@ -75,6 +75,7 @@ export function parseFirmMirror(md, standingCode = '') {
     block = {
       title: /^## Current deal: (.+)$/.exec(blk[0])[1].trim(),
       published: pick('Published'),
+      offerEnds: pick('Offer ends'),
       offer: pick('Offer'),
       code: pick('Code'),
       scope: pick('Scope'),
@@ -111,7 +112,7 @@ export function parseFirmMirror(md, standingCode = '') {
   } else if (block) {
     out.latestDeal = block;
   }
-  if (out.latestDeal && hasBanned(`${out.latestDeal.title} ${out.latestDeal.scope} ${out.latestDeal.offer}`)) {
+  if (out.latestDeal && hasBanned(`${out.latestDeal.title} ${out.latestDeal.scope} ${out.latestDeal.offer} ${out.latestDeal.offerEnds || ''}`)) {
     out.latestDeal = null;
   }
   // FAQ blocks answer the deal the "## Current deal" block describes; keep them

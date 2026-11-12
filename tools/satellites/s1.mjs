@@ -68,13 +68,22 @@ function firmStanding(firm, mirror, standingFirms, exclusiveFirms) {
   return exclusiveFirms.has(firm.slug) && mirror.blockCodeOnStanding;
 }
 
+function dealExpiryFor(firm, deal) {
+  if (firm.last_deal?.date_exp && (!deal.dealUrl || firm.last_deal.post_url === deal.dealUrl)) {
+    return firm.last_deal.date_exp;
+  }
+  return deal.offerEnds || '';
+}
+
 function currentDealSection(firm, mirror, standingFirms, exclusiveFirms) {
   const d = mirror.latestDeal;
   if (!d) return '';
   const o = offerShape(d.offer);
+  const exp = dealExpiryFor(firm, d);
   const rows = [
     ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
   ];
+  if (exp) rows.push(['Offer ends', esc(exp)]);
   if (d.offer) rows.push(['Offer', esc(o.titlePart || d.offer)]);
   if (d.scope) rows.push(['Scope', esc(d.scope)]);
   // Code row only where the deal shown redeems on the firm's standing code
@@ -111,7 +120,7 @@ function logSection(firm, mirror, standingFirms) {
     return `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(title)}</a></li>`;
   }).join('\n');
   return `<h2 id="log">${esc(firm.prop_firm)} Discount Code History</h2>
-<p>Explore the historical promotions associated with the ${esc(firm.prop_firm)} discount code ${esc(firm.code)}. Each record includes the published date, advertised discount, and original deal page, providing a chronological overview of the firm's promotional offers.</p>
+<p>Explore the historical promotions from the last 2 months associated with the ${esc(firm.prop_firm)} discount code ${esc(firm.code)}. Records are pulled from a rolling 2-month window (newest first) and include the published date, advertised discount, and original deal page, providing a chronological overview of the firm's recent promotional offers.</p>
 <ol class="log">
 ${items}
 </ol>`;
@@ -157,13 +166,14 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
   const ldDeal = mirror.latestDeal;
   if (mirror.dealHistory.length) {
     md.push(`## ${firm.prop_firm} Discount Code History`, '',
-      `Explore the historical promotions associated with the ${firm.prop_firm} discount code ${firm.code}. Each record includes the published date, advertised discount, and original deal page, providing a chronological overview of the firm's promotional offers.`, '');
+      `Explore the historical promotions from the last 2 months associated with the ${firm.prop_firm} discount code ${firm.code}. Records are pulled from a rolling 2-month window (newest first) and include the published date, advertised discount, and original deal page, providing a chronological overview of the firm's recent promotional offers.`, '');
     for (const d of mirror.dealHistory) {
       const dealTitle = dealTitleFor({ title: d.title, slug: firm.slug, code: firm.code }, standingFirms);
       md.push(`- ${d.date} - [${dealTitle}](${d.url}) (${d.offer})`);
     }
     md.push('');
   }
+  const ldExp = ldDeal ? dealExpiryFor(firm, ldDeal) : '';
   if (ldDeal) {
     const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
     const ldTitle = isStandingDeal && !/\bwith code\b/i.test(ldDeal.title)
@@ -171,6 +181,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
       : ldDeal.title;
     md.push(`## Latest ${firm.prop_firm} Discount Deal`, '', `### ${ldTitle}`, '');
     md.push(`- Published: ${ldDeal.published}`);
+    if (ldExp) md.push(`- Offer ends: ${ldExp}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
     if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
     // Same gate as the page: the Code line appears only where the deal shown
@@ -205,7 +216,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
     source: 'propfirmdiscount.com',
     activation_link: firm.activation_link,
-    current_deal: ldDeal ? { title: ldDeal.title, published: ldDeal.published, offer: ldDeal.offer, scope: ldDeal.scope, deal_url: ldDeal.dealUrl, code_relation: firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation } : null,
+    current_deal: ldDeal ? { title: ldDeal.title, published: ldDeal.published, date_exp: ldExp || null, offer: ldDeal.offer, scope: ldDeal.scope, deal_url: ldDeal.dealUrl, code_relation: firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation } : null,
     changelog: mirror.dealHistory,
   };
   return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
