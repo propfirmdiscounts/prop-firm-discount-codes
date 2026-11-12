@@ -408,10 +408,13 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 }
 
 // ── event (roundup) page ─────────────────────────────────────
-function eventIntroLead(ev, rows) {
+function eventIntroLead(ev, rows, year) {
+  const targetYear = String(year || (rows[0] ? rows[0].published.slice(0, 4) : ''));
+  const yearRows = targetYear ? rows.filter((r) => r.published.startsWith(targetYear)) : rows;
+  const pool = yearRows.length ? yearRows : rows;
   const byFirm = new Map();
   let bestAny = null;
-  for (const r of rows) {
+  for (const r of pool) {
     const p = pctOf(r.discount);
     if (p === null) continue;
     const firm = canonicalFirm(r.firm) || r.firm;
@@ -419,30 +422,28 @@ function eventIntroLead(ev, rows) {
     if (!bestAny || p > bestAny.pct || (p === bestAny.pct && r.published > bestAny.published)) {
       bestAny = { firm, pct: p, published: r.published };
     }
-    if (r.codeState === 'standing' && r.code) {
-      const cur = byFirm.get(firm);
-      if (!cur || p > cur.pct || (p === cur.pct && r.published > cur.published)) {
-        byFirm.set(firm, { firm, pct: p, code: r.code, published: r.published });
-      }
+    // Take the latest deal of the firm in this year (rows is sorted newest-first)
+    if (!byFirm.has(firm) && r.codeState === 'standing' && r.code) {
+      byFirm.set(firm, { firm, pct: p, code: r.code, published: r.published });
     }
   }
   const topStanding = [...byFirm.values()]
     .sort((a, b) => b.pct - a.pct || b.published.localeCompare(a.published) || a.firm.localeCompare(b.firm))
-    .slice(0, 2);
+    .slice(0, 5);
+  const yearLabel = targetYear ? ` ${targetYear}` : '';
   if (topStanding.length >= 2) {
-    const list = topStanding.map((r) => `${r.pct}% OFF with code ${r.code} from ${r.firm}`).join(', ');
-    return `The highest ${ev.short} prop firm discounts currently include ${list}, and other seasonal offers from tracked proprietary trading firms.`;
+    const list = joinList(topStanding.map((r) => `${r.pct}% OFF with code ${r.code} from ${r.firm}`));
+    return `The highest ${ev.short}${yearLabel} prop firm discounts currently include ${list}, and other seasonal offers from tracked proprietary trading firms.`;
   }
   if (topStanding.length === 1) {
     const r = topStanding[0];
-    return `The highest ${ev.short} prop firm discount currently includes ${r.pct}% OFF with code ${r.code} from ${r.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
+    return `The highest ${ev.short}${yearLabel} prop firm discount currently includes ${r.pct}% OFF with code ${r.code} from ${r.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
   }
   if (bestAny) {
-    return `Recorded ${ev.short} prop firm discounts reach up to ${bestAny.pct}% OFF from ${bestAny.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
+    return `Recorded ${ev.short}${yearLabel} prop firm discounts reach up to ${bestAny.pct}% OFF from ${bestAny.firm}, alongside other seasonal offers from tracked proprietary trading firms.`;
   }
-  return `Browse recorded ${ev.short} seasonal offers from tracked proprietary trading firms below.`;
+  return `Browse recorded ${ev.short}${yearLabel} seasonal offers from tracked proprietary trading firms below.`;
 }
-
 function roundupPage(ev, kind, others, now) {
   const rows = ev.rows;
   const newest = rows[0] || null;
@@ -495,7 +496,7 @@ function roundupPage(ev, kind, others, now) {
       },
     ],
   };
-  const introLead = eventIntroLead(ev, rows);
+  const introLead = eventIntroLead(ev, rows, year);
   const introSub = `Explore ${rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
   // Per-firm rollup so the page answers a firm-specific long tail without
   // the reader scanning the whole table.
@@ -592,10 +593,10 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
 }
 
 function roundupMarkdown(ev, kind) {
-  const introLead = eventIntroLead(ev, ev.rows);
+  const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
+  const introLead = eventIntroLead(ev, ev.rows, year);
   const introSub = `Explore ${ev.rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
   const firms = firmRollup(ev.rows);
-  const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
   return [`# ${ev.short} Prop Firm Deals & Discount Codes${year ? ` ${year}` : ''}`, '',
     introLead, '', introSub, '',
     mdDealsByYear(ev.rows, ev.short), '',
