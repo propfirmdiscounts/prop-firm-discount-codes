@@ -84,11 +84,12 @@ table.deals6 th:nth-child(3),table.deals6 td:nth-child(3){width:13%}
 table.deals6 th:nth-child(4),table.deals6 td:nth-child(4){white-space:normal}
 table.deals6 th:nth-child(5),table.deals6 td:nth-child(5){width:10%}
 table.deals6 th:nth-child(6),table.deals6 td:nth-child(6){width:12%;white-space:normal;overflow-wrap:anywhere}
-table.deals5e th:nth-child(1),table.deals5e td:nth-child(1){width:12%}
-table.deals5e th:nth-child(2),table.deals5e td:nth-child(2){width:13%}
-table.deals5e th:nth-child(3),table.deals5e td:nth-child(3){width:15%}
-table.deals5e th:nth-child(4),table.deals5e td:nth-child(4){white-space:normal}
-table.deals5e th:nth-child(5),table.deals5e td:nth-child(5){width:11%}
+table.deals6e th:nth-child(1),table.deals6e td:nth-child(1){width:12%}
+table.deals6e th:nth-child(2),table.deals6e td:nth-child(2){width:13%}
+table.deals6e th:nth-child(3),table.deals6e td:nth-child(3){white-space:normal}
+table.deals6e th:nth-child(4),table.deals6e td:nth-child(4){width:10%}
+table.deals6e th:nth-child(5),table.deals6e td:nth-child(5){width:12%;white-space:nowrap}
+table.deals6e th:nth-child(6),table.deals6e td:nth-child(6){width:15%;white-space:normal;overflow-wrap:anywhere}
 table.deals5 th:nth-child(1),table.deals5 td:nth-child(1){width:12%}
 table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){width:16%}
 table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){white-space:normal}
@@ -190,11 +191,11 @@ function dealTitleWithCode(r) {
 }
 
 function latestDealsTable(rows) {
-  const head = `<th scope="col">Published</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th>`;
-  return `<div class="tscroll w640"><table class="checks fixed deals5e">
+  const head = `<th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Published</th><th scope="col">Deal ends</th>`;
+  return `<div class="tscroll w700"><table class="checks fixed deals6e">
 <thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td></tr>`).join('\n')}
+${rows.map((r) => `<tr><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>`;
 }
@@ -347,7 +348,7 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
     ],
   };
   const boardTable = board.ranks.length ? `<div class="tscroll w700"><table class="checks board fixed">
-<thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Published</th><th scope="col">Exp</th></tr></thead>
+<thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Published</th><th scope="col">Deal ends</th></tr></thead>
 <tbody>
 ${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
@@ -490,9 +491,9 @@ ${firmSection}
 
 // ── markdown twins ──────────────────────────────────────────────
 function mdLatestDealsTable(rows) {
-  const head = [`| Published | Event | Firm | Deal | Discount |`, `|---|---|---|---|---|`];
+  const head = [`| Event | Firm | Deal | Discount | Published | Deal ends |`, `|---|---|---|---|---|---|`];
   return [...head,
-    ...rows.map((r) => `| ${r.published} | ${r.eventShort || EN_DASH} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} |`)].join('\n');
+    ...rows.map((r) => `| ${r.eventShort || EN_DASH} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${r.ends || EN_DASH} |`)].join('\n');
 }
 
 function mdDealsTable(rows, withEvent) {
@@ -531,7 +532,7 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top Prop Firm Seasonal Discounts ${EN_DASH} ${board.compactLabel}`, '',
     `Compare the ${board.ranks.length || 10} highest prop firm seasonal discounts recorded during ${board.spanLabel}. Rankings are based on each firm's highest advertised discount within the selected period, with publication dates used to break ties.`, '',
-    `| Rank | Event | Firm | Best discount | Deal | Published | Exp |`, `|---|---|---|---|---|---|---|`,
+    `| Rank | Event | Firm | Best discount | Deal | Published | Deal ends |`, `|---|---|---|---|---|---|---|`,
     ...board.ranks.map((r) => `| ${r.rank} | ${r.eventShort || EN_DASH} | ${r.firm} | ${r.pct}% Off | [${dealTitleWithCode(r)}](${r.url}) | ${r.published} | ${r.ends || EN_DASH} |`), '',
     `## Always-On Prop Firm Discount Codes`, '',
     `Browse standing prop firm discount codes that are tracked separately from seasonal promotional campaigns. Each listing includes the firm's discount code, advertised discount percentage, and latest check period. These codes are listed as plain text so traders can easily copy and use them when eligible.`, '',
