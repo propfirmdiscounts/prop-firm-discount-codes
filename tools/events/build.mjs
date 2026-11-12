@@ -90,11 +90,11 @@ table.deals6e th:nth-child(3),table.deals6e td:nth-child(3){white-space:normal}
 table.deals6e th:nth-child(4),table.deals6e td:nth-child(4){width:10%}
 table.deals6e th:nth-child(5),table.deals6e td:nth-child(5){width:12%;white-space:nowrap}
 table.deals6e th:nth-child(6),table.deals6e td:nth-child(6){width:15%;white-space:normal;overflow-wrap:anywhere}
-table.deals5 th:nth-child(1),table.deals5 td:nth-child(1){width:12%}
-table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){width:16%}
-table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){white-space:normal}
-table.deals5 th:nth-child(4),table.deals5 td:nth-child(4){width:12%}
-table.deals5 th:nth-child(5),table.deals5 td:nth-child(5){width:13%;white-space:normal;overflow-wrap:anywhere}
+table.deals5 th:nth-child(1),table.deals5 td:nth-child(1){width:16%}
+table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){white-space:normal}
+table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){width:11%}
+table.deals5 th:nth-child(4),table.deals5 td:nth-child(4){width:12%;white-space:nowrap}
+table.deals5 th:nth-child(5),table.deals5 td:nth-child(5){width:15%;white-space:normal;overflow-wrap:anywhere}
 table.events th:nth-child(2),table.events td:nth-child(2){width:12%;text-align:right}
 table.events th:nth-child(3),table.events td:nth-child(3){width:24%}
 table.board td:nth-child(1){font-weight:400}
@@ -211,14 +211,12 @@ ${rows.map((r) => `<tr><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm 
 </table></div>`;
 }
 
-function dealsTable(rows, withEvent) {
-  const head = withEvent
-    ? `<th scope="col">Published</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`
-    : `<th scope="col">Published</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Code</th>`;
-  return `<div class="tscroll ${withEvent ? 'w700' : 'w640'}"><table class="checks fixed ${withEvent ? 'deals6' : 'deals5'}">
+function dealsTable(rows) {
+  const head = `<th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Published</th><th scope="col">Deal ends</th>`;
+  return `<div class="tscroll w640"><table class="checks fixed deals5">
 <thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td>${withEvent ? `<td>${esc(r.eventShort || EN_DASH)}</td>` : ''}<td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td><td>${esc(r.discount || EN_DASH)}</td>${codeTd(r)}</tr>`).join('\n')}
+${rows.map((r) => `<tr><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>`;
 }
@@ -540,12 +538,10 @@ function mdLatestDealsTable(rows) {
     ...rows.map((r) => `| ${r.eventShort || EN_DASH} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${r.ends || EN_DASH} |`)].join('\n');
 }
 
-function mdDealsTable(rows, withEvent) {
-  const head = withEvent
-    ? [`| Published | Event | Firm | Deal | Discount | Code |`, `|---|---|---|---|---|---|`]
-    : [`| Published | Firm | Deal | Discount | Code |`, `|---|---|---|---|---|`];
+function mdDealsTable(rows) {
+  const head = [`| Firm | Deal | Discount | Published | Deal ends |`, `|---|---|---|---|---|`];
   return [...head,
-    ...rows.map((r) => `| ${r.published} | ${withEvent ? `${r.eventShort || EN_DASH} | ` : ''}${r.firm || EN_DASH} | [${r.title}](${r.url}) | ${r.discount || EN_DASH} | ${r.code} |`)].join('\n');
+    ...rows.map((r) => `| ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${r.ends || EN_DASH} |`)].join('\n');
 }
 const CODE_NOTE = `Code column meaning: a value works any time; "-" means the deal has its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
