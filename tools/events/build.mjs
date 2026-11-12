@@ -84,6 +84,11 @@ table.deals6 th:nth-child(3),table.deals6 td:nth-child(3){width:13%}
 table.deals6 th:nth-child(4),table.deals6 td:nth-child(4){white-space:normal}
 table.deals6 th:nth-child(5),table.deals6 td:nth-child(5){width:10%}
 table.deals6 th:nth-child(6),table.deals6 td:nth-child(6){width:12%;white-space:normal;overflow-wrap:anywhere}
+table.deals5e th:nth-child(1),table.deals5e td:nth-child(1){width:12%}
+table.deals5e th:nth-child(2),table.deals5e td:nth-child(2){width:13%}
+table.deals5e th:nth-child(3),table.deals5e td:nth-child(3){width:15%}
+table.deals5e th:nth-child(4),table.deals5e td:nth-child(4){white-space:normal}
+table.deals5e th:nth-child(5),table.deals5e td:nth-child(5){width:11%}
 table.deals5 th:nth-child(1),table.deals5 td:nth-child(1){width:12%}
 table.deals5 th:nth-child(2),table.deals5 td:nth-child(2){width:16%}
 table.deals5 th:nth-child(3),table.deals5 td:nth-child(3){white-space:normal}
@@ -96,9 +101,10 @@ table.board td:nth-child(3){font-weight:600}
 table.board th:nth-child(1),table.board td:nth-child(1){width:6%}
 table.board th:nth-child(2),table.board td:nth-child(2){width:12%}
 table.board th:nth-child(3),table.board td:nth-child(3){width:13%}
+table.board th:nth-child(4),table.board td:nth-child(4){width:11%}
 table.board th:nth-child(5),table.board td:nth-child(5){white-space:normal}
-table.board th:nth-child(6),table.board td:nth-child(6){width:11%;white-space:normal;overflow-wrap:anywhere}
-table.board th:nth-child(7),table.board td:nth-child(7){width:12%}
+table.board th:nth-child(6),table.board td:nth-child(6){width:12%;white-space:nowrap}
+table.board th:nth-child(7),table.board td:nth-child(7){width:15%;white-space:normal;overflow-wrap:anywhere}
 table.exclusive td:nth-child(4){white-space:nowrap}
 table.firms th:nth-child(1),table.firms td:nth-child(1){font-weight:600}
 table.firms th:nth-child(2),table.firms td:nth-child(2){width:14%}
@@ -138,6 +144,7 @@ function parseEventMirror(md) {
       title: lm ? lm[1] : dealCell,
       url: lm ? lm[2] : cells[6].trim(),
       discount: discount.trim(),
+      ends: ends.trim(),
       code: code.trim(),
       codeState: code.trim() === '-' ? 'campaign'
         : code.trim() === 'No Code Required' ? 'none' : 'standing',
@@ -174,6 +181,23 @@ const codeTd = (r) => `<td data-code-state="${r.codeState}">${codeCell(r)}</td>`
 // belongs to the firm, independent of the limited-time campaign code a specific
 // deal may ask for at checkout. A firm with no dataset row keeps an empty cell.
 const firmStandingCode = (name) => standingByFirm.get(canonicalFirm(name)) || '';
+
+function dealTitleWithCode(r) {
+  if (r.codeState === 'standing' && r.code && !/\bwith code\b/i.test(r.title)) {
+    return `${r.title} with code ${r.code}`;
+  }
+  return r.title;
+}
+
+function latestDealsTable(rows) {
+  const head = `<th scope="col">Published</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th>`;
+  return `<div class="tscroll w640"><table class="checks fixed deals5e">
+<thead><tr>${head}</tr></thead>
+<tbody>
+${rows.map((r) => `<tr><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td></tr>`).join('\n')}
+</tbody>
+</table></div>`;
+}
 
 function dealsTable(rows, withEvent) {
   const head = withEvent
@@ -264,7 +288,7 @@ function leaderboard(poolRows) {
   const ranks = [...best.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || a[0].localeCompare(b[0]))
     .slice(0, 10)
-    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, code: v.row.code, codeState: v.row.codeState, eventShort: v.row.eventShort || '' }));
+    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, ends: v.row.ends || '', code: v.row.code, codeState: v.row.codeState, eventShort: v.row.eventShort || '' }));
   const topStanding = [...bestStanding.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || b[1].row.published.localeCompare(a[1].row.published) || a[0].localeCompare(b[0]))
     .slice(0, 5)
@@ -323,9 +347,9 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
     ],
   };
   const boardTable = board.ranks.length ? `<div class="tscroll w700"><table class="checks board fixed">
-<thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Code</th><th scope="col">Published</th></tr></thead>
+<thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Published</th><th scope="col">Exp</th></tr></thead>
 <tbody>
-${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(r.title)}</a></td>${codeTd(r)}<td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td></tr>`).join('\n')}
+${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const standingLead = board.topStanding.length
@@ -337,7 +361,7 @@ ${standingLead ? `<p>${standingLead}</p>` : ''}
 
 <h2 id="latest">Latest seasonal deals</h2>
 <p>Browse the latest prop firm seasonal deals and promotional offers, organized by publication date. Explore discounts from recent events and holidays, including Black Friday, Diwali, and other limited-time campaigns. Each listing links to its original deal details, including available discount codes and redemption requirements.</p>
-${dealsTable(latest, true)}
+${latestDealsTable(latest)}
 
 <h2 id="events">Prop Firm Deals by Event &amp; Holiday</h2>
 <p>Explore prop firm discount deals organized by ${eventCount} events and holidays. Each event page provides a chronological archive of promotional offers, including advertised discounts, participating firms, publication dates, and available redemption codes.</p>
@@ -465,6 +489,12 @@ ${firmSection}
 }
 
 // ── markdown twins ──────────────────────────────────────────────
+function mdLatestDealsTable(rows) {
+  const head = [`| Published | Event | Firm | Deal | Discount |`, `|---|---|---|---|---|`];
+  return [...head,
+    ...rows.map((r) => `| ${r.published} | ${r.eventShort || EN_DASH} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} |`)].join('\n');
+}
+
 function mdDealsTable(rows, withEvent) {
   const head = withEvent
     ? [`| Published | Event | Firm | Deal | Discount | Code |`, `|---|---|---|---|---|---|`]
@@ -492,7 +522,7 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
     ...standingLead,
     `## Latest seasonal deals`, '',
     `Browse the latest prop firm seasonal deals and promotional offers, organized by publication date. Explore discounts from recent events and holidays, including Black Friday, Diwali, and other limited-time campaigns. Each listing links to its original deal details, including available discount codes and redemption requirements.`, '',
-    mdDealsTable(latest, true), '',
+    mdLatestDealsTable(latest), '',
     `## Prop Firm Deals by Event & Holiday`, '',
     `Explore prop firm discount deals organized by ${eventCount} events and holidays. Each event page provides a chronological archive of promotional offers, including advertised discounts, participating firms, publication dates, and available redemption codes.`, '',
     `| Event & holiday | Deals | Newest |`, `|---|---|---|`,
@@ -501,8 +531,8 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
     `## Top Prop Firm Seasonal Discounts ${EN_DASH} ${board.compactLabel}`, '',
     `Compare the ${board.ranks.length || 10} highest prop firm seasonal discounts recorded during ${board.spanLabel}. Rankings are based on each firm's highest advertised discount within the selected period, with publication dates used to break ties.`, '',
-    `| Rank | Event | Firm | Best discount | Deal | Code | Published |`, `|---|---|---|---|---|---|---|`,
-    ...board.ranks.map((r) => `| ${r.rank} | ${r.eventShort || EN_DASH} | ${r.firm} | ${r.pct}% Off | [${r.title}](${r.url}) | ${r.code} | ${r.published} |`), '',
+    `| Rank | Event | Firm | Best discount | Deal | Published | Exp |`, `|---|---|---|---|---|---|---|`,
+    ...board.ranks.map((r) => `| ${r.rank} | ${r.eventShort || EN_DASH} | ${r.firm} | ${r.pct}% Off | [${dealTitleWithCode(r)}](${r.url}) | ${r.published} | ${r.ends || EN_DASH} |`), '',
     `## Always-On Prop Firm Discount Codes`, '',
     `Browse standing prop firm discount codes that are tracked separately from seasonal promotional campaigns. Each listing includes the firm's discount code, advertised discount percentage, and latest check period. These codes are listed as plain text so traders can easily copy and use them when eligible.`, '',
     `| Prop Firm | Discount code | Discount | Checked |`, `|---|---|---|---|`,
