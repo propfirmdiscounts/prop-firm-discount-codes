@@ -254,7 +254,7 @@ export function titleFor(firm, now) {
   const o = offerShape(firm.discount);
   let t = `${firm.prop_firm} Discount Code ${firm.code}`;
   if (o.titlePart) t += ` ${EN_DASH} ${o.titlePart}`;
-  return `${t} ${EN_DASH} ${monthYearUTC(now)}`;
+  return `${t} (${monthYearUTC(now)})`;
 }
 
 // ── JSON-LD ─────────────────────────────────────────────────────

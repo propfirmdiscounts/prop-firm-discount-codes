@@ -94,7 +94,8 @@ function currentDealSection(firm, mirror, standingFirms, exclusiveFirms) {
     rows.push(['Code', `<code>${esc(firm.code)}</code>`]);
   }
   rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(dealTitle)}</a>`]);
-  return `<h2 id="deal">Latest deal: ${esc(dealTitle)}</h2>
+  return `<h2 id="deal">Latest ${esc(firm.prop_firm)} Discount Deal</h2>
+<h3>${esc(dealTitle)}</h3>
 <table>
 <tbody>
 ${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}
@@ -109,8 +110,8 @@ function logSection(firm, mirror, standingFirms) {
     const title = dealTitleFor({ title: d.title, slug: firm.slug, code: firm.code }, standingFirms);
     return `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(title)}</a></li>`;
   }).join('\n');
-  return `<h2 id="log">Code check log</h2>
-<p>Each entry is a dated deal that carried a code ${EN_DASH} the check trail behind the rate above. Newest first.</p>
+  return `<h2 id="log">${esc(firm.prop_firm)} Discount Code History</h2>
+<p>Explore the historical promotions associated with the ${esc(firm.prop_firm)} discount code ${esc(firm.code)}. Each record includes the published date, advertised discount, and original deal page, providing a chronological overview of the firm's promotional offers.</p>
 <ol class="log">
 ${items}
 </ol>`;
@@ -126,17 +127,15 @@ function faqSection(firm, mirror) {
 
 export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const title = titleFor(firm, now);
-  const year = now.getUTCFullYear();
+  const stamp = monthYearUTC(now);
   const o = offerShape(firm.discount);
-  const dealDate = lastDealDate(firm);
-  const ldDeal = mirror.latestDeal;
-  const promotion = ldDeal ? ` Its newest promotion, ${ldDeal.title}${ldDeal.published ? ` (published ${ldDeal.published})` : ''}, is detailed below.` : '';
-  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} and works any time ${EN_DASH} checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${dealDate || 'n/a'}.`.slice(0, 300);
+  const desc = `Find the ${firm.prop_firm} discount code ${firm.code}${o.sentence ? ` and get ${o.sentence}` : ''}. Explore promotional offers, historical discounts, and the latest ${firm.prop_firm} deals.`;
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
-<h1>${esc(firm.prop_firm)} Discount Code ${year}</h1>
-<p class="answer">The discount code for ${esc(firm.prop_firm)} is ${esc(firm.code)}${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${dealDate ? ` (${esc(dealDate)})` : ''}.${promotion}</p>
+<h1>${esc(firm.prop_firm)} Discount Code ${EN_DASH} ${esc(stamp)}</h1>
+<p class="answer">The ${esc(firm.prop_firm)} discount code is ${esc(firm.code)}${o.sentence ? `, offering ${esc(o.sentence)}` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${esc(firm.prop_firm)}'s deal history below.</p>
+<p>All discount codes are free to use, and the available discount is displayed alongside each tracked firm. Individual promotional offers may have different terms, eligibility requirements, and expiration dates.</p>
 ${factsTable(firm, mirror)}
 ${logSection(firm, mirror, standingFirms)}
 ${currentDealSection(firm, mirror, standingFirms, exclusiveFirms)}
@@ -146,17 +145,19 @@ ${faqSection(firm, mirror)}`;
 
 export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const o = offerShape(firm.discount);
-  const year = now.getUTCFullYear();
+  const stamp = monthYearUTC(now);
   const dealDate = lastDealDate(firm);
-  const md = [`# ${firm.prop_firm} Discount Code ${year}`, '',
-    `The discount code for ${firm.prop_firm} is ${firm.code}${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
+  const md = [`# ${firm.prop_firm} Discount Code ${EN_DASH} ${stamp}`, '',
+    `The ${firm.prop_firm} discount code is ${firm.code}${o.sentence ? `, offering ${o.sentence}` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${firm.prop_firm}'s deal history below.`, '',
+    'All discount codes are free to use, and the available discount is displayed alongside each tracked firm. Individual promotional offers may have different terms, eligibility requirements, and expiration dates.', ''];
   if (mirror.summary) md.push(`> ${mirror.summary}`, '');
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${validityLabel(firm)}`, `- Last deal published: ${dealDate || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
   md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
   const ldDeal = mirror.latestDeal;
   if (mirror.dealHistory.length) {
-    md.push('## Code check log (newest first)', '');
+    md.push(`## ${firm.prop_firm} Discount Code History`, '',
+      `Explore the historical promotions associated with the ${firm.prop_firm} discount code ${firm.code}. Each record includes the published date, advertised discount, and original deal page, providing a chronological overview of the firm's promotional offers.`, '');
     for (const d of mirror.dealHistory) {
       const dealTitle = dealTitleFor({ title: d.title, slug: firm.slug, code: firm.code }, standingFirms);
       md.push(`- ${d.date} - [${dealTitle}](${d.url}) (${d.offer})`);
@@ -168,7 +169,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     const ldTitle = isStandingDeal && !/\bwith code\b/i.test(ldDeal.title)
       ? `${ldDeal.title} with code ${firm.code}`
       : ldDeal.title;
-    md.push(`## Latest deal: ${ldTitle}`, '');
+    md.push(`## Latest ${firm.prop_firm} Discount Deal`, '', `### ${ldTitle}`, '');
     md.push(`- Published: ${ldDeal.published}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
     if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
