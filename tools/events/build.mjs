@@ -165,7 +165,18 @@ const readMirror = (rel, eventShort) => {
 
 function loadCodes() {
   const raw = JSON.parse(readFileSync(join(repoRoot, 'datasets', 'prop-firm-codes-gh-hf.json'), 'utf8'));
-  return Array.isArray(raw) ? raw : (raw.data || []);
+  const rows = Array.isArray(raw) ? raw : (raw.data || []);
+  return [...rows].sort((a, b) => {
+    const pa = pctOf(a.discount);
+    const pb = pctOf(b.discount);
+    if (pa !== null && pb !== null && pb !== pa) return pb - pa;
+    if (pa !== null && pb === null) return -1;
+    if (pa === null && pb !== null) return 1;
+    const da = String(a.last_deal?.date_published || a.last_deal_published || '');
+    const db = String(b.last_deal?.date_published || b.last_deal_published || '');
+    if (db !== da) return db.localeCompare(da);
+    return String(a.prop_firm || '').localeCompare(String(b.prop_firm || ''));
+  });
 }
 // Deal titles sometimes carry the firm again as a "(Firm)" suffix; the
 // leaderboard keys firms on the canonical name so a firm never splits rows.
