@@ -500,13 +500,13 @@ function roundupPage(ev, kind, others, now) {
   const introSub = `Explore ${rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
   // Per-firm rollup so the page answers a firm-specific long tail without
   // the reader scanning the whole table.
-  const firmRows = firmRollup(rows);
+  const firmRows = firmRollup(rows).filter((f) => !!firmStandingCode(f.name));
   const firmSection = firmRows.length ? `<h2 id="firms">${esc(ev.short)} Deals by Prop Firm: Highest Discounts &amp; Codes</h2>
 <p>Compare prop firms with recorded ${esc(ev.short)} promotions, ranked by their highest advertised discount. The table shows each firm's best recorded offer, total number of ${esc(ev.short)} deals, latest publication date, and available standing discount code.</p>
 <div class="tscroll w560"><table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
-${firmRows.map((f) => { const code = firmStandingCode(f.name); return `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td>${code ? `<td data-code-state="standing"><code>${esc(code)}</code></td>` : `<td></td>`}</tr>`; }).join('\n')}
+${firmRows.map((f) => { const code = firmStandingCode(f.name); return `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="standing"><code>${esc(code)}</code></td></tr>`; }).join('\n')}
 </tbody>
 </table></div>` : '';
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.short)}</nav>
@@ -596,7 +596,7 @@ function roundupMarkdown(ev, kind) {
   const year = ev.rows[0] ? ev.rows[0].published.slice(0, 4) : '';
   const introLead = eventIntroLead(ev, ev.rows, year);
   const introSub = `Explore ${ev.rows.length} ${ev.short} prop firm deals and seasonal promotions. Compare historical discounts and promotional offers, with each listing showing its redemption method: standing discount code, campaign code, or no code required.`;
-  const firms = firmRollup(ev.rows);
+  const firms = firmRollup(ev.rows).filter((f) => !!firmStandingCode(f.name));
   return [`# ${ev.short} Prop Firm Deals & Discount Codes${year ? ` ${year}` : ''}`, '',
     introLead, '', introSub, '',
     mdDealsByYear(ev.rows, ev.short), '',
