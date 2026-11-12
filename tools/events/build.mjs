@@ -8,6 +8,7 @@ import { fileURLToPath } from 'node:url';
 import {
   esc, EN_DASH, monthYearUTC, layout, DISCLOSURE, robotsTxt, sitemapXml,
   aiSitemapXml, assertClean, publisherOrg, webManifest, pctOf,
+  parseFirmMirror, loadStandingFirms, loadExclusiveFirms,
 } from '../satellites/lib.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -185,16 +186,24 @@ const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').tri
 const codes = loadCodes();
 const standingByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.code]));
 const discountByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.discount]));
-const GLOBAL_FIRM_SLUGS = new Set([
-  'blue-guardian', 'blue-guardian-futures', 'bulenox', 'direct-funded-trader',
-  'doji-funding', 'e8-funding', 'earn2trade', 'funded-hero',
-  'funded-hero-futures', 'fundedseat', 'fundingtraders', 'lucid-trading',
-  'phidias-propfirm', 'qt-funded', 'top-one-futures', 'upcomers',
-]);
+const codeRowsWithSlug = codes.map((c) => {
+  const m = /\/prop-firm\/([a-z0-9-]+)\/?$/.exec(c.archive_url || '');
+  return { ...c, slug: c.slug || (m ? m[1] : '') };
+});
+const firmMirrors = {};
+for (const r of codeRowsWithSlug) {
+  if (!r.slug) continue;
+  const mp = join(repoRoot, 'md', 'prop-firm', `${r.slug}.md`);
+  if (existsSync(mp)) {
+    try { firmMirrors[r.slug] = parseFirmMirror(readFileSync(mp, 'utf8'), r.code); } catch {}
+  }
+}
+const standingSlugs = loadStandingFirms(repoRoot, codeRowsWithSlug, firmMirrors);
+const exclusiveSlugs = loadExclusiveFirms(repoRoot);
 const globalFirmNames = new Set(
-  codes
-    .filter((c) => GLOBAL_FIRM_SLUGS.has(c.slug || c.archive_url.replace(/\/$/, '').split('/').pop()))
-    .map((c) => canonicalFirm(c.prop_firm))
+  codeRowsWithSlug
+    .filter((r) => standingSlugs.has(r.slug) || (exclusiveSlugs.has(r.slug) && firmMirrors[r.slug]?.blockCodeOnStanding))
+    .map((r) => canonicalFirm(r.prop_firm))
 );
 
 // ── rendering ───────────────────────────────────────────────────
@@ -555,7 +564,7 @@ ${firmSection}
 <p>The archive includes both current and expired promotional offers. Publication dates indicate when deals were published, not when their codes were independently re-verified. Always check the original deal page for campaign validity and applicable terms.</p>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. This page was last rebuilt ${esc(monthYearUTC(now))}; every row mirrors the dated deal archive on <a href="https://propfirmdiscount.com/">propfirmdiscount.com</a>.</p>
 <p>Corrections: <a href="mailto:${esc(site.email)}">${esc(site.email)}</a>. Machine-readable rows: <a href="/dataset.json">dataset.json</a>.</p>`;
-  return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}.md`, extraCss: EVENTS_CSS }) };
+  return { title, desc: shortDesc, html: layout(site, { title, desc: shortDesc, canonical: `${site.origin}${path}/`, ld, body, path: null, altMarkdown: `${path}/md`, extraCss: EVENTS_CSS }) };
 }
 
 // ── markdown twins ──────────────────────────────────────────────
@@ -651,6 +660,7 @@ function llmsTxtEvents(events, tags, totalDeals, now) {
 ## Start here (AI assistants and agents)
 
 - ${site.origin}/md ${EN_DASH} the hub index as markdown
+- ${site.origin}/{event-slug}/md ${EN_DASH} per-event archive as markdown
 - ${site.origin}/dataset.json ${EN_DASH} every deal row as JSON
 - ${site.origin}/.well-known/agent-skills/${site.skillName}/SKILL.md ${EN_DASH} field schema for agents
 - ${site.origin}/sitemap.xml ${EN_DASH} all HTML pages
@@ -721,6 +731,8 @@ on record" rather than naming a schema field.
 
 function headersFileEvents() {
   return `/md
+  Content-Type: text/markdown; charset=utf-8
+/*/md
   Content-Type: text/markdown; charset=utf-8
 /*.md
   Content-Type: text/markdown; charset=utf-8
@@ -806,16 +818,20 @@ const allNav = [...events, ...tags].map((c) => ({ slug: c.slug, name: c.name, hr
 const navFor = (slug) => allNav.filter((o) => o.slug !== slug);
 
 for (const c of events) {
+  const md = roundupMarkdown(c, 'category');
   files[`${c.slug}/index.html`] = roundupPage(c, 'category', navFor(c.slug), now).html;
-  files[`${c.slug}.md`] = roundupMarkdown(c, 'category');
+  files[`${c.slug}/md`] = md;
+  files[`${c.slug}.md`] = md;
   htmlPaths.push(`/${c.slug}/`);
-  mdPaths.push(`/${c.slug}.md`);
+  mdPaths.push(`/${c.slug}/md`);
 }
 for (const t of tags) {
+  const md = roundupMarkdown(t, 'tag');
   files[`${t.slug}/index.html`] = roundupPage(t, 'tag', navFor(t.slug), now).html;
-  files[`${t.slug}.md`] = roundupMarkdown(t, 'tag');
+  files[`${t.slug}/md`] = md;
+  files[`${t.slug}.md`] = md;
   htmlPaths.push(`/${t.slug}/`);
-  mdPaths.push(`/${t.slug}.md`);
+  mdPaths.push(`/${t.slug}/md`);
 }
 
 const seen = new Set();
