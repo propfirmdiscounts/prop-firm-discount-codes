@@ -3,7 +3,7 @@ import {
   esc, EN_DASH, monthYearUTC, offerShape, titleFor, firmJsonLd, layout,
   DISCLOSURE, robotsTxt, llmsTxt, sitemapXml, aiSitemapXml, apiCatalog,
   skillMd, webmcpJs, csvOf, headersFile, assertClean, parseFirmMirror,
-  publisherOrg, webManifest, pctOf,
+  publisherOrg, webManifest, pctOf, lastDealDate, validityLabel,
 } from './lib.mjs';
 
 export const site = {
@@ -16,7 +16,7 @@ export const site = {
   ga: 'G-0RHJRGQ5LM',
   tagline: EN_DASH + ' discount code verification log',
   skillName: 'prop-firm-code-check',
-  hubBlurb: 'newest code checks first',
+  hubBlurb: 'ranked highest to lowest discount',
   disclosure: DISCLOSURE,
 };
 
@@ -30,11 +30,12 @@ function withEmail(site) {
 
 function factsTable(firm, mirror) {
   const o = offerShape(firm.discount);
+  const dealDate = lastDealDate(firm);
   const rows = [
     ['Code', `<code>${esc(firm.code)}</code>`],
     ['Discount', esc(o.titlePart || firm.discount || EN_DASH)],
-    ['Valid', `${esc(firm.valid_from)} ${esc(EN_DASH)} ${esc(firm.valid_until)} (re-verified yearly)`],
-    ['Last deal published', esc(firm.last_deal_published || EN_DASH)],
+    ['Valid', esc(validityLabel(firm))],
+    ['Last deal published', dealDate ? `<time datetime="${esc(dealDate)}">${esc(dealDate)}</time>` : EN_DASH],
   ];
   if (firm.trustpilot_score) {
     rows.push(['Trustpilot', `${esc(firm.trustpilot_score)}/5 (${Number(firm.trustpilot_reviews || 0).toLocaleString('en-US')} reviews)`]);
@@ -120,14 +121,15 @@ function faqSection(firm, mirror) {
 export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const title = titleFor(firm, now);
   const o = offerShape(firm.discount);
+  const dealDate = lastDealDate(firm);
   const ldDeal = mirror.latestDeal;
   const promotion = ldDeal ? ` Its newest promotion, ${ldDeal.title}${ldDeal.published ? ` (published ${ldDeal.published})` : ''}, is detailed below.` : '';
-  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} and works any time ${EN_DASH} checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${firm.last_deal_published || 'n/a'}.`.slice(0, 300);
+  const desc = `${firm.prop_firm} discount code ${firm.code} gives ${o.sentence || 'a discount'} and works any time ${EN_DASH} checked ${monthYearUTC(now)} by the PropFirmDiscount team. Last deal ${dealDate || 'n/a'}.`.slice(0, 300);
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code</h1>
-<p class="answer">The discount code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${firm.last_deal_published ? ` (${esc(firm.last_deal_published)})` : ''}.${promotion}</p>
+<p class="answer">The discount code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${dealDate ? ` (${esc(dealDate)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
 ${logSection(mirror)}
 ${currentDealSection(firm, mirror, standingFirms, exclusiveFirms)}
@@ -137,10 +139,11 @@ ${faqSection(firm, mirror)}`;
 
 export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const o = offerShape(firm.discount);
+  const dealDate = lastDealDate(firm);
   const md = [`# ${firm.prop_firm} Discount Code`, '',
     `The discount code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
   if (mirror.summary) md.push(`> ${mirror.summary}`, '');
-  md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${firm.valid_from} to ${firm.valid_until}`, `- Last deal published: ${firm.last_deal_published || 'n/a'}`);
+  md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${validityLabel(firm)}`, `- Last deal published: ${dealDate || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
   md.push(`- Activate: ${firm.activation_link}`, `- Source of record: ${firm.archive_url}`, '');
   const ldDeal = mirror.latestDeal;
@@ -180,9 +183,8 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     name: firm.prop_firm,
     code: firm.code,
     discount: firm.discount,
-    valid_from: firm.valid_from,
-    valid_until: firm.valid_until,
-    last_deal_published: firm.last_deal_published,
+    validity: firm.validity || 'standing',
+    last_deal_published: dealDate,
     last_checked: monthYearUTC(now),
     trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
     source: 'propfirmdiscount.com',
@@ -259,10 +261,41 @@ function activityStats(pool, now) {
   };
 }
 
+function sortHubRows(rows) {
+  return [...rows].sort((a, b) => {
+    const pa = pctOf(a.discount);
+    const pb = pctOf(b.discount);
+    if (pa !== null && pb !== null && pb !== pa) return pb - pa;
+    if (pa !== null && pb === null) return -1;
+    if (pa === null && pb !== null) return 1;
+    const da = String(lastDealDate(a) || '');
+    const db = String(lastDealDate(b) || '');
+    if (db !== da) return db.localeCompare(da);
+    return a.prop_firm.localeCompare(b.prop_firm);
+  });
+}
+
+function joinEnglishList(parts) {
+  if (parts.length <= 1) return parts[0] || '';
+  return `${parts.slice(0, -1).join(', ')} and ${parts[parts.length - 1]}`;
+}
+
+function hubAnswerText(sorted, html = false) {
+  const top5 = sorted.filter((r) => pctOf(r.discount) !== null).slice(0, 5);
+  const items = top5.map((r) => {
+    const pct = pctOf(r.discount);
+    const code = html ? `<code>${esc(r.code)}</code>` : r.code;
+    const firm = html ? esc(r.prop_firm) : r.prop_firm;
+    return `${pct}% OFF with code ${code} at ${firm}`;
+  });
+  const lead = items.length ? `The biggest current prop firm discounts are ${joinEnglishList(items)}. ` : '';
+  return `${lead}Explore all ${sorted.length} prop firm discount codes, ranked from the highest to the lowest available discounts. All promo codes are free to use, and you'll receive the same discount whether you use our activation link or visit the prop firm's website directly.`;
+}
+
 export function hubPage(site, rows, mirrors, now, standingFirms) {
-  const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
+  const sorted = sortHubRows(rows);
   const title = `Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`;
-  const desc = `Verification log of ${rows.length} verified prop firm discount codes, newest checks first, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
+  const desc = `Verification log of ${rows.length} verified prop firm discount codes, ranked highest to lowest discount, with the dated deal trail behind each code. Updated ${monthYearUTC(now)}.`;
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
@@ -270,13 +303,16 @@ export function hubPage(site, rows, mirrors, now, standingFirms) {
   // firm's standing code (the same signal the event hub reads). Everywhere else
   // the deal carries its own campaign code, so the cell stays blank.
   const codeCell = (slug, code) => (standingFirms.has(slug) ? `<td data-code-state="standing"><code>${esc(code)}</code></td>` : '<td></td>');
-  const rowOf = (r) => `<tr>
+  const rowOf = (r) => {
+    const d = lastDealDate(r);
+    return `<tr>
 <td><a href="/firms/${r.slug}/">${esc(r.prop_firm)}</a></td>
 <td><code>${esc(r.code)}</code></td>
 <td>${esc(offerShape(r.discount).titlePart || r.discount || EN_DASH)}</td>
 <td>${esc(monthYearUTC(now))}</td>
-<td>${r.last_deal_published ? `<time datetime="${esc(r.last_deal_published)}">${esc(r.last_deal_published)}</time>` : EN_DASH}</td>
+<td>${d ? `<time datetime="${esc(d)}">${esc(d)}</time>` : EN_DASH}</td>
 </tr>`;
+  };
   const table = `<div class="tscroll w560"><table class="checks">
 <thead><tr><th scope="col">Firm</th><th scope="col">Code</th><th scope="col">Discount</th><th scope="col">Checked</th><th scope="col">Last deal</th></tr></thead>
 <tbody>
@@ -347,14 +383,14 @@ ${firmRows}
     ],
   };
   const body = `<h1>Prop Firm Discount Code Checks</h1>
-<p class="answer">This log tracks ${rows.length} verified prop firm discount codes, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.</p>
-<h2 id="log">Checks, newest first</h2>
+<p class="answer">${hubAnswerText(sorted, true)}</p>
+<h2 id="log">Checks, highest to lowest</h2>
 ${table}
 ${latestSection}
 ${activitySection}
 <h2 id="method">About this site and how codes are checked</h2>
 <p>${esc(site.siteName)} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.</p>
-<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.</p>
+<p>What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Codes listed here are standing discount codes with no expiry date.</p>
 <p>Corrections welcome: email <a href="mailto:${esc(site.email)}">${esc(site.email)}</a> and the entry is updated in the next hourly rebuild. Full dataset and methodology notes: <a href="/dataset.json">dataset.json</a>, <a href="/llms.txt">llms.txt</a>.</p>`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}/`, ld, body, path: null, altMarkdown: '/md' }) };
 }
@@ -362,18 +398,18 @@ ${activitySection}
 // Machine twin of the hub. Same rows as the page, as a markdown table so an
 // agent can read the whole log in one fetch.
 export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
-  const sorted = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')));
+  const sorted = sortHubRows(rows);
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
   const code = (slug, value) => (standingFirms.has(slug) ? value : '');
   const md = [`# Prop Firm Discount Code Checks`, '',
-    `This log tracks ${rows.length} verified prop firm discount codes, newest check first. Every entry links to a firm page with the code, its validity window and the dated deal trail behind it.`, '',
-    `## Checks, newest first`, '',
+    hubAnswerText(sorted, false), '',
+    `## Checks, highest to lowest`, '',
     `| Firm | Code | Discount | Checked | Last deal |`,
     `|------|------|----------|---------|-----------|`];
   for (const r of sorted) {
-    md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${r.last_deal_published || EN_DASH} |`);
+    md.push(`| [${r.prop_firm}](${site.origin}/firms/${r.slug}/) | ${r.code} | ${offerShape(r.discount).titlePart || r.discount || EN_DASH} | ${monthYearUTC(now)} | ${lastDealDate(r) || EN_DASH} |`);
   }
   if (latest.length) {
     md.push('', `## Latest deals across tracked firms`, '',
@@ -400,7 +436,7 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   }
   md.push('', '## About this site and how codes are checked', '',
     `${site.siteName} is operated by the PropFirmDiscount team, which has tracked proprietary trading firm promotions since 2022. Every code listed here is a discount code the team maintains with each firm; the code works any time, not only during a campaign window.`, '',
-    `What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Validity windows follow the current calendar year and roll over every January 1.`, '',
+    `What a check entry means: when a firm publishes a new coded deal, the team confirms the code still applies and records the deal here with its publish date. The date you see is the deal's publish date ${EN_DASH} it is not a claim that the code was re-tested that day. Codes listed here are standing discount codes with no expiry date.`, '',
     `Corrections welcome: ${site.email}. Full dataset: ${site.origin}/dataset.json. Methodology notes: ${site.origin}/llms.txt.`);
   return md.join('\n') + '\n';
 }

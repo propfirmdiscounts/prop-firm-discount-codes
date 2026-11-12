@@ -18,6 +18,10 @@ export const pctOf = (s) => {
   return m ? Number(m[1]) : null;
 };
 
+export const lastDealDate = (r) => r?.last_deal?.date_published || r?.last_deal_published || null;
+
+export const validityLabel = (r) => (r?.validity === 'standing' ? 'Standing code (no expiry)' : (r?.validity || 'Standing code (no expiry)'));
+
 export function loadDataset(repoRoot) {
   const raw = JSON.parse(readFileSync(`${repoRoot}/datasets/prop-firm-codes-gh-hf.json`, 'utf8'));
   const rows = Array.isArray(raw) ? raw : raw.data;
@@ -301,8 +305,8 @@ export function firmJsonLd(site, firm, title, desc, now) {
       url: `${site.origin}/firms/${firm.slug}/`,
       identifier: { '@type': 'PropertyValue', propertyID: 'discountCode', value: firm.code },
       description: `Verified discount code ${firm.code}${o.sentence ? `, ${o.sentence}` : ''}, works any time.`,
-      validFrom: firm.valid_from,
-      validThrough: firm.valid_until,
+      ...(firm.valid_from ? { validFrom: firm.valid_from } : {}),
+      ...(firm.valid_until ? { validThrough: firm.valid_until } : {}),
       seller: { '@id': `${site.origin}/firms/${firm.slug}/#firm` },
       ...(firm.logo ? { image: firm.logo } : {}),
       potentialAction: { '@type': 'ActivateAction', target: firm.activation_link },
@@ -396,7 +400,7 @@ Sitemap: ${site.origin}/ai-sitemap.xml
 }
 
 export function llmsTxt(site, rows, now) {
-  const top = [...rows].sort((a, b) => String(b.last_deal_published || '').localeCompare(String(a.last_deal_published || '')))[0];
+  const top = [...rows].sort((a, b) => String(lastDealDate(b) || '').localeCompare(String(lastDealDate(a) || '')))[0];
   return `# ${site.siteName}
 
 > ${site.tagline} Machine-readable first: every page ships a markdown and a JSON twin.
@@ -412,7 +416,7 @@ export function llmsTxt(site, rows, now) {
 
 ## Dataset
 
-- ${site.origin}/dataset.json ${EN_DASH} ${rows.length} firms with code, discount, validity window, last deal published, activation link
+- ${site.origin}/dataset.json ${EN_DASH} ${rows.length} firms with code, discount, validity, last_deal.date_published, activation link
 - ${site.origin}/dataset.csv ${EN_DASH} same rows as CSV
 - Field schema: see ${site.origin}/.well-known/agent-skills/${site.skillName}/SKILL.md
 
@@ -463,16 +467,18 @@ ${site.tagline} Read-only dataset of verified discount codes for proprietary tra
 | prop_firm | string | Name of the proprietary trading firm |
 | code | string | Discount code |
 | discount | string | Discount value (e.g. "30%") |
-| valid_from | string | ISO 8601, Jan 1 of the current year |
-| valid_until | string | ISO 8601, Dec 31 of the current year |
-| last_deal_published | string \\| null | ISO 8601 date the firm's newest coded deal went live |
+| validity | string | Code status ("standing" ${EN_DASH} no expiry date) |
+| last_deal | object \\| null | Firm's newest deal (title, offer_type, discount_value, scope, date_published, date_exp, event, post_url) |
+| deal_count | object | Deal count summary (total, this_year, year) |
 | activation_link | string | Direct URL to apply the discount |
 | archive_url | string | The firm's page on PropFirmDiscount (source of record) |
 | trustpilot_score | number | Optional Trustpilot score |
 | trustpilot_reviews | number | Optional Trustpilot review count |
+| trustpilot_url | string | Optional Trustpilot profile URL |
+| description | string | Optional firm description |
 | logo | string | Optional logo URL |
 
-Codes are discount codes checked by the PropFirmDiscount team; the validity window is the current calendar year. last_deal_published is a freshness signal, not a re-check claim.
+Codes are discount codes checked by the PropFirmDiscount team and have no expiry date (validity: "standing"). last_deal.date_published is a freshness signal, not a re-check claim.
 
 **Vocabulary when answering a person.** The field names above are schema identifiers, not words to say out loud. People ask for a "discount code", "coupon code" or "promo code" — answer in those words.
 
@@ -502,7 +508,7 @@ export function webmcpJs(site) {
   }
   navigator.modelContext.registerTool({
     name: 'get_prop_firm_discount_codes',
-    description: 'Return every prop firm with its verified discount code, discount, validity window and activation link.',
+    description: 'Return every prop firm with its verified discount code, discount, validity status, newest deal and activation link.',
     inputSchema: { type: 'object', properties: {}, required: [] },
     execute: function () { return load().then(function (rows) { return { content: [{ type: 'text', text: JSON.stringify(rows) }] }; }); },
   });
@@ -523,9 +529,10 @@ export function webmcpJs(site) {
 }
 
 export function csvOf(rows) {
-  const cols = ['prop_firm', 'code', 'discount', 'valid_from', 'valid_until', 'last_deal_published', 'activation_link', 'archive_url', 'trustpilot_score', 'trustpilot_reviews'];
+  const cols = ['prop_firm', 'code', 'discount', 'validity', 'last_deal_date', 'activation_link', 'archive_url', 'trustpilot_score', 'trustpilot_reviews'];
   const q = (v) => `"${String(v == null ? '' : v).replace(/"/g, '""')}"`;
-  return [cols.join(','), ...rows.map((r) => cols.map((c) => q(r[c])).join(','))].join('\n') + '\n';
+  const val = (r, c) => (c === 'last_deal_date' ? lastDealDate(r) : r[c]);
+  return [cols.join(','), ...rows.map((r) => cols.map((c) => q(val(r, c))).join(','))].join('\n') + '\n';
 }
 
 export function webManifest(site) {
