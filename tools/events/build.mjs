@@ -68,7 +68,7 @@ const site = {
   icons: true,
   disclosure: DISCLOSURE,
 };
-site.email = `hello@${site.origin.replace(/^https?:\/\//, '')}`;
+site.email = `infor@${site.origin.replace(/^https?:\/\//, '')}`;
 
 // Hub tables carry more columns than the satellite layout expects, and the
 // base sheet nowraps columns 4-5 (which lands on Deal and/or Code here).
