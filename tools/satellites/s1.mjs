@@ -10,7 +10,7 @@ export const site = {
   id: 's1',
   workerName: 'pfd-codecheck',
   domainPlaceholder: 'propfirmcodecheck.example',
-  siteName: 'Prop Firm Code Check',
+  siteName: 'Prop Firm Lookup',
   shortName: 'CodeCheck',
   icons: true,
   ga: 'G-0RHJRGQ5LM',
