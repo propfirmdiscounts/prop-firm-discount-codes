@@ -99,10 +99,12 @@ ${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('
 <p>${dealBridge(firm, mirror)}</p>`;
 }
 
-function logSection(mirror) {
+function logSection(firm, mirror, standingFirms) {
   if (!mirror.dealHistory.length) return '';
-  const items = mirror.dealHistory.map((d) =>
-    `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(d.title)}</a></li>`).join('\n');
+  const items = mirror.dealHistory.map((d) => {
+    const title = dealTitleFor({ title: d.title, slug: firm.slug, code: firm.code }, standingFirms);
+    return `<li><time datetime="${esc(d.date)}">${esc(d.date)}</time> ${EN_DASH} ${esc(d.offer)}: <a href="${esc(d.url)}">${esc(title)}</a></li>`;
+  }).join('\n');
   return `<h2 id="log">Code check log</h2>
 <p>Each entry is a dated deal that carried a code ${EN_DASH} the check trail behind the rate above. Newest first.</p>
 <ol class="log">
@@ -120,6 +122,7 @@ function faqSection(firm, mirror) {
 
 export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const title = titleFor(firm, now);
+  const year = now.getUTCFullYear();
   const o = offerShape(firm.discount);
   const dealDate = lastDealDate(firm);
   const ldDeal = mirror.latestDeal;
@@ -128,10 +131,10 @@ export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms)
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
-<h1>${esc(firm.prop_firm)} Discount Code</h1>
-<p class="answer">The discount code for ${esc(firm.prop_firm)} is <code class="chip" data-code="${esc(firm.code)}">${esc(firm.code)}</code>${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${dealDate ? ` (${esc(dealDate)})` : ''}.${promotion}</p>
+<h1>${esc(firm.prop_firm)} Discount Code ${year}</h1>
+<p class="answer">The discount code for ${esc(firm.prop_firm)} is ${esc(firm.code)}${o.sentence ? ` ${EN_DASH} ${esc(o.sentence)}` : ''}, works any time. Checked by our team when ${esc(firm.prop_firm)}'s newest deal was published${dealDate ? ` (${esc(dealDate)})` : ''}.${promotion}</p>
 ${factsTable(firm, mirror)}
-${logSection(mirror)}
+${logSection(firm, mirror, standingFirms)}
 ${currentDealSection(firm, mirror, standingFirms, exclusiveFirms)}
 ${faqSection(firm, mirror)}`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
@@ -139,9 +142,10 @@ ${faqSection(firm, mirror)}`;
 
 export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms) {
   const o = offerShape(firm.discount);
+  const year = now.getUTCFullYear();
   const dealDate = lastDealDate(firm);
-  const md = [`# ${firm.prop_firm} Discount Code`, '',
-    `The discount code for ${firm.prop_firm} is **${firm.code}**${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
+  const md = [`# ${firm.prop_firm} Discount Code ${year}`, '',
+    `The discount code for ${firm.prop_firm} is ${firm.code}${o.sentence ? ` ${EN_DASH} ${o.sentence}` : ''}, works any time. Checked ${monthYearUTC(now)} by the PropFirmDiscount team.`, ''];
   if (mirror.summary) md.push(`> ${mirror.summary}`, '');
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${validityLabel(firm)}`, `- Last deal published: ${dealDate || 'n/a'}`);
   if (firm.trustpilot_score) md.push(`- Trustpilot: ${firm.trustpilot_score}/5 (${firm.trustpilot_reviews} reviews)`);
@@ -149,7 +153,10 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
   const ldDeal = mirror.latestDeal;
   if (mirror.dealHistory.length) {
     md.push('## Code check log (newest first)', '');
-    for (const d of mirror.dealHistory) md.push(`- ${d.date} - [${d.title}](${d.url}) (${d.offer})`);
+    for (const d of mirror.dealHistory) {
+      const dealTitle = dealTitleFor({ title: d.title, slug: firm.slug, code: firm.code }, standingFirms);
+      md.push(`- ${d.date} - [${dealTitle}](${d.url}) (${d.offer})`);
+    }
     md.push('');
   }
   if (ldDeal) {
