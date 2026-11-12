@@ -86,11 +86,15 @@ function currentDealSection(firm, mirror, standingFirms, exclusiveFirms) {
   // the mirror-derived set, or listed on the
   // site's public exclusive-code table. A deal running its own campaign code
   // gets no row.
-  if (firmStanding(firm, mirror, standingFirms, exclusiveFirms)) {
+  const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
+  const dealTitle = isStandingDeal && !/\bwith code\b/i.test(d.title)
+    ? `${d.title} with code ${firm.code}`
+    : d.title;
+  if (isStandingDeal) {
     rows.push(['Code', `<code>${esc(firm.code)}</code>`]);
   }
-  rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(d.title)}</a>`]);
-  return `<h2 id="deal">Latest deal: ${esc(d.title)}</h2>
+  rows.push(['Deal page', `<a href="${esc(d.dealUrl)}">${esc(dealTitle)}</a>`]);
+  return `<h2 id="deal">Latest deal: ${esc(dealTitle)}</h2>
 <table>
 <tbody>
 ${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('\n')}
@@ -160,13 +164,17 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     md.push('');
   }
   if (ldDeal) {
-    md.push(`## Latest deal: ${ldDeal.title}`, '');
+    const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
+    const ldTitle = isStandingDeal && !/\bwith code\b/i.test(ldDeal.title)
+      ? `${ldDeal.title} with code ${firm.code}`
+      : ldDeal.title;
+    md.push(`## Latest deal: ${ldTitle}`, '');
     md.push(`- Published: ${ldDeal.published}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
     if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
     // Same gate as the page: the Code line appears only where the deal shown
     // redeems on the firm's standing code, and only for a firm that holds one.
-    if (firmStanding(firm, mirror, standingFirms, exclusiveFirms)) {
+    if (isStandingDeal) {
       md.push(`- Code: ${firm.code}`);
     }
     md.push(`- Deal page: ${ldDeal.dealUrl}`, '');
