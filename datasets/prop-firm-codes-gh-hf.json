@@ -777,24 +777,24 @@
     {
         "prop_firm": "FundingTraders",
         "code": "PFD",
-        "discount": "70%",
+        "discount": "81%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13181,
-            "title": "Diwali 70% Off 1-Step Accounts",
+            "deal_id": 13225,
+            "title": "Up to 81% Off Instant Funded",
             "offer_type": "coupon",
-            "discount_value": "70%",
+            "discount_value": "81%",
             "scope": [
-                "$5K And $10K 1-Step Accounts"
+                "Instant Funded"
             ],
-            "date_published": "2026-11-07",
+            "date_published": "2026-11-12",
             "date_exp": "Limited time",
-            "event": "Diwali",
-            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/"
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/"
         },
         "deal_count": {
-            "total": 94,
-            "this_year": 70,
+            "total": 95,
+            "this_year": 71,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
@@ -1245,21 +1245,21 @@
         "discount": "10%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12695,
-            "title": "15% Off Challenge Pricing and Instant Funding",
+            "deal_id": 13223,
+            "title": "40% Off Everything - Black Friday",
             "offer_type": "coupon",
-            "discount_value": "15%",
+            "discount_value": "40%",
             "scope": [
-                "$2,500-$50,000 Accounts, Challenge, Instant Funding"
+                "All Challenges"
             ],
-            "date_published": "2026-09-21",
-            "date_exp": "Ended",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/"
+            "date_published": "2026-11-12",
+            "date_exp": "2026-11-29",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/"
         },
         "deal_count": {
-            "total": 30,
-            "this_year": 21,
+            "total": 31,
+            "this_year": 22,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/thinkcapital",
@@ -1493,21 +1493,21 @@
         "discount": "25%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13055,
-            "title": "50% off Instant, 40% off One Step for Halloween",
+            "deal_id": 13221,
+            "title": "60% Off Instant - New Traders",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "60%",
             "scope": [
-                "Instant Accounts, One Step Accounts, Free Next Account After First Payout, $500K Account Giveaway Entry"
+                "Instant Accounts, One Step Accounts - New Customers"
             ],
-            "date_published": "2026-10-28",
-            "date_exp": "2026-10-31 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/"
+            "date_published": "2026-11-12",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/"
         },
         "deal_count": {
-            "total": 4,
-            "this_year": 4,
+            "total": 5,
+            "this_year": 5,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/finotivefutures",

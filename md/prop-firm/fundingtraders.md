@@ -7,44 +7,48 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-07
+- Last deal published: 2026-11-12
 - Trustpilot: 3.1/5 (3288 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-12, the biggest FundingTraders offers this month: 90% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-12, the biggest FundingTraders offers this month: 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders Diwali Special: 70% Off 1-Step Accounts
+## Current deal: FundingTraders: Up to 81% Off Instant Funded
 
-- Published: 2026-11-07
+- Published: 2026-11-12
 - Offer ends: Limited time
-- Offer: 70% Off
+- Offer: 81% Off
 - Code: PFD
-- Scope: $5K and $10K 1-Step accounts
-- Event: Diwali
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/
+- Scope: Instant Funded
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/
 
 ## FundingTraders deal FAQ
 
-**What does the FundingTraders Diwali Special include?**
+**What does the FundingTraders flash-sale code take off?**
 
-It includes 70% off the $5K and $10K 1-Step accounts, offered to the Indian trading community for Diwali. The $5K is priced at $18 instead of $59 and the $10K at $33 instead of $109, with no end date stated.
+Up to 81% off Instant Funded accounts, with all add-ons included. The three listed prices work out to about 71% off at $5K, 77% off at $100K and 75% off at $400K.
 
-**Which account sizes does the FundingTraders Diwali discount cover?**
+**What are the stated prices?**
 
-It covers the $5K and $10K 1-Step accounts only. No other sizes are named in the offer.
+$5K Instant Funded at $47 (was $162, saving $115); $100K at $297 (was $1,310, saving $1,013); $400K at $997 (was $4,050, saving $3,053).
 
-**Does the FundingTraders discount change account rules?**
+**What does the 200% refund rate mean?**
 
-No. The promotion lowers the purchase price only. Evaluation targets, drawdown limits and payout terms stay as set and trading risk is not reduced.
+It is a program term the firm states for these accounts, separate from the checkout discount. Its conditions are not spelled out in this material; check the firm's terms before relying on it.
 
-**Who may this FundingTraders offer suit?**
+**Is there an end date?**
 
-It may suit a buyer who had already chosen between the $5K and $10K 1-Step sizes and was comparing entry prices. The festival framing does not change the account requirements.
+No end date is stated. The announcement says only that the deal will not last long.
+
+**Does the discount change the accounts or reduce risk?**
+
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-12 - [FundingTraders: Up to 81% Off Instant Funded](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) (81% Off)
 - 2026-11-07 - [FundingTraders Diwali Special: 70% Off 1-Step Accounts](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) (70% Off) — Diwali
 - 2026-11-03 - [Funding Traders 50% Off Instant Funded and Pro Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) (50% Off)
 - 2026-11-03 - [Funding Traders 70% Off 2-Step Swing Accounts](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) (70% Off) — ended 2026-11-03 20:00

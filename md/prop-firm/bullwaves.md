@@ -1,45 +1,47 @@
 # Bullwaves Prime Discount Code
 
-No live discount code for Bullwaves Prime right now — newest deals and offers are below.
+The newest Bullwaves Prime discount code is **EARLYBF65** — 65% off (November 12, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-10-23
+- Last deal published: 2026-11-12
 - Trustpilot: 3.4/5 (670 reviews)
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 
-As of 2026-11-12, the biggest Bullwaves Prime offers this month: 35% OFF with code NOTRICKS35.
+As of 2026-11-12, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65 and 35% OFF with code NOTRICKS35.
 
-## Most recent deal (ended): Bullwaves Prime 35% Off All Prime Challenges Halloween
+## Current deal: Bullwaves Prime: 65% Off Everything, Early Bird
 
-- Published: 2026-10-23
-- Offer ends: 2026-10-31 (ended)
-- Offer: 35% Off
-- Scope: Prime Challenges, all challenges, Halloween, 50K 2-Step giveaway
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/
+- Published: 2026-11-12
+- Offer ends: 2026-11-15 18:59
+- Offer: 65% Off
+- Code: EARLYBF65
+- Scope: Everything
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/
 
 ## Bullwaves Prime deal FAQ
 
-**What discount does Bullwaves Prime offer in this Halloween promotion?**
+**What does the Bullwaves Prime Early Bird code take off?**
 
-Bullwaves Prime offers 35% off all Prime Challenges during the October 23-31, 2026 window. Each purchase in the window is also entered into a random draw for a 50K 2-Step Challenge.
+65% off everything, for community members, in the window from 12 to 15 November 2026 closing at 23:59 UTC.
 
-**When does the Bullwaves Prime Halloween promotion run?**
+**How does the buy one, get one free work?**
 
-The promotion runs from October 23 to October 31, 2026. The 10 draw winners are selected after the promo ends.
+In sequence: buy at 65% off, then the free second account comes after your first payout. It is a milestone reward, not a second account at checkout.
 
-**What can buyers win in the Bullwaves Prime draw?**
+**What is the trailing drawdown change?**
 
-Ten winners each receive a 50K 2-Step Challenge. Entry comes with a purchase made under this promotion during the stated window and the draw is random.
+A firm rule update announced alongside the sale: trailing drawdown is removed on all 2-Step accounts from this promo, leaving a static loss limit. The announcement also states payout caps have been removed. These are firm changes, not effects of the discount code.
 
-**Does the Bullwaves Prime discount change trading rules?**
+**Who can use the offer?**
 
-No. The promotion reduces the upfront entry cost only and does not change trading rules, drawdown limits or evaluation criteria. It also does not reduce trading risk.
+The banner restricts it to community members only; the announcement frames it as first access for the firm's Discord community.
 
-**Who may the Bullwaves Prime offer suit?**
+**Does the discount itself change trading rules or reduce risk?**
 
-It may suit buyers who already planned a Prime Challenge purchase in late October and value a lower entry cost across any size. Buyers should be cautious about relying on the draw, since only 10 winners are selected.
+No. The code reduces purchase prices only; trading risk is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-12 - [Bullwaves Prime: 65% Off Everything, Early Bird](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) (65% Off) — Black Friday
 - 2026-10-23 - [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) (35% Off) — Halloween — ended 2026-10-31
