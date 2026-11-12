@@ -399,7 +399,7 @@ ${firmRows}
       },
     ],
   };
-  const body = `<h1>Prop Firm Discount Code Checks</h1>
+  const body = `<h1>${esc(title)}</h1>
 <p class="answer">${hubAnswerText(sorted, now, true)}</p>
 <h2 id="log">Checks, highest to lowest</h2>
 ${table}
@@ -419,7 +419,7 @@ export function hubMarkdown(site, rows, mirrors, now, standingFirms) {
   const pool = dealPool(rows, mirrors);
   const stats = activityStats(pool, now);
   const latest = pool.slice(0, 15);
-  const md = [`# Prop Firm Discount Code Checks`, '',
+  const md = [`# Prop Firm Discount Code Checks ${EN_DASH} ${monthYearUTC(now)}`, '',
     hubAnswerText(sorted, now, false), '',
     `## Checks, highest to lowest`, '',
     `| Firm | Code | Discount | Checked | Last deal |`,
