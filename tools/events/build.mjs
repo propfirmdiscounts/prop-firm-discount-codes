@@ -182,6 +182,21 @@ function loadCodes() {
 // leaderboard keys firms on the canonical name so a firm never splits rows.
 const canonicalFirm = (f) => String(f || '').replace(/\s*\([^)]*\)\s*$/, '').trim();
 
+const codes = loadCodes();
+const standingByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.code]));
+const discountByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.discount]));
+const GLOBAL_FIRM_SLUGS = new Set([
+  'blue-guardian', 'blue-guardian-futures', 'bulenox', 'direct-funded-trader',
+  'doji-funding', 'e8-funding', 'earn2trade', 'funded-hero',
+  'funded-hero-futures', 'fundedseat', 'fundingtraders', 'lucid-trading',
+  'phidias-propfirm', 'qt-funded', 'top-one-futures', 'upcomers',
+]);
+const globalFirmNames = new Set(
+  codes
+    .filter((c) => GLOBAL_FIRM_SLUGS.has(c.slug || c.archive_url.replace(/\/$/, '').split('/').pop()))
+    .map((c) => canonicalFirm(c.prop_firm))
+);
+
 // ── rendering ───────────────────────────────────────────────────
 // A real code renders as <code>; the two "no usable code" states render as
 // plain text. The cell always carries data-code-state so a machine reader can
@@ -315,17 +330,28 @@ function firmRollup(rows) {
   const agg = new Map();
   for (const r of rows) {
     const name = canonicalFirm(r.firm);
-    if (!name) continue;
-    const p = pctOf(r.discount);
-    const cur = agg.get(name) || { name, count: 0, best: null, bestRow: r, latest: r };
+    if (!name || !standingByFirm.has(name)) continue;
+    const cur = agg.get(name) || { name, count: 0, latestDeal: r };
     cur.count++;
-    if (p !== null && (cur.best === null || p > cur.best)) { cur.best = p; cur.bestRow = r; }
-    if (r.published > cur.latest.published) cur.latest = r;
+    if (r.published > cur.latestDeal.published) cur.latestDeal = r;
     agg.set(name, cur);
   }
-  return [...agg.values()]
-    .sort((a, b) => (b.best ?? -1) - (a.best ?? -1) || a.name.localeCompare(b.name))
-    .slice(0, 40);
+  const list = [];
+  for (const [name, f] of agg) {
+    const isGlobal = globalFirmNames.has(name);
+    const rawDiscount = isGlobal ? f.latestDeal.discount : (discountByFirm.get(name) || '');
+    const p = pctOf(rawDiscount);
+    const displayDiscount = p !== null ? `${p}% Off` : (rawDiscount || EN_DASH);
+    list.push({
+      name,
+      best: p,
+      displayDiscount,
+      count: f.count,
+      latest: f.latestDeal.published,
+      code: standingByFirm.get(name),
+    });
+  }
+  return list.sort((a, b) => (b.best ?? -1) - (a.best ?? -1) || a.name.localeCompare(b.name));
 }
 
 // ── homepage ────────────────────────────────────────────────────
@@ -506,7 +532,7 @@ function roundupPage(ev, kind, others, now) {
 <div class="tscroll w560"><table class="checks firms fixed">
 <thead><tr><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deals</th><th scope="col">Latest</th><th scope="col">Code</th></tr></thead>
 <tbody>
-${firmRows.map((f) => { const code = firmStandingCode(f.name); return `<tr><td>${esc(f.name)}</td><td>${f.best === null ? EN_DASH : `${f.best}% Off`}</td><td>${f.count}</td><td><time datetime="${esc(f.latest.published)}">${esc(f.latest.published)}</time></td><td data-code-state="standing"><code>${esc(code)}</code></td></tr>`; }).join('\n')}
+${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${esc(f.displayDiscount)}</td><td>${f.count}</td><td><time datetime="${esc(f.latest)}">${esc(f.latest)}</time></td><td data-code-state="standing"><code>${esc(f.code)}</code></td></tr>`).join('\n')}
 </tbody>
 </table></div>` : '';
   const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.short)}</nav>
@@ -604,7 +630,7 @@ function roundupMarkdown(ev, kind) {
       `## ${ev.short} Deals by Prop Firm: Highest Discounts & Codes`, '',
       `Compare prop firms with recorded ${ev.short} promotions, ranked by their highest advertised discount. The table shows each firm's best recorded offer, total number of ${ev.short} deals, latest publication date, and available standing discount code.`, '',
       `| Firm | Best discount | Deals | Latest | Code |`, `|---|---|---|---|---|`,
-      ...firms.map((f) => `| ${f.name} | ${f.best === null ? EN_DASH : `${f.best}% Off`} | ${f.count} | ${f.latest.published} | ${firmStandingCode(f.name)} |`), '',
+      ...firms.map((f) => `| ${f.name} | ${f.displayDiscount} | ${f.count} | ${f.latest} | ${f.code} |`), '',
     ] : []),
     `## ${ev.short} Deal Listings: How to Read the Data`, '',
     `### How to Read ${ev.short} Deal Listings`, '',
@@ -734,8 +760,6 @@ function webmcpJsEvents() {
 
 // ── build ───────────────────────────────────────────────────────
 const now = new Date();
-const codes = loadCodes();
-const standingByFirm = new Map(codes.map((c) => [canonicalFirm(c.prop_firm), c.code]));
 
 const events = CATEGORY_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug)) }));
 const tags = TAG_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug)) }));
