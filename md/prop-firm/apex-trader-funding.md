@@ -9,7 +9,7 @@ No live discount code for Apex Trader Funding right now — newest deals and off
 - Activate: https://propfirmdiscount.com/go/apextrader
 - Firm page: https://propfirmdiscount.com/prop-firm/apex-trader-funding/
 
-As of 2026-11-12, the biggest Apex Trader Funding offers this month: 90% OFF.
+As of 2026-11-13, the biggest Apex Trader Funding offers this month: 90% OFF.
 
 ## Most recent deal (ended): Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations
 

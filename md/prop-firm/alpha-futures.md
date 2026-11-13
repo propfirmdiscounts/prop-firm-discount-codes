@@ -13,7 +13,7 @@ The verified Alpha Futures discount code is **Tran009503** — Up to 15% off, wo
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-12, the biggest Alpha Futures offers this month: 50% OFF with code ALPHA50, 50% OFF with code MYALPHA50, 40% OFF with code ALPHA40, 40% OFF with code DASH40, and 40% OFF with code MYALPHA40.
+As of 2026-11-13, the biggest Alpha Futures offers this month: 50% OFF with code ALPHA50, 50% OFF with code MYALPHA50, 40% OFF with code ALPHA40, 40% OFF with code DASH40, and 40% OFF with code MYALPHA40.
 
 ## Current deal: Alpha Futures 50% Off Standard Direct Advanced
 

@@ -9,7 +9,7 @@ The newest Lark Funding discount code is **DOUBLELARK** — Free second account 
 - Activate: https://propfirmdiscount.com/go/larkfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 
-As of 2026-11-12, the biggest Lark Funding offers this month: 100% OFF with code OCTOBERFEE.
+As of 2026-11-13, the biggest Lark Funding offers this month: 100% OFF with code OCTOBERFEE.
 
 ## Current deal: Lark Funding Double Up Free Second Account on 30-Day Pass
 

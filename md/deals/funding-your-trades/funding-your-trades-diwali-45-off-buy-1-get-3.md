@@ -1,16 +1,15 @@
 # Funding Your Trades Diwali 45% Off + Buy 1 Get 3
 
-Funding Your Trades is offering 45% off — discount code **DIWALI45**.
+Funding Your Trades was offering 45% off.
 
 > Funding Your Trades cuts 45% off for Diwali and turns one challenge into three accounts, for 7 days only. Only the purchase price changes.
 
 - Published: 2026-11-05
-- Offer ends: 2026-11-12
+- Offer ends: 2026-11-12 (ended)
 - Prop firm: Funding Your Trades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - Summary: Funding Your Trades cuts 45% off for Diwali and turns one challenge into three accounts to trade, for 7 days only. Only the purchase price changes and challenge rules and trading risk stay as set.
 - Offer: 45% Off
-- Code: DIWALI45
 - Scope: Challenges - buy 1, trade 3 accounts
 - Deal: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/
 - Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)

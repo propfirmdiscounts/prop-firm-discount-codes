@@ -4,4 +4,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-02-10 |  | Valentine’s Day 2026 Prop Firm Coupon Codes & Discounts – Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/valentines-day-2026-prop-firm-coupon-codes/ |
+| 2026-02-10 |  | Valentine’s Day 2026 Prop Firm Coupon Codes & Discounts – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/valentines-day-2026-prop-firm-coupon-codes/ |

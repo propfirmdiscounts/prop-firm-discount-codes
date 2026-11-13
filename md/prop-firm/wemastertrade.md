@@ -13,7 +13,7 @@ The verified WeMasterTrade discount code is **PFD** — Up to 20% off, works any
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-12, the biggest WeMasterTrade offers this month: 36% OFF with code TREAT36, 33% OFF with code DEAL33, 33% OFF with code OFF33, and 30% OFF with code OFF30.
+As of 2026-11-13, the biggest WeMasterTrade offers this month: 36% OFF with code TREAT36, 33% OFF with code DEAL33, 33% OFF with code OFF33, and 30% OFF with code OFF30.
 
 ## Most recent deal (ended): WeMasterTrade Halloween 36% Off All Packages Deal
 

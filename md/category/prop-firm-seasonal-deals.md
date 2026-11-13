@@ -1,11 +1,12 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 80% OFF with code BF80 at CK PropFirm, 65% OFF with code EARLYBF65 at Bullwaves Prime, and 60% OFF with code VET60 at FundYourFX.
+As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 80% OFF with code BF80 at CK PropFirm, 70% OFF at Bitfunded, and 65% OFF with code EARLYBF65 at Bullwaves Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
 | 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
@@ -25,7 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | CK PropFirm | CK PropFirm Diwali 80% Off All Challenge Types | 80% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
-| 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
+| 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 (ended) | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
 | 2026-11-04 | Instant Funding | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% OFF | 2026-11-09 18:59 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus 45% Off Instant Funding | 45% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/ |
 | 2026-11-02 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/ |
 | 2026-11-02 | Atlas Funded | Atlas Funded 40% Off Futures Evaluations | 40% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
-| 2026-11-02 | Instant Funding | Instant Funding 30% Off Everything Plus Add-Ons | 30% OFF | 2026-11-03 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/ |

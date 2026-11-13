@@ -534,7 +534,7 @@
         "last_deal": {
             "deal_id": 13117,
             "title": "Up to 65% off bundles, Ignite and Elite",
-            "offer_type": "deal",
+            "offer_type": "coupon",
             "discount_value": "65%",
             "scope": [
                 "Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees"
@@ -875,7 +875,7 @@
         "last_deal": {
             "deal_id": 13168,
             "title": "35% Off All Plans, 40% Bundled",
-            "offer_type": "deal",
+            "offer_type": "coupon",
             "discount_value": "35%",
             "scope": [
                 "All Plans; Bundle Of 5 Accounts At 40% Off"
@@ -1408,7 +1408,7 @@
                 "Challenges - Buy 1, Trade 3 Accounts"
             ],
             "date_published": "2026-11-05",
-            "date_exp": "2026-11-12",
+            "date_exp": "2026-11-12 (ended)",
             "event": "Diwali",
             "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/"
         },

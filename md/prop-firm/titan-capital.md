@@ -9,7 +9,7 @@ No live discount code for Titan Capital right now — newest deals and offers ar
 - Activate: https://propfirmdiscount.com/go/titancapital
 - Firm page: https://propfirmdiscount.com/prop-firm/titan-capital/
 
-As of 2026-11-12, the biggest Titan Capital offers this month: 60% OFF with code BOGO and 55% OFF with code T55.
+As of 2026-11-13, the biggest Titan Capital offers this month: 60% OFF with code BOGO and 55% OFF with code T55.
 
 ## Most recent deal (ended): Titan Capital 60% Off Evaluations Plus Free Second Account
 

@@ -7,9 +7,9 @@ How to read the code column: a code value is the firm's discount code and works 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
 | 2026-03-16 | Tradexprop | Tradexprop 30% Off Every TXP Plan Ramadan Promotion | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-30-off-txp-plans-ramadan/ |
-| 2026-03-06 | Finotive Funding | Finotive Funding 35% Off Sitewide Ramadan Evaluation Entry Cost | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-35-off-sitewide-ramadan/ |
-| 2026-03-02 | Funding Your Trades | Funding Your Trades: 40% Off FYT Prime Accounts ($58.2 to $509.4) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-fyt-prime-ramadan-promo/ |
-| 2026-02-27 | Finotive Funding | Finotive Funding Ramadan Promotion: 30% Off Sitewide Evaluation Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-ramadan-30-off-sitewide/ |
+| 2026-03-06 | Finotive Funding | Finotive Funding 35% Off Sitewide Ramadan Evaluation Entry Cost | 35% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-35-off-sitewide-ramadan/ |
+| 2026-03-02 | Funding Your Trades | Funding Your Trades: 40% Off FYT Prime Accounts ($58.2 to $509.4) | 40% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-fyt-prime-ramadan-promo/ |
+| 2026-02-27 | Finotive Funding | Finotive Funding Ramadan Promotion: 30% Off Sitewide Evaluation Accounts | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-ramadan-30-off-sitewide/ |
 | 2026-02-23 | FundedNext | FundedNext 10% Off 50k-200k Stellar Accounts for Ramadan 2026 | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-10-percent-discount-stellar-50k-200k-ramadan-2026/ |
 | 2026-02-23 | FundedNext | FundedNext 15% Off 2k-25k Stellar Accounts for Ramadan 2026 | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-15-percent-discount-stellar-2k-25k-ramadan-2026/ |
 | 2026-02-21 | Funding Your Trades | Funding Your Trades: 44% Crypto Discount and Bonus Accounts | 44% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-44-crypto-discount-ramadan/ |

@@ -2,7 +2,7 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-12, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 19 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-13, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 18 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ As of 2026-11-12, the biggest prop firm offers this month: 93% OFF with code PFD
 | 2 | Phidias Propfirm | PFD | 85% | Exclusive Code | Ends Nov 24, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | FundingTraders | PFD | 81% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 4 | Top One Trader | BLACKFRIDAY | 80% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
-| 5 | RebelsFunding | 5KFOR9 | 76% | Campaign Code | Ends Nov 12, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 5 | RebelsFunding | 5KFOR9 | 76% | Campaign Code | Ended Nov 12, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 6 | Elite Trader Funding | NOV75 | 75% | Campaign Code | Ends Nov 13, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 7 | Alpha Funded | BIG70 | 70% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 8 | Bullwaves Prime | EARLYBF65 | 65% | Campaign Code | Ends Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/bullwaves/ |

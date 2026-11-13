@@ -22,7 +22,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-01-07 | OFP Funding | OFP Funding New Year Offer: 30% OFF All Account Models | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-new-year-30-off/ |
 | 2026-01-07 | RebelsFunding | RebelsFunding New Year Offer: $1,000 Accounts Starting From €3 | From €3 | Ended | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-new-year-1000-account-offer/ |
 | 2026-01-07 | SFX Funded | SFX Funded New Year Deal: Up to 70% Off Entry Fees + BOGO | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-new-year-deal-70-off-bogo/ |
-| 2026-01-06 | Apex Trader Funding | Apex Trader Funding New Year Special: 90% Off 1st Month + PA Fee Deals | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-special-90-off/ |
+| 2026-01-06 | Apex Trader Funding | Apex Trader Funding New Year Special: 90% Off 1st Month + PA Fee Deals | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-special-90-off/ |
 | 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
 | 2026-01-06 | QT Funded | QT Funded New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/ |
 | 2026-01-05 | HyroTrader | HyroTrader New Year 2026 Offer: 20% Off Evaluation Costs | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/ |
@@ -35,4 +35,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-01-05 | BrightFunded | BrightFunded New Year Deal: 10% Off All Challenges | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-new-year-10-percent-off/ |
 | 2026-01-05 | AquaFunded | AquaFunded New Year Offer: 50% Off Instants, 45% Off Challenges + BOGO | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-50-off-instants-45-off-challenges/ |
 | 2026-01-05 | Super Funded | Super Funded New Year Offer: 30% OFF All Challenges Entry Cost | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-30-off/ |
-| 2026-01-04 | PipFarm | PipFarm New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | Only $9.99 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/ |
+| 2026-01-04 | PipFarm | PipFarm New Year Offer: 100K Accounts from $199 + 5K Account for $9.99 | Only $9.99 | Ended | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-new-year-100k-5k-offer/ |

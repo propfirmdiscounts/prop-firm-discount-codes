@@ -9,7 +9,7 @@ No live discount code for Take Profit Trader right now — newest deals and offe
 - Activate: https://propfirmdiscount.com/go/takeprofittrader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
 
-As of 2026-11-12, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
+As of 2026-11-13, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
 
 ## Most recent deal (ended): Take Profit Trader Black Friday 50% Off Test Accounts
 

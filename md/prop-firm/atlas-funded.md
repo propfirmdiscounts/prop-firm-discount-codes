@@ -13,7 +13,7 @@ The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-12, the biggest Atlas Funded offers this month: 45% OFF with code SPOOKY, 45% OFF with code SPOOKY, 45% OFF with code NEWERA, 40% OFF with code NOV40, and 40% OFF with code ATLAS2.
+As of 2026-11-13, the biggest Atlas Funded offers this month: 45% OFF with code SPOOKY, 45% OFF with code SPOOKY, 45% OFF with code NEWERA, 40% OFF with code NOV40, and 40% OFF with code ATLAS2.
 
 ## Current deal: Atlas Funded: 40% Off Evaluations From $25.80
 

@@ -4,4 +4,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2025-12-04 |  | Christmas 2025 Prop Firm Coupon Codes & Deals – Roundup |  | Ended | - | https://propfirmdiscount.com/holiday-roundups/christmas-2025-prop-firm-coupon-codes-deals-roundup/ |
+| 2025-12-04 |  | Christmas 2025 Prop Firm Coupon Codes & Deals – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/christmas-2025-prop-firm-coupon-codes-deals-roundup/ |

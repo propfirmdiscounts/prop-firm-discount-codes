@@ -1,11 +1,12 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 90% OFF with code PFD at Upcomers, 80% OFF with code BF80 at CK PropFirm, 65% OFF with code EARLYBF65 at Bullwaves Prime, and 40% OFF with code BF26 at ThinkCapital.
+As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 90% OFF with code PFD at Upcomers, 80% OFF with code BF80 at CK PropFirm, 70% OFF at Bitfunded, and 65% OFF with code EARLYBF65 at Bullwaves Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
 | 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
@@ -36,7 +37,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-30 | QT Funded | QT Funded BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/ |
 | 2025-11-29 | Ment Funding | Ment Funding Black Friday Offer: 10% OFF Evaluations | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-black-friday-10-off/ |
 | 2025-11-29 | MyFxCapital | MyFxCapital Black Friday Deal: 50% OFF All Account Sizes | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-black-friday-50-off-all-accounts/ |
-| 2025-11-28 | Sure Leverage Funding | Sure Leverage Funding Black Friday Sale: Up to 70% Off All Challenges | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off/ |
+| 2025-11-28 | Sure Leverage Funding | Sure Leverage Funding Black Friday Sale: Up to 70% Off All Challenges | 70% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off/ |
 | 2025-11-28 | Elite Trader Funding | Elite Trader Funding Black Friday: $47 Evaluation Resets | Only $47 | Ended | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-black-friday-47-evaluation-resets/ |
 | 2025-11-28 | Elite Trader Funding | Elite Trader Funding Black Friday: 80% OFF 1 Step Evaluations | 80% OFF | Ended | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-black-friday-80-off-1-step/ |
 | 2025-11-28 | The Trading Pit | The Trading Pit Black Friday Sale: 30% OFF All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-30-off/ |
@@ -56,9 +57,9 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | Tradeify | Tradeify Black Friday Sale: 40% OFF Lightning & Growth Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-black-friday-40-off-lightning-growth/ |
 | 2025-11-28 | Tradeify | Tradeify Thanksgiving & Black Friday Sale: 40% OFF Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-thanksgiving-black-friday-40-off/ |
 | 2025-11-28 | AquaFutures | AquaFutures Black Friday Deal: 60% OFF + BOGO on All Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-black-friday-60-off-bogo/ |
-| 2025-11-28 | OneUp Trader | OneUp Trader Black Friday Sale: 60% OFF $100K Eval + No Activation Fee | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/oneup-trader/oneup-trader-black-friday-60-off-100k-express/ |
+| 2025-11-28 | OneUp Trader | OneUp Trader Black Friday Sale: 60% OFF $100K Eval + No Activation Fee | 60% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/oneup-trader/oneup-trader-black-friday-60-off-100k-express/ |
 | 2025-11-27 | AquaFunded | AquaFunded Black Friday Deal: Up to 55% Off + Free Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-55-off-free-account/ |
-| 2025-11-27 | Finotive Funding | Finotive Funding Black Friday Sale: 35% OFF Site-Wide (Extra 25% with code) – Up to 60% OFF | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-35-off/ |
+| 2025-11-27 | Finotive Funding | Finotive Funding Black Friday Sale: 35% OFF Site-Wide (Extra 25% with code) – Up to 60% OFF | 35% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-35-off/ |
 | 2025-11-27 | Plutus Trade Base | Plutus Trade Base Black Friday Deal: 60% OFF All Plans | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-black-friday-60-off/ |
 | 2025-11-27 | ATFunded | ATFunded Black Friday Sale: 15% OFF Pro & 2-Phase Programs | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/atfunded/atfunded-black-friday-15-off/ |
 | 2025-11-27 | Atlas Funded | Atlas Funded 55% Off Challenges – Black Friday BOGO Deal | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-55-off-challenges-black-friday-bogo/ |
@@ -73,21 +74,21 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-26 | Forexive | Forexive Black Friday: 50% OFF One, Two & Three-Step Models | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-50-off-evaluations/ |
 | 2025-11-26 | FundedNext Futures | FundedNext Futures Black Friday Sale: Special Legacy Prices + 15% Off Resets | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-black-friday-legacy-prices-reset-discount/ |
 | 2025-11-26 | FundingTraders | FundingTraders Black Friday Offer: 50% OFF + 100% Profit Split | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-50-off-100-profit-split/ |
-| 2025-11-26 | FundingTicks | FundingTicks Black Friday Early Access: 50% OFF Unlimited Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/fundingticks/fundingticks-black-friday-early-access-50-off/ |
-| 2025-11-26 | FTMO | FTMO Black Friday Deal: 20% Off All Challenges | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-20-off-deal/ |
+| 2025-11-26 | FundingTicks | FundingTicks Black Friday Early Access: 50% OFF Unlimited Accounts | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fundingticks/fundingticks-black-friday-early-access-50-off/ |
+| 2025-11-26 | FTMO | FTMO Black Friday Deal: 20% Off All Challenges | 20% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-20-off-deal/ |
 | 2025-11-26 | QT Futures | QT Futures Black Friday Sale: 25% OFF Purchase & Activation | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/ |
 | 2025-11-26 | FundingPips | FundingPips Black Friday Early Access: 25% OFF Evaluations | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-early-access-25-off/ |
 | 2025-11-26 | FX2 Funding | FX2 Funding Black Friday Deal: 35% OFF All Programs + Instant Funding | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/fx2-funding/fx2-funding-black-friday-35-off-all-programs/ |
 | 2025-11-26 | Plutus Trade Base | Plutus Trade Base Black Friday Offer: 50% OFF All Plans | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-black-friday-50-off/ |
-| 2025-11-26 | Apex Trader Funding | Apex Trader Funding Black Friday: 80% Off + $10 PA Fee Deal | 80% OFF | Ended | - | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-black-friday-80-off-10-pa-fee/ |
-| 2025-11-25 | Trade The Pool | Trade The Pool Black Friday Deal: 15% OFF All Evaluation Accounts | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/ |
+| 2025-11-26 | Apex Trader Funding | Apex Trader Funding Black Friday: 80% Off + $10 PA Fee Deal | 80% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-black-friday-80-off-10-pa-fee/ |
+| 2025-11-25 | Trade The Pool | Trade The Pool Black Friday Deal: 15% OFF All Evaluation Accounts | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/ |
 | 2025-11-25 | FundedNext | FundedNext Black Friday Existing User Deal: 15% OFF + 150% Reward | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-existing-user-15-off-150-reward/ |
 | 2025-11-25 | FundedNext | FundedNext Black Friday New User Deal: 25% OFF + 250% Reward | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-new-user-25-off-250-reward/ |
 | 2025-11-25 | Earnex Prime | Earnex Prime Black Friday Sale: Up to 60% OFF + Bonus Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-off-bonus/ |
-| 2025-11-25 | Finotive Funding | Finotive Funding Black Friday Deal: 30% OFF Site-Wide (Extra 25% with code) – Up to 55% OFF | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-30-off-deal/ |
+| 2025-11-25 | Finotive Funding | Finotive Funding Black Friday Deal: 30% OFF Site-Wide (Extra 25% with code) – Up to 55% OFF | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-30-off-deal/ |
 | 2025-11-25 | Seacrest Markets | Seacrest Markets Black Friday Deal: 30% Off + Triple Rewards | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/ |
-| 2025-11-25 | The5ers | The5ers Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/ |
-| 2025-11-25 | Lux Trading Firm | Lux Trading Firm Black Friday Deal: 25% OFF Elite Package + Mentoring | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-deal-25-off/ |
+| 2025-11-25 | The5ers | The5ers Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/ |
+| 2025-11-25 | Lux Trading Firm | Lux Trading Firm Black Friday Deal: 25% OFF Elite Package + Mentoring | 25% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-deal-25-off/ |
 | 2025-11-24 | Equity Edge | Equity Edge Black Friday: 25K Instant Account for Only $29 | Only $29 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-25k-instant-account-29/ |
 | 2025-11-24 | AquaFunded | AquaFunded Black Friday Offer: 50% OFF All Accounts + 150% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-50-off-150-refund/ |
 | 2025-11-24 | Alpha Futures | Alpha Futures Black Friday Sale: 25% OFF Standard, Advanced & Zero Accounts | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-25-off-all-accounts/ |
@@ -97,7 +98,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-24 | Goat Funded Trader | Goat Funded Trader Black Friday Mega Sale: 50% OFF All Plans | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-50-off/ |
 | 2025-11-24 | Blueberry Funded | Blueberry Funded Black Friday: 45% OFF Prime Challenges | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-black-friday-45-off-prime-challenges/ |
 | 2025-11-24 | Alpha Funded | Alpha Trader Firm BFCM Mega Deal: 60% OFF All Challenges | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-bfcm-mega-deal-60-off/ |
-| 2025-11-24 | Top One Trader | Top One Trader Black Friday Sale: Up to 80% OFF + 200% Refund | 80% OFF | Ended | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-80-off/ |
+| 2025-11-24 | Top One Trader | Top One Trader Black Friday Sale: Up to 80% OFF + 200% Refund | 80% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-80-off/ |
 | 2025-11-24 | Take Profit Trader | Take Profit Trader Black Friday Sale: 30% Off + 100% Refund + No Activation Fee | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-30-off-refund-no-activation-fee/ |
 | 2025-11-24 | Alpha Capital Group | Alpha Capital Group Thanksgiving Offer: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-thanksgiving-30-off/ |
 | 2025-11-24 | Funded Trading Plus | Funded Trading Plus (FT+) Black Friday Deal: 30% OFF Prestige Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-30-off-prestige/ |
@@ -112,23 +113,23 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-23 | Blue Guardian Futures | Blue Guardian Futures Black Friday Sale: 60% OFF + BOGO Reward | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/ |
 | 2025-11-23 | Blue Guardian | Blue Guardian Black Friday Sale: Up to 80% OFF + BOGO | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-80-off-bogo/ |
 | 2025-11-23 | Finotive Funding | Finotive Funding Black Friday Presale: 20% Off + Free Account Bonus | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-presale-20-off/ |
-| 2025-11-22 | Bitfunded | Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-50-off-100-profit-share/ |
+| 2025-11-22 | Bitfunded | Bitfunded Black Friday Deal: 50% OFF + 100% Profit Share | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-50-off-100-profit-share/ |
 | 2025-11-22 | BullRush Prop | BullRush Prop Black Friday Sale: 50% OFF All Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/bullrush/bullrush-prop-black-friday-50-off/ |
 | 2025-11-22 | BluSky Trading | BluSky Trading Black Friday Sale: 50% Off Launch Plans | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-50-off-launch-plans/ |
 | 2025-11-22 | thePropTrade | thePropTrade Black Friday Deal: 25% Off and Extra Balance | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-25-off-extra-balance/ |
 | 2025-11-22 | TX3 Funding | TX3 Funding Black Friday Sale: 35% Off All Challenges | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-sale/ |
 | 2025-11-22 | OFP Funding | OFP Funding Black Friday Flash Promo: 62% Off All Accounts | 62% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-flash-62-off/ |
 | 2025-11-21 | Top One Futures | Top One Futures Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% OFF | Ended | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/ |
-| 2025-11-21 | AudaCity Capital | AudaCity Capital Funded Black Friday Deal: 50% Off All Programs | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-black-friday-50-off/ |
+| 2025-11-21 | AudaCity Capital | AudaCity Capital Funded Black Friday Deal: 50% Off All Programs | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-black-friday-50-off/ |
 | 2025-11-21 | FundYourFX | FundYourFX Black Friday Deal: 30% Off All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-30-off-bonuses/ |
 | 2025-11-21 | Darwinex Zero | Darwinex Zero Black Friday Deal: 20% Off 1 & 3-Year Plans | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-black-friday-20-off-long-term-plans/ |
 | 2025-11-21 | Fintokei | Fintokei Black Friday Sale: 15% Off Any Trading Challenge | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-15-percent-off-challenge/ |
 | 2025-11-21 | WSFunded | WSFunded Black Friday Flash Sale: 50% Off Evaluation Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-flash-sale-50-percent-off/ |
 | 2025-11-21 | SabioTrade | SabioTrade Black Friday Deal: Buy One Get One Free Account | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-black-friday-bogo-deal/ |
 | 2025-11-20 | WSFunded | WSFunded Black Friday: 40% Off plus 2×1 Account Offer | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-40-off-2x1/ |
-| 2025-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday Deal – Up to 70% Off | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off-deal/ |
+| 2025-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday Deal – Up to 70% Off | 70% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off-deal/ |
 | 2025-11-20 | PropShopTrader | PropShopTrader Reset Coupon: 25% OFF Gladiator Resets | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-25-off-gladiator-resets-2/ |
-| 2025-11-20 | PropShopTrader | PropShopTrader Pre-Black Friday Deal: 70% OFF Instant Accounts | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-pre-black-friday-70-off-instant-gladiators/ |
+| 2025-11-20 | PropShopTrader | PropShopTrader Pre-Black Friday Deal: 70% OFF Instant Accounts | 70% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-pre-black-friday-70-off-instant-gladiators/ |
 | 2025-11-20 | PropShopTrader | PropShopTrader Pre-Black Friday: 70% OFF Warrior Evaluations | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-pre-black-friday-70-off-evaluations/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 20% Off All Direct Futures Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-20-off-direct-futures/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 25% Off 100K-150K Futures & 5K Forex | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-25-off-futures-forex/ |
@@ -138,21 +139,20 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 45% Off 50K Forex Pro Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-45-off-50k-forex-pro/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 50% Off 100K Forex Pro Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-50-off-100k-forex-pro/ |
 | 2025-11-19 | For Traders | ForTraders Black Friday Deal: 25% Off Plus BOGO Offer | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/ |
-| 2025-11-19 | FunderPro | FunderPro Black Friday Deal: 30% Off & $1M Giveaway | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-black-friday-30-off-giveaway/ |
+| 2025-11-19 | FunderPro | FunderPro Black Friday Deal: 30% Off & $1M Giveaway | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/funderpro/funderpro-black-friday-30-off-giveaway/ |
 | 2025-11-19 | Earnex Prime | Earnex Prime Black Friday Sale: Up to 60% Off & Bonus Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-percent-off-deal/ |
 | 2025-11-19 | FXIFY | FXIFY Black Friday Sale: 40% Off All Programs | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-40-off-sale/ |
 | 2025-11-19 | QT Funded | QT Funded Black Friday: 50% Off Plus Free Account (BOGO) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-bogo/ |
 | 2025-11-19 | OFP Funding | OFP Funding Black Friday Sale: 60% Off Instant & Challenge Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-60-off-storewide/ |
 | 2025-11-19 | Prop Number One | Prop Number One Black Friday: 25% Off + BOGO or Skip Phase 1 | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/prop-number-one/prop-number-one-black-friday-25-off-bogo-skip-phase-1/ |
 | 2025-11-19 | PropShopTrader | PropShopTrader Crypto Special: Extra 5% OFF Storewide | 5% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-crypto-extra-5-off/ |
-| 2025-11-18 | Equity Edge | Equity Edge Black Friday: 50% Off + Free Account & $40 Deals | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-50-off-bogo-deal/ |
-| 2025-11-18 | PipFarm | PipFarm Black Friday Sale: $9 Accounts, BOGO & More | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-sale-bogo-9-dollar-promo/ |
-| 2025-11-18 | OFP Funding | OFP Funding Black Friday Sale – Up to 55% Off Instant & Challenges | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-sale/ |
+| 2025-11-18 | Equity Edge | Equity Edge Black Friday: 50% Off + Free Account & $40 Deals | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-50-off-bogo-deal/ |
+| 2025-11-18 | PipFarm | PipFarm Black Friday Sale: $9 Accounts, BOGO & More | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-sale-bogo-9-dollar-promo/ |
+| 2025-11-18 | OFP Funding | OFP Funding Black Friday Sale – Up to 55% Off Instant & Challenges | 55% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-sale/ |
 | 2025-11-18 | Blue Guardian | Blue Guardian Black Friday Sale: 40% Off Promo Code | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-sale/ |
 | 2025-11-18 | WSFunded | WSFunded Black Friday Sale: 35% Off + 2×1 Offer | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-2x1-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Code – 25% Off + 25% Bonus Balance | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-25-off-bonus-balance/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Deal – 100K Challenge for $149 | Only  $149 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-100k-challenge-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday BOGO Deal – Buy One Get One Free | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-bogo-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Flash Sale – $9 Evaluation Account | Only $9 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-9-dollar-account/ |
-| 2025-11-18 | Bitfunded | Bitfunded Black Friday Deal: Get 6 Accounts for the Price of 3 (50% OFF) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-deal-pay-3-get-6-50-off/ |
-| 2025-11-18 | Funded Hero | Funded Hero Black Friday Deal: 60% OFF All Challenges | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/ |
+| 2025-11-18 | Bitfunded | Bitfunded Black Friday Deal: Get 6 Accounts for the Price of 3 (50% OFF) | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-deal-pay-3-get-6-50-off/ |

@@ -1,11 +1,12 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-12, the biggest offers this month: 81% OFF with code PFD at FundingTraders, 80% OFF with code BF80 at CK PropFirm, 65% OFF with code EARLYBF65 at Bullwaves Prime, 60% OFF with code SALE60 at TradeDay, and 60% OFF with code NEW at Finotive Futures.
+As of 2026-11-12, the biggest offers this month: 81% OFF with code PFD at FundingTraders, 65% OFF with code EARLYBF65 at Bullwaves Prime, 60% OFF with code SALE60 at TradeDay, 60% OFF with code NEW at Finotive Futures, and 40% OFF with code BF26 at ThinkCapital.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | Sure Leverage Funding | Sure Leverage Funding: 35% Off November Offer | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/ |
 | 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
 | 2026-11-12 | FundingTraders | FundingTraders: Up to 81% Off Instant Funded | 81% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/ |
 | 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
@@ -24,7 +25,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-10 | City Traders Imperium (CTI) | CTI: 15% Off 1-Step, 2-Step and Instant Funding | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-news-trading/ |
 | 2026-11-10 | OFP Funding | OFP Funding: 55% Off Everything + Free Account | 55% OFF | 2026-11-15 | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-55-off-everything-free-account/ |
 | 2026-11-10 | Atlas Funded | Atlas Funded: 40% Off Evaluations From $25.80 | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/ |
-| 2026-11-10 | RebelsFunding | RebelsFunding: $5,000 Program for €9 – 76% Off | 76% OFF | 2026-11-12 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/ |
+| 2026-11-10 | RebelsFunding | RebelsFunding: $5,000 Program for €9 – 76% Off | 76% OFF | 2026-11-12 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/ |
 | 2026-11-10 | QT Funded | QT Funded: 55% Off All Challenges + Free Account | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/ |
 | 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
 | 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
-| 2026-11-07 | QT Funded | QT Funded: 60% Off Any Account + Free Same-Size Account | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/ |

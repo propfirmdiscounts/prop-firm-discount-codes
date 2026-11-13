@@ -30,7 +30,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-04-02 | WSFunded | WSFunded 40% Easter Discount on Evaluation Accounts ($2.5k-$25k) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-easter-discount-evaluation-accounts/ |
 | 2026-04-02 | Blueberry Funded | Blueberry Funded 30% Off 2-Step Challenge Entry Cost | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-2-step-challenge/ |
 | 2026-04-02 | Hola Prime | Hola Prime Easter Sale: 40% Off Forex Challenges From $5K to $100K | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-easter-40-percent-discount-forex-challenges/ |
-| 2026-04-02 | Sure Leverage Funding | Sure Leverage Funding Easter Offer: 35% Off Entry Cost and 200% Refund | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-easter-discount/ |
+| 2026-04-02 | Sure Leverage Funding | Sure Leverage Funding Easter Offer: 35% Off Entry Cost and 200% Refund | 35% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-easter-discount/ |
 | 2026-04-02 | QT Funded | QT Funded 45% Off, 100% Refund and Free Instant Account | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/ |
 | 2026-04-02 | WSFunded | WSFunded 35% Easter Discount on Instant Accounts: Cost Structure | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-35-easter-discount-instant-accounts/ |
 | 2026-04-01 | For Traders | For Traders 30% Discount and $100,000 Challenge Giveaway | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/for-traders-30-discount-giveaway-easter/ |
@@ -45,5 +45,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-26 | Super Funded | Super Funded Easter Deal: 30% Off 25K-200K Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-30-percent-off-25k-200k-easter/ |
 | 2026-03-26 | Super Funded | Super Funded Easter Promotion: 50% Off 3K-10K Challenges | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-50-percent-off-3k-10k-easter/ |
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime: 30% Off Challenge Pricing | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/ |
-| 2026-03-25 | Bullwaves Prime | Bullwaves Prime 100% Deposit Bonus This Easter | Full Deposit Bonus | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/ |
+| 2026-03-25 | Bullwaves Prime | Bullwaves Prime 100% Deposit Bonus This Easter | Full Deposit Bonus | Ended | No Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/ |
 | 2025-04-17 | Atlas Funded | Atlas Funded 40% Off Challenges – Easter Deal | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/ |

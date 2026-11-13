@@ -1,16 +1,15 @@
 # RebelsFunding: $5,000 Program for €9 – 76% Off
 
-RebelsFunding is offering 76% off — discount code **5KFOR9**.
+RebelsFunding was offering 76% off.
 
 > RebelsFunding cuts its $5,000 program to €9 with 76% off, for three days only - until Thursday 12 November 2026 or until all 1000 accounts sell out.
 
 - Published: 2026-11-10
-- Offer ends: 2026-11-12
+- Offer ends: 2026-11-12 (ended)
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: RebelsFunding has priced its $5,000 program at €9, a 76% cut to the entry fee, available for three days only until Thursday November 12 or until all 1000 accounts are sold out.
 - Offer: 76% Off
-- Code: 5KFOR9
 - Scope: $5,000 Program
 - Deal: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/
 

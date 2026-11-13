@@ -7,7 +7,7 @@ The newest The Concept Trading discount code is **FT26** — 35% off (November 1
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 
-As of 2026-11-12, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code FT26, and 35% OFF with code MAD26.
+As of 2026-11-13, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code FT26, and 35% OFF with code MAD26.
 
 ## Current deal: The Concept Trading: 35% Off Instant Programs
 

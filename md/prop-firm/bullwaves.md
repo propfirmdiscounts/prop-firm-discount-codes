@@ -7,7 +7,7 @@ The newest Bullwaves Prime discount code is **EARLYBF65** — 65% off (November 
 - Activate: https://propfirmdiscount.com/go/bullwaves
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 
-As of 2026-11-12, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65 and 35% OFF with code NOTRICKS35.
+As of 2026-11-13, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65 and 35% OFF with code NOTRICKS35.
 
 ## Current deal: Bullwaves Prime: 65% Off Everything, Early Bird
 

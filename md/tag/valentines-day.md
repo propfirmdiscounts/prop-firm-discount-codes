@@ -7,10 +7,10 @@ How to read the code column: a code value is the firm's discount code and works 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
 | 2026-02-16 | Bullwaves Prime | Bullwaves Prime Valentine’s Day Offer: 30% Off Any Challenge | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-30-off/ |
-| 2026-02-16 | Bullwaves Prime | Bullwaves Prime Valentine’s Day: 100% Deposit Bonus from $500 | 100% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-100-percent-deposit-bonus/ |
+| 2026-02-16 | Bullwaves Prime | Bullwaves Prime Valentine’s Day: 100% Deposit Bonus from $500 | 100% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-valentines-day-100-percent-deposit-bonus/ |
 | 2026-02-16 | WSFunded | WSFunded Valentine’s Offer: 50% Off Challenge Pricing and Prize Draws | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-valentines-50-off/ |
 | 2026-02-15 | HyroTrader | HyroTrader Valentine’s Deal: 14% Off Single Challenge Costs | 14% OFF | Ended | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/ |
-| 2026-02-15 | Sure Leverage Funding | Sure Leverage Funding Valentine’s Day Deal: Up to 69% Off | 69% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-valentines-day-deal/ |
+| 2026-02-15 | Sure Leverage Funding | Sure Leverage Funding Valentine’s Day Deal: Up to 69% Off | 69% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-valentines-day-deal/ |
 | 2026-02-14 | Equity Edge | Equity Edge Valentine’s Day: 300K Instant Account for $309 | Only $309 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-300k-instant-309/ |
 | 2026-02-14 | Equity Edge | Equity Edge Valentine’s Day: 200K Instant Account for $169 | Only $169 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-200k-instant-169/ |
 | 2026-02-14 | Equity Edge | Equity Edge Valentine’s Day: 100K Instant Account for $69 | Only $69 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-100k-instant-69/ |
