@@ -13,7 +13,7 @@ The verified Blue Guardian Futures discount code is **PFD** — Up to 35% off, w
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Blue Guardian Futures 40% Off Evaluation Accounts
+## Most recent deal (ended): Blue Guardian Futures 40% Off Evaluation Accounts with code PFD
 
 - Published: 2026-06-22
 - Offer ends: Ended

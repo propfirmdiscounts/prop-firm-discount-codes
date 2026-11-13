@@ -55,6 +55,6 @@ No. The code reduces purchase pricing only; trading rules, drawdown limits and t
 - 2026-10-26 - [QT Funded Halloween 50% Off Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) (50% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-26 - [QT Funded Halloween 60% Off Challenge Entry](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) (60% Off) — Halloween — ended 2026-11-01 00:00
 - 2026-10-21 - [QT Funded 55% Off All Accounts Plus Free Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) (55% Off) — ended 2026-10-25
-- 2026-10-20 - [QT Funded 65% Off All Accounts - Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off) — ended 2026-10-25
+- 2026-10-20 - [QT Funded 65% Off All Accounts – Acquisition Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) (65% Off) — ended 2026-10-25
 - 2026-10-19 - [QT Funded 60% Off QT TWO Evaluations to $200K](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) (60% Off) — ended 2026-10-31
 - 2026-10-01 - [QT Funded October Promotion: 60% Off Evaluation Prices Plus Extra Account](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) (60% Off)

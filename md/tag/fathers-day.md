@@ -8,7 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-06-23 | Sure Leverage Funding | Sure Leverage Funding 40% Off All Funding Products For Father’s Day | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-fathers-day/ |
 | 2026-06-21 | Alpha Funded | Alpha Trader Firm: 65% Off Any 100K Accounts | 65% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-65-off-100k-accounts-fathers-day/ |
-| 2026-06-21 | Phidias Propfirm | Phidias Propfirm Father’s Day Offer: 90% Off Monthly Evaluation Accounts | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-fathers-day-90-off-promotion/ |
+| 2026-06-21 | Phidias Propfirm | Phidias Propfirm Father’s Day Offer: 90% Off Monthly Evaluation Accounts with code PFD | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-fathers-day-90-off-promotion/ |
 | 2026-06-19 | FXIFY | FXIFY 35% Off All Programs for Father’s Day | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-fathers-day-promo/ |
 | 2026-06-18 | Plutus Trade Base | Plutus Trade Base Father’s Day Promotion: 50% Off Evaluation Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-fathers-day-50-discount/ |
 | 2026-06-18 | ThinkCapital | ThinkCapital Father’s Day Deal: 20% Off $2,500 to $50,000 Evaluation Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-fathers-day-20-off-accounts/ |

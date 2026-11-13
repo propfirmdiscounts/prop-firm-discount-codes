@@ -53,4 +53,4 @@ It may suit a buyer who had already chosen an eligible Flex purchase and was com
 - 2026-10-27 - [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) (70% Off) — Halloween
 - 2026-10-25 - [Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/) (80% Off) — ended 2026-10-26 19:00
 - 2026-10-14 - [Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/) (Only $199) — Halloween
-- 2026-10-01 - [Alpha Trader Firm Halloween Deal: 50% - 60% Off & Buy 3 Get 1 Free](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/) (50% Off) — Halloween
+- 2026-10-01 - [Alpha Trader Firm Halloween Deal: 50% – 60% Off & Buy 3 Get 1 Free](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-halloween-deal/) (50% Off) — Halloween

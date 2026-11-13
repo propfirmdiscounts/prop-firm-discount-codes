@@ -1,4 +1,4 @@
-# E8 Markets Winter ARC: Up to 50% Off Accounts
+# E8 Markets Winter ARC: Up to 50% Off Accounts with code CHUN
 
 E8 Markets is offering 50% off — discount code **CHUN**.
 

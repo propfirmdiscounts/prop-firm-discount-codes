@@ -15,7 +15,7 @@ The verified Funded Hero discount code is **PFD** — Up to 65% off, works any t
 
 As of 2026-11-13, the biggest Funded Hero offers this month: 70% OFF with code PFD, 70% OFF with code PFD, 65% OFF with code PFD, 62% OFF with code PFD, and 60% OFF with code PFD.
 
-## Current deal: Funded Hero 60% Off $100K Instant Elite - Now $799.60
+## Current deal: Funded Hero 60% Off $100K Instant Elite – Now $799.60 with code PFD
 
 - Published: 2026-11-04
 - Offer ends: Limited time
@@ -52,8 +52,8 @@ It may suit a buyer who had already chosen the $100K Instant Elite or a challeng
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-04 - [Funded Hero 60% Off $100K Instant Elite - Now $799.60](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) (60% Off)
-- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween — ended 2026-10-31
-- 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
-- 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
-- 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)
+- 2026-11-04 - [Funded Hero 60% Off $100K Instant Elite – Now $799.60 with code PFD](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) (60% Off)
+- 2026-10-27 - [Funded Hero 70% Off $100K 3-Step Villain Halloween with code PFD](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) (70% Off) — Halloween — ended 2026-10-31
+- 2026-10-20 - [Funded Hero 62% Off All Accounts Plus BOGO Deal with code PFD](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) (62% Off)
+- 2026-10-13 - [Funded Hero 70% Off All Evaluation Accounts with code PFD](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) (70% Off)
+- 2026-10-01 - [Funded Hero 65% Off Evaluation Accounts with code PFD](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) (65% Off)

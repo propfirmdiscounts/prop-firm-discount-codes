@@ -8,7 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-04-07 | AquaFutures | AquaFutures 60% Off And $50 Accounts Easter Promotion | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/60-percent-off-50-dollar-account-easter-promotion/ |
 | 2026-04-07 | AquaFunded | AquaFunded Easter Promotion: 45% Off All Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-easter-promotion-45-discount/ |
-| 2026-04-06 | Phidias Propfirm | Phidias Propfirm: 90% Off First Month and 60% Off Subsequent Months | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/ |
+| 2026-04-06 | Phidias Propfirm | Phidias Propfirm: 90% Off First Month and 60% Off Subsequent Months with code PFD | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/ |
 | 2026-04-06 | Alpha Capital Group | Alpha Capital Group Easter Promotion: 30% Off All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-30-off-all-accounts-easter/ |
 | 2026-04-05 | Funding Your Trades | Funding Your Trades: 50% Off All Models and Buy 1 Get 2 Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/50-off-buy-1-get-2-all-models/ |
 | 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/easter-2026-prop-firm-coupon-codes/ |
@@ -27,7 +27,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-04-02 | Blueberry Futures | Blueberry Futures 60% Discount on 25K Ascent Challenge | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-60-discount-25k-ascent-challenge/ |
 | 2026-04-02 | SFX Funded | SFX Funded Easter Promo: 80K Instant Funded Account for $88 | Only $88 | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-easter-80k-instant-88/ |
 | 2026-04-02 | AudaCity Capital | AudaCity Capital: 25% Off All Programs Challenge Pricing | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-25-off-all-programs-3/ |
-| 2026-04-02 | FundingTraders | Funding Traders Easter Promotion: 40% Off & Buy 1 Get 1 Free | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/ |
+| 2026-04-02 | FundingTraders | Funding Traders Easter Promotion: 40% Off & Buy 1 Get 1 Free with code PFD | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/funding-traders-easter-40-bogo-promotion/ |
 | 2026-04-02 | WSFunded | WSFunded 40% Easter Discount on Evaluation Accounts ($2.5k-$25k) | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-easter-discount-evaluation-accounts/ |
 | 2026-04-02 | Blueberry Funded | Blueberry Funded 30% Off 2-Step Challenge Entry Cost | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-2-step-challenge/ |
 | 2026-04-02 | Hola Prime | Hola Prime Easter Sale: 40% Off Forex Challenges From $5K to $100K | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-easter-40-percent-discount-forex-challenges/ |

@@ -13,7 +13,7 @@ The verified Phidias Propfirm discount code is **PFD** — Up to 80% off, works 
 
 As of 2026-11-13, the biggest Phidias Propfirm offers this month: 90% OFF with code PFD, 85% OFF with code PFD, 85% OFF with code PFD, 85% OFF with code PFD, and 80% OFF with code PFD.
 
-## Current deal: Phidias Propfirm: 85% Off Every 150K Account
+## Current deal: Phidias Propfirm: 85% Off Every 150K Account with code PFD
 
 - Published: 2026-11-11
 - Offer ends: 2026-11-24
@@ -51,9 +51,9 @@ No. The code reduces the purchase price of the 150K accounts only; their rules a
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-11 - [Phidias Propfirm: 85% Off Every 150K Account](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) (85% Off) — Veterans Day
-- 2026-11-02 - [Phidias Propfirm Up to 80% Off Every Account](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) (80% Off) — ended 2026-11-10
-- 2026-10-25 - [Phidias Propfirm Halloween 90% Off First Month Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) (90% Off) — Halloween — ended 2026-11-01 17:00
-- 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code - $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off) — ended 2026-10-25
-- 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off) — ended 2026-10-25
-- 2026-10-01 - [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) (Only $30)
+- 2026-11-11 - [Phidias Propfirm: 85% Off Every 150K Account with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) (85% Off) — Veterans Day
+- 2026-11-02 - [Phidias Propfirm Up to 80% Off Every Account with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) (80% Off) — ended 2026-11-10
+- 2026-10-25 - [Phidias Propfirm Halloween 90% Off First Month Evaluations with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) (90% Off) — Halloween — ended 2026-11-01 17:00
+- 2026-10-20 - [Phidias Propfirm 85% Off 50K Discount Code – $108 Express with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) (85% Off) — ended 2026-10-25
+- 2026-10-12 - [Phidias Propfirm 85% Off 50K Evaluation Accounts with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) (85% Off) — ended 2026-10-25
+- 2026-10-01 - [Phidias Propfirm $10,000 Challenge Entry for $30 with code PFD](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) (Only $30)

@@ -6,13 +6,13 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-02-20 | Phidias Propfirm | Phidias Propfirm $30 Entry Fee for 10K Drawdown Challenge | Only $30 | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/30-entry-fee-10k-drawdown-challenge-new-year-edition/ |
+| 2026-02-20 | Phidias Propfirm | Phidias Propfirm $30 Entry Fee for 10K Drawdown Challenge with code PFD | Only $30 | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/30-entry-fee-10k-drawdown-challenge-new-year-edition/ |
 | 2026-02-18 | PipFarm | PipFarm Lunar New Year: 60% Off One-Stage Challenges | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-lunar-new-year-60-off/ |
 | 2026-02-17 | FXIFY | FXIFY Chinese New Year Sale: 28% Off Programs + Free Addons | 28% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-chinese-new-year-28-off-free-addons/ |
-| 2026-02-16 | FundingTraders | FundingTraders Lunar New Year: 32% Off All Challenge Fees | 32% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-lunar-new-year-32-off/ |
-| 2026-01-22 | Upcomers | Upcomers New Year Deal: Up to 90% Off + BOGO Free Account | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/ |
+| 2026-02-16 | FundingTraders | FundingTraders Lunar New Year: 32% Off All Challenge Fees with code PFD | 32% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-lunar-new-year-32-off/ |
+| 2026-01-22 | Upcomers | Upcomers New Year Deal: Up to 90% Off + BOGO Free Account with code PFD | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/ |
 | 2026-01-21 | FunderPro | FunderPro New Year Offer: 20% OFF All Challenges & Instant Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-new-year-promotion/ |
-| 2026-01-21 | FundingTraders | FundingTraders New Year Offer: 26% Off + 100% Split & BOGO | 26% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/ |
+| 2026-01-21 | FundingTraders | FundingTraders New Year Offer: 26% Off + 100% Split & BOGO with code PFD | 26% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/ |
 | 2026-01-13 | thePropTrade | thePropTrade New Year Offer: 26% OFF Classic Accounts + 100% Profit Split | 26% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-new-year-promotion-classic-accounts-profit-split/ |
 | 2026-01-13 | FXIFY | FXIFY 2026 Offer: 20% Off All Trading Challenges | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-2026-discount/ |
 | 2026-01-08 | FundYourFX | FundYourFX New Year 2026: 40% OFF 2.5K to 10K + 150% Refund Boost | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-new-year-2026-40-off-small-accounts-2/ |
@@ -24,10 +24,10 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-01-07 | RebelsFunding | RebelsFunding New Year Offer: $1,000 Accounts Starting From €3 | From €3 | Ended | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-new-year-1000-account-offer/ |
 | 2026-01-07 | SFX Funded | SFX Funded New Year Deal: Up to 70% Off Entry Fees + BOGO | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-new-year-deal-70-off-bogo/ |
 | 2026-01-06 | Apex Trader Funding | Apex Trader Funding New Year Special: 90% Off 1st Month + PA Fee Deals | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-new-year-special-90-off/ |
-| 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
+| 2026-01-06 | Blue Guardian Futures | Blue Guardian Futures New Year Offer: 60% OFF All Evaluation Accounts with code PFD | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/ |
 | 2026-01-06 | QT Funded | QT Funded New Year Offer: Free Matching Instant Account on All Models | Free Account | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/ |
 | 2026-01-05 | HyroTrader | HyroTrader New Year 2026 Offer: 20% Off Evaluation Costs | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/ |
-| 2026-01-05 | Earn2Trade | Earn2Trade 2026 New Year Deal: 50% Off Select Evaluations | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/ |
+| 2026-01-05 | Earn2Trade | Earn2Trade 2026 New Year Deal: 50% Off Select Evaluations with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/ |
 | 2026-01-05 | AudaCity Capital | AudaCity Capital Funded: 14% OFF All Programs (New Year Update) | 14% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-new-year-promotion/ |
 | 2026-01-05 | FTUK | FTUK Kickstart 2026: 50% OFF All Accounts + All Add-Ons Included | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/ftuk-kickstart-2026-50-off-add-ons/ |
 | 2026-01-05 | Sure Leverage Funding | Sure Leverage Funding New Year Deal: 30% Off Entry Fees + 10% Larger Account (Over $50K) | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-new-year-30-off-over-50k/ |
@@ -54,7 +54,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-31 | OFP Funding | OFP Funding Start 2026 Offer: 55% OFF All Accounts | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-start-2026-offer/ |
 | 2025-12-31 | FXIFY | FXIFY New Year Offer: 26% OFF All Accounts + Free Add-Ons | 26% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-new-year-promotion/ |
 | 2025-12-30 | Alpha Futures | Alpha Futures New Year Deal: 25% Off All Accounts (Ends Jan 2) | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-new-year-promotion-25-off/ |
-| 2025-12-30 | Phidias Propfirm | Phidias Propfirm New Year Offer: 80% Off OTP and Up to 60% Off Challenge Pricing | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/ |
+| 2025-12-30 | Phidias Propfirm | Phidias Propfirm New Year Offer: 80% Off OTP and Up to 60% Off Challenge Pricing with code PFD | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/ |
 | 2025-12-30 | Tradeify | Tradeify New Year Deal: 50% OFF Lightning Funded 25K & 50K Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/tradeify/tradeify-new-year-promotion/ |
 | 2025-12-30 | FTUK | FTUK Futures New Year Offer: 50% Off All Evaluation Accounts + Free Add-Ons | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/ftuk-new-year-promotion-50-off/ |
 | 2025-12-30 | BrightFunded | BrightFunded New Year Offer: 20% OFF All Challenges + 15% Reward | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-new-year-promotion/ |
@@ -63,9 +63,9 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-30 | Seacrest Markets | Seacrest Markets End Of Year Flash Sale: 50% OFF $5k and $10k Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-end-of-year-flash-sale-50-off-5k-10k/ |
 | 2025-12-30 | AquaFutures | AquaFutures New Year Offer: 60% OFF All Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-new-year-promotion/ |
 | 2025-12-30 | FTMO | FTMO New Year Flash Sale: 20% Off All Challenge Accounts | 20% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-new-year-flash-sale-20-off/ |
-| 2025-12-29 | Blue Guardian | Blue Guardian New Year Sale: 80% OFF 5K & 10K 3-Step + 40% OFF Others | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-new-year-sale-80-percent-off/ |
+| 2025-12-29 | Blue Guardian | Blue Guardian New Year Sale: 80% OFF 5K & 10K 3-Step + 40% OFF Others with code PFD | 80% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-new-year-sale-80-percent-off/ |
 | 2025-12-29 | Alpha Capital Group | Alpha Capital Group New Year Offer: 30% OFF All Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-new-year-30-off-all-accounts/ |
-| 2025-12-29 | Blue Guardian Futures | Blue Guardian Futures New Year Deal: 60% Off All Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/ |
+| 2025-12-29 | Blue Guardian Futures | Blue Guardian Futures New Year Deal: 60% Off All Accounts with code PFD | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/ |
 | 2025-12-29 | AudaCity Capital | AudaCity Capital Funded New Year Offer: 40% OFF All Programs | 40% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-new-year-offer-40-off/ |
 | 2025-12-29 | RebelsFunding | RebelsFunding New Year Offer: 30% OFF All Programs | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-new-year-30-off/ |
 | 2025-12-29 | Hola Prime | 35% Off Forex Pro Accounts at Hola Prime New Year Sale | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/holaprime-new-year-sale-35-off-forex-pro/ |
@@ -80,7 +80,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-22 | Equity Edge | Equity Edge Finish 2025 Offer: 55% OFF Challenges + Free Instant Account | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-finish-2025-offer/ |
 | 2025-12-19 | TX3 Funding | TX3 Funding Year End Savings: 30% Off Pro & One Phase Models | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-pro-one-phase/ |
 | 2025-12-19 | TX3 Funding | TX3 Funding Year End Savings: 35% Off Flex Challenges | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-flex-challenges/ |
-| 2025-12-18 | FundingTraders | FundingTraders New Year Offer: 50% OFF Instant Funded and 2-Step Accounts | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-new-year-deal/ |
+| 2025-12-18 | FundingTraders | FundingTraders New Year Offer: 50% OFF Instant Funded and 2-Step Accounts with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-new-year-deal/ |
 | 2025-12-12 | Alpha Funded | Alpha Trader Firm New Year Sale: 50% OFF All Challenges + Giveaway | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-new-year-50-off-giveaway/ |
 | 2024-12-31 | AquaFunded | AquaFunded New Year Offer: 37.5% OFF + 120% Refund | 37% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-37-5-off-refund/ |
 | 2024-01-24 | AquaFunded | AquaFunded New Year Sale: 20% Off + 125% Refund & 90% Split | 20% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-sale-20-off-125-refund/ |

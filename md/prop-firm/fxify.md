@@ -51,7 +51,7 @@ Follow the Start here link at the end of this article to reach the deal page for
 ## Deals (last 2 months, newest first)
 
 - 2026-11-02 - [FXIFY 25% Off Plus Two Free Add-Ons](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) (25% Off)
-- 2026-10-22 - [FXIFY 35% Off All Other Programs - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off) — Halloween — ended 2026-11-02 00:00
-- 2026-10-22 - [FXIFY 40% Off Instant Funding - Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off) — Halloween — ended 2026-11-02 00:00
+- 2026-10-22 - [FXIFY 35% Off All Other Programs – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off) — Halloween — ended 2026-11-02 00:00
+- 2026-10-22 - [FXIFY 40% Off Instant Funding – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off) — Halloween — ended 2026-11-02 00:00
 - 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off) — ended 2026-11-02
 - 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)

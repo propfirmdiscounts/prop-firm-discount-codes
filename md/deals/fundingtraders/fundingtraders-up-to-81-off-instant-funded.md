@@ -1,4 +1,4 @@
-# FundingTraders: Up to 81% Off Instant Funded
+# FundingTraders: Up to 81% Off Instant Funded with code PFD
 
 FundingTraders is offering 81% off — discount code **PFD**.
 

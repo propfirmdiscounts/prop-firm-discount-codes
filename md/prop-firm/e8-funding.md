@@ -15,7 +15,7 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 
 As of 2026-11-13, the biggest E8 Markets offers this month: 50% OFF with code CHUN, 50% OFF with code CHUN, and 50% OFF with code CHUN.
 
-## Current deal: E8 Markets Winter ARC: Up to 50% Off Accounts
+## Current deal: E8 Markets Winter ARC: Up to 50% Off Accounts with code CHUN
 
 - Published: 2026-10-30
 - Offer ends: 2026-11-25
@@ -52,6 +52,6 @@ No. The promotion only reduces entry cost and does not change trading rules, dra
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-30 - [E8 Markets Winter ARC: Up to 50% Off Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) (50% Off)
-- 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off) — ended 2026-10-20
-- 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off) — ended 2026-10-25
+- 2026-10-30 - [E8 Markets Winter ARC: Up to 50% Off Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) (50% Off)
+- 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off) — ended 2026-10-20
+- 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off) — ended 2026-10-25

@@ -15,7 +15,7 @@ The verified Instant Funding discount code is **PFD** — Up to 20% off, works a
 
 As of 2026-11-13, the biggest Instant Funding offers this month: 40% OFF with code LIGHT40, 40% OFF with code TREAT40, 40% OFF with code ALL40, 40% OFF with code LITE40, and 35% OFF with code EVOLVE35.
 
-## Most recent deal (ended): Instant Funding 40% Off All Lite Accounts - Diwali Offer
+## Most recent deal (ended): Instant Funding 40% Off All Lite Accounts – Diwali Offer
 
 - Published: 2026-11-04
 - Offer ends: 2026-11-09 18:59 (ended)
@@ -48,11 +48,11 @@ It may suit a buyer who had already chosen a Lite account and was comparing upfr
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-04 - [Instant Funding 40% Off All Lite Accounts - Diwali Offer](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) (40% Off) — Diwali — ended 2026-11-09 18:59
+- 2026-11-04 - [Instant Funding 40% Off All Lite Accounts – Diwali Offer](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) (40% Off) — Diwali — ended 2026-11-09 18:59
 - 2026-11-02 - [Instant Funding 30% Off Everything Plus Add-Ons](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/) (30% Off) — Halloween — ended 2026-11-03
 - 2026-11-02 - [Instant Funding 40% Off IF Pro and IF Lite](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/) (40% Off) — Halloween — ended 2026-11-03
 - 2026-10-26 - [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) (30% Off) — Halloween — ended 2026-11-01
-- 2026-10-20 - [Instant Funding 40% Off Everything - Discount Code](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) (40% Off) — ended 2026-10-20
+- 2026-10-20 - [Instant Funding 40% Off Everything – Discount Code](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) (40% Off) — ended 2026-10-20
 - 2026-10-16 - [Instant Funding 35% Off Evolve Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) (35% Off)
 - 2026-10-13 - [Instant Funding: 35% Off Pro and Lite Evaluation Accounts](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) (35% Off) — ended 2026-10-15
 - 2026-10-02 - [Instant Funding 40% Off Micro Lite Accounts Up to $25K](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) (40% Off)

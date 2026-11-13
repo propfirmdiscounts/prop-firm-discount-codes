@@ -53,4 +53,4 @@ Follow the Start here link at the end of this article to reach the deal page for
 - 2026-11-02 - [Goat Funded Trader 40% Off Plus Buy One Get One Free](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) (40% Off)
 - 2026-10-27 - [Goat Funded Trader 8% Off Prediction Market Evaluations](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) (8% Off)
 - 2026-10-26 - [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) (50% Off) — Halloween
-- 2026-10-22 - [Goat Funded Trader 50% Off $100K Account - Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off) — ended 2026-10-25
+- 2026-10-22 - [Goat Funded Trader 50% Off $100K Account – Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) (50% Off) — ended 2026-10-25

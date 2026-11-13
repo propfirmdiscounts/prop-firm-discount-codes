@@ -15,7 +15,7 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 
 As of 2026-11-13, the biggest Upcomers offers this month: 93% OFF with code PFD and 90% OFF with code PFD.
 
-## Current deal: Upcomers Black Friday Vol. 2: Up to 93% Off
+## Current deal: Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD
 
 - Published: 2026-11-11
 - Offer ends: Limited time
@@ -53,5 +53,5 @@ The offer material's own footer states: simulation only, no real capital involve
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-11 - [Upcomers Black Friday Vol. 2: Up to 93% Off](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) (93% Off) — Black Friday
-- 2026-11-06 - [Upcomers Black Friday: $100K Thunderbolt Challenge $99](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) (90% Off) — Black Friday
+- 2026-11-11 - [Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) (93% Off) — Black Friday
+- 2026-11-06 - [Upcomers Black Friday: $100K Thunderbolt Challenge $99 with code PFD](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) (90% Off) — Black Friday

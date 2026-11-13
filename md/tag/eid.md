@@ -8,8 +8,8 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-05-27 | Forex Funds Flow | Forex Funds Flow 15% Off Evaluation and Instant Accounts Eid Promotion | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-eid-promotion/ |
 | 2026-05-26 | AudaCity Capital | AudaCity Capital 35% Off Evaluation Challenge Pricing to Lower Account Costs | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-eid-al-fitr/ |
-| 2026-03-21 | Funded Hero | Funded Hero 65% Off All Evaluation Accounts (Eid Mubarak) | 65% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/ |
-| 2026-03-21 | Funded Hero | Funded Hero 65% Off All Accounts For Eid Al-Fitr | 65% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/ |
+| 2026-03-21 | Funded Hero | Funded Hero 65% Off All Evaluation Accounts (Eid Mubarak) with code PFD | 65% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-eid-mubarak/ |
+| 2026-03-21 | Funded Hero | Funded Hero 65% Off All Accounts For Eid Al-Fitr with code PFD | 65% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/65-off-all-accounts-eid-al-fitr/ |
 | 2026-03-20 | PipFarm | PipFarm 33% Off All Challenges and 1% Swap-Free Add-on Structure | 33% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-33-off-all-challenges-eid-al-fitr/ |
 | 2026-03-20 | Funded Trading Plus | Funded Trading Plus (FT+) 15% Off Instant Funding Accounts for Eid Al-Fitr | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-15-off-instant-funding-eid-al-fitr-2026/ |
 | 2026-03-20 | Funded Trading Plus | Funded Trading Plus (FT+) 20% Off 1-Step and 2-Step Evaluation Accounts for Eid Al-Fitr | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-20-off-eid-al-fitr-2026/ |

@@ -50,5 +50,5 @@ No. It reduces the entry price of the Ability 2-Step only; the challenge rules a
 
 - 2026-11-12 - [AudaCity Capital: 35% Off Ability 2-Step](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step-2/) (35% Off)
 - 2026-11-04 - [AudaCity Capital 20% Off Ability One and FTP Instant Funding](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/) (20% Off)
-- 2026-11-03 - [AudaCity Capital 14% Off All Programs - Entry Fees Cut](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/) (14% Off)
+- 2026-11-03 - [AudaCity Capital 14% Off All Programs – Entry Fees Cut](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/) (14% Off)
 - 2026-10-16 - [AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/) (35% Off) — Halloween

@@ -1,4 +1,4 @@
-# Earn2Trade: 50% Off All Evaluations, Ladder Removed
+# Earn2Trade: 50% Off All Evaluations, Ladder Removed with code PFD
 
 Earn2Trade is offering 50% off — discount code **PFD**.
 

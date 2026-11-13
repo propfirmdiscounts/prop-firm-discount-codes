@@ -29,6 +29,6 @@ As of 2026-11-13, the biggest Atlas Funded offers this month: 45% OFF with code 
 - 2026-11-10 - [Atlas Funded: 40% Off Evaluations From $25.80](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/) (40% Off)
 - 2026-11-02 - [Atlas Funded 40% Off Futures Evaluations](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) (40% Off) — ended 2026-11-09
 - 2026-10-26 - [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) (45% Off) — Halloween
-- 2026-10-21 - [Atlas Funded 45% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off) — Halloween
-- 2026-10-15 - [Atlas Funded 40% Off Challenges - Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — Halloween — ended 2026-10-18
-- 2026-10-07 - [Atlas Funded 45% Off All Account Sizes - New Era Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) (45% Off)
+- 2026-10-21 - [Atlas Funded 45% Off All Challenges – Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) (45% Off) — Halloween
+- 2026-10-15 - [Atlas Funded 40% Off Challenges – Halloween Flash Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) (40% Off) — Halloween — ended 2026-10-18
+- 2026-10-07 - [Atlas Funded 45% Off All Account Sizes – New Era Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) (45% Off)

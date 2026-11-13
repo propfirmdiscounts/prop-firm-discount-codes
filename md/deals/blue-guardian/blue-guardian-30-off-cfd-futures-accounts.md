@@ -1,4 +1,4 @@
-# Blue Guardian 30% Off CFD and Futures Accounts From $54
+# Blue Guardian 30% Off CFD and Futures Accounts From $54 with code PFD
 
 Blue Guardian is offering 30% off — discount code **PFD**.
 

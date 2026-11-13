@@ -11,7 +11,7 @@ The newest Tradeify discount code is **MILK** — 50% off (October 20, 2026). Th
 
 As of 2026-11-13, the biggest Tradeify offers this month: 50% OFF with code MILK.
 
-## Current deal: Tradeify 50% Off All FX Accounts - Any Size
+## Current deal: Tradeify 50% Off All FX Accounts – Any Size
 
 - Published: 2026-10-20
 - Offer ends: Limited time
@@ -48,4 +48,4 @@ Buyers who want a Futures account should be cautious because Futures accounts ar
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-20 - [Tradeify 50% Off All FX Accounts - Any Size](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/) (50% Off)
+- 2026-10-20 - [Tradeify 50% Off All FX Accounts – Any Size](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/) (50% Off)

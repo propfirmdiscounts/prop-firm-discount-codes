@@ -46,6 +46,6 @@ No. The discount lowers purchase pricing only. Challenge rules, drawdown limits 
 
 - 2026-11-09 - [BrightFunded Friday 13th: 30% Off CFD Challenges](https://propfirmdiscount.com/deals/bright-funded/brightfunded-friday-13th-30-off-cfd-challenges/) (30% Off)
 - 2026-11-02 - [BrightFunded 50% Off BrightPlus BrightCore](https://propfirmdiscount.com/deals/bright-funded/brightfunded-50-percent-off-futures-challenges/) (50% Off)
-- 2026-10-21 - [BrightFunded 30% Off All Challenges - Halloween Deal](https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/) (30% Off) — Halloween
+- 2026-10-21 - [BrightFunded 30% Off All Challenges – Halloween Deal](https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/) (30% Off) — Halloween
 - 2026-10-14 - [BrightFunded 25% Off All Challenges & Free Account Promo](https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/) (25% Off) — ended 2026-10-20
 - 2026-10-09 - [BrightFunded Cuts 40% Off $100K and $200K 1-Step Challenges](https://propfirmdiscount.com/deals/bright-funded/brightfunded-40-off-100k-200k-1-step/) (40% Off) — ended 2026-10-11

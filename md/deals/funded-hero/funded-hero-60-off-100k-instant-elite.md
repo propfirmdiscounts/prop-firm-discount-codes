@@ -1,4 +1,4 @@
-# Funded Hero 60% Off $100K Instant Elite – Now $799.60
+# Funded Hero 60% Off $100K Instant Elite – Now $799.60 with code PFD
 
 Funded Hero is offering 60% off — discount code **PFD**.
 

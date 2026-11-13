@@ -9,7 +9,7 @@ No live discount code for Klein Funding right now — no new deals in the last 2
 - Activate: https://propfirmdiscount.com/go/kleinfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/klein-funding/
 
-## Most recent deal (ended): Klein Funding Valentine's Day Deal: 5% Off Standard Accounts + Free Evaluation Included
+## Most recent deal (ended): Klein Funding Valentine’s Day Deal: 5% Off Standard Accounts + Free Evaluation Included
 
 - Published: 2026-02-14
 - Offer ends: Ended

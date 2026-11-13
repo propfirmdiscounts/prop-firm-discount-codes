@@ -1,4 +1,4 @@
-# Doji Funding Election Day 60% Off Challenges
+# Doji Funding Election Day 60% Off Challenges with code PFD
 
 Doji Funding was offering 60% off.
 

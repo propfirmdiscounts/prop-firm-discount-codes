@@ -1,4 +1,4 @@
-# Lucid Trading 35% Off All Plans – Concrete Day Sale
+# Lucid Trading 35% Off All Plans – Concrete Day Sale with code PFD
 
 Lucid Trading was offering 35% off.
 

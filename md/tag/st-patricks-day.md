@@ -7,8 +7,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
 | 2026-03-19 | Funded Elite | Funded Elite: 25% Off Evaluation Accounts and 95% Profit Split | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-25-off-95-split-st-patricks-day/ |
-| 2026-03-19 | Funded Hero | Funded Hero St. Patrick’s Day: 60% Off All Evaluation Accounts | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/ |
-| 2026-03-17 | FundingTraders | FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/ |
+| 2026-03-19 | Funded Hero | Funded Hero St. Patrick’s Day: 60% Off All Evaluation Accounts with code PFD | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-percent-off-st-patricks-day/ |
+| 2026-03-17 | FundingTraders | FundingTraders 40% Off Entry Fee, 100% Profit Split & 14 Days Payout (88 Uses) with code PFD | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-40-percent-discount-100-profit-split-88-uses/ |
 | 2026-03-17 | Trading Funds | Trading Funds 40% Off Standard Accounts And $9 Flex Challenge Price | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradingfunds/trading-funds-40-off-standard-accounts-9-flex-challenge/ |
 | 2026-03-17 | Top One Trader | Top One Trader St. Patrick’s Day Promotion: Up to 77.7% Off All Accounts | 77% OFF | Ended | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-st-patricks-day-discount/ |
 | 2026-03-17 | Blueberry Funded | Blueberry Funded 25% Off 1-Step Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-1-step/ |
@@ -16,9 +16,9 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-17 | Atmos Funded | Atmos Funded 35% and 25% Off St. Patrick’s Day Flash Sale | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-35-25-off-st-patricks-day-flash-sale/ |
 | 2026-03-17 | Dominion Funding | Dominion Funding 20% Off Everything Upfront Entry Cost – St. Patrick’s Day Offer | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-st-patricks-day-promotion/ |
 | 2026-03-17 | Funded Trading Plus | Funded Trading Plus 30% Off Up To $100k Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-30-off-100k-st-patricks-day/ |
-| 2026-03-17 | FundingTraders | FundingTraders St. Patrick’s Day Promotion: 35% Off Evaluation Cost | 35% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-st-patricks-day-35-off/ |
+| 2026-03-17 | FundingTraders | FundingTraders St. Patrick’s Day Promotion: 35% Off Evaluation Cost with code PFD | 35% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-st-patricks-day-35-off/ |
 | 2026-03-17 | FunderPro | FunderPro: 25% Off $50K-$200K Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-25-percent-discount-50k-200k-challenges/ |
-| 2026-03-17 | Funded Hero | Funded Hero 50% Off Evaluation Accounts and Giveaway Entry | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-giveaway-entry/ |
+| 2026-03-17 | Funded Hero | Funded Hero 50% Off Evaluation Accounts and Giveaway Entry with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-50-off-giveaway-entry/ |
 | 2026-03-16 | AquaFutures | AquaFutures 60% Off All Accounts: Patrick’s Day Sale Structure | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-60-off-all-accounts-patricks-day/ |
 | 2026-03-16 | AquaFunded | AquaFunded: 50% Off Instant Funded, 40% Off Challenges and 150% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-50-off-instant-40-off-challenges-refund/ |
 | 2026-03-16 | FTUK | FTUK 40% Off All Accounts For Patrick’s Day | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ftuk/40-off-all-accounts-patricks-day/ |

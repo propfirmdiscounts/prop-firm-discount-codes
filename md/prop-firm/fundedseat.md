@@ -13,7 +13,7 @@ The verified FundedSeat discount code is **PFD** — Up to 65% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts
+## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts with code PFD
 
 - Published: 2026-09-03
 - Offer ends: Ended

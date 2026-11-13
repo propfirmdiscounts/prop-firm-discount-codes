@@ -52,7 +52,7 @@ No. It reduces entry cost only; challenge rules and trading risk are unchanged.
 - 2026-11-11 - [CK PropFirm Black Friday: 80% Off All Challenges](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) (80% Off) — Black Friday
 - 2026-11-06 - [CK PropFirm Diwali 80% Off All Challenge Types](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) (80% Off) — Diwali — ended 2026-11-11
 - 2026-11-02 - [CK PropFirm 75% Off All Challenge Accounts](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) (75% Off)
-- 2026-10-23 - [CK PropFirm 80% Off Challenges - Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) (80% Off) — ended 2026-10-24
+- 2026-10-23 - [CK PropFirm 80% Off Challenges – Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) (80% Off) — ended 2026-10-24
 - 2026-10-20 - [CK PropFirm 80% Off Challenges: $100K Account for $144](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/) (80% Off)
 - 2026-10-16 - [CK PropFirm 75% Off All Accounts Upfront Fee](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/) (75% Off)
 - 2026-10-14 - [CK Capital 75% Off All Challenge Accounts and 10% Off Resets](https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/) (75% Off) — ended 2026-10-21

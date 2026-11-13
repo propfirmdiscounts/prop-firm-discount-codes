@@ -1,4 +1,4 @@
-# Upcomers Black Friday Vol. 2: Up to 93% Off
+# Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD
 
 Upcomers is offering 93% off — discount code **PFD**.
 

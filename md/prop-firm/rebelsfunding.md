@@ -11,7 +11,7 @@ No live discount code for RebelsFunding right now — newest deals and offers ar
 
 As of 2026-11-13, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code 1STEP19, 70% OFF with code FORTHREE, and 70% OFF with code FORNINE.
 
-## Most recent deal (ended): RebelsFunding: $5,000 Program for €9 - 76% Off
+## Most recent deal (ended): RebelsFunding: $5,000 Program for €9 – 76% Off
 
 - Published: 2026-11-10
 - Offer ends: 2026-11-12 (ended)
@@ -43,7 +43,7 @@ No. It reduces the entry fee only. The program's rules stay in place and trading
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-10 - [RebelsFunding: $5,000 Program for €9 - 76% Off](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/) (76% Off) — ended 2026-11-12
+- 2026-11-10 - [RebelsFunding: $5,000 Program for €9 – 76% Off](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/) (76% Off) — ended 2026-11-12
 - 2026-11-03 - [RebelsFunding 72% Off $5,000 1-Step Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/) (72% Off) — ended 2026-11-05
 - 2026-10-27 - [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) (70% Off) — ended 2026-10-29
 - 2026-10-20 - [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) (70% Off) — ended 2026-10-22

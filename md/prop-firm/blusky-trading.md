@@ -11,7 +11,7 @@ No live discount code for BluSky Trading right now — newest deals and offers a
 
 As of 2026-11-13, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
 
-## Most recent deal (ended): BluSky Trading: $120 Off 100K Propel - $100 Total
+## Most recent deal (ended): BluSky Trading: $120 Off 100K Propel – $100 Total
 
 - Published: 2026-11-11
 - Offer ends: 2026-11-11 23:59 (ended)
@@ -44,6 +44,6 @@ No. The code reduces the plan's purchase price only; the evaluation itself and t
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-11 - [BluSky Trading: $120 Off 100K Propel - $100 Total](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/) ($120 Off) — Veterans Day — ended 2026-11-11 23:59
+- 2026-11-11 - [BluSky Trading: $120 Off 100K Propel – $100 Total](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/) ($120 Off) — Veterans Day — ended 2026-11-11 23:59
 - 2026-10-26 - [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) ($10-$120 Off) — Halloween
 - 2026-10-02 - [BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/) (30% Off)

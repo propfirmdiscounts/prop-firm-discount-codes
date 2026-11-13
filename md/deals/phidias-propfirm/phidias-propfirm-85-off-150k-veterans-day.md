@@ -1,4 +1,4 @@
-# Phidias Propfirm: 85% Off Every 150K Account
+# Phidias Propfirm: 85% Off Every 150K Account with code PFD
 
 Phidias Propfirm is offering 85% off — discount code **PFD**.
 

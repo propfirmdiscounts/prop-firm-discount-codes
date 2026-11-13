@@ -15,7 +15,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 35% off, works any
 
 As of 2026-11-13, the biggest Blue Guardian offers this month: 50% OFF with code PFD, 35% OFF with code PFD, 30% OFF with code PFD, and 25% OFF with code PFD.
 
-## Current deal: Blue Guardian 30% Off CFD and Futures Accounts From $54
+## Current deal: Blue Guardian 30% Off CFD and Futures Accounts From $54 with code PFD
 
 - Published: 2026-11-04
 - Offer ends: Limited time
@@ -52,7 +52,7 @@ It may suit a buyer who had already chosen a CFD or Futures account and was comp
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-04 - [Blue Guardian 30% Off CFD and Futures Accounts From $54](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) (30% Off)
-- 2026-10-20 - [Blue Guardian 25% off Reserve discount code](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) (25% Off) — Halloween
-- 2026-10-12 - [Blue Guardian: 35% Off All Accounts Plus 200% Refund](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) (35% Off) — Halloween
-- 2026-10-02 - [Blue Guardian: 50% Off Futures Accounts Starting at $59](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) (50% Off) — ended 2026-10-04
+- 2026-11-04 - [Blue Guardian 30% Off CFD and Futures Accounts From $54 with code PFD](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) (30% Off)
+- 2026-10-20 - [Blue Guardian 25% off Reserve discount code with code PFD](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) (25% Off) — Halloween
+- 2026-10-12 - [Blue Guardian: 35% Off All Accounts Plus 200% Refund with code PFD](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) (35% Off) — Halloween
+- 2026-10-02 - [Blue Guardian: 50% Off Futures Accounts Starting at $59 with code PFD](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) (50% Off) — ended 2026-10-04
