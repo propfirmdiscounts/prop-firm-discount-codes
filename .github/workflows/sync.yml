@@ -237,7 +237,7 @@ jobs:
           git push
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (propfirmdiscountcode/prop-firm-discount-codes): same content as
+        # HF dataset mirror (prop-firm-discount/prop-firm-discount): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
         # commit so HF never gets content that failed to land here first, and
         # never blocks GitHub sync or downstream site deploys if HF fails.
@@ -245,8 +245,9 @@ jobs:
         continue-on-error: true
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_NAMESPACE: propfirmdiscountcode
+          HF_NAMESPACE: prop-firm-discount
           REPO_NAME: prop-firm-discount-codes
+          HF_REPO_NAME: prop-firm-discount
         if: env.HF_TOKEN != ''
         run: |
           set -euo pipefail
@@ -255,7 +256,7 @@ jobs:
           import os
           from huggingface_hub import HfApi
           api = HfApi(token=os.environ['HF_TOKEN'])
-          repo = f"{os.environ['HF_NAMESPACE']}/{os.environ['REPO_NAME']}"
+          repo = f"{os.environ['HF_NAMESPACE']}/{os.environ['HF_REPO_NAME']}"
           for folder in ('datasets', 'md'):
               api.upload_folder(folder_path=folder, path_in_repo=folder,
                                 repo_id=repo, repo_type='dataset',
