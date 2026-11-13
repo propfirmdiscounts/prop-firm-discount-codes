@@ -17,9 +17,9 @@ As of 2026-11-12, the biggest prop firm offers this month: 93% OFF with code PFD
 | 5 | RebelsFunding | 5KFOR9 | 76% | Ends Nov 12, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
 | 6 | Elite Trader Funding | NOV75 | 75% | Ends Nov 13, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 7 | Alpha Funded | BIG70 | 70% | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
-| 8 | Funded Hero | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 9 | FundYourFX | VET60 | 60% | Ends Nov 16, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 10 | OFP Funding | 55OFF | 55% | Ends Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
+| 8 | Bullwaves Prime | EARLYBF65 | 65% | Ends Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
+| 9 | Funded Hero | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 10 | TradeDay | SALE60 | 60% | Limited time | https://propfirmdiscount.com/prop-firm/tradeday/ |
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
