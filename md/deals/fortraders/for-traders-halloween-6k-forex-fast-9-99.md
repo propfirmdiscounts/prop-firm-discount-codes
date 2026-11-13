@@ -13,7 +13,8 @@ For Traders is offering 79.6% off — discount code **BOO6K**.
 - Code: BOO6K
 - Scope: Forex Fast, 1-Step, $6K account, MetaTrader 5
 - Deal: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
-- Verified standing exclusive code: VGYCKXLTY9 (works any time; the live rate is always on the firm page)
+
+Apply code VGYCKXLTY9 at checkout for up to 15% off any For Traders challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

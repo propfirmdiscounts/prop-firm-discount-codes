@@ -13,7 +13,8 @@ Dominion Funding is offering 40% off — discount code **BF2026**.
 - Code: BF2026
 - Scope: All evaluations, every program, every platform
 - Deal: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
-- Verified standing exclusive code: PFD5PC (works any time; the live rate is always on the firm page)
+
+Apply code PFD5PC at checkout for up to 5% off any Dominion Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

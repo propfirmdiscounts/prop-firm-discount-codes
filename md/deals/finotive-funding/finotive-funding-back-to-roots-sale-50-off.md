@@ -12,7 +12,8 @@ Finotive Funding was offering 50% off.
 - Offer: 50% Off
 - Scope: All accounts - Instant, Pro, Challenge; every account size
 - Deal: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/
-- Verified standing exclusive code: JACKICHUN (works any time; the live rate is always on the firm page)
+
+Apply code JACKICHUN at checkout for up to 25% off any Finotive Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

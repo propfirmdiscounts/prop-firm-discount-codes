@@ -12,7 +12,8 @@ thePropTrade was offering 20% off.
 - Offer: 20% Off
 - Scope: any programme, any account size, first challenge, returning buyer, one code per order
 - Deal: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 20% off any thePropTrade challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

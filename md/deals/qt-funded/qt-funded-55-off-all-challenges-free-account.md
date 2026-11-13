@@ -13,7 +13,8 @@ QT Funded is offering 55% off — discount code **QT55**.
 - Code: QT55
 - Scope: All Challenges
 - Deal: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 50% off any QT Funded challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

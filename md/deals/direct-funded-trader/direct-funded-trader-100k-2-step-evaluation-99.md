@@ -13,7 +13,8 @@ Direct Funded Trader is offering $99 — discount code **DFT99**.
 - Code: DFT99
 - Scope: The $100K 2-Step Evaluation account
 - Deal: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 50% off any Direct Funded Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

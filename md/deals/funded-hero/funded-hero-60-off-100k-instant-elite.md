@@ -13,7 +13,6 @@ Funded Hero is offering 60% off — discount code **PFD**.
 - Code: PFD
 - Scope: Instant Elite, $100K account, all challenges, instant accounts
 - Deal: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

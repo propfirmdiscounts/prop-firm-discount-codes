@@ -13,7 +13,8 @@ Finotive Futures is offering 60% off — discount code **NEW**.
 - Code: NEW
 - Scope: Instant Accounts, One Step Accounts - New Customers
 - Deal: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/
-- Verified standing exclusive code: PFDDEAL (works any time; the live rate is always on the firm page)
+
+Apply code PFDDEAL at checkout for up to 25% off any Finotive Futures challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

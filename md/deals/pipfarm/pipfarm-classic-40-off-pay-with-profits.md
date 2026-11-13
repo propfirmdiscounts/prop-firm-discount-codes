@@ -13,7 +13,8 @@ PipFarm is offering 40% off — discount code **PROFIT**.
 - Code: PROFIT
 - Scope: Classic Challenges, Pay with Profits
 - Deal: https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/
-- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
+
+Apply code PFDC at checkout for up to 30% off any PipFarm challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

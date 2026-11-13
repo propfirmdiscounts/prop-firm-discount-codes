@@ -12,7 +12,8 @@ Instant Funding was offering 40% off.
 - Offer: 40% Off
 - Scope: Lite accounts, Instant Funding Lite, IF Micro Lite, One-Phase Lite
 - Deal: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 20% off any Instant Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

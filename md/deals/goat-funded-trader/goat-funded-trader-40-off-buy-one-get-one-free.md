@@ -13,7 +13,8 @@ Goat Funded Trader is offering 40% off — discount code **BOGO40**.
 - Code: BOGO40
 - Scope: Challenge accounts, excluding Instant Daily
 - Deal: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/
-- Verified standing exclusive code: CSV (works any time; the live rate is always on the firm page)
+
+Apply code CSV at checkout for up to 35% off any Goat Funded Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

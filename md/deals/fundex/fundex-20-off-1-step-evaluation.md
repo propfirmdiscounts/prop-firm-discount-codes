@@ -12,7 +12,8 @@ Fundex was offering 20% off.
 - Offer: 20% Off
 - Scope: 1-Step Evaluation, 100K Account, Coupon
 - Deal: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 5% off any Fundex challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

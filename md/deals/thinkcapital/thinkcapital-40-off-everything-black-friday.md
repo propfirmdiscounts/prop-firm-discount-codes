@@ -13,7 +13,8 @@ ThinkCapital is offering 40% off — discount code **BF26**.
 - Code: BF26
 - Scope: All Challenges
 - Deal: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 10% off any ThinkCapital challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

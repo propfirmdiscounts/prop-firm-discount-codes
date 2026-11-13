@@ -13,7 +13,6 @@ FundingTraders is offering 81% off — discount code **PFD**.
 - Code: PFD
 - Scope: Instant Funded
 - Deal: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

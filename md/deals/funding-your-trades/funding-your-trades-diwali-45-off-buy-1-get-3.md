@@ -12,7 +12,8 @@ Funding Your Trades was offering 45% off.
 - Offer: 45% Off
 - Scope: Challenges - buy 1, trade 3 accounts
 - Deal: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 2% off any Funding Your Trades challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

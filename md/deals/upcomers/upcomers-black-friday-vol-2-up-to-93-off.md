@@ -13,7 +13,6 @@ Upcomers is offering 93% off — discount code **PFD**.
 - Code: PFD
 - Scope: Accounts, 50K 2-Step Odyssey
 - Deal: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

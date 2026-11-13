@@ -13,7 +13,6 @@ E8 Markets is offering 50% off — discount code **CHUN**.
 - Code: CHUN
 - Scope: Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, challenge fee, evaluation fee
 - Deal: https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/
-- Verified standing exclusive code: CHUN (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

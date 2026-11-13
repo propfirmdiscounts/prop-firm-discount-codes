@@ -13,7 +13,8 @@ CK PropFirm is offering 80% off — discount code **BF80**.
 - Code: BF80
 - Scope: All Challenges
 - Deal: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 10% off any CK PropFirm challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

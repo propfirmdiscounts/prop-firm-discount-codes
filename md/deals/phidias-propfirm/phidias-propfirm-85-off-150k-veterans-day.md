@@ -13,7 +13,6 @@ Phidias Propfirm is offering 85% off — discount code **PFD**.
 - Code: PFD
 - Scope: 150K One-Time Payment Accounts
 - Deal: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

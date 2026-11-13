@@ -13,7 +13,8 @@ AquaFunded is offering 25% off — discount code **HONOR**.
 - Code: HONOR
 - Scope: Instant, One Step and Two Step accounts, $2.5K to $400K; 150% refund on CFD accounts
 - Deal: https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 35% off any AquaFunded challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

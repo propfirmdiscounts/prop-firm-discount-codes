@@ -13,7 +13,8 @@ Funded Elite is offering 30% off — discount code **ATOM30**.
 - Code: ATOM30
 - Scope: Atom accounts
 - Deal: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
-- Verified standing exclusive code: AFF1864062 (works any time; the live rate is always on the firm page)
+
+Apply code AFF1864062 at checkout for up to 10% off any Funded Elite challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

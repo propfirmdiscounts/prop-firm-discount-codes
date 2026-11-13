@@ -12,7 +12,6 @@ Bulenox was offering 91% off.
 - Offer: 91% Off
 - Scope: Option 1 Accounts, 25K to 150K
 - Deal: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

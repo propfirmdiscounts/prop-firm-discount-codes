@@ -13,7 +13,8 @@ FXIFY is offering 25% off — discount code **FUNDED25**.
 - Code: FUNDED25
 - Scope: Accounts excluding Instant Funding Lite; add-ons vary by program
 - Deal: https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/
-- Verified standing exclusive code: FXIFY2WRIVW (works any time; the live rate is always on the firm page)
+
+Apply code FXIFY2WRIVW at checkout for up to 10% off any FXIFY challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

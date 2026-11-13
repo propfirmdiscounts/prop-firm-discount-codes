@@ -12,7 +12,6 @@ Doji Funding was offering 60% off.
 - Offer: 60% Off
 - Scope: 1-Step and 2-Step challenges
 - Deal: https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

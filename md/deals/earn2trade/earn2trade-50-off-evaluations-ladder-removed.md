@@ -13,7 +13,6 @@ Earn2Trade is offering 50% off — discount code **PFD**.
 - Code: PFD
 - Scope: All Evaluations
 - Deal: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

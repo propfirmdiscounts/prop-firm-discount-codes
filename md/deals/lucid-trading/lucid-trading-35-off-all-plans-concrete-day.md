@@ -12,7 +12,6 @@ Lucid Trading was offering 35% off.
 - Offer: 35% Off
 - Scope: All plans; bundle of 5 accounts at 40% off
 - Deal: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

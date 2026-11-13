@@ -13,7 +13,8 @@ FundedNext is offering 30% off — discount code **NOVINS**.
 - Code: NOVINS
 - Scope: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
 - Deal: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
-- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
+
+Apply code PFDC at checkout for up to 20% off any FundedNext challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

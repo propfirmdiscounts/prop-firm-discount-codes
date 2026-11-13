@@ -13,7 +13,6 @@ Top One Futures is offering 65% off — discount code **PFD**.
 - Code: PFD
 - Scope: Bundles of 5+ accounts, Ignite Instant Funding, Elite Daily, Elite Access activation fees
 - Deal: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

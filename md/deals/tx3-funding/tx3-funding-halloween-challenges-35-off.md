@@ -12,7 +12,8 @@ TX3 Funding was offering 35% off.
 - Offer: 35% Off
 - Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K accounts
 - Deal: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
-- Verified standing exclusive code: PFDC (works any time; the live rate is always on the firm page)
+
+Apply code PFDC at checkout for up to 50% off any TX3 Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

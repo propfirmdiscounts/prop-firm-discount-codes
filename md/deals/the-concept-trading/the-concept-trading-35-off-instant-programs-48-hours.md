@@ -1,16 +1,15 @@
 # The Concept Trading: 35% Off Instant Programs
 
-The Concept Trading is offering 35% off — discount code **FT26**.
+The Concept Trading was offering 35% off.
 
 > The Concept Trading takes 35% off Instant Programs for 48 hours, Nov 12-13 AEST. Foundation and Starter Models are excluded from the offer.
 
 - Published: 2026-11-11
-- Offer ends: 2026-11-13 08:59
+- Offer ends: 2026-11-13 08:59 (ended)
 - Prop firm: The Concept Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 - Summary: The Concept Trading is taking 35% off Instant Programs for 48 hours, from 12 November to 13 November AEST, with Foundation and Starter Models excluded from the offer.
 - Offer: 35% Off
-- Code: FT26
 - Scope: Instant Programs
 - Deal: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/
 

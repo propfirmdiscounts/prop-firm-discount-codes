@@ -13,7 +13,6 @@ Blue Guardian is offering 30% off — discount code **PFD**.
 - Code: PFD
 - Scope: CFD accounts, Futures accounts, Futures from $54, reserve plan, CFD bundles
 - Deal: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

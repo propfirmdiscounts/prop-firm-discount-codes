@@ -12,7 +12,8 @@ Forexive is offering $5.
 - Offer: $5
 - Scope: 1-Step Access accounts, 5K to 200K
 - Deal: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
-- Verified standing exclusive code: WHCTXQHRIG (works any time; the live rate is always on the firm page)
+
+Apply code WHCTXQHRIG at checkout for up to 30% off any Forexive challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

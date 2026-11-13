@@ -13,7 +13,8 @@ Phoenix Trader Funding is offering 40% off — discount code **CUP40**.
 - Code: CUP40
 - Scope: Daily Starter, 25K account, TFeed
 - Deal: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 40% off any Phoenix Trader Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -13,7 +13,8 @@ Atlas Funded is offering 40% off — discount code **NOV40**.
 - Code: NOV40
 - Scope: Evaluations, 2 Step, Instant Zero, Instant Funded
 - Deal: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 50% off any Atlas Funded challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

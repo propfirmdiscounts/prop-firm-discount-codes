@@ -13,7 +13,8 @@ HyroTrader is offering 15% off — discount code **INSTANT**.
 - Code: INSTANT
 - Scope: Hyro Instant accounts (first 30 purchases)
 - Deal: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/
-- Verified standing exclusive code: PFD (works any time; the live rate is always on the firm page)
+
+Apply code PFD at checkout for up to 10% off any HyroTrader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

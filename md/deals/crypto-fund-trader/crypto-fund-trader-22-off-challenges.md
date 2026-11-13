@@ -12,7 +12,8 @@ Crypto Fund Trader was offering 22% off.
 - Offer: 22% Off
 - Scope: 1-Phase, 2-Phase
 - Deal: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/
-- Verified standing exclusive code: platinum5 (works any time; the live rate is always on the firm page)
+
+Apply code platinum5 at checkout for up to 5% off any Crypto Fund Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
