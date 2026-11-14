@@ -14,7 +14,7 @@ export const site = {
   shortName: 'PropFirmLookup',
   icons: true,
   ga: 'G-0RHJRGQ5LM',
-  tagline: EN_DASH + ' discount code verification log',
+  tagline: '- Prop Firm Discount Code Verification Log',
   skillName: 'prop-firm-code-check',
   hubBlurb: 'ranked highest to lowest discount',
   disclosure: DISCLOSURE,
@@ -49,10 +49,12 @@ function factsTable(firm, mirror) {
 }
 
 function dealBridge(firm, mirror) {
+  const o = offerShape(firm.discount);
+  const offText = o.sentence ? `offers ${esc(o.sentence)} at checkout and ` : '';
   return {
-    standing: `This promotion runs on the discount code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, still valid any time.`,
-    own: `This is a limited-time campaign with its own code and terms; the discount code <code>${esc(firm.code)}</code> above is the one that works any time.`,
-    unknown: `This is the firm's newest promotion; the discount code <code>${esc(firm.code)}</code> above is the one that works any time.`,
+    standing: `This promotion runs on the discount code above ${EN_DASH} <code>${esc(firm.code)}</code> ${EN_DASH} the same code the firm shows for this campaign, ${o.sentence ? `offering ${esc(o.sentence)} at checkout and ` : ''}still valid any time.`,
+    own: `This is a limited-time campaign with its own code and terms; the discount code <code>${esc(firm.code)}</code> above is the one that ${offText}works any time.`,
+    unknown: `This is the firm's newest promotion; the discount code <code>${esc(firm.code)}</code> above is the one that ${offText}works any time.`,
   }[mirror.dealCodeRelation];
 }
 
@@ -75,17 +77,29 @@ function dealExpiryFor(firm, deal) {
   return deal.offerEnds || '';
 }
 
+function dealScopeFor(firm, deal) {
+  const apiScope = firm.last_deal?.scope;
+  if (Array.isArray(apiScope) && apiScope.length) {
+    return apiScope.join(', ');
+  }
+  if (typeof apiScope === 'string' && apiScope.trim()) {
+    return apiScope.trim();
+  }
+  return deal?.scope || '';
+}
+
 function currentDealSection(firm, mirror, standingFirms, exclusiveFirms) {
   const d = mirror.latestDeal;
   if (!d) return '';
   const o = offerShape(d.offer);
   const exp = dealExpiryFor(firm, d);
+  const scope = dealScopeFor(firm, d);
   const rows = [
     ['Published', `<time datetime="${esc(d.published)}">${esc(d.published)}</time>`],
   ];
   if (exp) rows.push(['Offer ends', esc(exp)]);
   if (d.offer) rows.push(['Offer', esc(o.titlePart || d.offer)]);
-  if (d.scope) rows.push(['Scope', esc(d.scope)]);
+  if (scope) rows.push(['Applies to', esc(scope)]);
   // Code row only where the deal shown redeems on the firm's standing code
   // (dealCodeRelation === 'standing'), or where a firm holding an exclusive
   // code shows a deal whose own block code is that standing code — the case
@@ -174,6 +188,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     md.push('');
   }
   const ldExp = ldDeal ? dealExpiryFor(firm, ldDeal) : '';
+  const ldScope = ldDeal ? dealScopeFor(firm, ldDeal) : '';
   if (ldDeal) {
     const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
     const ldTitle = isStandingDeal && !/\bwith code\b/i.test(ldDeal.title)
@@ -183,7 +198,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     md.push(`- Published: ${ldDeal.published}`);
     if (ldExp) md.push(`- Offer ends: ${ldExp}`);
     if (ldDeal.offer) md.push(`- Offer: ${offerShape(ldDeal.offer).titlePart || ldDeal.offer}`);
-    if (ldDeal.scope) md.push(`- Scope: ${ldDeal.scope}`);
+    if (ldScope) md.push(`- Applies to: ${ldScope}`);
     // Same gate as the page: the Code line appears only where the deal shown
     // redeems on the firm's standing code, and only for a firm that holds one.
     if (isStandingDeal) {
@@ -194,10 +209,11 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     // allowed above, so report that relation (not the history-only one, which
     // reads 'unknown' once the newest deal ages out of the window).
     const relation = firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation;
+    const offMd = o.sentence ? `offers ${o.sentence} at checkout and ` : '';
     md.push({
-      standing: `This promotion runs on the discount code ${firm.code} above — the same code the firm shows for this campaign, still valid any time.`,
-      own: `This is a limited-time campaign with its own code and terms; the discount code ${firm.code} above is the one that works any time.`,
-      unknown: `This is the firm's newest promotion; the discount code ${firm.code} above is the one that works any time.`,
+      standing: `This promotion runs on the discount code ${firm.code} above — the same code the firm shows for this campaign, ${o.sentence ? `offering ${o.sentence} at checkout and ` : ''}still valid any time.`,
+      own: `This is a limited-time campaign with its own code and terms; the discount code ${firm.code} above is the one that ${offMd}works any time.`,
+      unknown: `This is the firm's newest promotion; the discount code ${firm.code} above is the one that ${offMd}works any time.`,
     }[relation], '');
   }
   if (mirror.faq.length) {
@@ -216,7 +232,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     trustpilot: firm.trustpilot_score ? { score: firm.trustpilot_score, reviews: firm.trustpilot_reviews } : null,
     source: 'propfirmdiscount.com',
     activation_link: firm.activation_link,
-    current_deal: ldDeal ? { title: ldDeal.title, published: ldDeal.published, date_exp: ldExp || null, offer: ldDeal.offer, scope: ldDeal.scope, deal_url: ldDeal.dealUrl, code_relation: firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation } : null,
+    current_deal: ldDeal ? { title: ldDeal.title, published: ldDeal.published, date_exp: ldExp || null, offer: ldDeal.offer, scope: ldScope || '', deal_url: ldDeal.dealUrl, code_relation: firmStanding(firm, mirror, standingFirms, exclusiveFirms) ? 'standing' : mirror.dealCodeRelation } : null,
     changelog: mirror.dealHistory,
   };
   return { md: md.join('\n'), json: JSON.stringify(json, null, 2) };
