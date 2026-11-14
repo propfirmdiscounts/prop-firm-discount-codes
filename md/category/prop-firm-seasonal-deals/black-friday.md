@@ -1,11 +1,12 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 90% OFF with code PFD at Upcomers, 80% OFF with code BF80 at CK PropFirm, 70% OFF at Bitfunded, and 65% OFF with code EARLYBF65 at Bullwaves Prime.
+As of 2026-11-11, the biggest offers this month: 93% OFF with code PFD at Upcomers, 80% OFF with code BF80 at CK PropFirm, 70% OFF at Bitfunded, 65% OFF with code EARLYBF65 at Bullwaves Prime, and 40% OFF with code BF26 at ThinkCapital.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | We Get Funded | We Get Funded Black Friday: 4 Challenges, One Purchase | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
 | 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
@@ -155,4 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-18 | PipFarm | PipFarm Black Friday Deal – 100K Challenge for $149 | Only  $149 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-100k-challenge-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday BOGO Deal – Buy One Get One Free | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-bogo-deal/ |
 | 2025-11-18 | PipFarm | PipFarm Black Friday Flash Sale – $9 Evaluation Account | Only $9 | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-9-dollar-account/ |
-| 2025-11-18 | Bitfunded | Bitfunded Black Friday Deal: Get 6 Accounts for the Price of 3 (50% OFF) | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-deal-pay-3-get-6-50-off/ |
