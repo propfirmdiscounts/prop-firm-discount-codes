@@ -143,7 +143,7 @@ export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms)
   const ld = firmJsonLd(site, firm, title, desc, now);
   const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code (${esc(firm.code)}) ${EN_DASH} ${esc(stamp)}</h1>
-<p class="answer">The ${esc(firm.prop_firm)} discount code is ${esc(firm.code)}${o.sentence ? `, offering ${esc(o.sentence)}` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${esc(firm.prop_firm)}'s deal history below.</p>
+<p class="answer">The ${esc(firm.prop_firm)} discount code is ${esc(firm.code)}${o.sentence ? `, offering ${esc(o.sentence)} when you enter it at checkout` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${esc(firm.prop_firm)}'s deal history below.</p>
 <p>All discount codes are free to use, and the available discount is displayed alongside each tracked firm. Individual promotional offers may have different terms, eligibility requirements, and expiration dates.</p>
 ${factsTable(firm, mirror)}
 ${logSection(firm, mirror, standingFirms)}
@@ -157,7 +157,7 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
   const stamp = monthYearUTC(now);
   const dealDate = lastDealDate(firm);
   const md = [`# ${firm.prop_firm} Discount Code (${firm.code}) ${EN_DASH} ${stamp}`, '',
-    `The ${firm.prop_firm} discount code is ${firm.code}${o.sentence ? `, offering ${o.sentence}` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${firm.prop_firm}'s deal history below.`, '',
+    `The ${firm.prop_firm} discount code is ${firm.code}${o.sentence ? `, offering ${o.sentence} when you enter it at checkout` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${firm.prop_firm}'s deal history below.`, '',
     'All discount codes are free to use, and the available discount is displayed alongside each tracked firm. Individual promotional offers may have different terms, eligibility requirements, and expiration dates.', ''];
   if (mirror.summary) md.push(`> ${mirror.summary}`, '');
   md.push(`- Code: ${firm.code}`, `- Discount: ${o.titlePart || firm.discount}`, `- Valid: ${validityLabel(firm)}`, `- Last deal published: ${dealDate || 'n/a'}`);
