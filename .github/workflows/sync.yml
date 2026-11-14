@@ -183,7 +183,7 @@ jobs:
               joined = ', '.join(parts[:-1]) + f", and {parts[-1]}"
           line = ("As of {date}, the biggest verified prop firm discount codes are "
                   "{codes}.").format(
-              date=os.environ['STAMP'][:10], codes=joined)
+              date=os.environ['STAMP'][:7], codes=joined)
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n).*?(?=\n\n)',
                       lambda _: line, md, count=1)
