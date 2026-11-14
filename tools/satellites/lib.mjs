@@ -245,9 +245,9 @@ export function loadStandingFirms(repoRoot, rows, mirrors) {
 export function offerShape(discount) {
   const d = String(discount || '').trim();
   if (!d) return { raw: '', titlePart: '', sentence: '' };
-  const pct = /^(\d+)%$/.test(d);
+  const pct = /^(\d+(?:\.\d+)?)%$/.test(d);
   if (pct) {
-    return { raw: d, titlePart: `Up to ${d} Off`, sentence: `up to ${d} off` };
+    return { raw: d, titlePart: `${d} Off`, sentence: `${d} off` };
   }
   return { raw: d, titlePart: d, sentence: d.toLowerCase() };
 }
@@ -257,7 +257,7 @@ export function offerShape(discount) {
 // public dataset).
 export function titleFor(firm, now) {
   const o = offerShape(firm.discount);
-  let t = `${firm.prop_firm} Discount Code ${firm.code}`;
+  let t = `${firm.prop_firm} Discount Code (${firm.code})`;
   if (o.titlePart) t += ` ${EN_DASH} ${o.titlePart}`;
   return `${t} (${monthYearUTC(now)})`;
 }
