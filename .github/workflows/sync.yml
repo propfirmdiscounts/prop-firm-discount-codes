@@ -233,11 +233,12 @@ jobs:
             exit 0
           fi
           git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-            -m "Hourly snapshot of the public dataset and markdown mirrors."
+            -m "Hourly snapshot of the public dataset and markdown mirrors." \
+            -m "Co-Authored-By: propfirmdiscounts <73492456+propfirmdiscounts@users.noreply.github.com>"
           git push
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (prop-firm-discount/prop-firm-discount): same content as
+        # HF dataset mirror (propfirmdeals/prop-firm-discount): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
         # commit so HF never gets content that failed to land here first, and
         # never blocks GitHub sync or downstream site deploys if HF fails.
@@ -245,7 +246,7 @@ jobs:
         continue-on-error: true
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_NAMESPACE: prop-firm-discount
+          HF_NAMESPACE: propfirmdeals
           REPO_NAME: prop-firm-discount-codes
           HF_REPO_NAME: prop-firm-discount
         if: env.HF_TOKEN != ''
