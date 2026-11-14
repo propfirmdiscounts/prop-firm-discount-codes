@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Crypto Fund Trader | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |
 | 2026-11-13 | Funded Trading Plus | Funded Trading Plus: 25% Off Plus Free Add-On | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-13 | Sure Leverage Funding | Sure Leverage Funding: 35% Off November Offer | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/ |
@@ -31,7 +32,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-10 | QT Funded | QT Funded: 55% Off All Challenges + Free Account | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/ |
 | 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
-| 2026-11-09 | Elite Trader Funding | Elite Trader Funding: 75% Off Non-Fast Track Evals | 75% OFF | 2026-11-13 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/ |
+| 2026-11-09 | Elite Trader Funding | Elite Trader Funding: 75% Off Non-Fast Track Evals | 75% OFF | 2026-11-13 23:59 (ended) | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/ |
 | 2026-11-09 | PipFarm | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
 | 2026-11-09 | BrightFunded | BrightFunded Friday 13th: 30% Off CFD Challenges | 30% OFF | 2026-11-14 03:00 | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-friday-13th-30-off-cfd-challenges/ |
@@ -248,7 +249,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-14 | Funded Elite | Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts | 47% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/ |
 | 2026-10-14 | BrightFunded | BrightFunded 25% Off All Challenges & Free Account Promo | 25% OFF | 2026-10-20 (ended) | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-25-off-all-challenges-free-account/ |
 | 2026-10-14 | Hantec Trader | Hantec Trader 35% Off Eligible Challenge Pricing | 35% OFF | 2026-10-16 (ended) | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/ |
-| 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts with code PFD | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |
+| 2026-10-13 | Funded Hero | Funded Hero 70% Off All Evaluation Accounts with code PFD | 70% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/ |
 | 2026-10-13 | TX3 Funding | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% OFF | 2026-10-18 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-13 | Funding Your Trades | Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback | 40% OFF | 2026-10-20 (ended) | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/ |
 | 2026-10-13 | The Concept Trading | The Concept Trading: 40% Off Eligible Programs + Free Retry | 40% OFF | 2026-10-16 (ended) | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/ |

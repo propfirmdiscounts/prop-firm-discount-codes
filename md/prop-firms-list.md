@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-51 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
+52 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -14,8 +14,9 @@
 | Breakout Prop | 3GVKFT | 5% | standing | 2026-07-27 · 24% · [deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) | - | 3 / 6 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |
 | Bulenox | PFD | 89% | standing | 2026-10-07 · 91% · [deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) | - | 11 / 12 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 · 50% · [deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) | - | 2 / 8 | https://propfirmdiscount.com/prop-firm/bullrush/ |
+| Bullwaves Prime | PFD | 10% | standing | 2026-11-12 · 65% · [deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) | Black Friday | 14 / 23 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
 | CK PropFirm | PFD | 10% | standing | 2026-11-11 · 80% · [deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Black Friday | 37 / 53 | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| Crypto Fund Trader | platinum5 | 5% | standing | 2026-09-15 · 22% · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
+| Crypto Fund Trader | platinum5 | 5% | standing | 2026-11-14 · 25% · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/) | - | 5 / 7 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | standing | 2026-11-05 · $99 · [deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) | - | 5 / 10 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 40% | standing | 2026-11-02 · 60% · [deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) | - | 3 / 3 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | Dominion Funding | PFD5PC | 5% | standing | 2026-11-05 · 40% · [deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Black Friday | 15 / 23 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |

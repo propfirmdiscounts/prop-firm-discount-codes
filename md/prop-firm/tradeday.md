@@ -9,7 +9,7 @@ The newest TradeDay discount code is **SALE60** — 60% off (November 12, 2026).
 - Activate: https://propfirmdiscount.com/go/tradeday
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeday/
 
-As of 2026-11-13, the biggest TradeDay offers this month: 60% OFF with code SALE60 and 60% OFF with code FLASH.
+As of 2026-11-14, the biggest TradeDay offers this month: 60% OFF with code SALE60 and 60% OFF with code FLASH.
 
 ## Current deal: TradeDay: 60% Off Every Account, No Subscription
 

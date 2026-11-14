@@ -14,6 +14,8 @@ Bullwaves Prime is offering 65% off — discount code **EARLYBF65**.
 - Scope: Everything
 - Deal: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/
 
+Apply code PFD at checkout for up to 10% off any Bullwaves Prime challenge account — verified to work any time with no expiration date.
+
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Frequently Asked Questions

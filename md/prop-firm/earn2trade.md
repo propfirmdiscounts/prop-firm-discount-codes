@@ -13,7 +13,7 @@ The verified Earn2Trade discount code is **PFD** — Up to 50% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-13, the biggest Earn2Trade offers this month: 50% OFF with code PFD and 50% OFF with code PFD.
+As of 2026-11-14, the biggest Earn2Trade offers this month: 50% OFF with code PFD and 50% OFF with code PFD.
 
 ## Current deal: Earn2Trade: 50% Off All Evaluations, Ladder Removed with code PFD
 

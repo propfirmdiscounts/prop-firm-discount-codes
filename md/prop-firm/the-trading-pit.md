@@ -9,7 +9,7 @@ The newest The Trading Pit discount code is **BF40** — 40% off (November 9, 20
 - Activate: https://propfirmdiscount.com/go/thetradingpit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 
-As of 2026-11-13, the biggest The Trading Pit offers this month: 50% OFF, 40% OFF with code BF40, 35% OFF with code OCT35, and 35% OFF with code OCT35.
+As of 2026-11-14, the biggest The Trading Pit offers this month: 50% OFF, 40% OFF with code BF40, 35% OFF with code OCT35, and 35% OFF with code OCT35.
 
 ## Current deal: The Trading Pit Black Friday: 40% Off Prime + Instant
 

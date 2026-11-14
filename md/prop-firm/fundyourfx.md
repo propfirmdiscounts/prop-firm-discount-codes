@@ -7,7 +7,7 @@ The newest FundYourFX discount code is **VET60** — 60% off (November 10, 2026)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-As of 2026-11-13, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code VET60, 60% OFF with code NOVEMBER60, 60% OFF with code OCTA60, and 55% OFF with code CASH55.
+As of 2026-11-14, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code VET60, 60% OFF with code NOVEMBER60, 60% OFF with code OCTA60, and 55% OFF with code CASH55.
 
 ## Current deal: FundYourFX Veterans Day: 60% Off All Plans Nov 11-16
 

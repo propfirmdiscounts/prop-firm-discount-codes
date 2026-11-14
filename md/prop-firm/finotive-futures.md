@@ -13,7 +13,7 @@ The verified Finotive Futures discount code is **PFDDEAL** — Up to 25% off, wo
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-13, the biggest Finotive Futures offers this month: 60% OFF with code NEW, 50% OFF with code BOO, 50% OFF with code BOGO, and 50% OFF with code DUO.
+As of 2026-11-14, the biggest Finotive Futures offers this month: 60% OFF with code NEW, 50% OFF with code BOO, 50% OFF with code BOGO, and 50% OFF with code DUO.
 
 ## Current deal: Finotive Futures: 60% Off Instant for New Traders
 

@@ -9,7 +9,7 @@ No live discount code for BluSky Trading right now — newest deals and offers a
 - Activate: https://propfirmdiscount.com/go/bluskypro
 - Firm page: https://propfirmdiscount.com/prop-firm/blusky-trading/
 
-As of 2026-11-13, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
+As of 2026-11-14, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
 
 ## Most recent deal (ended): BluSky Trading: $120 Off 100K Propel – $100 Total
 

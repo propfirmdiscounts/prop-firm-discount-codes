@@ -36,21 +36,21 @@
         "discount": "5%",
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12791,
-            "title": "22% Reduction on 1-Phase and 2-Phase Evaluations",
+            "deal_id": 13230,
+            "title": "25% Off New 1-Phase Challenge",
             "offer_type": "coupon",
-            "discount_value": "22%",
+            "discount_value": "25%",
             "scope": [
-                "1-Phase, 2-Phase"
+                "1-Phase Challenges"
             ],
-            "date_published": "2026-09-15",
-            "date_exp": "Ended",
+            "date_published": "2026-11-14",
+            "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/"
+            "post_url": "https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/"
         },
         "deal_count": {
-            "total": 6,
-            "this_year": 4,
+            "total": 7,
+            "this_year": 5,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/cryptofundtrader",
@@ -339,6 +339,37 @@
         "trustpilot_url": "https://www.trustpilot.com/review/quanttekel.com",
         "description": "At QT Funded, innovation meets opportunity in the trading industry. We empower traders\u2014whether beginners or seasoned professionals\u2014with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.\nWe provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.\nAt QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/qtfunded-logo.jpg"
+    },
+    {
+        "prop_firm": "Bullwaves Prime",
+        "code": "PFD",
+        "discount": "10%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13226,
+            "title": "65% Off Everything - Early Bird",
+            "offer_type": "coupon",
+            "discount_value": "65%",
+            "scope": [
+                "Everything"
+            ],
+            "date_published": "2026-11-12",
+            "date_exp": "2026-11-15 18:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/"
+        },
+        "deal_count": {
+            "total": 23,
+            "this_year": 14,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/bullwaves",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+        "trustpilot_score": 3.4,
+        "trustpilot_reviews": 670,
+        "trustpilot_url": "https://www.trustpilot.com/review/bullwaves.com",
+        "description": "",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/09/Bullwaves-Prime-Logo.jpg"
     },
     {
         "prop_firm": "FXIFY",

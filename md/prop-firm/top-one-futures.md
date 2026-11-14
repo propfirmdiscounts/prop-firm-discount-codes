@@ -11,7 +11,7 @@ The verified Top One Futures discount code is **PFD** — Up to 65% off, works a
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-13, the biggest Top One Futures offers this month: 65% OFF with code PFD and 60% OFF with code PFD.
+As of 2026-11-14, the biggest Top One Futures offers this month: 65% OFF with code PFD and 60% OFF with code PFD.
 
 ## Current deal: Top One Futures Black November Up to 65% Off with code PFD
 

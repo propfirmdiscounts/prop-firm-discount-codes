@@ -9,7 +9,7 @@ The newest AudaCity Capital discount code is **FUNDED35** — 35% off (November 
 - Activate: https://propfirmdiscount.com/go/audacitycapital
 - Firm page: https://propfirmdiscount.com/prop-firm/audacity-capital-funded/
 
-As of 2026-11-13, the biggest AudaCity Capital offers this month: 35% OFF with code FUNDED35, 35% OFF with code HALLOWEEN, 20% OFF with code NOW20, and 14% OFF with code 14th.
+As of 2026-11-14, the biggest AudaCity Capital offers this month: 35% OFF with code FUNDED35, 35% OFF with code HALLOWEEN, 20% OFF with code NOW20, and 14% OFF with code 14th.
 
 ## Current deal: AudaCity Capital: 35% Off Ability 2-Step
 

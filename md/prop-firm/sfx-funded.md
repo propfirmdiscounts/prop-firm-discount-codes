@@ -9,7 +9,7 @@ The newest SFX Funded discount code is **BF55** — 55% off (November 2, 2026). 
 - Activate: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 
-As of 2026-11-13, the biggest SFX Funded offers this month: 55% OFF with code BF55, 55% OFF with code SPOOKY, and 55% OFF with code BF55.
+As of 2026-11-14, the biggest SFX Funded offers this month: 55% OFF with code BF55, 55% OFF with code SPOOKY, and 55% OFF with code BF55.
 
 ## Current deal: SFX Funded 55% Off All Accounts Black Friday
 

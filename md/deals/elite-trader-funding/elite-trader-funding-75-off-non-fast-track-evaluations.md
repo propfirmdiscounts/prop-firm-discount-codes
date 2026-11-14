@@ -1,16 +1,15 @@
 # Elite Trader Funding: 75% Off Non-Fast Track Evals
 
-Elite Trader Funding is offering 75% off — discount code **NOV75**.
+Elite Trader Funding was offering 75% off.
 
 > Elite Trader Funding: 75% off Non-Fast Track evaluations across 1-Step, End-of-Day, Static and Diamond Hands, ending 13 November at 11:59 PM Eastern.
 
 - Published: 2026-11-09
-- Offer ends: 2026-11-13 23:59
+- Offer ends: 2026-11-13 23:59 (ended)
 - Prop firm: Elite Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/elite-trader-funding/
 - Summary: Elite Trader Funding is taking 75% off every Non-Fast Track evaluation, any size, across 1-Step, End-of-Day, Static and Diamond Hands plans, with the discount recurring until you pass or cancel.
 - Offer: 75% Off
-- Code: NOV75
 - Scope: Non-Fast Track Evaluations
 - Deal: https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/
 

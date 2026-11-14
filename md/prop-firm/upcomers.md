@@ -13,7 +13,7 @@ The verified Upcomers discount code is **PFD** — Up to 90% off, works any time
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-13, the biggest Upcomers offers this month: 93% OFF with code PFD and 90% OFF with code PFD.
+As of 2026-11-14, the biggest Upcomers offers this month: 93% OFF with code PFD and 90% OFF with code PFD.
 
 ## Current deal: Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD
 

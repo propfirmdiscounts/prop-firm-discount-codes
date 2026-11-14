@@ -9,7 +9,7 @@ The newest Fintokei discount code is **BLACKFRIDAY100XP** — 20% off (November 
 - Activate: https://propfirmdiscount.com/go/fintokei
 - Firm page: https://propfirmdiscount.com/prop-firm/fintokei/
 
-As of 2026-11-13, the biggest Fintokei offers this month: 20% OFF with code BLACKFRIDAY100XP and 20% OFF with code BLACKFRIDAY20.
+As of 2026-11-14, the biggest Fintokei offers this month: 20% OFF with code BLACKFRIDAY100XP and 20% OFF with code BLACKFRIDAY20.
 
 ## Current deal: Fintokei Black Friday XP Boost: 20% Off + 100 XP
 

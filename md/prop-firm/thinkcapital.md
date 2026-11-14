@@ -13,7 +13,7 @@ The verified ThinkCapital discount code is **PFD** — Up to 10% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-13, the biggest ThinkCapital offers this month: 40% OFF with code BF26.
+As of 2026-11-14, the biggest ThinkCapital offers this month: 40% OFF with code BF26.
 
 ## Current deal: ThinkCapital: 40% Off Everything for Black Friday
 
