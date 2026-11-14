@@ -163,7 +163,7 @@ export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms)
   const desc = `Find the ${firm.prop_firm} discount code ${firm.code}${o.sentence ? ` and get ${o.sentence}` : ''}. Explore promotional offers, historical discounts, and the latest ${firm.prop_firm} deals.`;
   const path = `/firms/${firm.slug}`;
   const ld = firmJsonLd(site, firm, title, desc, now);
-  const body = `<nav class="crumb"><a href="/">All firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
+  const body = `<nav class="crumb"><a href="/">All Prop Firms</a> ${EN_DASH} ${esc(firm.prop_firm)}</nav>
 <h1>${esc(firm.prop_firm)} Discount Code (${esc(firm.code)}) ${EN_DASH} ${esc(stamp)}</h1>
 <p class="answer">The ${esc(firm.prop_firm)} discount code is ${esc(firm.code)}${o.sentence ? `, offering ${esc(o.sentence)} when you enter it at checkout` : ''}. Explore the latest promotional offers, compare historical discounts, and track ${esc(firm.prop_firm)}'s deal history below.</p>
 <p>All discount codes are free to use, and the available discount is displayed alongside each tracked firm. Individual promotional offers may have different terms, eligibility requirements, and expiration dates.</p>

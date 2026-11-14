@@ -60,10 +60,10 @@ const joinList = (parts) => (parts.length <= 1 ? (parts[0] || '') : `${parts.sli
 
 const site = {
   id: 'events',
-  siteName: 'Prop Firm Event Hub',
-  shortName: 'PF Events',
+  siteName: 'PropFirmEvents',
+  shortName: 'PropFirmEvents',
   ga: 'G-1DLBLGCLS9',
-  tagline: EN_DASH + ' seasonal event deal tracker',
+  tagline: '- Prop Firm Seasonal Event Deal Tracker',
   origin: (process.env.SATELLITE_ORIGIN_EVENTS || 'https://propfirmevent.example').replace(/\/$/, ''),
   skillName: 'prop-firm-event-hub',
   icons: true,
@@ -158,10 +158,10 @@ function parseEventMirror(md) {
 
 // Tag every parsed row with the event it came from so the hub's latest
 // table can show an Event column.
-const readMirror = (rel, eventShort) => {
+const readMirror = (rel, eventShort, eventSlug) => {
   const p = join(repoRoot, 'md', rel);
   if (!existsSync(p)) return [];
-  return parseEventMirror(readFileSync(p, 'utf8')).map((r) => ({ ...r, eventShort }));
+  return parseEventMirror(readFileSync(p, 'utf8')).map((r) => ({ ...r, eventShort, eventSlug }));
 };
 
 function loadCodes() {
@@ -218,6 +218,8 @@ const codeTd = (r) => `<td data-code-state="${r.codeState}">${codeCell(r)}</td>`
 // deal may ask for at checkout. A firm with no dataset row keeps an empty cell.
 const firmStandingCode = (name) => standingByFirm.get(canonicalFirm(name)) || '';
 
+const formatDealEnds = (ends) => String(ends || '').replace(/^(\d{4}-\d{2}-\d{2})\s+\d{1,2}:\d{2}/, '$1');
+
 function dealTitleWithCode(r) {
   if (r.codeState === 'standing' && r.code && !/\bwith code\b/i.test(r.title)) {
     return `${r.title} with code ${r.code}`;
@@ -225,12 +227,24 @@ function dealTitleWithCode(r) {
   return r.title;
 }
 
+function eventCell(r) {
+  if (!r.eventShort) return EN_DASH;
+  if (r.eventSlug) return `<a href="/${r.eventSlug}/">${esc(r.eventShort)}</a>`;
+  return esc(r.eventShort);
+}
+
+function mdEventCell(r) {
+  if (!r.eventShort) return EN_DASH;
+  if (r.eventSlug) return `[${r.eventShort}](${site.origin}/${r.eventSlug}/)`;
+  return r.eventShort;
+}
+
 function latestDealsTable(rows) {
   const head = `<th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Deal</th><th scope="col">Discount</th><th scope="col">Published</th><th scope="col">Deal ends</th>`;
   return `<div class="tscroll w700"><table class="checks fixed deals6e">
 <thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
+${rows.map((r) => `<tr><td>${eventCell(r)}</td><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(formatDealEnds(r.ends) || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>`;
 }
@@ -240,7 +254,7 @@ function dealsTable(rows) {
   return `<div class="tscroll w640"><table class="checks fixed deals5">
 <thead><tr>${head}</tr></thead>
 <tbody>
-${rows.map((r) => `<tr><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
+${rows.map((r) => `<tr><td>${esc(r.firm || EN_DASH)}</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td>${esc(r.discount || EN_DASH)}</td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(formatDealEnds(r.ends) || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>`;
 }
@@ -321,7 +335,7 @@ function leaderboard(poolRows) {
   const ranks = [...best.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || a[0].localeCompare(b[0]))
     .slice(0, 10)
-    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, ends: v.row.ends || '', code: v.row.code, codeState: v.row.codeState, eventShort: v.row.eventShort || '' }));
+    .map(([firm, v], i) => ({ rank: i + 1, firm, pct: v.pct, title: v.row.title, url: v.row.url, published: v.row.published, ends: v.row.ends || '', code: v.row.code, codeState: v.row.codeState, eventShort: v.row.eventShort || '', eventSlug: v.row.eventSlug || '' }));
   const topStanding = [...bestStanding.entries()]
     .sort((a, b) => b[1].pct - a[1].pct || b[1].row.published.localeCompare(a[1].row.published) || a[0].localeCompare(b[0]))
     .slice(0, 5)
@@ -393,17 +407,17 @@ function hubPage(latest, events, tags, codes, board, totalDeals, now) {
   const boardTable = board.ranks.length ? `<div class="tscroll w700"><table class="checks board fixed">
 <thead><tr><th scope="col">Rank</th><th scope="col">Event</th><th scope="col">Firm</th><th scope="col">Best discount</th><th scope="col">Deal</th><th scope="col">Published</th><th scope="col">Deal ends</th></tr></thead>
 <tbody>
-${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${esc(r.eventShort || EN_DASH)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(r.ends || EN_DASH)}</td></tr>`).join('\n')}
+${board.ranks.map((r) => `<tr><td>${r.rank}</td><td>${eventCell(r)}</td><td>${esc(r.firm)}</td><td>${r.pct}% Off</td><td><a rel="nofollow" href="${esc(r.url)}">${esc(dealTitleWithCode(r))}</a></td><td><time datetime="${esc(r.published)}">${esc(r.published)}</time></td><td>${esc(formatDealEnds(r.ends) || EN_DASH)}</td></tr>`).join('\n')}
 </tbody>
 </table></div>` : '<p>No percentage offers are on record for the current window yet.</p>';
   const standingLead = board.topStanding.length
     ? `During ${esc(board.spanLabel)}, the highest recorded seasonal discounts reached ${joinList(board.topStanding.map((r) => `${r.pct}% Off with code <code>${esc(r.code)}</code> from ${esc(r.firm)}`))}.`
     : '';
   const body = `<h1>Prop Firm Event Deals &amp; Seasonal Discount Codes ${year}</h1>
-<p class="answer">Prop Firm Events tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${eventCount} events and holidays. Explore Black Friday, Halloween, Christmas, Diwali, and other seasonal promotions, with offers ranked by publication date and discount percentage. Each deal identifies whether it uses a standing discount code, a limited-time campaign code, or requires no code at checkout.</p>
+<p class="answer">PropFirmEvents tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${eventCount} events and holidays. Explore Black Friday, Halloween, Christmas, Diwali, and other seasonal promotions, with offers ranked by publication date and discount percentage. Each deal identifies whether it uses a standing discount code, a limited-time campaign code, or requires no code at checkout.</p>
 ${standingLead ? `<p>${standingLead}</p>` : ''}
 
-<h2 id="latest">Latest seasonal deals</h2>
+<h2 id="latest">Latest Seasonal Deals</h2>
 <p>Browse the latest prop firm seasonal deals and promotional offers, organized by publication date. Explore discounts from recent events and holidays, including Black Friday, Diwali, and other limited-time campaigns. Each listing links to its original deal details, including available discount codes and redemption requirements.</p>
 ${latestDealsTable(latest)}
 
@@ -411,7 +425,7 @@ ${latestDealsTable(latest)}
 <p>Explore prop firm discount deals organized by ${eventCount} events and holidays. Each event page provides a chronological archive of promotional offers, including advertised discounts, participating firms, publication dates, and available redemption codes.</p>
 ${eventTable([...events.map((c) => ({ name: c.short, href: `/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `/${t.slug}/`, rows: t.rows }))])}
 
-<h2 id="leaderboard">Top Prop Firm Seasonal Discounts ${EN_DASH} ${esc(board.compactLabel)}</h2>
+<h2 id="leaderboard">Top Prop Firm Seasonal Discounts (${esc(board.compactLabel)})</h2>
 <p>Compare the ${board.ranks.length || 10} highest prop firm seasonal discounts recorded during ${esc(board.spanLabel)}. Rankings are based on each firm's highest advertised discount within the selected period, with publication dates used to break ties.</p>
 ${boardTable}
 
@@ -425,9 +439,9 @@ ${codes.map((c) => `<tr><td>${esc(c.prop_firm)}</td><td><code>${esc(c.code)}</co
 </table></div>
 <p>Looking for the verification trail behind a code, or the dated deals it applied to? See the firm pages on <a href="https://propfirmdiscount.com/">PropFirmDiscount</a>, or the machine-readable <a href="/dataset.json">dataset.json</a>.</p>
 
-<h2 id="method">About Prop Firm Events &amp; How Deals Are Tracked</h2>
-<h3>About Prop Firm Events</h3>
-<p>Prop Firm Events is a seasonal promotion tracking platform operated by the PropFirmDiscount team, which has monitored proprietary trading firm discounts and promotional campaigns since 2022.</p>
+<h2 id="method">About PropFirmEvents &amp; How Deals Are Tracked</h2>
+<h3>About PropFirmEvents</h3>
+<p>PropFirmEvents is a seasonal promotion tracking platform operated by the PropFirmDiscount team, which has monitored proprietary trading firm discounts and promotional campaigns since 2022.</p>
 <p>The platform tracks dated promotional offers across major events and holidays, including Black Friday, Christmas, Halloween, Diwali, and other seasonal campaigns. Each event page provides a historical record of participating firms, advertised discounts, publication dates, and redemption methods.</p>
 <h3>How Prop Firm Deal Codes Work</h3>
 <p>Each deal listing identifies its redemption method:</p>
@@ -544,7 +558,7 @@ function roundupPage(ev, kind, others, now) {
 ${firmRows.map((f) => `<tr><td>${esc(f.name)}</td><td>${esc(f.displayDiscount)}</td><td>${f.count}</td><td><time datetime="${esc(f.latest)}">${esc(f.latest)}</time></td><td data-code-state="standing"><code>${esc(f.code)}</code></td></tr>`).join('\n')}
 </tbody>
 </table></div>` : '';
-  const body = `<nav class="crumb"><a href="/">Event hub</a> ${EN_DASH} ${esc(ev.short)}</nav>
+  const body = `<nav class="crumb"><a href="/">Prop Firm Event Hub</a> ${EN_DASH} ${esc(ev.short)}</nav>
 <h1>${esc(h1)}</h1>
 <p class="answer">${esc(introLead)}</p>
 <p>${esc(introSub)}</p>
@@ -571,13 +585,13 @@ ${firmSection}
 function mdLatestDealsTable(rows) {
   const head = [`| Event | Firm | Deal | Discount | Published | Deal ends |`, `|---|---|---|---|---|---|`];
   return [...head,
-    ...rows.map((r) => `| ${r.eventShort || EN_DASH} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${r.ends || EN_DASH} |`)].join('\n');
+    ...rows.map((r) => `| ${mdEventCell(r)} | ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${formatDealEnds(r.ends) || EN_DASH} |`)].join('\n');
 }
 
 function mdDealsTable(rows) {
   const head = [`| Firm | Deal | Discount | Published | Deal ends |`, `|---|---|---|---|---|`];
   return [...head,
-    ...rows.map((r) => `| ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${r.ends || EN_DASH} |`)].join('\n');
+    ...rows.map((r) => `| ${r.firm || EN_DASH} | [${dealTitleWithCode(r)}](${r.url}) | ${r.discount || EN_DASH} | ${r.published} | ${formatDealEnds(r.ends) || EN_DASH} |`)].join('\n');
 }
 const CODE_NOTE = `Code column meaning: a value works any time; "-" means the deal has its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered. Source of record: https://propfirmdiscount.com/.`;
 
@@ -594,9 +608,9 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
     ? [`During ${board.spanLabel}, the highest recorded seasonal discounts reached ${joinList(board.topStanding.map((r) => `${r.pct}% Off with code ${r.code} from ${r.firm}`))}.`, '']
     : [];
   return [`# Prop Firm Event Deals & Seasonal Discount Codes ${year}`, '',
-    `Prop Firm Events tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${eventCount} events and holidays. Explore Black Friday, Halloween, Christmas, Diwali, and other seasonal promotions, with offers ranked by publication date and discount percentage. Each deal identifies whether it uses a standing discount code, a limited-time campaign code, or requires no code at checkout.`, '',
+    `PropFirmEvents tracks ${totalDeals} dated seasonal deals from proprietary trading firms across ${eventCount} events and holidays. Explore Black Friday, Halloween, Christmas, Diwali, and other seasonal promotions, with offers ranked by publication date and discount percentage. Each deal identifies whether it uses a standing discount code, a limited-time campaign code, or requires no code at checkout.`, '',
     ...standingLead,
-    `## Latest seasonal deals`, '',
+    `## Latest Seasonal Deals`, '',
     `Browse the latest prop firm seasonal deals and promotional offers, organized by publication date. Explore discounts from recent events and holidays, including Black Friday, Diwali, and other limited-time campaigns. Each listing links to its original deal details, including available discount codes and redemption requirements.`, '',
     mdLatestDealsTable(latest), '',
     `## Prop Firm Deals by Event & Holiday`, '',
@@ -605,17 +619,17 @@ function hubMarkdown(latest, events, tags, codes, board, totalDeals, now) {
     ...[...events.map((c) => ({ name: c.short, href: `${site.origin}/${c.slug}/`, rows: c.rows })), ...tags.map((t) => ({ name: t.short, href: `${site.origin}/${t.slug}/`, rows: t.rows }))]
       .sort((a, b) => String(b.rows[0]?.published || '').localeCompare(String(a.rows[0]?.published || '')))
       .map((e) => `| [${e.name}](${e.href}) | ${e.rows.length} | ${e.rows[0]?.published || EN_DASH} |`), '',
-    `## Top Prop Firm Seasonal Discounts ${EN_DASH} ${board.compactLabel}`, '',
+    `## Top Prop Firm Seasonal Discounts (${board.compactLabel})`, '',
     `Compare the ${board.ranks.length || 10} highest prop firm seasonal discounts recorded during ${board.spanLabel}. Rankings are based on each firm's highest advertised discount within the selected period, with publication dates used to break ties.`, '',
     `| Rank | Event | Firm | Best discount | Deal | Published | Deal ends |`, `|---|---|---|---|---|---|---|`,
-    ...board.ranks.map((r) => `| ${r.rank} | ${r.eventShort || EN_DASH} | ${r.firm} | ${r.pct}% Off | [${dealTitleWithCode(r)}](${r.url}) | ${r.published} | ${r.ends || EN_DASH} |`), '',
+    ...board.ranks.map((r) => `| ${r.rank} | ${mdEventCell(r)} | ${r.firm} | ${r.pct}% Off | [${dealTitleWithCode(r)}](${r.url}) | ${r.published} | ${formatDealEnds(r.ends) || EN_DASH} |`), '',
     `## Always-On Prop Firm Discount Codes`, '',
     `Browse standing prop firm discount codes that are tracked separately from seasonal promotional campaigns. Each listing includes the firm's discount code, advertised discount percentage, and latest check period. These codes are listed as plain text so traders can easily copy and use them when eligible.`, '',
     `| Prop Firm | Discount code | Discount | Checked |`, `|---|---|---|---|`,
     ...codes.map((c) => `| ${c.prop_firm} | ${c.code} | ${c.discount} | ${monthYearUTC(now)} |`), '',
-    `## About Prop Firm Events & How Deals Are Tracked`, '',
-    `### About Prop Firm Events`, '',
-    `Prop Firm Events is a seasonal promotion tracking platform operated by the PropFirmDiscount team, which has monitored proprietary trading firm discounts and promotional campaigns since 2022.`, '',
+    `## About PropFirmEvents & How Deals Are Tracked`, '',
+    `### About PropFirmEvents`, '',
+    `PropFirmEvents is a seasonal promotion tracking platform operated by the PropFirmDiscount team, which has monitored proprietary trading firm discounts and promotional campaigns since 2022.`, '',
     `The platform tracks dated promotional offers across major events and holidays, including Black Friday, Christmas, Halloween, Diwali, and other seasonal campaigns. Each event page provides a historical record of participating firms, advertised discounts, publication dates, and redemption methods.`, '',
     `### How Prop Firm Deal Codes Work`, '',
     `Each deal listing identifies its redemption method:`, '',
@@ -773,8 +787,8 @@ function webmcpJsEvents() {
 // ── build ───────────────────────────────────────────────────────
 const now = new Date();
 
-const events = CATEGORY_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug)) }));
-const tags = TAG_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug)) }));
+const events = CATEGORY_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'category', rows: readMirror(`category/prop-firm-seasonal-deals/${slug}.md`, shortName(slug), slug) }));
+const tags = TAG_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shortName(slug), kind: 'tag', rows: readMirror(`tag/${slug}.md`, shortName(slug), slug) }));
 
 // The parent mirror (md/category/prop-firm-seasonal-deals.md) is capped at 30
 // rows, which is enough for a "latest" slice but under-counts the season. The
@@ -783,13 +797,14 @@ const tags = TAG_SLUGS.map((slug) => ({ slug, name: eventName(slug), short: shor
 // with the tag whose short name matches the deal title (tags are the sharper
 // signal — a Labor Day deal sits in the Festive Anniversary category, but the
 // tag name is what a reader expects to see in the Event column).
-const tagByShort = new Map(tags.map((t) => [t.short.toLowerCase(), t.short]));
+const tagByShort = new Map(tags.map((t) => [t.short.toLowerCase(), t]));
 const poolSeen = new Set();
 const pool = events.flatMap((c) => c.rows)
   .filter((r) => (poolSeen.has(r.url) ? false : (poolSeen.add(r.url), true)))
   .map((r) => {
     const hit = [...tagByShort.keys()].find((s) => r.title.toLowerCase().includes(s));
-    return hit ? { ...r, eventShort: tagByShort.get(hit) } : r;
+    const tagObj = hit ? tagByShort.get(hit) : null;
+    return tagObj ? { ...r, eventShort: tagObj.short, eventSlug: tagObj.slug } : r;
   })
   .sort((a, b) => b.published.localeCompare(a.published));
 
