@@ -140,10 +140,18 @@ ${items}
 </ol>`;
 }
 
-function faqSection(firm, mirror) {
+function faqSection(firm, mirror, standingFirms, exclusiveFirms) {
   if (!mirror.faq.length) return '';
+  const d = mirror.latestDeal;
+  let heading = `${firm.prop_firm} Code FAQ`;
+  if (d) {
+    const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
+    const dealTitle = isStandingDeal && !/\bwith code\b/i.test(d.title)
+      ? `${d.title} with code ${firm.code}`
+      : d.title;
+    heading = `${dealTitle} ${EN_DASH} Deal FAQ`;
+  }
   const blocks = mirror.faq.slice(0, 4).map((f) => `<h3>${esc(f.q)}</h3>\n<p>${esc(f.a)}</p>`).join('\n');
-  const heading = mirror.latestDeal ? `${mirror.latestDeal.title} FAQ` : `${firm.prop_firm} code FAQ`;
   const note = `<p>These questions cover the promotion described above. The discount code is separate ${EN_DASH} it keeps working after the campaign ends.</p>\n`;
   return `<h2 id="faq">${esc(heading)}</h2>\n${note}${blocks}`;
 }
@@ -162,7 +170,7 @@ export function firmPage(site, firm, mirror, now, standingFirms, exclusiveFirms)
 ${factsTable(firm, mirror)}
 ${logSection(firm, mirror, standingFirms)}
 ${currentDealSection(firm, mirror, standingFirms, exclusiveFirms)}
-${faqSection(firm, mirror)}`;
+${faqSection(firm, mirror, standingFirms, exclusiveFirms)}`;
   return { title, desc, html: layout(site, { title, desc, canonical: `${site.origin}${path}/`, ld, body, path }) };
 }
 
@@ -217,7 +225,12 @@ export function firmTwins(site, firm, mirror, now, standingFirms, exclusiveFirms
     }[relation], '');
   }
   if (mirror.faq.length) {
-    md.push(`## ${ldDeal ? `${ldDeal.title} FAQ` : `${firm.prop_firm} code FAQ`}`, '');
+    const isStandingDeal = firmStanding(firm, mirror, standingFirms, exclusiveFirms);
+    const ldTitle = ldDeal
+      ? (isStandingDeal && !/\bwith code\b/i.test(ldDeal.title) ? `${ldDeal.title} with code ${firm.code}` : ldDeal.title)
+      : '';
+    const heading = ldTitle ? `${ldTitle} ${EN_DASH} Deal FAQ` : `${firm.prop_firm} Code FAQ`;
+    md.push(`## ${heading}`, '');
     md.push(`These questions cover the promotion described above. The discount code is separate ${EN_DASH} it keeps working after the campaign ends.`, '');
     for (const f of mirror.faq.slice(0, 4)) md.push(`**${f.q}**`, '', f.a, '');
   }
