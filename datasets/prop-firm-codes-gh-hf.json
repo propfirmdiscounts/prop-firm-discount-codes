@@ -775,6 +775,37 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/fundedhero_logo_2.jpg"
     },
     {
+        "prop_firm": "Klein Funding",
+        "code": "PFD",
+        "discount": "30%",
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 11168,
+            "title": "Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account",
+            "offer_type": "coupon",
+            "discount_value": "5%",
+            "scope": [
+                "Standard Accounts, Bogo"
+            ],
+            "date_published": "2026-02-14",
+            "date_exp": "Ended",
+            "event": "Valentine's Day",
+            "post_url": "https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/"
+        },
+        "deal_count": {
+            "total": 7,
+            "this_year": 1,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/kleinfunding",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/klein-funding/",
+        "trustpilot_score": 4.8,
+        "trustpilot_reviews": 484,
+        "trustpilot_url": "https://www.trustpilot.com/review/kleinfunding.com",
+        "description": "We are Klein Funding, a leading prop trading firm dedicated to empowering traders worldwide. Our mission is to provide innovative funding solutions and advanced tools, enabling traders to unlock their full potential. With a focus on transparency, professionalism, and growth, we support traders in achieving consistent success. Join Klein Funding and take your trading journey to the next level.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/klein-funding-logo.jpg"
+    },
+    {
         "prop_firm": "BullRush Prop",
         "code": "7XTG8N",
         "discount": "5%",

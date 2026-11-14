@@ -69,8 +69,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
 | 2026-11-09 | PipFarm | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% Off | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
-| 2026-11-09 | BrightFunded | BrightFunded Friday 13th: 30% Off CFD Challenges | 30% Off | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-friday-13th-30-off-cfd-challenges/ |
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% Off | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
 | 2026-11-07 | QT Funded | QT Funded: 60% Off Any Account + Free Same-Size Account | 60% Off | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/ |
 | 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |
+| 2026-11-07 | FTUK | FTUK: 35% Off Instant Funding Plus 20% Profit Boost | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-profit-boost/ |

@@ -1,16 +1,15 @@
 # BrightFunded Friday 13th: 30% Off CFD Challenges
 
-BrightFunded is offering 30% off — discount code **UNLUCKY**.
+BrightFunded was offering 30% off.
 
 > BrightFunded's Friday the 13th offer: 30% off all CFD challenges with an 85% payout ratio and a 15% evaluation profit reward, ending 14 November.
 
 - Published: 2026-11-09
-- Offer ends: 2026-11-14 03:00
+- Offer ends: 2026-11-14 03:00 (ended)
 - Prop firm: BrightFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 - Summary: BrightFunded is marking Friday the 13th with 30% off all CFD challenges, an 85% payout ratio and a 15% evaluation profit reward on every account, in a five-day window ending 14 November.
 - Offer: 30% Off
-- Code: UNLUCKY
 - Scope: CFD Challenges
 - Deal: https://propfirmdiscount.com/deals/bright-funded/brightfunded-friday-13th-30-off-cfd-challenges/
 

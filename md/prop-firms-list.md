@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-52 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
+53 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -42,6 +42,7 @@
 | Goat Funded Trader | CSV | 35% | standing | 2026-11-02 · 40% · [deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) | - | 31 / 51 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | HyroTrader | PFD | 10% | standing | 2026-11-06 · 15% · [deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) | - | 8 / 8 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | PFD | 20% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) | Diwali | 30 / 36 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| Klein Funding | PFD | 30% | standing | 2026-02-14 · 5% · [deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/) | Valentine's Day | 1 / 7 | https://propfirmdiscount.com/prop-firm/klein-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-11-06 · 35% · [deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | - | 12 / 25 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | standing | 2026-11-11 · 85% · [deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) | Veterans Day | 35 / 41 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | Phoenix Trader Funding | PFD | 40% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/) | - | 23 / 24 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
