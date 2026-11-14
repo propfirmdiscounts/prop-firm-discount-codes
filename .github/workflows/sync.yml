@@ -185,7 +185,7 @@ jobs:
                   "{codes}.").format(
               date=os.environ['STAMP'][:7], codes=joined)
           md = open('README.md', encoding='utf-8').read()
-          md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n).*?(?=\n\n)',
+          md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
                       lambda _: line, md, count=1)
           open('README.md', 'w', encoding='utf-8').write(md)
           PY
