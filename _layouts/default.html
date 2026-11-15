@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    {% seo title=false %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://propfirmdiscounts.github.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "All Prop Firms & Events",
+          "item": "https://propfirmdiscounts.github.io/prop-firm-discount-codes/"
+        }
+      ]
+    }
+    </script>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <nav aria-label="Breadcrumb" style="font-size: 0.9em; margin-bottom: 1.5rem; color: #57606a;">
+        <a href="https://propfirmdiscounts.github.io/">Home</a> &rsaquo;
+        <span style="color: #24292f; font-weight: 500;">All Prop Firms &amp; Events</span>
+      </nav>
+      {{ content }}
+    </div>
+  </body>
+</html>
