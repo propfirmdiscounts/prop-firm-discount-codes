@@ -20,6 +20,7 @@ As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with co
 | 8 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 9 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 10 | HyroTrader | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+
 <!-- /pfd-exclusive -->
 
 Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) — verified prop firm discount codes, funding deals, and Trustpilot ratings. The source of truth is the live site; this repository is a read-only distribution channel, synced hourly.
