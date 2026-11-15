@@ -185,12 +185,17 @@ jobs:
                   "{codes}.").format(
               date=os.environ['STAMP'][:7], codes=joined)
           md = open('README.md', encoding='utf-8').read()
-          escaped_desc = line.replace('"', '\\"')
-          md = re.sub(r'(?<=description: ")[^"\n]+',
-                      lambda _: escaped_desc, md, count=1)
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
                       lambda _: line, md, count=1)
           open('README.md', 'w', encoding='utf-8').write(md)
+          try:
+              cfg = open('_config.yml', encoding='utf-8').read()
+              escaped_desc = line.replace('"', '\\"')
+              cfg = re.sub(r'(?<=description: ")[^"\n]+',
+                           lambda _: escaped_desc, cfg, count=1)
+              open('_config.yml', 'w', encoding='utf-8').write(cfg)
+          except Exception:
+              pass
           PY
           # Exclusive list: the homepage's partner-code table, copied from the
           # md/home.md mirror fetched above, so the repo's front page leads
