@@ -1,4 +1,4 @@
-# Mother's Day Prop Firm Deals (2026)
+# Mother's Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-05-11, the biggest offers: 60% OFF with code PFD at Funded Hero, 60% OFF with code MOTHERSDAY at AquaFutures, 45% OFF with code MOTHERSDAY at AquaFunded, 42% OFF with code MOTHER at Funding Your Trades, and 35% OFF with code MOTHERSDAYREFUND at Sure Leverage Funding.
 

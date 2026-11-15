@@ -1,11 +1,11 @@
 # WeMasterTrade Discount Code
 
-The verified WeMasterTrade discount code is **PFD** — Up to 20% off, works any time.
+The verified WeMasterTrade discount code is **PFD** — Up to 30% off, works any time.
 
 > Best Instant Prop APAC 2026 and Top Instant Funding Innovation Asia 2025 award winner. Read our transparent explanation of the Trustpilot warning at https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ and explore our review page on FXVerify at https://fxverify.com/prop-firms/wemastertrade-review-4594.
 
 - Code: PFD
-- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-29
 - Trustpilot: 3.9/5 (2360 reviews)

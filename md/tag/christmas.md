@@ -1,4 +1,4 @@
-# Christmas Prop Firm Deals (2026)
+# Christmas - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 

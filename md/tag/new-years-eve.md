@@ -1,4 +1,4 @@
-# New Year’s Eve Prop Firm Deals (2026)
+# New Year’s Eve - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-01-22, the biggest offers: 90% OFF with code PFD at Upcomers, 60% OFF with code GALLOP60 at PipFarm, 45% OFF with code JAN45 at FundYourFX, 40% OFF with code JAN40 at FundYourFX, and 32% OFF with code PFD at FundingTraders.
 

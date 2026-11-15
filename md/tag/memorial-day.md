@@ -1,4 +1,4 @@
-# Memorial Day Prop Firm Deals (2026)
+# Memorial Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-05-25, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code ME60 at Alpha Funded, 55% OFF with code PFD at Funded Hero, and 50% OFF with code MEMORIAL50 at Plutus Trade Base.
 

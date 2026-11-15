@@ -1,49 +1,51 @@
 # Ment Funding Discount Code
 
-The newest Ment Funding discount code is **MENTMAX** — 40% off (November 4, 2026). The campaign code changes with each promotion; newest first below.
+The newest Ment Funding discount code is **EXCITEMENT** — 40% off (November 15, 2026). The campaign code changes with each promotion; newest first below.
 
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
-- Last deal published: 2026-11-04
+- Last deal published: 2026-11-15
 - Trustpilot: 4.5/5 (234 reviews)
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 
-As of 2026-11-15, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, 40% OFF with code MENTMAX, and 30% OFF with code TREATMENT.
+As of 2026-11-15, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, 40% OFF with code EXCITEMENT, and 40% OFF with code MENTMAX.
 
-## Current deal: Ment Funding 40% Off All Evaluation Accounts Until Nov 30
+## Current deal: Ment Funding Black Friday: 40% Off Evaluations
 
-- Published: 2026-11-04
+- Published: 2026-11-15
 - Offer ends: 2026-11-30
 - Offer: 40% Off
-- Code: MENTMAX
-- Scope: Evaluation accounts, all Evaluation accounts
-- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-all-evaluation-accounts/
+- Code: EXCITEMENT
+- Scope: Evaluation Accounts
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/
 
 ## Ment Funding deal FAQ
 
-**What discount does Ment Funding offer on Evaluation accounts?**
+**How much does the Ment Funding Black Friday offer take off?**
 
-Ment Funding offers 40% off all Evaluation accounts. The rate covers the full Evaluation range rather than a single account size.
+It takes 40% off the firm's evaluation accounts. All add-ons are also included free under the offer.
 
-**When does the Ment Funding Evaluation promotion end?**
+**When does the offer end?**
 
-The promotion runs until 30 November. Purchases completed after that date sit outside this offer.
+The stated end date is 30 November 2026.
 
-**Does the Ment Funding discount change account rules?**
+**What does all add-ons free mean here?**
 
-No. The promotion lowers the entry cost only. Trading rules and drawdown limits stay as set and trading risk is not reduced.
+Every add-on is included at no extra cost with an evaluation bought under this offer, instead of adding to the checkout total.
 
-**Does Ment Funding state a narrower scope for this offer?**
+**What are the daily payouts mentioned in the offer?**
 
-The scope is all Evaluation accounts. No single account size or narrower Evaluation category is named as the limit of the promotion.
+Daily payouts are listed as part of the accounts. A payout schedule is an account term; it does not guarantee that a trader will earn a payout.
 
-**Who may this Ment Funding pricing suit?**
+**Does the discount change the evaluation rules?**
 
-It may suit a buyer who had already chosen an Evaluation account and was comparing entry costs. A buyer expecting the lower price to make the evaluation easier should be cautious because no account term changes with the price.
+No. The offer reduces the entry price only. The 1-step evaluation keeps its own rules. The risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-15 - [Ment Funding Black Friday: 40% Off Evaluations](https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/) (40% Off) — Black Friday
 - 2026-11-04 - [Ment Funding 40% Off All Evaluation Accounts Until Nov 30](https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-all-evaluation-accounts/) (40% Off)
 - 2026-10-29 - [Ment Funding 30% Off Halloween Challenge Entry Cost](https://propfirmdiscount.com/deals/ment-funding/ment-funding-halloween-30-off-100-spots/) (30% Off) — Halloween — ended 2026-10-31
 - 2026-10-15 - [Ment Funding 50% Off PropX Accounts Up to $100K](https://propfirmdiscount.com/deals/ment-funding/ment-funding-50-off-propx-40-off-other/) (50% Off) — ended 2026-10-25

@@ -1,4 +1,4 @@
-# Independence Day Prop Firm Deals (2026)
+# Independence Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-07-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, 65% OFF with code PFD at Funded Hero, 60% OFF with code USA250 at FundYourFX, and 45% OFF with code FREEDOM45 at Hola Prime.
 

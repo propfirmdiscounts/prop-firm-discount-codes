@@ -1,4 +1,4 @@
-# World Cup Prop Firm Deals (2026)
+# World Cup - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-07-20, the biggest offers: 60% OFF with code MUNDIAL60 at WSFunded, 50% OFF with code PFD at FundingTraders, 50% OFF with code PFD at FundingTraders, 50% OFF with code SPAIN at WSFunded, and 50% OFF with code WORLDCUP50 at Goat Funded Trader.
 

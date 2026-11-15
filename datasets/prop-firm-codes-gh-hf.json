@@ -1056,7 +1056,7 @@
     {
         "prop_firm": "WeMasterTrade",
         "code": "PFD",
-        "discount": "20%",
+        "discount": "30%",
         "validity": "standing",
         "last_deal": {
             "deal_id": 13060,

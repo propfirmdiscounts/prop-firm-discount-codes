@@ -1,4 +1,4 @@
-# St. Patrick’s Day Prop Firm Deals (2026)
+# St. Patrick’s Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-03-17, the biggest offers: 77% OFF with code Lucky at Top One Trader, 60% OFF with code PFD at Funded Hero, 40% OFF with code PFD at FundingTraders, 40% OFF with code TRADE40 at Trading Funds, and 35% OFF with code LUCKY17 at Atmos Funded.
 

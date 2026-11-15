@@ -1,4 +1,4 @@
-# Cyber Monday Prop Firm Deals (2026)
+# Cyber Monday - Prop Firm Discount Codes & Deals 2026
 
 As of 2025-12-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code MONDAY60 at Blueberry Funded, 55% OFF with code PFD at QT Funded, and 45% OFF with code CHALL45 at OFP Funding.
 

@@ -1,4 +1,4 @@
-# Monthly Roundup Offers Prop Firm Deals (2026)
+# Monthly Roundup Offers - Prop Firm Discount Codes & Deals 2026
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 

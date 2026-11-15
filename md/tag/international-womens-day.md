@@ -1,4 +1,4 @@
-# International Women’s Day Prop Firm Deals (2026)
+# International Women’s Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-03-06, the biggest offers: 50% OFF with code WOMEN50 at Goat Funded Trader, 40% OFF with code WD40 at Blueberry Funded, 35% OFF with code PFD at FundingTraders, 30% OFF with code WOMENDAY at WeMasterTrade, and 30% OFF with code WOMEN30 at FXIFY.
 

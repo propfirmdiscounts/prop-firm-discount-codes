@@ -1,4 +1,4 @@
-# Eid Al‑Fitr Prop Firm Deals (2026)
+# Eid Al‑Fitr - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-03-20, the biggest offers: 70% OFF with code EID70 at CK PropFirm, 65% OFF with code PFD at Funded Hero, 65% OFF with code PFD at Funded Hero, 35% OFF with code EID35 at AudaCity Capital, and 33% OFF with code EID at PipFarm.
 

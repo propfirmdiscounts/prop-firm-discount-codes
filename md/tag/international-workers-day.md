@@ -1,4 +1,4 @@
-# International Worker's Day Prop Firm Deals (2026)
+# International Worker's Day - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-05-01, the biggest offers: 45% OFF with code LABOUR at Funding Your Trades, 30% OFF with code LD30 at Hantec Trader, 30% OFF with code LABOUR30 at WeMasterTrade, 25% OFF with code MAYDAY25 at ThinkCapital, and 15% OFF with code MAYDAY15 at ThinkCapital.
 

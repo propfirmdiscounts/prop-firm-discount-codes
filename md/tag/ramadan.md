@@ -1,4 +1,4 @@
-# Ramadan Prop Firm Deals (2026)
+# Ramadan - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-02-19, the biggest offers: 70% OFF with code RAM70 at CK PropFirm, 44% OFF with code Ramadan at Funding Your Trades, 40% OFF at Funding Your Trades, 40% OFF with code RAMADAN40 at Funding Your Trades, and 35% OFF at Finotive Funding.
 

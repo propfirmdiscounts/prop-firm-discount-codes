@@ -1,4 +1,4 @@
-# Holi Festival Prop Firm Deals (2026)
+# Holi Festival - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-03-03, the biggest offers: 55% OFF with code HOLI55 at FundedSquad, 45% OFF with code HOLI at Funding Your Trades, and 20% OFF with code HOLI26 at ThinkCapital.
 

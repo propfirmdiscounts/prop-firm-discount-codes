@@ -13,7 +13,7 @@ WeMasterTrade was offering 36% off.
 - Scope: all packages
 - Deal: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
 
-Apply code PFD at checkout for up to 20% off any WeMasterTrade challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for up to 30% off any WeMasterTrade challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

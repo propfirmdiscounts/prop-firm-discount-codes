@@ -4,4 +4,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-15 |  | Prop Firm Weekly Deals Roundup: 9-15 November 2026 – Black Friday Takes the Board |  | Limited time | No Code Required | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w46/ |
 | 2026-11-08 |  | Prop Firm Deals of the Week (Nov 2-8, 2026): 75 Coupons, Diwali and Black Friday Offers |  | Limited time | No Code Required | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w45/ |

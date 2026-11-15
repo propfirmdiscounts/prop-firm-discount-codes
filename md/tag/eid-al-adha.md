@@ -1,4 +1,4 @@
-# Eid al-Adha Prop Firm Deals (2026)
+# Eid al-Adha - Prop Firm Discount Codes & Deals 2026
 
 As of 2026-05-27, the biggest offers: 55% OFF with code EID at QT Funded, 55% OFF with code EID at FundedSquad, 50% OFF with code EID50 at Finotive Funding, 25% OFF with code BBFBOGO at Blueberry Funded, and 25% OFF with code EIDFNC at FundedNext.
 
