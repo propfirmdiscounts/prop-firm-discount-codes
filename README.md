@@ -6,6 +6,7 @@
 As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
 <!-- pfd-exclusive (auto-updated each sync) -->
+
 ## Prop Firms with the Highest Exclusive Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
@@ -20,6 +21,7 @@ As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with co
 | 8 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 9 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | 10 | HyroTrader | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+
 <!-- /pfd-exclusive -->
 
 Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) — verified prop firm discount codes, funding deals, and Trustpilot ratings. The source of truth is the live site; this repository is a read-only distribution channel, synced hourly.
