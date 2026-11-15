@@ -5,6 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JRN9LT8NNF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JRN9LT8NNF');
+    </script>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://propfirmdiscounts.github.io/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://propfirmdiscounts.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://propfirmdiscounts.github.io/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://propfirmdiscounts.github.io/apple-touch-icon.png">
+    <link rel="manifest" href="https://propfirmdiscounts.github.io/site.webmanifest">
     {% seo title=false %}
     <script type="application/ld+json">
     {

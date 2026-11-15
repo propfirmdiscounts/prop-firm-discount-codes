@@ -34,6 +34,8 @@ As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with co
 
 ## Published Firm Pages
 
+Dedicated repositories tracking verified discount codes, funding challenges, and historical deal ledgers for each prop trading firm:
+
 | Prop Firm | Prop Firm | Prop Firm | Prop Firm | Prop Firm |
 |---|---|---|---|---|
 | [Alpha Futures](https://propfirmdiscounts.github.io/alpha-futures-deals/) | [Direct Funded Trader](https://propfirmdiscounts.github.io/direct-funded-trader-deals/) | [Funded Elite](https://propfirmdiscounts.github.io/funded-elite-deals/) | [Goat Funded Trader](https://propfirmdiscounts.github.io/goat-funded-trader-deals/) | [Super Funded](https://propfirmdiscounts.github.io/super-funded-deals/) |
