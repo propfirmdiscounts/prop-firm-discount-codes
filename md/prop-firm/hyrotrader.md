@@ -13,7 +13,7 @@ The verified HyroTrader discount code is **PFD** — Up to 10% off, works any ti
 
 As of 2026-11-14, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
 
-## Current deal: HyroTrader Hyro Instant Launch: 15% Off First 30
+## Current deal: HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases
 
 - Published: 2026-11-06
 - Offer ends: Limited time
@@ -46,5 +46,5 @@ It may suit a buyer who had already chosen an instant funding model over an eval
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-06 - [HyroTrader Hyro Instant Launch: 15% Off First 30](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) (15% Off)
+- 2026-11-06 - [HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) (15% Off)
 - 2026-10-24 - [HyroTrader Halloween 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) (15% Off) — Halloween — ended 2026-10-31

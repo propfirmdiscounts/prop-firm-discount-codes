@@ -1,4 +1,4 @@
-# HyroTrader Hyro Instant Launch: 15% Off First 30
+# HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases
 
 HyroTrader is offering 15% off — discount code **INSTANT**.
 
