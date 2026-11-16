@@ -221,7 +221,16 @@ jobs:
                       firm = parts[2]
                       url = parts[6]
                       if url.startswith('http'):
-                          parts[6] = f'[{firm} Page]({url})'
+                          slug = url.rstrip('/').split('/')[-1]
+                          parts[6] = f'[{firm} Page](https://propfirmdiscounts.github.io/{slug}-deals/)'
+                      if len(parts) >= 6 and parts[5].lower() == 'lifetime':
+                          parts[5] = 'No expiry'
+                      l = '| ' + ' | '.join(parts[1:-1]) + ' |'
+                  elif len(parts) >= 7 and parts[1] == '#':
+                      parts[3] = 'Discount Code'
+                      parts[4] = 'Recorded Discount'
+                      parts[5] = 'Code Validity'
+                      parts[6] = 'Firm Data Page'
                       l = '| ' + ' | '.join(parts[1:-1]) + ' |'
                   table.append(l)
               elif table:
@@ -247,9 +256,7 @@ jobs:
             echo "no changes"
             exit 0
           fi
-          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-            -m "Hourly snapshot of the public dataset and markdown mirrors." \
-            -m "Co-Authored-By: propfirmdiscounts <73492456+propfirmdiscounts@users.noreply.github.com>"
+          git commit -m "Sync $(date -u +%Y-%m-%d)"
           git push
 
       - name: Push Hugging Face mirror

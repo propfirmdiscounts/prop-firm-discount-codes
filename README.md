@@ -1,37 +1,39 @@
-# All Prop Firms & Events — Verified Discount Codes & Deal History
+# Prop Firm Discount Codes, Deals & Data Directory
 
 [![PropFirmDiscount](https://img.shields.io/badge/Dataset-PropFirmDiscount.com-blue)](https://propfirmdiscount.com)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://propfirmdiscounts.github.io)
 [![PropFirmDiscount MCP connector on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-mcp.propfirmdiscount.com-orange)](https://mcp.propfirmdiscount.com/mcp)
 
-## Prop Firms with the Highest Exclusive Discount Codes
+## Top Prop Firm Discount Codes by Discount
 
 <!-- pfd-top-code (auto-updated each sync) -->
 As of November 2026, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
+Explore the highest recorded discount rates across tracked proprietary trading firms. Compare verified discount codes, their associated discounts, and links to each firm's dedicated data page. Discount information is maintained separately from individual campaign offers, which may have different terms and expiration dates.
+
 <!-- pfd-exclusive (auto-updated each sync) -->
 
-| # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
+| # | Prop firm | Discount Code | Recorded Discount | Code Validity | Firm Data Page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | [Phidias Propfirm Page](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
-| 2 | FundedSeat | PFD | 65% | Lifetime | [FundedSeat Page](https://propfirmdiscount.com/prop-firm/fundedseat/) |
-| 3 | Funded Hero | PFD | 60% | Lifetime | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
-| 4 | E8 Markets | CHUN | 50% | Lifetime | [E8 Markets Page](https://propfirmdiscount.com/prop-firm/e8-funding/) |
-| 5 | TX3 Funding | PFDC | 50% | Lifetime | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 6 | AquaFunded | PFD | 35% | Lifetime | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
-| 7 | Funded Trading Plus | PFD | 20% | Lifetime | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
-| 8 | FundedNext | PFDC | 20% | Lifetime | [FundedNext Page](https://propfirmdiscount.com/prop-firm/fundednext/) |
-| 9 | Instant Funding | PFD | 20% | Lifetime | [Instant Funding Page](https://propfirmdiscount.com/prop-firm/instant-funding/) |
-| 10 | HyroTrader | PFD | 10% | Lifetime | [HyroTrader Page](https://propfirmdiscount.com/prop-firm/hyrotrader/) |
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Page](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) |
+| 2 | FundedSeat | PFD | 65% | No expiry | [FundedSeat Page](https://propfirmdiscounts.github.io/fundedseat-deals/) |
+| 3 | Funded Hero | PFD | 60% | No expiry | [Funded Hero Page](https://propfirmdiscounts.github.io/funded-hero-deals/) |
+| 4 | E8 Markets | CHUN | 50% | No expiry | [E8 Markets Page](https://propfirmdiscounts.github.io/e8-funding-deals/) |
+| 5 | TX3 Funding | PFDC | 50% | No expiry | [TX3 Funding Page](https://propfirmdiscounts.github.io/tx3-funding-deals/) |
+| 6 | AquaFunded | PFD | 35% | No expiry | [AquaFunded Page](https://propfirmdiscounts.github.io/aquafunded-deals/) |
+| 7 | Funded Trading Plus | PFD | 20% | No expiry | [Funded Trading Plus Page](https://propfirmdiscounts.github.io/funded-trading-plus-deals/) |
+| 8 | FundedNext | PFDC | 20% | No expiry | [FundedNext Page](https://propfirmdiscounts.github.io/fundednext-deals/) |
+| 9 | Instant Funding | PFD | 20% | No expiry | [Instant Funding Page](https://propfirmdiscounts.github.io/instant-funding-deals/) |
+| 10 | HyroTrader | PFD | 10% | No expiry | [HyroTrader Page](https://propfirmdiscounts.github.io/hyrotrader-deals/) |
 
 <!-- /pfd-exclusive -->
 
 ---
 
-## Published Firm Pages
+## Prop Firm Data Directory
 
-Dedicated repositories tracking verified discount codes, funding challenges, and historical deal ledgers for each prop trading firm:
+Browse dedicated data pages for tracked proprietary trading firms. Each page provides the firm's recorded discount code, discount information, latest promotional offer, and historical deal records.
 
 | Prop Firm | Prop Firm | Prop Firm | Prop Firm | Prop Firm |
 |---|---|---|---|---|
@@ -49,9 +51,9 @@ Dedicated repositories tracking verified discount codes, funding challenges, and
 
 ---
 
-## Seasonal and Holiday Prop Firm Deals
+## Prop Firm Deals by Event & Holiday
 
-Dedicated repositories tracking promotional campaigns, holiday sales, and flash events across all firms:
+Explore historical and current promotional campaigns organized by event and holiday. Each event page provides deal records, discount details, publication dates, expiration information, and available redemption methods.
 
 | Event Deals | Event Deals | Event Deals | Event Deals |
 |---|---|---|---|
@@ -61,9 +63,9 @@ Dedicated repositories tracking promotional campaigns, holiday sales, and flash 
 
 ---
 
-Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) — verified prop firm discount codes, funding deals, and Trustpilot ratings. The source of truth is the live site; this repository is a read-only distribution channel, synced hourly.
+This repository is the public data mirror of PropFirmDiscount.com, providing structured information about proprietary trading firm discount codes, promotional deals, historical records, and Trustpilot ratings. PropFirmDiscount.com is the primary data source, while this repository provides read-only access to the published datasets and supporting files.
 
-## Find a firm's discount code
+## Access Prop Firm Discount Data
 
 - Every firm with published deals has its own page: [`md/prop-firm/{firm-slug}.md`](md/prop-firm/) — one file per firm, headed "{Firm} Discount Code", carrying the verified code, its discount, the current deal, and the deal's FAQ.
 - The full directory: [`md/prop-firms-list.md`](md/prop-firms-list.md) — every firm with a verified standing code, alphabetical, with discounts and validity.
@@ -74,7 +76,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 - The same dataset and every mirror also live on Hugging Face: [datasets/propfirmdiscounts/prop-firm-discount-codes](https://huggingface.co/datasets/propfirmdiscounts/prop-firm-discount-codes) — a third distribution channel, synced hourly.
 - Agents that speak MCP can query the dataset directly: `https://mcp.propfirmdiscount.com/mcp` — the **Prop Firm Discount MCP** server (`tools/mcp/`): structured data for current prop trading firm discounts, coupon codes, deals, promotions, and events, to find, search, compare, and verify active prop firm offers and discount codes.
 
-## Contents
+## Available Datasets & Data Files
 
 | Path | What it is |
 |---|---|
@@ -90,7 +92,7 @@ Public dataset mirror of [propfirmdiscount.com](https://propfirmdiscount.com) �
 | `md/prop-firm-reviews.md` | Trustpilot directory: score and review count per firm |
 | `llms.txt`, `ai.txt` | AI discovery manifests |
 
-## Schema
+## Dataset Schema & Field Definitions
 
 The dataset is a flat array — one object per firm, no envelope — so dataset
 viewers read each firm as a row.
@@ -122,15 +124,14 @@ changes what the deal is worth: a Halloween deal's discount is still its own
 `discount_value`. Read it from the deal, not from the calendar — a deal that is
 not tagged is not part of that event, however close its date falls.
 
-## Freshness
+## Data Freshness & Verification
 
-<!-- pfd-last-synced (auto-updated each sync) -->
-This mirror is refreshed automatically on a schedule. The commit history on
-this repository is the record of when it last changed; the deal dates in the
-data are the record of what changed.
+The public dataset mirror is regenerated automatically from the PropFirmDiscount.com data source. Repository commit history provides a record of dataset updates.
 
-Codes are re-verified continuously by the PropFirmDiscount team. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
+Deal publication dates represent the dates associated with the published records. In the current dataset schema, `last_deal.date_published` also serves as the recorded date when the firm's deal information was last checked. It is not a separate independent verification timestamp.
 
-## License
+Campaign-specific offers may change or expire at any time. Standing discount codes are tracked separately, with their validity status based on the latest information available in the firm's record.
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+## Data License & Attribution
+
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com/).
