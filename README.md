@@ -14,6 +14,7 @@ Explore the highest recorded discount rates across tracked proprietary trading f
 
 <!-- pfd-exclusive (auto-updated each sync) -->
 
+
 | # | Prop firm | Discount Code | Recorded Discount | Code Validity | Firm Data Page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | No expiry | [Phidias Propfirm Page](https://propfirmdiscounts.github.io/phidias-propfirm-deals/) |

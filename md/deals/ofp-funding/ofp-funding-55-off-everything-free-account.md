@@ -1,16 +1,15 @@
 # OFP Funding: 55% Off Everything + Free Account
 
-OFP Funding is offering 55% off — discount code **55OFF**.
+OFP Funding was offering 55% off.
 
 > OFP Funding takes 55% off every account, with a free second account on accounts above $250, until 15 November 2026. One code, whole range included.
 
 - Published: 2026-11-10
-- Offer ends: 2026-11-15
+- Offer ends: 2026-11-15 (ended)
 - Prop firm: OFP Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 - Summary: OFP Funding is taking 55% off every account with a free second account on accounts above $250, running until November 15, so the whole range is inside one code and one deadline.
 - Offer: 55% Off
-- Code: 55OFF
 - Scope: All Accounts
 - Deal: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-55-off-everything-free-account/
 

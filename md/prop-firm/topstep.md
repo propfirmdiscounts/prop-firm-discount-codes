@@ -7,10 +7,10 @@ No live discount code for Topstep right now — newest deals and offers are belo
 - Activate: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 
-## Current deal: Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
+## Most recent deal (ended): Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
 
 - Published: 2026-10-15
-- Offer ends: Limited time
+- Offer ends: Ended
 - Offer: Only $65
 - Scope: 3K Challenge, Undead Account, Slasher Account, Halloween
 - Event: Halloween

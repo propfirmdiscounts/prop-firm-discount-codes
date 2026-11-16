@@ -6,7 +6,7 @@ The top prop firm offer this month is **PFD** from Upcomers — 93% off (standin
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-15, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding.
+As of 2026-11-16, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding.
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@ As of 2026-11-15, the biggest prop firm offers this month: 93% OFF with code PFD
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-As of 2026-11-15, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+As of 2026-11-16, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -63,7 +63,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account with code PFD | 85% Off | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-10 | FTUK | FTUK: 50% Off Every Instant Funding Size | 50% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/ |
 | 2026-11-10 | City Traders Imperium (CTI) | CTI: 15% Off 1-Step, 2-Step and Instant Funding | 15% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-news-trading/ |
-| 2026-11-10 | OFP Funding | OFP Funding: 55% Off Everything + Free Account | 55% Off | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-55-off-everything-free-account/ |
 | 2026-11-10 | Atlas Funded | Atlas Funded: 40% Off Evaluations From $25.80 | 40% Off | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/ |
 | 2026-11-10 | QT Funded | QT Funded: 55% Off All Challenges + Free Account | 55% Off | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/ |
 | 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% Off | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
@@ -74,3 +73,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
 | 2026-11-07 | QT Funded | QT Funded: 60% Off Any Account + Free Same-Size Account | 60% Off | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/ |
 | 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |
+| 2026-11-07 | FTUK | FTUK: 35% Off Instant Funding Plus 20% Profit Boost | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-profit-boost/ |

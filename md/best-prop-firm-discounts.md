@@ -2,7 +2,7 @@
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-15, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 17 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
+As of 2026-11-16, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 80% OFF with code BLACKFRIDAY at Top One Trader, and 76% OFF with code 5KFOR9 at RebelsFunding. PropFirmDiscount ranks 20 offers posted this month by discount size. 16 are still running; ended deals stay in the ranking with "Ended" marked, so the month's full picture remains visible.
 
 | # | Prop firm | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ As of 2026-11-15, the biggest prop firm offers this month: 93% OFF with code PFD
 | 9 | Funded Hero | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 10 | TradeDay | SALE60 | 60% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeday/ |
 | 11 | FundYourFX | VET60 | 60% | Campaign Code | Ends Nov 16, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 12 | OFP Funding | 55OFF | 55% | Campaign Code | Ends Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
+| 12 | OFP Funding | 55OFF | 55% | Campaign Code | Ended Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/ofp-funding/ |
 | 13 | FundedSquad | DIWALI | 55% | Campaign Code | Ended Nov 10, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 | 14 | SFX Funded | BF55 | 55% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
 | 15 | Atlas Funded | PFD | 50% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |

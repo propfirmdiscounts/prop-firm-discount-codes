@@ -9,7 +9,7 @@ No live discount code for BrightFunded right now — newest deals and offers are
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 
-As of 2026-11-15, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 40% OFF with code WEEKEND, 30% OFF with code UNLUCKY, 30% OFF with code HW30, and 25% OFF with code DOUBLE25.
+As of 2026-11-16, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 40% OFF with code WEEKEND, 30% OFF with code UNLUCKY, 30% OFF with code HW30, and 25% OFF with code DOUBLE25.
 
 ## Most recent deal (ended): BrightFunded Friday 13th: 30% Off CFD Challenges
 

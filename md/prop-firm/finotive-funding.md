@@ -1,10 +1,10 @@
 # Finotive Funding Discount Code
 
-The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, works any time.
+The verified Finotive Funding discount code is **PFDC** — Up to 25% off, works any time.
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity. We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits. Our mission is simple — to build the fairest, most transparent, and most flexible funding model in the industry. With static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we’ve redefined what traders can expect from a prop firm. Since 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support. Every account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success. Trade fairly. Trade freely. Trade Finotive.
 
-- Code: JACKICHUN
+- Code: PFDC
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
@@ -13,7 +13,7 @@ The verified Finotive Funding discount code is **JACKICHUN** — Up to 25% off, 
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-15, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code ROOTS50, 50% OFF with code BOO50, and 50% OFF with code OCT50.
+As of 2026-11-16, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code ROOTS50, 50% OFF with code BOO50, and 50% OFF with code OCT50.
 
 ## Most recent deal (ended): Finotive Funding Back to Roots Sale: 50% Off Everything
 
