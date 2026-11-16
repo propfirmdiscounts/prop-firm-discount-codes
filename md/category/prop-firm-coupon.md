@@ -6,6 +6,23 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% OFF | 2026-11-18 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
+| 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
+| 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
+| 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
+| 2026-11-16 | Elite Trader Funding | Elite Trader Funding Thanksgiving: 90% Off Evals | 90% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-thanksgiving-90-off-evals/ |
+| 2026-11-16 | FTUK | FTUK Black Friday: 40% Off Instant + Free Retake | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |
+| 2026-11-16 | Goat Funded Trader | Goat Funded Trader Black Friday: 50% Off | 50% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/ |
+| 2026-11-16 | Bullwaves Prime | Bullwaves Prime Black Friday: 60% Off Everything | 60% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/ |
+| 2026-11-16 | BrightFunded | BrightFunded Futures Black Friday: 45% Off | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-futures-black-friday-45-off/ |
+| 2026-11-16 | CK PropFirm | CK PropFirm Flash Sale: 85% Off All Evaluations | 85% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/ |
+| 2026-11-16 | QT Funded | QT Funded Black Friday: 60% Off, Free Account | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/ |
+| 2026-11-16 | Funding Your Trades | Funding Your Trades Black Friday: 35% Off + BOGO | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/ |
+| 2026-11-16 | Tradexprop | Tradexprop Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/ |
+| 2026-11-16 | Blue Guardian | Blue Guardian Futures ZERO: 30% Off Launch Sale with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/ |
+| 2026-11-16 | FundedSquad | FundedSquad Black Friday: 55% Off All Models | 55% OFF | 2026-11-23 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
+| 2026-11-16 | QT Funded | QT Funded Black Friday: 75% Off All Plans | 75% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/ |
+| 2026-11-16 | FundingTraders | FundingTraders Flash Sale: Up to 81% Off Instant with code PFD | 81% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/ |
 | 2026-11-15 | Ment Funding | Ment Funding Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/ |
 | 2026-11-14 | We Get Funded | We Get Funded Black Friday: 4 Challenges, One Purchase | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/ |
 | 2026-11-14 | Crypto Fund Trader | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |

@@ -7,21 +7,44 @@ The verified Klein Funding discount code is **PFD** — Up to 30% off, works any
 - Code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-02-14
-- Trustpilot: 4.8/5 (484 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 4.8/5 (485 reviews)
 - Activate: https://propfirmdiscount.com/go/kleinfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/klein-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Klein Funding Valentine’s Day Deal: 5% Off Standard Accounts + Free Evaluation Included
+## Current deal: Klein Funding Black Friday: Free Half-Size Challenge
 
-- Published: 2026-02-14
-- Offer ends: Ended
-- Offer: 5% Off
-- Scope: Standard Accounts, BOGO
-- Event: Valentine's Day
-- Deal page: https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/
+- Published: 2026-11-16
+- Offer ends: Limited time
+- Offer: Free Half-Size
+- Code: HALF50
+- Scope: All Evaluations
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/
+
+## Klein Funding deal FAQ
+
+**What does the Black Friday offer include?**
+
+Buy any evaluation and a free half-size challenge unlocks instantly, so one purchase returns two accounts.
+
+**What does half-size mean?**
+
+The free challenge is half the size of the evaluation purchased. Buy a larger evaluation and the free challenge is larger with it.
+
+**When is the free challenge unlocked?**
+
+Instantly, with the purchase, according to the offer.
+
+**Is there a percentage discount as well?**
+
+No percentage discount is stated for this offer. The value is the free second challenge.
+
+**What basis do the accounts trade on?**
+
+The firm's fine print states that its accounts are demo accounts with fictitious funds in a simulated environment; rewards are based on performance through those accounts.
 
 ## Deals (last 2 months, newest first)
 
-- No deal published in the last 2 months. Check back soon for new promotions.
+- 2026-11-16 - [Klein Funding Black Friday: Free Half-Size Challenge](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) (Free Half-Size) — Black Friday

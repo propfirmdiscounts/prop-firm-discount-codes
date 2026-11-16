@@ -5,7 +5,7 @@ The newest Ment Funding discount code is **EXCITEMENT** — 40% off (November 15
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
 - Last deal published: 2026-11-15
-- Trustpilot: 4.5/5 (234 reviews)
+- Trustpilot: 4.6/5 (235 reviews)
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 

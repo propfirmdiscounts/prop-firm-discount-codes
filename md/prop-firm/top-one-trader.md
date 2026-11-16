@@ -1,46 +1,50 @@
 # Top One Trader Discount Code
 
-The newest Top One Trader discount code is **BLACKFRIDAY** — 80% off (November 1, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Top One Trader right now — newest deals and offers are below.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
-- Last deal published: 2026-11-01
-- Trustpilot: 4.4/5 (3495 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 4.4/5 (3499 reviews)
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-As of 2026-11-16, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
+As of 2026-11-16, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 65% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
 
-## Current deal: Top One Trader Black November Up to 80% Off Instant Funded
+## Current deal: Top One Trader Black Friday: Up to 65% Off
 
-- Published: 2026-11-01
+- Published: 2026-11-16
 - Offer ends: Limited time
-- Offer: 80% Off
-- Code: BLACKFRIDAY
-- Scope: Instant Funded accounts, other account types
+- Offer: 65% Off
+- Scope: Ignite Instant Funding, Elite Daily, Bundles of 5+
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/
+- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/
 
 ## Top One Trader deal FAQ
 
-**What does Top One Trader Black November offer?**
+**What does the Black Friday offer include?**
 
-It cuts up to 80% off Instant Funded accounts and up to 75% off other account types. The cut lowers the upfront entry cost, while the account type chosen stays the same.
+Three rates: 60% off Ignite Instant Funding, up to 65% off bundles of five or more accounts and 55% off Elite Daily.
 
-**Which Top One Trader accounts get the 80% cut?**
+**How does the bundle tier work?**
 
-Instant Funded accounts get up to 80% off. Other account types get up to 75% off.
+Five or more accounts bought together take up to 65% off. The offer does not specify the per-plan bundle rate, so check the bundle price on the deal page.
 
-**When does Top One Trader Black November end?**
+**How do the rates apply?**
 
-No end date is stated for this promotion.
+Through the deal page linked at the end of this article; the offer runs on the listed rates for each plan.
 
-**How do I get the Top One Trader discount code for this offer?**
+**When does the offer end?**
 
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+No end date is stated for the offer.
+
+**Does the promotion change the trading rules?**
+
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-16 - [Top One Trader Black Friday: Up to 65% Off](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/) (65% Off) — Black Friday
 - 2026-11-01 - [Top One Trader Black November Up to 80% Off Instant Funded](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/) (80% Off) — Black Friday
 - 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off) — Halloween — ended 2026-10-31
 - 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)

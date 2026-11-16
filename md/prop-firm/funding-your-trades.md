@@ -7,47 +7,49 @@ The verified Funding Your Trades discount code is **PFD** — Up to 2% off, work
 - Code: PFD
 - Discount: Up to 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-05
-- Trustpilot: 3.0/5 (130 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 3.0/5 (132 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingyourtrades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Funding Your Trades offers this month: 45% OFF with code DIWALI45, 45% OFF with code FYTWEEN, and 40% OFF with code NEWDASH.
+As of 2026-11-16, the biggest Funding Your Trades offers this month: 45% OFF with code DIWALI45, 45% OFF with code FYTWEEN, 40% OFF with code NEWDASH, and 35% OFF with code BOGO35.
 
-## Most recent deal (ended): Funding Your Trades Diwali 45% Off + Buy 1 Get 3
+## Current deal: Funding Your Trades Black Friday: 35% Off + BOGO
 
-- Published: 2026-11-05
-- Offer ends: 2026-11-12 (ended)
-- Offer: 45% Off
-- Scope: Challenges - buy 1, trade 3 accounts
-- Event: Diwali
-- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/
+- Published: 2026-11-16
+- Offer ends: Limited time
+- Offer: 35% Off
+- Code: BOGO35
+- Scope: Challenges
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/
 
 ## Funding Your Trades deal FAQ
 
-**What does the Funding Your Trades Diwali promotion include?**
+**What does the Black Friday offer include?**
 
-It includes 45% off plus a buy 1 get 3 structure. The buyer pays for one challenge and receives two bonus accounts, so three accounts are available to trade.
+35% off, plus BOGO instantly, a free drawdown reset and first reward on demand.
 
-**How long does the Funding Your Trades Diwali offer run?**
+**What does BOGO instantly mean here?**
 
-It runs for 7 days only, ending 12 November. After that window the three-account structure and the 45% rate are no longer part of this promotion.
+A buy-one-get-one structure delivered at the purchase itself, rather than unlocked after a payout. The offer does not specify the free account's size.
 
-**Are the Funding Your Trades bonus accounts added straight away?**
+**What is first reward on demand?**
 
-Yes. The two bonus accounts are added instantly with the purchase, rather than after a pass or a payout milestone.
+A payout term in the offer: the first reward can be requested on demand, under the firm's conditions. It concerns the timing of a reward, not the likelihood of earning one.
 
-**Does the Funding Your Trades discount change challenge rules?**
+**When does the offer end?**
 
-No. The promotion lowers the purchase price only. Challenge rules and drawdown limits stay as set and trading risk is not reduced on any of the three accounts.
+The offer is flagged limited time, with no end date stated.
 
-**Who may this Funding Your Trades structure suit?**
+**Does the bundle change the risk of trading?**
 
-It may suit a buyer who had already planned to run more than one challenge account. A buyer treating it as a Diwali-season purchase should keep the cost inside a comfortable festive budget.
+No. It changes purchase pricing and account extras only; the trading task and its risk are unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-16 - [Funding Your Trades Black Friday: 35% Off + BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/) (35% Off) — Black Friday
 - 2026-11-05 - [Funding Your Trades Diwali 45% Off + Buy 1 Get 3](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/) (45% Off) — Diwali — ended 2026-11-12
 - 2026-10-22 - [Funding Your Trades 45% Off Halloween Challenges Plus BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) (45% Off) — Halloween
 - 2026-10-13 - [Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/) (40% Off) — ended 2026-10-20

@@ -5,7 +5,7 @@ The newest FunderPro discount code is **BF30** — 30% off (November 12, 2026). 
 > FunderPro is a prop trading firm looking to empower skilled traders globally. Join our funded trader program and manage up to $200k in Funds.
 
 - Last deal published: 2026-11-12
-- Trustpilot: 2.7/5 (1551 reviews)
+- Trustpilot: 2.7/5 (1552 reviews)
 - Activate: https://propfirmdiscount.com/go/funderpro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 

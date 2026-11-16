@@ -1,49 +1,51 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **NOVEMBER50** — 50% off (November 10, 2026). The campaign code changes with each promotion; newest first below.
+The newest FTUK discount code is **RETAKE40** — 40% off (November 16, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-11-10
-- Trustpilot: 3.9/5 (809 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 3.9/5 (811 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-16, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 50% OFF with code FLEX50, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
+As of 2026-11-16, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
 
-## Current deal: FTUK: 50% Off Every Instant Funding Size
+## Current deal: FTUK Black Friday: 40% Off Instant + Free Retake
 
-- Published: 2026-11-10
+- Published: 2026-11-16
 - Offer ends: Limited time
-- Offer: 50% Off
-- Code: NOVEMBER50
-- Scope: Instant Funding
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/
+- Offer: 40% Off
+- Code: RETAKE40
+- Scope: Instant Funding (Forex & Futures)
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/
 
 ## FTUK deal FAQ
 
-**What does the FTUK code take off?**
+**What does the early Black Friday offer include?**
 
-50% off every Instant Funding size. Challenge accounts are not part of this offer.
+40% off Instant Funding across Forex and Futures, plus one free retake included with the purchase.
 
-**What features does the announcement list for Instant Funding?**
+**What does the free retake mean?**
 
-No stop-loss rule, no time limit, news trading and weekend holding open, payouts on demand; no profit target - the account starts funded. The trader also chooses the platform that fits their strategy.
+A second attempt is included if the first does not pass, without a second purchase. The announcement does not specify the retake's conditions, so check its terms before relying on it.
 
-**When does the offer end?**
-
-The announcement states no end date for the code.
-
-**How does this compare with yesterday's FTUK offer?**
-
-That offer took 35% off every Instant Funding account. This one takes 50% off the same scope - fifteen points higher, one day later.
-
-**Does the discount change the account itself?**
+**Does the promotion change the trading rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
+**When does the offer end?**
+
+No end date is stated for the offer.
+
+**How does this compare with the firm's last Instant Funding offer?**
+
+The 10 November listing took 50% off every Instant Funding size with no retake. This offer takes 40% off and adds the free retake.
+
 ## Deals (last 2 months, newest first)
 
+- 2026-11-16 - [FTUK Black Friday: 40% Off Instant + Free Retake](https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/) (40% Off) — Black Friday
 - 2026-11-10 - [FTUK: 50% Off Every Instant Funding Size](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/) (50% Off)
 - 2026-11-09 - [FTUK Instant Funding: 35% Off Every Account](https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/) (35% Off)
 - 2026-11-07 - [FTUK: 35% Off Instant Funding Plus 20% Profit Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-profit-boost/) (35% Off)

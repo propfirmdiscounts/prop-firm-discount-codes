@@ -1,11 +1,12 @@
 # Prop Firm Deals & Limited-Time Offers Prop Firm Deals (2026)
 
-As of 2026-10-01, the biggest offers: 90% OFF at Apex Trader Funding, 75% OFF at CK PropFirm, 70% OFF at Bitfunded, 70% OFF at Top One Trader, and 60% OFF at Bitfunded.
+As of 2026-10-14, the biggest offers: 75% OFF at CK PropFirm, 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, and 60% OFF at Bitfunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
 | 2026-11-02 | Funded Trading Plus | Funded Trading Plus $4 Activation Account, 2% Target | Only $4 | Limited time | No Code Required | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-16 | Apex Trader Funding | Apex Trader Funding: $49 For 50K No-Activation Fee Accounts Plus 90% Off Other Evaluations | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-49-flat-50k-90-off/ |
 | 2026-07-14 | Fintokei | Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee) | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fintokei/fintokei-summer-30-off-protrader-5k/ |
 | 2026-07-10 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations & $59 PA Activations | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-59-pa/ |
-| 2026-07-04 | Lark Funding | Lark Funding $10,000 1-Step Challenge Pricing at $200 with 200K Raffle Ticket | Bonus Account | Ended | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-10k-1-step-flash-deal/ |

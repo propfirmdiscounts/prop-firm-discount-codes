@@ -7,47 +7,48 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-12
-- Trustpilot: 3.1/5 (3288 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 3.1/5 (3290 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest FundingTraders offers this month: 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-16, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders: Up to 81% Off Instant Funded with code PFD
+## Current deal: FundingTraders Flash Sale: Up to 81% Off Instant with code PFD
 
-- Published: 2026-11-12
+- Published: 2026-11-16
 - Offer ends: Limited time
 - Offer: 81% Off
 - Code: PFD
-- Scope: Instant Funded
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/
+- Scope: Instant Funded Accounts
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/
 
 ## FundingTraders deal FAQ
 
-**What does the FundingTraders flash-sale code take off?**
+**How much does the flash sale take off?**
 
-Up to 81% off Instant Funded accounts, with all add-ons included. The three listed prices work out to about 71% off at $5K, 77% off at $100K and 75% off at $400K.
+Up to 81% off Instant Funded accounts. The listed $100K account is $297 against a $1,310 regular price. The $400K account is $997 against $4,050, so the exact saving depends on the size.
 
-**What are the stated prices?**
+**Which accounts does the sale cover?**
 
-$5K Instant Funded at $47 (was $162, saving $115); $100K at $297 (was $1,310, saving $1,013); $400K at $997 (was $4,050, saving $3,053).
+Instant Funded accounts, with all add-ons included.
 
-**What does the 200% refund rate mean?**
-
-It is a program term the firm states for these accounts, separate from the checkout discount. Its conditions are not spelled out in this material; check the firm's terms before relying on it.
-
-**Is there an end date?**
-
-No end date is stated. The announcement says only that the deal will not last long.
-
-**Does the discount change the accounts or reduce risk?**
+**Does the sale change the trading rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
+**What is the 200% refund rate?**
+
+It is listed among the account terms as a program feature. A refund rate governs what a refund pays under the program's conditions; it is separate from the purchase discount.
+
+**When does the flash sale end?**
+
+No end date is stated for this sale.
+
 ## Deals (last 2 months, newest first)
 
+- 2026-11-16 - [FundingTraders Flash Sale: Up to 81% Off Instant with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) (81% Off)
 - 2026-11-12 - [FundingTraders: Up to 81% Off Instant Funded with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) (81% Off)
 - 2026-11-07 - [FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) (70% Off) — Diwali
 - 2026-11-03 - [Funding Traders 50% Off Instant Funded and Pro Accounts with code PFD](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) (50% Off)

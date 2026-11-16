@@ -5,51 +5,49 @@ The verified Goat Funded Trader discount code is **CSV** — Up to 35% off, work
 - Code: CSV
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
-- Trustpilot: 2.1/5 (4357 reviews)
+- Last deal published: 2026-11-16
+- Trustpilot: 2.0/5 (4365 reviews)
 - Activate: https://propfirmdiscount.com/go/goatfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Goat Funded Trader offers this month: 50% OFF with code HALLOWEEN50, 50% OFF with code UK50, 40% OFF with code BOGO40, and 8% OFF with code LAUNCH8.
+As of 2026-11-16, the biggest Goat Funded Trader offers this month: 50% OFF with code EARLYFRIDAY50, 50% OFF with code HALLOWEEN50, 50% OFF with code UK50, 40% OFF with code BOGO40, and 8% OFF with code LAUNCH8.
 
-## Current deal: Goat Funded Trader 40% Off Plus Buy One Get One Free
+## Current deal: Goat Funded Trader Black Friday: 50% Off
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 40% Off
-- Code: BOGO40
-- Scope: Challenge accounts, excluding Instant Daily
-- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/
+- Published: 2026-11-16
+- Offer ends: 2026-11-23
+- Offer: 50% Off
+- Code: EARLYFRIDAY50
+- Scope: Selected Plans
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/
 
 ## Goat Funded Trader deal FAQ
 
-**What does Goat Funded Trader offer in November?**
+**What does the early Black Friday offer include?**
 
-It cuts 40% off and adds a second account free, excluding Instant Daily. The offer is back by popular demand.
+50% off selected plans, for 7 days only, ending 23 November 2026.
 
-**When does this Goat Funded Trader offer end?**
+**Which plans are selected?**
 
-No end date is stated for this offer. The offer terms give no deadline for the cut or the second account.
+The announcement does not name them. A plan qualifies only if the firm's selected list includes it, so check before buying.
 
-**Which Goat Funded Trader accounts are covered by this offer?**
+**When does the offer end?**
 
-Challenge accounts are covered, excluding Instant Daily. A buyer checking Instant Daily does not get the cut or the second account.
+After 7 days: the window closes on 23 November 2026.
 
-**What features come with this Goat Funded Trader offer?**
+**What does half price mean here?**
 
-Clarity cards sit in the dashboard, with no time limits and up to 100% profit split. A buyer can scale toward $2M, with the first payout on demand.
+The selected plans are priced at 50% off their standard price during the window.
 
-**What stays the same with this Goat Funded Trader offer?**
+**Does the discount change the evaluation?**
 
-The account picked stays the same, with the benefit as price and a second account, not a different account.
-
-**How do I get the Goat Funded Trader discount code for this offer?**
-
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+No. It reduces the entry price only; the challenge rules and the risk of trading are unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-16 - [Goat Funded Trader Black Friday: 50% Off](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) (50% Off) — Black Friday
 - 2026-11-02 - [Goat Funded Trader 40% Off Plus Buy One Get One Free](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) (40% Off)
 - 2026-10-27 - [Goat Funded Trader 8% Off Prediction Market Evaluations](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) (8% Off)
 - 2026-10-26 - [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) (50% Off) — Halloween
