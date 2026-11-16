@@ -50,7 +50,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-13 | Funded Trading Plus | Funded Trading Plus: 25% Off Plus Free Add-On | 25% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% Off | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-13 | Sure Leverage Funding | Sure Leverage Funding: 35% Off November Offer | 35% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/ |
-| 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% Off | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
 | 2026-11-12 | FundingTraders | FundingTraders: Up to 81% Off Instant Funded with code PFD | 81% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/ |
 | 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% Off | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% Off | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
@@ -74,3 +73,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% Off | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
 | 2026-11-07 | QT Funded | QT Funded: 60% Off Any Account + Free Same-Size Account | 60% Off | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/ |
+| 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |

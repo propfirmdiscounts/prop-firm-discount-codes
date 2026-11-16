@@ -13,12 +13,11 @@ The verified Bullwaves Prime discount code is **PFD** — Up to 10% off, works a
 
 As of 2026-11-15, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65 and 35% OFF with code NOTRICKS35.
 
-## Current deal: Bullwaves Prime: 65% Off Everything, Early Bird
+## Most recent deal (ended): Bullwaves Prime: 65% Off Everything, Early Bird
 
 - Published: 2026-11-12
-- Offer ends: 2026-11-15 18:59
+- Offer ends: 2026-11-15 18:59 (ended)
 - Offer: 65% Off
-- Code: EARLYBF65
 - Scope: Everything
 - Event: Black Friday
 - Deal page: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/
@@ -47,5 +46,5 @@ No. The code reduces purchase prices only; trading risk is unchanged.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-12 - [Bullwaves Prime: 65% Off Everything, Early Bird](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) (65% Off) — Black Friday
+- 2026-11-12 - [Bullwaves Prime: 65% Off Everything, Early Bird](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) (65% Off) — Black Friday — ended 2026-11-15 18:59
 - 2026-10-23 - [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) (35% Off) — Halloween — ended 2026-10-31

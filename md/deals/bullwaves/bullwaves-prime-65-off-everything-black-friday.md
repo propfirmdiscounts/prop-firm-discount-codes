@@ -1,16 +1,15 @@
 # Bullwaves Prime: 65% Off Everything, Early Bird
 
-Bullwaves Prime is offering 65% off — discount code **EARLYBF65**.
+Bullwaves Prime was offering 65% off.
 
 > Bullwaves Prime takes 65% off everything for its Black Friday Early Bird, community members only, ending 15 November 2026 at 23:59 UTC.
 
 - Published: 2026-11-12
-- Offer ends: 2026-11-15 18:59
+- Offer ends: 2026-11-15 18:59 (ended)
 - Prop firm: Bullwaves Prime
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 - Summary: Bullwaves Prime has opened its Black Friday Early Bird for community members: 65% off everything plus buy one, get one free after your first payout, ending 15 November.
 - Offer: 65% Off
-- Code: EARLYBF65
 - Scope: Everything
 - Deal: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/
 
