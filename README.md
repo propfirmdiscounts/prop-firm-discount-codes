@@ -1,26 +1,29 @@
 # All Prop Firms & Events — Verified Discount Codes & Deal History
 
-[![PropFirmDiscount MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
-
-<!-- pfd-top-code (auto-updated each sync) -->
-As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
-
-<!-- pfd-exclusive (auto-updated each sync) -->
+[![PropFirmDiscount](https://img.shields.io/badge/Dataset-PropFirmDiscount.com-blue)](https://propfirmdiscount.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://propfirmdiscounts.github.io)
+[![PropFirmDiscount MCP connector on Glama](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.propfirmdiscount/public-mcp)
+[![MCP Endpoint](https://img.shields.io/badge/MCP-mcp.propfirmdiscount.com-orange)](https://mcp.propfirmdiscount.com/mcp)
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
+<!-- pfd-top-code (auto-updated each sync) -->
+As of November 2026, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+
+<!-- pfd-exclusive (auto-updated each sync) -->
+
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundedSeat | PFD | 65% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 3 | Funded Hero | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | TX3 Funding | PFDC | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Funded Trading Plus | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 8 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 9 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| 10 | HyroTrader | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+| 1 | Phidias Propfirm | PFD | 85% | Lifetime | [Phidias Propfirm Page](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | FundedSeat | PFD | 65% | Lifetime | [FundedSeat Page](https://propfirmdiscount.com/prop-firm/fundedseat/) |
+| 3 | Funded Hero | PFD | 60% | Lifetime | [Funded Hero Page](https://propfirmdiscount.com/prop-firm/funded-hero/) |
+| 4 | E8 Markets | CHUN | 50% | Lifetime | [E8 Markets Page](https://propfirmdiscount.com/prop-firm/e8-funding/) |
+| 5 | TX3 Funding | PFDC | 50% | Lifetime | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 6 | AquaFunded | PFD | 35% | Lifetime | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 7 | Funded Trading Plus | PFD | 20% | Lifetime | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
+| 8 | FundedNext | PFDC | 20% | Lifetime | [FundedNext Page](https://propfirmdiscount.com/prop-firm/fundednext/) |
+| 9 | Instant Funding | PFD | 20% | Lifetime | [Instant Funding Page](https://propfirmdiscount.com/prop-firm/instant-funding/) |
+| 10 | HyroTrader | PFD | 10% | Lifetime | [HyroTrader Page](https://propfirmdiscount.com/prop-firm/hyrotrader/) |
 
 <!-- /pfd-exclusive -->
 

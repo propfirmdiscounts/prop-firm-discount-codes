@@ -181,9 +181,9 @@ jobs:
               joined = f"{parts[0]} and {parts[1]}"
           else:
               joined = ', '.join(parts[:-1]) + f", and {parts[-1]}"
-          line = ("As of {date}, the biggest verified prop firm discount codes are "
-                  "{codes}.").format(
-              date=os.environ['STAMP'][:7], codes=joined)
+          from datetime import datetime, timezone
+          now_month = datetime.now(timezone.utc).strftime('%B %Y')
+          line = f"As of {now_month}, the biggest verified prop firm discount codes are {joined}."
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
                       lambda _: line, md, count=1)
@@ -216,13 +216,20 @@ jobs:
           table = []
           for l in lines[start + 1:]:
               if l.startswith('|'):
+                  parts = [p.strip() for p in l.split('|')]
+                  if len(parts) >= 7 and parts[1] and parts[1] != '#' and not parts[1].startswith('---'):
+                      firm = parts[2]
+                      url = parts[6]
+                      if url.startswith('http'):
+                          parts[6] = f'[{firm} Page]({url})'
+                      l = '| ' + ' | '.join(parts[1:-1]) + ' |'
                   table.append(l)
               elif table:
                   break
           # Header row, separator row, at least one firm.
           if len(table) < 3:
               raise SystemExit(0)
-          block = '\n## Prop Firms with the Highest Exclusive Discount Codes\n\n' + '\n'.join(table) + '\n'
+          block = '\n\n' + '\n'.join(table) + '\n'
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-exclusive \(auto-updated each sync\) -->\n)'
                       r'.*?(?=\n<!-- /pfd-exclusive -->)',
