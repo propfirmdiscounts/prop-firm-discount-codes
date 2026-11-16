@@ -181,21 +181,13 @@ jobs:
               joined = f"{parts[0]} and {parts[1]}"
           else:
               joined = ', '.join(parts[:-1]) + f", and {parts[-1]}"
-          from datetime import datetime, timezone
-          now_month = datetime.now(timezone.utc).strftime('%B %Y')
-          line = f"As of {now_month}, the biggest verified prop firm discount codes are {joined}."
+          line = ("As of {date}, the biggest verified prop firm discount codes are "
+                  "{codes}.").format(
+              date=os.environ['STAMP'][:7], codes=joined)
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-top-code \(auto-updated each sync\) -->\n)[^\n]+',
                       lambda _: line, md, count=1)
           open('README.md', 'w', encoding='utf-8').write(md)
-          try:
-              cfg = open('_config.yml', encoding='utf-8').read()
-              escaped_desc = line.replace('"', '\\"')
-              cfg = re.sub(r'(?<=description: ")[^"\n]+',
-                           lambda _: escaped_desc, cfg, count=1)
-              open('_config.yml', 'w', encoding='utf-8').write(cfg)
-          except Exception:
-              pass
           PY
           # Exclusive list: the homepage's partner-code table, copied from the
           # md/home.md mirror fetched above, so the repo's front page leads
@@ -216,29 +208,13 @@ jobs:
           table = []
           for l in lines[start + 1:]:
               if l.startswith('|'):
-                  parts = [p.strip() for p in l.split('|')]
-                  if len(parts) >= 7 and parts[1] and parts[1] != '#' and not parts[1].startswith('---'):
-                      firm = parts[2]
-                      url = parts[6]
-                      if url.startswith('http'):
-                          slug = url.rstrip('/').split('/')[-1]
-                          parts[6] = f'[{firm} Page](https://propfirmdiscounts.github.io/{slug}-deals/)'
-                      if len(parts) >= 6 and parts[5].lower() == 'lifetime':
-                          parts[5] = 'No expiry'
-                      l = '| ' + ' | '.join(parts[1:-1]) + ' |'
-                  elif len(parts) >= 7 and parts[1] == '#':
-                      parts[3] = 'Discount Code'
-                      parts[4] = 'Recorded Discount'
-                      parts[5] = 'Code Validity'
-                      parts[6] = 'Firm Data Page'
-                      l = '| ' + ' | '.join(parts[1:-1]) + ' |'
                   table.append(l)
               elif table:
                   break
           # Header row, separator row, at least one firm.
           if len(table) < 3:
               raise SystemExit(0)
-          block = '\n\n' + '\n'.join(table) + '\n'
+          block = '\n## Prop Firms with the Highest Exclusive Discount Codes\n\n' + '\n'.join(table) + '\n'
           md = open('README.md', encoding='utf-8').read()
           md = re.sub(r'(?<=<!-- pfd-exclusive \(auto-updated each sync\) -->\n)'
                       r'.*?(?=\n<!-- /pfd-exclusive -->)',
@@ -256,11 +232,13 @@ jobs:
             echo "no changes"
             exit 0
           fi
-          git commit -m "Sync $(date -u +%Y-%m-%d)"
+          git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            -m "Hourly snapshot of the public dataset and markdown mirrors." \
+            -m "Co-Authored-By: propfirmdiscounts <73492456+propfirmdiscounts@users.noreply.github.com>"
           git push
 
       - name: Push Hugging Face mirror
-        # HF dataset mirror (propfirm-deals/prop-firm-discount): same content as
+        # HF dataset mirror (pfdiscount/prop-firm-discount): same content as
         # this repo, on a second distribution channel. Runs after the GitHub
         # commit so HF never gets content that failed to land here first, and
         # never blocks GitHub sync or downstream site deploys if HF fails.
@@ -268,7 +246,7 @@ jobs:
         continue-on-error: true
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_NAMESPACE: propfirm-deals
+          HF_NAMESPACE: pfdiscount
           REPO_NAME: prop-firm-discount-codes
           HF_REPO_NAME: prop-firm-discount
         if: env.HF_TOKEN != ''
