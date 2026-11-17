@@ -7,7 +7,7 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-16
+- Last deal published: 2026-11-17
 - Trustpilot: 3.1/5 (3290 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
@@ -15,39 +15,40 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 
 As of 2026-11-17, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders Flash Sale: Up to 81% Off Instant with code PFD
+## Current deal: FundingTraders: 50% Off All Accounts + Free Account with code PFD
 
-- Published: 2026-11-16
+- Published: 2026-11-17
 - Offer ends: Limited time
-- Offer: 81% Off
+- Offer: 50% Off
 - Code: PFD
-- Scope: Instant Funded Accounts
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/
+- Scope: All Accounts
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/
 
 ## FundingTraders deal FAQ
 
-**How much does the flash sale take off?**
+**What does the 50% off cover?**
 
-Up to 81% off Instant Funded accounts. The listed $100K account is $297 against a $1,310 regular price. The $400K account is $997 against $4,050, so the exact saving depends on the size.
+All accounts across the firm's range, with a free matching account included with every purchase.
 
-**Which accounts does the sale cover?**
+**What is the free matching account?**
 
-Instant Funded accounts, with all add-ons included.
+A second account matching the purchased one, included free and delivered instantly under this offer.
 
-**Does the sale change the trading rules?**
+**Why is the $100K 1-Step listed at $147 per account?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+At 50% off, one account costs $294.50 against the $589 regular price. The free matching account splits that cost across two accounts, which gives the listed $147 per-account figure.
 
-**What is the 200% refund rate?**
+**Does the free account change the evaluation rules?**
 
-It is listed among the account terms as a program feature. A refund rate governs what a refund pays under the program's conditions; it is separate from the purchase discount.
+No. The offer changes purchase pricing only. Each account is still traded and judged under the firm's own rules. Trading risk is unchanged.
 
-**When does the flash sale end?**
+**When does the offer end?**
 
-No end date is stated for this sale.
+No end date is stated for this offer.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [FundingTraders: 50% Off All Accounts + Free Account with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) (50% Off)
 - 2026-11-16 - [FundingTraders Flash Sale: Up to 81% Off Instant with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) (81% Off)
 - 2026-11-12 - [FundingTraders: Up to 81% Off Instant Funded with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) (81% Off)
 - 2026-11-07 - [FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) (70% Off) — Diwali
