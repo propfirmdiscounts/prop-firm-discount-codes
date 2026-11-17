@@ -19,8 +19,8 @@ As of 2026-11-16, the biggest prop firm offers this month: 93% OFF with code PFD
 | 11 | Doji Funding | PFD | 40% | Exclusive Code | Ended Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 12 | Goat Funded Trader | CSV | 35% | Exclusive Code | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | 13 | AquaFunded | PFD | 35% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 14 | Klein Funding | PFD | 30% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/klein-funding/ |
-| 15 | Blue Guardian | PFD | 30% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 14 | Blue Guardian | PFD | 30% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 15 | Klein Funding | PFD | 30% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/klein-funding/ |
 | 16 | PipFarm | PFDC | 30% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 17 | Lucid Trading | PFD | 30% | Exclusive Code | Ended Nov 6, 2026 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | 18 | Finotive Futures | PFDDEAL | 25% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
