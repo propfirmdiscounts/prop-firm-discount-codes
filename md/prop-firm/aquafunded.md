@@ -7,47 +7,49 @@ The verified AquaFunded discount code is **PFD** — Up to 35% off, works any ti
 - Code: PFD
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-17
 - Trustpilot: 2.0/5 (1219 reviews)
 - Activate: https://propfirmdiscount.com/go/aquafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-17, the biggest AquaFunded offers this month: 35% OFF with code HALLOWEEN, 25% OFF with code HONOR, 25% OFF with code SPOOKY, 25% OFF with code SPOOKY, and 25% OFF with code AUTUMN.
+As of 2026-11-17, the biggest AquaFunded offers this month: 35% OFF with code BLACKFRIDAY, 35% OFF with code HALLOWEEN, 25% OFF with code HONOR, 25% OFF with code SPOOKY, and 25% OFF with code SPOOKY.
 
-## Current deal: AquaFunded Honor Sale: 25% Off + 150% CFD Refund
+## Current deal: AquaFunded Black Friday: 35% Off Every Account
 
-- Published: 2026-11-06
+- Published: 2026-11-17
 - Offer ends: Limited time
-- Offer: 25% Off
-- Code: HONOR
-- Scope: Instant, One Step and Two Step accounts, $2.5K to $400K; 150% refund on CFD accounts
-- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/
+- Offer: 35% Off
+- Code: BLACKFRIDAY
+- Scope: Every Account
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/
 
 ## AquaFunded deal FAQ
 
-**What does the AquaFunded Honor Sale include?**
+**What does the Black Friday offer include?**
 
-It includes 25% off every Instant, One Step and Two Step account, across sizes from $2.5K to $400K. A 150% refund on CFD accounts is attached to the 4th payout.
+35% off every account, plus a 200% refund paid with your fourth reward on CFD accounts.
 
-**How does the AquaFunded 150% refund work?**
+**Is the 200% refund a discount?**
 
-The refund applies on CFD accounts and arrives with the 4th payout. It is separate from the 25% checkout saving and it depends on the account reaching that payout stage.
+No. It is a conditional reward-linked term on CFD accounts that sets what a refund pays once the fourth reward is reached. The checkout discount is the 35%.
 
-**Does the AquaFunded discount change account rules?**
+**Which accounts does the 35% cover?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. Trading risk is not reduced.
+Every account, per the offer - no narrower scope is stated.
 
-**What account sizes does the AquaFunded Honor Sale cover?**
+**When does the offer end?**
 
-Account sizes run from $2.5K to $400K across the Instant, One Step and Two Step models. The 25% rate applies across that range.
+No end date is stated; the offer is presented as live now for Black Friday.
 
-**Who may this AquaFunded stack suit?**
+**Does the discount change the trading risk?**
 
-It may suit a buyer who had already chosen an account model and was comparing entry prices. The refund component suits a CFD buyer who had already planned to hold the account through multiple payouts.
+No. It lowers the entry cost only; the risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [AquaFunded Black Friday: 35% Off Every Account](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) (35% Off) — Black Friday
 - 2026-11-06 - [AquaFunded Honor Sale: 25% Off + 150% CFD Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) (25% Off)
 - 2026-10-25 - [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) (35% Off) — Halloween
 - 2026-10-21 - [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) (25% Off) — Halloween — ended 2026-11-05

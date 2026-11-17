@@ -13,6 +13,8 @@ Topstep was offering Only $65.
 - Scope: 3K Challenge, Undead Account, Slasher Account, Halloween
 - Deal: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
 
+Apply code TRANNGUYEN at checkout for up to 50% off any Topstep challenge account — verified to work any time with no expiration date.
+
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Frequently Asked Questions

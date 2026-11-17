@@ -1,38 +1,38 @@
 # Blueberry Funded Discount Code
 
-The newest Blueberry Funded discount code is **ELITEWINTER** — 35% off (November 16, 2026). The campaign code changes with each promotion; newest first below.
+The newest Blueberry Funded discount code is **LITEWINTER** — 40% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
-- Last deal published: 2026-11-16
+- Last deal published: 2026-11-17
 - Trustpilot: 3.4/5 (1767 reviews)
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-As of 2026-11-17, the biggest Blueberry Funded offers this month: 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, and 30% OFF with code DIWALI30.
+As of 2026-11-17, the biggest Blueberry Funded offers this month: 40% OFF with code LITEWINTER, 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, and 35% OFF with code PRIMEBG.
 
-## Current deal: Blueberry Funded Winter Arc: 35% Off Instant Elite
+## Current deal: Blueberry Funded Winter Arc: 40% Off Instant Lite
 
-- Published: 2026-11-16
+- Published: 2026-11-17
 - Offer ends: 2026-11-18 18:59
-- Offer: 35% Off
-- Code: ELITEWINTER
-- Scope: Instant Elite
-- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/
+- Offer: 40% Off
+- Code: LITEWINTER
+- Scope: Instant Lite
+- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/
 
 ## Blueberry Funded deal FAQ
 
 **What does this offer include?**
 
-35% off Instant Elite, ending Wednesday 18 November 2026 at 23:59 UK time.
+40% off Instant Lite, ending Wednesday 18 November 2026 at 23:59 UK time.
 
-**What are Instant Elite's terms?**
+**What are Instant Lite's terms?**
 
-No evaluation, no profit target and no time limit; no daily drawdown; a 10% maximum drawdown that trails and locks at the starting balance; an 80% profit split; payouts every 14 days with 5 active days per cycle.
+No profit target; a 2% daily drawdown; a 4% maximum drawdown; 1.5% risk per trade idea; an 80% profit split; no minimum days; an 85% consistency rule.
 
-**How does the trailing maximum work?**
+**What does the consistency rule mean for this account?**
 
-The 10% maximum trails and then locks at the starting balance, as the firm states it. There is no daily drawdown on the account.
+The firm states an 85% consistency rule for Instant Lite. Its exact calculation is part of the account terms to read before buying.
 
 **When does the offer end?**
 
@@ -44,6 +44,7 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) (40% Off)
 - 2026-11-16 - [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) (35% Off)
 - 2026-11-08 - [Blueberry Funded Diwali: 30% Off All Challenges](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/) (30% Off) — Diwali — ended 2026-11-11
 - 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off) — Halloween — ended 2026-11-01 18:59

@@ -15,39 +15,41 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 
 As of 2026-11-17, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders: 50% Off All Accounts + Free Account with code PFD
+## Current deal: FundingTraders Black Friday: Up to 70% Off with code PFD
 
 - Published: 2026-11-17
 - Offer ends: Limited time
-- Offer: 50% Off
+- Offer: 70% Off
 - Code: PFD
-- Scope: All Accounts
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/
+- Scope: Accounts (1-Step and Instant listed)
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/
 
 ## FundingTraders deal FAQ
 
-**What does the 50% off cover?**
+**What does the Black Friday offer include?**
 
-All accounts across the firm's range, with a free matching account included with every purchase.
+Up to 70% off accounts with premium perks included: a 100% profit split, a 200% refund rate and zero fees.
 
-**What is the free matching account?**
+**What are the listed prices?**
 
-A second account matching the purchased one, included free and delivered instantly under this offer.
+The $100K 1-Step at $177, down from $589; the $200K Instant at $405, down from $1,349. Both are the firm's stated prices; an exact 70% cut would be $176.70 and $404.70.
 
-**Why is the $100K 1-Step listed at $147 per account?**
+**What is the 200% refund rate?**
 
-At 50% off, one account costs $294.50 against the $589 regular price. The free matching account splits that cost across two accounts, which gives the listed $147 per-account figure.
-
-**Does the free account change the evaluation rules?**
-
-No. The offer changes purchase pricing only. Each account is still traded and judged under the firm's own rules. Trading risk is unchanged.
+A conditional program term that sets what a refund pays under the program's conditions. It is separate from the checkout discount.
 
 **When does the offer end?**
 
-No end date is stated for this offer.
+No end date is stated; the offer is presented as running while it lasts.
+
+**Does the promotion change the trading rules?**
+
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [FundingTraders Black Friday: Up to 70% Off with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) (70% Off) — Black Friday
 - 2026-11-17 - [FundingTraders: 50% Off All Accounts + Free Account with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) (50% Off)
 - 2026-11-16 - [FundingTraders Flash Sale: Up to 81% Off Instant with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) (81% Off)
 - 2026-11-12 - [FundingTraders: Up to 81% Off Instant Funded with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) (81% Off)

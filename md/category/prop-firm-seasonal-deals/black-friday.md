@@ -1,11 +1,15 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-As of 2026-11-16, the biggest offers this month: 75% OFF with code BLACK75 at QT Funded, 65% OFF at Top One Trader, 60% OFF with code GOBIG60 at Bullwaves Prime, 60% OFF with code BLACK60 at QT Funded, and 55% OFF with code EARLYBF at FundedSquad.
+As of 2026-11-16, the biggest offers this month: 65% OFF at Top One Trader, 60% OFF with code GOBIG60 at Bullwaves Prime, 60% OFF with code BLACK60 at QT Funded, 50% OFF with code EARLYFRIDAY50 at Goat Funded Trader, and 45% OFF with code FBF45 at BrightFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
+| 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
+| 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
+| 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
 | 2026-11-16 | FTUK | FTUK Black Friday: 40% Off Instant + Free Retake | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |
@@ -152,7 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 45% Off 50K Forex Pro Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-45-off-50k-forex-pro/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 50% Off 100K Forex Pro Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-50-off-100k-forex-pro/ |
 | 2025-11-19 | For Traders | ForTraders Black Friday Deal: 25% Off Plus BOGO Offer | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/ |
-| 2025-11-19 | FunderPro | FunderPro Black Friday Deal: 30% Off & $1M Giveaway | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/funderpro/funderpro-black-friday-30-off-giveaway/ |
-| 2025-11-19 | Earnex Prime | Earnex Prime Black Friday Sale: Up to 60% Off & Bonus Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-percent-off-deal/ |
-| 2025-11-19 | FXIFY | FXIFY Black Friday Sale: 40% Off All Programs | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-40-off-sale/ |
-| 2025-11-19 | QT Funded | QT Funded Black Friday: 50% Off Plus Free Account (BOGO) | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-bogo/ |

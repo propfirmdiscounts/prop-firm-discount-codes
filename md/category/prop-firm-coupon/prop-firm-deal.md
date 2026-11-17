@@ -6,6 +6,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | Finotive Funding | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
+| 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
+| 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-06 | Forexive | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
@@ -33,6 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-24 | Trade The Pool | Trade The Pool: Upgraded $60K and $120K Flex Accounts | Account Upgrade | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/ |
 | 2026-07-22 | Apex Trader Funding | Apex Trader Funding: 90% Off Legacy Evaluations and $59 100K Accounts | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-legacy-59-100k/ |
 | 2026-07-21 | Trade The Pool | Trade The Pool 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/ |
-| 2026-07-16 | Apex Trader Funding | Apex Trader Funding: $49 For 50K No-Activation Fee Accounts Plus 90% Off Other Evaluations | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-49-flat-50k-90-off/ |
-| 2026-07-14 | Fintokei | Fintokei Summer Deal: 30% Off ProTrader 5k ($39 Challenge Fee) | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fintokei/fintokei-summer-30-off-protrader-5k/ |
-| 2026-07-10 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations & $59 PA Activations | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-59-pa/ |
