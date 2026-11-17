@@ -9,7 +9,7 @@ The newest FundedSquad discount code is **EARLYBF** — 55% off (November 16, 20
 - Activate: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-As of 2026-11-16, the biggest FundedSquad offers this month: 55% OFF with code EARLYBF, 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
+As of 2026-11-17, the biggest FundedSquad offers this month: 55% OFF with code EARLYBF, 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
 
 ## Current deal: FundedSquad Black Friday: 55% Off All Models
 

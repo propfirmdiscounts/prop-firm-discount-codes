@@ -6,37 +6,37 @@ The top prop firm offer this month is **PFD** from Upcomers — 93% off (standin
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-16, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 85% OFF with code PFD at Phidias Propfirm, 81% OFF with code PFD at FundingTraders, 65% OFF with code PFD at Top One Futures, and 60% OFF with code PFD at Funded Hero.
+As of 2026-11-17, the biggest prop firm offers this month: 93% OFF with code PFD at Upcomers, 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code PFD at Phidias Propfirm, 85% OFF with code CK85 at CK PropFirm, and 81% OFF with code PFD at FundingTraders.
 
-| # | Prop firm | Discount code | Discount | Offer ends | Firm page |
-|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 93% | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Phidias Propfirm | PFD | 85% | Ends Nov 24, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 3 | FundingTraders | PFD | 81% | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 4 | Top One Futures | PFD | 65% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 5 | Funded Hero | PFD | 60% | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 6 | QT Funded | PFDDEAL | 50% | Limited time | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 7 | Atlas Funded | PFD | 50% | Limited time | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 8 | Direct Funded Trader | PFD | 50% | Limited time | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
-| 9 | Earn2Trade | PFD | 50% | Limited time | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 10 | Phoenix Trader Funding | PFD | 40% | Ends Nov 18, 2026 | https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/ |
+| # | Prop firm | Event | Discount code | Discount | Offer ends | Firm page |
+|---|---|---|---|---|---|---|
+| 1 | Upcomers | Black Friday | PFD | 93% | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 2 | Elite Trader Funding | Thanksgiving | - | 90% | Ends Nov 30, 2026 | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
+| 3 | Phidias Propfirm | Veterans Day | PFD | 85% | Ends Nov 24, 2026 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 4 | CK PropFirm | - | - | 85% | Limited time | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 5 | FundingTraders | - | PFD | 81% | Limited time | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 6 | Top One Trader | Black Friday | - | 80% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
+| 7 | RebelsFunding | - | - | 76% | Ended Nov 12, 2026 | https://propfirmdiscount.com/prop-firm/rebelsfunding/ |
+| 8 | QT Funded | Black Friday | - | 75% | Limited time | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 9 | Alpha Funded | - | - | 70% | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
+| 10 | Top One Futures | Black Friday | PFD | 65% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-As of 2026-11-16, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+As of 2026-11-17, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundedSeat | PFD | 65% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 3 | Funded Hero | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | TX3 Funding | PFDC | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Funded Trading Plus | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 8 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 9 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| 10 | HyroTrader | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | FundedSeat | PFD | 65% | No expiry | https://propfirmdiscount.com/prop-firm/fundedseat/ |
+| 3 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 5 | TX3 Funding | PFDC | 50% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 6 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 7 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 8 | Funded Trading Plus | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | FundedNext | PFDC | 20% | No expiry | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 10 | Instant Funding | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 
 ## Current deals (newest first)
 
@@ -44,6 +44,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-17 | FundYourFX | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% Off | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
 | 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% Off | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
@@ -73,4 +74,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | TradeDay | TradeDay: 60% Off Every Account, No Subscription | 60% Off | - | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/ |
 | 2026-11-12 | Finotive Futures | Finotive Futures: 60% Off Instant for New Traders | 60% Off | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/ |
 | 2026-11-12 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step | 35% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step-2/ |
-| 2026-11-12 | City Traders Imperium (CTI) | CTI: 15% Off 1-Step, 2-Step and Instant Funding | 15% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-until-19-november/ |

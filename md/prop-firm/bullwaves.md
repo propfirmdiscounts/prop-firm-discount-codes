@@ -11,7 +11,7 @@ The verified Bullwaves Prime discount code is **PFD** — Up to 10% off, works a
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65, 60% OFF with code GOBIG60, and 35% OFF with code NOTRICKS35.
+As of 2026-11-17, the biggest Bullwaves Prime offers this month: 65% OFF with code EARLYBF65, 60% OFF with code GOBIG60, and 35% OFF with code NOTRICKS35.
 
 ## Current deal: Bullwaves Prime Black Friday: 60% Off Everything
 

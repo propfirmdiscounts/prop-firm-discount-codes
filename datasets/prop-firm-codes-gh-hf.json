@@ -1485,39 +1485,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/phidias-prop-firm-logo-2.jpg"
     },
     {
-        "prop_firm": "HyroTrader",
-        "slug": "hyrotrader",
-        "code": "PFD",
-        "discount": "10%",
-        "is_global": 0,
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13171,
-            "title": "Hyro Instant Launch 15% Off First 30",
-            "offer_type": "coupon",
-            "discount_value": "15%",
-            "scope": [
-                "Hyro Instant Accounts (First 30 Purchases)"
-            ],
-            "date_published": "2026-11-06",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/"
-        },
-        "deal_count": {
-            "total": 8,
-            "this_year": 8,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
-        "trustpilot_score": 4,
-        "trustpilot_reviews": 236,
-        "trustpilot_url": "https://www.trustpilot.com/review/hyrotrader.com",
-        "description": "",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2026/02/HyroTrader-logo.jpg"
-    },
-    {
         "prop_firm": "Bulenox",
         "slug": "bulenox",
         "code": "PFD",

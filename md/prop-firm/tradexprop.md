@@ -9,7 +9,7 @@ The newest Tradexprop discount code is **BF40** — 40% off (November 16, 2026).
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 
-As of 2026-11-16, the biggest Tradexprop offers this month: 40% OFF with code BF40, 40% OFF with code SPOOK40, and 20% OFF with code SPOOK20.
+As of 2026-11-17, the biggest Tradexprop offers this month: 40% OFF with code BF40, 40% OFF with code SPOOK40, and 20% OFF with code SPOOK20.
 
 ## Current deal: Tradexprop Black Friday: 40% Off Evaluations
 

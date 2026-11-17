@@ -8,7 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account with code PFD | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-11 | BluSky Trading | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
-| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 (ended) | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-08 | Sure Leverage Funding | Sure Leverage Funding Diwali: 50% Off Accounts to $50K | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/ |
 | 2026-11-08 | Blueberry Funded | Blueberry Funded Diwali: 30% Off All Challenges | 30% OFF | 2026-11-11 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
 | 2026-11-07 | FundingTraders | FundingTraders Diwali Special: 70% Off 1-Step Accounts with code PFD | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/ |

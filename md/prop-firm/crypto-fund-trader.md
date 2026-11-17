@@ -11,7 +11,7 @@ The verified Crypto Fund Trader discount code is **platinum5** — Up to 5% off,
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Crypto Fund Trader offers this month: 25% OFF with code ONE.
+As of 2026-11-17, the biggest Crypto Fund Trader offers this month: 25% OFF with code ONE.
 
 ## Current deal: Crypto Fund Trader: 25% Off New 1-Phase Challenge
 

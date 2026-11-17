@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-53 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
+52 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -40,7 +40,6 @@
 | Funding Your Trades | PFD | 2% | standing | 2026-11-16 · 35% · [deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/) | Black Friday | 30 / 43 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTraders | PFD | 81% | standing | 2026-11-16 · 81% · [deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) | - | 72 / 96 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | standing | 2026-11-16 · 50% · [deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | Black Friday | 32 / 52 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| HyroTrader | PFD | 10% | standing | 2026-11-06 · 15% · [deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) | - | 8 / 8 | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
 | Instant Funding | PFD | 20% | standing | 2026-11-04 · 40% · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) | Diwali | 30 / 36 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Klein Funding | PFD | 30% | standing | 2026-11-16 · Free Half-Size · [deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Black Friday | 2 / 8 | https://propfirmdiscount.com/prop-firm/klein-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-11-06 · 35% · [deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | - | 12 / 25 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |

@@ -11,7 +11,7 @@ The verified Goat Funded Trader discount code is **CSV** — Up to 35% off, work
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Goat Funded Trader offers this month: 50% OFF with code EARLYFRIDAY50, 50% OFF with code HALLOWEEN50, 50% OFF with code UK50, 40% OFF with code BOGO40, and 8% OFF with code LAUNCH8.
+As of 2026-11-17, the biggest Goat Funded Trader offers this month: 50% OFF with code EARLYFRIDAY50, 50% OFF with code HALLOWEEN50, 50% OFF with code UK50, 40% OFF with code BOGO40, and 8% OFF with code LAUNCH8.
 
 ## Current deal: Goat Funded Trader Black Friday: 50% Off
 

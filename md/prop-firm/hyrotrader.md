@@ -1,17 +1,13 @@
 # HyroTrader Discount Code
 
-The verified HyroTrader discount code is **PFD** — Up to 10% off, works any time.
+The newest HyroTrader discount code is **INSTANT** — 15% off (November 6, 2026). The campaign code changes with each promotion; newest first below.
 
-- Code: PFD
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
 - Trustpilot: 4.0/5 (236 reviews)
 - Activate: https://propfirmdiscount.com/go/hyrotrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
+As of 2026-11-17, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
 
 ## Current deal: HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases
 

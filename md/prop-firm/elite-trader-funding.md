@@ -9,7 +9,7 @@ The newest Elite Trader Funding discount code is **GOBBLE90** — 90% off (Novem
 - Activate: https://propfirmdiscount.com/go/elitetraderfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/elite-trader-funding/
 
-As of 2026-11-16, the biggest Elite Trader Funding offers this month: 90% OFF with code GOBBLE90, 90% OFF with code BULLTOBER, 85% OFF with code 20BACK, 75% OFF with code NOV75, and 42% OFF with code R1014.
+As of 2026-11-17, the biggest Elite Trader Funding offers this month: 90% OFF with code GOBBLE90, 90% OFF with code BULLTOBER, 85% OFF with code 20BACK, 75% OFF with code NOV75, and 42% OFF with code R1014.
 
 ## Current deal: Elite Trader Funding Thanksgiving: 90% Off Evals
 

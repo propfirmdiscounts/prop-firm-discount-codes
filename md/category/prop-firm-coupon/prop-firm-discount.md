@@ -1,11 +1,12 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code CK85 at CK PropFirm, 60% OFF with code GOBIG60 at Bullwaves Prime, 60% OFF with code BLACK60 at QT Funded, and 50% OFF with code EARLYFRIDAY50 at Goat Funded Trader.
+As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code CK85 at CK PropFirm, 60% OFF with code GTA60 at FundYourFX, 60% OFF with code GOBIG60 at Bullwaves Prime, and 60% OFF with code BLACK60 at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | FundYourFX | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
 | 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% OFF | 2026-11-18 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
 | 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
 | 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | Finotive Futures | Finotive Futures: 60% Off Instant for New Traders | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/ |
 | 2026-11-12 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step-2/ |
 | 2026-11-12 | City Traders Imperium (CTI) | CTI: 15% Off 1-Step, 2-Step and Instant Funding | 15% OFF | 2026-11-19 18:59 | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-until-19-november/ |
-| 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |

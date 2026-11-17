@@ -18,16 +18,16 @@ Explore the highest recorded discount rates across tracked proprietary trading f
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | Lifetime | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundedSeat | PFD | 65% | Lifetime | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 3 | Funded Hero | PFD | 60% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | E8 Markets | CHUN | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | TX3 Funding | PFDC | 50% | Lifetime | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 6 | AquaFunded | PFD | 35% | Lifetime | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Funded Trading Plus | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 8 | FundedNext | PFDC | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 9 | Instant Funding | PFD | 20% | Lifetime | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| 10 | HyroTrader | PFD | 10% | Lifetime | https://propfirmdiscount.com/prop-firm/hyrotrader/ |
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | FundedSeat | PFD | 65% | No expiry | https://propfirmdiscount.com/prop-firm/fundedseat/ |
+| 3 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 5 | TX3 Funding | PFDC | 50% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 6 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 7 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 8 | Funded Trading Plus | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | FundedNext | PFDC | 20% | No expiry | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 10 | Instant Funding | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 
 <!-- /pfd-exclusive -->
 

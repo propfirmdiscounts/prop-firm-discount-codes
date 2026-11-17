@@ -9,7 +9,7 @@ The newest Blueberry Funded discount code is **ELITEWINTER** — 35% off (Novemb
 - Activate: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-As of 2026-11-16, the biggest Blueberry Funded offers this month: 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, and 30% OFF with code DIWALI30.
+As of 2026-11-17, the biggest Blueberry Funded offers this month: 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, 35% OFF with code PRIMEBG, and 30% OFF with code DIWALI30.
 
 ## Current deal: Blueberry Funded Winter Arc: 35% Off Instant Elite
 

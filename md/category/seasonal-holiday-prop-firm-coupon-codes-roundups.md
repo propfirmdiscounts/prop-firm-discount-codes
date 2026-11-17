@@ -7,7 +7,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-08 |  | Diwali 2026 Prop Firm Deals Recap: The 9 Offers That Ran This Festival |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/prop-firm-event-deals-roundup-diwali-2026/ |
 | 2026-11-07 |  | Diwali 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2026-prop-firm-coupon-codes/ |
 | 2026-11-04 |  | Black Friday 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/black-friday-2026-prop-firm-coupon-codes/ |
-| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-2026-prop-firm-coupon-codes/ |
+| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-2026-prop-firm-coupon-codes/ |
 | 2026-04-05 |  | Easter 2026 Prop Firm Coupon Codes & Discounts – Holiday Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/easter-2026-prop-firm-coupon-codes/ |
 | 2026-02-10 |  | Valentine’s Day 2026 Prop Firm Coupon Codes & Discounts – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/valentines-day-2026-prop-firm-coupon-codes/ |
 | 2025-12-31 |  | New Year 2026 Prop Firm Coupon Codes & Discounts – Full Deals Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/new-year-2026-prop-firm-coupon-codes/ |

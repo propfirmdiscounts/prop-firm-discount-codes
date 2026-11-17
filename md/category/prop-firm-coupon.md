@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | FundYourFX | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
 | 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% OFF | 2026-11-18 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
@@ -49,7 +50,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-10 | Atlas Funded | Atlas Funded: 40% Off Evaluations From $25.80 | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/ |
 | 2026-11-10 | RebelsFunding | RebelsFunding: $5,000 Program for €9 – 76% Off | 76% OFF | 2026-11-12 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/ |
 | 2026-11-10 | QT Funded | QT Funded: 55% Off All Challenges + Free Account | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/ |
-| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
+| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 (ended) | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-09 | FTUK | FTUK Instant Funding: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
 | 2026-11-09 | Elite Trader Funding | Elite Trader Funding: 75% Off Non-Fast Track Evals | 75% OFF | 2026-11-13 23:59 (ended) | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/ |
 | 2026-11-09 | PipFarm | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
@@ -240,12 +241,12 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | 2026-10-18 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-17 | E8 Markets | E8 Markets: 50% Off Signature Classic and Arc Accounts with code CHUN | 50% OFF | 2026-10-20 (ended) | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/ |
 | 2026-10-16 | The Trading Pit | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
-| 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
-| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
-| 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
+| 2026-10-16 | CK PropFirm | CK PropFirm 75% Off All Accounts Upfront Fee | 75% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
+| 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
+| 2026-10-16 | Instant Funding | Instant Funding 35% Off Evolve Evaluation Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/ |
 | 2026-10-16 | OFP Funding | OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250 | 50% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/ |
 | 2026-10-16 | FundingTraders | FundingTraders Flash Sale: 70% Off Instant Funded & $5000 2-Step Pro For $30 with code PFD | 70% OFF | 2026-10-18 (ended) | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/ |
-| 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
+| 2026-10-16 | Dominion Funding | Dominion Funding: 20% Off All Account Models | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/ |
 | 2026-10-15 | Topstep | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Ended | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily Seed Challenges | 40% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/ |
 | 2026-10-15 | Phoenix Trader Funding | Phoenix Trader Funding: 30% Off Classic Starter Evaluations | 30% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/ |

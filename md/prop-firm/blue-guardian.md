@@ -13,7 +13,7 @@ The verified Blue Guardian discount code is **PFD** — Up to 35% off, works any
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-16, the biggest Blue Guardian offers this month: 50% OFF with code PFD, 35% OFF with code PFD, 30% OFF with code PFD, 30% OFF with code PFD, and 30% OFF with code PFD.
+As of 2026-11-17, the biggest Blue Guardian offers this month: 50% OFF with code PFD, 35% OFF with code PFD, 30% OFF with code PFD, 30% OFF with code PFD, and 30% OFF with code PFD.
 
 ## Current deal: Blue Guardian: 30% Off Every Account This Week with code PFD
 
