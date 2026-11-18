@@ -1,6 +1,6 @@
 # New Year's Eve Prop Firm Discounts & Coupon Hub Prop Firm Deals (2026)
 
-As of 2026-01-22, the biggest offers: 90% OFF with code PFD at Upcomers, 60% OFF with code GALLOP60 at PipFarm, 45% OFF with code JAN45 at FundYourFX, 40% OFF with code JAN40 at FundYourFX, and 32% OFF with code PFD at FundingTraders.
+As of 2026-01-22, the biggest offers: 90% OFF with code NYBOGO at Upcomers, 60% OFF with code GALLOP60 at PipFarm, 45% OFF with code JAN45 at FundYourFX, 40% OFF with code JAN40 at FundYourFX, and 32% OFF with code PFD at FundingTraders.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
@@ -10,7 +10,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-02-18 | PipFarm | PipFarm Lunar New Year: 60% Off One-Stage Challenges | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-lunar-new-year-60-off/ |
 | 2026-02-17 | FXIFY | FXIFY Chinese New Year Sale: 28% Off Programs + Free Addons | 28% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-chinese-new-year-28-off-free-addons/ |
 | 2026-02-16 | FundingTraders | FundingTraders Lunar New Year: 32% Off All Challenge Fees with code PFD | 32% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-lunar-new-year-32-off/ |
-| 2026-01-22 | Upcomers | Upcomers New Year Deal: Up to 90% Off + BOGO Free Account with code PFD | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/ |
+| 2026-01-22 | Upcomers | Upcomers New Year Deal: Up to 90% Off + BOGO Free Account | 90% OFF | Ended | - | https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/ |
 | 2026-01-21 | FunderPro | FunderPro New Year Offer: 20% OFF All Challenges & Instant Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funderpro/funderpro-new-year-promotion/ |
 | 2026-01-21 | FundingTraders | FundingTraders New Year Offer: 26% Off + 100% Split & BOGO with code PFD | 26% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-new-year-offer-26-off/ |
 | 2026-01-13 | thePropTrade | thePropTrade New Year Offer: 26% OFF Classic Accounts + 100% Profit Split | 26% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-new-year-promotion-classic-accounts-profit-split/ |

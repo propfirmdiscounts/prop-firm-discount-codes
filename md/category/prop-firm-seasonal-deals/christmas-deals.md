@@ -1,12 +1,12 @@
 # Christmas Prop Firm Deals & Holiday Promo Codes Prop Firm Deals (2026)
 
-As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
+As of 2026-01-05, the biggest offers: 85% OFF with code BOGO85 at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-01-05 | Upcomers | Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD | 85% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/ |
+| 2026-01-05 | Upcomers | Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% OFF | Ended | - | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/ |
 | 2025-12-30 | Equity Edge | Equity Edge Holiday Promotion: $100K Instant Funded Account for $64 | Only $64 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-holiday-promotion-100k-instant-funded/ |
 | 2025-12-30 | Lark Funding | Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program | Buy 1 Get 2 | Ended | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-boxing-day-buy-1-get-2-tries/ |
 | 2025-12-29 | Forex Funds Flow | Forex Funds Flow Christmas Flash Offer: 23% OFF All Models | 23% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-flash-offer-23-off/ |
@@ -87,7 +87,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-15 | City Traders Imperium (CTI) | City Traders Imperium Christmas Offer: 25% OFF 1-Step Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-christmas-25-off-1-step/ |
 | 2025-12-15 | AquaFunded | AquaFunded Christmas Sale: 50% Off Instant Accounts and 40% Off All Models | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-50-off-instant-accounts/ |
 | 2025-12-15 | Funding Your Trades | Funding Your Trades Christmas Offer: 45% OFF All Models + BOGO | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-christmas-45-off-bogo/ |
-| 2025-12-14 | Upcomers | Upcomers Christmas Deal: 85% Off 1-Phase Challenges + BOGO with code PFD | 85% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/ |
+| 2025-12-14 | Upcomers | Upcomers Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% OFF | Ended | - | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/ |
 | 2025-12-13 | Crypto Fund Trader | Crypto Fund Trader Christmas Deal: 20% Off Challenge Pricing | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/ |
 | 2025-12-13 | City Traders Imperium (CTI) | City Traders Imperium 15% Off Instant Funding Accounts Up To 20k | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-instant-funding-up-to-20k/ |
 | 2025-12-12 | ThinkCapital | ThinkCapital 12 Days of Christmas: 30% OFF + Free Challenge | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-12-days-of-christmas-30-off/ |
@@ -103,7 +103,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-11 | FundingTraders | FundingTraders Christmas Exclusive: 50% OFF All Accounts with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-christmas-exclusive-50-off/ |
 | 2025-12-11 | Forexive | Forexive Christmas Flash Sale: 35% OFF + BOGO + 120% Refund | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-christmas-35-off-bogo-refund/ |
 | 2025-12-11 | FundYourFX | FundYourFX Christmas Sale: 40% OFF + 150% Refund + Free 100K Acct | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-christmas-sale-40-off-free-100k-account/ |
-| 2025-12-11 | Upcomers | Upcomers Christmas Offer: 85% OFF + BOGO + Giveaway with code PFD | 85% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/ |
+| 2025-12-11 | Upcomers | Upcomers Christmas Offer: 85% OFF + BOGO + Giveaway | 85% OFF | Ended | - | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/ |
 | 2025-12-11 | FundingTraders | FundingTraders Christmas Gift: 50% OFF Instant Funded & PRO10 Accounts with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-christmas-50-off-instant-funded-pro10/ |
 | 2025-12-10 | Forexive | Forexive Christmas Flash Sale: 10% Off + First-Ever Evaluation Profit Split | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/forexive/forexive-christmas-flash-sale-10-off-evaluation-split/ |
 | 2025-12-10 | AquaFutures | AquaFutures Christmas Sale: 60% OFF All Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-christmas-sale-60-off/ |

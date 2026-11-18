@@ -30,10 +30,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
 | 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
-| 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
 | 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
 | 2026-11-09 | The Trading Pit | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
-| 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 with code PFD | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Dominion Funding | Dominion Funding Black Friday 40% Off Every Evaluation | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/ |
 | 2026-11-04 | IC Funded | IC Funded Black Friday 45% Off Every Challenge and Account | 45% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/ |
 | 2026-11-03 | Take Profit Trader | Take Profit Trader Black Friday 50% Off Test Accounts | 50% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |
@@ -45,7 +43,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
 | 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-22 | Lux Trading Firm | Lux Trading Firm £699 $1M Account Black Friday | 30% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |
-| 2026-09-21 | Upcomers | Upcomers Black Friday: 90% Off Entry Fee & Buy 1 Get 2 Free with code PFD | 90% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/ |
 | 2025-12-02 | Hantec Trader | Hantec Trader Cyber Monday Extended: 25% Off All Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-cyber-monday-extended-25-off/ |
 | 2025-12-02 | Ifunds | Ifunds Black Friday: 10% Off $10k Funded Account | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/ifunds/ifunds-black-friday-10-off-10k-account/ |
 | 2025-12-01 | My Funded Futures | MyFunded Futures Cyber Monday Deal: 30% Off Pro Plans + Reset Giveaway | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/myfunded-futures-cyber-monday-30-off/ |
@@ -156,3 +153,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 40% Off 10K and 25K Forex Pro Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-40-off-10k-25k-forex-pro/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 45% Off 50K Forex Pro Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-45-off-50k-forex-pro/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 50% Off 100K Forex Pro Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-50-off-100k-forex-pro/ |
+| 2025-11-19 | For Traders | ForTraders Black Friday Deal: 25% Off Plus BOGO Offer | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/ |
+| 2025-11-19 | FunderPro | FunderPro Black Friday Deal: 30% Off & $1M Giveaway | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/funderpro/funderpro-black-friday-30-off-giveaway/ |
+| 2025-11-19 | Earnex Prime | Earnex Prime Black Friday Sale: Up to 60% Off & Bonus Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-percent-off-deal/ |

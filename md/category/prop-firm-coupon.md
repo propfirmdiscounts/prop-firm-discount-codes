@@ -6,6 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
+| 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
 | 2026-11-18 | E8 Markets | E8 Markets Classic v2 Launch: 10% Off with code CHUN | 10% OFF | Limited time | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/ |
@@ -42,6 +44,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-15 | Ment Funding | Ment Funding Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/ |
 | 2026-11-14 | We Get Funded | We Get Funded Black Friday: 4 Challenges, One Purchase | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/ |
 | 2026-11-14 | Crypto Fund Trader | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |
+| 2026-11-13 | For Traders | For Traders Perps Challenges: 15% Off Every Size | 15% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/ |
+| 2026-11-13 | Plutus Trade Base | Plutus Trade Base: 60% Off the Lightning Plan | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/ |
 | 2026-11-13 | Funded Trading Plus | Funded Trading Plus: 25% Off Plus Free Add-On | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/ |
 | 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
 | 2026-11-13 | Sure Leverage Funding | Sure Leverage Funding: 35% Off November Offer | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/ |
@@ -56,7 +60,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
 | 2026-11-11 | The Concept Trading | The Concept Trading: 35% Off Instant Programs | 35% OFF | 2026-11-13 08:59 (ended) | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/ |
-| 2026-11-11 | Upcomers | Upcomers Black Friday Vol. 2: Up to 93% Off with code PFD | 93% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/ |
 | 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account with code PFD | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-11 | BluSky Trading | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
 | 2026-11-10 | FTUK | FTUK: 50% Off Every Instant Funding Size | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/ |
@@ -89,7 +92,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | QT Funded | QT Funded Diwali 60% Off + Free Same-Size Account | 60% OFF | 2026-11-09 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/ |
 | 2026-11-06 | Lucid Trading | Lucid Trading 35% Off All Plans – Concrete Day Sale with code PFD | 35% OFF | 2026-11-06 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-06 | City Traders Imperium (CTI) | City Traders Imperium 20% Off Until NFP Drops | 20% OFF | 2026-11-06 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/ |
-| 2026-11-06 | Upcomers | Upcomers Black Friday: $100K Thunderbolt Challenge $99 with code PFD | 90% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/ |
 | 2026-11-05 | Funded Elite | Funded Elite 30% Off Atom Accounts | 30% OFF | 2026-11-22 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
 | 2026-11-05 | Funding Your Trades | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% OFF | 2026-11-12 (ended) | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
 | 2026-11-05 | Direct Funded Trader | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | Limited time | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |

@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-53 prop firms have a verified standing discount code right now; the biggest is Upcomers code **PFD** — 93% off. Every code is listed below, alphabetical by firm.
+53 prop firms have a verified standing discount code right now; the biggest is Bulenox code **PFD** — 89% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -26,7 +26,7 @@
 | FXIFY | FXIFY2WRIVW | 10% | standing | 2026-11-17 · 35% · [deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) | Black Friday | 26 / 42 | https://propfirmdiscount.com/prop-firm/fxify/ |
 | Finotive Funding | PFDC | 25% | standing | 2026-11-17 · Prize Draw · [deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/) | - | 35 / 61 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | Finotive Futures | PFDDEAL | 25% | standing | 2026-11-12 · 60% · [deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/) | - | 5 / 5 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
-| For Traders | VGYCKXLTY9 | 15% | standing | 2026-10-30 · 79.6% · [deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) | Halloween | 41 / 55 | https://propfirmdiscount.com/prop-firm/fortraders/ |
+| For Traders | VGYCKXLTY9 | 15% | standing | 2026-11-13 · 15% · [deal](https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/) | - | 42 / 56 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 · 15% · [deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) | World Cup | 9 / 15 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
 | Forexive | WHCTXQHRIG | 30% | standing | 2026-11-06 · $5 · [deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) | - | 9 / 26 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | standing | 2026-11-05 · 30% · [deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/) | - | 31 / 40 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
@@ -48,14 +48,14 @@
 | PipFarm | PFDC | 30% | standing | 2026-11-09 · 40% · [deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) | - | 47 / 70 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | QT Funded | PFDDEAL | 50% | standing | 2026-11-16 · 60% · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/) | Black Friday | 43 / 66 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFDDEAL | 50% | standing | 2026-01-19 · 30% · [deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) | - | 1 / 3 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
+| SabioTrade | PFD | 30% | standing | 2026-11-18 · Prize Draw · [deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
 | Seacrest Markets | jackichun | 5% | standing | 2026-01-02 · 25% · [deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) | New Year's Eve | 1 / 8 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 · 30% · [deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/) | - | 20 / 29 | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| TX3 Funding | PFDC | 50% | standing | 2026-10-27 · 35% · [deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | Halloween | 46 / 63 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| TX3 Funding | PFD1 | 25% | standing | 2026-10-27 · 35% · [deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | Halloween | 46 / 63 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | standing | 2025-12-22 · Only $12 · [deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) | New Year's Eve | 0 / 2 | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | standing | 2026-11-12 · 40% · [deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | Black Friday | 22 / 31 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 65% | standing | 2026-11-02 · 65% · [deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Black Friday | 11 / 13 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | Topstep | TRANNGUYEN | 50% | standing | 2026-10-15 · Only $65 · [deal](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) | Halloween | 4 / 8 | https://propfirmdiscount.com/prop-firm/topstep/ |
 | Trade The Pool | WWS4GW | 10% | standing | 2026-10-28 · 20% · [deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) | - | 7 / 9 | https://propfirmdiscount.com/prop-firm/trade-the-pool/ |
-| Upcomers | PFD | 93% | standing | 2026-11-11 · 93% · [deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) | Black Friday | 16 / 21 | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | WeMasterTrade | PFD | 30% | standing | 2026-10-29 · 36% · [deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) | Halloween | 29 / 29 | https://propfirmdiscount.com/prop-firm/wemastertrade/ |
 | thePropTrade | PFD | 20% | standing | 2026-10-27 · 20% · [deal](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) | Halloween | 29 / 37 | https://propfirmdiscount.com/prop-firm/the-prop-trade/ |

@@ -81,7 +81,7 @@
 | 75 | Blue Guardian Futures | 3.6 | 1577 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 76 | Sure Leverage Funding | 3.6 | 1355 | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
 | 77 | Finotive Funding | 3.6 | 1071 | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 78 | SabioTrade | 3.6 | 716 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
+| 78 | SabioTrade | 3.6 | 699 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
 | 79 | PropShopTrader | 3.6 | 548 | https://propfirmdiscount.com/prop-firm/propshoptrader/ |
 | 80 | PipFarm | 3.6 | 343 | https://propfirmdiscount.com/prop-firm/pipfarm/ |
 | 81 | QT Funded | 3.5 | 13395 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -127,6 +127,6 @@
 
 Of the 118 firms scored, 58 sit at 4.0 stars or above - 25 at 4.5 and up, 33 between 4.0 and 4.4. The rest is where the reading matters: 41 land in the 3.0s and 19 below 3.0, with a median of 3.9.
 
-These firms carry 636,812 Trustpilot reviews between them, and 103 of the 118 hold 100 or more - at that size a star average is stable and comparable across brands. Below it, read the score as a direction rather than a measurement.
+These firms carry 636,795 Trustpilot reviews between them, and 103 of the 118 hold 100 or more - at that size a star average is stable and comparable across brands. Below it, read the score as a direction rather than a measurement.
 
-Ratings last synced November 16, 2026.
+Ratings last synced November 18, 2026.

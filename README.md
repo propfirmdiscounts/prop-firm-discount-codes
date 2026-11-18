@@ -8,7 +8,7 @@
 ## Top Prop Firm Discount Codes by Discount
 
 <!-- pfd-top-code (auto-updated each sync) -->
-As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 50% OFF with code PFDC at TX3 Funding.
+As of 2026-11, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 35% OFF with code PFD at AquaFunded.
 
 Explore the highest recorded discount rates across tracked proprietary trading firms. Compare verified discount codes, their associated discounts, and links to each firm's dedicated data page. Discount information is maintained separately from individual campaign offers, which may have different terms and expiration dates.
 
@@ -22,9 +22,9 @@ Explore the highest recorded discount rates across tracked proprietary trading f
 | 2 | FundedSeat | PFD | 65% | No expiry | https://propfirmdiscount.com/prop-firm/fundedseat/ |
 | 3 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 4 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | TX3 Funding | PFDC | 50% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 6 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 7 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 5 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 6 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 7 | TX3 Funding | PFD1 | 25% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 8 | Funded Trading Plus | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 9 | FundedNext | PFDC | 20% | No expiry | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 10 | Instant Funding | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/instant-funding/ |

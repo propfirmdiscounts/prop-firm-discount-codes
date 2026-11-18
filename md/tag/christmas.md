@@ -1,12 +1,12 @@
 # Christmas - Prop Firm Discount Codes & Deals 2026
 
-As of 2026-01-05, the biggest offers: 85% OFF with code PFD at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
+As of 2026-01-05, the biggest offers: 85% OFF with code BOGO85 at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-01-05 | Upcomers | Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD | 85% OFF | Ended | PFD | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/ |
+| 2026-01-05 | Upcomers | Upcomers Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% OFF | Ended | - | https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/ |
 | 2025-12-30 | Equity Edge | Equity Edge Holiday Promotion: $100K Instant Funded Account for $64 | Only $64 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-holiday-promotion-100k-instant-funded/ |
 | 2025-12-30 | Lark Funding | Lark Funding Boxing Day Offer: Buy 1 Get 2 Tries on 1-Step Career Program | Buy 1 Get 2 | Ended | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-boxing-day-buy-1-get-2-tries/ |
 | 2025-12-29 | Forex Funds Flow | Forex Funds Flow Christmas Flash Offer: 23% OFF All Models | 23% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-christmas-flash-offer-23-off/ |

@@ -5,7 +5,7 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 - Code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-30
+- Last deal published: 2026-11-13
 - Trustpilot: 4.1/5 (1852 reviews)
 - Activate: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
@@ -13,44 +13,40 @@ The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, work
 
 As of 2026-11-18, the biggest For Traders offers this month: 79% OFF with code BOO6K, 79% OFF with code OCTOBER6K, 50% OFF with code NEWPRO, 50% OFF with code NEWINSTANT, and 25% OFF with code HALLOWEEN25.
 
-## Current deal: For Traders Halloween $6K Forex Fast for $9.99
+## Current deal: For Traders Perps Challenges: 15% Off Every Size
 
-- Published: 2026-10-30
+- Published: 2026-11-13
 - Offer ends: Limited time
-- Offer: 79.6% Off
-- Code: BOO6K
-- Scope: Forex Fast, 1-Step, $6K account, MetaTrader 5
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
+- Offer: 15% Off
+- Code: TRADE15
+- Scope: Perps Challenges
+- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/
 
 ## For Traders deal FAQ
 
-**What discount does For Traders offer in this promotion?**
+**What does the 15% cover?**
 
-The $6K Forex Fast 1-Step challenge on MetaTrader 5 drops from $49 to $9.99. That is a 79.6% cut on the listed entry cost.
+Every Perps Challenge size - $5K, $10K, $25K and $50K. The prices on the firm's site already include the discount: $39, $79, $199 and $419.
 
-**Which account is covered by this offer?**
+**Which rules do the Perps Challenges leave out?**
 
-The offer covers the $6K Forex Fast 1-Step challenge on MetaTrader 5 only. No other account size, model or platform is included.
+There is no consistency rule, no minimum profitable days and no trailing drawdown. The stated rules are a 10% profit target, a 5% static maximum drawdown, a 3% daily drawdown and an 80% profit split.
 
-**How many challenges are available?**
+**How fast can the challenge be passed?**
 
-Only 1,000 challenges are available under this offer. There are no restocks and no extensions once those places fill.
+The firm states one day is enough to reach the 10% target. After verification and signing, rewards can be requested from day one whenever you are in profit.
 
-**What challenge terms stay unchanged?**
+**What is the 48-hour reward term?**
 
-The terms are a $6,000 size, one step, a 9% profit target, a 6% maximum drawdown, a 3% daily drawdown, payouts every 2 weeks and MetaTrader 5 as the platform. Those terms stay as listed despite the lower entry price.
+The firm states approved rewards are paid within 48 hours, or your split for that reward goes to 100%. It is the firm's own stated term for the reward.
 
-**Does this promotion reduce trading risk?**
+**Does the discount change the trading risk?**
 
-No. The promotion only reduces entry cost and does not reduce trading risk or change any trading outcome.
-
-**Who may find this pricing relevant?**
-
-A buyer who plans to purchase the $6K Forex Fast 1-Step MT5 challenge may find the lower entry cost relevant at purchase level. A buyer who needs a different size or model should look for a different offer.
+No. It lowers the entry cost only; the risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-13 - [For Traders Perps Challenges: 15% Off Every Size](https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/) (15% Off)
 - 2026-10-30 - [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) (79.6% Off) — Halloween
 - 2026-10-26 - [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) (25% Off) — Halloween
 - 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
