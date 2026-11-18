@@ -7,7 +7,7 @@ The newest HyroTrader discount code is **INSTANT** — 15% off (November 6, 2026
 - Activate: https://propfirmdiscount.com/go/hyrotrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
 
-As of 2026-11-17, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
+As of 2026-11-18, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
 
 ## Current deal: HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases
 

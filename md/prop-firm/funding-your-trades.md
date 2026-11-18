@@ -13,7 +13,7 @@ The verified Funding Your Trades discount code is **PFD** — Up to 2% off, work
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-17, the biggest Funding Your Trades offers this month: 45% OFF with code DIWALI45, 45% OFF with code FYTWEEN, 40% OFF with code NEWDASH, and 35% OFF with code BOGO35.
+As of 2026-11-18, the biggest Funding Your Trades offers this month: 45% OFF with code DIWALI45, 45% OFF with code FYTWEEN, 40% OFF with code NEWDASH, and 35% OFF with code BOGO35.
 
 ## Current deal: Funding Your Trades Black Friday: 35% Off + BOGO
 

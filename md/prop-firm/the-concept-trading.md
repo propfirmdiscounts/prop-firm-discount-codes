@@ -1,46 +1,49 @@
 # The Concept Trading Discount Code
 
-No live discount code for The Concept Trading right now — newest deals and offers are below.
+The newest The Concept Trading discount code is **BFCM26** — 45% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
 
-- Last deal published: 2026-11-11
+- Last deal published: 2026-11-17
 - Trustpilot: 4.7/5 (472 reviews)
 - Activate: https://propfirmdiscount.com/go/theconcepttrading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 
-As of 2026-11-17, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code HWT26, 40% OFF with code TYOR26, 35% OFF with code FT26, and 35% OFF with code MAD26.
+As of 2026-11-18, the biggest The Concept Trading offers this month: 50% OFF with code OS26, 45% OFF with code BFCM26, 45% OFF with code HWT26, 40% OFF with code TYOR26, and 35% OFF with code FT26.
 
-## Most recent deal (ended): The Concept Trading: 35% Off Instant Programs
+## Current deal: The Concept Trading Black Friday: 45% Off + Free Retry
 
-- Published: 2026-11-11
-- Offer ends: 2026-11-13 08:59 (ended)
-- Offer: 35% Off
-- Scope: Instant Programs
-- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/
+- Published: 2026-11-17
+- Offer ends: 2026-11-30 08:59
+- Offer: 45% Off
+- Code: BFCM26
+- Scope: Eligible Programs (excl. Starter Models)
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/
 
 ## The Concept Trading deal FAQ
 
-**What does The Concept Trading code take off?**
+**What does the Black Friday offer include?**
 
-35% off Instant Programs. Foundation and Starter Models are excluded from the offer.
+45% off eligible programs, plus a free retry on Intern accounts if you fail at the Intern stage.
 
-**What are the exact dates?**
+**Who gets the free retry?**
 
-The promotion runs from 12 November at 12:01 AM to 13 November at 11:59 PM AEST - a 48-hour window in the firm's stated time zone.
+Intern accounts only, where the failure happens at the Intern stage. The retry must be claimed within 60 days of the account failure.
 
-**Are any program prices stated?**
+**What is excluded?**
 
-No per-program prices are given in the announcement; the saving is the 35% rate on eligible Instant Programs.
+Starter Models are excluded from the offer. The free retry does not extend beyond Intern accounts.
 
-**What risk disclosures does the firm attach?**
+**When does the offer end?**
 
-The material states that The Concept AU/NZ is a corporate authorised representative of AFSL 478987 for education and general advice only; the funded trading program is not covered by this licence; 70-80% of traders lose money trading derivatives.
+November 30, 2026, at 11:59 PM AEST, per the firm's stated deadline.
 
-**Does the discount change the programs or reduce risk?**
+**Does the discount change the trading risk?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+No. It lowers the entry cost only; the risk of trading is unchanged. A retry does not change the likelihood of passing.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [The Concept Trading Black Friday: 45% Off + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/) (45% Off) — Black Friday
 - 2026-11-11 - [The Concept Trading: 35% Off Instant Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/) (35% Off) — ended 2026-11-13 08:59
 - 2026-11-02 - [The Concept Trading 30% Off Eligible Programs in November](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/) (30% Off) — ended 2026-11-10 08:59
 - 2026-10-26 - [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) (45% Off) — Halloween — ended 2026-10-31 09:59

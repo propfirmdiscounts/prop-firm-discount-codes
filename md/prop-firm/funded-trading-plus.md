@@ -7,47 +7,26 @@ The verified Funded Trading Plus discount code is **PFD** — Up to 20% off, wor
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-13
+- Last deal published: 2026-11-18
 - Trustpilot: 4.0/5 (2671 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-17, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, 35% OFF with code FLASH35, and 25% OFF with code PROFIT.
+As of 2026-11-18, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, 35% OFF with code FLASH35, 32% OFF with code FTP325, and 25% OFF with code PROFIT.
 
-## Current deal: Funded Trading Plus: 25% Off Plus Free Add-On
+## Current deal: Funded Trading Plus Flash Sale: 32.5% Off
 
-- Published: 2026-11-13
+- Published: 2026-11-18
 - Offer ends: Limited time
-- Offer: 25% Off
-- Code: PROFIT
-- Scope: Instant Funding, 1 Step Express
-- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/
-
-## Funded Trading Plus deal FAQ
-
-**What does the Funded Trading Plus code deliver?**
-
-Two benefits in one checkout: 25% off Instant Funding and 1 Step Express accounts, plus the 90% profit split add-on free.
-
-**Why does the order of steps matter?**
-
-The announcement instructs you to select the 90% profit split add-on before the code step, so the code makes the add-on free. Its usual price is not stated.
-
-**What does the 90% profit split add-on do?**
-
-With it selected, you keep 90% of eligible simulated profits paid out to you, subject to your program's rules and payout requirements.
-
-**Is there an end date?**
-
-No end date is stated in the announcement.
-
-**Does the offer change trading rules or reduce risk?**
-
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+- Offer: 32.5% Off
+- Code: FTP325
+- Scope: All Accounts (excl. activation accounts)
+- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-18 - [Funded Trading Plus Flash Sale: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/) (32.5% Off)
 - 2026-11-13 - [Funded Trading Plus: 25% Off Plus Free Add-On](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/) (25% Off)
 - 2026-11-04 - [Funded Trading Plus 35% Off All Accounts Until 9 November](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/) (35% Off) — ended 2026-11-09
 - 2026-11-02 - [Funded Trading Plus $4 Activation Account, 2% Target](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/) (Only $4)

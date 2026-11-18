@@ -9,7 +9,7 @@ The newest RebelsFunding discount code is **INSTANT72** — 72% off (November 17
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-As of 2026-11-17, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
+As of 2026-11-18, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
 
 ## Current deal: RebelsFunding Diamond: 72% Off the $5,000 Program
 

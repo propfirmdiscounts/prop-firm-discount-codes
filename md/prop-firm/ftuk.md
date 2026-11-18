@@ -9,7 +9,7 @@ The newest FTUK discount code is **RETAKE40** — 40% off (November 16, 2026). T
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-17, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
+As of 2026-11-18, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
 
 ## Current deal: FTUK Black Friday: 40% Off Instant + Free Retake
 

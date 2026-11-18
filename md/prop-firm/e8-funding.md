@@ -7,51 +7,48 @@ The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any t
 - Code: CHUN
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-30
+- Last deal published: 2026-11-18
 - Trustpilot: 4.0/5 (3304 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-17, the biggest E8 Markets offers this month: 50% OFF with code CHUN, 50% OFF with code CHUN, and 50% OFF with code CHUN.
+As of 2026-11-18, the biggest E8 Markets offers this month: 50% OFF with code CHUN, 50% OFF with code CHUN, 50% OFF with code CHUN, and 10% OFF with code CHUN.
 
-## Current deal: E8 Markets Winter ARC: Up to 50% Off Accounts with code CHUN
+## Current deal: E8 Markets Classic v2 Launch: 10% Off with code CHUN
 
-- Published: 2026-10-30
-- Offer ends: 2026-11-25
-- Offer: 50% Off
+- Published: 2026-11-18
+- Offer ends: Limited time
+- Offer: 10% Off
 - Code: CHUN
-- Scope: Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, challenge fee, evaluation fee
-- Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/
+- Scope: E8 Classic v2
+- Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/
 
 ## E8 Markets deal FAQ
 
-**What discount does E8 Markets offer in this Winter ARC promotion?**
+**What is the E8 Classic v2?**
 
-Perpetual Futures accounts receive 50% off, Classic Markets accounts receive 30% off, Futures E8 Zero receives 35% off and Futures E8 Signature receives 25% off before November 3. From November 3 to November 25 the discount drops to 15% off on all products, with ARC still included where it applies.
+The firm's newest account: one step with a single 8% profit target and no second phase, no Best Day Rule, a static 4% drawdown, news trading allowed and prices from $29.
 
-**Which E8 Markets accounts include the ARC bonus?**
+**What does the launch discount take off?**
 
-ARC applies to Classic Markets E8 Pro and E8 One plus Perpetual Futures E8 Pro and E8 One. Futures E8 Signature and Futures E8 Zero do not include ARC in this promotion.
+10% off the Classic v2 price at checkout. The firm bills it as the highest discount available for this launch.
 
-**How does the free ARC challenge work at E8 Markets?**
+**How do payouts work on Classic v2?**
 
-Buy an account, get your first payout approved and receive a free challenge. The bonus is limited to one per purchase and matches the size and rules of the purchased account in Phase 1, while free bonus accounts do not generate additional free challenges.
+The firm says payouts can be requested multiple times a day, from $100, whenever you want. The static drawdown does not move when a payout is taken.
 
-**What happens to the discount after November 3?**
+**What is the Best Day Rule change?**
 
-The discount drops to 15% off on all products from November 3 to November 25. ARC still applies where it applied before that date.
+There is none on this account: no Best Day Rule applies, so a standout day counts in full with no consistency cap on your best trades.
 
-**When does the E8 Markets Winter ARC promotion end?**
+**Does the discount change the trading risk?**
 
-The extension runs until November 25. Higher rates apply only before November 3, so the date of purchase decides which rate applies.
-
-**Does this promotion change trading rules at E8 Markets?**
-
-No. The promotion only reduces entry cost and does not change trading rules, drawdown limits or risk parameters. It does not reduce trading risk.
+No. It lowers the entry cost only; the risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-18 - [E8 Markets Classic v2 Launch: 10% Off with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/) (10% Off)
 - 2026-10-30 - [E8 Markets Winter ARC: Up to 50% Off Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) (50% Off)
 - 2026-10-17 - [E8 Markets: 50% Off Signature Classic and Arc Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) (50% Off) — ended 2026-10-20
 - 2026-10-05 - [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts with code CHUN](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) (50% Off) — ended 2026-10-25

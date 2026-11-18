@@ -9,7 +9,7 @@ The newest Ment Funding discount code is **EXCITEMENT** — 40% off (November 15
 - Activate: https://propfirmdiscount.com/go/mentfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ment-funding/
 
-As of 2026-11-17, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, 40% OFF with code EXCITEMENT, and 40% OFF with code MENTMAX.
+As of 2026-11-18, the biggest Ment Funding offers this month: 50% OFF with code MENT50, 50% OFF with code MENT50, 50% OFF with code MENT50, 40% OFF with code EXCITEMENT, and 40% OFF with code MENTMAX.
 
 ## Current deal: Ment Funding Black Friday: 40% Off Evaluations
 

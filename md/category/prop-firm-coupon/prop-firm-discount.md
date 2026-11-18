@@ -1,11 +1,16 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-17, the biggest offers this month: 72% OFF with code INSTANT72 at RebelsFunding, 70% OFF with code PFD at FundingTraders, 60% OFF with code GTA60 at FundYourFX, 50% OFF with code PFD at FundingTraders, and 40% OFF with code LITEWINTER at Blueberry Funded.
+As of 2026-11-17, the biggest offers this month: 70% OFF with code PFD at FundingTraders, 50% OFF with code PFD at FundingTraders, 45% OFF with code BFCM26 at The Concept Trading, 40% OFF with code FLASH at My Funded Futures, and 40% OFF with code LITEWINTER at Blueberry Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
+| 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
+| 2026-11-18 | E8 Markets | E8 Markets Classic v2 Launch: 10% Off with code CHUN | 10% OFF | Limited time | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/ |
+| 2026-11-17 | My Funded Futures | My Funded Futures Flash Sale: Up to 40% Off | 40% OFF | 2026-11-17 16:00 (ended) | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/ |
+| 2026-11-17 | The Concept Trading | The Concept Trading Black Friday: 45% Off + Free Retry | 45% OFF | 2026-11-30 08:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/ |
 | 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
 | 2026-11-17 | FundingTraders | FundingTraders Black Friday: Up to 70% Off with code PFD | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
@@ -31,8 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-16 | QT Funded | QT Funded Black Friday: 75% Off All Plans | 75% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/ |
 | 2026-11-16 | FundingTraders | FundingTraders Flash Sale: Up to 81% Off Instant with code PFD | 81% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/ |
 | 2026-11-15 | Ment Funding | Ment Funding Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/ |
-| 2026-11-14 | We Get Funded | We Get Funded Black Friday: 4 Challenges, One Purchase | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/ |
-| 2026-11-14 | Crypto Fund Trader | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |
-| 2026-11-13 | Funded Trading Plus | Funded Trading Plus: 25% Off Plus Free Add-On | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/ |
-| 2026-11-13 | Sure Leverage Funding | Sure Leverage Funding: 35% Off November Offer | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/ |
-| 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 (ended) | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |

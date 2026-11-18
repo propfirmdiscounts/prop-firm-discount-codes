@@ -9,7 +9,7 @@ The newest We Get Funded discount code is **BLACK4** — 20% off (November 14, 2
 - Activate: https://propfirmdiscount.com/go/wegetfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 
-As of 2026-11-17, the biggest We Get Funded offers this month: 65% OFF with code FED65 and 20% OFF with code BLACK4.
+As of 2026-11-18, the biggest We Get Funded offers this month: 65% OFF with code FED65 and 20% OFF with code BLACK4.
 
 ## Current deal: We Get Funded Black Friday: 4 Challenges, One Purchase
 

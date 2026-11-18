@@ -7,48 +7,48 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-17
+- Last deal published: 2026-11-18
 - Trustpilot: 3.1/5 (3290 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-17, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-18, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders Black Friday: Up to 70% Off with code PFD
+## Current deal: FundingTraders: $500 Off $100K Instant Funded with code PFD
 
-- Published: 2026-11-17
+- Published: 2026-11-18
 - Offer ends: Limited time
-- Offer: 70% Off
+- Offer: $500 Off
 - Code: PFD
-- Scope: Accounts (1-Step and Instant listed)
-- Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/
+- Scope: $100K Instant Funded Account
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/
 
 ## FundingTraders deal FAQ
 
-**What does the Black Friday offer include?**
+**How much is off the $100K Instant Funded account?**
 
-Up to 70% off accounts with premium perks included: a 100% profit split, a 200% refund rate and zero fees.
+$500 - the account is listed at $249 against a $749 regular price.
 
-**What are the listed prices?**
+**What does the 100-use limit mean?**
 
-The $100K 1-Step at $177, down from $589; the $200K Instant at $405, down from $1,349. Both are the firm's stated prices; an exact 70% cut would be $176.70 and $404.70.
+The offer is capped at 100 uses. No end date is stated, so the cap is the limit that ends it.
 
-**What is the 200% refund rate?**
-
-A conditional program term that sets what a refund pays under the program's conditions. It is separate from the checkout discount.
-
-**When does the offer end?**
-
-No end date is stated; the offer is presented as running while it lasts.
-
-**Does the promotion change the trading rules?**
+**Does the deal change the account's rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
+**Is this the same as the flash sale?**
+
+No. The flash sale takes up to 81% off across the Instant Funded range; this is a separate fixed $500 off the $100K size only.
+
+**What does the account cost after the discount?**
+
+$249 per the listing, down from $749.
+
 ## Deals (last 2 months, newest first)
 
+- 2026-11-18 - [FundingTraders: $500 Off $100K Instant Funded with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/) ($500 Off)
 - 2026-11-17 - [FundingTraders Black Friday: Up to 70% Off with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) (70% Off) — Black Friday
 - 2026-11-17 - [FundingTraders: 50% Off All Accounts + Free Account with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) (50% Off)
 - 2026-11-16 - [FundingTraders Flash Sale: Up to 81% Off Instant with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) (81% Off)
