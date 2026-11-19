@@ -1,11 +1,12 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-As of 2026-11-17, the biggest offers this month: 70% OFF with code PFD at FundingTraders, 50% OFF with code GTA at WSFunded, 45% OFF with code BFCM26 at The Concept Trading, 40% OFF with code FLASH at My Funded Futures, and 40% OFF with code LITEWINTER at Blueberry Funded.
+As of 2026-11-17, the biggest offers this month: 70% OFF with code PFD at FundingTraders, 50% OFF with code BF50 at TX3 Funding, 50% OFF with code GTA at WSFunded, 45% OFF with code BFCM26 at The Concept Trading, and 40% OFF with code FLASH at My Funded Futures.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
 | 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-16 | Blue Guardian | Blue Guardian Futures ZERO: 30% Off Launch Sale with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/ |
 | 2026-11-16 | FundedSquad | FundedSquad Black Friday: 55% Off All Models | 55% OFF | 2026-11-23 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
 | 2026-11-16 | QT Funded | QT Funded Black Friday: 75% Off All Plans | 75% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/ |
-| 2026-11-16 | FundingTraders | FundingTraders Flash Sale: Up to 81% Off Instant with code PFD | 81% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/ |

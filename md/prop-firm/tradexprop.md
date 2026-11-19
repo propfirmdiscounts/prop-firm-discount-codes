@@ -5,11 +5,11 @@ The newest Tradexprop discount code is **BF25** — 25% off (November 17, 2026).
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
 - Last deal published: 2026-11-17
-- Trustpilot: 4.1/5 (43 reviews)
+- Trustpilot: 3.9/5 (44 reviews)
 - Activate: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 
-As of 2026-11-18, the biggest Tradexprop offers this month: 40% OFF with code BF40, 40% OFF with code SPOOK40, 25% OFF with code BF25, and 20% OFF with code SPOOK20.
+As of 2026-11-19, the biggest Tradexprop offers this month: 40% OFF with code BF40, 40% OFF with code SPOOK40, 25% OFF with code BF25, and 20% OFF with code SPOOK20.
 
 ## Current deal: Tradexprop Black Friday: 25% Off Instant Funding
 

@@ -5,51 +5,49 @@ The verified TX3 Funding discount code is **PFD1** — Up to 25% off, works any 
 - Code: PFD1
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-27
-- Trustpilot: 3.0/5 (4310 reviews)
+- Last deal published: 2026-11-19
+- Trustpilot: 3.0/5 (4313 reviews)
 - Activate: https://propfirmdiscount.com/go/tx3funding
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest TX3 Funding offers this month: 40% OFF with code TRICKORTREAT, 35% OFF with code PUMPKIN35, 35% OFF with code GRAVEYARD35, 35% OFF with code TX3NEW, and 30% OFF with code COUNTDOWN30.
+As of 2026-11-19, the biggest TX3 Funding offers this month: 50% OFF with code BF50, 40% OFF with code TRICKORTREAT, 35% OFF with code PUMPKIN35, 35% OFF with code GRAVEYARD35, and 35% OFF with code TX3NEW.
 
-## Most recent deal (ended): TX3 Funding Halloween 35% Off Challenge Accounts
+## Current deal: TX3 Funding Black Friday: 50% Off All Accounts
 
-- Published: 2026-10-27
-- Offer ends: 2026-10-31 23:59 (ended)
-- Offer: 35% Off
-- Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K accounts
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
+- Published: 2026-11-19
+- Offer ends: 2026-11-26 23:59
+- Offer: 50% Off
+- Code: BF50
+- Scope: All Accounts (Instant, Core, Prestige)
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/
 
 ## TX3 Funding deal FAQ
 
-**What discount does TX3 Funding offer on challenge accounts in this promotion?**
+**What does the 50% cover?**
 
-It cuts 35% off challenge accounts for Halloween week. A $100K 1 Phase account drops from $479 to $311.35 and a $100K 2 Phase Pro account drops from $549 to $356.85.
+All TX3 Funding accounts - Instant, Core and Prestige - at every size, until 26 November 2026 at 11:59 PM ET.
 
-**Which TX3 Funding challenge models are priced in this offer?**
+**What are the prices with the discount applied?**
 
-1 Phase, 2 Phase Flex and 2 Phase Pro models are priced at $100K in the promotion. Each model shows a list price and a discounted price.
+Instant: 25K $159.50, 50K $229.50, 100K $299.50, 150K $369.50. Prestige: 50K $105.85, 100K $180.85, 150K $247.50. Core: 50K $89.15, 100K $147.50, 150K $214.15.
 
-**When does this TX3 Funding challenge offer end?**
+**How do the three models differ?**
 
-The offer ends Sat, Oct 31 at 11:59 PM ET. That deadline is stated in the promotion itself.
+Instant skips evaluation - funded from day one, with an EOD trailing drawdown and a 20% consistency rule on the 50K. Prestige and Core each run a one-step evaluation: Prestige has no daily loss limit in the evaluation with a 3-day minimum; Core has no consistency rule in the evaluation.
 
-**What does TX3 Funding change here and what stays the same?**
+**What happens after Thanksgiving night?**
 
-It changes only the amount paid at purchase for challenge accounts. It does not modify trading rules, drawdown limits or risk parameters.
+The offer ends on 26 November 2026 at 11:59 PM ET. The firm states the code stops working after that.
 
-**Who may this TX3 Funding challenge pricing suit?**
+**Does the discount change the trading risk?**
 
-It may suit a buyer who already planned a challenge purchase at $100K. It may also suit a buyer comparing challenge models at the same account size.
-
-**How can a reader reach this TX3 Funding challenge offer?**
-
-Follow the Start here link at the end of this article to reach the official site. The fee is a one-time fee with no recurring charges stated in the promotion.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-19 - [TX3 Funding Black Friday: 50% Off All Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) (50% Off) — Black Friday
 - 2026-10-27 - [TX3 Funding Halloween 35% Off Challenge Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) (35% Off) — Halloween — ended 2026-10-31 23:59
 - 2026-10-27 - [TX3 Funding Halloween 40% Off Instant Funded Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) (40% Off) — Halloween — ended 2026-10-31 23:59
 - 2026-10-26 - [TX3 Funding Halloween 35% Off All Accounts Weekend Flash](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) (35% Off) — Halloween — ended 2026-10-25 23:59

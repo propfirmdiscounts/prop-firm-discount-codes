@@ -8,12 +8,12 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-18
-- Trustpilot: 3.1/5 (3290 reviews)
+- Trustpilot: 3.1/5 (3293 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
+As of 2026-11-19, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
 ## Current deal: FundingTraders: $500 Off $100K Instant Funded with code PFD
 

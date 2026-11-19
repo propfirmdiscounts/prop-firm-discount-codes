@@ -3,11 +3,11 @@
 No live discount code for Lux Trading Firm right now — newest deals and offers are below.
 
 - Last deal published: 2026-10-22
-- Trustpilot: 3.7/5 (627 reviews)
+- Trustpilot: 3.7/5 (626 reviews)
 - Activate: https://propfirmdiscount.com/go/luxtradingfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/lux-trading-firm/
 
-As of 2026-11-18, the biggest Lux Trading Firm offers this month: 30% OFF.
+As of 2026-11-19, the biggest Lux Trading Firm offers this month: 30% OFF.
 
 ## Current deal: Lux Trading Firm £699 $1M Account Black Friday
 

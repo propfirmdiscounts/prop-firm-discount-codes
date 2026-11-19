@@ -6,7 +6,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
-| 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
+| 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
+| 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 (ended) | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
 | 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |

@@ -5,11 +5,11 @@ No live discount code for Alpha Capital Group right now — newest deals and off
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
 - Last deal published: 2026-11-06
-- Trustpilot: 4.5/5 (22198 reviews)
+- Trustpilot: 4.5/5 (22239 reviews)
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
-As of 2026-11-18, the biggest Alpha Capital Group offers this month: 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, and 20% OFF with code ALPHA20.
+As of 2026-11-19, the biggest Alpha Capital Group offers this month: 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, and 20% OFF with code ALPHA20.
 
 ## Most recent deal (ended): Alpha Capital Group Diwali: 40% Off All Plans
 

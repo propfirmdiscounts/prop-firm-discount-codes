@@ -5,11 +5,11 @@ The newest FTUK discount code is **RETAKE40** — 40% off (November 16, 2026). T
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
 - Last deal published: 2026-11-16
-- Trustpilot: 3.9/5 (811 reviews)
+- Trustpilot: 3.9/5 (808 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-18, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
+As of 2026-11-19, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
 
 ## Current deal: FTUK Black Friday: 40% Off Instant + Free Retake
 

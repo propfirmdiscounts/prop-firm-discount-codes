@@ -6,7 +6,7 @@ The top prop firm offer this month is **GOBBLE90** from Elite Trader Funding —
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-18, the biggest prop firm offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code PFD at Phidias Propfirm, 85% OFF with code CK85 at CK PropFirm, 81% OFF with code PFD at FundingTraders, and 80% OFF with code BLACKFRIDAY at Top One Trader.
+As of 2026-11-19, the biggest prop firm offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code PFD at Phidias Propfirm, 85% OFF with code CK85 at CK PropFirm, 81% OFF with code PFD at FundingTraders, and 80% OFF with code BLACKFRIDAY at Top One Trader.
 
 | # | Prop firm | Event | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|---|
@@ -23,16 +23,16 @@ As of 2026-11-18, the biggest prop firm offers this month: 90% OFF with code GOB
 
 ## Best Exclusive Prop Firm Discount Codes
 
-As of 2026-11-18, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 65% OFF with code PFD at FundedSeat, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, and 35% OFF with code PFD at AquaFunded.
+As of 2026-11-19, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, 35% OFF with code PFD at AquaFunded, and 30% OFF with code PFD at Blue Guardian.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | No expiry | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundedSeat | PFD | 65% | No expiry | https://propfirmdiscount.com/prop-firm/fundedseat/ |
-| 3 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 5 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 6 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 2 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 4 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 5 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 6 | SabioTrade | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
 | 7 | TX3 Funding | PFD1 | 25% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | 8 | Funded Trading Plus | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 9 | FundedNext | PFDC | 20% | No expiry | https://propfirmdiscount.com/prop-firm/fundednext/ |
@@ -40,7 +40,7 @@ As of 2026-11-18, the biggest verified prop firm discount codes are 85% OFF with
 
 ## Top Black Friday Discount Codes — November 2026
 
-As of 2026-11-18, the biggest Black Friday prop firm offers are 80% OFF at CK PropFirm (code on the deal page), 80% OFF at Top One Trader (code on the deal page), 75% OFF at QT Funded (code on the deal page), 70% OFF with code PFD at FundingTraders, and 65% OFF at Bullwaves Prime (code on the deal page).
+As of 2026-11-19, the biggest Black Friday prop firm offers are 80% OFF at CK PropFirm (code on the deal page), 80% OFF at Top One Trader (code on the deal page), 75% OFF at QT Funded (code on the deal page), 70% OFF with code PFD at FundingTraders, and 65% OFF at Bullwaves Prime (code on the deal page).
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|
@@ -52,8 +52,8 @@ As of 2026-11-18, the biggest Black Friday prop firm offers are 80% OFF at CK Pr
 | 6 | Top One Futures | PFD | 65% | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 7 | FundedSquad | - | 55% | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 | 8 | SFX Funded | - | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 9 | Goat Funded Trader | - | 50% | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| 10 | Take Profit Trader | - | 50% | Ended Nov 9, 2026 | https://propfirmdiscount.com/prop-firm/take-profit-trader/ |
+| 9 | TX3 Funding | - | 50% | Ends Nov 26, 2026 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 10 | Goat Funded Trader | - | 50% | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 
 One row per firm: the firm's best-percentage deal filed under Black Friday in November 2026, highest first. Ended deals keep their row and say so in the Offer ends column. Every Black Friday deal: https://propfirmdiscount.com/tag/black-friday/
 
@@ -63,7 +63,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
-| 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
+| 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
 | 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |

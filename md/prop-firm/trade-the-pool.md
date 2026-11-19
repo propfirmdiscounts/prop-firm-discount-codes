@@ -8,12 +8,12 @@ The verified Trade The Pool discount code is **WWS4GW** — Up to 10% off, works
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-28
-- Trustpilot: 4.5/5 (999 reviews)
+- Trustpilot: 4.5/5 (1004 reviews)
 - Activate: https://propfirmdiscount.com/go/tradethepool
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest Trade The Pool offers this month: 20% OFF.
+As of 2026-11-19, the biggest Trade The Pool offers this month: 20% OFF.
 
 ## Current deal: Trade The Pool Stocktober Sale: 20% Off All Accounts
 

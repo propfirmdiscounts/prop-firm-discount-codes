@@ -3,11 +3,11 @@
 The newest FundYourFX discount code is **GTA60** — 60% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-11-17
-- Trustpilot: 3.7/5 (921 reviews)
+- Trustpilot: 3.7/5 (919 reviews)
 - Activate: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-As of 2026-11-18, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code GTA60, 60% OFF with code VET60, 60% OFF with code NOVEMBER60, and 60% OFF with code OCTA60.
+As of 2026-11-19, the biggest FundYourFX offers this month: 65% OFF with code HALLOWEEN65, 60% OFF with code GTA60, 60% OFF with code VET60, 60% OFF with code NOVEMBER60, and 60% OFF with code OCTA60.
 
 ## Current deal: FundYourFX: 60% Off All Plans + GTA VI Draw
 

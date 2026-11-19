@@ -8,12 +8,12 @@ The verified CK PropFirm discount code is **PFD** — Up to 10% off, works any t
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-16
-- Trustpilot: 2.8/5 (432 reviews)
+- Trustpilot: 2.8/5 (431 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest CK PropFirm offers this month: 85% OFF with code CK85, 80% OFF with code BF80, 80% OFF with code DIWALI80, 80% OFF with code CK80, and 80% OFF with code OCT80.
+As of 2026-11-19, the biggest CK PropFirm offers this month: 85% OFF with code CK85, 80% OFF with code BF80, 80% OFF with code DIWALI80, 80% OFF with code CK80, and 80% OFF with code OCT80.
 
 ## Current deal: CK PropFirm Flash Sale: 85% Off All Evaluations
 

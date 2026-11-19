@@ -73,21 +73,21 @@
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13064,
-            "title": "Up to 50% Off Winter ARC Account Entry Fees",
+            "deal_id": 13277,
+            "title": "Classic v2 Launch: 10% Off",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "10%",
             "scope": [
-                "Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee"
+                "E8 Classic V2"
             ],
-            "date_published": "2026-10-30",
-            "date_exp": "2026-11-25",
+            "date_published": "2026-11-18",
+            "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/"
+            "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/"
         },
         "deal_count": {
-            "total": 18,
-            "this_year": 14,
+            "total": 19,
+            "this_year": 15,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/e8funding",
@@ -106,21 +106,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13174,
-            "title": "Back to Roots Sale 50% Off Everything",
-            "offer_type": "coupon",
-            "discount_value": "50%",
+            "deal_id": 13272,
+            "title": "Launch Week PS5 Draw",
+            "offer_type": "deal",
+            "discount_value": "Prize Draw",
             "scope": [
-                "All Accounts - Instant, Pro, Challenge; Every Account Size"
+                "Finotive Funding Accounts (Challenge, Instant Or Pro)"
             ],
-            "date_published": "2026-11-06",
-            "date_exp": "2026-11-10 17:59 (ended)",
+            "date_published": "2026-11-17",
+            "date_exp": "2026-11-23 13:00",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/"
+            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/"
         },
         "deal_count": {
-            "total": 60,
-            "this_year": 34,
+            "total": 61,
+            "this_year": 35,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
@@ -139,21 +139,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13229,
-            "title": "25% Off Plus Free Add-On",
+            "deal_id": 13278,
+            "title": "Flash Sale: 32.5% Off",
             "offer_type": "coupon",
-            "discount_value": "25%",
+            "discount_value": "32.5%",
             "scope": [
-                "Instant Funding, 1 Step Express"
+                "All Accounts (Excl. Activation Accounts)"
             ],
-            "date_published": "2026-11-13",
+            "date_published": "2026-11-18",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/"
         },
         "deal_count": {
-            "total": 61,
-            "this_year": 42,
+            "total": 62,
+            "this_year": 43,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
@@ -234,25 +234,25 @@
         "prop_firm": "FundingTraders",
         "slug": "fundingtraders",
         "code": "PFD",
-        "discount": "81%",
+        "discount": "70%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13235,
-            "title": "Up to 81% Off Instant Funded Accounts",
+            "deal_id": 13237,
+            "title": "$500 Off the $100K Instant Account",
             "offer_type": "coupon",
-            "discount_value": "81%",
+            "discount_value": "$500 Off",
             "scope": [
-                "Instant Funded Accounts"
+                "$100K Instant Funded Account"
             ],
-            "date_published": "2026-11-16",
+            "date_published": "2026-11-18",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/"
+            "post_url": "https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/"
         },
         "deal_count": {
-            "total": 96,
-            "this_year": 72,
+            "total": 99,
+            "this_year": 75,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
@@ -299,8 +299,8 @@
     {
         "prop_firm": "TX3 Funding",
         "slug": "tx3-funding",
-        "code": "PFDC",
-        "discount": "50%",
+        "code": "PFD1",
+        "discount": "25%",
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
@@ -370,21 +370,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13093,
-            "title": "25% off plus two free add-ons in November",
+            "deal_id": 13266,
+            "title": "Black Friday 35% Off",
             "offer_type": "coupon",
-            "discount_value": "25%",
+            "discount_value": "35%",
             "scope": [
-                "Accounts Excluding Instant Funding Lite; Add-Ons Vary By Program"
+                "All Programs (Excl. Instant Funding Lite)"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/"
+            "date_published": "2026-11-17",
+            "date_exp": "2026-12-09 23:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/"
         },
         "deal_count": {
-            "total": 41,
-            "this_year": 25,
+            "total": 42,
+            "this_year": 26,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fxify",
@@ -436,21 +436,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13066,
-            "title": "Halloween $6K Forex Fast challenge for only $9.99",
+            "deal_id": 13281,
+            "title": "Perps Challenges: 15% Off",
             "offer_type": "coupon",
-            "discount_value": "79.6%",
+            "discount_value": "15%",
             "scope": [
-                "Forex Fast, 1-Step, $6K Account, Metatrader 5"
+                "Perps Challenges"
             ],
-            "date_published": "2026-10-30",
+            "date_published": "2026-11-13",
             "date_exp": "Limited time",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/"
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/"
         },
         "deal_count": {
-            "total": 55,
-            "this_year": 41,
+            "total": 56,
+            "this_year": 42,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fortraders",
@@ -469,21 +469,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13173,
-            "title": "Honor Sale 25% Off + 150% Refund",
+            "deal_id": 13273,
+            "title": "Black Friday 35% Off",
             "offer_type": "coupon",
-            "discount_value": "25%",
+            "discount_value": "35%",
             "scope": [
-                "Instant, One Step And Two Step Accounts, $2.5K To $400K; 150% Refund On Cfd Accounts"
+                "Every Account"
             ],
-            "date_published": "2026-11-06",
+            "date_published": "2026-11-17",
             "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/"
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/"
         },
         "deal_count": {
-            "total": 65,
-            "this_year": 31,
+            "total": 66,
+            "this_year": 32,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/aquafunded",
@@ -759,39 +759,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Breakout-funded-logo-2.jpg"
     },
     {
-        "prop_firm": "Upcomers",
-        "slug": "upcomers",
-        "code": "PFD",
-        "discount": "93%",
-        "is_global": 1,
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 13215,
-            "title": "Black Friday Vol. 2: Up to 93% Off",
-            "offer_type": "coupon",
-            "discount_value": "93%",
-            "scope": [
-                "Accounts, 50K 2-Step Odyssey"
-            ],
-            "date_published": "2026-11-11",
-            "date_exp": "Limited time",
-            "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/"
-        },
-        "deal_count": {
-            "total": 21,
-            "this_year": 16,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/upcomers",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-        "trustpilot_score": 2.8,
-        "trustpilot_reviews": 590,
-        "trustpilot_url": "https://www.trustpilot.com/review/upcomers.com",
-        "description": "Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.\nWith top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We\u2019re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/upcomers-logo.jpg"
-    },
-    {
         "prop_firm": "Funding Your Trades",
         "slug": "funding-your-trades",
         "code": "PFD",
@@ -922,6 +889,39 @@
         "trustpilot_url": "https://www.trustpilot.com/review/alpha-futures.com",
         "description": "At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.\nWe prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.\nJoin Alpha Futures today and unlock your full trading potential!",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Alpha-Futures-logo-2.jpg"
+    },
+    {
+        "prop_firm": "Topstep",
+        "slug": "topstep",
+        "code": "TRANNGUYEN",
+        "discount": "50%",
+        "is_global": 0,
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 12912,
+            "title": "Halloween Sale: $65 and $199 Flat-Fee $3K Challenges",
+            "offer_type": "deal",
+            "discount_value": "Only $65",
+            "scope": [
+                "3K Challenge, Undead Account, Slasher Account, Halloween"
+            ],
+            "date_published": "2026-10-15",
+            "date_exp": "Ended",
+            "event": "Halloween",
+            "post_url": "https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/"
+        },
+        "deal_count": {
+            "total": 8,
+            "this_year": 4,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/topstep",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/topstep/",
+        "trustpilot_score": 3.7,
+        "trustpilot_reviews": 15099,
+        "trustpilot_url": "https://www.trustpilot.com/review/topstep.com",
+        "description": "",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Topstep-logo.jpg"
     },
     {
         "prop_firm": "Top One Futures",
@@ -1219,6 +1219,39 @@
         "trustpilot_url": "https://www.trustpilot.com/review/bullrush.com",
         "description": "BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.",
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/bullrush-prop-logo-2.jpg"
+    },
+    {
+        "prop_firm": "SabioTrade",
+        "slug": "sabiotrade",
+        "code": "PFD",
+        "discount": "30%",
+        "is_global": 0,
+        "validity": "standing",
+        "last_deal": {
+            "deal_id": 13284,
+            "title": "GTA VI Giveaway: Free Entry",
+            "offer_type": "deal",
+            "discount_value": "Prize Draw",
+            "scope": [
+                "Free Trial Sign-Ups"
+            ],
+            "date_published": "2026-11-18",
+            "date_exp": "2026-11-18",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/"
+        },
+        "deal_count": {
+            "total": 6,
+            "this_year": 4,
+            "year": 2026
+        },
+        "activation_link": "https://propfirmdiscount.com/go/sabiotrade",
+        "archive_url": "https://propfirmdiscount.com/prop-firm/sabiotrade/",
+        "trustpilot_score": 3.6,
+        "trustpilot_reviews": 699,
+        "trustpilot_url": "https://www.trustpilot.com/review/sabiotrade.com",
+        "description": "SabioTrade is a pioneering prop trading platform that invites talented traders to operate as non-staff traders and provides them with a platform and infrastructure, regardless of their backgrounds since 2021. The company aims to disrupt the financial landscape by simplifying access to cutting-edge and top-tier trading tools for everyone, everywhere. The platform provides an optimal blend of technology, resources, and support each trader requires to make informed trading decisions.\nThe partnership model of SabioTrade is one of many features that uniquely make the company stand out. The model empowers traders to use the company's proprietary capital while taking no personal financial risks. The profits are shared with up to 95 percent ratio, effectively ensuring a win-win scenario for both parties\u200b\u200b.\nAt SabioTrade, traders can access over 100 built-in indicators, widgets, and alerts. The platform offers a range of plans catering to diverse trading needs, with funded accounts of up to $1,000,000 and generous leverage of 30:1, surpassing what most brokerage accounts and proprietary trading firms can offer.\nWith over a hundred and fifty thousand proprietary traders worldwide, SabioTrade is known by its users for straightforward and almost instantaneous registration. Apart from the quick assessment evaluation, which is pretty straightforward for candidates, they are equipped with comprehensive training. The platform provides access to free educational courses in written format, webinars and a trading signals app. covering the basics of trading and fundamental &amp; technical analysis and more. All these features are aimed at making it easier for traders to adapt to the platform and effectively fostering a dynamic trading infrastructure for trading \nSabioTrade is committed to implementing high standards in user support, which includes 24/7 assistance, clear and comprehensive statistics, and multilingual service. There are no hidden charges involved in trading. The company adheres to a transparent cooperation model, where traders clearly understand their trading requirements and the profits they can anticipate.\nSabioTrade offers a platform to interact with fellow traders, gain expert insights, and chart a successful trading path to enhance the trading journey of the platform's users. The company is dedicated to nurturing the growth and success of its traders, whether they're novices or seasoned professionals. Joining Sabio Trade\u2019s ecosystem signifies the beginning of a fruitful trading adventure.",
+        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/11/sabiotrade-logo-2.jpg"
     },
     {
         "prop_firm": "QT Futures",
@@ -1533,7 +1566,7 @@
                 "Daily Starter, 25K Account, Tfeed"
             ],
             "date_published": "2026-11-04",
-            "date_exp": "2026-11-18 17:59",
+            "date_exp": "2026-11-18 17:59 (ended)",
             "event": null,
             "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/"
         },

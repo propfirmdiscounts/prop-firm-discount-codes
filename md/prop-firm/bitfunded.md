@@ -5,11 +5,11 @@ No live discount code for Bitfunded right now — newest deals and offers are be
 > First prop trading firm dedicated exclusively to crypto
 
 - Last deal published: 2026-11-13
-- Trustpilot: 4.3/5 (204 reviews)
+- Trustpilot: 4.3/5 (208 reviews)
 - Activate: https://propfirmdiscount.com/go/bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 
-As of 2026-11-18, the biggest Bitfunded offers this month: 70% OFF, 60% OFF, and 55% OFF.
+As of 2026-11-19, the biggest Bitfunded offers this month: 70% OFF, 60% OFF, and 55% OFF.
 
 ## Current deal: Bitfunded Black Friday: Pay for 3, Get 7 Challenges
 

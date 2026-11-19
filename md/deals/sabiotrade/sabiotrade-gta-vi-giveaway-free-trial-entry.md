@@ -1,11 +1,11 @@
 # SabioTrade GTA VI Giveaway: 10 Copies, Free Entry
 
-SabioTrade is offering Prize Draw.
+SabioTrade was offering Prize Draw.
 
 > SabioTrade gives away 10 copies of GTA VI - and entry no longer needs a purchase: a free trial registered by 18 November 2026 is enough.
 
 - Published: 2026-11-18
-- Offer ends: 2026-11-18
+- Offer ends: 2026-11-18 (ended)
 - Prop firm: SabioTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 - Summary: SabioTrade is giving away 10 copies of GTA VI on PS5 or Xbox Series X\|S. Entry now needs only a free trial registered between 1 and 18 November 2026 - no purchase required.

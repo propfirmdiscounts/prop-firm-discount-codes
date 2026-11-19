@@ -5,11 +5,11 @@ The newest RebelsFunding discount code is **INSTANT72** — 72% off (November 17
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
 - Last deal published: 2026-11-17
-- Trustpilot: 4.2/5 (2923 reviews)
+- Trustpilot: 4.2/5 (2932 reviews)
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-As of 2026-11-18, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
+As of 2026-11-19, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
 
 ## Current deal: RebelsFunding Diamond: 72% Off the $5,000 Program
 

@@ -13,12 +13,12 @@ The verified SabioTrade discount code is **PFD** — Up to 30% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest SabioTrade offers this month: 25% OFF with code BOO25.
+As of 2026-11-19, the biggest SabioTrade offers this month: 25% OFF with code BOO25.
 
-## Current deal: SabioTrade GTA VI Giveaway: 10 Copies, Free Entry
+## Most recent deal (ended): SabioTrade GTA VI Giveaway: 10 Copies, Free Entry
 
 - Published: 2026-11-18
-- Offer ends: 2026-11-18
+- Offer ends: 2026-11-18 (ended)
 - Offer: Prize Draw
 - Scope: Free Trial Sign-Ups
 - Deal page: https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/
@@ -47,5 +47,5 @@ On 18 November 2026, with entrants asked to stay on the Discord server until the
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-18 - [SabioTrade GTA VI Giveaway: 10 Copies, Free Entry](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/) (Prize Draw)
+- 2026-11-18 - [SabioTrade GTA VI Giveaway: 10 Copies, Free Entry](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/) (Prize Draw) — ended 2026-11-18
 - 2026-10-30 - [SabioTrade Halloween 25% Off Account Purchase Deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/) (25% Off) — Halloween

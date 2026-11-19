@@ -3,11 +3,11 @@
 The newest IC Funded discount code is **BLACKIC45** — 45% off (November 4, 2026). The campaign code changes with each promotion; newest first below.
 
 - Last deal published: 2026-11-04
-- Trustpilot: 3.4/5 (199 reviews)
+- Trustpilot: 3.5/5 (202 reviews)
 - Activate: https://propfirmdiscount.com/go/icfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 
-As of 2026-11-18, the biggest IC Funded offers this month: 45% OFF with code BLACKIC45, 40% OFF with code RENACER40, 40% OFF with code TREAT40, 40% OFF with code 40FOR40, and 30% OFF with code SCALE30.
+As of 2026-11-19, the biggest IC Funded offers this month: 45% OFF with code BLACKIC45, 40% OFF with code RENACER40, 40% OFF with code TREAT40, 40% OFF with code 40FOR40, and 30% OFF with code SCALE30.
 
 ## Current deal: IC Funded Black Friday 45% Off Every Challenge and Account
 

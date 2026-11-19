@@ -5,11 +5,11 @@ The newest We Get Funded discount code is **BLACK4** — 20% off (November 14, 2
 > WeGetFunded is an innovative French prop firm, created by Traders for Traders. We offer a unique experience, combining flexibility and growth opportunities tailored to every trader profile. Our challenges, available in one step or two steps, are accessible on a modern and responsive platform, ensuring optimal conditions for your progress. Additionally, we offer the possibility to be funded up to $800,000. Join a dynamic community and take the next step in your trading journey with WeGetFunded.
 
 - Last deal published: 2026-11-14
-- Trustpilot: 4.2/5 (1143 reviews)
+- Trustpilot: 4.4/5 (1237 reviews)
 - Activate: https://propfirmdiscount.com/go/wegetfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 
-As of 2026-11-18, the biggest We Get Funded offers this month: 65% OFF with code FED65 and 20% OFF with code BLACK4.
+As of 2026-11-19, the biggest We Get Funded offers this month: 65% OFF with code FED65 and 20% OFF with code BLACK4.
 
 ## Current deal: We Get Funded Black Friday: 4 Challenges, One Purchase
 

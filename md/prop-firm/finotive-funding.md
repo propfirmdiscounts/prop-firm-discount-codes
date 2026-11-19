@@ -13,7 +13,7 @@ The verified Finotive Funding discount code is **PFDC** — Up to 25% off, works
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-18, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code ROOTS50, 50% OFF with code BOO50, and 50% OFF with code OCT50.
+As of 2026-11-19, the biggest Finotive Funding offers this month: 65% OFF with code UNMATCH, 50% OFF with code ROOTS50, 50% OFF with code BOO50, and 50% OFF with code OCT50.
 
 ## Current deal: Finotive Funding Launch Week: Win a PS5 With GTA VI
 

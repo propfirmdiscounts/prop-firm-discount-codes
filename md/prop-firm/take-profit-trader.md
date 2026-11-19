@@ -5,11 +5,11 @@ No live discount code for Take Profit Trader right now — newest deals and offe
 > We fund futures traders. We’re a no-nonsense futures funding company with helpful 24/5 live trader support and an industry-leading payout program which allows you to get paid from day-one of your PRO account. Progress on your trading journey with us to live market PRO+ accounts and 90% profit splits. Come trade futures with the TPT team!
 
 - Last deal published: 2026-11-03
-- Trustpilot: 4.4/5 (11262 reviews)
+- Trustpilot: 4.4/5 (11313 reviews)
 - Activate: https://propfirmdiscount.com/go/takeprofittrader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
 
-As of 2026-11-18, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
+As of 2026-11-19, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
 
 ## Most recent deal (ended): Take Profit Trader Black Friday 50% Off Test Accounts
 
