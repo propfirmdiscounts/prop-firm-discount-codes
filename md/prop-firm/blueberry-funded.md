@@ -1,6 +1,6 @@
 # Blueberry Funded Discount Code
 
-The newest Blueberry Funded discount code is **LITEWINTER** — 40% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for Blueberry Funded right now — newest deals and offers are below.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
@@ -11,12 +11,11 @@ The newest Blueberry Funded discount code is **LITEWINTER** — 40% off (Novembe
 
 As of 2026-11-18, the biggest Blueberry Funded offers this month: 40% OFF with code LITEWINTER, 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, and 35% OFF with code PRIMEBG.
 
-## Current deal: Blueberry Funded Winter Arc: 40% Off Instant Lite
+## Most recent deal (ended): Blueberry Funded Winter Arc: 40% Off Instant Lite
 
 - Published: 2026-11-17
-- Offer ends: 2026-11-18 18:59
+- Offer ends: 2026-11-18 18:59 (ended)
 - Offer: 40% Off
-- Code: LITEWINTER
 - Scope: Instant Lite
 - Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/
 
@@ -44,8 +43,8 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) (40% Off)
-- 2026-11-16 - [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) (35% Off)
+- 2026-11-17 - [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) (40% Off) — ended 2026-11-18 18:59
+- 2026-11-16 - [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) (35% Off) — ended 2026-11-18 18:59
 - 2026-11-08 - [Blueberry Funded Diwali: 30% Off All Challenges](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/) (30% Off) — Diwali — ended 2026-11-11
 - 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off) — Halloween — ended 2026-11-01 18:59
 - 2026-10-13 - [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) (15% Off) — ended 2026-10-20

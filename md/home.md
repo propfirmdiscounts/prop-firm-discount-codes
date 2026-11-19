@@ -75,12 +75,10 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | FundingTraders | FundingTraders Black Friday: Up to 70% Off with code PFD | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
 | 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% Off | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
-| 2026-11-17 | Blueberry Funded | Blueberry Funded Winter Arc: 40% Off Instant Lite | 40% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% Off | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-17 | FundingTraders | FundingTraders: 50% Off All Accounts + Free Account with code PFD | 50% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/ |
 | 2026-11-17 | RebelsFunding | RebelsFunding Diamond: 72% Off the $5,000 Program | 72% Off | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/ |
 | 2026-11-17 | FundYourFX | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% Off | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
-| 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% Off | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
 | 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
@@ -93,3 +91,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-16 | QT Funded | QT Funded Black Friday: 60% Off, Free Account | 60% Off | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/ |
 | 2026-11-16 | Funding Your Trades | Funding Your Trades Black Friday: 35% Off + BOGO | 35% Off | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/ |
 | 2026-11-16 | Tradexprop | Tradexprop Black Friday: 40% Off Evaluations | 40% Off | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/ |
+| 2026-11-16 | Blue Guardian | Blue Guardian Futures ZERO: 30% Off Launch Sale with code PFD | 30% Off | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/ |
+| 2026-11-16 | FundedSquad | FundedSquad Black Friday: 55% Off All Models | 55% Off | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
