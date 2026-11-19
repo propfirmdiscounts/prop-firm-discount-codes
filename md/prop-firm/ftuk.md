@@ -1,50 +1,47 @@
 # FTUK Discount Code
 
-The newest FTUK discount code is **RETAKE40** — 40% off (November 16, 2026). The campaign code changes with each promotion; newest first below.
+The newest FTUK discount code is **FLEX35** — 35% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
-- Last deal published: 2026-11-16
+- Last deal published: 2026-11-17
 - Trustpilot: 3.9/5 (808 reviews)
 - Activate: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-As of 2026-11-19, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 40% OFF with code TRICK40.
+As of 2026-11-19, the biggest FTUK offers this month: 50% OFF with code NOVEMBER50, 50% OFF with code HALLOWEEN50, 40% OFF with code RETAKE40, 40% OFF with code NFP40, and 35% OFF with code FLEX35.
 
-## Current deal: FTUK Black Friday: 40% Off Instant + Free Retake
+## Current deal: FTUK: 35% Off Flex Activation
 
-- Published: 2026-11-16
+- Published: 2026-11-17
 - Offer ends: Limited time
-- Offer: 40% Off
-- Code: RETAKE40
-- Scope: Instant Funding (Forex & Futures)
+- Offer: 35% Off
+- Code: FLEX35
+- Scope: Flex Activation
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/
+- Deal page: https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/
 
 ## FTUK deal FAQ
 
-**What does the early Black Friday offer include?**
+**What does the 35% cover?**
 
-40% off Instant Funding across Forex and Futures, plus one free retake included with the purchase.
+Flex Activation at FTUK, applied through the trader dashboard.
 
-**What does the free retake mean?**
+**What does Flex Activation include?**
 
-A second attempt is included if the first does not pass, without a second purchase. The announcement does not specify the retake's conditions, so check its terms before relying on it.
+The offer does not detail what the activation covers or which accounts it attaches to - check the specifics on the deal page before paying.
 
-**Does the promotion change the trading rules?**
+**Is an end date stated?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+No date is stated; the announcement frames the offers as limited time only.
 
-**When does the offer end?**
+**Does the discount change account terms?**
 
-No end date is stated for the offer.
-
-**How does this compare with the firm's last Instant Funding offer?**
-
-The 10 November listing took 50% off every Instant Funding size with no retake. This offer takes 40% off and adds the free retake.
+No. The cut lowers the activation cost only; it changes no trading rules and no account terms.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-17 - [FTUK: 35% Off Flex Activation](https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/) (35% Off) — Black Friday
 - 2026-11-16 - [FTUK Black Friday: 40% Off Instant + Free Retake](https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/) (40% Off) — Black Friday
 - 2026-11-10 - [FTUK: 50% Off Every Instant Funding Size](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/) (50% Off)
 - 2026-11-09 - [FTUK Instant Funding: 35% Off Every Account](https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/) (35% Off)

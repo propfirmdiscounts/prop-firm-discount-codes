@@ -1,8 +1,8 @@
-# Best Prop Firm Discount Codes & Deals – November 2026
+# Best Active Prop Firm Discount Codes & Deals – November 2026
 
 ## Top November 2026 Prop Firm Discount Codes & Deals
 
-Compare the best prop firm discount codes and deals available this month, ranked by their advertised savings. The highest November 2026 offers include 90% OFF at Elite Trader Funding with a code you copy from the deal page, 85% OFF at Phidias Propfirm with code PFD, 85% OFF at CK PropFirm with a code you copy from the deal page, and 81% OFF at FundingTraders with code PFD. PropFirmDiscount tracks 20 promotional offers published this month, including exclusive partner codes and limited-time campaign codes. Currently, 16 offers are still active, while expired promotions remain listed with their status clearly marked to preserve the complete monthly deal history.
+Compare the best prop firm discount codes and deals available this month, ranked by their advertised savings. The highest November 2026 offers include 90% OFF at Elite Trader Funding with a code you copy from the deal page, 85% OFF at Phidias Propfirm with code PFD, 85% OFF at CK PropFirm with a code you copy from the deal page, and 81% OFF at FundingTraders with code PFD. PropFirmDiscount tracks 20 promotional offers published this month, including exclusive partner codes and limited-time campaign codes. Currently, 17 offers are still active, while expired promotions remain listed with their status clearly marked to preserve the complete monthly deal history.
 
 | # | Prop firm | Event | Discount code | Discount | Type | Offer ends | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -16,8 +16,8 @@ Compare the best prop firm discount codes and deals available this month, ranked
 | 8 | Alpha Funded | - | - | 70% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 9 | Top One Futures | Black Friday | PFD | 65% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 10 | Bullwaves Prime | Black Friday | - | 65% | Campaign Code | Ended Nov 15, 2026 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| 11 | Funded Hero | - | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 12 | Doji Funding | - | PFD | 60% | Exclusive Code | Ended Nov 8, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 11 | Doji Funding | - | PFD | 60% | Exclusive Code | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 12 | Funded Hero | - | PFD | 60% | Exclusive Code | Limited time | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 13 | FundYourFX | - | - | 60% | Campaign Code | Ends Nov 22, 2026 | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
 | 14 | Plutus Trade Base | - | - | 60% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
 | 15 | TradeDay | - | - | 60% | Campaign Code | Limited time | https://propfirmdiscount.com/prop-firm/tradeday/ |
@@ -29,7 +29,7 @@ Compare the best prop firm discount codes and deals available this month, ranked
 
 Ranked highest discount first, one row per firm that posted a deal this month - a firm without an affiliate code still appears, carrying its own campaign. The Event column is the deal's own event tag (the emoji a tag may start with is dropped), and "-" means the deal belongs to no event. "Exclusive Code" is a standing code the PropFirmDiscount team distributes through our partnerships - it works any time, and the exclusive table above prints "No expiry" for it. "Campaign Code" is a firm's own promotion. The Offer ends cell reads one of three ways and only ever repeats what the firm said: "Ends Oct 31, 2026" while the offer is running, "Ended Oct 20, 2026" once that date has passed - the row keeps its place, because dropping it would quietly rewrite the month's ranking - and "Limited time" when the firm never stated one, which we print instead of guessing a date. A deal with no stated date is treated as running for one month from the day it was posted and reads "Ended" after that. Discounts are the maximum each firm advertises - exact % depends on the account and program.
 
-## Best Exclusive Prop Firm Discount Codes
+## Best Active & Exclusive Prop Firm Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|

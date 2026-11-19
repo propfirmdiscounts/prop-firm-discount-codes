@@ -1,15 +1,19 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
-As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 65% OFF at Top One Trader, 60% OFF with code GOBIG60 at Bullwaves Prime, 50% OFF with code BF50 at TX3 Funding, and 50% OFF with code EARLYFRIDAY50 at Goat Funded Trader.
+As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, and 40% OFF with code BF40 at Alpha Capital Group.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
+| 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
+| 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-17 | The Concept Trading | The Concept Trading Black Friday: 45% Off + Free Retry | 45% OFF | 2026-11-30 08:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/ |
 | 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
+| 2026-11-17 | FTUK | FTUK: 35% Off Flex Activation | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
@@ -32,7 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
 | 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
-| 2026-11-11 | Phidias Propfirm | Phidias Propfirm: 85% Off Every 150K Account with code PFD | 85% OFF | 2026-11-24 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
-| 2026-11-11 | BluSky Trading | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
-| 2026-11-10 | FundYourFX | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% OFF | 2026-11-16 (ended) | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
-| 2026-11-09 | WSFunded | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |

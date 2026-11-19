@@ -1,45 +1,48 @@
 # Alpha Capital Group Discount Code
 
-No live discount code for Alpha Capital Group right now — newest deals and offers are below.
+The newest Alpha Capital Group discount code is **BF40** — 40% off (November 19, 2026). The campaign code changes with each promotion; newest first below.
 
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-19
 - Trustpilot: 4.5/5 (22239 reviews)
 - Activate: https://propfirmdiscount.com/go/alphacapitalgroup
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 
-As of 2026-11-19, the biggest Alpha Capital Group offers this month: 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, and 20% OFF with code ALPHA20.
+As of 2026-11-19, the biggest Alpha Capital Group offers this month: 40% OFF with code BF40, 40% OFF with code DIWALI40, 40% OFF with code FUNDED40, 20% OFF with code BOGO20, and 20% OFF with code ALPHA20.
 
-## Most recent deal (ended): Alpha Capital Group Diwali: 40% Off All Plans
+## Current deal: Alpha Capital Group: 40% Off All Evaluations
 
-- Published: 2026-11-06
-- Offer ends: 2026-11-08 23:59 (ended)
+- Published: 2026-11-19
+- Offer ends: Limited time
 - Offer: 40% Off
-- Scope: All plans
-- Event: Diwali
-- Deal page: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/
+- Code: BF40
+- Scope: All Evaluations (excludes Direct)
+- Event: Black Friday
+- Deal page: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/
 
 ## Alpha Capital Group deal FAQ
 
-**What does the Alpha Capital Group Diwali offer include?**
+**What does the 40% cover?**
 
-It includes 40% off all plans to mark Diwali, the festival of lights. The offer ends Sunday 8 November at 23:59.
+All Alpha Capital Group evaluations. Direct accounts are excluded from this rate.
 
-**How often can the Alpha Capital Group Diwali discount be used?**
+**Is the rate the same as the firm's Diwali offer?**
 
-On bi-weekly plans it can be used up to 2 times. On on-demand plans the use is unlimited, within the offer window.
+The headline rate matches: 40% off. The scope differs - Diwali covered all plans; this offer covers evaluations only.
 
-**Does the Alpha Capital Group discount change plan rules?**
+**Does the discount change the evaluation's risk?**
 
-No. The promotion lowers the plan price only. Evaluation targets, drawdown limits and payout terms stay as set and trading risk is not reduced.
+No. The discount lowers the entry cost only; it does not change the evaluation's targets, drawdown limits or trading risk.
 
-**Who may this Alpha Capital Group offer suit?**
+**How is the firm rated?**
 
-It may suit a buyer who had already chosen a plan and was comparing entry prices. Buyers planning repeat purchases on bi-weekly plans should note the two-use limit.
+Alpha Capital Group holds a 4.5/5 rating from 22,239 reviews as of November 2026, according to Trustpilot.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-19 - [Alpha Capital Group: 40% Off All Evaluations](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/) (40% Off) — Black Friday
+- 2026-11-18 - [Alpha Capital Group: Direct BOGO Plus 20% Off](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/) (20% Off) — Black Friday
 - 2026-11-06 - [Alpha Capital Group Diwali: 40% Off All Plans](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/) (40% Off) — Diwali — ended 2026-11-08 23:59
 - 2026-11-02 - [Alpha Capital Group $10K Evaluation for $40 in November](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-10k-evaluation-for-40-november/) ($40)
 - 2026-11-02 - [Alpha Capital Group 20% Off All Plans in November](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-20-off-all-plans-november/) (20% Off)

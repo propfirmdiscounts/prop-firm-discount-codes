@@ -6,6 +6,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 (ended) | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
 | 2026-11-17 | Finotive Funding | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
@@ -35,4 +36,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-08-16 | FundedNext | FundedNext Bundle Offer: 10% Off 2nd and 15% Off 3rd Stellar Account | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-stellar-bundle-discount-10-15-off/ |
 | 2026-08-03 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations and $59 100K Accounts | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-evaluations-59-100k/ |
 | 2026-07-24 | Trade The Pool | Trade The Pool: Upgraded $60K and $120K Flex Accounts | Account Upgrade | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/ |
-| 2026-07-22 | Apex Trader Funding | Apex Trader Funding: 90% Off Legacy Evaluations and $59 100K Accounts | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-legacy-59-100k/ |

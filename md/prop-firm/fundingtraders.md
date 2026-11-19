@@ -7,7 +7,7 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 - Code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-18
+- Last deal published: 2026-11-19
 - Trustpilot: 3.1/5 (3293 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
@@ -15,39 +15,40 @@ The verified FundingTraders discount code is **PFD** — Up to 50% off, works an
 
 As of 2026-11-19, the biggest FundingTraders offers this month: 81% OFF with code PFD, 81% OFF with code PFD, 70% OFF with code PFD, 70% OFF with code PFD, and 70% OFF with code PFD.
 
-## Current deal: FundingTraders: $500 Off $100K Instant Funded with code PFD
+## Current deal: FundingTraders: 50% Off $100K+ Accounts with code PFD
 
-- Published: 2026-11-18
-- Offer ends: Limited time
-- Offer: $500 Off
+- Published: 2026-11-19
+- Offer ends: 2026-11-23 09:00
+- Offer: 50% Off
 - Code: PFD
-- Scope: $100K Instant Funded Account
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/
+- Scope: $100K+ Accounts
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/
 
 ## FundingTraders deal FAQ
 
-**How much is off the $100K Instant Funded account?**
+**What does the offer include?**
 
-$500 - the account is listed at $249 against a $749 regular price.
+Three parts on one qualifying purchase: 50% off a $100K+ account, an instant free matching account, plus entry into the draw for GTA VI Ultimate Edition copies.
 
-**What does the 100-use limit mean?**
+**How does the free matching account work?**
 
-The offer is capped at 100 uses. No end date is stated, so the cap is the limit that ends it.
+Buy one $100K+ account and a free matching account unlocks instantly, on the same terms as the account bought.
 
-**Does the deal change the account's rules?**
+**How does the GTA VI draw work?**
+
+Buying with the promotion's code enters the draw: 30 copies of GTA VI Ultimate Edition, 10 copies per account type. Winners are announced live on Monday 23 November 2026 at 9 AM EST.
+
+**Does the promotion change trading rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Is this the same as the flash sale?**
+**How is the firm rated?**
 
-No. The flash sale takes up to 81% off across the Instant Funded range; this is a separate fixed $500 off the $100K size only.
-
-**What does the account cost after the discount?**
-
-$249 per the listing, down from $749.
+FundingTraders holds a 3.1/5 rating from 3,293 reviews as of November 2026, according to Trustpilot.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-19 - [FundingTraders: 50% Off $100K+ Accounts with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/) (50% Off)
 - 2026-11-18 - [FundingTraders: $500 Off $100K Instant Funded with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/) ($500 Off)
 - 2026-11-17 - [FundingTraders Black Friday: Up to 70% Off with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) (70% Off) — Black Friday
 - 2026-11-17 - [FundingTraders: 50% Off All Accounts + Free Account with code PFD](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) (50% Off)

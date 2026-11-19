@@ -1,53 +1,50 @@
 # Alpha Funded Discount Code
 
-The newest Alpha Funded discount code is **WINTER** — Free Add-on (November 4, 2026). The campaign code changes with each promotion; newest first below.
+The newest Alpha Funded discount code is **GTA6** — 60% off (November 19, 2026). The campaign code changes with each promotion; newest first below.
 
 > About Alpha Funded Built for Traders. Designed for More. Alpha Funded is a proprietary trading evaluation firm built for traders looking for flexible rules, competitive account structures, and a clear path toward earning performance-based payouts in a simulated trading environment. With programs for both CFD traders, Alpha allows traders to choose the model that best fits their strategy — from One-Step and Two-Step evaluations to Instant Funding and premium PRO programs. Why traders choose Alpha Funded: • $105M+ in approved payouts • 150K+ traders worldwide • Up to 100% profit split • Up to $4M in copy trading capacity • Fast payout options • No time limits on select programs • No funded-stage consistency requirements on select programs • News trading options • Flexible payout cycles • Multiple program structures for different trading styles Alpha Funded CFDs One-Step Flex A one-phase evaluation with flexible conditions and a straightforward path toward a funded-stage account. 2-Step Challenge A traditional two-phase evaluation designed for traders who prefer a structured path to the funded stage, with competitive trading conditions and no consistency requirement on select plans. Instant Funding PRO Skip the traditional evaluation process and access a simulated funded-stage account immediately. Pay Later A flexible evaluation structure designed to give eligible traders another way to access Alpha. Why Traders Choose Alpha Alpha was built around giving traders more choice. Traders can select from multiple evaluation models, payout structures, account sizes, and premium add-ons depending on the program they choose. Eligible traders may have access to features including On-Demand Payouts, Weekly Payouts, 14-Day Payouts, enhanced profit splits, increased drawdown options, news trading, and other program upgrades. Whether you are a new evaluation trader or an experienced CFD trader managing multiple strategies, Alpha provides multiple paths designed to fit different trading styles. Trade. Perform. Get Paid. Go Alpha. Start here: alphafunded.com/checkout Alpha Funded provides simulated trading evaluation services. Accounts operate in a simulated environment. Program rules, features, eligibility requirements, and payout conditions vary by product.
 
-- Last deal published: 2026-11-04
+- Last deal published: 2026-11-19
 - Trustpilot: 4.6/5 (1270 reviews)
 - Activate: https://propfirmdiscount.com/go/alphatrader
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 
-As of 2026-11-19, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, and 50% OFF with code HALLOWEEN.
+As of 2026-11-19, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, 60% OFF with code GTA6, and 50% OFF with code HALLOWEEN.
 
-## Current deal: Alpha Funded Free 100% Profit Split Add-On for Flex
+## Current deal: Alpha Funded: 60% Off All Challenges
 
-- Published: 2026-11-04
-- Offer ends: 2026-11-30
-- Offer: Free Add-on
-- Code: WINTER
-- Scope: Flex purchases, Futures programs, eligible purchases
-- Deal page: https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/
+- Published: 2026-11-19
+- Offer ends: 2026-11-20
+- Offer: 60% Off
+- Code: GTA6
+- Scope: All Challenges (Forex and Futures)
+- Deal page: https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/
 
 ## Alpha Funded deal FAQ
 
-**What does this Alpha Funded promotion include?**
+**What does the 60% cover?**
 
-It includes the 100% Profit Split add-on free on eligible Flex purchases until 30 November. The add-on is preloaded on the linked Flex setup.
+All Alpha Funded challenges - Forex and Futures - for 24 hours only, through 20 November 2026.
 
-**Does the Alpha Funded 100% Profit Split add-on guarantee a payout?**
+**How many codes does the promotion use?**
 
-No. Payout eligibility and caps still apply and payouts are not guaranteed. The stated terms also note that profit splits refer to simulated profits only.
+One. The firm presents it as one code for every challenge, entered at checkout - the same code for Forex and Futures.
 
-**Are the Alpha Funded removal add-ons included in this promotion?**
+**Which programs does the firm run?**
 
-No. The consistency and daily-loss removal add-ons are separate optional selections. They are not included automatically with the free Profit Split add-on.
+One-Step Flex and 2-Step Challenge evaluations, Instant Funding PRO and Pay Later structures, in a simulated trading environment. This promotion is stated for challenges.
 
-**What does Alpha Funded consistency removal do?**
+**Does the discount change the evaluation?**
 
-On Flex evaluation it sets the evaluation target to 10%. On Instant Zero it adds 7 minimum trading days before a payout.
+No. It reduces the challenge price; the evaluation's rules and the trading risk are unchanged.
 
-**What does Alpha Funded daily-loss removal do on Flex?**
+**How is the firm rated?**
 
-It sets maximum loss to 3% on Flex. Maximum-loss limits and all other applicable account rules still apply.
-
-**Who may this Alpha Funded Flex promotion suit?**
-
-It may suit a buyer who had already chosen an eligible Flex purchase and was comparing the terms included with it. A buyer expecting the removal add-ons to be included should be cautious because they are optional selections only.
+Alpha Funded holds a 4.6/5 rating from 1,270 reviews as of November 2026, according to Trustpilot.
 
 ## Deals (last 2 months, newest first)
 
+- 2026-11-19 - [Alpha Funded: 60% Off All Challenges](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/) (60% Off)
 - 2026-11-04 - [Alpha Funded Free 100% Profit Split Add-On for Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/) (Free Add-on)
 - 2026-11-03 - [Alpha Funded 70% Off $300K+ Forex and Futures Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/) (70% Off)
 - 2026-10-27 - [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) (70% Off) — Halloween

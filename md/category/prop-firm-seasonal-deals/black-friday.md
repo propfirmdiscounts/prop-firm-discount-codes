@@ -1,15 +1,19 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-As of 2026-11-16, the biggest offers this month: 65% OFF at Top One Trader, 60% OFF with code GOBIG60 at Bullwaves Prime, 50% OFF with code BF50 at TX3 Funding, 50% OFF with code EARLYFRIDAY50 at Goat Funded Trader, and 45% OFF with code BFCM26 at The Concept Trading.
+As of 2026-11-16, the biggest offers this month: 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, 40% OFF with code BF40 at Alpha Capital Group, and 40% OFF with code RETAKE40 at FTUK.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
+| 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
+| 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-17 | The Concept Trading | The Concept Trading Black Friday: 45% Off + Free Retry | 45% OFF | 2026-11-30 08:59 | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/ |
 | 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
+| 2026-11-17 | FTUK | FTUK: 35% Off Flex Activation | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
@@ -152,7 +156,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 30% Off Direct Forex & Prime Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-30-off-direct-forex-prime/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 35% Off Select Forex Pro & Prime Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-35-off-forex-pro-prime/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 40% Off 10K and 25K Forex Pro Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-40-off-10k-25k-forex-pro/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 45% Off 50K Forex Pro Accounts | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-45-off-50k-forex-pro/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 50% Off 100K Forex Pro Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-50-off-100k-forex-pro/ |
-| 2025-11-19 | For Traders | ForTraders Black Friday Deal: 25% Off Plus BOGO Offer | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/ |
-| 2025-11-19 | FunderPro | FunderPro Black Friday Deal: 30% Off & $1M Giveaway | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/funderpro/funderpro-black-friday-30-off-giveaway/ |
