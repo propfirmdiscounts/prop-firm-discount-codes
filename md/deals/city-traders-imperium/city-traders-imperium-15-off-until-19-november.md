@@ -1,16 +1,15 @@
 # CTI: 15% Off 1-Step, 2-Step and Instant Funding
 
-City Traders Imperium (CTI) is offering 15% off — discount code **WANTED15**.
+City Traders Imperium (CTI) was offering 15% off.
 
 > City Traders Imperium takes 15% off 1-Step, 2-Step and Instant Funding until 19 November 2026, closing at 23:59 UK time. One rate, every route.
 
 - Published: 2026-11-12
-- Offer ends: 2026-11-19 18:59
+- Offer ends: 2026-11-19 18:59 (ended)
 - Prop firm: City Traders Imperium (CTI)
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 - Summary: City Traders Imperium is taking 15% off 1-Step, 2-Step and Instant Funding in a seven-day countdown offer that ends on 19 November at 23:59 UK time.
 - Offer: 15% Off
-- Code: WANTED15
 - Scope: 1-Step, 2-Step, Instant Funding
 - Deal: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-until-19-november/
 
