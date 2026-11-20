@@ -4,14 +4,16 @@ Bulenox was offering 91% off.
 
 > This active promotion reduces the upfront entry fee by 91% on Bulenox 25K through 150K Option 1 Qualification Accounts. It lowers the purchase cost strictly without altering any trailing drawdown limits or trading rules.
 
-- Published: 2026-10-07
-- Offer ends: Ended
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-07
+- Deal ends: Ended
 - Prop firm: Bulenox
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - Summary: This active promotion reduces the upfront entry fee by 91% on Bulenox 25K through 150K Option 1 Qualification Accounts. It lowers the purchase cost without changing any evaluation rules or drawdown limits.
-- Offer: 91% Off
-- Scope: Option 1 Accounts, 25K to 150K
-- Deal: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
+- Discount: 91% Off
+- Applied to: Option 1 Accounts, 25K to 150K
+- Deal url: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

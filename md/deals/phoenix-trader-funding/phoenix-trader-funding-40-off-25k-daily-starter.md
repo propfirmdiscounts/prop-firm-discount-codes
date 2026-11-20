@@ -4,14 +4,16 @@ Phoenix Trader Funding was offering 40% off.
 
 > Phoenix Trader Funding cuts the 25K Daily Starter to $119.40 from $199 on TFeed, paid once. Ends 18 November at 11:59 PM CET.
 
-- Published: 2026-11-04
-- Offer ends: 2026-11-18 17:59 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-04
+- Deal ends: 2026-11-18 17:59 (ended)
 - Prop firm: Phoenix Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - Summary: Phoenix Trader Funding cuts the 25K Daily Starter by 40% to $119.40 from $199 on TFeed, paid once. Only the purchase price changes and account terms and trading risk stay as set. Ends 18 November.
-- Offer: 40% Off
-- Scope: Daily Starter, 25K account, TFeed
-- Deal: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/
+- Discount: 40% Off
+- Applied to: Daily Starter, 25K account, TFeed
+- Deal url: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/
 
 Apply code PFD at checkout for up to 40% off any Phoenix Trader Funding challenge account — verified to work any time with no expiration date.
 

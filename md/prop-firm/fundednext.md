@@ -1,26 +1,28 @@
 # FundedNext Discount Code
 
-The verified FundedNext discount code is **PFDC** — Up to 20% off, works any time.
+FundedNext currently lists 32 deals with discount codes. The best current offer is code PFDC for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: PFDC
+- Discount code: PFDC
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-01
-- Trustpilot: 4.5/5 (84272 reviews)
-- Activate: https://propfirmdiscount.com/go/fundednext
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-01
+- Trustpilot score: 4.5/5 (84272 reviews)
+- Official web: fundednext.com
+- Email: support@fundednext.com
+- Address: Office no. 7, AI Robotics HUB, C1 Building, AFZ,, Ajman, U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fundednext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest FundedNext offers this month: 41% OFF with code NOVSTR, 41% OFF with code FNTRICK, 32% OFF with code STRTN, and 30% OFF with code NOVINS.
-
 ## Current deal: FundedNext November 30% Off All Stellar Instant Accounts
 
-- Published: 2026-11-01
-- Offer ends: Limited time
-- Offer: 30% Off
-- Code: NOVINS
-- Scope: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
-- Deal page: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
+- Deal last verified: 2026-11-01
+- Deal ends: Limited time
+- Discount: 30% Off
+- Discount code: NOVINS
+- Applied to: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
+- Deal url: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
 
 ## FundedNext deal FAQ
 
@@ -50,8 +52,12 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-01 - [FundedNext November 30% Off All Stellar Instant Accounts](https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/) (30% Off)
-- 2026-11-01 - [FundedNext November Up to 41% Off Stellar Challenges](https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/) (41% Off)
-- 2026-10-27 - [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) (41% Off) — Halloween
-- 2026-10-12 - [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) (32% Off)
-- 2026-10-01 - [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) (Only $29.99)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-01 | FundedNext November 30% Off All Stellar Instant Accounts | 30% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/ |
+| 2026-11-01 | FundedNext November Up to 41% Off Stellar Challenges | 41% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/ |
+| 2026-10-27 | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |
+| 2026-10-12 | FundedNext October Promotion: Stellar Accounts Starting at $29.99 | 32% Off | Ended | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/ |
+| 2026-10-01 | FundedNext Lowered Pricing: Stellar Accounts From $29.99 | Only $29.99 | Ended | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/ |

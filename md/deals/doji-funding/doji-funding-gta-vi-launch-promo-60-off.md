@@ -4,15 +4,17 @@ Doji Funding is offering 60% off — discount code **PFD**.
 
 > Doji Funding's GTA VI launch promo takes 60% off every challenge (1-Step and 2-Step) with code PFD, through 23 November 2026.
 
-- Published: 2026-11-19
-- Offer ends: 2026-11-23
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: 2026-11-23
 - Prop firm: Doji Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
 - Summary: Doji Funding's GTA VI launch promo takes 60% off every challenge - 1-Step and 2-Step - with code PFD. The firm's challenges are configurable, with sizes from $5,000 to $200,000.
-- Offer: 60% Off
-- Code: PFD
-- Scope: Every Challenge (1-Step and 2-Step)
-- Deal: https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/
+- Discount: 60% Off
+- Discount code: PFD
+- Applied to: Every Challenge (1-Step and 2-Step)
+- Deal url: https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

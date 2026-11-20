@@ -1,18 +1,20 @@
 # Finotive Futures: 60% Off Instant for New Traders
 
-Finotive Futures is offering 60% off — discount code **NEW**.
+Finotive Futures is offering 60% off.
 
 > Finotive Futures offers new customers 60% off Instant accounts and 40% off One Step accounts on a first purchase, across sizes from $25,000 to $150,000.
 
-- Published: 2026-11-12
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-12
+- Deal ends: Limited time
 - Prop firm: Finotive Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - Summary: Finotive Futures: 60% off Instant, 40% off One Step for new customers.
-- Offer: 60% Off
-- Code: NEW
-- Scope: Instant Accounts, One Step Accounts - New Customers
-- Deal: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/
+- Discount: 60% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Instant Accounts, One Step Accounts - New Customers
+- Deal url: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/
 
 Apply code PFDDEAL at checkout for up to 25% off any Finotive Futures challenge account — verified to work any time with no expiration date.
 

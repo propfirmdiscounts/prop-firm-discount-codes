@@ -1,9 +1,15 @@
 # FORFX Discount Code
 
-FORFX has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/forfx/
+FORFX has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/forfx
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> FORFX has permanently closed as of June 2026 and is no longer accepting new traders.
+
+- Deal last verified: none yet
+- Official web: forfx.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/forfx
 - Firm page: https://propfirmdiscount.com/prop-firm/forfx/
 
 ## Deals (last 2 months, newest first)

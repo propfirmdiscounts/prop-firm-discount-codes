@@ -1,63 +1,63 @@
 # PipFarm Discount Code
 
-The verified PipFarm discount code is **PFDC** — Up to 30% off, works any time.
+PipFarm currently lists 65 deals with discount codes. The best current offer is code PFDC for up to 30% off, checked November 2026 by the PropFirmDiscount team.
 
 > Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
 
-- Code: PFDC
+- Discount code: PFDC
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-09
-- Trustpilot: 3.6/5 (345 reviews)
-- Activate: https://propfirmdiscount.com/go/pipfarm
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-20
+- Trustpilot score: 3.6/5 (345 reviews)
+- Official web: pipfarm.com
+- Email: support@pipfarm.com
+- Address: 68 Circular Road #02-01, Singapore, 049422, Singapore
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/pipfarm
 - Firm page: https://propfirmdiscount.com/prop-firm/pipfarm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest PipFarm offers this month: 60% OFF with code POWERUP, 50% OFF with code FIFTYFIFTY, and 40% OFF with code PROFIT.
+## Current deal: PipFarm Black Friday: Buy One Get One Free + 25% Off
 
-## Current deal: PipFarm Classic: 40% Off Pay with Profits Challenges
-
-- Published: 2026-11-09
-- Offer ends: Limited time
-- Offer: 40% Off
-- Code: PROFIT
-- Scope: Classic Challenges, Pay with Profits
-- Deal page: https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/
+- Deal last verified: 2026-11-20
+- Deal ends: 2026-12-01
+- Discount: 25% Off
+- Discount code: BLACKFRIDAY
+- Applied to: Any trading account, any type and any size
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/
 
 ## PipFarm deal FAQ
 
-**What is PipFarm Classic?**
+**What does the PipFarm Black Friday offer include?**
 
-Classic is PipFarm's newest Pay with Profits mode. You pass your challenge without profitable days or a consistency score. Minimum trading days still apply: 4 on a one-stage challenge, or 3 on each stage of a two-stage.
+Buy any trading account and get a second one free - same type, same size, same add-ons - plus 25% off the account you pay for. It runs until 1 December 2026.
 
-**What does the launch code take off and what is an example price?**
+**How many free accounts can one order earn?**
 
-The code takes 40% off every Classic challenge at checkout. The firm's example: a 100K two-stage challenge starts at $129, or $77.40 with the code applied. Admission across the range starts at $11.
+One free account per order, per the terms. The code itself can be used as many times as you like until 1 December.
 
-**Can the code be combined with other promotions?**
+**What does the 25% apply to?**
 
-No. The announcement states it cannot be combined with any other promotion, offer, discount, voucher or XP.
+The base account, before add-ons, per the terms.
 
-**What are the Classic pass conditions?**
+**Can this code be combined with the firm's other code?**
 
-Profit targets are 12% on one stage, or 9% then 6% on two stages. Limits are 10% static max loss, 5% daily loss and 3% max risk. There is no consistency score and no profitable days requirement.
+No. The two codes cannot be combined with each other, or with any other promotion, offer, discount, voucher or XP.
 
-**How does Pay with Profits pricing work?**
+**Is the delivery timing of the free account stated?**
 
-You pay a small admission fee to start. The PWP fee comes out of your first payout. The firm lowered that fee by 0.5% at every risk tier on 30 October, so it now runs from 0.5% to 2.5% of the account. Your first payout is on demand.
-
-**What is the Skip Minimum Trading Days add-on?**
-
-A checkout add-on that lets you pass the moment you hit your target, even on day one. It carries over to the funded account for payout requests. On PWP it costs 20% of the admission fee - $25.80 on a 100K two-stage challenge.
-
-**When does this offer end?**
-
-The announcement states no end date for the code. It is presented as the launch offer for the Classic mode.
+No - the announcement does not state when the free account is delivered. Check the deal page before ordering.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-09 - [PipFarm Classic: 40% Off Pay with Profits Challenges](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) (40% Off)
-- 2026-10-29 - [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) (60% Off) — Halloween — ended 2026-11-03
-- 2026-10-22 - [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) (50% Off) — ended 2026-10-31
-- 2026-10-11 - [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) (Only $99)
-- 2026-10-09 - [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) (Only $9.99)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-20 | PipFarm Black Friday: Buy One Get One Free + 25% Off | 25% Off | 2026-12-01 | Black Friday | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/ |
+| 2026-11-09 | PipFarm Classic: 40% Off Pay with Profits Challenges | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/ |
+| 2026-10-29 | PipFarm Halloween 60% Off Challenges Plus Free Power-Up | 60% Off | 2026-11-03 (ended) | Halloween | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/ |
+| 2026-10-22 | PipFarm 50% Off Accounts Up To 50K Plus 50% Balance | 50% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/ |
+| 2026-10-11 | PipFarm 100K Challenges Reduced to $99 | Only $99 | Ended | - | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/ |
+| 2026-10-09 | PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry | Only $9.99 | Ended | - | No Code Required | https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/ |

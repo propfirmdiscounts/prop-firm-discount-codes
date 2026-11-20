@@ -1,26 +1,28 @@
 # FundedNext Futures Discount Code
 
-The verified FundedNext Futures discount code is **PFDC** — Up to 20% off, works any time.
+FundedNext Futures currently lists 14 deals with discount codes. The best current offer is code PFDC for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: PFDC
+- Discount code: PFDC
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-22
-- Trustpilot: 4.5/5 (84272 reviews)
-- Activate: https://propfirmdiscount.com/go/fundednextfutures
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-10-22
+- Trustpilot score: 4.5/5 (84272 reviews)
+- Official web: fundednext.com/futures
+- Email: support@fundednext.com
+- Address: Office no. 7, AI Robotics HUB, C1 Building, AFZ,, Ajman, U.A.E.
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/fundednextfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest FundedNext Futures offers this month: 40% OFF with code FNDIRECT.
-
 ## Current deal: FundedNext Futures 50K Direct at $169.99, 40.1% Off
 
-- Published: 2026-10-22
-- Offer ends: Limited time
-- Offer: 40.1% Off
-- Code: FNDIRECT
-- Scope: Instant Funded, Direct, 50K account, Futures, No profit goal
-- Deal page: https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
+- Deal last verified: 2026-10-22
+- Deal ends: Limited time
+- Discount: 40.1% Off
+- Discount code: FNDIRECT
+- Applied to: Instant Funded, Direct, 50K account, Futures, No profit goal
+- Deal url: https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
 
 ## FundedNext Futures deal FAQ
 
@@ -50,4 +52,8 @@ No end date is given for this FundedNext Futures launch price. Buyers should che
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-22 - [FundedNext Futures 50K Direct at $169.99, 40.1% Off](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/) (40.1% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-22 | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |

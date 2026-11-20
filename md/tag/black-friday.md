@@ -2,12 +2,20 @@
 
 Unlock Black Friday prop firm discounts with heavily reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of the biggest trading promotions of the year.
 
-As of 2026-11-17, the biggest offers this month: 70% OFF with code PFD at FundingTraders, 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, and 40% OFF with code BF40 at Alpha Capital Group.
+As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 50% OFF with code BF50 at AudaCity Capital, 50% OFF with code BF50 at TX3 Funding, and 45% OFF with code BFEARLY at Atlas Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | thePropTrade | thePropTrade Black Friday: 30% Off Three Challenges | 30% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
+| 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
+| 2026-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off Sitewide | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-sitewide/ |
+| 2026-11-20 | WSFunded | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
+| 2026-11-20 | Instant Funding | Instant Funding Black Friday: 35% Off IF Micro Pro | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/ |
+| 2026-11-20 | AudaCity Capital | AudaCity Capital Black Friday: 50% Off Ability 2-Steps | 50% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-50-off-ability-2-steps/ |
+| 2026-11-20 | PipFarm | PipFarm Black Friday: Buy One Get One Free + 25% Off | 25% OFF | 2026-12-01 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/ |
+| 2026-11-20 | Funded Trading Plus | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
 | 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
 | 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
@@ -30,11 +38,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-16 | QT Funded | QT Funded Black Friday: 60% Off, Free Account | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/ |
 | 2026-11-16 | Funding Your Trades | Funding Your Trades Black Friday: 35% Off + BOGO | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/ |
 | 2026-11-16 | Tradexprop | Tradexprop Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/ |
-| 2026-11-16 | FundedSquad | FundedSquad Black Friday: 55% Off All Models | 55% OFF | 2026-11-23 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
-| 2026-11-16 | QT Funded | QT Funded Black Friday: 75% Off All Plans | 75% OFF | Limited time | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/ |
-| 2026-11-15 | Ment Funding | Ment Funding Black Friday: 40% Off Evaluations | 40% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/ment-funding/ment-funding-40-off-black-friday/ |
-| 2026-11-14 | We Get Funded | We Get Funded Black Friday: 4 Challenges, One Purchase | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/ |
-| 2026-11-13 | Bitfunded | Bitfunded Black Friday: Pay for 3, Get 7 Challenges | 70% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/ |
-| 2026-11-12 | Bullwaves Prime | Bullwaves Prime: 65% Off Everything, Early Bird | 65% OFF | 2026-11-15 18:59 (ended) | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/ |
-| 2026-11-12 | FunderPro | FunderPro: 30% Off All Account Types, Black Friday | 30% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
-| 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |

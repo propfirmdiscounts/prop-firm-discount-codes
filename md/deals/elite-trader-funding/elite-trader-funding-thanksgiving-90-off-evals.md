@@ -1,18 +1,20 @@
 # Elite Trader Funding Thanksgiving: 90% Off Evals
 
-Elite Trader Funding is offering 90% off — discount code **GOBBLE90**.
+Elite Trader Funding is offering 90% off.
 
 > Elite Trader Funding's Thanksgiving sale takes 90% off Non-Fast Track evaluations for the first month, ending 30 November 2026 at 11:59 PM Eastern.
 
-- Published: 2026-11-16
-- Offer ends: 2026-11-30 23:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: 2026-11-30 23:59
 - Prop firm: Elite Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/elite-trader-funding/
 - Summary: Elite Trader Funding's Thanksgiving sale takes 90% off Non-Fast Track evaluations for the first month, with renewals at 80% off in month two and 70% off from month three. The sale ends 30 November 2026.
-- Offer: 90% Off
-- Code: GOBBLE90
-- Scope: Non-Fast Track Evaluations (1-Step, End-of-Day, Static, Diamond Hands)
-- Deal: https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-thanksgiving-90-off-evals/
+- Discount: 90% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Non-Fast Track Evaluations (1-Step, End-of-Day, Static, Diamond Hands)
+- Deal url: https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-thanksgiving-90-off-evals/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

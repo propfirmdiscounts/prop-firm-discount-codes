@@ -1,9 +1,11 @@
 # NeomAAA Funds Discount Code
 
-NeomAAA Funds has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/neomaaa-funds/
+NeomAAA Funds has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/neomaaa
+- Deal last verified: none yet
+- Official web: neomaaa.com
+- Market type: Forex/CFD + Crypto
+- Active deal url: https://propfirmdiscount.com/go/neomaaa
 - Firm page: https://propfirmdiscount.com/prop-firm/neomaaa-funds/
 
 ## Deals (last 2 months, newest first)

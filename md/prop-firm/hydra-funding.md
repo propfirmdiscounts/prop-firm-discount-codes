@@ -1,9 +1,11 @@
 # Hydra Funding Discount Code
 
-Hydra Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/hydra-funding/
+Hydra Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/hydrafunding
+- Deal last verified: none yet
+- Official web: hydrafunding.io
+- Market type: Forex/CFD + Futures + Crypto
+- Active deal url: https://propfirmdiscount.com/go/hydrafunding
 - Firm page: https://propfirmdiscount.com/prop-firm/hydra-funding/
 
 ## Deals (last 2 months, newest first)

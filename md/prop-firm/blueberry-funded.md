@@ -1,23 +1,24 @@
 # Blueberry Funded Discount Code
 
-No live discount code for Blueberry Funded right now — newest deals and offers are below.
+Blueberry Funded currently lists 60 deals with discount codes. Compare available promotions below to find the latest savings on Blueberry Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
-- Last deal published: 2026-11-17
-- Trustpilot: 3.4/5 (1777 reviews)
-- Activate: https://propfirmdiscount.com/go/blueberryfunded
+- Deal last verified: 2026-11-17
+- Trustpilot score: 3.4/5 (1777 reviews)
+- Official web: blueberryfunded.com
+- Address: Australia
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
-
-As of 2026-11-20, the biggest Blueberry Funded offers this month: 40% OFF with code LITEWINTER, 35% OFF with code ELITEWINTER, 35% OFF with code Scaryprime, 35% OFF with code FLEXSTEP, and 35% OFF with code PRIMEBG.
 
 ## Most recent deal (ended): Blueberry Funded Winter Arc: 40% Off Instant Lite
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-18 18:59 (ended)
-- Offer: 40% Off
-- Scope: Instant Lite
-- Deal page: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-18 18:59 (ended)
+- Discount: 40% Off
+- Applied to: Instant Lite
+- Deal url: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/
 
 ## Blueberry Funded deal FAQ
 
@@ -43,11 +44,15 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) (40% Off) — ended 2026-11-18 18:59
-- 2026-11-16 - [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) (35% Off) — ended 2026-11-18 18:59
-- 2026-11-08 - [Blueberry Funded Diwali: 30% Off All Challenges](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/) (30% Off) — Diwali — ended 2026-11-11
-- 2026-10-27 - [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) (35% Off) — Halloween — ended 2026-11-01 18:59
-- 2026-10-13 - [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) (15% Off) — ended 2026-10-20
-- 2026-10-09 - [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) (30% Off) — ended 2026-10-11
-- 2026-10-09 - [Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/) (35% Off) — ended 2026-10-11
-- 2026-10-01 - [Blueberry Funded 35% Off Prime Challenge and Second Account](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/) (35% Off) — ended 2026-10-02
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | Blueberry Funded Winter Arc: 40% Off Instant Lite | 40% Off | 2026-11-18 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/ |
+| 2026-11-16 | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% Off | 2026-11-18 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
+| 2026-11-08 | Blueberry Funded Diwali: 30% Off All Challenges | 30% Off | 2026-11-11 (ended) | Diwali | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/ |
+| 2026-10-27 | Blueberry Funded Halloween 35% Off Prime Challenge | 35% Off | 2026-11-01 18:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/ |
+| 2026-10-13 | Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K) | 15% Off | 2026-10-20 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/ |
+| 2026-10-09 | Blueberry Funded 1-Step Classic: 30% Off Entry Fees | 30% Off | 2026-10-11 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/ |
+| 2026-10-09 | Blueberry Funded Flex 1-Step: 35% Off Challenge Pricing | 35% Off | 2026-10-11 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-flex-1-step/ |
+| 2026-10-01 | Blueberry Funded 35% Off Prime Challenge and Second Account | 35% Off | 2026-10-02 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-35-off-prime-challenge/ |

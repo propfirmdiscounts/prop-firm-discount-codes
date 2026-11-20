@@ -1,9 +1,11 @@
 # FXRK Discount Code
 
-FXRK has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/fxrk/
+FXRK has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/fxrk
+- Deal last verified: none yet
+- Official web: fxrk.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fxrk
 - Firm page: https://propfirmdiscount.com/prop-firm/fxrk/
 
 ## Deals (last 2 months, newest first)

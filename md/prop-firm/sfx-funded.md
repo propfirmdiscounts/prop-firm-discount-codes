@@ -1,25 +1,27 @@
 # SFX Funded Discount Code
 
-The newest SFX Funded discount code is **BF55** — 55% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
+SFX Funded currently lists 19 deals with discount codes. Compare available promotions below to find the latest savings on SFX Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
-- Last deal published: 2026-11-02
-- Trustpilot: 2.4/5 (129 reviews)
-- Activate: https://propfirmdiscount.com/go/sfxfunded
+- Deal last verified: 2026-11-02
+- Trustpilot score: 2.4/5 (129 reviews)
+- Official web: sfxfunded.com
+- Email: support@sfxfunded.com
+- Address: Dubai , U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/sfxfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
-
-As of 2026-11-20, the biggest SFX Funded offers this month: 55% OFF with code BF55, 55% OFF with code SPOOKY, and 55% OFF with code BF55.
 
 ## Current deal: SFX Funded 55% Off All Accounts Black Friday
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 55% Off
-- Code: BF55
-- Scope: All accounts: Instant, 1-Step Pro and 2-Step Pro, in $50K and $100K sizes
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
+- Discount: 55% Off
+- Discount code: BF55
+- Applied to: All accounts: Instant, 1-Step Pro and 2-Step Pro, in $50K and $100K sizes
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/
+- Deal url: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/
 
 ## SFX Funded deal FAQ
 
@@ -49,6 +51,10 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [SFX Funded 55% Off All Accounts Black Friday](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/) (55% Off) — Black Friday
-- 2026-10-30 - [SFX Funded 55% Off Halloween Instant and Challenge Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/) (55% Off) — Halloween — ended 2026-10-31
-- 2026-10-26 - [SFX Funded 55% Off All Accounts Black Friday BOGO Deal](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/) (55% Off) — Black Friday
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-02 | SFX Funded 55% Off All Accounts Black Friday | 55% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/ |
+| 2026-10-30 | SFX Funded 55% Off Halloween Instant and Challenge Accounts | 55% Off | 2026-10-31 (ended) | Halloween | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/ |
+| 2026-10-26 | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |

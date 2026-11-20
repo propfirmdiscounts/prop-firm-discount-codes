@@ -1,24 +1,26 @@
 # BluSky Trading Discount Code
 
-No live discount code for BluSky Trading right now — newest deals and offers are below.
+BluSky Trading currently lists 44 deals with discount codes. Compare available promotions below to find the latest savings on BluSky Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We fund and grow day traders.  Those other guys want you to fail. We want you to succeed. Trade our company's live accounts and receive up to 90% of profits.
 
-- Last deal published: 2026-11-11
-- Trustpilot: 4.6/5 (1010 reviews)
-- Activate: https://propfirmdiscount.com/go/bluskypro
+- Deal last verified: 2026-11-11
+- Trustpilot score: 4.6/5 (1010 reviews)
+- Official web: blusky.pro
+- Email: support@blusky.pro
+- Address: 7901 4TH ST N STE 300, St. Petersburg, 33702, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/bluskypro
 - Firm page: https://propfirmdiscount.com/prop-firm/blusky-trading/
-
-As of 2026-11-20, the biggest BluSky Trading offers this month: 30% OFF with code ARROW.
 
 ## Most recent deal (ended): BluSky Trading: $120 Off 100K Propel – $100 Total
 
-- Published: 2026-11-11
-- Offer ends: 2026-11-11 23:59 (ended)
-- Offer: $120 Off
-- Scope: 100K Propel Plan
+- Deal last verified: 2026-11-11
+- Deal ends: 2026-11-11 23:59 (ended)
+- Discount: $120 Off
+- Applied to: 100K Propel Plan
 - Event: Veterans Day
-- Deal page: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/
+- Deal url: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/
 
 ## BluSky Trading deal FAQ
 
@@ -44,6 +46,10 @@ No. The code reduces the plan's purchase price only; the evaluation itself and t
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-11 - [BluSky Trading: $120 Off 100K Propel – $100 Total](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/) ($120 Off) — Veterans Day — ended 2026-11-11 23:59
-- 2026-10-26 - [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) ($10-$120 Off) — Halloween
-- 2026-10-02 - [BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/) (30% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-11 | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | Veterans Day | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
+| 2026-10-26 | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-02 | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% Off | Ended | - | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |

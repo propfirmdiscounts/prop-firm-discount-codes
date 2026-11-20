@@ -1,28 +1,30 @@
 # Direct Funded Trader Discount Code
 
-The verified Direct Funded Trader discount code is **PFD** — Up to 50% off, works any time.
+Direct Funded Trader currently lists 8 deals with discount codes. The best current offer is code PFD for up to 50% off, checked November 2026 by the PropFirmDiscount team.
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-19
-- Trustpilot: 2.6/5 (232 reviews)
-- Activate: https://propfirmdiscount.com/go/directfundedtrader
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-19
+- Trustpilot score: 2.6/5 (232 reviews)
+- Official web: directfundedtrader.com
+- Email: support@directfundedtrader.com
+- Address: Dubai , Dubai, 000, U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/directfundedtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest Direct Funded Trader offers this month: 50% OFF with code GTA6, 50% OFF with code DFT50, and 40% OFF with code SPOOKY.
-
 ## Current deal: Direct Funded Trader: 50% Off All Accounts
 
-- Published: 2026-11-19
-- Offer ends: Limited time
-- Offer: 50% Off
-- Code: GTA6
-- Scope: All Accounts
-- Deal page: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/
+- Deal last verified: 2026-11-19
+- Deal ends: Limited time
+- Discount: 50% Off
+- Discount code: GTA6
+- Applied to: All Accounts
+- Deal url: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/
 
 ## Direct Funded Trader deal FAQ
 
@@ -44,7 +46,11 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-19 - [Direct Funded Trader: 50% Off All Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/) (50% Off)
-- 2026-11-05 - [Direct Funded Trader 100K 2-Step Evaluation for $99](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) ($99)
-- 2026-10-26 - [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) (40% Off) — Halloween
-- 2026-10-05 - [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) (50% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-19 | Direct Funded Trader: 50% Off All Accounts | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/ |
+| 2026-11-05 | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | Limited time | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |
+| 2026-10-26 | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |
+| 2026-10-05 | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |

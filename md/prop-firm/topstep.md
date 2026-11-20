@@ -1,24 +1,27 @@
 # Topstep Discount Code
 
-The verified Topstep discount code is **TRANNGUYEN** — Up to 50% off, works any time.
+Topstep currently lists 7 deals with discount codes. The best current offer is code TRANNGUYEN for up to 50% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: TRANNGUYEN
+- Discount code: TRANNGUYEN
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-15
-- Trustpilot: 3.7/5 (15128 reviews)
-- Activate: https://propfirmdiscount.com/go/topstep
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-10-15
+- Trustpilot score: 3.7/5 (15128 reviews)
+- Official web: topstep.com
+- Address: Chicago, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Most recent deal (ended): Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
 
-- Published: 2026-10-15
-- Offer ends: Ended
-- Offer: Only $65
-- Scope: 3K Challenge, Undead Account, Slasher Account, Halloween
+- Deal last verified: 2026-10-15
+- Deal ends: Ended
+- Discount: Only $65
+- Applied to: 3K Challenge, Undead Account, Slasher Account, Halloween
 - Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
+- Deal url: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
 
 ## Topstep deal FAQ
 
@@ -44,4 +47,8 @@ No, these specific one-time fee models do not feature a 90/10 profit split or al
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-15 - [Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges](https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/) (Only $65) — Halloween
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-15 | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Ended | Halloween | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |

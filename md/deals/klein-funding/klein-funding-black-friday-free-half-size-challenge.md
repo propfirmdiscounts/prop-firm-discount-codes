@@ -1,18 +1,20 @@
 # Klein Funding Black Friday: Free Half-Size Challenge
 
-Klein Funding is offering Free Half-Size — discount code **HALF50**.
+Klein Funding is offering Free Half-Size.
 
 > Klein Funding's Black Friday offer: buy any evaluation and unlock a free half-size challenge instantly - one purchase, two accounts.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: Klein Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/klein-funding/
 - Summary: Klein Funding's Black Friday offer gives a free half-size challenge with any evaluation purchase, unlocked instantly. One purchase returns two accounts: the evaluation bought and a challenge at half its size.
-- Offer: Free Half-Size
-- Code: HALF50
-- Scope: All Evaluations
-- Deal: https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/
+- Discount: Free Half-Size
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Evaluations
+- Deal url: https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/
 
 Apply code PFD at checkout for up to 30% off any Klein Funding challenge account — verified to work any time with no expiration date.
 

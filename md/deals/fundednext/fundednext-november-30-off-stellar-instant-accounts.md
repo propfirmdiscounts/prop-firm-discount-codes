@@ -1,18 +1,20 @@
 # FundedNext November 30% Off All Stellar Instant Accounts
 
-FundedNext is offering 30% off — discount code **NOVINS**.
+FundedNext is offering 30% off.
 
 > FundedNext November cuts a flat 30% off all Stellar Instant accounts, lowering the upfront entry cost while the picked account stays the same.
 
-- Published: 2026-11-01
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-01
+- Deal ends: Limited time
 - Prop firm: FundedNext
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext/
 - Summary: Flat 30% off all Stellar Instant accounts in November, with entry cost down and the picked account left the same for four sizes in total.
-- Offer: 30% Off
-- Code: NOVINS
-- Scope: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
-- Deal: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
+- Discount: 30% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
+- Deal url: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
 
 Apply code PFDC at checkout for up to 20% off any FundedNext challenge account — verified to work any time with no expiration date.
 

@@ -1,22 +1,28 @@
 # HyroTrader Discount Code
 
-The newest HyroTrader discount code is **INSTANT** — 15% off (November 6, 2026). The campaign code changes with each promotion; newest first below.
+HyroTrader currently lists 8 deals with discount codes. Compare available promotions below to find the latest savings on HyroTrader challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
-- Last deal published: 2026-11-06
-- Trustpilot: 4.0/5 (240 reviews)
-- Activate: https://propfirmdiscount.com/go/hyrotrader
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> HyroTrader discount code (PFD) is currently inactive. Discounts may not apply at checkout.
+
+- Deal last verified: 2026-11-06
+- Trustpilot score: 4.0/5 (240 reviews)
+- Official web: hyrotrader.com
+- Email: support@hyrotrader.com
+- Address: Plynární, Praha 7-Holešovice, 170 00, Czech Republic
+- Market type: Crypto
+- Active deal url: https://propfirmdiscount.com/go/hyrotrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
-
-As of 2026-11-20, the biggest HyroTrader offers this month: 15% OFF with code INSTANT and 15% OFF with code FEAR15.
 
 ## Current deal: HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases
 
-- Published: 2026-11-06
-- Offer ends: Limited time
-- Offer: 15% Off
-- Code: INSTANT
-- Scope: Hyro Instant accounts (first 30 purchases)
-- Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/
+- Deal last verified: 2026-11-06
+- Deal ends: Limited time
+- Discount: 15% Off
+- Discount code: INSTANT
+- Applied to: Hyro Instant accounts (first 30 purchases)
+- Deal url: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/
 
 ## HyroTrader deal FAQ
 
@@ -42,5 +48,9 @@ It may suit a buyer who had already chosen an instant funding model over an eval
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-06 - [HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) (15% Off)
-- 2026-10-24 - [HyroTrader Halloween 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) (15% Off) — Halloween — ended 2026-10-31
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-06 | HyroTrader Hyro Instant Launch: 15% Off First 30 Purchases | 15% Off | Limited time | - | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/ |
+| 2026-10-24 | HyroTrader Halloween 15% Off All Challenges | 15% Off | 2026-10-31 (ended) | Halloween | - | https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/ |

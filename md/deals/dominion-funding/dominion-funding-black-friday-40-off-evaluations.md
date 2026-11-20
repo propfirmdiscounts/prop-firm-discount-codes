@@ -1,18 +1,20 @@
 # Dominion Funding Black Friday 40% Off Every Evaluation
 
-Dominion Funding is offering 40% off — discount code **BF2026**.
+Dominion Funding is offering 40% off.
 
 > Dominion Funding cuts 40% off every evaluation for Black Friday, plus a free same-size account after your first payout. Only pricing changes.
 
-- Published: 2026-11-05
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-05
+- Deal ends: Limited time
 - Prop firm: Dominion Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/dominion-funding/
 - Summary: Dominion Funding cuts 40% off every evaluation for Black Friday and adds a free same-size account after your first payout. Only the purchase price changes and trading rules and trading risk stay exactly as set.
-- Offer: 40% Off
-- Code: BF2026
-- Scope: All evaluations, every program, every platform
-- Deal: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
+- Discount: 40% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All evaluations, every program, every platform
+- Deal url: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
 
 Apply code PFD5PC at checkout for up to 5% off any Dominion Funding challenge account — verified to work any time with no expiration date.
 

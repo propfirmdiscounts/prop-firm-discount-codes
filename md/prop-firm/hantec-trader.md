@@ -1,23 +1,24 @@
 # Hantec Trader Discount Code
 
-No live discount code for Hantec Trader right now — newest deals and offers are below.
+Hantec Trader currently lists 32 deals with discount codes. Compare available promotions below to find the latest savings on Hantec Trader challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 > RZR Funded provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our 1-Step, 2-Step, 3-Step, and various Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits.
 
-- Last deal published: 2026-10-14
-- Trustpilot: 4.4/5 (882 reviews)
-- Activate: https://propfirmdiscount.com/go/hantectrader
+- Deal last verified: 2026-10-14
+- Trustpilot score: 4.4/5 (882 reviews)
+- Official web: hmarkets.com
+- Address: Mauritius
+- Market type: Forex/CFD + Thị trường dự đoán (Prediction)
+- Active deal url: https://propfirmdiscount.com/go/hantectrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
-
-As of 2026-11-20, the biggest Hantec Trader offers this month: 35% OFF with code REACT35.
 
 ## Most recent deal (ended): Hantec Trader 35% Off Eligible Challenge Pricing
 
-- Published: 2026-10-14
-- Offer ends: 2026-10-16 (ended)
-- Offer: 35% Off
-- Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
-- Deal page: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
+- Deal last verified: 2026-10-14
+- Deal ends: 2026-10-16 (ended)
+- Discount: 35% Off
+- Applied to: All eligible challenges, Excludes Instant24, Excludes EnhancedX
+- Deal url: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
 
 ## Hantec Trader deal FAQ
 
@@ -43,4 +44,8 @@ You can access the 35% discount by applying the active promotion code at checkou
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-14 - [Hantec Trader 35% Off Eligible Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/) (35% Off) — ended 2026-10-16
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-14 | Hantec Trader 35% Off Eligible Challenge Pricing | 35% Off | 2026-10-16 (ended) | - | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/ |

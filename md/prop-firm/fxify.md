@@ -1,27 +1,29 @@
 # FXIFY Discount Code
 
-The verified FXIFY discount code is **FXIFY2WRIVW** — Up to 10% off, works any time.
+FXIFY currently lists 42 deals with discount codes. The best current offer is code FXIFY2WRIVW for up to 10% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: FXIFY2WRIVW
+- Discount code: FXIFY2WRIVW
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-17
-- Trustpilot: 4.3/5 (6699 reviews)
-- Activate: https://propfirmdiscount.com/go/fxify
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-17
+- Trustpilot score: 4.3/5 (6699 reviews)
+- Official web: fxify.com
+- Email: team@fxify.com
+- Address: 142 Central Street, Clerkenwell, London, EC1V 8AR, United Kingdom
+- Market type: Forex/CFD + Futures
+- Active deal url: https://propfirmdiscount.com/go/fxify
 - Firm page: https://propfirmdiscount.com/prop-firm/fxify/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest FXIFY offers this month: 40% OFF with code FUNDED40, 40% OFF with code FUNDED40, 35% OFF with code BLACK35, 35% OFF with code AGHHH35, and 25% OFF with code FUNDED25.
-
 ## Current deal: FXIFY Black Friday: 35% Off All Programs
 
-- Published: 2026-11-17
-- Offer ends: 2026-12-09 23:59
-- Offer: 35% Off
-- Code: BLACK35
-- Scope: All Programs (excl. Instant Funding Lite)
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-12-09 23:59
+- Discount: 35% Off
+- Discount code: BLACK35
+- Applied to: All Programs (excl. Instant Funding Lite)
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/
+- Deal url: https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/
 
 ## FXIFY deal FAQ
 
@@ -51,9 +53,13 @@ No. The promotion affects purchase pricing only and does not modify trading rule
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [FXIFY Black Friday: 35% Off All Programs](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) (35% Off) — Black Friday
-- 2026-11-02 - [FXIFY 25% Off Plus Two Free Add-Ons](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) (25% Off)
-- 2026-10-22 - [FXIFY 35% Off All Other Programs – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) (35% Off) — Halloween — ended 2026-11-02 00:00
-- 2026-10-22 - [FXIFY 40% Off Instant Funding – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) (40% Off) — Halloween — ended 2026-11-02 00:00
-- 2026-10-15 - [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) (40% Off) — ended 2026-11-02
-- 2026-10-03 - [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) (25% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | FXIFY Black Friday: 35% Off All Programs | 35% Off | 2026-12-09 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
+| 2026-11-02 | FXIFY 25% Off Plus Two Free Add-Ons | 25% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/ |
+| 2026-10-22 | FXIFY 35% Off All Other Programs – Halloween Deal | 35% Off | 2026-11-02 00:00 (ended) | Halloween | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
+| 2026-10-22 | FXIFY 40% Off Instant Funding – Halloween Deal | 40% Off | 2026-11-02 00:00 (ended) | Halloween | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
+| 2026-10-15 | FXIFY 40% Off Instant Funding Accounts | 40% Off | 2026-11-02 (ended) | - | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/ |
+| 2026-10-03 | FXIFY 25% Off Evaluation Accounts | 25% Off | Ended | - | - | https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/ |

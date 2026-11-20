@@ -4,14 +4,16 @@ Apex Trader Funding was offering 90% off.
 
 > Apex Trader Funding's 5-Year Anniversary promotion features $49 50K accounts, $199 5-packs and 90% off evaluations. Valid through October 5.
 
-- Published: 2026-10-01
-- Offer ends: 2026-10-05 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-01
+- Deal ends: 2026-10-05 (ended)
 - Prop firm: Apex Trader Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/apex-trader-funding/
 - Summary: Apex Trader Funding has introduced $49 50K accounts and $199 5-packs for its anniversary. Valid through October 5, this lowers entry costs but keeps trading rules unchanged.
-- Offer: 90% Off
-- Scope: 50K, 100K, Intraday NAF, Legacy, EOD evaluations
-- Deal: https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/
+- Discount: 90% Off
+- Applied to: 50K, 100K, Intraday NAF, Legacy, EOD evaluations
+- Deal url: https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

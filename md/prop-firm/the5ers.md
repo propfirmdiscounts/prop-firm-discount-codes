@@ -1,24 +1,28 @@
 # The5ers Discount Code
 
-The verified The5ers discount code is **NKY03MTJGM** — Up to 5% off, works any time.
+Exclusive Code for The5ers: NKY03MTJGM gives up to 5% off — the highest discount this firm offers us; it always works, checked November 2026 by the PropFirmDiscount team.
 
-- Code: NKY03MTJGM
+- Discount code: NKY03MTJGM
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2025-12-22
-- Trustpilot: 4.7/5 (42963 reviews)
-- Activate: https://propfirmdiscount.com/go/the5ers
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2025-12-22
+- Trustpilot score: 4.7/5 (42963 reviews)
+- Official web: the5ers.com
+- Email: help@the5ers.com
+- Address: Hatidhar 2, Raanana, Israel
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/the5ers
 - Firm page: https://propfirmdiscount.com/prop-firm/the5ers/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Most recent deal (ended): The5ers New Year Offer: $2.5K High Stakes Account for $12
 
-- Published: 2025-12-22
-- Offer ends: Ended
-- Offer: Only $12
-- Scope: $2.5K High Stakes Account
+- Deal last verified: 2025-12-22
+- Deal ends: Ended
+- Discount: Only $12
+- Applied to: $2.5K High Stakes Account
 - Event: New Year's Eve
-- Deal page: https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/
+- Deal url: https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/
 
 ## Deals (last 2 months, newest first)
 

@@ -1,18 +1,20 @@
 # FundYourFX: 60% Off All Plans + GTA VI Draw
 
-FundYourFX is offering 60% off — discount code **GTA60**.
+FundYourFX is offering 60% off.
 
 > FundYourFX takes 60% off all plans from 17 to 22 November 2026, with a PS5 Pro and GTA VI draw on 100K to 800K purchases and GTA VI free on 400K and 800K.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-22
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-22
 - Prop firm: FundYourFX
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 - Summary: FundYourFX takes 60% off all plans from 17 to 22 November 2026. Purchases of 100K to 800K enter a PS5 Pro and GTA VI draw. 400K and 800K purchases get GTA VI free.
-- Offer: 60% Off
-- Code: GTA60
-- Scope: All Plans
-- Deal: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/
+- Discount: 60% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Plans
+- Deal url: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

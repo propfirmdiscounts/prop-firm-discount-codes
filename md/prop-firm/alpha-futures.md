@@ -1,24 +1,29 @@
 # Alpha Futures Discount Code
 
-The newest Alpha Futures discount code is **ALPHA50** — 50% off (November 3, 2026). The campaign code changes with each promotion; newest first below.
+Alpha Futures currently lists 35 deals with discount codes. Compare available promotions below to find the latest savings on Alpha Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success. We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills. Join Alpha Futures today and unlock your full trading potential!
 
-- Last deal published: 2026-11-03
-- Trustpilot: 4.3/5 (6320 reviews)
-- Activate: https://propfirmdiscount.com/go/alphafutures
-- Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> Alpha Futures discount code (Tran009503) is no longer available. Please check other active offers for the latest discounts.
 
-As of 2026-11-20, the biggest Alpha Futures offers this month: 50% OFF with code ALPHA50, 50% OFF with code MYALPHA50, 40% OFF with code ALPHA40, 40% OFF with code DASH40, and 40% OFF with code MYALPHA40.
+- Deal last verified: 2026-11-03
+- Trustpilot score: 4.3/5 (6320 reviews)
+- Official web: alpha-futures.com
+- Address: United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/alphafutures
+- Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 
 ## Current deal: Alpha Futures 50% Off Standard Direct Advanced
 
-- Published: 2026-11-03
-- Offer ends: Limited time
-- Offer: 50% Off
-- Code: ALPHA50
-- Scope: Standard, Direct and Advanced plans
-- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/
+- Deal last verified: 2026-11-03
+- Deal ends: Limited time
+- Discount: 50% Off
+- Discount code: ALPHA50
+- Applied to: Standard, Direct and Advanced plans
+- Deal url: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/
 
 ## Alpha Futures deal FAQ
 
@@ -44,8 +49,12 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-03 - [Alpha Futures 50% Off Standard Direct Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/) (50% Off)
-- 2026-11-02 - [Alpha Futures 40% Off Zero Plan](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/) (40% Off)
-- 2026-10-23 - [Alpha Futures 40% Off All Plans – New Dashboard](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) (40% Off)
-- 2026-10-20 - [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) (50% Off) — ended 2026-10-31
-- 2026-10-20 - [Alpha Futures 40% Off Zero Plan for MyAlpha Launch](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) (40% Off) — ended 2026-10-31
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-03 | Alpha Futures 50% Off Standard Direct Advanced | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
+| 2026-11-02 | Alpha Futures 40% Off Zero Plan | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/ |
+| 2026-10-23 | Alpha Futures 40% Off All Plans – New Dashboard | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
+| 2026-10-20 | Alpha Futures 50% Off Standard, Direct, Advanced | 50% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
+| 2026-10-20 | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |

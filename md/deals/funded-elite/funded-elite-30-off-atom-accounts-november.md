@@ -1,18 +1,20 @@
 # Funded Elite 30% Off Atom Accounts
 
-Funded Elite is offering 30% off — discount code **ATOM30**.
+Funded Elite is offering 30% off.
 
 > Funded Elite cuts 30% off Atom accounts, ending November 22, with no minimum days and no time limit, lowering the entry cost in November for buyers.
 
-- Published: 2026-11-05
-- Offer ends: 2026-11-22 18:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-05
+- Deal ends: 2026-11-22 18:59
 - Prop firm: Funded Elite
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - Summary: 30% off Atom accounts, ending November 22, with no minimum days and no time limit and cost down for buyers at purchase today ready to start.
-- Offer: 30% Off
-- Code: ATOM30
-- Scope: Atom accounts
-- Deal: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
+- Discount: 30% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Atom accounts
+- Deal url: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
 
 Apply code AFF1864062 at checkout for up to 10% off any Funded Elite challenge account — verified to work any time with no expiration date.
 

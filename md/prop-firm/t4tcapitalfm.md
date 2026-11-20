@@ -1,9 +1,15 @@
 # T4TCapitalFM Discount Code
 
-T4TCapitalFM has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/t4tcapitalfm/
+T4TCapitalFM has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/t4tcapitalfm
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> T4TCapitalFM has rebranded to Traders4Traders.
+
+- Deal last verified: none yet
+- Official web: t4tcapitalfm.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/t4tcapitalfm
 - Firm page: https://propfirmdiscount.com/prop-firm/t4tcapitalfm/
 
 ## Deals (last 2 months, newest first)

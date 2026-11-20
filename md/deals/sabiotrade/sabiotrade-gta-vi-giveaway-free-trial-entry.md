@@ -4,14 +4,16 @@ SabioTrade was offering Prize Draw.
 
 > SabioTrade gives away 10 copies of GTA VI - and entry no longer needs a purchase: a free trial registered by 18 November 2026 is enough.
 
-- Published: 2026-11-18
-- Offer ends: 2026-11-18 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-18
+- Deal ends: 2026-11-18 (ended)
 - Prop firm: SabioTrade
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 - Summary: SabioTrade is giving away 10 copies of GTA VI on PS5 or Xbox Series X\|S. Entry now needs only a free trial registered between 1 and 18 November 2026 - no purchase required.
-- Offer: Prize Draw
-- Scope: Free Trial Sign-Ups
-- Deal: https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/
+- Discount: Prize Draw
+- Applied to: Free Trial Sign-Ups
+- Deal url: https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/
 
 Apply code PFD at checkout for up to 30% off any SabioTrade challenge account — verified to work any time with no expiration date.
 

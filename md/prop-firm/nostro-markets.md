@@ -1,9 +1,15 @@
 # Nostro Markets Discount Code
 
-Nostro Markets has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/nostro-markets/
+Nostro Markets has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/nostromarkets
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> Nostro Markets has closed, and trader accounts were moved to [FunderPro](https://propfirmdiscount.com/prop-firm/funderpro/).
+
+- Deal last verified: none yet
+- Official web: nostromarkets.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/nostromarkets
 - Firm page: https://propfirmdiscount.com/prop-firm/nostro-markets/
 
 ## Deals (last 2 months, newest first)

@@ -1,23 +1,25 @@
 # FundingPips Discount Code
 
-No live discount code for FundingPips right now — newest deals and offers are below.
+FundingPips currently lists 20 deals with discount codes. Compare available promotions below to find the latest savings on FundingPips challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > At FundingPips, we don't just elevate traders. We build them. Founded with one mission: create a transparent environment where talent is recognized, performance is rewarded, and growth never stops. Trusted by 3M+ traders across 195 countries, with $324M+ in rewards distributed and a Zero Reward Denial Policy that puts traders first. Your trading journey is more than a challenge. It’s the beginning of a career. Your trading career starts here.
 
-- Last deal published: 2026-11-18
-- Trustpilot: 4.5/5 (75283 reviews)
-- Activate: https://propfirmdiscount.com/go/fundingpips
+- Deal last verified: 2026-11-18
+- Trustpilot score: 4.5/5 (75283 reviews)
+- Official web: fundingpips.com
+- Email: support@fundingpips.com
+- Address: Premises NO. 19948-001, IFZA Business Park, DDP, Dubai, , U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fundingpips
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-pips/
-
-As of 2026-11-20, the biggest FundingPips offers this month: 15% OFF with code HALLOWEEN.
 
 ## Most recent deal (ended): FundingPips: Double First Reward via Likes Challenge
 
-- Published: 2026-11-18
-- Offer ends: 2026-11-19 15:00 (ended)
-- Offer: Double First Reward
-- Scope: Eligible Accounts
-- Deal page: https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/
+- Deal last verified: 2026-11-18
+- Deal ends: 2026-11-19 15:00 (ended)
+- Discount: Double First Reward
+- Applied to: Eligible Accounts
+- Deal url: https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/
 
 ## FundingPips deal FAQ
 
@@ -43,5 +45,9 @@ The source says eligible accounts without defining eligibility further - check t
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-18 - [FundingPips: Double First Reward via Likes Challenge](https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/) (Double First Reward) — ended 2026-11-19 15:00
-- 2026-10-30 - [FundingPips Halloween 20% Off New, 15% Off Existing Accounts](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/) (15% Off) — Halloween
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-18 | FundingPips: Double First Reward via Likes Challenge | Double First Reward | 2026-11-19 15:00 (ended) | - | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/ |
+| 2026-10-30 | FundingPips Halloween 20% Off New, 15% Off Existing Accounts | 15% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/ |

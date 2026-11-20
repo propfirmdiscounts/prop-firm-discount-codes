@@ -1,9 +1,11 @@
 # Fx Expert Funded Discount Code
 
-Fx Expert Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/fx-expert-funded/
+Fx Expert Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/fxexpertfunded
+- Deal last verified: none yet
+- Official web: fxexpertfunded.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fxexpertfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/fx-expert-funded/
 
 ## Deals (last 2 months, newest first)

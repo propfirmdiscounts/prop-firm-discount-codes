@@ -1,27 +1,29 @@
 # Bulenox Discount Code
 
-The verified Bulenox discount code is **PFD** — Up to 89% off, works any time.
+Bulenox currently lists 12 deals with discount codes. The best current offer is code PFD for up to 89% off, checked November 2026 by the PropFirmDiscount team.
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 89% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-07
-- Trustpilot: 4.6/5 (1831 reviews)
-- Activate: https://propfirmdiscount.com/go/bulenox
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-10-07
+- Trustpilot score: 4.6/5 (1831 reviews)
+- Official web: bulenox.com
+- Email: support@bulenox.com
+- Address: 1201 N Orange St, Suite 7149, Wilmington, 19801, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/bulenox
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest Bulenox offers this month: 91% OFF with code PFD.
-
 ## Most recent deal (ended): Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) with code PFD
 
-- Published: 2026-10-07
-- Offer ends: Ended
-- Offer: 91% Off
-- Scope: Option 1 Accounts, 25K to 150K
-- Deal page: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
+- Deal last verified: 2026-10-07
+- Deal ends: Ended
+- Discount: 91% Off
+- Applied to: Option 1 Accounts, 25K to 150K
+- Deal url: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
 
 ## Bulenox deal FAQ
 
@@ -43,4 +45,8 @@ No, it strictly lowers the initial purchase cost. It does not reduce market risk
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-07 - [Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) with code PFD](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) (91% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-07 | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) with code PFD | 91% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |

@@ -4,14 +4,16 @@ Trade The Pool is offering 20% off.
 
 > Trade The Pool cuts 20% off all accounts in the Stocktober Sale, this week only. Only the purchase price changes and account rules stay as set.
 
-- Published: 2026-10-28
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-28
+- Deal ends: Limited time
 - Prop firm: Trade The Pool
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
 - Summary: Trade The Pool cuts 20% off all accounts in the Stocktober Sale, this week only. Only the purchase price changes and evaluation rules, membership terms and trading risk stay exactly as set for buyers.
-- Offer: 20% Off
-- Scope: All accounts
-- Deal: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
+- Discount: 20% Off
+- Applied to: All accounts
+- Deal url: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
 
 Apply code WWS4GW at checkout for up to 10% off any Trade The Pool challenge account — verified to work any time with no expiration date.
 

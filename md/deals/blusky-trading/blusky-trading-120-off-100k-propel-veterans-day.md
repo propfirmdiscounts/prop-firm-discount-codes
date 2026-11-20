@@ -4,14 +4,16 @@ BluSky Trading was offering $120 Off.
 
 > BluSky Trading's Veterans Day Sale takes $120 off the 100K Propel plan - $100 total. Ends today, 11 November 2026, at 11:59 PM EST.
 
-- Published: 2026-11-11
-- Offer ends: 2026-11-11 23:59 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-11
+- Deal ends: 2026-11-11 23:59 (ended)
 - Prop firm: BluSky Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/blusky-trading/
 - Summary: BluSky Trading is taking $120 off the 100K Propel plan in its Veterans Day Sale, bringing the total to $100, with the offer expiring tonight at 11:59 PM EST.
-- Offer: $120 Off
-- Scope: 100K Propel Plan
-- Deal: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/
+- Discount: $120 Off
+- Applied to: 100K Propel Plan
+- Deal url: https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

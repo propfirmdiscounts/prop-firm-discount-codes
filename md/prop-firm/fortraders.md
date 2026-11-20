@@ -1,44 +1,46 @@
 # For Traders Discount Code
 
-The verified For Traders discount code is **VGYCKXLTY9** — Up to 15% off, works any time.
+For Traders currently lists 56 deals with discount codes. The best current offer is code VGYCKXLTY9 for up to 15% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: VGYCKXLTY9
+- Discount code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-13
-- Trustpilot: 4.1/5 (1862 reviews)
-- Activate: https://propfirmdiscount.com/go/fortraders
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-20
+- Trustpilot score: 4.1/5 (1862 reviews)
+- Official web: fortraders.com
+- Email: support@fortraders.com
+- Address: Goldcrest Executive Building, Dubai, 000, U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fortraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest For Traders offers this month: 79% OFF with code BOO6K, 79% OFF with code OCTOBER6K, 50% OFF with code NEWPRO, 50% OFF with code NEWINSTANT, and 25% OFF with code HALLOWEEN25.
+## Current deal: For Traders: 20% Off Perps for New Customers
 
-## Current deal: For Traders Perps Challenges: 15% Off Every Size
-
-- Published: 2026-11-13
-- Offer ends: Limited time
-- Offer: 15% Off
-- Code: TRADE15
-- Scope: Perps Challenges
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/
+- Deal last verified: 2026-11-20
+- Deal ends: Limited time
+- Discount: 20% Off
+- Discount code: NEW20
+- Applied to: Perps Challenges (new customers only)
+- Deal url: https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/
 
 ## For Traders deal FAQ
 
-**What does the 15% cover?**
+**Who qualifies for the 20% rate?**
 
-Every Perps Challenge size - $5K, $10K, $25K and $50K. The prices on the firm's site already include the discount: $39, $79, $199 and $419.
+Traders who are new to For Traders. Returning customers take the sitewide 15% on Perps Challenges instead.
 
-**Which rules do the Perps Challenges leave out?**
+**Can the 20% be combined with the 15% sitewide discount?**
 
-There is no consistency rule, no minimum profitable days and no trailing drawdown. The stated rules are a 10% profit target, a 5% static maximum drawdown, a 3% daily drawdown and an 80% profit split.
+No. The firm states discounts can't be combined - a new customer uses the single deeper rate.
 
-**How fast can the challenge be passed?**
+**What does the 20% price look like?**
 
-The firm states one day is enough to reach the 10% target. After verification and signing, rewards can be requested from day one whenever you are in profit.
+On list prices: the $50K at $394.40 from $493 and the $5K at $36.80 from $46, derived from the firm's list prices. The firm's site shows the 15%-applied prices ($419 and $39) by default.
 
-**What is the 48-hour reward term?**
+**Which product does the rate cover?**
 
-The firm states approved rewards are paid within 48 hours, or your split for that reward goes to 100%. It is the firm's own stated term for the reward.
+The new Perps Challenges - no consistency rule, no minimum profitable days, no trailing drawdown, a 10% target and an 80% profit split.
 
 **Does the discount change the trading risk?**
 
@@ -46,10 +48,16 @@ No. It lowers the entry cost only; the risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-13 - [For Traders Perps Challenges: 15% Off Every Size](https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/) (15% Off)
-- 2026-10-30 - [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) (79.6% Off) — Halloween
-- 2026-10-26 - [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) (25% Off) — Halloween
-- 2026-10-15 - [For Traders 50% Off $50K Futures Fast Pro Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) (50% Off)
-- 2026-10-15 - [For Traders: 50% Off All Forex Instant Master Accounts](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) (50% Off)
-- 2026-10-05 - [For Traders Cuts $6K Fast Crypto Challenge to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) (Only $9.99)
-- 2026-10-02 - [For Traders: $6K Fast Evaluation Reduced to $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) (79% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-20 | For Traders: 20% Off Perps for New Customers | 20% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/ |
+| 2026-11-20 | For Traders: $6K Forex Fast Challenge for $9.99 | $9.99 | Limited time | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/ |
+| 2026-11-13 | For Traders Perps Challenges: 15% Off Every Size | 15% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/ |
+| 2026-10-30 | For Traders Halloween $6K Forex Fast for $9.99 | 79.6% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/ |
+| 2026-10-26 | For Traders Halloween 25% Off Any Challenge | 25% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/ |
+| 2026-10-15 | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
+| 2026-10-15 | For Traders: 50% Off All Forex Instant Master Accounts | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/ |
+| 2026-10-05 | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |
+| 2026-10-02 | For Traders: $6K Fast Evaluation Reduced to $9.99 | 79% Off | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/ |

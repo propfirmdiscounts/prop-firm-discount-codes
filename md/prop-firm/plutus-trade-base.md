@@ -1,50 +1,52 @@
 # Plutus Trade Base Discount Code
 
-The newest Plutus Trade Base discount code is **PASS60** — 60% off (November 13, 2026). The campaign code changes with each promotion; newest first below.
+Plutus Trade Base currently lists 44 deals with discount codes. Compare available promotions below to find the latest savings on Plutus Trade Base challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
-- Last deal published: 2026-11-13
-- Trustpilot: 3.5/5 (1187 reviews)
-- Activate: https://propfirmdiscount.com/go/plutustradebase
+- Deal last verified: 2026-11-18
+- Trustpilot score: 3.5/5 (1187 reviews)
+- Official web: plutustradebase.com
+- Email: support@plutustradebase.com
+- Address: Cyprus
+- Market type: Forex/CFD + Crypto
+- Active deal url: https://propfirmdiscount.com/go/plutustradebase
 - Firm page: https://propfirmdiscount.com/prop-firm/plutus-trade-base/
 
-As of 2026-11-20, the biggest Plutus Trade Base offers this month: 66% OFF with code SPOOKY, 60% OFF with code PASS60, 50% OFF with code PASS50, and 50% OFF with code PASS50.
+## Most recent deal (ended): Plutus Trade Base: 50% Off Your First Challenge
 
-## Current deal: Plutus Trade Base: 60% Off the Lightning Plan
-
-- Published: 2026-11-13
-- Offer ends: Limited time
-- Offer: 60% Off
-- Code: PASS60
-- Scope: Lightning Plan
-- Deal page: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/
+- Deal last verified: 2026-11-18
+- Deal ends: 2026-11-18 (ended)
+- Discount: 50% Off
+- Applied to: First Challenge
+- Deal url: https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/
 
 ## Plutus Trade Base deal FAQ
 
-**What does the offer include?**
+**What does the 50% cover?**
 
-60% off the Plutus Trade Base Lightning Plan, presented as a limited time offer.
+A buyer's first challenge at Plutus Trade Base - the scope is the first challenge purchase, not repeat purchases.
 
-**Are prices or account sizes stated?**
+**When does the offer run?**
 
-No. The announcement states the rate and the plan only. Prices, sizes and the plan's terms sit on the deal page.
-
-**Is there an end date?**
-
-None is stated - the offer is labelled a limited time offer, so its window is the firm's to close.
+Today only: 18 November 2026. The announcement gives the rate a single day.
 
 **How does it compare with the firm's last offer?**
 
-The 5 November listing covered the Freedom Plan at 50% off. This offer runs ten points deeper on the Lightning Plan; the firm's Halloween 66% off challenges remains deeper.
+The previous listing took 60% off the Lightning Plan on 13 November 2026 - a deeper rate on one named plan. This offer takes 50% off a first challenge.
 
-**Does the discount change the trading risk?**
+**Does the discount change the challenge itself?**
 
-No. It lowers the entry cost only; the risk of trading is unchanged.
+No. The cut lowers the entry cost only; the challenge's targets, drawdown limits and trading risk stay as they are.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-13 - [Plutus Trade Base: 60% Off the Lightning Plan](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/) (60% Off)
-- 2026-11-05 - [Plutus Trade Base 50% Off the Freedom Plan Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/) (50% Off)
-- 2026-10-24 - [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) (66% Off) — Halloween
-- 2026-10-04 - [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) (50% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-18 | Plutus Trade Base: 50% Off Your First Challenge | 50% Off | 2026-11-18 (ended) | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/ |
+| 2026-11-13 | Plutus Trade Base: 60% Off the Lightning Plan | 60% Off | Limited time | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/ |
+| 2026-11-05 | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
+| 2026-10-24 | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
+| 2026-10-04 | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |

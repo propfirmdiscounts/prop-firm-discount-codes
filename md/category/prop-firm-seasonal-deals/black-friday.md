@@ -1,13 +1,21 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-Black Friday prop firm deals: the deepest discounts of the trading year, 214 archived offers from 93 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
+Black Friday prop firm deals: the deepest discounts of the trading year, 222 archived offers from 94 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
 
-As of 2026-11-16, the biggest offers this month: 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, 40% OFF with code BF40 at Alpha Capital Group, and 40% OFF with code RETAKE40 at FTUK.
+As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 50% OFF with code BF50 at AudaCity Capital, 50% OFF with code BF50 at TX3 Funding, and 45% OFF with code BFEARLY at Atlas Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | thePropTrade | thePropTrade Black Friday: 30% Off Three Challenges | 30% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
+| 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
+| 2026-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off Sitewide | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-sitewide/ |
+| 2026-11-20 | WSFunded | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
+| 2026-11-20 | Instant Funding | Instant Funding Black Friday: 35% Off IF Micro Pro | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/ |
+| 2026-11-20 | AudaCity Capital | AudaCity Capital Black Friday: 50% Off Ability 2-Steps | 50% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-50-off-ability-2-steps/ |
+| 2026-11-20 | PipFarm | PipFarm Black Friday: Buy One Get One Free + 25% Off | 25% OFF | 2026-12-01 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/ |
+| 2026-11-20 | Funded Trading Plus | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
 | 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
 | 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
@@ -150,14 +158,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-21 | SabioTrade | SabioTrade Black Friday Deal: Buy One Get One Free Account | Buy 1 Get 1 | Ended | - | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-black-friday-bogo-deal/ |
 | 2025-11-20 | WSFunded | WSFunded Black Friday: 40% Off plus 2×1 Account Offer | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-40-off-2x1/ |
 | 2025-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday Deal – Up to 70% Off | 70% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-70-off-deal/ |
-| 2025-11-20 | PropShopTrader | PropShopTrader Reset Coupon: 25% OFF Gladiator Resets | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-25-off-gladiator-resets-2/ |
-| 2025-11-20 | PropShopTrader | PropShopTrader Pre-Black Friday Deal: 70% OFF Instant Accounts | 70% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-pre-black-friday-70-off-instant-gladiators/ |
-| 2025-11-20 | PropShopTrader | PropShopTrader Pre-Black Friday: 70% OFF Warrior Evaluations | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/propshoptrader/propshoptrader-pre-black-friday-70-off-evaluations/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 20% Off All Direct Futures Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-20-off-direct-futures/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 25% Off 100K-150K Futures & 5K Forex | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-25-off-futures-forex/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 30% Off Direct Forex & Prime Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-30-off-direct-forex-prime/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 35% Off Select Forex Pro & Prime Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-35-off-forex-pro-prime/ |
-| 2025-11-19 | Hola Prime | Hola Prime Black Friday: 40% Off 10K and 25K Forex Pro Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-40-off-10k-25k-forex-pro/ |
 
 ## About this archive
 

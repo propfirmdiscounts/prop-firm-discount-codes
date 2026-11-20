@@ -1,18 +1,20 @@
 # AquaFunded Black Friday: 35% Off Every Account
 
-AquaFunded is offering 35% off — discount code **BLACKFRIDAY**.
+AquaFunded is offering 35% off.
 
 > AquaFunded's Black Friday: 35% off every account, plus a 200% refund with your 4th reward on CFD accounts. The refund is a reward-linked term.
 
-- Published: 2026-11-17
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: Limited time
 - Prop firm: AquaFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - Summary: AquaFunded takes 35% off every account for Black Friday. CFD accounts also carry a 200% refund paid with your fourth reward, a conditional reward-linked term.
-- Offer: 35% Off
-- Code: BLACKFRIDAY
-- Scope: Every Account
-- Deal: https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/
+- Discount: 35% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Every Account
+- Deal url: https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/
 
 Apply code PFD at checkout for up to 35% off any AquaFunded challenge account — verified to work any time with no expiration date.
 

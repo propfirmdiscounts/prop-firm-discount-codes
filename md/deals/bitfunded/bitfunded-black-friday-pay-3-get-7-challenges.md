@@ -4,14 +4,16 @@ Bitfunded is offering 70% off.
 
 > Bitfunded's Black Friday bundle: pay for 3 challenges at 70% off, get 7 in total - 3 free plus 1 extra account one size bigger.
 
-- Published: 2026-11-13
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-13
+- Deal ends: Limited time
 - Prop firm: Bitfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bitfunded/
 - Summary: Bitfunded is running a Black Friday bundle: pay for three challenges at 70% off and receive seven challenges in total, including one extra account one size bigger.
-- Offer: 70% Off
-- Scope: Challenges
-- Deal: https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/
+- Discount: 70% Off
+- Applied to: Challenges
+- Deal url: https://propfirmdiscount.com/deals/bitfunded/bitfunded-black-friday-pay-3-get-7-challenges/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

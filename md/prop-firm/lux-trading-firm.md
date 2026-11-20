@@ -1,22 +1,24 @@
 # Lux Trading Firm Discount Code
 
-No live discount code for Lux Trading Firm right now — newest deals and offers are below.
+Lux Trading Firm currently lists 1 deal with a discount code. Compare available promotions below to find the latest savings on Lux Trading Firm challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
-- Last deal published: 2026-11-19
-- Trustpilot: 3.7/5 (626 reviews)
-- Activate: https://propfirmdiscount.com/go/luxtradingfirm
+- Deal last verified: 2026-11-19
+- Trustpilot score: 3.7/5 (626 reviews)
+- Official web: luxtradingfirm.com
+- Email: info@luxtradingfirm.com
+- Address: 128 City Road,, London, EC1V 2NX, United Kingdom
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/luxtradingfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/lux-trading-firm/
-
-As of 2026-11-20, the biggest Lux Trading Firm offers this month: 30% OFF.
 
 ## Current deal: Lux Trading Firm Black Friday: $1M Account for £699
 
-- Published: 2026-11-19
-- Offer ends: 2026-11-27
-- Offer: £699
-- Scope: $1M 1-Step Account and $400K Instant Funding
+- Deal last verified: 2026-11-19
+- Deal ends: 2026-11-27
+- Discount: £699
+- Applied to: $1M 1-Step Account and $400K Instant Funding
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/
+- Deal url: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/
 
 ## Lux Trading Firm deal FAQ
 
@@ -42,5 +44,9 @@ Lux Trading Firm holds a 3.7/5 rating from 626 reviews as of November 2026, acco
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-19 - [Lux Trading Firm Black Friday: $1M Account for £699](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/) (£699) — Black Friday
-- 2026-10-22 - [Lux Trading Firm £699 $1M Account Black Friday](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/) (30% Off) — Black Friday
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-19 | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
+| 2026-10-22 | Lux Trading Firm £699 $1M Account Black Friday | 30% Off | 2026-11-27 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/ |

@@ -1,24 +1,26 @@
 # Lark Funding Discount Code
 
-No live discount code for Lark Funding right now — newest deals and offers are below.
+Lark Funding currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on Lark Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Demo Prop Trading. Minus The Nonsense.
 
-- Last deal published: 2026-11-17
-- Trustpilot: 4.3/5 (516 reviews)
-- Activate: https://propfirmdiscount.com/go/larkfunding
+- Deal last verified: 2026-11-17
+- Trustpilot score: 4.3/5 (516 reviews)
+- Official web: larkfunding.com
+- Email: support@larkfunding.com
+- Address: Canada
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/larkfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
-
-As of 2026-11-20, the biggest Lark Funding offers this month: 100% OFF with code OCTOBERFEE.
 
 ## Current deal: Lark Funding Black Friday: Buy 1, Get 3
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-30 23:59
-- Offer: Buy 1 Get 3
-- Scope: $100K Evaluations (1-Step Max, 1-Step, 3-Step)
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-30 23:59
+- Discount: Buy 1 Get 3
+- Applied to: $100K Evaluations (1-Step Max, 1-Step, 3-Step)
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/
+- Deal url: https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/
 
 ## Lark Funding deal FAQ
 
@@ -48,6 +50,10 @@ No. The bundle changes what the set of accounts costs; the evaluations carry no 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [Lark Funding Black Friday: Buy 1, Get 3](https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/) (Buy 1 Get 3) — Black Friday
-- 2026-11-02 - [Lark Funding Double Up Free Second Account on 30-Day Pass](https://propfirmdiscount.com/deals/lark-funding/lark-funding-double-up-free-second-account-30-day/) (Free second account)
-- 2026-10-07 - [Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts](https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/) (100% Off) — ended 2026-10-31
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | 2026-11-30 23:59 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
+| 2026-11-02 | Lark Funding Double Up Free Second Account on 30-Day Pass | Free second account | 2026-11-22 | - | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-double-up-free-second-account-30-day/ |
+| 2026-10-07 | Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts | 100% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/ |

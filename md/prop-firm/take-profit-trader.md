@@ -1,24 +1,26 @@
 # Take Profit Trader Discount Code
 
-No live discount code for Take Profit Trader right now — newest deals and offers are below.
+Take Profit Trader currently lists 4 deals with discount codes. Compare available promotions below to find the latest savings on Take Profit Trader challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We fund futures traders. We’re a no-nonsense futures funding company with helpful 24/5 live trader support and an industry-leading payout program which allows you to get paid from day-one of your PRO account. Progress on your trading journey with us to live market PRO+ accounts and 90% profit splits. Come trade futures with the TPT team!
 
-- Last deal published: 2026-11-03
-- Trustpilot: 4.4/5 (11313 reviews)
-- Activate: https://propfirmdiscount.com/go/takeprofittrader
+- Deal last verified: 2026-11-03
+- Trustpilot score: 4.4/5 (11313 reviews)
+- Official web: takeprofittrader.com
+- Email: support@takeprofittrader.com
+- Address: 1317 Edgewater Drive #3797, Orlando, 32804, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/takeprofittrader
 - Firm page: https://propfirmdiscount.com/prop-firm/take-profit-trader/
-
-As of 2026-11-20, the biggest Take Profit Trader offers this month: 50% OFF with code NOFEE50.
 
 ## Most recent deal (ended): Take Profit Trader Black Friday 50% Off Test Accounts
 
-- Published: 2026-11-03
-- Offer ends: 2026-11-09 (ended)
-- Offer: 50% Off
-- Scope: Test accounts (evaluation accounts), new accounts
+- Deal last verified: 2026-11-03
+- Deal ends: 2026-11-09 (ended)
+- Discount: 50% Off
+- Applied to: Test accounts (evaluation accounts), new accounts
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/
+- Deal url: https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/
 
 ## Take Profit Trader deal FAQ
 
@@ -48,4 +50,8 @@ No. The promotion lowers purchase pricing and waives the activation fee only. Tr
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-03 - [Take Profit Trader Black Friday 50% Off Test Accounts](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/) (50% Off) — Black Friday — ended 2026-11-09
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-03 | Take Profit Trader Black Friday 50% Off Test Accounts | 50% Off | 2026-11-09 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-50-off-test-accounts/ |

@@ -1,18 +1,20 @@
 # TX3 Funding Black Friday: 50% Off All Accounts
 
-TX3 Funding is offering 50% off — discount code **BF50**.
+TX3 Funding is offering 50% off.
 
 > TX3 Funding takes 50% off every account for Black Friday - Instant, Core and Prestige at every size, from $89.15, until 26 November 2026.
 
-- Published: 2026-11-19
-- Offer ends: 2026-11-26 23:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: 2026-11-26 23:59
 - Prop firm: TX3 Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - Summary: TX3 Funding offers 50% off all accounts for Black Friday: Instant, Core and Prestige at every size, priced from $89.15 once the discount is applied, until Thanksgiving night.
-- Offer: 50% Off
-- Code: BF50
-- Scope: All Accounts (Instant, Core, Prestige)
-- Deal: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/
+- Discount: 50% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Accounts (Instant, Core, Prestige)
+- Deal url: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/
 
 Apply code PFD1 at checkout for up to 25% off any TX3 Funding challenge account — verified to work any time with no expiration date.
 

@@ -1,18 +1,20 @@
 # The Trading Pit Black Friday: 40% Off Prime + Instant
 
-The Trading Pit is offering 40% off — discount code **BF40**.
+The Trading Pit is offering 40% off.
 
 > The Trading Pit's Black Friday session is open: 40% off selected Prime Challenges and Instant accounts, Prime $5K excluded, until 29 November.
 
-- Published: 2026-11-09
-- Offer ends: 2026-11-29
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-09
+- Deal ends: 2026-11-29
 - Prop firm: The Trading Pit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
 - Summary: The Trading Pit has opened its Black Friday session with 40% off selected Prime Challenges and Instant accounts. The Prime $5K is excluded. The firm's post runs the offer until 29 November.
-- Offer: 40% Off
-- Code: BF40
-- Scope: Prime Challenges, Instant Accounts
-- Deal: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/
+- Discount: 40% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Prime Challenges, Instant Accounts
+- Deal url: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

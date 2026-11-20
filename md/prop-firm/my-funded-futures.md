@@ -1,23 +1,25 @@
 # My Funded Futures Discount Code
 
-No live discount code for My Funded Futures right now — newest deals and offers are below.
+My Funded Futures currently lists 30 deals with discount codes. Compare available promotions below to find the latest savings on My Funded Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > My Funded Futures is a trader-first futures prop firm built around what matters most: clear rules, reliable payouts, flexible plans, and a real path to live capital. More than 100,000 traders have chosen MFFU, with access to zero activation fees, no daily loss limit on most plans, profit splits up to 90%, and daily payout options. Around 80% of eligible payout requests are approved automatically in under a second—because traders should be able to count on getting paid without unnecessary delays or guesswork. In an industry that can change overnight, we are focused on building something traders can rely on for the long run. That means prioritizing stability, communicating clearly, and continuing to put the trader experience first. Raise your standard. Trade MFFU.
 
-- Last deal published: 2026-11-17
-- Trustpilot: 4.9/5 (23055 reviews)
-- Activate: https://propfirmdiscount.com/go/myfundedfutures
+- Deal last verified: 2026-11-17
+- Trustpilot score: 4.9/5 (23055 reviews)
+- Official web: myfundedfutures.com
+- Email: support@myfundedfutures.com
+- Address: United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/myfundedfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/my-funded-futures/
-
-As of 2026-11-20, the biggest My Funded Futures offers this month: 40% OFF with code FLASH.
 
 ## Most recent deal (ended): My Funded Futures Flash Sale: Up to 40% Off
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-17 16:00 (ended)
-- Offer: 40% Off
-- Scope: Signature, Elite 3% DLL
-- Deal page: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-17 16:00 (ended)
+- Discount: 40% Off
+- Applied to: Signature, Elite 3% DLL
+- Deal url: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/
 
 ## My Funded Futures deal FAQ
 
@@ -43,4 +45,8 @@ No. It lowers the entry cost only; the risk of trading is unchanged.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [My Funded Futures Flash Sale: Up to 40% Off](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/) (40% Off) — ended 2026-11-17 16:00
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | My Funded Futures Flash Sale: Up to 40% Off | 40% Off | 2026-11-17 16:00 (ended) | - | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/ |

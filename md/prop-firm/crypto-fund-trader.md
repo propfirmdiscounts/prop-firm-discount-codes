@@ -1,26 +1,28 @@
 # Crypto Fund Trader Discount Code
 
-The verified Crypto Fund Trader discount code is **platinum5** — Up to 5% off, works any time.
+Crypto Fund Trader currently lists 7 deals with discount codes. The best current offer is code platinum5 for up to 5% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: platinum5
+- Discount code: platinum5
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-14
-- Trustpilot: 4.2/5 (1112 reviews)
-- Activate: https://propfirmdiscount.com/go/cryptofundtrader
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-14
+- Trustpilot score: 4.2/5 (1112 reviews)
+- Official web: cryptofundtrader.com
+- Email: support@cryptofundtrader.com
+- Address: Bahnhofstrasse 21, Zug, 6300, Switzerland
+- Market type: Crypto
+- Active deal url: https://propfirmdiscount.com/go/cryptofundtrader
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest Crypto Fund Trader offers this month: 25% OFF with code ONE.
-
 ## Current deal: Crypto Fund Trader: 25% Off New 1-Phase Challenge
 
-- Published: 2026-11-14
-- Offer ends: Limited time
-- Offer: 25% Off
-- Code: ONE
-- Scope: 1-Phase Challenges
-- Deal page: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
+- Deal last verified: 2026-11-14
+- Deal ends: Limited time
+- Discount: 25% Off
+- Discount code: ONE
+- Applied to: 1-Phase Challenges
+- Deal url: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
 
 ## Crypto Fund Trader deal FAQ
 
@@ -46,4 +48,8 @@ No. The static drawdown and the rule set are the new challenge's own design, lau
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-14 - [Crypto Fund Trader: 25% Off New 1-Phase Challenge](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/) (25% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-14 | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% Off | Limited time | - | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |

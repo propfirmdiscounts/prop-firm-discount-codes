@@ -4,14 +4,16 @@ Lux Trading Firm is offering £699.
 
 > Lux Trading Firm's Black Friday offer prices the $1M 1-Step account at £699 (normally £999) and $400K Instant Funding at £499, to 27 November 2026.
 
-- Published: 2026-11-19
-- Offer ends: 2026-11-27
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: 2026-11-27
 - Prop firm: Lux Trading Firm
 - Firm page: https://propfirmdiscount.com/prop-firm/lux-trading-firm/
 - Summary: Lux Trading Firm prices two accounts for Black Friday: the $1M 1-Step at £699, normally £999; $400K Instant Funding at £499, normally £699, ending 27 November 2026.
-- Offer: £699
-- Scope: $1M 1-Step Account and $400K Instant Funding
-- Deal: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/
+- Discount: £699
+- Applied to: $1M 1-Step Account and $400K Instant Funding
+- Deal url: https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

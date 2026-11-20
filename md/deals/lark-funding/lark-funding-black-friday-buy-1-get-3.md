@@ -4,14 +4,16 @@ Lark Funding is offering Buy 1 Get 3.
 
 > Lark Funding's Black Friday: buy one $100K evaluation and get two $50K bonus evaluations free - three accounts, one fee - through 30 November 2026.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-30 23:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-30 23:59
 - Prop firm: Lark Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 - Summary: Lark Funding's Black Friday deal: buy one $100K evaluation, get two $50K bonus evaluations in the same program - three accounts for one fee, through 30 November 2026.
-- Offer: Buy 1 Get 3
-- Scope: $100K Evaluations (1-Step Max, 1-Step, 3-Step)
-- Deal: https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/
+- Discount: Buy 1 Get 3
+- Applied to: $100K Evaluations (1-Step Max, 1-Step, 3-Step)
+- Deal url: https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

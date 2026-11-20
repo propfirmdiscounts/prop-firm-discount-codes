@@ -1,28 +1,30 @@
 # Earn2Trade Discount Code
 
-The verified Earn2Trade discount code is **PFD** — Up to 50% off, works any time.
+Earn2Trade currently lists 17 deals with discount codes. The best current offer is code PFD for up to 50% off, checked November 2026 by the PropFirmDiscount team.
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
-- Trustpilot: 4.5/5 (5104 reviews)
-- Activate: https://propfirmdiscount.com/go/earn2trade
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-02
+- Trustpilot score: 4.5/5 (5104 reviews)
+- Official web: earn2trade.com
+- Email: support@earn2trade.com
+- Address: North Gould Street 30, Sheridan, 82801, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest Earn2Trade offers this month: 50% OFF with code PFD and 50% OFF with code PFD.
-
 ## Current deal: Earn2Trade: 50% Off All Evaluations, Ladder Removed with code PFD
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 50% Off
-- Code: PFD
-- Scope: All Evaluations
-- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
+- Discount: 50% Off
+- Discount code: PFD
+- Applied to: All Evaluations
+- Deal url: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
 
 ## Earn2Trade deal FAQ
 
@@ -48,5 +50,9 @@ No. The discount lowers the subscription cost only. The ladder removal is a sepa
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Earn2Trade: 50% Off All Evaluations, Ladder Removed with code PFD](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) (50% Off)
-- 2026-10-01 - [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle with code PFD](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) (50% Off) — ended 2026-10-18
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-02 | Earn2Trade: 50% Off All Evaluations, Ladder Removed with code PFD | 50% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/ |
+| 2026-10-01 | Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle with code PFD | 50% Off | 2026-10-18 (ended) | - | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/ |

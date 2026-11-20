@@ -1,18 +1,20 @@
 # QT Funded Black Friday: 60% Off, Free Account
 
-QT Funded is offering 60% off — discount code **BLACK60**.
+QT Funded is offering 60% off.
 
 > QT Funded's Black Friday starts now: 60% off all plans plus a free same-size account - shown as $50K with a free $50K and $100K with a free $100K.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: QT Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - Summary: QT Funded's second Black Friday structure takes 60% off all plans, with a free same-size account on every purchase. Examples pair $50,000 with a free $50,000 and $100,000 with a free $100,000.
-- Offer: 60% Off
-- Code: BLACK60
-- Scope: All Plans
-- Deal: https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/
+- Discount: 60% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Plans
+- Deal url: https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/
 
 Apply code PFDDEAL at checkout for up to 50% off any QT Funded challenge account — verified to work any time with no expiration date.
 

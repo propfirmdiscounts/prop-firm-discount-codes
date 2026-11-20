@@ -1,18 +1,20 @@
 # IC Funded Black Friday 45% Off Every Challenge and Account
 
-IC Funded is offering 45% off — discount code **BLACKIC45**.
+IC Funded is offering 45% off.
 
 > IC Funded cuts 45% off every challenge and account for Black Friday until 30 November, Instant Funding included. Only purchase pricing changes.
 
-- Published: 2026-11-04
-- Offer ends: 2026-11-30
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-04
+- Deal ends: 2026-11-30
 - Prop firm: IC Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/ic-funded/
 - Summary: IC Funded cuts 45% off every challenge and account for Black Friday until 30 November, with Instant Funding included at any size and any model. Only purchase pricing changes and trading risk stays the same.
-- Offer: 45% Off
-- Code: BLACKIC45
-- Scope: All challenges, all accounts, 1-Step, 2-Step, Instant Funding, all sizes
-- Deal: https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/
+- Discount: 45% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All challenges, all accounts, 1-Step, 2-Step, Instant Funding, all sizes
+- Deal url: https://propfirmdiscount.com/deals/ic-funded/ic-funded-black-friday-45-off-every-challenge/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

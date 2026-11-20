@@ -1,18 +1,20 @@
 # BrightFunded Futures Black Friday: 45% Off
 
-BrightFunded is offering 45% off — discount code **FBF45**.
+BrightFunded is offering 45% off.
 
 > BrightFunded Futures opens early Black Friday with 45% off BrightPlus and BrightCore evaluations, $25K to $150K, one-time fee and no activation fee.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: BrightFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 - Summary: BrightFunded Futures has opened early Black Friday with 45% off its two one-step evaluations, BrightPlus and BrightCore. Sizes run from $25,000 to $150,000 on a one-time fee, with no subscription or activation fee.
-- Offer: 45% Off
-- Code: FBF45
-- Scope: BrightPlus Futures, BrightCore Futures
-- Deal: https://propfirmdiscount.com/deals/bright-funded/brightfunded-futures-black-friday-45-off/
+- Discount: 45% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: BrightPlus Futures, BrightCore Futures
+- Deal url: https://propfirmdiscount.com/deals/bright-funded/brightfunded-futures-black-friday-45-off/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

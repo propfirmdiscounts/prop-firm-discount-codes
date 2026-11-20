@@ -4,15 +4,17 @@ E8 Markets is offering 10% off — discount code **CHUN**.
 
 > E8 Markets launches Classic v2: one step, an 8% target, no Best Day Rule and payouts from $100 - 10% off with code CHUN at launch.
 
-- Published: 2026-11-18
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-18
+- Deal ends: Limited time
 - Prop firm: E8 Markets
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - Summary: E8 Markets launches the Classic v2 account with code CHUN taking 10% off: one step, one 8% target, no Best Day Rule, a static 4% drawdown and payouts from $100.
-- Offer: 10% Off
-- Code: CHUN
-- Scope: E8 Classic v2
-- Deal: https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/
+- Discount: 10% Off
+- Discount code: CHUN
+- Applied to: E8 Classic v2
+- Deal url: https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

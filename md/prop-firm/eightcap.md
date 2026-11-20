@@ -1,9 +1,11 @@
 # Eightcap Discount Code
 
-Eightcap has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/eightcap/
+Eightcap has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/eightcap
+- Deal last verified: none yet
+- Official web: eightcap.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/eightcap
 - Firm page: https://propfirmdiscount.com/prop-firm/eightcap/
 
 ## Deals (last 2 months, newest first)

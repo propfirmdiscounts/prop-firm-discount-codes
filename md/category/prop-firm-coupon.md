@@ -2,12 +2,25 @@
 
 > Every deal from the last 2 months (since 2026-10-01), newest first, as one table with how each code redeems. Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Every prop firm promo code on PropFirmDiscount in one place: 3,237 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
+Every prop firm promo code on PropFirmDiscount in one place: 3,251 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | thePropTrade | thePropTrade Black Friday: 30% Off Three Challenges | 30% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
+| 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
+| 2026-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off Sitewide | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-sitewide/ |
+| 2026-11-20 | WSFunded | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
+| 2026-11-20 | Instant Funding | Instant Funding Black Friday: 35% Off IF Micro Pro | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/ |
+| 2026-11-20 | For Traders | For Traders: 20% Off Perps for New Customers | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/ |
+| 2026-11-20 | AudaCity Capital | AudaCity Capital Black Friday: 50% Off Ability 2-Steps | 50% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-50-off-ability-2-steps/ |
+| 2026-11-20 | PipFarm | PipFarm Black Friday: Buy One Get One Free + 25% Off | 25% OFF | 2026-12-01 | - | https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/ |
+| 2026-11-20 | WSFunded | WSFunded: 60% Off Challenges From 2.5K to 25K | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/ |
+| 2026-11-20 | Funded Trading Plus | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
+| 2026-11-20 | For Traders | For Traders: $6K Forex Fast Challenge for $9.99 | $9.99 | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/ |
+| 2026-11-20 | FundedSquad | FundedSquad: 60% Off $5K and $10K Instant Models | 60% OFF | 2026-11-22 04:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
+| 2026-11-20 | FTUK | FTUK Instant PRO Launch: 50% Off All Sizes | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-pro-launch-50-off/ |
 | 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
 | 2026-11-19 | FundingTraders | FundingTraders: 50% Off $100K+ Accounts with code PFD | 50% OFF | 2026-11-23 09:00 | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/ |
 | 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
@@ -20,6 +33,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-18 | FundingPips | FundingPips: Double First Reward via Likes Challenge | Double First Reward | 2026-11-19 15:00 (ended) | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/ |
 | 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 (ended) | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
+| 2026-11-18 | Plutus Trade Base | Plutus Trade Base: 50% Off Your First Challenge | 50% OFF | 2026-11-18 (ended) | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
 | 2026-11-18 | E8 Markets | E8 Markets Classic v2 Launch: 10% Off with code CHUN | 10% OFF | Limited time | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/ |

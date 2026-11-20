@@ -4,14 +4,16 @@ My Funded Futures was offering 40% off.
 
 > My Funded Futures flash sale, today only: 40% off Signature plans and 35% off Elite 3% DLL, ending 4PM EST. Signature starts at $52.20 for the $10K.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-17 16:00 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-17 16:00 (ended)
 - Prop firm: My Funded Futures
 - Firm page: https://propfirmdiscount.com/prop-firm/my-funded-futures/
 - Summary: My Funded Futures runs a one-day flash sale: Signature plans at 40% off and Elite 3% DLL plans at 35% off, ending at 4PM EST today, with the code usable three times.
-- Offer: 40% Off
-- Scope: Signature, Elite 3% DLL
-- Deal: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/
+- Discount: 40% Off
+- Applied to: Signature, Elite 3% DLL
+- Deal url: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -1,25 +1,26 @@
 # Fundex Discount Code
 
-The verified Fundex discount code is **PFD** — Up to 10% off, works any time.
+Fundex currently lists 4 deals with discount codes. The best current offer is code PFD for up to 10% off, checked November 2026 by the PropFirmDiscount team.
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-09
-- Trustpilot: 3.1/5 (42 reviews)
-- Activate: https://propfirmdiscount.com/go/fundex
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-10-09
+- Trustpilot score: 3.1/5 (42 reviews)
+- Official web: fundex.gg
+- Address: United States
+- Market type: Forex/CFD + Crypto
+- Active deal url: https://propfirmdiscount.com/go/fundex
 - Firm page: https://propfirmdiscount.com/prop-firm/fundex/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest Fundex offers this month: 20% OFF with code 1STEP.
-
 ## Most recent deal (ended): Fundex 20% Off 1-Step Evaluation Accounts
 
-- Published: 2026-10-09
-- Offer ends: Ended
-- Offer: 20% Off
-- Scope: 1-Step Evaluation, 100K Account, Coupon
-- Deal page: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
+- Deal last verified: 2026-10-09
+- Deal ends: Ended
+- Discount: 20% Off
+- Applied to: 1-Step Evaluation, 100K Account, Coupon
+- Deal url: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
 
 ## Fundex deal FAQ
 
@@ -45,4 +46,8 @@ This is an active promotion applied at checkout to reduce the initial purchase p
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-09 - [Fundex 20% Off 1-Step Evaluation Accounts](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) (20% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-09 | Fundex 20% Off 1-Step Evaluation Accounts | 20% Off | Ended | - | - | https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/ |

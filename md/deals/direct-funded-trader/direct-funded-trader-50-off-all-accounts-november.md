@@ -1,18 +1,20 @@
 # Direct Funded Trader: 50% Off All Accounts
 
-Direct Funded Trader is offering 50% off — discount code **GTA6**.
+Direct Funded Trader is offering 50% off.
 
 > Direct Funded Trader takes 50% off all accounts with one code at checkout - every account in the range at half price.
 
-- Published: 2026-11-19
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: Limited time
 - Prop firm: Direct Funded Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - Summary: Direct Funded Trader offers 50% off all accounts, with one code at checkout. The firm's recent listings centred on a $99 price point for its 100K 2-Step Evaluation.
-- Offer: 50% Off
-- Code: GTA6
-- Scope: All Accounts
-- Deal: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/
+- Discount: 50% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Accounts
+- Deal url: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/
 
 Apply code PFD at checkout for up to 50% off any Direct Funded Trader challenge account — verified to work any time with no expiration date.
 

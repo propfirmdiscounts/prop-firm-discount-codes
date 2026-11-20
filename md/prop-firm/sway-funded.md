@@ -1,9 +1,11 @@
 # Sway Funded Discount Code
 
-Sway Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/sway-funded/
+Sway Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/swayfunded
+- Deal last verified: none yet
+- Official web: swayfunded.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/swayfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/sway-funded/
 
 ## Deals (last 2 months, newest first)

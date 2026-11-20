@@ -1,18 +1,20 @@
 # SFX Funded 55% Off All Accounts Black Friday
 
-SFX Funded is offering 55% off — discount code **BF55**.
+SFX Funded is offering 55% off.
 
 > SFX Funded cuts 55% off all accounts in November, with BOGO and a 150% refund, lowering the upfront entry cost while the account picked stays the same.
 
-- Published: 2026-11-02
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
 - Prop firm: SFX Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/sfx-funded/
 - Summary: 55% off all accounts, with BOGO and a 150% refund, with cost down and the picked account left the same for buyers at purchase in November.
-- Offer: 55% Off
-- Code: BF55
-- Scope: All accounts: Instant, 1-Step Pro and 2-Step Pro, in $50K and $100K sizes
-- Deal: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/
+- Discount: 55% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All accounts: Instant, 1-Step Pro and 2-Step Pro, in $50K and $100K sizes
+- Deal url: https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

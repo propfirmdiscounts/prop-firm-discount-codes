@@ -1,24 +1,26 @@
 # TradeDay Discount Code
 
-The newest TradeDay discount code is **SALE60** — 60% off (November 12, 2026). The campaign code changes with each promotion; newest first below.
+TradeDay currently lists 5 deals with discount codes. Compare available promotions below to find the latest savings on TradeDay challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > TradeDay is a leading platform for traders looking to get funding for their trading. Join our program and get your day trading evaluated. Pass our evaluation and we guarantee to open a real trading account, with real capital, for you to trade. We then split the profits you make. Futures traders are joining TradeDay because we care about you succeeding. We provide institution-grade tools, daily research, daily meetings, free coaching, webinars, and hours and hours of video content. All of this is designed to help you find your edge in the market. TradeDay is owned and managed by James Thorpe and Steve Miley, both trading industry veterans from proprietary trading, hedge fund, and the Investment banking world. Our team is highly experienced in trading and we know the pitfalls, the challenges, and what it takes to succeed in trading. When you pass our evaluation we fund you with our capital, this means we are aligned. You make money we make money, and we will do what it takes to help you succeed. Come and check out TradeDay and see if you have what it takes to become a funded trader.
 
-- Last deal published: 2026-11-12
-- Trustpilot: 4.6/5 (1455 reviews)
-- Activate: https://propfirmdiscount.com/go/tradeday
+- Deal last verified: 2026-11-12
+- Trustpilot score: 4.6/5 (1455 reviews)
+- Official web: tradeday.com
+- Email: support@tradeday.com
+- Address: 412 S.Wells,, Chicago, 60607, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/tradeday
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeday/
-
-As of 2026-11-20, the biggest TradeDay offers this month: 60% OFF with code SALE60 and 60% OFF with code FLASH.
 
 ## Current deal: TradeDay: 60% Off Every Account, No Subscription
 
-- Published: 2026-11-12
-- Offer ends: Limited time
-- Offer: 60% Off
-- Code: SALE60
-- Scope: All Accounts
-- Deal page: https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/
+- Deal last verified: 2026-11-12
+- Deal ends: Limited time
+- Discount: 60% Off
+- Discount code: SALE60
+- Applied to: All Accounts
+- Deal url: https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/
 
 ## TradeDay deal FAQ
 
@@ -48,5 +50,9 @@ No. It reduces the price of buying an account only; trading rules and trading ri
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-12 - [TradeDay: 60% Off Every Account, No Subscription](https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/) (60% Off)
-- 2026-10-04 - [TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis](https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/) (60% Off) — ended 2026-10-10
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-12 | TradeDay: 60% Off Every Account, No Subscription | 60% Off | Limited time | - | - | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/ |
+| 2026-10-04 | TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis | 60% Off | 2026-10-10 (ended) | - | - | https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/ |

@@ -1,9 +1,11 @@
 # Clarity Traders Discount Code
 
-Clarity Traders has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/clarity-traders/
+Clarity Traders has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/claritytraders
+- Deal last verified: none yet
+- Official web: claritytraders.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/claritytraders
 - Firm page: https://propfirmdiscount.com/prop-firm/clarity-traders/
 
 ## Deals (last 2 months, newest first)

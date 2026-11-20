@@ -1,23 +1,25 @@
 # Hola Prime Discount Code
 
-The newest Hola Prime discount code is **BLACK50** — 50% off (November 2, 2026). The campaign code changes with each promotion; newest first below.
+Hola Prime currently lists 76 deals with discount codes. Compare available promotions below to find the latest savings on Hola Prime challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
-- Last deal published: 2026-11-02
-- Trustpilot: 4.6/5 (4345 reviews)
-- Activate: https://propfirmdiscount.com/go/holaprime
+- Deal last verified: 2026-11-02
+- Trustpilot score: 4.6/5 (4345 reviews)
+- Official web: holaprime.com
+- Email: contactus@holaprime.com
+- Address: L1, Shaw House, 201 Wan Po Road, Tseung Kwan O, Hong Kong
+- Market type: Forex/CFD + Futures
+- Active deal url: https://propfirmdiscount.com/go/holaprime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
-
-As of 2026-11-20, the biggest Hola Prime offers this month: 50% OFF with code BLACK50, 50% OFF with code FLY50, 40% OFF with code SPOOKY40, and 20% OFF with code SPOOKY20.
 
 ## Current deal: Hola Prime Black Friday 50% Off 2-Step Fly
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 50% Off
-- Code: BLACK50
-- Scope: $10K to $100K 2-Step Fly challenges
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
+- Discount: 50% Off
+- Discount code: BLACK50
+- Applied to: $10K to $100K 2-Step Fly challenges
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/
+- Deal url: https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/
 
 ## Hola Prime deal FAQ
 
@@ -47,7 +49,11 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Hola Prime Black Friday 50% Off 2-Step Fly](https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/) (50% Off) — Black Friday
-- 2026-10-29 - [Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges](https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/) (50% Off)
-- 2026-10-14 - [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) (20% Off) — Halloween
-- 2026-10-14 - [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) (40% Off) — Halloween
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-02 | Hola Prime Black Friday 50% Off 2-Step Fly | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/ |
+| 2026-10-29 | Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/ |
+| 2026-10-14 | Hola Prime: 20% Off Next $5K–$200K Account for Existing Users | 20% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/ |
+| 2026-10-14 | Hola Prime: 40% Off First-Time $5K–$200K Account Purchases | 40% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/ |

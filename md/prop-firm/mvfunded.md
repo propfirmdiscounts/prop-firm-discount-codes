@@ -1,9 +1,11 @@
 # MVFunded Discount Code
 
-MVFunded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/mvfunded/
+MVFunded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/mvfunded
+- Deal last verified: none yet
+- Official web: mvfunded.marketsvox.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/mvfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/mvfunded/
 
 ## Deals (last 2 months, newest first)

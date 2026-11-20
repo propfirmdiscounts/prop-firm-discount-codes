@@ -1,21 +1,29 @@
 # FundedSeat Discount Code
 
-No live discount code for FundedSeat right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/fundedseat/
+FundedSeat currently lists 14 deals with discount codes. Compare available promotions below to find the latest savings on FundedSeat challenge accounts, checked September 2026 by the PropFirmDiscount team.
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 
-- Last deal published: 2026-09-03
-- Trustpilot: 4.3/5 (249 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedseat
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> FundedSeat closed on 28 September 2026, and active accounts were refunded.
+
+- Deal last verified: 2026-09-03
+- Trustpilot score: 4.3/5 (249 reviews)
+- Official web: fundedseat.com
+- Email: support@fundedseat.com
+- Address: Sheridan, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/fundedseat
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
 
 ## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts
 
-- Published: 2026-09-03
-- Offer ends: Ended
-- Offer: 50% Off
-- Scope: 1-Step Daily, Sprint, Instant, Ultra, Multiple Uses
-- Deal page: https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/
+- Deal last verified: 2026-09-03
+- Deal ends: Ended
+- Discount: 50% Off
+- Applied to: 1-Step Daily, Sprint, Instant, Ultra, Multiple Uses
+- Deal url: https://propfirmdiscount.com/deals/fundedseat/fundedseat-50-off-evaluations/
 
 ## Deals (last 2 months, newest first)
 

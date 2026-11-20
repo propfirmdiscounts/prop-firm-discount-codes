@@ -1,9 +1,11 @@
 # Moneta Funded Discount Code
 
-Moneta Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/moneta-funded/
+Moneta Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/monetafunded
+- Deal last verified: none yet
+- Official web: monetafunded.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/monetafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/moneta-funded/
 
 ## Deals (last 2 months, newest first)

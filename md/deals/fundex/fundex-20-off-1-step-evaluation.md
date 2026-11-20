@@ -4,14 +4,16 @@ Fundex was offering 20% off.
 
 > This promotion reduces the entry fee for the Fundex 1-Step evaluation model by 20% without changing the standard profit targets and static drawdown limits.
 
-- Published: 2026-10-09
-- Offer ends: Ended
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-09
+- Deal ends: Ended
 - Prop firm: Fundex
 - Firm page: https://propfirmdiscount.com/prop-firm/fundex/
 - Summary: This promotion provides a 20% discount on the entry fee for the 1-Step evaluation model. Standard trading parameters, including the profit target and static drawdown limits, remain completely unchanged.
-- Offer: 20% Off
-- Scope: 1-Step Evaluation, 100K Account, Coupon
-- Deal: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
+- Discount: 20% Off
+- Applied to: 1-Step Evaluation, 100K Account, Coupon
+- Deal url: https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/
 
 Apply code PFD at checkout for up to 10% off any Fundex challenge account — verified to work any time with no expiration date.
 

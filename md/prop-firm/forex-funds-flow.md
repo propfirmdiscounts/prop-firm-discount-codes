@@ -1,26 +1,30 @@
 # Forex Funds Flow Discount Code
 
-The verified Forex Funds Flow discount code is **PFD** — Up to 10% off, works any time.
+Forex Funds Flow currently lists 13 deals with discount codes. The best current offer is code PFD for up to 10% off, checked November 2026 by the PropFirmDiscount team.
 
 > Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000. Our mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style. With advanced account analytics, educational resources, and dedicated trader support, we're here to guide you every step of the way toward achieving consistency, growth, and long-term success as a funded trader.
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-06-12
-- Trustpilot: 3.5/5 (259 reviews)
-- Activate: https://propfirmdiscount.com/go/forexfundsflow
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-06-12
+- Trustpilot score: 3.5/5 (259 reviews)
+- Official web: forexfundsflow.com
+- Email: support@forexfundsflow.com
+- Address: Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, Saint Lucia, St. Lucia
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/forexfundsflow
 - Firm page: https://propfirmdiscount.com/prop-firm/forex-funds-flow/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Most recent deal (ended): Forex Funds Flow: 15% Off All Programs
 
-- Published: 2026-06-12
-- Offer ends: Ended
-- Offer: 15% Off
-- Scope: All programs
+- Deal last verified: 2026-06-12
+- Deal ends: Ended
+- Discount: 15% Off
+- Applied to: All programs
 - Event: World Cup
-- Deal page: https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/
+- Deal url: https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/
 
 ## Deals (last 2 months, newest first)
 

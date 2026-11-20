@@ -1,9 +1,11 @@
 # Pip Traders Funding Discount Code
 
-Pip Traders Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/pip-traders-funding/
+Pip Traders Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/piptradersfunding
+- Deal last verified: none yet
+- Official web: piptradersfunding.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/piptradersfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/pip-traders-funding/
 
 ## Deals (last 2 months, newest first)

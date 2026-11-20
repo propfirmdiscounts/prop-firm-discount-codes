@@ -1,18 +1,20 @@
 # Goat Funded Trader Black Friday: 50% Off
 
-Goat Funded Trader is offering 50% off — discount code **EARLYFRIDAY50**.
+Goat Funded Trader is offering 50% off.
 
 > Goat Funded Trader's early Black Friday offer takes 50% off selected plans for 7 days only, ending 23 November 2026. Half price on the selected range.
 
-- Published: 2026-11-16
-- Offer ends: 2026-11-23
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: 2026-11-23
 - Prop firm: Goat Funded Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - Summary: Goat Funded Trader has opened early Black Friday with 50% off selected plans, for 7 days only to 23 November 2026. The announcement does not name which plans are selected, so check the qualifying list.
-- Offer: 50% Off
-- Code: EARLYFRIDAY50
-- Scope: Selected Plans
-- Deal: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/
+- Discount: 50% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Selected Plans
+- Deal url: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/
 
 Apply code CSV at checkout for up to 35% off any Goat Funded Trader challenge account — verified to work any time with no expiration date.
 

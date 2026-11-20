@@ -1,18 +1,20 @@
 # Hola Prime Black Friday 50% Off 2-Step Fly
 
-Hola Prime is offering 50% off — discount code **BLACK50**.
+Hola Prime is offering 50% off.
 
 > Hola Prime cuts 50% off 2-Step Fly challenges, with no rules in the Sim Funded stage and anytime reward requests, lowering the entry cost for buyers.
 
-- Published: 2026-11-02
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
 - Prop firm: Hola Prime
 - Firm page: https://propfirmdiscount.com/prop-firm/hola-prime/
 - Summary: 50% off 2-Step Fly challenges, with no rules and anytime rewards and cost down for buyers at purchase today ready to start in November now.
-- Offer: 50% Off
-- Code: BLACK50
-- Scope: $10K to $100K 2-Step Fly challenges
-- Deal: https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/
+- Discount: 50% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: $10K to $100K 2-Step Fly challenges
+- Deal url: https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-percent-off-2-step-fly-challenges/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

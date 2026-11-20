@@ -1,52 +1,58 @@
 # FundedSquad Discount Code
 
-The newest FundedSquad discount code is **EARLYBF** — 55% off (November 16, 2026). The campaign code changes with each promotion; newest first below.
+FundedSquad currently lists 34 deals with discount codes. Compare available promotions below to find the latest savings on FundedSquad challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
-- Last deal published: 2026-11-16
-- Trustpilot: 1.9/5 (415 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedsquad
+- Deal last verified: 2026-11-20
+- Trustpilot score: 1.9/5 (415 reviews)
+- Official web: fundedsquad.com
+- Email: support@fundedsquad.com
+- Address: DDO IFZA Business Park-Dubai Silicon Oasis, Dubai , PO BOX- 342001, U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-As of 2026-11-20, the biggest FundedSquad offers this month: 55% OFF with code EARLYBF, 55% OFF with code DIWALI, 50% OFF with code FLASH, 45% OFF with code 2YEARS, and 40% OFF with code 2YEARS.
+## Current deal: FundedSquad: 60% Off $5K and $10K Instant Models
 
-## Current deal: FundedSquad Black Friday: 55% Off All Models
-
-- Published: 2026-11-16
-- Offer ends: 2026-11-23 07:00
-- Offer: 55% Off
-- Code: EARLYBF
-- Scope: All Models
-- Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/
+- Deal last verified: 2026-11-20
+- Deal ends: 2026-11-22 04:00
+- Discount: 60% Off
+- Discount code: GTA6
+- Applied to: Instant Lite and Instant Flex ($5K and $10K)
+- Deal url: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/
 
 ## FundedSquad deal FAQ
 
-**How much does the Early Black Friday sale take off?**
+**Which accounts does the 60% cover?**
 
-55% off across all models. Every listed price in the firm's table is exactly 55% below its original fee.
+The $5K and $10K sizes of Instant Lite and Instant Flex - at $47.60 and $87.60 respectively, each exactly 60% off.
 
-**When does the sale end?**
+**How do Lite and Flex differ?**
 
-The stated end is 23 November 2026 at 12 PM UK time.
+Daily drawdown is 3% on both. Max drawdown is 6% trailing on Lite and 5% static on Flex; neither has consistency rules; news trading is listed as an add-on on Flex and is not listed for Lite.
 
-**Are the listed prices the full cost?**
+**When does the offer end?**
 
-The firm notes that the prices are one-time base fees in USD and that add-ons are extra.
+Sunday 22 November 2026 at 9 AM UK time; the announcement also frames the window as 48 hours only.
 
-**Does the discount change the models' rules?**
+**Does the discount change the account rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**What does the firm's note about simulated accounts mean?**
+**What is the firm's review record?**
 
-The firm states that all accounts are simulated. The drawdown figures shown are the maximums for each model.
+Trustpilot: 1.9/5 from 415 reviews as of November 2026 - a low score worth weighing before buying.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-16 - [FundedSquad Black Friday: 55% Off All Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/) (55% Off) — Black Friday
-- 2026-11-06 - [FundedSquad Diwali 55% Off $25K and $50K Instant](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/) (55% Off) — Diwali — ended 2026-11-10 07:00
-- 2026-11-02 - [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) (50% Off) — ended 2026-11-09 07:00
-- 2026-10-30 - [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) (45% Off) — ended 2026-10-31
-- 2026-10-01 - [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) (40% Off) — ended 2026-10-15
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
+| 2026-11-16 | FundedSquad Black Friday: 55% Off All Models | 55% Off | 2026-11-23 07:00 | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
+| 2026-11-06 | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% Off | 2026-11-10 07:00 (ended) | Diwali | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
+| 2026-11-02 | FundedSquad 50% Off All Models Plus BOGO | 50% Off | 2026-11-09 07:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/ |
+| 2026-10-30 | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |
+| 2026-10-01 | FundedSquad 40% Off All Evaluation Models | 40% Off | 2026-10-15 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/ |

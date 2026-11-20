@@ -1,25 +1,27 @@
 # The Trading Pit Discount Code
 
-The newest The Trading Pit discount code is **BF40** — 40% off (November 9, 2026). The campaign code changes with each promotion; newest first below.
+The Trading Pit currently lists 34 deals with discount codes. Compare available promotions below to find the latest savings on The Trading Pit challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Welcome to The Trading Pit, a prop trading firm where your trading skills meet unparalleled opportunities. We offer a unique challenge-based evaluation process in a simulated trading environment, allowing you to demonstrate your trading expertise. Successfully passing our challenge unlocks access to trade with substantial simulated capital, scaling up to hundreds of thousands of dollars of trading capital. Learn, be part of a great community and trade confidently futures or CFDs/ Forex. Join us to turn your trading potential into real profit. Founded in February 2022, The Trading Pit (TTP) is an award-winning prop trading firm headquartered in Liechtenstein. With a global presence, the firm boasts an operational office in Cyprus and a representative office in Spain.
 
-- Last deal published: 2026-11-09
-- Trustpilot: 3.7/5 (1085 reviews)
-- Activate: https://propfirmdiscount.com/go/thetradingpit
+- Deal last verified: 2026-11-09
+- Trustpilot score: 3.7/5 (1085 reviews)
+- Official web: thetradingpit.com
+- Email: support@thetradingpit.com
+- Address: Heiligkreuz 6, Vaduz, 9490 , Liechtenstein
+- Market type: Forex/CFD + Futures
+- Active deal url: https://propfirmdiscount.com/go/thetradingpit
 - Firm page: https://propfirmdiscount.com/prop-firm/the-trading-pit/
-
-As of 2026-11-20, the biggest The Trading Pit offers this month: 50% OFF, 40% OFF with code BF40, 35% OFF with code OCT35, and 35% OFF with code OCT35.
 
 ## Current deal: The Trading Pit Black Friday: 40% Off Prime + Instant
 
-- Published: 2026-11-09
-- Offer ends: 2026-11-29
-- Offer: 40% Off
-- Code: BF40
-- Scope: Prime Challenges, Instant Accounts
+- Deal last verified: 2026-11-09
+- Deal ends: 2026-11-29
+- Discount: 40% Off
+- Discount code: BF40
+- Applied to: Prime Challenges, Instant Accounts
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/
+- Deal url: https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/
 
 ## The Trading Pit deal FAQ
 
@@ -45,7 +47,11 @@ No. The offer covers selected Prime Challenges only, with the Prime $5K excluded
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-09 - [The Trading Pit Black Friday: 40% Off Prime + Instant](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/) (40% Off) — Black Friday
-- 2026-10-30 - [The Trading Pit Halloween 50% Off Challenges Flash Sale](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/) (50% Off) — Halloween — ended 2026-11-01
-- 2026-10-16 - [The Trading Pit 35% Off Selected Accounts And Free $5K Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/) (35% Off) — ended 2026-10-23
-- 2026-10-05 - [The Trading Pit: 35% Off All Products and Free $5,000 Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/) (35% Off) — ended 2026-10-23
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-09 | The Trading Pit Black Friday: 40% Off Prime + Instant | 40% Off | 2026-11-29 | Black Friday | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-black-friday-40-off-prime-instant/ |
+| 2026-10-30 | The Trading Pit Halloween 50% Off Challenges Flash Sale | 50% Off | 2026-11-01 (ended) | Halloween | No Code Required | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/ |
+| 2026-10-16 | The Trading Pit 35% Off Selected Accounts And Free $5K Account | 35% Off | 2026-10-23 (ended) | - | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/ |
+| 2026-10-05 | The Trading Pit: 35% Off All Products and Free $5,000 Account | 35% Off | 2026-10-23 (ended) | - | - | https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/ |

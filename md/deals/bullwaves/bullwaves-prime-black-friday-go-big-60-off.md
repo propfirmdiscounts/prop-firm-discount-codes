@@ -1,18 +1,20 @@
 # Bullwaves Prime Black Friday: 60% Off Everything
 
-Bullwaves Prime is offering 60% off — discount code **GOBIG60**.
+Bullwaves Prime is offering 60% off.
 
 > Bullwaves Prime's Black Friday Go Big offer takes 60% off everything from 16 to 30 November, plus a free BOGO challenge after the first payout.
 
-- Published: 2026-11-16
-- Offer ends: 2026-11-30
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: 2026-11-30
 - Prop firm: Bullwaves Prime
 - Firm page: https://propfirmdiscount.com/prop-firm/bullwaves/
 - Summary: Bullwaves Prime's Black Friday Go Big offer runs from 16 to 30 November: 60% off everything, a free BOGO challenge after the first payout, unlimited account stacking and a PS5 plus GTA VI draw.
-- Offer: 60% Off
-- Code: GOBIG60
-- Scope: Everything
-- Deal: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/
+- Discount: 60% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Everything
+- Deal url: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/
 
 Apply code PFD at checkout for up to 10% off any Bullwaves Prime challenge account — verified to work any time with no expiration date.
 

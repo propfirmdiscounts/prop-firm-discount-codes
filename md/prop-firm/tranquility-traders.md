@@ -1,9 +1,11 @@
 # Tranquility Traders Discount Code
 
-Tranquility Traders has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/tranquility-traders/
+Tranquility Traders has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/tranquilitytraders
+- Deal last verified: none yet
+- Official web: tranquilitytraders.com
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/tranquilitytraders
 - Firm page: https://propfirmdiscount.com/prop-firm/tranquility-traders/
 
 ## Deals (last 2 months, newest first)

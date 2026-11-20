@@ -4,14 +4,16 @@ Traders Launch was offering Mystery discount.
 
 > Traders Launch offers a mystery discount on a chosen account, revealed at checkout, ending November 9 at 11:59 PM EST, with no rate stated in advance.
 
-- Published: 2026-11-02
-- Offer ends: 2026-11-09 23:59 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-02
+- Deal ends: 2026-11-09 23:59 (ended)
 - Prop firm: Traders Launch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 - Summary: Mystery discount on a chosen account, revealed at checkout, ending November 9 at 11:59 PM EST for buyers today ready to start this month now.
-- Offer: Mystery discount
-- Scope: A chosen account
-- Deal: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
+- Discount: Mystery discount
+- Applied to: A chosen account
+- Deal url: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

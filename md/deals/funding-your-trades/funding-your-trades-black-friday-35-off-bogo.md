@@ -1,18 +1,20 @@
 # Funding Your Trades Black Friday: 35% Off + BOGO
 
-Funding Your Trades is offering 35% off — discount code **BOGO35**.
+Funding Your Trades is offering 35% off.
 
 > Funding Your Trades opens Black Friday early at 35% off, plus BOGO instantly, a free drawdown reset and first reward on demand. Limited time.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: Funding Your Trades
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
 - Summary: Funding Your Trades opens Black Friday early: 35% off, plus BOGO instantly, a free drawdown reset and first reward on demand. The rate sits below Diwali's 45%, with a different bundle attached.
-- Offer: 35% Off
-- Code: BOGO35
-- Scope: Challenges
-- Deal: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/
+- Discount: 35% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Challenges
+- Deal url: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/
 
 Apply code PFD at checkout for up to 2% off any Funding Your Trades challenge account — verified to work any time with no expiration date.
 

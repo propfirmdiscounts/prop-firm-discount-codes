@@ -1,19 +1,22 @@
 # Traders Launch Discount Code
 
-No live discount code for Traders Launch right now — newest deals and offers are below.
+Traders Launch currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on Traders Launch challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
-- Last deal published: 2026-11-02
-- Trustpilot: 4.5/5 (82 reviews)
-- Activate: https://propfirmdiscount.com/go/traderslaunch
+- Deal last verified: 2026-11-02
+- Trustpilot score: 4.5/5 (82 reviews)
+- Official web: traderslaunch.com
+- Address: United States
+- Market type: Futures + Crypto
+- Active deal url: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 
 ## Most recent deal (ended): Traders Launch Mystery Discount Account
 
-- Published: 2026-11-02
-- Offer ends: 2026-11-09 23:59 (ended)
-- Offer: Mystery discount
-- Scope: A chosen account
-- Deal page: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
+- Deal last verified: 2026-11-02
+- Deal ends: 2026-11-09 23:59 (ended)
+- Discount: Mystery discount
+- Applied to: A chosen account
+- Deal url: https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/
 
 ## Traders Launch deal FAQ
 
@@ -35,4 +38,8 @@ Follow the Start here link at the end of this article to reach the deal page for
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-02 - [Traders Launch Mystery Discount Account](https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/) (Mystery discount) — ended 2026-11-09 23:59
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-02 | Traders Launch Mystery Discount Account | Mystery discount | 2026-11-09 23:59 (ended) | - | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |

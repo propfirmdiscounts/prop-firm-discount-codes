@@ -1,21 +1,25 @@
 # Funded Trader Markets Discount Code
 
-No live discount code for Funded Trader Markets right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/funded-trader-markets/
+Funded Trader Markets currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on Funded Trader Markets challenge accounts, checked June 2026 by the PropFirmDiscount team.
 
 > Funded Trader Markets is a premier evaluation service firm dedicated to discovering and funding talented traders by offering them the possibility to trade simulated funding up to $2,000,000. FTM provides traders with opportunities to prove their skills and gain access to simulated trading funds with a focus on innovation, transparency, and support.
 
-- Last deal published: 2026-06-03
-- Trustpilot: 2.7/5 (476 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedtradermarkets
+- Deal last verified: 2026-06-03
+- Trustpilot score: 2.7/5 (476 reviews)
+- Official web: fundedtradermarkets.com
+- Email: support@fundedtradermarkets.com
+- Address: Dubai, U.A.E.
+- Market type: Forex/CFD + Crypto
+- Active deal url: https://propfirmdiscount.com/go/fundedtradermarkets
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trader-markets/
 
 ## Most recent deal (ended): Funded Trader Markets: 75% Off 2 Step Plus 5K–50K Evaluations
 
-- Published: 2026-06-03
-- Offer ends: Ended
-- Offer: 75% Off
-- Scope: 2 Step Plus, 5K, 10K, 25K, 50K
-- Deal page: https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-75-off-2-step-plus-deal/
+- Deal last verified: 2026-06-03
+- Deal ends: Ended
+- Discount: 75% Off
+- Applied to: 2 Step Plus, 5K, 10K, 25K, 50K
+- Deal url: https://propfirmdiscount.com/deals/funded-trader-markets/funded-trader-markets-75-off-2-step-plus-deal/
 
 ## Deals (last 2 months, newest first)
 

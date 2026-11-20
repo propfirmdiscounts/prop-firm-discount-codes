@@ -1,56 +1,56 @@
 # thePropTrade Discount Code
 
-The verified thePropTrade discount code is **PFD** — Up to 20% off, works any time.
+thePropTrade currently lists 36 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
 > thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders. After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million. At thePropTrade, we believe in simplicity, transparency and sustainability when it comes to our products. Our trading objectives are based on sustainable risk management principles and they allow our clients to improve their skills and build healthy trading habits.
 
-- Code: PFD
+- Discount code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-27
-- Trustpilot: 3.5/5 (100 reviews)
-- Activate: https://propfirmdiscount.com/go/theproptrade
+- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Deal last verified: 2026-11-20
+- Trustpilot score: 3.5/5 (100 reviews)
+- Official web: theproptrade.com
+- Email: support@theproptrade.com
+- Address: Unit 45679-001, IFZA Business Park, Dubai Silicon Oasis, Dubai , U.A.E.
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/theproptrade
 - Firm page: https://propfirmdiscount.com/prop-firm/the-prop-trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-20, the biggest thePropTrade offers this month: 22% OFF with code TWOYEARS and 20% OFF with code SCARY20.
+## Current deal: thePropTrade Black Friday: 30% Off Three Challenges
 
-## Most recent deal (ended): thePropTrade Halloween 20% Off All Programmes
-
-- Published: 2026-10-27
-- Offer ends: 2026-10-31 19:59 (ended)
-- Offer: 20% Off
-- Scope: any programme, any account size, first challenge, returning buyer, one code per order
-- Event: Halloween
-- Deal page: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/
+- Deal last verified: 2026-11-20
+- Deal ends: 2026-11-30 18:59
+- Discount: 30% Off
+- Discount code: BLACKTPT
+- Applied to: 1-Step Classic, 2-Steps Classic and Instant Zero, $5K to $100K
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/
 
 ## thePropTrade deal FAQ
 
-**What discount does thePropTrade offer in this promotion?**
+**Which challenges does the code cover?**
 
-The promotion gives 20% off any programme and any account size for Halloween week. Trading rules stay unchanged.
+Three at thePropTrade: the 1-Step Classic, the 2-Steps Classic and Instant Zero - at every account size from $5K to $100K, at 30% off.
 
-**When does the thePropTrade Halloween promotion end?**
+**What are the $5K entry prices?**
 
-It runs until 31 October, 23:59 UTC. One code applies per order.
+The 2-Steps Classic is $38.50 (from $55.00), the 1-Step Classic is $41.30 (from $59.00) and Instant Zero is $55.30 (from $79.00) - each exactly 30% off.
 
-**Which programmes and account sizes does the discount cover?**
+**When does the offer end?**
 
-It covers any programme and any account size. It applies to a first challenge or a fifth challenge.
+30 November 2026 at 23:59 UTC. One code applies per order.
 
-**What does the discount not change at thePropTrade?**
+**Does the sale change account rules?**
 
-It does not change trading rules, drawdown limits or evaluation criteria. It only reduces entry cost and does not reduce trading risk.
-
-**Does the promotion include a time limit or a reward share change?**
-
-There is no time limit, with one trade every 30 days keeping an account active. Reward share stays at 80% on every programme and static drawdown stays fixed to the starting balance on 1-Step and 2-Steps Classic programmes.
-
-**How does this Halloween offer compare with the recent 22% thePropTrade offer?**
-
-The recent 7 October offer cut 22% off all challenges. The current offer gives 20% off with broad scope across programmes and account sizes.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-27 - [thePropTrade Halloween 20% Off All Programmes](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) (20% Off) — Halloween — ended 2026-10-31 19:59
-- 2026-10-07 - [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) (22% Off) — ended 2026-10-25
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-20 | thePropTrade Black Friday: 30% Off Three Challenges | 30% Off | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
+| 2026-10-27 | thePropTrade Halloween 20% Off All Programmes | 20% Off | 2026-10-31 19:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/ |
+| 2026-10-07 | thePropTrade 22% Off All Challenges | 22% Off | 2026-10-25 (ended) | - | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/ |

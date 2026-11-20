@@ -4,14 +4,16 @@ Topstep was offering Only $65.
 
 > Topstep is offering special Halloween-themed $3K Challenge accounts for a one-time fee of $65 or $199. This deal removes subscriptions but keeps risk rules unchanged.
 
-- Published: 2026-10-15
-- Offer ends: Ended
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-15
+- Deal ends: Ended
 - Prop firm: Topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 - Summary: Topstep's Halloween promotion introduces one-time fee $3K Challenge accounts priced at $65 and $199. This pricing structure lowers upfront costs while leaving evaluation rules and trading risk strictly unchanged.
-- Offer: Only $65
-- Scope: 3K Challenge, Undead Account, Slasher Account, Halloween
-- Deal: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
+- Discount: Only $65
+- Applied to: 3K Challenge, Undead Account, Slasher Account, Halloween
+- Deal url: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
 
 Apply code TRANNGUYEN at checkout for up to 50% off any Topstep challenge account — verified to work any time with no expiration date.
 

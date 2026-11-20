@@ -1,18 +1,20 @@
 # FunderPro: 30% Off All Account Types, Black Friday
 
-FunderPro is offering 30% off — discount code **BF30**.
+FunderPro is offering 30% off.
 
 > FunderPro takes 30% off all account types for Black Friday, in a stated window of 16 to 22 November 2026.
 
-- Published: 2026-11-12
-- Offer ends: 2026-11-22
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-12
+- Deal ends: 2026-11-22
 - Prop firm: FunderPro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 - Summary: FunderPro has opened Black Friday early with 30% off all account types, in a stated purchase window running from 16 to 22 November 2026, its joint-highest rate of the season.
-- Offer: 30% Off
-- Code: BF30
-- Scope: All Account Types
-- Deal: https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/
+- Discount: 30% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Account Types
+- Deal url: https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

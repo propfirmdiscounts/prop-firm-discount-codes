@@ -4,15 +4,17 @@ Funded Hero is offering 60% off — discount code **PFD**.
 
 > Funded Hero cuts 60% off every challenge and the $100K Instant Elite, now $799.60 instead of $1,999. Only purchase pricing changes.
 
-- Published: 2026-11-04
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-04
+- Deal ends: Limited time
 - Prop firm: Funded Hero
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-hero/
 - Summary: Funded Hero cuts 60% off every challenge and the $100K Instant Elite, which drops to $799.60 from $1,999. Only the purchase price changes and trading rules and trading risk stay exactly as set.
-- Offer: 60% Off
-- Code: PFD
-- Scope: Instant Elite, $100K account, all challenges, instant accounts
-- Deal: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
+- Discount: 60% Off
+- Discount code: PFD
+- Applied to: Instant Elite, $100K account, all challenges, instant accounts
+- Deal url: https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

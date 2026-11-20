@@ -1,18 +1,20 @@
 # Fintokei Black Friday XP Boost: 20% Off + 100 XP
 
-Fintokei is offering 20% off — discount code **BLACKFRIDAY100XP**.
+Fintokei is offering 20% off.
 
 > Fintokei's Black Friday XP Boost takes 20% off and adds 100 XP in the Loyalty Program - XP that unlocks trading boosts and free challenges.
 
-- Published: 2026-11-12
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-12
+- Deal ends: Limited time
 - Prop firm: Fintokei
 - Firm page: https://propfirmdiscount.com/prop-firm/fintokei/
 - Summary: Fintokei's Black Friday XP Boost combines 20% off with 100 XP in its Loyalty Program, where XP earned for activity unlocks trading boosts and free challenges for traders.
-- Offer: 20% Off
-- Code: BLACKFRIDAY100XP
-- Scope: Challenges
-- Deal: https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/
+- Discount: 20% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Challenges
+- Deal url: https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

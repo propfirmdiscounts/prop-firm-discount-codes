@@ -4,15 +4,17 @@ Blue Guardian is offering 30% off — discount code **PFD**.
 
 > Blue Guardian takes 30% off every account this week with discount code PFD - Instant Funding from $50 and step challenges from $22.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: Blue Guardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - Summary: Blue Guardian takes 30% off every account this week with discount code PFD: Instant Funding starts from $50, 1-Step Standard from $28 and 2-Step Standard from $22 at the firm's listed prices.
-- Offer: 30% Off
-- Code: PFD
-- Scope: Every Account
-- Deal: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/
+- Discount: 30% Off
+- Discount code: PFD
+- Applied to: Every Account
+- Deal url: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

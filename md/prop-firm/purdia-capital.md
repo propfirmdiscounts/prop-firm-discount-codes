@@ -1,23 +1,25 @@
 # Purdia Capital Discount Code
 
-No live discount code for Purdia Capital right now — newest deals and offers are below.
+Purdia Capital currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on Purdia Capital challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 > Purdia Capital is an online proprietary futures trading firm, offering funding, support, trader education, and resources to futures traders. We support day trading a wide range of futures products. Purdia Capital is a leading proprietary futures trading firm that stands out by prioritizing individual trader growth and success. Unlike traditional online funding firms, Purdia Capital is committed to fostering a close partnership with each trader, offering personalized 1:1 risk management and coaching sessions. The firm caters to both newcomers in the futures trading world and more experienced traders, guiding them through the complexities of the markets with confidence and skill.
 
-- Last deal published: 2026-10-12
-- Trustpilot: 3.4/5 (93 reviews)
-- Activate: https://propfirmdiscount.com/go/purdia
+- Deal last verified: 2026-10-12
+- Trustpilot score: 3.4/5 (93 reviews)
+- Official web: purdia.com
+- Email: info@purdia.com
+- Address: 651 N Broad Street Suite 201, Middletown, 19709, United States
+- Market type: Futures
+- Active deal url: https://propfirmdiscount.com/go/purdia
 - Firm page: https://propfirmdiscount.com/prop-firm/purdia-capital/
-
-As of 2026-11-20, the biggest Purdia Capital offers this month: 70% OFF with code STATIC70.
 
 ## Most recent deal (ended): Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices
 
-- Published: 2026-10-12
-- Offer ends: 2026-10-14 (ended)
-- Offer: 70% Off
-- Scope: 50K, 100K, Static Instant Funding
-- Deal page: https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/
+- Deal last verified: 2026-10-12
+- Deal ends: 2026-10-14 (ended)
+- Discount: 70% Off
+- Applied to: 50K, 100K, Static Instant Funding
+- Deal url: https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/
 
 ## Purdia Capital deal FAQ
 
@@ -43,4 +45,8 @@ No, the 70% discount applies exclusively to the 50K and 100K Static Instant Fund
 
 ## Deals (last 2 months, newest first)
 
-- 2026-10-12 - [Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices](https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/) (70% Off) — ended 2026-10-14
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-10-12 | Purdia Capital 70% Off 50K & 100K Static Instant Funding Prices | 70% Off | 2026-10-14 (ended) | - | - | https://propfirmdiscount.com/deals/purdia-capital/purdia-capital-70-off-static-instant-funding/ |

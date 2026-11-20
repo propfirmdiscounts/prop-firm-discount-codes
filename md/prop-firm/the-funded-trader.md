@@ -1,19 +1,27 @@
 # The Funded Trader Program (TFT) Discount Code
 
-No live discount code for The Funded Trader Program (TFT) right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/the-funded-trader/
+The Funded Trader Program (TFT) currently lists 1 deal with a discount code. Compare available promotions below to find the latest savings on The Funded Trader Program (TFT) challenge accounts, checked April 2023 by the PropFirmDiscount team.
 
-- Last deal published: 2023-04-10
-- Trustpilot: 2.9/5 (21909 reviews)
-- Activate: https://propfirmdiscount.com/go/thefundedtraderprogram
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> The Funded Trader Program (TFT) halted operations in March 2024 and remains shut down.
+
+- Deal last verified: 2023-04-10
+- Trustpilot score: 2.9/5 (21909 reviews)
+- Official web: thefundedtraderprogram.com
+- Email: support@thefundedtraderprogram.com
+- Address: United States
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/thefundedtraderprogram
 - Firm page: https://propfirmdiscount.com/prop-firm/the-funded-trader/
 
 ## Most recent deal (ended): Coupon -10% for The Funded Trader Program (TFT)
 
-- Published: 2023-04-10
-- Offer ends: Ended
-- Offer: 10% Off
-- Scope: flexible challenge programs
-- Deal page: https://propfirmdiscount.com/deals/the-funded-trader/coupon-5-for-the-funded-trader-program/
+- Deal last verified: 2023-04-10
+- Deal ends: Ended
+- Discount: 10% Off
+- Applied to: flexible challenge programs
+- Deal url: https://propfirmdiscount.com/deals/the-funded-trader/coupon-5-for-the-funded-trader-program/
 
 ## Deals (last 2 months, newest first)
 

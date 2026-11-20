@@ -4,14 +4,16 @@ Finotive Funding is offering Prize Draw.
 
 > Finotive Funding's launch week draw: every $50 spent earns an entry to win one of 5 PS5s with GTA VI or 10 game codes. Entries close 23 November.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-23 13:00
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-23 13:00
 - Prop firm: Finotive Funding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - Summary: Finotive Funding's launch week draw turns account spend into entries: one entry per full $50, doubled when shared on X. Fifteen prizes include five PS5s with GTA VI.
-- Offer: Prize Draw
-- Scope: Finotive Funding Accounts (Challenge, Instant or Pro)
-- Deal: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/
+- Discount: Prize Draw
+- Applied to: Finotive Funding Accounts (Challenge, Instant or Pro)
+- Deal url: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/
 
 Apply code PFDC at checkout for up to 25% off any Finotive Funding challenge account — verified to work any time with no expiration date.
 

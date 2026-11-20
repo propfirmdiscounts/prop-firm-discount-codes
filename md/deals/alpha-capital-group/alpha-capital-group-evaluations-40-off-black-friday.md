@@ -1,18 +1,20 @@
 # Alpha Capital Group: 40% Off All Evaluations
 
-Alpha Capital Group is offering 40% off — discount code **BF40**.
+Alpha Capital Group is offering 40% off.
 
 > Alpha Capital Group takes 40% off all evaluations for Black Friday early access. Direct accounts are excluded - they carry a separate BOGO offer.
 
-- Published: 2026-11-19
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: Limited time
 - Prop firm: Alpha Capital Group
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-capital-group/
 - Summary: Alpha Capital Group offers 40% off all evaluations for Black Friday early access. The rate matches its Diwali headline, this time scoped to evaluations only, Direct excluded.
-- Offer: 40% Off
-- Code: BF40
-- Scope: All Evaluations (excludes Direct)
-- Deal: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/
+- Discount: 40% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Evaluations (excludes Direct)
+- Deal url: https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

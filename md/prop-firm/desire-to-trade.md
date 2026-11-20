@@ -1,9 +1,11 @@
 # Desire to Trade Discount Code
 
-Desire to Trade has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live. Check back soon, and watch the firm page for the latest: https://propfirmdiscount.com/prop-firm/desire-to-trade/
+Desire to Trade has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
-- Last deal published: none yet
-- Activate: https://propfirmdiscount.com/go/desiretotrade
+- Deal last verified: none yet
+- Official web: desiretotrade.com
+- Market type: Chưa rõ
+- Active deal url: https://propfirmdiscount.com/go/desiretotrade
 - Firm page: https://propfirmdiscount.com/prop-firm/desire-to-trade/
 
 ## Deals (last 2 months, newest first)

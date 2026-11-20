@@ -1,18 +1,20 @@
 # Tradexprop Black Friday: 25% Off Instant Funding
 
-Tradexprop is offering 25% off — discount code **BF25**.
+Tradexprop is offering 25% off.
 
 > Tradexprop's Black Friday sale takes 25% off Instant Funding Plans until 30 November 2026 - up from the 20% instant rate offered at Halloween.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-30 18:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-30 18:59
 - Prop firm: Tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
 - Summary: Tradexprop's Black Friday sale cuts 25% off Instant Funding Plans until 30 November 2026, for traders who start without an evaluation phase. The rate improves on Halloween's 20% and matches the firm's September instant price.
-- Offer: 25% Off
-- Code: BF25
-- Scope: Instant Funding Plans
-- Deal: https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/
+- Discount: 25% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Instant Funding Plans
+- Deal url: https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

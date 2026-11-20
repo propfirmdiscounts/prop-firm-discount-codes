@@ -1,25 +1,27 @@
 # Tradexprop Discount Code
 
-The newest Tradexprop discount code is **BF25** — 25% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
+Tradexprop currently lists 20 deals with discount codes. Compare available promotions below to find the latest savings on Tradexprop challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
-- Last deal published: 2026-11-17
-- Trustpilot: 3.9/5 (44 reviews)
-- Activate: https://propfirmdiscount.com/go/tradexprop
+- Deal last verified: 2026-11-17
+- Trustpilot score: 3.9/5 (44 reviews)
+- Official web: tradexprop.com
+- Email: support@tradexprop.com
+- Address: Sublot 40, Level 3, Block A2, Saradise Kuching, Off Jalan Stutong, Kuching, 93350, Malaysia
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/tradexprop
 - Firm page: https://propfirmdiscount.com/prop-firm/tradexprop/
-
-As of 2026-11-20, the biggest Tradexprop offers this month: 40% OFF with code BF40, 40% OFF with code SPOOK40, 25% OFF with code BF25, and 20% OFF with code SPOOK20.
 
 ## Current deal: Tradexprop Black Friday: 25% Off Instant Funding
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-30 18:59
-- Offer: 25% Off
-- Code: BF25
-- Scope: Instant Funding Plans
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-30 18:59
+- Discount: 25% Off
+- Discount code: BF25
+- Applied to: Instant Funding Plans
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/
+- Deal url: https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/
 
 ## Tradexprop deal FAQ
 
@@ -45,7 +47,11 @@ The firm's plan type for traders who start without an evaluation phase, per the 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [Tradexprop Black Friday: 25% Off Instant Funding](https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/) (25% Off) — Black Friday
-- 2026-11-16 - [Tradexprop Black Friday: 40% Off Evaluations](https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/) (40% Off) — Black Friday
-- 2026-10-09 - [Tradexprop Halloween Promo: 20% Off Instant Funding](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/) (20% Off) — Halloween — ended 2026-10-25
-- 2026-10-09 - [Tradexprop Halloween Sale: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/) (40% Off) — Halloween — ended 2026-10-25
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | Tradexprop Black Friday: 25% Off Instant Funding | 25% Off | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
+| 2026-11-16 | Tradexprop Black Friday: 40% Off Evaluations | 40% Off | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/ |
+| 2026-10-09 | Tradexprop Halloween Promo: 20% Off Instant Funding | 20% Off | 2026-10-25 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/ |
+| 2026-10-09 | Tradexprop Halloween Sale: 40% Off Evaluation Accounts | 40% Off | 2026-10-25 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/ |

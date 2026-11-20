@@ -1,18 +1,20 @@
 # TradeDay: 60% Off Every Account, No Subscription
 
-TradeDay is offering 60% off — discount code **SALE60**.
+TradeDay is offering 60% off.
 
 > TradeDay takes 60% off every account as it drops subscriptions: the $50K QuickPay is $49, one payment per account, no monthly charges.
 
-- Published: 2026-11-12
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-12
+- Deal ends: Limited time
 - Prop firm: TradeDay
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeday/
 - Summary: TradeDay has dropped subscriptions for one payment per account and takes 60% off every account, with the $50K QuickPay account priced at $49 and day-one payouts.
-- Offer: 60% Off
-- Code: SALE60
-- Scope: All Accounts
-- Deal: https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/
+- Discount: 60% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Accounts
+- Deal url: https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-every-account-no-subscription/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

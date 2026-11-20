@@ -1,24 +1,26 @@
 # Top One Trader Discount Code
 
-No live discount code for Top One Trader right now — newest deals and offers are below.
+Top One Trader currently lists 15 deals with discount codes. Compare available promotions below to find the latest savings on Top One Trader challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
-- Last deal published: 2026-11-17
-- Trustpilot: 4.4/5 (3500 reviews)
-- Activate: https://propfirmdiscount.com/go/toponetrader
+- Deal last verified: 2026-11-17
+- Trustpilot score: 4.4/5 (3500 reviews)
+- Official web: toponetrader.com
+- Email: Admin@toponetrader.com
+- Address: 30 North Gould Street Ste R, Sheridan, 82801, United States
+- Market type: Forex/CFD
+- Active deal url: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
-
-As of 2026-11-20, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 65% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
 
 ## Current deal: Top One Trader Super Nova: Nova Entry for $1
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-24
-- Offer: $1 Entry
-- Scope: Nova Challenge Accounts
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-24
+- Discount: $1 Entry
+- Applied to: Nova Challenge Accounts
 - Event: Black Friday
-- Deal page: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/
+- Deal url: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/
 
 ## Top One Trader deal FAQ
 
@@ -48,9 +50,13 @@ The Nova entry is $1 against a normal $7 - a $6 saving on the entry fee, before 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [Top One Trader Super Nova: Nova Entry for $1](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/) ($1 Entry) — Black Friday
-- 2026-11-16 - [Top One Trader Black Friday: Up to 65% Off](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/) (65% Off) — Black Friday
-- 2026-11-01 - [Top One Trader Black November Up to 80% Off Instant Funded](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/) (80% Off) — Black Friday
-- 2026-10-28 - [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) (70% Off) — Halloween — ended 2026-10-31
-- 2026-10-07 - [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) (50% Off)
-- 2026-10-01 - [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) (40% Off)
+How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+
+| Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
+|---|---|---|---|---|---|---|
+| 2026-11-17 | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
+| 2026-11-16 | Top One Trader Black Friday: Up to 65% Off | 65% Off | Limited time | Black Friday | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
+| 2026-11-01 | Top One Trader Black November Up to 80% Off Instant Funded | 80% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |
+| 2026-10-28 | Top One Trader Halloween Up to 70% Off Sitewide | 70% Off | 2026-10-31 (ended) | Halloween | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/ |
+| 2026-10-07 | Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500) | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/ |
+| 2026-10-01 | Top One Trader 40% Off $500K-$1M Instant Funding Launch | 40% Off | Ended | - | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/ |

@@ -4,14 +4,16 @@ RebelsFunding was offering 72% off.
 
 > RebelsFunding takes 72% off its $5,000 Diamond program - €49 instead of €173 - until Thursday 19 November 2026 or until 500 accounts are sold.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-19 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-19 (ended)
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: RebelsFunding takes 72% off the $5,000 Diamond program, at €49 instead of €173, until Thursday 19 November 2026 or 500 sold accounts. The program scales to $132,000 with no daily drawdown.
-- Offer: 72% Off
-- Scope: Diamond Program $5,000
-- Deal: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/
+- Discount: 72% Off
+- Applied to: Diamond Program $5,000
+- Deal url: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

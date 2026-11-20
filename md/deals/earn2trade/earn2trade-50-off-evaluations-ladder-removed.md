@@ -4,15 +4,17 @@ Earn2Trade is offering 50% off — discount code **PFD**.
 
 > Earn2Trade takes 50% off all evaluations for the first 60 days as the Progression Ladder ends, with TCP25, TCP50 and GAU50 resets also discounted.
 
-- Published: 2026-11-02
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-02
+- Deal ends: Limited time
 - Prop firm: Earn2Trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - Summary: Earn2Trade is taking 50% off all evaluations for the first 60 days of the subscription to mark the end of the Progression Ladder, with discounted resets on select plans too.
-- Offer: 50% Off
-- Code: PFD
-- Scope: All Evaluations
-- Deal: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
+- Discount: 50% Off
+- Discount code: PFD
+- Applied to: All Evaluations
+- Deal url: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

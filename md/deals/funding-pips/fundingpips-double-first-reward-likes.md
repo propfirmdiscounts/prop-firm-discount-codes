@@ -4,14 +4,16 @@ FundingPips was offering Double First Reward.
 
 > FundingPips will double the first reward on eligible accounts bought by 19 November 2026 with its eligibility code - if the 100K likes target is hit.
 
-- Published: 2026-11-18
-- Offer ends: 2026-11-19 15:00 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-18
+- Deal ends: 2026-11-19 15:00 (ended)
 - Prop firm: FundingPips
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-pips/
 - Summary: FundingPips offers to double the first reward on eligible accounts purchased by 19 November 2026, midnight Dubai time, if its Instagram Reel reaches 100,000 likes in 24 hours.
-- Offer: Double First Reward
-- Scope: Eligible Accounts
-- Deal: https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/
+- Discount: Double First Reward
+- Applied to: Eligible Accounts
+- Deal url: https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

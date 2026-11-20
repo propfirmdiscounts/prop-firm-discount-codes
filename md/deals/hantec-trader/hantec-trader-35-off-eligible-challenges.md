@@ -4,14 +4,16 @@ Hantec Trader was offering 35% off.
 
 > Get a 35% discount on eligible Hantec Trader evaluation accounts during this 48-hour community event. Valid from 14 October to 16 October 2026. Excludes Instant24 and EnhancedX models.
 
-- Published: 2026-10-14
-- Offer ends: 2026-10-16 (ended)
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-10-14
+- Deal ends: 2026-10-16 (ended)
 - Prop firm: Hantec Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/hantec-trader/
 - Summary: A 48-hour 35% price reduction on standard evaluation accounts. Does not change trading rules. Valid until 16 October. Excludes Instant24 and EnhancedX models.
-- Offer: 35% Off
-- Scope: All eligible challenges, Excludes Instant24, Excludes EnhancedX
-- Deal: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
+- Discount: 35% Off
+- Applied to: All eligible challenges, Excludes Instant24, Excludes EnhancedX
+- Deal url: https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-eligible-challenges/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

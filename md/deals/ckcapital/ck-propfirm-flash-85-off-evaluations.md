@@ -1,18 +1,20 @@
 # CK PropFirm Flash Sale: 85% Off All Evaluations
 
-CK PropFirm is offering 85% off — discount code **CK85**.
+CK PropFirm is offering 85% off.
 
 > CK PropFirm's flash promotion takes 85% off all evaluation challenges, with 48-hour guaranteed payouts, an 80% profit split and payouts on demand.
 
-- Published: 2026-11-16
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-16
+- Deal ends: Limited time
 - Prop firm: CK PropFirm
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
 - Summary: CK PropFirm is running a flash promotion at 85% off all evaluation challenges. The listing pairs the cut with 48-hour guaranteed payouts, an 80% profit split and payouts on demand, for a limited time.
-- Offer: 85% Off
-- Code: CK85
-- Scope: All Evaluation Challenges
-- Deal: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/
+- Discount: 85% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: All Evaluation Challenges
+- Deal url: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

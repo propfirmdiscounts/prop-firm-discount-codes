@@ -1,18 +1,20 @@
 # The Concept Trading Black Friday: 45% Off + Free Retry
 
-The Concept Trading is offering 45% off — discount code **BFCM26**.
+The Concept Trading is offering 45% off.
 
 > The Concept Trading's early Black Friday offer: 45% off eligible programs plus a free retry on Intern accounts, ending 30 November at 11:59 PM AEST.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-30 08:59
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-30 08:59
 - Prop firm: The Concept Trading
 - Firm page: https://propfirmdiscount.com/prop-firm/the-concept-trading/
 - Summary: The Concept Trading opens Black Friday early: 45% off eligible programs, excluding Starter Models, plus a free retry on Intern accounts if you fail at the Intern stage.
-- Offer: 45% Off
-- Code: BFCM26
-- Scope: Eligible Programs (excl. Starter Models)
-- Deal: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/
+- Discount: 45% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: Eligible Programs (excl. Starter Models)
+- Deal url: https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

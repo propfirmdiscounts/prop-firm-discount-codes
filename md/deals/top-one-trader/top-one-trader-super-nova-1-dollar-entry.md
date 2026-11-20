@@ -4,14 +4,16 @@ Top One Trader is offering $1 Entry.
 
 > Top One Trader's Super Nova: start any Nova account for $1 (normally $7) for one week, with activation fees halved and the profit target cut to 3%.
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-24
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-17
+- Deal ends: 2026-11-24
 - Prop firm: Top One Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 - Summary: Top One Trader's Super Nova starts any Nova account for $1, normally $7, for one week only. Activation fees are halved after passing. The profit target drops to 3%.
-- Offer: $1 Entry
-- Scope: Nova Challenge Accounts
-- Deal: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/
+- Discount: $1 Entry
+- Applied to: Nova Challenge Accounts
+- Deal url: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

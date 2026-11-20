@@ -1,18 +1,20 @@
 # Crypto Fund Trader: 25% Off New 1-Phase Challenge
 
-Crypto Fund Trader is offering 25% off — discount code **ONE**.
+Crypto Fund Trader is offering 25% off.
 
 > Crypto Fund Trader launches its new 1-Phase challenge with 25% off all three versions - static drawdown, simpler rules and faster payouts.
 
-- Published: 2026-11-14
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-14
+- Deal ends: Limited time
 - Prop firm: Crypto Fund Trader
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - Summary: Crypto Fund Trader has launched its new 1-Phase challenge with static drawdown, simpler rules and faster payouts - and all three versions are 25% off.
-- Offer: 25% Off
-- Code: ONE
-- Scope: 1-Phase Challenges
-- Deal: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
+- Discount: 25% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: 1-Phase Challenges
+- Deal url: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
 
 Apply code platinum5 at checkout for up to 5% off any Crypto Fund Trader challenge account — verified to work any time with no expiration date.
 

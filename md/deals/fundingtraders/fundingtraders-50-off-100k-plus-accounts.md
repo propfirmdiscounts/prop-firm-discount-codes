@@ -4,15 +4,17 @@ FundingTraders is offering 50% off — discount code **PFD**.
 
 > FundingTraders takes 50% off $100K+ accounts with discount code PFD - plus an instant free matching account and a GTA VI draw entry.
 
-- Published: 2026-11-19
-- Offer ends: 2026-11-23 09:00
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-19
+- Deal ends: 2026-11-23 09:00
 - Prop firm: FundingTraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Summary: FundingTraders offers 50% off $100K+ accounts with discount code PFD, an instant free matching account and entry into a draw for 30 copies of GTA VI Ultimate Edition.
-- Offer: 50% Off
-- Code: PFD
-- Scope: $100K+ Accounts
-- Deal: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/
+- Discount: 50% Off
+- Discount code: PFD
+- Applied to: $100K+ Accounts
+- Deal url: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

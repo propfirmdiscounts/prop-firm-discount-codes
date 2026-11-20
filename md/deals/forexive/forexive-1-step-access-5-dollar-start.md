@@ -4,14 +4,16 @@ Forexive is offering $5.
 
 > Forexive 1-Step Access starts at $5 on every size from 5K to 200K, with the rest paid after passing. The 3% target and drawdown terms stay set.
 
-- Published: 2026-11-06
-- Offer ends: Limited time
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-06
+- Deal ends: Limited time
 - Prop firm: Forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - Summary: Forexive 1-Step Access starts at $5 on every account size from 5K to 200K, with the remaining fee paid after passing. The stated target and drawdown terms stay unchanged and no end date is stated.
-- Offer: $5
-- Scope: 1-Step Access accounts, 5K to 200K
-- Deal: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
+- Discount: $5
+- Applied to: 1-Step Access accounts, 5K to 200K
+- Deal url: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
 
 Apply code WHCTXQHRIG at checkout for up to 30% off any Forexive challenge account — verified to work any time with no expiration date.
 

@@ -1,18 +1,20 @@
 # We Get Funded Black Friday: 4 Challenges, One Purchase
 
-We Get Funded is offering 20% off — discount code **BLACK4**.
+We Get Funded is offering 20% off.
 
 > We Get Funded's Black Friday bundle: buy one challenge at 20% off, get three identical free - 4 challenges, one purchase, through 30 November 2026.
 
-- Published: 2026-11-14
-- Offer ends: 2026-11-30
+Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
+
+- Deal last verified: 2026-11-14
+- Deal ends: 2026-11-30
 - Prop firm: We Get Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/we-get-funded/
 - Summary: We Get Funded is bundling its challenges for Black Friday: buy one at 20% off and get three identical challenges free, through 30 November 2026.
-- Offer: 20% Off
-- Code: BLACK4
-- Scope: 1 Step Challenges (50K, 100K, 200K), 2 Steps Challenges (25K, 50K, 100K, 200K)
-- Deal: https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/
+- Discount: 20% Off
+- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Applied to: 1 Step Challenges (50K, 100K, 200K), 2 Steps Challenges (25K, 50K, 100K, 200K)
+- Deal url: https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-black-friday-buy-1-get-3-free/
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
