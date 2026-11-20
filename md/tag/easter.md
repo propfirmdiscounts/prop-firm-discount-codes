@@ -1,5 +1,7 @@
 # Easter - Prop Firm Discount Codes & Deals 2026
 
+Celebrate Easter with exclusive prop firm discounts, reduced evaluation fees, and limited-time trading deals. Discover festive offers and maximize your savings during this seasonal promotion.
+
 As of 2026-04-06, the biggest offers: 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code EGG70 at CK PropFirm, 60% OFF with code EASTER at AquaFutures, 50% OFF with code EASTER at Funding Your Trades, and 45% OFF with code EASTER at AquaFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

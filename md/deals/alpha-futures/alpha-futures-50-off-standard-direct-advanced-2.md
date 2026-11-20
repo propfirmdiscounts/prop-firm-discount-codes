@@ -14,8 +14,6 @@ Alpha Futures is offering 50% off — discount code **ALPHA50**.
 - Scope: Standard, Direct and Advanced plans
 - Deal: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/
 
-Apply code Tran009503 at checkout for up to 15% off any Alpha Futures challenge account — verified to work any time with no expiration date.
-
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Frequently Asked Questions

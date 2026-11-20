@@ -13,7 +13,7 @@ The verified SabioTrade discount code is **PFD** — Up to 30% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-19, the biggest SabioTrade offers this month: 25% OFF with code BOO25.
+As of 2026-11-20, the biggest SabioTrade offers this month: 25% OFF with code BOO25.
 
 ## Most recent deal (ended): SabioTrade GTA VI Giveaway: 10 Copies, Free Entry
 

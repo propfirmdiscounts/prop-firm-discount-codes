@@ -1,5 +1,7 @@
 # Diwali - Prop Firm Discount Codes & Deals 2026
 
+Celebrate Diwali with exclusive deals, festive discounts, and limited-time promotions. Discover special offers and seasonal savings during the festival of lights. Dates may vary each year.
+
 As of 2026-11-06, the biggest offers this month: 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code DIWALI at QT Funded, 55% OFF with code DIWALI at FundedSquad, and 50% OFF with code DIWALI50 at Sure Leverage Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

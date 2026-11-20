@@ -1,5 +1,7 @@
 # Eid Al‑Fitr - Prop Firm Discount Codes & Deals 2026
 
+Eid prop firm discounts: 20 codes from 14 firms published for Eid al-Fitr and Eid al-Adha, by brands running Ramadan and Gulf-market campaigns. Each offer names the exact product and step it applies to.
+
 As of 2026-03-20, the biggest offers: 70% OFF with code EID70 at CK PropFirm, 65% OFF with code PFD at Funded Hero, 65% OFF with code PFD at Funded Hero, 35% OFF with code EID35 at AudaCity Capital, and 33% OFF with code EID at PipFarm.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -26,3 +28,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-18 | AudaCity Capital | AudaCity Capital 25% Off All Programs Entry Fee | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-25-off-all-programs/ |
 | 2026-03-18 | FundedSquad | FundedSquad 45% Off Instant Models and Buy 1 Get 2 Free Offer | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-instant-models-eid/ |
 | 2026-03-18 | FundingPips | FundingPips 20% Off Evaluation Accounts (Excludes 100k) | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-eid-promotion/ |
+
+## About this archive
+
+Eid offers close out the [Ramadan](/category/prop-firm-seasonal-deals/ramadan-deals/) campaign window. Because the Islamic calendar is lunar, these codes do not fall in the same Gregorian month two years running, so a firm's Eid history may look absent from last year's archive when it simply moved. Firm-by-firm ratings sit in the [prop firm reviews directory](/prop-firm-reviews/).
+

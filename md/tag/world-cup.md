@@ -1,5 +1,7 @@
 # World Cup - Prop Firm Discount Codes & Deals 2026
 
+World Cup prop firm promotions: 34 discount codes and challenge offers from 21 funded-trading firms, timed to the football tournament rather than the trading calendar — when several firms price-cut instead of running their usual evergreen coupon.
+
 As of 2026-07-20, the biggest offers: 60% OFF with code MUNDIAL60 at WSFunded, 50% OFF with code PFD at FundingTraders, 50% OFF with code PFD at FundingTraders, 50% OFF with code SPAIN at WSFunded, and 50% OFF with code WORLDCUP50 at Goat Funded Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -36,3 +38,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-06-10 | Bullwaves Prime | Bullwaves Prime 20% Off 5K, 10K, 25K and 50K Trading Challenges Lowers Upfront Entry Cost | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-june-world-cup/ |
 | 2026-06-10 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Accounts World Cup Promotion with code PFD | Buy 1 Get 3 | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-world-cup-2/ |
 | 2026-06-10 | FundingTraders | FundingTraders Buy 1 Get 3 Evaluation Accounts World Cup Promotion with code PFD | Buy 1 Get 3 | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-world-cup/ |
+
+## About this archive
+
+Tournament-year promos are the least predictable of all seasonal offers: they follow the football calendar, and firms that run one usually do not repeat it every cycle. For a discount that does not depend on a tournament, use [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/); to compare the firms in this tag before buying, check ratings in the [reviews directory](/prop-firm-reviews/). The full holiday index is under [Seasonal Deals](/category/prop-firm-seasonal-deals/).
+

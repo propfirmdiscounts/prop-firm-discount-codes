@@ -1,6 +1,6 @@
 # RebelsFunding Discount Code
 
-The newest RebelsFunding discount code is **INSTANT72** — 72% off (November 17, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for RebelsFunding right now — newest deals and offers are below.
 
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 
@@ -9,14 +9,13 @@ The newest RebelsFunding discount code is **INSTANT72** — 72% off (November 17
 - Activate: https://propfirmdiscount.com/go/rebelsfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 
-As of 2026-11-19, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
+As of 2026-11-20, the biggest RebelsFunding offers this month: 76% OFF with code 5KFOR9, 73% OFF with code SEVEN, 72% OFF with code INSTANT72, 72% OFF with code 1STEP19, and 70% OFF with code FORTHREE.
 
-## Current deal: RebelsFunding Diamond: 72% Off the $5,000 Program
+## Most recent deal (ended): RebelsFunding Diamond: 72% Off the $5,000 Program
 
 - Published: 2026-11-17
-- Offer ends: 2026-11-19
+- Offer ends: 2026-11-19 (ended)
 - Offer: 72% Off
-- Code: INSTANT72
 - Scope: Diamond Program $5,000
 - Deal page: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/
 
@@ -48,7 +47,7 @@ No. The offer reduces the entry cost of the program; it does not change trading 
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-17 - [RebelsFunding Diamond: 72% Off the $5,000 Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/) (72% Off)
+- 2026-11-17 - [RebelsFunding Diamond: 72% Off the $5,000 Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/) (72% Off) — ended 2026-11-19
 - 2026-11-10 - [RebelsFunding: $5,000 Program for €9 – 76% Off](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/) (76% Off) — ended 2026-11-12
 - 2026-11-03 - [RebelsFunding 72% Off $5,000 1-Step Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/) (72% Off) — ended 2026-11-05
 - 2026-10-27 - [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) (70% Off) — ended 2026-10-29

@@ -1,5 +1,7 @@
 # Christmas Prop Firm Deals & Holiday Promo Codes Prop Firm Deals (2026)
 
+Christmas and end-of-year prop firm sales: 141 coupon codes on challenges, evaluations and resets from 65 firms, including the January-push promos firms launch to catch traders starting the new year.
+
 As of 2026-01-05, the biggest offers: 85% OFF with code BOGO85 at Upcomers, 75% OFF at City Traders Imperium (CTI), 50% OFF with code XMAS at Atlas Funded, 50% OFF with code EOY5050 at QT Funded, and 50% OFF with code XMAS50 at Hantec Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -147,3 +149,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2023-12-21 | AquaFunded | AquaFunded Christmas Sale: 20% OFF + 125% Refund Deal | 20% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-christmas-sale-20-off-refund/ |
 | 2023-12-21 | Alpha Capital Group | Alpha Capital Group Christmas Offer: 40% Off All Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-christmas-40-off/ |
 | 2023-12-09 | Alpha Capital Group | Alpha Capital Group Christmas Sale: 20% Off All Pro Evaluations | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-christmas-sale-20-off-pro-evaluations/ |
+
+## About this archive
+
+December is thin trading and firms know it, so end-of-year codes tend to stay up longer than Black Friday ones. If you missed November, the [Black Friday archive](/category/prop-firm-seasonal-deals/black-friday/) shows what each firm has already cut this year, and [New Year sale](/category/prop-firm-seasonal-deals/new-year-sale/) picks up in January. Round-ups covering the whole holiday stretch live in [Seasonal and Holiday Roundups](/category/seasonal-holiday-prop-firm-coupon-codes-roundups/).
+

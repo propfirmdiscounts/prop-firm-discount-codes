@@ -1,8 +1,8 @@
-# Festive Prop Firm Coupon Codes & Discounts - Roundup Prop Firm Deals (2026)
+# Festive Prop Firm Coupon Codes & Discounts - Roundup Articles (2026)
 
-How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+A verified roundup of festive prop firm coupon codes and discounts—organized by brand, updated fast, and ready to apply at checkout.
 
-| Published | Firm | Deal | Discount | Ends | Code | Link |
-|---|---|---|---|---|---|---|
-| 2026-11-07 |  | Diwali 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup |  | Limited time | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2026-prop-firm-coupon-codes/ |
-| 2025-10-22 |  | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |
+| Published | Article | Link |
+|---|---|---|
+| 2026-11-07 | Diwali 2026 Prop Firm Coupon Codes & Discounts – Deals Roundup | https://propfirmdiscount.com/holiday-roundups/diwali-2026-prop-firm-coupon-codes/ |
+| 2025-10-22 | Diwali 2025 Prop Firm Discount Codes & Deals — Roundup | https://propfirmdiscount.com/holiday-roundups/diwali-2025-prop-firm-discount-codes-deals-roundup/ |

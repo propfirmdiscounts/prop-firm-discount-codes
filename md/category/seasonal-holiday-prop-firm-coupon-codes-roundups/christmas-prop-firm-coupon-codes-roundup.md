@@ -1,7 +1,7 @@
-# Christmas Prop Firm Coupon Codes & Discounts - Roundup Prop Firm Deals (2026)
+# Christmas Prop Firm Coupon Codes & Discounts - Roundup Articles (2026)
 
-How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+The definitive Christmas roundup of verified prop firm coupon codes and discounts—brand-organized and frequently updated for quick savings at checkout.
 
-| Published | Firm | Deal | Discount | Ends | Code | Link |
-|---|---|---|---|---|---|---|
-| 2025-12-04 |  | Christmas 2025 Prop Firm Coupon Codes & Deals – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/christmas-2025-prop-firm-coupon-codes-deals-roundup/ |
+| Published | Article | Link |
+|---|---|---|
+| 2025-12-04 | Christmas 2025 Prop Firm Coupon Codes & Deals – Roundup | https://propfirmdiscount.com/holiday-roundups/christmas-2025-prop-firm-coupon-codes-deals-roundup/ |

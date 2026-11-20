@@ -1,5 +1,7 @@
 # Memorial Day - Prop Firm Discount Codes & Deals 2026
 
+Memorial Day prop firm deals: the US long-weekend promos that open the summer sale season — 12 challenge and evaluation codes from 12 firms, checked against live checkout pages before listing.
+
 As of 2026-05-25, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code ME60 at Alpha Funded, 55% OFF with code PFD at Funded Hero, and 50% OFF with code MEMORIAL50 at Plutus Trade Base.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -18,3 +20,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-05-22 | ThinkCapital | ThinkCapital 15% Off Bolt Instant Funding Purchase Cost | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-bolt-instant-funding-discount/ |
 | 2026-05-21 | AquaFunded | AquaFunded 45% Off Challenge Pricing and 150% Refund Promotion | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-45-off-150-refund-promotion/ |
 | 2026-05-21 | Traders Launch | Traders Launch: 25% Off All Accounts With Entry Fees From $59.25 | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-memorial-day/ |
+
+## About this archive
+
+This tag opens the US summer sequence that ends at [Independence Day](/tag/independence-day/) - and, unlike the November sales, these codes tend to stay live through the long weekend rather than a single day. If the date is not what you were after, [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/) lists every firm's always-on discount.
+

@@ -9,7 +9,7 @@ No live discount code for My Funded Futures right now — newest deals and offer
 - Activate: https://propfirmdiscount.com/go/myfundedfutures
 - Firm page: https://propfirmdiscount.com/prop-firm/my-funded-futures/
 
-As of 2026-11-19, the biggest My Funded Futures offers this month: 40% OFF with code FLASH.
+As of 2026-11-20, the biggest My Funded Futures offers this month: 40% OFF with code FLASH.
 
 ## Most recent deal (ended): My Funded Futures Flash Sale: Up to 40% Off
 

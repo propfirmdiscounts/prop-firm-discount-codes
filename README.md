@@ -16,18 +16,18 @@ Explore the highest recorded discount rates across tracked proprietary trading f
 
 ## Prop Firms with the Highest Exclusive Discount Codes
 
-| # | Prop firm | Exclusive code | Discount | Offer ends | Firm page |
-|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 85% | No expiry | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | Funded Hero | PFD | 60% | No expiry | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | E8 Markets | CHUN | 50% | No expiry | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 4 | AquaFunded | PFD | 35% | No expiry | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 5 | Blue Guardian | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 6 | SabioTrade | PFD | 30% | No expiry | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
-| 7 | TX3 Funding | PFD1 | 25% | No expiry | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 8 | Funded Trading Plus | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 9 | FundedNext | PFDC | 20% | No expiry | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 10 | Instant Funding | PFD | 20% | No expiry | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| # | Prop firm | Exclusive code | Discount | Offer ends | Market type | Firm page |
+|---|---|---|---|---|---|---|---|
+| 1 | Phidias Propfirm | PFD | 85% | No expiry | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
+| 2 | Funded Hero | PFD | 60% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 3 | E8 Markets | CHUN | 50% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 4 | AquaFunded | PFD | 35% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 5 | Blue Guardian | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 6 | SabioTrade | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
+| 7 | TX3 Funding | PFD1 | 25% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 8 | Funded Trading Plus | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | FundedNext | PFDC | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 10 | Instant Funding | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 
 <!-- /pfd-exclusive -->
 

@@ -1,16 +1,15 @@
 # RebelsFunding Diamond: 72% Off the $5,000 Program
 
-RebelsFunding is offering 72% off — discount code **INSTANT72**.
+RebelsFunding was offering 72% off.
 
 > RebelsFunding takes 72% off its $5,000 Diamond program - €49 instead of €173 - until Thursday 19 November 2026 or until 500 accounts are sold.
 
 - Published: 2026-11-17
-- Offer ends: 2026-11-19
+- Offer ends: 2026-11-19 (ended)
 - Prop firm: RebelsFunding
 - Firm page: https://propfirmdiscount.com/prop-firm/rebelsfunding/
 - Summary: RebelsFunding takes 72% off the $5,000 Diamond program, at €49 instead of €173, until Thursday 19 November 2026 or 500 sold accounts. The program scales to $132,000 with no daily drawdown.
 - Offer: 72% Off
-- Code: INSTANT72
 - Scope: Diamond Program $5,000
 - Deal: https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/
 

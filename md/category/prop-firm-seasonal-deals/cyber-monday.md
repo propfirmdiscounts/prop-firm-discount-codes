@@ -1,5 +1,7 @@
 # Cyber Monday Prop Firm Promo Codes & Flash Sales Prop Firm Deals (2026)
 
+Cyber Monday prop firm codes: the online-only half of the holiday weekend, when firms extend or replace their Black Friday promo with a shorter flash offer. 58 deals from 45 firms, each listed with the exact terms the code applies to.
+
 As of 2025-12-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Earn2Trade, 60% OFF with code MONDAY60 at Blueberry Funded, 55% OFF with code PFD at QT Funded, and 45% OFF with code CHALL45 at OFP Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -64,3 +66,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-28 | Hantec Trader | Hantec Trader Black Friday & Cyber Monday: 15% Off + Weekly Payouts | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-black-friday-cyber-monday-15-off-weekly-payouts/ |
 | 2025-11-26 | Apex Trader Funding | Apex Trader Funding Black Friday: 80% Off + $10 PA Fee Deal | 80% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-black-friday-80-off-10-pa-fee/ |
 | 2024-12-02 | Atlas Funded | Atlas Funded 50% Off Evaluations – Cyber Monday Sale | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-evaluations-cyber-monday/ |
+
+## About this archive
+
+Cyber Monday is a shorter list than [Black Friday](/category/prop-firm-seasonal-deals/black-friday/) on purpose: some firms carry the same code forward, and relisting it would be padding. The offers here are the ones that only appeared Monday-side. The seasonal calendar continues through [Christmas deals](/category/prop-firm-seasonal-deals/christmas-deals/) and [New Year sale](/category/prop-firm-seasonal-deals/new-year-sale/); the full year of dated campaigns is under [Seasonal and Holiday Roundups](/category/seasonal-holiday-prop-firm-coupon-codes-roundups/).
+

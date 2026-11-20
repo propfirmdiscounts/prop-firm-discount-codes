@@ -1,5 +1,7 @@
 # International Worker's Day - Prop Firm Discount Codes & Deals 2026
 
+International Workers' Day prop firm deals: the May 1st promos run mainly by firms with European and Latin American audiences — 5 listings from 4 firms, each a dated campaign rather than a year-round coupon relabeled for the holiday.
+
 As of 2026-05-01, the biggest offers: 45% OFF with code LABOUR at Funding Your Trades, 30% OFF with code LD30 at Hantec Trader, 30% OFF with code LABOUR30 at WeMasterTrade, 25% OFF with code MAYDAY25 at ThinkCapital, and 15% OFF with code MAYDAY15 at ThinkCapital.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -11,3 +13,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-05-01 | Funding Your Trades | Funding Your Trades: 45% Off All Accounts Plus Additional Entitlements for Labor Day | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-labor-day-45-off/ |
 | 2026-04-29 | ThinkCapital | ThinkCapital 15% Off $50K Challenges | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-50k-challenges/ |
 | 2026-04-29 | ThinkCapital | ThinkCapital 25% Off $5K-$25K Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-5k-25k-challenges/ |
+
+## About this archive
+
+The smallest archive in the seasonal set at 5 listings, and it stays that way on purpose - padding it with generic year-round coupons would make the tag unreliable. For current discounts across all firms, start at [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/).
+

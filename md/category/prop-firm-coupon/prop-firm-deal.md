@@ -1,5 +1,7 @@
 # Prop Firm Deals & Limited-Time Offers Prop Firm Deals (2026)
 
+Limited-time prop firm deals that are not a straight code: 260 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
+
 As of 2026-10-14, the biggest offers: 75% OFF at CK PropFirm, 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, and 60% OFF at Bitfunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -36,3 +38,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-08-16 | FundedNext | FundedNext Bundle Offer: 10% Off 2nd and 15% Off 3rd Stellar Account | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-stellar-bundle-discount-10-15-off/ |
 | 2026-08-03 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations and $59 100K Accounts | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-evaluations-59-100k/ |
 | 2026-07-24 | Trade The Pool | Trade The Pool: Upgraded $60K and $120K Flex Accounts | Account Upgrade | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/ |
+
+## About this archive
+
+A deal is not always cheaper than a code. Discounted bundles win on total account size, reset packs win if you expect to fail a phase, and evergreen codes win if you are buying one evaluation once. Compare against the flat coupons in [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/) before deciding. Firm ratings and trader reviews are in the [reviews directory](/prop-firm-reviews/), and the guides on how funded-account evaluation pricing works sit in [Prop Firm Resources](/category/prop-firm-resources/).
+

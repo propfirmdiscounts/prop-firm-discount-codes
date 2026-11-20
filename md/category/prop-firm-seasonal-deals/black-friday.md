@@ -1,5 +1,7 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
+Black Friday prop firm deals: the deepest discounts of the trading year, 214 archived offers from 93 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
+
 As of 2026-11-16, the biggest offers this month: 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, 40% OFF with code BF40 at Alpha Capital Group, and 40% OFF with code RETAKE40 at FTUK.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -156,3 +158,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 30% Off Direct Forex & Prime Accounts | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-30-off-direct-forex-prime/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 35% Off Select Forex Pro & Prime Accounts | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-35-off-forex-pro-prime/ |
 | 2025-11-19 | Hola Prime | Hola Prime Black Friday: 40% Off 10K and 25K Forex Pro Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-black-friday-40-off-10k-25k-forex-pro/ |
+
+## About this archive
+
+Black Friday is the one week prop firms discount hard enough to matter, and most of them publish the code on their own social channels rather than a landing page - which is why an archive like this exists. Continue to [Cyber Monday](/category/prop-firm-seasonal-deals/cyber-monday/) for the online-only extension, then [Christmas deals](/category/prop-firm-seasonal-deals/christmas-deals/) and [New Year sale](/category/prop-firm-seasonal-deals/new-year-sale/) for what firms run through the quietest trading weeks. To judge whether a discounted firm is worth buying from at any price, check its rating in the [prop firm reviews directory](/prop-firm-reviews/) first.
+

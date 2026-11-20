@@ -9,7 +9,7 @@ No live discount code for Top One Trader right now — newest deals and offers a
 - Activate: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-As of 2026-11-19, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 65% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
+As of 2026-11-20, the biggest Top One Trader offers this month: 80% OFF with code BLACKFRIDAY, 70% OFF, 65% OFF, 50% OFF with code LAUNCHPAD, and 40% OFF.
 
 ## Current deal: Top One Trader Super Nova: Nova Entry for $1
 

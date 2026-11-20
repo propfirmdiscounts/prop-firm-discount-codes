@@ -1,5 +1,7 @@
 # Halloween Prop Firm Discounts & 48–72h Flash Codes Prop Firm Deals (2026)
 
+Halloween prop firm deals: October spooky-sale coupons on challenge fees, resets and add-ons — 170 archived offers from 70 firms, dated and verified, so an expiring promo is obvious rather than guessed.
+
 As of 2026-10-31, the biggest offers: 65% OFF with code UNMATCH at Finotive Funding, 60% OFF with code HALLOWEEN60 at WSFunded, 55% OFF at Bitfunded, 50% OFF at The Trading Pit, and 45% OFF with code INSTANT45 at Funded Trading Plus.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -67,8 +69,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code with code PFD | 25% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |
 | 2026-10-20 | FTUK | FTUK 40% Off Instant Funding Plus 20% Payout Boost | 40% OFF | 2026-10-23 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-40-off-instant-funding-payout-boost/ |
 | 2026-10-19 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding | 15% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/ |
-| 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 with code PFD | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
-| 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 with code PFD | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off $50K+ Accounts With Ultimate Bundle And $50K 1-Step At $82 with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/ |
+| 2026-10-19 | FundingTraders | FundingTraders 50% Off All Accounts Plus Free Matching Account With $5K 1-Step At $15 with code PFD | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/ |
 | 2026-10-18 | FundYourFX | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee | 65% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |
 | 2026-10-17 | TX3 Funding | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% OFF | 2026-10-18 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-16 | AudaCity Capital | AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing | 35% OFF | Ended | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/ |
@@ -156,3 +158,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-10-23 | Hola Prime | Hola Prime 40% Off $10K to $25K Forex and $50K to $100K Future Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-10k-25k-forex-50k-100k-future/ |
 | 2025-10-23 | Hola Prime | Hola Prime 45% Off $50K Forex Evaluation Account | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-45-off-50k-forex-account/ |
 | 2025-10-23 | Hola Prime | Hola Prime 50% Off $100K Forex and $150K to $200K Future Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-100k-forex-150k-200k-future/ |
+
+## About this archive
+
+October promos are the warm-up to the sale season rather than part of it: fewer firms, shallower cuts, but a real discount if you are buying before [Black Friday](/category/prop-firm-seasonal-deals/black-friday/) pricing exists yet. See also [Thanksgiving deals](/category/prop-firm-seasonal-deals/thanksgiving-deals/) for the US-holiday stretch, and the [prop firms list](/prop-firms-list/) for a brand-by-brand index.
+

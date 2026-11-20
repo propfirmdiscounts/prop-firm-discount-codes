@@ -1,5 +1,7 @@
 # Independence Day - Prop Firm Discount Codes & Deals 2026
 
+Independence Day prop firm deals: US July 4th promo codes on evaluations, challenges and resets — 20 tagged offers from 18 firms, the summer equivalent of a Black Friday code and usually the deepest discount before autumn.
+
 As of 2026-07-03, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, 65% OFF with code PFD at Funded Hero, 60% OFF with code USA250 at FundYourFX, and 45% OFF with code FREEDOM45 at Hola Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -26,3 +28,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-01 | FXIFY | FXIFY 30% Off All Eligible Programs and 90% Performance Split Add-On | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-30-off-independence-day-promotion/ |
 | 2026-07-01 | For Traders | For Traders: 30% Off All Accounts and Conditional BOGO for Independence Day | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/ |
 | 2026-07-01 | Top One Trader | Top One Trader Independence Day Offer: Up to 70% Off Upfront Fees | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-independence-day-promotion/ |
+
+## About this archive
+
+The US summer sale season opens with [Memorial Day](/tag/memorial-day/) and peaks here in July. After Independence Day, codes thin out until [Halloween](/category/prop-firm-seasonal-deals/halloween-deals/) and the November run, so a July discount is often the best entry price of the second half of the year. Every firm in this tag is indexed in the [prop firms list](/prop-firms-list/) with its current offers.
+

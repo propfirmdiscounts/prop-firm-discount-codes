@@ -14,8 +14,6 @@ CK PropFirm is offering 85% off — discount code **CK85**.
 - Scope: All Evaluation Challenges
 - Deal: https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/
 
-Apply code PFD at checkout for up to 10% off any CK PropFirm challenge account — verified to work any time with no expiration date.
-
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Frequently Asked Questions

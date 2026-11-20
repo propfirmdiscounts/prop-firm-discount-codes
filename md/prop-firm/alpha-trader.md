@@ -9,7 +9,7 @@ The newest Alpha Funded discount code is **GTA6** — 60% off (November 19, 2026
 - Activate: https://propfirmdiscount.com/go/alphatrader
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-trader/
 
-As of 2026-11-19, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, 60% OFF with code GTA6, and 50% OFF with code HALLOWEEN.
+As of 2026-11-20, the biggest Alpha Funded offers this month: 80% OFF with code BIG80, 70% OFF with code BIG70, 70% OFF with code SCARY70, 60% OFF with code GTA6, and 50% OFF with code HALLOWEEN.
 
 ## Current deal: Alpha Funded: 60% Off All Challenges
 

@@ -1,16 +1,15 @@
 # WSFunded Flash Challenge: 50% Off, 24 Hours
 
-WSFunded is offering 50% off — discount code **GTA**.
+WSFunded was offering 50% off.
 
 > WSFunded's Flash Challenge is 50% off for 24 hours only: a 2% profit target and an instant first payout option, before the challenge is removed.
 
 - Published: 2026-11-18
-- Offer ends: 2026-11-19
+- Offer ends: 2026-11-19 (ended)
 - Prop firm: WSFunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 - Summary: WSFunded opens a 24-hour window on its Flash Challenge at 50% off: a 2% profit target, an instant first payout option, then the challenge is removed from sale.
 - Offer: 50% Off
-- Code: GTA
 - Scope: Flash Challenge
 - Deal: https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/
 

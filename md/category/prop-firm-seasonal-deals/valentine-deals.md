@@ -1,5 +1,7 @@
 # Valentine Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
 
+Valentine's Day prop firm deals: 56 February promo codes on challenges, evaluations and resets from 49 firms — a smaller, cleaner list than the November sale, and often the last discount before firms hold price into Q2.
+
 As of 2026-02-16, the biggest offers: 100% OFF at Bullwaves Prime, 69% OFF at Sure Leverage Funding, 50% OFF with code LOVE50 at WSFunded, 50% OFF with code VDAY50 at Forexive, and 30% OFF with code VALENTINE30 at Bullwaves Prime.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -62,3 +64,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-02-06 | Super Funded | Super Funded Valentine’s Deal: 50% Off 3K and 6K Accounts | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-50-off-3k-6k-accounts/ |
 | 2026-02-05 | Alpha Funded | Alpha Trader Firm Valentine’s Deal: 50% Off All Challenges + Free $5K Instant Account | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-valentines-50-off-free-instant-account/ |
 | 2026-02-02 | Earn2Trade | Earn2Trade Valentine’s Day: 60% Off Subscriptions & Reset Deals with code PFD | 60% OFF | Ended | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/ |
+
+## About this archive
+
+February is the quiet middle of the prop firm promo calendar - between the January push and spring events like [St Patrick's Day](/tag/st-patricks-day/) and [Easter](/category/prop-firm-seasonal-deals/easter-deals/) - which is why fewer firms run a named Valentine promo at all. What exists is listed here without padding. For a discount that does not need a holiday, see [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/).
+

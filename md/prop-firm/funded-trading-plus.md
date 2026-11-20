@@ -13,7 +13,7 @@ The verified Funded Trading Plus discount code is **PFD** — Up to 20% off, wor
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-19, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, 35% OFF with code FLASH35, 32% OFF with code FLASH325, and 32% OFF with code FTP325.
+As of 2026-11-20, the biggest Funded Trading Plus offers this month: 45% OFF with code INSTANT45, 35% OFF with code LIGHT35, 35% OFF with code FLASH35, 32% OFF with code FLASH325, and 32% OFF with code FTP325.
 
 ## Current deal: Funded Trading Plus Flash Sale Extended: 32.5% Off
 

@@ -1,5 +1,7 @@
 # Presidents Day - Prop Firm Discount Codes & Deals 2026
 
+Celebrate Presidents Day with exclusive deals, discounts, and limited-time promotions. Discover special offers and seasonal savings available during this major U.S. shopping event.
+
 As of 2026-02-16, the biggest offers: 60% OFF with code PFD at Funded Hero, 60% OFF with code PFD at Earn2Trade, and 45% OFF with code USA45 at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

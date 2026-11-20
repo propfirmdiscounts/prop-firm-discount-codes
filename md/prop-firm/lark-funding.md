@@ -9,7 +9,7 @@ No live discount code for Lark Funding right now — newest deals and offers are
 - Activate: https://propfirmdiscount.com/go/larkfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/lark-funding/
 
-As of 2026-11-19, the biggest Lark Funding offers this month: 100% OFF with code OCTOBERFEE.
+As of 2026-11-20, the biggest Lark Funding offers this month: 100% OFF with code OCTOBERFEE.
 
 ## Current deal: Lark Funding Black Friday: Buy 1, Get 3
 

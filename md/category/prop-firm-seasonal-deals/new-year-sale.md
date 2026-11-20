@@ -1,5 +1,7 @@
 # New Year's Eve Prop Firm Discounts & Coupon Hub Prop Firm Deals (2026)
 
+New year prop firm promos: 79 January discount codes from 47 firms on evaluations, resets and challenge bundles — the offers traders reach for when a funded account is the resolution that sticks. Newest deals first.
+
 As of 2026-01-22, the biggest offers: 90% OFF with code NYBOGO at Upcomers, 60% OFF with code GALLOP60 at PipFarm, 45% OFF with code JAN45 at FundYourFX, 40% OFF with code JAN40 at FundYourFX, and 32% OFF with code PFD at FundingTraders.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -85,3 +87,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2024-12-31 | AquaFunded | AquaFunded New Year Offer: 37.5% OFF + 120% Refund | 37% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-offer-37-5-off-refund/ |
 | 2024-01-24 | AquaFunded | AquaFunded New Year Sale: 20% Off + 125% Refund & 90% Split | 20% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-sale-20-off-125-refund/ |
 | 2024-01-03 | AquaFunded | AquaFunded New Year Sale: 25% Off + 125% Refund Deal | 25% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/aquafunded/aquafunded-new-year-sale-25-off-refund/ |
+
+## About this archive
+
+January is when new traders buy their first evaluation, so the promo mix shifts from resets toward entry-level one-phase and two-phase discounts. Compare firms before committing: the [prop firm reviews directory](/prop-firm-reviews/) sorts brands by Trustpilot rating and review volume, and the guides in [Prop Firm Resources](/category/prop-firm-resources/) explain the evaluation models those codes apply to. Back to the sale season: [Christmas deals](/category/prop-firm-seasonal-deals/christmas-deals/) and [Black Friday](/category/prop-firm-seasonal-deals/black-friday/).
+

@@ -1,5 +1,7 @@
 # Easter Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
 
+Easter prop firm deals: 41 spring coupon codes on challenges, evaluations and funded-account add-ons from 33 firms, verified before listing and ordered newest first.
+
 As of 2026-04-06, the biggest offers: 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code EGG70 at CK PropFirm, 60% OFF with code EASTER at AquaFutures, 50% OFF with code EASTER at Funding Your Trades, and 45% OFF with code EASTER at AquaFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -47,3 +49,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime: 30% Off Challenge Pricing | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/ |
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime 100% Deposit Bonus This Easter | Full Deposit Bonus | Ended | No Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/ |
 | 2025-04-17 | Atlas Funded | Atlas Funded 40% Off Challenges – Easter Deal | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/ |
+
+## About this archive
+
+Spring promotions overlap with the Islamic calendar in some years: firms that post a [Ramadan](/category/prop-firm-seasonal-deals/ramadan-deals/) or [Eid](/tag/eid/) code may move the same campaign a few weeks either side of Easter, so check both archives before concluding a firm ran nothing. The wider event index is [Seasonal Deals](/category/prop-firm-seasonal-deals/); monthly sweeps are under [Monthly Coupon Code Roundups](/category/monthly-prop-firm-coupon-codes-roundups/).
+

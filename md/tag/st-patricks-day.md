@@ -1,5 +1,7 @@
 # St. Patrick’s Day - Prop Firm Discount Codes & Deals 2026
 
+St Patrick's Day prop firm offers: 20 March promo codes and flash deals from 16 firms, timed to the holiday week. Every listing is verified against the firm's own checkout before it appears here.
+
 As of 2026-03-17, the biggest offers: 77% OFF with code Lucky at Top One Trader, 60% OFF with code PFD at Funded Hero, 40% OFF with code PFD at FundingTraders, 40% OFF with code TRADE40 at Trading Funds, and 35% OFF with code LUCKY17 at Atmos Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -26,3 +28,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-13 | thePropTrade | thePropTrade: 30% Off Instant Accounts Including $100K Tier for $349 | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-30-off-instant-accounts/ |
 | 2026-03-12 | FXIFY | FXIFY 27% Off Challenge Fee and Free 90% Profit Split Add-ons | 27% OFF | Ended | - | https://propfirmdiscount.com/deals/fxify/fxify-27-off-evaluation-addons-march/ |
 | 2026-03-10 | Plutus Trade Base | Plutus Trade Base St. Patrick’s Day Promotion: 50% Off Evaluation Accounts to Lower Upfront Fees | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-st-patricks-day-promotion/ |
+
+## About this archive
+
+March is a light month for prop firm pricing and only a few brands use the holiday as a reason to cut - which is why this list is 20 listings rather than a hundred. The deeper spring campaign is [Easter](/category/prop-firm-seasonal-deals/easter-deals/); discounts that need no occasion are in [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/). See the [Seasonal Deals](/category/prop-firm-seasonal-deals/) index for the rest of the calendar.
+

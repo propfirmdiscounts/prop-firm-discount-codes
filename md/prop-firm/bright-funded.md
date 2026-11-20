@@ -9,7 +9,7 @@ The newest BrightFunded discount code is **FBF45** — 45% off (November 16, 202
 - Activate: https://propfirmdiscount.com/go/brightfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/bright-funded/
 
-As of 2026-11-19, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 45% OFF with code FBF45, 40% OFF with code WEEKEND, 30% OFF with code UNLUCKY, and 30% OFF with code HW30.
+As of 2026-11-20, the biggest BrightFunded offers this month: 50% OFF with code BRIGHTFUTURES, 45% OFF with code FBF45, 40% OFF with code WEEKEND, 30% OFF with code UNLUCKY, and 30% OFF with code HW30.
 
 ## Current deal: BrightFunded Futures Black Friday: 45% Off
 

@@ -1,5 +1,7 @@
 # Halloween - Prop Firm Discount Codes & Deals 2026
 
+Unlock Halloween prop firm discounts with reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of early seasonal promotions before major holiday events.
+
 As of 2026-10-31, the biggest offers: 65% OFF with code UNMATCH at Finotive Funding, 60% OFF with code HALLOWEEN60 at WSFunded, 55% OFF at Bitfunded, 50% OFF at The Trading Pit, and 45% OFF with code INSTANT45 at Funded Trading Plus.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

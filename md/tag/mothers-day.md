@@ -1,5 +1,7 @@
 # Mother's Day - Prop Firm Discount Codes & Deals 2026
 
+Mother's Day prop firm offers: 7 listings from 7 firms. Only a few brands run a promo tied to the date rather than folding it into their spring sale, so this archive lists just the genuine dated campaigns — nothing generic is tagged in to pad the count.
+
 As of 2026-05-11, the biggest offers: 60% OFF with code PFD at Funded Hero, 60% OFF with code MOTHERSDAY at AquaFutures, 45% OFF with code MOTHERSDAY at AquaFunded, 42% OFF with code MOTHER at Funding Your Trades, and 35% OFF with code MOTHERSDAYREFUND at Sure Leverage Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -13,3 +15,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-05-05 | AquaFutures | AquaFutures: 60% Off All Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafutures/aquafutures-60-off-mothers-day-promo/ |
 | 2026-05-05 | AquaFunded | AquaFunded Mother’s Day Offer: 45% Off Challenge Pricing and 150% Refund | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-mothers-day-promotion/ |
 | 2026-04-30 | Crypto Fund Trader | Crypto Fund Trader 20% Off Evaluation Accounts and $250K Giveaway | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/ |
+
+## About this archive
+
+A deliberately short archive: 7 listings, because a handful of firms tie a promo to this date and most do not. Spring depth is in [Easter](/category/prop-firm-seasonal-deals/easter-deals/) and [St Patrick's Day](/tag/st-patricks-day/); the [prop firms list](/prop-firms-list/) shows what each brand is running right now.
+

@@ -1,5 +1,7 @@
 # Holiday & Seasonal Prop Firm Deals Prop Firm Deals (2026)
 
+Holiday and seasonal prop firm discounts (Black Friday, Christmas, New Year, Halloween…). Verified codes and short-window offers, updated in real time.
+
 As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, and 40% OFF with code BF40 at Alpha Capital Group.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -36,3 +38,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-12 | ThinkCapital | ThinkCapital: 40% Off Everything for Black Friday | 40% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/ |
 | 2026-11-12 | Fintokei | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-11 | CK PropFirm | CK PropFirm Black Friday: 80% Off All Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
+
+## About this archive
+
+The prop firm promo calendar runs through the year, not just November. Ordered by when firms actually post codes: [New Year sale](/category/prop-firm-seasonal-deals/new-year-sale/) in January, [Valentine](/category/prop-firm-seasonal-deals/valentine-deals/) in February, [St Patrick's Day](/tag/st-patricks-day/) and [Easter](/category/prop-firm-seasonal-deals/easter-deals/) in spring, [Memorial Day](/tag/memorial-day/) and [Independence Day](/tag/independence-day/) across the US summer, then the autumn run through [Halloween](/category/prop-firm-seasonal-deals/halloween-deals/), [Black Friday](/category/prop-firm-seasonal-deals/black-friday/) and [Cyber Monday](/category/prop-firm-seasonal-deals/cyber-monday/). Codes that are not tied to a date live in [Prop Firm Discount Codes](/category/prop-firm-coupon/prop-firm-discount/).
+

@@ -1,5 +1,7 @@
 # Black Friday - Prop Firm Discount Codes & Deals 2026
 
+Unlock Black Friday prop firm discounts with heavily reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of the biggest trading promotions of the year.
+
 As of 2026-11-17, the biggest offers this month: 70% OFF with code PFD at FundingTraders, 65% OFF at Top One Trader, 50% OFF with code BF50 at TX3 Funding, 45% OFF with code BFCM26 at The Concept Trading, and 40% OFF with code BF40 at Alpha Capital Group.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

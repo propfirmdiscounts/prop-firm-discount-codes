@@ -1,5 +1,7 @@
 # Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
 
+Holiday, celebration, and anniversary prop firm promotions with trusted coupons and limited-time discounts on trading challenges, evaluations, and platform add-ons. Updated frequently during global events and special occasions.
+
 As of 2026-11-11, the biggest offers this month: 85% OFF with code PFD at Phidias Propfirm, 80% OFF with code DIWALI80 at CK PropFirm, 70% OFF with code PFD at FundingTraders, 60% OFF with code VET60 at FundYourFX, and 60% OFF with code DIWALI at QT Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

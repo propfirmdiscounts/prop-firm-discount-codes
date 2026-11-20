@@ -1,5 +1,7 @@
 # Ramadan Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
 
+Ramadan and Eid prop firm offers: 13 codes from 8 firms, timed to the holy month and the celebration that follows it by brands running Middle East and Southeast Asia campaigns. Only firms with a genuine dated promo appear here — no generic coupons relabeled to pad the list.
+
 As of 2026-02-19, the biggest offers: 70% OFF with code RAM70 at CK PropFirm, 44% OFF with code Ramadan at Funding Your Trades, 40% OFF at Funding Your Trades, 40% OFF with code RAMADAN40 at Funding Your Trades, and 35% OFF at Finotive Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -19,3 +21,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-02-18 | QT Funded | QT Funded Ramadan Deal: 40% Off Entry + Free Account & 100% Refund | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-ramadan-promotion-40-off-bogo/ |
 | 2026-02-18 | Forex Funds Flow | Forex Funds Flow 10% Off All Evaluations and Instant Accounts | 10% OFF | Ended | - | https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-10-percent-off-ramadan/ |
 | 2026-02-17 | ThinkCapital | ThinkCapital Ramadan Offer: 25% Off All Trading Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-ramadan-25-percent-off/ |
+
+## About this archive
+
+The Islamic calendar is lunar, so Ramadan and both Eids move roughly eleven days earlier each year - which is why dated offers here do not line up with the previous year's archive. Codes published specifically for the celebration are tagged [Eid](/tag/eid/). For every seasonal campaign in one tree, see [Seasonal Deals](/category/prop-firm-seasonal-deals/).
+

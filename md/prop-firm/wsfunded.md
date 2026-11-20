@@ -1,6 +1,6 @@
 # WSFunded Discount Code
 
-The newest WSFunded discount code is **GTA** — 50% off (November 18, 2026). The campaign code changes with each promotion; newest first below.
+No live discount code for WSFunded right now — newest deals and offers are below.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
@@ -9,14 +9,13 @@ The newest WSFunded discount code is **GTA** — 50% off (November 18, 2026). Th
 - Activate: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-As of 2026-11-19, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code GTA, 50% OFF with code SPOOKY50, and 50% OFF with code NEWYORK50.
+As of 2026-11-20, the biggest WSFunded offers this month: 60% OFF with code HALLOWEEN60, 60% OFF with code HISPANIC60, 50% OFF with code GTA, 50% OFF with code SPOOKY50, and 50% OFF with code NEWYORK50.
 
-## Current deal: WSFunded Flash Challenge: 50% Off, 24 Hours
+## Most recent deal (ended): WSFunded Flash Challenge: 50% Off, 24 Hours
 
 - Published: 2026-11-18
-- Offer ends: 2026-11-19
+- Offer ends: 2026-11-19 (ended)
 - Offer: 50% Off
-- Code: GTA
 - Scope: Flash Challenge
 - Deal page: https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/
 
@@ -44,7 +43,7 @@ No. It lowers the entry cost only; the risk of trading is unchanged. A 2% target
 
 ## Deals (last 2 months, newest first)
 
-- 2026-11-18 - [WSFunded Flash Challenge: 50% Off, 24 Hours](https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/) (50% Off)
+- 2026-11-18 - [WSFunded Flash Challenge: 50% Off, 24 Hours](https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/) (50% Off) — ended 2026-11-19
 - 2026-11-09 - [WSFunded Black Friday: 4 Instant Challenges $68.60](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/) (30% Off) — Black Friday
 - 2026-11-04 - [WSFunded 40% Off All Challenges Plus 300% Refund Offer](https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/) (40% Off)
 - 2026-10-30 - [WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween](https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/) (60% Off) — Halloween — ended 2026-11-02 17:59

@@ -13,7 +13,7 @@ The verified AquaFunded discount code is **PFD** — Up to 35% off, works any ti
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-19, the biggest AquaFunded offers this month: 35% OFF with code BLACKFRIDAY, 35% OFF with code HALLOWEEN, 25% OFF with code HONOR, 25% OFF with code SPOOKY, and 25% OFF with code SPOOKY.
+As of 2026-11-20, the biggest AquaFunded offers this month: 35% OFF with code BLACKFRIDAY, 35% OFF with code HALLOWEEN, 25% OFF with code HONOR, 25% OFF with code SPOOKY, and 25% OFF with code SPOOKY.
 
 ## Current deal: AquaFunded Black Friday: 35% Off Every Account
 

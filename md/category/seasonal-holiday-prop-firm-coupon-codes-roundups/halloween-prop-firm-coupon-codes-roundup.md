@@ -1,8 +1,8 @@
-# Halloween Prop Firm Coupon Codes & Discounts - Roundup Prop Firm Deals (2026)
+# Halloween Prop Firm Coupon Codes & Discounts - Roundup Articles (2026)
 
-How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
+A verified roundup of Halloween prop firm coupon codes and discounts—grouped by brand and updated fast. Apply the active promo at checkout to save on challenge fees.
 
-| Published | Firm | Deal | Discount | Ends | Code | Link |
-|---|---|---|---|---|---|---|
-| 2026-10-16 |  | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-2026-prop-firm-coupon-codes/ |
-| 2025-10-31 |  | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup |  | Ended | No Code Required | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |
+| Published | Article | Link |
+|---|---|---|
+| 2026-10-16 | Halloween 2026 Prop Firm Coupon Codes & Deals – Roundup | https://propfirmdiscount.com/holiday-roundups/halloween-2026-prop-firm-coupon-codes/ |
+| 2025-10-31 | Halloween 2025 Prop Firm Deals & Coupon Codes (Verified, Updated) – Roundup | https://propfirmdiscount.com/holiday-roundups/halloween-deals-2025/ |

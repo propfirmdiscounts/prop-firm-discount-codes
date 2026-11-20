@@ -1,5 +1,7 @@
 # Lunar New Year - Prop Firm Discount Codes & Deals 2026
 
+Celebrate Lunar New Year with exclusive deals, festive discounts, and limited-time promotions. Discover seasonal offers and special savings during this global celebration. Dates may vary each year.
+
 As of 2026-02-18, the biggest offers: 60% OFF with code GALLOP60 at PipFarm, 32% OFF with code PFD at FundingTraders, 30% OFF with code CNY30 at Tradexprop, and 28% OFF with code CNY28 at FXIFY.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

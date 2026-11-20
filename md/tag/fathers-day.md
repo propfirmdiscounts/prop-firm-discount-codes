@@ -1,5 +1,7 @@
 # Father's Day - Prop Firm Discount Codes & Deals 2026
 
+Celebrate Father’s Day with prop firm savings—verified discount codes for challenges, evaluations, resets, and add-ons. Limited-time offers updated frequently for traders.
+
 As of 2026-06-21, the biggest offers: 90% OFF with code PFD at Phidias Propfirm, 65% OFF with code FATHER at Alpha Funded, 50% OFF with code DAD50 at Plutus Trade Base, 40% OFF with code PAPA40 at Sure Leverage Funding, and 40% OFF with code FATHERSDAY at AquaFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.

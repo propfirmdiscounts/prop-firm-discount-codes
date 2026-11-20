@@ -9,7 +9,7 @@ No live discount code for FundingPips right now — newest deals and offers are 
 - Activate: https://propfirmdiscount.com/go/fundingpips
 - Firm page: https://propfirmdiscount.com/prop-firm/funding-pips/
 
-As of 2026-11-19, the biggest FundingPips offers this month: 15% OFF with code HALLOWEEN.
+As of 2026-11-20, the biggest FundingPips offers this month: 15% OFF with code HALLOWEEN.
 
 ## Most recent deal (ended): FundingPips: Double First Reward via Likes Challenge
 

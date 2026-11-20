@@ -1,19 +1,15 @@
 # FundedSeat Discount Code
 
-The verified FundedSeat discount code is **PFD** — Up to 65% off, works any time.
+No live discount code for FundedSeat right now — no new deals in the last 2 months. Check back soon, or watch the firm page for new offers: https://propfirmdiscount.com/prop-firm/fundedseat/
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 
-- Code: PFD
-- Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-03
 - Trustpilot: 4.3/5 (249 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedseat
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts with code PFD
+## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts
 
 - Published: 2026-09-03
 - Offer ends: Ended

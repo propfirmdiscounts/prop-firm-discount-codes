@@ -11,7 +11,7 @@ The verified TX3 Funding discount code is **PFD1** — Up to 25% off, works any 
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-19, the biggest TX3 Funding offers this month: 50% OFF with code BF50, 40% OFF with code TRICKORTREAT, 35% OFF with code PUMPKIN35, 35% OFF with code GRAVEYARD35, and 35% OFF with code TX3NEW.
+As of 2026-11-20, the biggest TX3 Funding offers this month: 50% OFF with code BF50, 40% OFF with code TRICKORTREAT, 35% OFF with code PUMPKIN35, 35% OFF with code GRAVEYARD35, and 35% OFF with code TX3NEW.
 
 ## Current deal: TX3 Funding Black Friday: 50% Off All Accounts
 

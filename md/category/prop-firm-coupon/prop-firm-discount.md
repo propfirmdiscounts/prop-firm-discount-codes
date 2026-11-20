@@ -1,5 +1,7 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
+Verified prop firm discount codes for challenges, evaluations, resets and add-ons: 2,977 offers from 118 funded-trading firms. Every code is checked against the firm's checkout before listing, and the newest deals sit at the top of the archive.
+
 As of 2026-11-19, the biggest offers this month: 60% OFF with code GTA6 at Alpha Funded, 60% OFF with code PFD at Doji Funding, 50% OFF with code PFD at FundingTraders, 50% OFF with code GTA6 at Direct Funded Trader, and 50% OFF with code BF50 at TX3 Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
@@ -15,7 +17,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
 | 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-18 | FundingPips | FundingPips: Double First Reward via Likes Challenge | Double First Reward | 2026-11-19 15:00 (ended) | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/ |
-| 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
+| 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 (ended) | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-18 | FundingTraders | FundingTraders: $500 Off $100K Instant Funded with code PFD | $500 Off | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
 | 2026-11-18 | E8 Markets | E8 Markets Classic v2 Launch: 10% Off with code CHUN | 10% OFF | Limited time | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/ |
@@ -28,7 +30,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | Blueberry Funded | Blueberry Funded Winter Arc: 40% Off Instant Lite | 40% OFF | 2026-11-18 18:59 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-17 | FundingTraders | FundingTraders: 50% Off All Accounts + Free Account with code PFD | 50% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/ |
-| 2026-11-17 | RebelsFunding | RebelsFunding Diamond: 72% Off the $5,000 Program | 72% OFF | 2026-11-19 | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/ |
+| 2026-11-17 | RebelsFunding | RebelsFunding Diamond: 72% Off the $5,000 Program | 72% OFF | 2026-11-19 (ended) | - | https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-diamond-72-off-5000-program/ |
 | 2026-11-17 | FundYourFX | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% OFF | 2026-11-22 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
 | 2026-11-16 | Blueberry Funded | Blueberry Funded Winter Arc: 35% Off Instant Elite | 35% OFF | 2026-11-18 18:59 (ended) | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/ |
 | 2026-11-16 | Blue Guardian | Blue Guardian: 30% Off Every Account This Week with code PFD | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
@@ -36,3 +38,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-16 | Elite Trader Funding | Elite Trader Funding Thanksgiving: 90% Off Evals | 90% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-thanksgiving-90-off-evals/ |
 | 2026-11-16 | FTUK | FTUK Black Friday: 40% Off Instant + Free Retake | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |
 | 2026-11-16 | Goat Funded Trader | Goat Funded Trader Black Friday: 50% Off | 50% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/ |
+
+## About this archive
+
+How these codes work: a prop firm coupon is applied on the checkout page for a specific challenge, not on the account dashboard, so the discount only lands if you buy the exact product the code names. That is why every listing here states which step it covers - one-step evaluation, two-phase challenge, or funded-account reset. For the rating and trader feedback behind each brand, use the [prop firm reviews directory](/prop-firm-reviews/); for a firm's whole discount history in one view, its entry in the [prop firms list](/prop-firms-list/). Bundles and non-code offers live in [Prop Firm Deals](/category/prop-firm-coupon/prop-firm-deal/).
+

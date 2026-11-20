@@ -1,19 +1,15 @@
 # CK PropFirm Discount Code
 
-The verified CK PropFirm discount code is **PFD** — Up to 10% off, works any time.
+The newest CK PropFirm discount code is **CK85** — 85% off (November 16, 2026). The campaign code changes with each promotion; newest first below.
 
 > CK Capital is a premium proprietary trading evaluation firm dedicated to discovering, developing, and scaling trading talent through a structured and transparent two-step evaluation process. This includes the CK Capital Challenge followed by a Verification stage, designed to assess consistency, discipline, and professional risk management. We offer traders access to capital allocation of up to $1.2 million, empowering them to grow responsibly while trading under clearly defined rules. Our evaluation model is built to support sustainable performance rather than short-term speculation. Traders can operate on industry-standard platforms such as MT5 and TradeLocker, with access to multiple markets including Forex, Crypto, and Commodities. We provide a competitive payout model with profit splits of up to 100%, rewarding traders fairly for their performance. At CK Capital, integrity, transparency, and trader success are at the core of everything we do. With 24/7 support, clear guidelines, and a professional trading environment, we are committed to helping both experienced traders and emerging talent refine their strategies and reach their full potential.
 
-- Code: PFD
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-16
 - Trustpilot: 2.8/5 (431 reviews)
 - Activate: https://propfirmdiscount.com/go/ckcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/ckcapital/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-As of 2026-11-19, the biggest CK PropFirm offers this month: 85% OFF with code CK85, 80% OFF with code BF80, 80% OFF with code DIWALI80, 80% OFF with code CK80, and 80% OFF with code OCT80.
+As of 2026-11-20, the biggest CK PropFirm offers this month: 85% OFF with code CK85, 80% OFF with code BF80, 80% OFF with code DIWALI80, 80% OFF with code CK80, and 80% OFF with code OCT80.
 
 ## Current deal: CK PropFirm Flash Sale: 85% Off All Evaluations
 
