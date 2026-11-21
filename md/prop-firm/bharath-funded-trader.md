@@ -1,0 +1,14 @@
+# Bharath Funded Trader Discount Code
+
+Bharath Funded Trader has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
+
+- Prop firm: Bharath Funded Trader
+- Deal last verified: none yet
+- Official web: bharathfundedtrader.com
+- Market type: Futures + Options
+- Active deal url: https://propfirmdiscount.com/go/bharath-funded-trader
+- Firm page: https://propfirmdiscount.com/prop-firm/bharath-funded-trader/
+
+## Deals (last 2 months, newest first)
+
+- No deals published for Bharath Funded Trader yet. New promotions appear here first — check back soon.

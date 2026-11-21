@@ -53,7 +53,7 @@ As of 2026-11-21, the biggest Black Friday prop firm offers are 80% OFF at CK Pr
 | 7 | WSFunded | - | 55% | Limited time | https://propfirmdiscount.com/prop-firm/wsfunded/ |
 | 8 | FundedSquad | - | 55% | Ends Nov 23, 2026 | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 | 9 | SFX Funded | - | 55% | Limited time | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 10 | Sure Leverage Funding | - | 50% | Limited time | https://propfirmdiscount.com/prop-firm/sure-leverage-funding/ |
+| 10 | Funding Your Trades | - | 50% | Ends Nov 28, 2026 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 
 One row per firm: the firm's best-percentage deal filed under Black Friday in November 2026, highest first. Only live deals are listed; ended promotions are left out. Every Black Friday deal: https://propfirmdiscount.com/tag/black-friday/
 
@@ -63,6 +63,12 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Discount code | Link |
 |---|---|---|---|---|---|
+| 2026-11-21 | Forexive | Forexive New User Offer: 20% Off 1-Step & 2-Step | 20% Off | - | https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/ |
+| 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% Off | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
+| 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% Off | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
+| 2026-11-21 | Instant Funding | Instant Funding Black Friday: 40% Off Pro and Lite | 40% Off | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/ |
+| 2026-11-21 | AudaCity Capital | AudaCity Capital Black Friday: 30% Off Ability 1-Step & FTP | 30% Off | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-30-off-ability-1-step-ftp/ |
+| 2026-11-21 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/ |
 | 2026-11-20 | thePropTrade | thePropTrade Black Friday: 30% Off Three Challenges | 30% Off | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
 | 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% Off | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
 | 2026-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off Sitewide | 50% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-sitewide/ |
@@ -87,9 +93,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-18 | Funded Trading Plus | Funded Trading Plus Flash Sale: 32.5% Off | 32.5% Off | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/ |
 | 2026-11-18 | E8 Markets | E8 Markets Classic v2 Launch: 10% Off (code CHUN) | 10% Off | CHUN | https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/ |
 | 2026-11-17 | The Concept Trading | The Concept Trading Black Friday: 45% Off + Free Retry | 45% Off | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/ |
-| 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% Off | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
-| 2026-11-17 | Finotive Funding | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
-| 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
-| 2026-11-17 | FTUK | FTUK: 35% Off Flex Activation | 35% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
-| 2026-11-17 | FundingTraders | FundingTraders Black Friday: Up to 70% Off (code PFD) | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
-| 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |

@@ -8,7 +8,7 @@ Prop Trading Firms List – All Proprietary Trading Brands
 
 ### Prop Firms Directory – Deals & Promotions Tracked
 
-The complete PropFirmDiscount directory: 201 prop firm brands, 98 of them carrying live deals right now - coupon codes and promotions on challenges, evaluations, resets and funded-account add-ons. Each brand page collects that firm's current offers, every code checked at checkout before listing, alongside its Trustpilot rating and review history.
+The complete PropFirmDiscount directory: 247 prop firm brands, 98 of them carrying live deals right now - coupon codes and promotions on challenges, evaluations, resets and funded-account add-ons. Each brand page collects that firm's current offers, every code checked at checkout before listing, alongside its Trustpilot rating and review history.
 
 [For Prop Firm Owners](#owner)
 
@@ -58,18 +58,18 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | Finotive Futures | PFDDEAL | 25% | standing | 2026-11-12 · [deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/) | - | 5 / 5 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | For Traders | VGYCKXLTY9 | 15% | standing | 2026-11-20 · [deal](https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/) | - | 44 / 58 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 · [deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) | World Cup | 9 / 15 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
-| Forexive | WHCTXQHRIG | 30% | standing | 2026-11-06 · [deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) | - | 9 / 26 | https://propfirmdiscount.com/prop-firm/forexive/ |
+| Forexive | WHCTXQHRIG | 30% | standing | 2026-11-21 · [deal](https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/) | - | 10 / 27 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | standing | 2026-11-05 · [deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/) | - | 31 / 40 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
 | Funded Hero | PFD | 60% | standing | 2026-11-04 · [deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) | - | 44 / 47 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 65% | standing | 2026-09-25 · [deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/) | - | 10 / 12 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
-| Funded Trading Plus | PFD | 20% | standing | 2026-11-20 · [deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/) | Black Friday | 45 / 64 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| Funded Trading Plus | PFD | 20% | standing | 2026-11-21 · [deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/) | Black Friday | 46 / 65 | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | FundedNext | PFDC | 20% | standing | 2026-11-01 · [deal](https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/) | - | 22 / 34 | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | FundedNext Futures | PFDC | 20% | standing | 2026-10-22 · [deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/) | - | 5 / 16 | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
 | Fundex | PFD | 10% | standing | 2026-10-09 · [deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) | - | 4 / 4 | https://propfirmdiscount.com/prop-firm/fundex/ |
-| Funding Your Trades | PFD | 2% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/) | Black Friday | 30 / 43 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
+| Funding Your Trades | PFD | 2% | standing | 2026-11-21 · [deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/) | Black Friday | 31 / 44 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
 | FundingTraders | PFD | 50% | standing | 2026-11-19 · [deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/) | - | 76 / 100 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 35% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | Black Friday | 32 / 52 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
-| Instant Funding | PFD | 20% | standing | 2026-11-20 · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/) | Black Friday | 31 / 37 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
+| Instant Funding | PFD | 20% | standing | 2026-11-21 · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/) | Black Friday | 32 / 38 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Klein Funding | PFD | 30% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Black Friday | 2 / 8 | https://propfirmdiscount.com/prop-firm/klein-funding/ |
 | Lucid Trading | PFD | 30% | standing | 2026-11-06 · [deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | - | 12 / 25 | https://propfirmdiscount.com/prop-firm/lucid-trading/ |
 | Phidias Propfirm | PFD | 85% | standing | 2026-11-11 · [deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) | Veterans Day | 35 / 41 | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
@@ -91,7 +91,7 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 
 ### How PropFirmDiscount Tracks These Firms
 
-Three separate signals appear on a brand page, and they come from different places. **Deals and codes** (98 brands have one live now) are added and re-checked by our editors against each firm's checkout. **Ratings and review counts** (200 brands are linked to Trustpilot) are pulled from the Trustpilot API twice a week - never typed in by hand - and shown with the date they were last confirmed. **The partner badge** (14 brands) reflects a direct relationship with PropFirmDiscount and is disclosed wherever it appears.
+Three separate signals appear on a brand page, and they come from different places. **Deals and codes** (98 brands have one live now) are added and re-checked by our editors against each firm's checkout. **Ratings and review counts** (229 brands are linked to Trustpilot) are pulled from the Trustpilot API twice a week - never typed in by hand - and shown with the date they were last confirmed. **The partner badge** (14 brands) reflects a direct relationship with PropFirmDiscount and is disclosed wherever it appears.
 
 A firm missing from the tracked list is not excluded for any quality reason - we simply have no verified deal from it today. Spot something out of date on a firm's page? Corrections are welcome through the contact details on that page.
 

@@ -1,4 +1,4 @@
-# Weekly Prop Firm Coupon Codes - Roundups Articles (2026)
+# Weekly Prop Firm Coupon Codes & Deals Articles (2026)
 
 Stay updated with our weekly prop firm coupon codes, exclusive discounts, and latest deals. Explore weekly roundups featuring active promotions from leading prop firms and discover new opportunities to save on trading challenges and funded accounts.
 

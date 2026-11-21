@@ -1,6 +1,6 @@
 # Forexive Discount Code
 
-Forexive currently lists 23 deals with discount codes. The best current offer is code WHCTXQHRIG for up to 30% off, checked November 2026 by the PropFirmDiscount team.
+Forexive currently lists 24 deals with discount codes. The best current offer is code WHCTXQHRIG for up to 30% off, checked November 2026 by the PropFirmDiscount team.
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 
@@ -8,7 +8,7 @@ Forexive currently lists 23 deals with discount codes. The best current offer is
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Forexive
-- Deal last verified: 2026-11-06
+- Deal last verified: 2026-11-21
 - Trustpilot score: 3.7/5 (114 reviews)
 - Official web: forexive.com
 - Email: support@forexive.com
@@ -18,31 +18,32 @@ Forexive currently lists 23 deals with discount codes. The best current offer is
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Forexive 1-Step Access: Start Any Size for $5
+## Current deal: Forexive New User Offer: 20% Off 1-Step & 2-Step
 
-- Deal last verified: 2026-11-06
+- Deal last verified: 2026-11-21
 - Deal ends: Limited time
-- Discount: $5
-- Applied to: 1-Step Access accounts, 5K to 200K
-- Deal url: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
+- Discount: 20% Off
+- Discount code: JOIN20
+- Applied to: All 1-Step and 2-Step challenges, new users
+- Deal url: https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/
 
 ## Forexive deal FAQ
 
-**How does the Forexive $5 start work?**
+**What does the offer include?**
 
-The buyer pays $5 upfront on any 1-Step Access size from 5K to 200K and settles the remaining fee after passing. The amount of the remaining fee is not stated in the announcement.
+20% off all 1-Step and 2-Step challenges at Forexive, for new users.
 
-**What terms apply to Forexive 1-Step Access?**
+**Who qualifies?**
 
-The stated terms are a 3% Phase 1 target, a 5% daily drawdown and a 10% maximum drawdown. The challenge is simulated and terms apply.
+The offer is framed for new users starting with the firm. Existing customers should not assume it applies to them.
 
-**Does the Forexive $5 start change the challenge terms?**
+**When does the offer end?**
 
-No. Only the upfront payment changes. The target and drawdown limits stay as set and trading risk is not reduced.
+No end date is stated in the announcement. Check the deal page for the current window.
 
-**Who may this Forexive deal suit?**
+**What happens after the evaluation?**
 
-It may suit a buyer who had already chosen a 1-Step Access size and was comparing upfront cost against the amount deferred. The full comparison depends on the remaining fee, which is not stated.
+Per the firm, traders who pass can manage a funded account with an initial balance of up to $250,000 once approved.
 
 ## Deals (last 2 months, newest first)
 
@@ -50,5 +51,6 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Forexive New User Offer: 20% Off 1-Step & 2-Step | 20% Off | Limited time | - | - | https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/ |
 | 2026-11-06 | Forexive 1-Step Access: Start Any Size for $5 | $5 | Limited time | - | No Code Required | https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/ |
 | 2026-10-14 | Forexive 30% Off All Trading Challenges | 30% Off | Ended | - | - | https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/ |
