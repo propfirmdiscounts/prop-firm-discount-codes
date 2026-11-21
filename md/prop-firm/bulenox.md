@@ -1,12 +1,13 @@
 # Bulenox Discount Code
 
-Bulenox currently lists 12 deals with discount codes. The best current offer is code PFD for up to 89% off, checked November 2026 by the PropFirmDiscount team.
+Bulenox currently lists 12 deals with discount codes. The best current offer is code PFD for 89% off, checked November 2026 by the PropFirmDiscount team.
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 
 - Discount code: PFD
-- Discount: Up to 89% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 89% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Bulenox
 - Deal last verified: 2026-10-07
 - Trustpilot score: 4.6/5 (1831 reviews)
 - Official web: bulenox.com
@@ -17,7 +18,7 @@ Bulenox currently lists 12 deals with discount codes. The best current offer is 
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) with code PFD
+## Most recent deal (ended): Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) (code PFD)
 
 - Deal last verified: 2026-10-07
 - Deal ends: Ended
@@ -49,4 +50,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-10-07 | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) with code PFD | 91% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |
+| 2026-10-07 | Bulenox 91% Off Option 1 Qualification Accounts (25K-150K) (code PFD) | 91% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/ |

@@ -2,6 +2,7 @@
 
 OFP Funding currently lists 57 deals with discount codes. Compare available promotions below to find the latest savings on OFP Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: OFP Funding
 - Deal last verified: 2026-11-10
 - Trustpilot score: 2.3/5 (4442 reviews)
 - Official web: ofpfunding.com

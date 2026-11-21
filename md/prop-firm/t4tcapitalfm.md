@@ -6,6 +6,7 @@ T4TCapitalFM has no discount code or deal listed right now — we track the firm
 >
 > T4TCapitalFM has rebranded to Traders4Traders.
 
+- Prop firm: T4TCapitalFM
 - Deal last verified: none yet
 - Official web: t4tcapitalfm.com
 - Market type: Forex/CFD

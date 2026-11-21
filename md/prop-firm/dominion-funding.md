@@ -7,6 +7,7 @@ Dominion Funding currently lists 22 deals with discount codes. The best current 
 - Discount code: PFD5PC
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Dominion Funding
 - Deal last verified: 2026-11-05
 - Trustpilot score: 2.8/5 (294 reviews)
 - Official web: dominionfunding.trade

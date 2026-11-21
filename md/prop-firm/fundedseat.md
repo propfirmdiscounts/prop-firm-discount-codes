@@ -8,6 +8,7 @@ FundedSeat currently lists 14 deals with discount codes. Compare available promo
 >
 > FundedSeat closed on 28 September 2026, and active accounts were refunded.
 
+- Prop firm: FundedSeat
 - Deal last verified: 2026-09-03
 - Trustpilot score: 4.3/5 (249 reviews)
 - Official web: fundedseat.com

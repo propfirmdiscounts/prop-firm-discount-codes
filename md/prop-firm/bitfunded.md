@@ -4,6 +4,7 @@ Bitfunded currently lists 11 deals. These are direct discounts — no code neede
 
 > First prop trading firm dedicated exclusively to crypto
 
+- Prop firm: Bitfunded
 - Deal last verified: 2026-11-13
 - Trustpilot score: 4.3/5 (208 reviews)
 - Official web: bitfunded.com

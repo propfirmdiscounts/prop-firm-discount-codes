@@ -8,6 +8,7 @@ CK PropFirm currently lists 53 deals with discount codes. Compare available prom
 >
 > CK PropFirm is the new brand name of CK Capital following its rebrand.
 
+- Prop firm: CK PropFirm
 - Deal last verified: 2026-11-16
 - Trustpilot score: 2.8/5 (431 reviews)
 - Official web: ckpropfirm.com
@@ -59,6 +60,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-06 | CK PropFirm Diwali 80% Off All Challenge Types | 80% Off | 2026-11-11 (ended) | Diwali | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-02 | CK PropFirm 75% Off All Challenge Accounts | 75% Off | 2026-11-30 | - | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |
 | 2026-10-23 | CK PropFirm 80% Off Challenges – Final 24 Hours | 80% Off | 2026-10-24 (ended) | - | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/ |
-| 2026-10-20 | CK PropFirm 80% Off Challenges: $100K Account for $144 | 80% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/ |
+| 2026-10-20 | CK PropFirm 80% Off Challenges: $100K Account for $144 | 80% Off | Ended | - | - | https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-100k-144/ |
 | 2026-10-16 | CK PropFirm 75% Off All Accounts Upfront Fee | 75% Off | Ended | - | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-off-all-accounts/ |
 | 2026-10-14 | CK Capital 75% Off All Challenge Accounts and 10% Off Resets | 75% Off | 2026-10-21 (ended) | - | No Code Required | https://propfirmdiscount.com/deals/ckcapital/ck-capital-75-off-launch-promotion/ |

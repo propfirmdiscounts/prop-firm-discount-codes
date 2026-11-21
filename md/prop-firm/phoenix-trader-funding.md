@@ -7,6 +7,7 @@ Phoenix Trader Funding currently lists 24 deals with discount codes. The best cu
 - Discount code: PFD
 - Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Phoenix Trader Funding
 - Deal last verified: 2026-11-04
 - Trustpilot score: 4.4/5 (264 reviews)
 - Official web: phoenixtraderfunding.com

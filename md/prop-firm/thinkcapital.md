@@ -7,6 +7,7 @@ ThinkCapital currently lists 30 deals with discount codes. The best current offe
 - Discount code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: ThinkCapital
 - Deal last verified: 2026-11-12
 - Trustpilot score: 4.0/5 (605 reviews)
 - Official web: thinkcapital.com

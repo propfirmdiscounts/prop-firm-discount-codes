@@ -4,6 +4,7 @@ FundingPips currently lists 20 deals with discount codes. Compare available prom
 
 > At FundingPips, we don't just elevate traders. We build them. Founded with one mission: create a transparent environment where talent is recognized, performance is rewarded, and growth never stops. Trusted by 3M+ traders across 195 countries, with $324M+ in rewards distributed and a Zero Reward Denial Policy that puts traders first. Your trading journey is more than a challenge. It’s the beginning of a career. Your trading career starts here.
 
+- Prop firm: FundingPips
 - Deal last verified: 2026-11-18
 - Trustpilot score: 4.5/5 (75283 reviews)
 - Official web: fundingpips.com

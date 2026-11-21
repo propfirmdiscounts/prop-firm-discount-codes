@@ -2,6 +2,7 @@
 
 FundedX has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: FundedX
 - Deal last verified: none yet
 - Official web: fundedx.com
 - Market type: Forex/CFD

@@ -7,6 +7,7 @@ WeMasterTrade currently lists 28 deals with discount codes. The best current off
 - Discount code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: WeMasterTrade
 - Deal last verified: 2026-10-29
 - Trustpilot score: 3.8/5 (2368 reviews)
 - Official web: wemastertrade.com

@@ -5,7 +5,7 @@
 Compare the best prop firm discount codes and deals available this month, ranked by their advertised savings. The highest November 2026 offers include 90% OFF at Elite Trader Funding with a code you copy from the deal page, 85% OFF at Phidias Propfirm with code PFD, 85% OFF at CK PropFirm with a code you copy from the deal page, and 81% OFF at FundingTraders with code PFD. PropFirmDiscount tracks 20 promotional offers published this month, including exclusive partner codes and limited-time campaign codes. Only live offers and deals marked "Limited time" appear in the table; ended promotions are excluded.
 
 | # | Prop firm | Event | Discount code | Discount | Type | Offer ends | Market type | Firm page |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | 1 | Elite Trader Funding | Thanksgiving | - | 90% | Campaign Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
 | 2 | Phidias Propfirm | Veterans Day | PFD | 85% | Exclusive Code | Ends Nov 24, 2026 | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 3 | CK PropFirm | - | - | 85% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/ckcapital/ |
@@ -32,7 +32,7 @@ Ranked highest discount first, one row per firm that posted a deal this month - 
 ## Best Active & Exclusive Prop Firm Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Market type | Firm page |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | No expiry | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 60% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | E8 Markets | CHUN | 50% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |

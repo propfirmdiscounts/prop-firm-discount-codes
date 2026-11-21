@@ -4,6 +4,7 @@ Take Profit Trader currently lists 4 deals with discount codes. Compare availabl
 
 > We fund futures traders. We’re a no-nonsense futures funding company with helpful 24/5 live trader support and an industry-leading payout program which allows you to get paid from day-one of your PRO account. Progress on your trading journey with us to live market PRO+ accounts and 90% profit splits. Come trade futures with the TPT team!
 
+- Prop firm: Take Profit Trader
 - Deal last verified: 2026-11-03
 - Trustpilot score: 4.4/5 (11313 reviews)
 - Official web: takeprofittrader.com

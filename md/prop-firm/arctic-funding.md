@@ -6,6 +6,7 @@ Arctic Funding has no discount code or deal listed right now — we track the fi
 >
 > Arctic Funding has ceased operations and its website is no longer available.
 
+- Prop firm: Arctic Funding
 - Deal last verified: none yet
 - Official web: arcticfunding.com
 - Market type: Forex/CFD

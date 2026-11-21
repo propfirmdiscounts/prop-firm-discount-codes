@@ -7,6 +7,7 @@ Equity Edge currently lists 40 deals with discount codes. The best current offer
 - Discount code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Equity Edge
 - Deal last verified: 2026-08-03
 - Trustpilot score: 4.2/5 (2730 reviews)
 - Official web: equityedge.io

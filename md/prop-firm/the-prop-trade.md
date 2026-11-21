@@ -7,6 +7,7 @@ thePropTrade currently lists 36 deals with discount codes. The best current offe
 - Discount code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: thePropTrade
 - Deal last verified: 2026-11-20
 - Trustpilot score: 3.5/5 (100 reviews)
 - Official web: theproptrade.com

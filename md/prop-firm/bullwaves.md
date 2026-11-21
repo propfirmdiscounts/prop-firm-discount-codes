@@ -5,6 +5,7 @@ Bullwaves Prime currently lists 19 deals with discount codes. The best current o
 - Discount code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Bullwaves Prime
 - Deal last verified: 2026-11-16
 - Trustpilot score: 3.4/5 (654 reviews)
 - Official web: bullwaves.com

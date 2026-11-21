@@ -11,6 +11,7 @@ Finotive Funding currently lists 51 deals with discount codes. The best current 
 - Discount code: PFDC
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Finotive Funding
 - Deal last verified: 2026-11-17
 - Trustpilot score: 3.6/5 (1071 reviews)
 - Official web: finotivefunding.com

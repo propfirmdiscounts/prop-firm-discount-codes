@@ -24,7 +24,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | AquaFunded | AquaFunded Black Friday: 35% Off Every Account | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
 | 2026-11-17 | FTUK | FTUK: 35% Off Flex Activation | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
-| 2026-11-17 | FundingTraders | FundingTraders Black Friday: Up to 70% Off with code PFD | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
+| 2026-11-17 | FundingTraders | FundingTraders Black Friday: Up to 70% Off (code PFD) | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
 | 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |

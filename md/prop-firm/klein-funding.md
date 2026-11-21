@@ -7,6 +7,7 @@ Klein Funding currently lists 8 deals with discount codes. The best current offe
 - Discount code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Klein Funding
 - Deal last verified: 2026-11-16
 - Trustpilot score: 4.8/5 (486 reviews)
 - Official web: kleinfunding.com

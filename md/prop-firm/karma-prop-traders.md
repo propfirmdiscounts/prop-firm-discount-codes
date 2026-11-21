@@ -6,6 +6,7 @@ Karma Prop Traders has no discount code or deal listed right now — we track th
 >
 > Karma Prop Traders was acquired by [Sway Funded](https://propfirmdiscount.com/prop-firm/sway-funded/) in August 2024, which took over its accounts and payouts; the Karma brand continues under Sway Funded.
 
+- Prop firm: Karma Prop Traders
 - Deal last verified: none yet
 - Official web: karmaproptraders.com
 - Market type: Forex/CFD

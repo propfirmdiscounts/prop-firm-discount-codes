@@ -2,6 +2,7 @@
 
 Funded Challenge has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Funded Challenge
 - Deal last verified: none yet
 - Official web: fundedchallenge.io
 - Market type: Chưa rõ

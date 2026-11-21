@@ -9,6 +9,7 @@ TX3 Funding currently lists 62 deals with discount codes. The best current offer
 - Discount code: PFD1
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: TX3 Funding
 - Deal last verified: 2026-11-19
 - Trustpilot score: 3.0/5 (4313 reviews)
 - Official web: tx3funding.com
@@ -62,7 +63,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | 2026-10-31 23:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
 | 2026-10-26 | TX3 Funding Halloween 35% Off All Accounts Weekend Flash | 35% Off | 2026-10-25 23:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/ |
 | 2026-10-20 | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% Off | 2026-10-25 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
-| 2026-10-20 | TX3 Funding 35% Off All Challenge Types | 35% Off | Limited time | - | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/ |
+| 2026-10-20 | TX3 Funding 35% Off All Challenge Types | 35% Off | Ended | - | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/ |
 | 2026-10-17 | TX3 Funding Halloween Sale: 30% Off All Accounts + 150% Refund | 30% Off | 2026-10-18 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/ |
 | 2026-10-13 | TX3 Funding Haunted Highs Week: 25% Off All Accounts + 90% Split | 25% Off | 2026-10-18 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/ |
 | 2026-10-07 | TX3 Funding 20% Off All Accounts Harvest Week | 20% Off | 2026-10-11 (ended) | - | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/ |

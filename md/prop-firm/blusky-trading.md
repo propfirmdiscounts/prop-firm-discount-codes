@@ -4,6 +4,7 @@ BluSky Trading currently lists 44 deals with discount codes. Compare available p
 
 > We fund and grow day traders.  Those other guys want you to fail. We want you to succeed. Trade our company's live accounts and receive up to 90% of profits.
 
+- Prop firm: BluSky Trading
 - Deal last verified: 2026-11-11
 - Trustpilot score: 4.6/5 (1010 reviews)
 - Official web: blusky.pro

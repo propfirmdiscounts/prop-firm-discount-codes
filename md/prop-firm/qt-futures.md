@@ -11,6 +11,7 @@ QT Futures currently lists 3 deals with discount codes. The best current offer i
 - Discount code: PFDDEAL
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: QT Futures
 - Deal last verified: 2026-01-19
 - Trustpilot score: 3.7/5 (13197 reviews)
 - Official web: qtfutures.quanttekel.com

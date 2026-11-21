@@ -4,6 +4,7 @@ Hantec Trader currently lists 32 deals with discount codes. Compare available pr
 
 > RZR Funded provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our 1-Step, 2-Step, 3-Step, and various Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits.
 
+- Prop firm: Hantec Trader
 - Deal last verified: 2026-10-14
 - Trustpilot score: 4.4/5 (882 reviews)
 - Official web: hmarkets.com

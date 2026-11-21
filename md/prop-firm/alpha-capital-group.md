@@ -4,6 +4,7 @@ Alpha Capital Group currently lists 50 deals with discount codes. Compare availa
 
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 
+- Prop firm: Alpha Capital Group
 - Deal last verified: 2026-11-19
 - Trustpilot score: 4.5/5 (22239 reviews)
 - Official web: alphacapitalgroup.uk

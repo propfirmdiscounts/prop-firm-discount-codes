@@ -4,6 +4,7 @@ Blueberry Funded currently lists 60 deals with discount codes. Compare available
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
+- Prop firm: Blueberry Funded
 - Deal last verified: 2026-11-17
 - Trustpilot score: 3.4/5 (1777 reviews)
 - Official web: blueberryfunded.com

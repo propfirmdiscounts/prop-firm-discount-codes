@@ -1,18 +1,17 @@
 # Tradeify 50% Off All FX Accounts – Any Size
 
-Tradeify is offering 50% off.
+Tradeify was offering 50% off.
 
 > Tradeify offers 50% off any FX account at any size until reserves are drained. Futures are excluded and the cut lowers entry cost only.
 
 Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
 
 - Deal last verified: 2026-10-20
-- Deal ends: Limited time
+- Deal ends: Ended
 - Prop firm: Tradeify
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeify/
 - Summary: Tradeify cuts the purchase price of any FX account by 50% at any size until reserves are drained. Futures are excluded and the lower entry cost does not change trading rules or reduce trading risk.
 - Discount: 50% Off
-- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
 - Applied to: FX accounts, any account size, Futures excluded, not available to US Persons
 - Deal url: https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/
 

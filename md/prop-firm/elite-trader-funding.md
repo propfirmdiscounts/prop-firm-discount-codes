@@ -4,6 +4,7 @@ Elite Trader Funding currently lists 63 deals with discount codes. Compare avail
 
 > At Elite Trader Funding (www.elitetraderfunding.app), we're passionate about helping retail traders and giving them the opportunity to make a career in trading. We've created a welcoming community where traders of all levels can succeed, driven by our commitment to innovation and excellence. Our mission is simple: to give futures traders the tools, resources, and support they need to thrive in the exciting world of futures trading. We specialize in giving traders access to a wide range of futures instruments across different asset classes. Our platform is designed to make trading user-friendly and intuitive, with advanced features and user insights that are perfect for futures trading. What sets Elite Trader Funding apart is our unique evaluation process. It's a chance for traders to prove themselves and earn a funded futures trading account without risking their own money. It's a low-risk way to turn your passion for trading into a successful career. At Elite Trader Funding, we're always here to help. Our team of experts is dedicated to supporting traders at every step of their journey. Whether you're a seasoned pro or just starting out, join us today and showcase your skills. Be Elite.
 
+- Prop firm: Elite Trader Funding
 - Deal last verified: 2026-11-16
 - Trustpilot score: 3.7/5 (1178 reviews)
 - Official web: elitetraderfunding.app

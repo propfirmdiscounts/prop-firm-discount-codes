@@ -4,6 +4,7 @@ City Traders Imperium (CTI) currently lists 57 deals with discount codes. Compar
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
+- Prop firm: City Traders Imperium (CTI)
 - Deal last verified: 2026-11-12
 - Trustpilot score: 4.3/5 (1646 reviews)
 - Official web: citytradersimperium.com

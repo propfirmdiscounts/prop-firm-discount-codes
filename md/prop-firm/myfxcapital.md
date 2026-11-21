@@ -4,6 +4,7 @@ MyFxCapital currently lists 3 deals with discount codes. Compare available promo
 
 > MyFxCapital is a Forex Prop firm committed to providing opportunities and resources for traders to excel in the financial market. Our team of traders, financial experts, and technology enthusiasts work tirelessly to deliver the best solutions for new and seasoned traders. We developed a unique 2-Step Evaluation system for discovering new talent and Direct Funding accounts for veteran traders.
 
+- Prop firm: MyFxCapital
 - Deal last verified: 2025-12-02
 - Trustpilot score: 3.0/5 (55 reviews)
 - Official web: myfxcapital.com

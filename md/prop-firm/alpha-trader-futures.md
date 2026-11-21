@@ -4,6 +4,7 @@ Alpha Trader Futures currently lists 10 deals with discount codes. Compare avail
 
 > Alpha Trader Futures is a Proprietary Trading Firm that provides virtual trading challenges. Pass the challenge and trade our virtual capital.
 
+- Prop firm: Alpha Trader Futures
 - Deal last verified: 2026-09-01
 - Trustpilot score: 3.7/5 (8 reviews)
 - Official web: alphatraderfutures.com

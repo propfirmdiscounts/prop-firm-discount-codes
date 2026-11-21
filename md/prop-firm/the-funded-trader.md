@@ -6,6 +6,7 @@ The Funded Trader Program (TFT) currently lists 1 deal with a discount code. Com
 >
 > The Funded Trader Program (TFT) halted operations in March 2024 and remains shut down.
 
+- Prop firm: The Funded Trader Program (TFT)
 - Deal last verified: 2023-04-10
 - Trustpilot score: 2.9/5 (21909 reviews)
 - Official web: thefundedtraderprogram.com

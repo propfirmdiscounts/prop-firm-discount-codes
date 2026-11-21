@@ -4,6 +4,7 @@ PropShopTrader currently lists 18 deals with discount codes. Compare available p
 
 > PropShopTrader is a proprietary trading firm built to develop traders into real, scalable proprietary capital across multiple asset classes. We operate a structured progression model that allows traders to prove consistency in simulated environments before advancing into live corporate trading. Our approach prioritizes long-term development, disciplined risk management, and professional standards over short-term payouts or repeated resets. With proprietary technology, education, and infrastructure, PropShopTrader supports traders as they grow within a single firm across expanding markets.
 
+- Prop firm: PropShopTrader
 - Deal last verified: 2026-04-28
 - Trustpilot score: 3.5/5 (548 reviews)
 - Official web: propshoptrader.com

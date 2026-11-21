@@ -1,4 +1,4 @@
-# E8 Markets Classic v2 Launch: 10% Off with code CHUN
+# E8 Markets Classic v2 Launch: 10% Off (code CHUN)
 
 E8 Markets is offering 10% off — discount code **CHUN**.
 

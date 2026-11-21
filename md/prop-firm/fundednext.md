@@ -5,6 +5,7 @@ FundedNext currently lists 32 deals with discount codes. The best current offer 
 - Discount code: PFDC
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: FundedNext
 - Deal last verified: 2026-11-01
 - Trustpilot score: 4.5/5 (84272 reviews)
 - Official web: fundednext.com

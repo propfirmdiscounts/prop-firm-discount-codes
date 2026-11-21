@@ -7,6 +7,7 @@ Direct Funded Trader currently lists 8 deals with discount codes. The best curre
 - Discount code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Direct Funded Trader
 - Deal last verified: 2026-11-19
 - Trustpilot score: 2.6/5 (232 reviews)
 - Official web: directfundedtrader.com

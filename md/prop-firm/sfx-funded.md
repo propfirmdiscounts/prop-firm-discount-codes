@@ -4,6 +4,7 @@ SFX Funded currently lists 19 deals with discount codes. Compare available promo
 
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 
+- Prop firm: SFX Funded
 - Deal last verified: 2026-11-02
 - Trustpilot score: 2.4/5 (129 reviews)
 - Official web: sfxfunded.com

@@ -6,6 +6,7 @@ Seacrest Funded currently lists 2 deals with discount codes. Compare available p
 >
 > Seacrest Funded (formerly MyFundedFX) shut down its prop trading division on 6 February 2026.
 
+- Prop firm: Seacrest Funded
 - Deal last verified: 2025-10-05
 - Official web: seacrestmarkets.io
 - Market type: Forex/CFD

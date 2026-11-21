@@ -7,6 +7,7 @@ AquaFunded currently lists 53 deals with discount codes. The best current offer 
 - Discount code: PFD
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: AquaFunded
 - Deal last verified: 2026-11-17
 - Trustpilot score: 2.0/5 (1221 reviews)
 - Official web: aquafunded.com

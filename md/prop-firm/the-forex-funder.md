@@ -6,6 +6,7 @@ The Forex Funder has no discount code or deal listed right now — we track the 
 >
 > The Forex Funder is no longer operating, and its website has been offline since October 2026.
 
+- Prop firm: The Forex Funder
 - Deal last verified: none yet
 - Official web: theforexfunder.com
 - Market type: Forex/CFD

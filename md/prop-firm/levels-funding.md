@@ -2,6 +2,7 @@
 
 Levels Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Levels Funding
 - Deal last verified: none yet
 - Official web: levels-funding.com
 - Market type: Forex/CFD

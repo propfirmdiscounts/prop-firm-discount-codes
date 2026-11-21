@@ -4,6 +4,7 @@ Tradeify currently lists 18 deals with discount codes. Compare available promoti
 
 > At Tradeify, we empower talented traders to trade and earn payouts through a streamlined 3-step process designed to maximise opportunity and minimize personal financial risk. Our program begins with a trading challenge, progresses to a simulated funded stage, and culminates in a live funded account for consistent and successful traders. Tradeify provides cutting-edge tools to support your trading journey, including automated journaling to analyze and improve performance, and a dedicated trader support team to guide you every step of the way. Our platform offers a seamless trading experience with transparent rules, disciplined risk management practices, and opportunities to scale to significant capital. With Tradeify, you’re not just trading—you’re leveraging advanced technology and personalized support to build a successful and lasting partnership.
 
+- Prop firm: Tradeify
 - Deal last verified: 2026-10-20
 - Trustpilot score: 4.6/5 (7447 reviews)
 - Official web: tradeify.co
@@ -13,12 +14,11 @@ Tradeify currently lists 18 deals with discount codes. Compare available promoti
 - Active deal url: https://propfirmdiscount.com/go/tradeify
 - Firm page: https://propfirmdiscount.com/prop-firm/tradeify/
 
-## Current deal: Tradeify 50% Off All FX Accounts – Any Size
+## Most recent deal (ended): Tradeify 50% Off All FX Accounts – Any Size
 
 - Deal last verified: 2026-10-20
-- Deal ends: Limited time
+- Deal ends: Ended
 - Discount: 50% Off
-- Discount code: MILK
 - Applied to: FX accounts, any account size, Futures excluded, not available to US Persons
 - Deal url: https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/
 
@@ -54,4 +54,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-10-20 | Tradeify 50% Off All FX Accounts – Any Size | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/ |
+| 2026-10-20 | Tradeify 50% Off All FX Accounts – Any Size | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-accounts-any-size/ |

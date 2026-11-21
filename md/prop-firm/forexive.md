@@ -7,6 +7,7 @@ Forexive currently lists 23 deals with discount codes. The best current offer is
 - Discount code: WHCTXQHRIG
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Forexive
 - Deal last verified: 2026-11-06
 - Trustpilot score: 3.7/5 (114 reviews)
 - Official web: forexive.com

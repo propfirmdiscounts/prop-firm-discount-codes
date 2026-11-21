@@ -2,6 +2,7 @@
 
 TEFS has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: TEFS
 - Deal last verified: none yet
 - Official web: tefs.com
 - Market type: Forex/CFD + Cổ phiếu (Stocks)

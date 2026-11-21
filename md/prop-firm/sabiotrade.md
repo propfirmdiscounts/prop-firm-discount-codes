@@ -7,6 +7,7 @@ SabioTrade currently lists 5 deals with discount codes. The best current offer i
 - Discount code: PFD
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: SabioTrade
 - Deal last verified: 2026-11-18
 - Trustpilot score: 3.6/5 (699 reviews)
 - Official web: sabiotrade.com

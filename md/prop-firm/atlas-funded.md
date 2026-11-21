@@ -7,6 +7,7 @@ Atlas Funded currently lists 42 deals with discount codes. The best current offe
 - Discount code: PFD
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Atlas Funded
 - Deal last verified: 2026-11-20
 - Trustpilot score: 3.9/5 (2239 reviews)
 - Official web: atlasfunded.com

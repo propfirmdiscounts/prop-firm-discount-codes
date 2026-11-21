@@ -2,6 +2,7 @@
 
 My Crypto Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: My Crypto Funding
 - Deal last verified: none yet
 - Official web: mycryptofunding.org
 - Market type: Crypto

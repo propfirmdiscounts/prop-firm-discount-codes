@@ -6,6 +6,7 @@ Traddoo has no discount code or deal listed right now — we track the firm and 
 >
 > Traddoo has closed and is no longer accepting new traders.
 
+- Prop firm: Traddoo
 - Deal last verified: none yet
 - Official web: traddoo.com
 - Market type: Forex/CFD

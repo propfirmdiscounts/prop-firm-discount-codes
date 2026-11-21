@@ -4,6 +4,7 @@ Top One Trader currently lists 15 deals with discount codes. Compare available p
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
+- Prop firm: Top One Trader
 - Deal last verified: 2026-11-17
 - Trustpilot score: 4.4/5 (3500 reviews)
 - Official web: toponetrader.com

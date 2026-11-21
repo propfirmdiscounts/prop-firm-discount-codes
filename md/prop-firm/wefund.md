@@ -6,6 +6,7 @@ WeFund has no discount code or deal listed right now — we track the firm and p
 >
 > WeFund went offline in April 2026 and is no longer operating.
 
+- Prop firm: WeFund
 - Deal last verified: none yet
 - Official web: wefund.io
 - Market type: Forex/CFD

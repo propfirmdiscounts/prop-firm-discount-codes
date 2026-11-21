@@ -1,6 +1,6 @@
 # All Prop Firm Codes - directory of every firm with a live code
 
-50 prop firms have a verified standing discount code right now; the biggest are Bulenox code **PFD** — 89% off, Phidias Propfirm code **PFD** — 85% off, Funded Hero Futures code **PFD** — 65% off, Top One Futures code **PFD** — 65% off, and Doji Funding code **PFD** — 60% off. Every code is listed below, alphabetical by firm.
+49 prop firms have a verified standing discount code right now; the biggest are Bulenox code **PFD** — 89% off, Phidias Propfirm code **PFD** — 85% off, Funded Hero Futures code **PFD** — 65% off, Top One Futures code **PFD** — 65% off, and Doji Funding code **PFD** — 60% off. Every code is listed below, alphabetical by firm.
 
 > Alphabetical directory of every firm with a verified standing exclusive code. Source: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -78,7 +78,6 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | QT Funded | PFDDEAL | 50% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/) | Black Friday | 43 / 66 | https://propfirmdiscount.com/prop-firm/qt-funded/ |
 | QT Futures | PFDDEAL | 50% | standing | 2026-01-19 · [deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) | - | 1 / 3 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | SabioTrade | PFD | 30% | standing | 2026-11-18 · [deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
-| Seacrest Markets | jackichun | 5% | standing | 2026-01-02 · [deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) | New Year's Eve | 1 / 8 | https://propfirmdiscount.com/prop-firm/seacrest-markets/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 · [deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/) | - | 20 / 29 | https://propfirmdiscount.com/prop-firm/super-funded/ |
 | TX3 Funding | PFD1 | 25% | standing | 2026-11-19 · [deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | Black Friday | 47 / 64 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | standing | 2025-12-22 · [deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) | New Year's Eve | 0 / 2 | https://propfirmdiscount.com/prop-firm/the5ers/ |

@@ -2,6 +2,7 @@
 
 Traders Launch currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on Traders Launch challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: Traders Launch
 - Deal last verified: 2026-11-02
 - Trustpilot score: 4.5/5 (82 reviews)
 - Official web: traderslaunch.com

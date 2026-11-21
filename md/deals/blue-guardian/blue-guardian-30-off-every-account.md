@@ -1,4 +1,4 @@
-# Blue Guardian: 30% Off Every Account This Week with code PFD
+# Blue Guardian: 30% Off Every Account This Week (code PFD)
 
 Blue Guardian is offering 30% off — discount code **PFD**.
 

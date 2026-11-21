@@ -4,6 +4,7 @@ Ment Funding currently lists 31 deals with discount codes. Compare available pro
 
 > Serious Funding for Serious Traders. Best 1-step model in the entire industry. Looking for high end traders that understand risk management. Get funded in 1-step as a good trader.
 
+- Prop firm: Ment Funding
 - Deal last verified: 2026-11-15
 - Trustpilot score: 4.6/5 (237 reviews)
 - Official web: mentfunding.com

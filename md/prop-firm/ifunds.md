@@ -4,6 +4,7 @@ Ifunds currently lists 1 deal with a discount code. Compare available promotions
 
 > iFunds is not just another instant funding firm; it is a beacon of opportunity for traders seeking to elevate their performance in the financial markets. Founded by seasoned traders and risk managers, iFunds was born out of a collective vision to create a secure haven where traders can truly scale their potential with confidence. Our team understands the challenges and uncertainties that traders face in today's dynamic market environment. That's why we've meticulously crafted a platform that provides a safe zone for traders to amplify their performance without unnecessary risks or constraints.
 
+- Prop firm: Ifunds
 - Deal last verified: 2025-12-02
 - Trustpilot score: 4.6/5 (206 reviews)
 - Official web: ifunds.io

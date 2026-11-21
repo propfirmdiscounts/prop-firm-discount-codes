@@ -5,6 +5,7 @@ Goat Funded Trader currently lists 49 deals with discount codes. The best curren
 - Discount code: CSV
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Goat Funded Trader
 - Deal last verified: 2026-11-16
 - Trustpilot score: 2.0/5 (4369 reviews)
 - Official web: goatfundedtrader.com

@@ -6,6 +6,7 @@ FundingTicks currently lists 2 deals with discount codes. Compare available prom
 >
 > FundingTicks is winding down its operations as of January 2026 and is no longer accepting new traders.
 
+- Prop firm: FundingTicks
 - Deal last verified: 2025-12-19
 - Official web: fundingticks.com
 - Market type: Futures

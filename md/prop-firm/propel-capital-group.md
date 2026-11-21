@@ -6,6 +6,7 @@ Propel Capital Group has no discount code or deal listed right now — we track 
 >
 > Propel Capital Group closed on 19 August 2025 and is no longer operating.
 
+- Prop firm: Propel Capital Group
 - Deal last verified: none yet
 - Official web: propelcapitalgroup.co.uk
 - Market type: Forex/CFD

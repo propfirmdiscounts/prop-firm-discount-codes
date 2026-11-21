@@ -4,6 +4,7 @@ FundedTop currently lists 1 deal with a discount code. Compare available promoti
 
 > FundedTop offers beginner and professional Traders an evaluation platform with access to virtual trading capital.
 
+- Prop firm: FundedTop
 - Deal last verified: 2025-09-12
 - Trustpilot score: 3.3/5 (110 reviews)
 - Official web: fundedtop.com

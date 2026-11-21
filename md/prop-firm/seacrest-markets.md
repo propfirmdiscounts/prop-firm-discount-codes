@@ -1,6 +1,6 @@
 # Seacrest Markets Discount Code
 
-Seacrest Markets currently lists 8 deals with discount codes. The best current offer is code jackichun for up to 5% off, checked November 2026 by the PropFirmDiscount team.
+Seacrest Markets currently lists 8 deals with discount codes. Compare available promotions below to find the latest savings on Seacrest Markets challenge accounts, checked January 2026 by the PropFirmDiscount team.
 
 > At Seacrest Markets, speed meets reliability. We deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5. Choose the account type that fits your strategy and access multiple asset classes — all backed by responsive support and strong risk protection. Trade smarter. Trade faster. Trade with confidence at Seacrest Markets.
 
@@ -8,9 +8,7 @@ Seacrest Markets currently lists 8 deals with discount codes. The best current o
 >
 > Seacrest Markets is no longer operating.
 
-- Discount code: jackichun
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Seacrest Markets
 - Deal last verified: 2026-01-02
 - Trustpilot score: 4.2/5 (2873 reviews)
 - Official web: seacrestmarkets.io
@@ -19,7 +17,6 @@ Seacrest Markets currently lists 8 deals with discount codes. The best current o
 - Market type: Forex/CFD
 - Active deal url: https://propfirmdiscount.com/go/seacrestfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/seacrest-markets/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Most recent deal (ended): Seacrest Markets New Year Sale: 25% OFF Any Plan + BOGO Upon Payout
 

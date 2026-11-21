@@ -17,7 +17,7 @@ Explore the highest recorded discount rates across tracked proprietary trading f
 ## Prop Firms with the Highest Exclusive Discount Codes
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Market type | Firm page |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 85% | No expiry | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 60% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | E8 Markets | CHUN | 50% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |

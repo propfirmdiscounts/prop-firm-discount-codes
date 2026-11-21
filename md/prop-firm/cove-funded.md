@@ -2,6 +2,7 @@
 
 Cove Funded has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Cove Funded
 - Deal last verified: none yet
 - Official web: covefunded.com
 - Market type: Forex/CFD

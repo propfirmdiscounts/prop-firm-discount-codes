@@ -4,6 +4,7 @@ Prop Nimbus currently lists 24 deals with discount codes. Compare available prom
 
 > At Prop Nimbus, we do more than just support traders—we empower them to reach new heights. With access to significant capital, cutting-edge tools, and expert guidance, we turn your trading ambitions into real, measurable success. Join a thriving community where your growth is our mission, and discover how we make every trade an opportunity to excel. Ready to elevate your trading game? Let’s make it happen.
 
+- Prop firm: Prop Nimbus
 - Deal last verified: 2025-11-14
 - Trustpilot score: 2.4/5 (190 reviews)
 - Official web: propnimbus.com

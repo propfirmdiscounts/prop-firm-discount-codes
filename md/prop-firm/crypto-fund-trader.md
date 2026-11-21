@@ -5,6 +5,7 @@ Crypto Fund Trader currently lists 7 deals with discount codes. The best current
 - Discount code: platinum5
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Crypto Fund Trader
 - Deal last verified: 2026-11-14
 - Trustpilot score: 4.2/5 (1112 reviews)
 - Official web: cryptofundtrader.com

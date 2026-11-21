@@ -2,6 +2,7 @@
 
 Hola Prime currently lists 76 deals with discount codes. Compare available promotions below to find the latest savings on Hola Prime challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: Hola Prime
 - Deal last verified: 2026-11-02
 - Trustpilot score: 4.6/5 (4345 reviews)
 - Official web: holaprime.com

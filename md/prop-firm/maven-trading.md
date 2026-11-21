@@ -4,6 +4,7 @@ Maven Trading currently lists 4 deals with discount codes. Compare available pro
 
 > Looking for information on Maven Trading? Find it at their official review platform here: https://www.feefo.com/en-GB/reviews/maventrading-com At Mavsoft, we are at the forefront of advancing machine learning techniques for the production of risk-adverse intelligence. Our services encompass a wide array of cutting-edge methodologies, encompassing deep neural networks, reinforcement learning, and generative adversarial networks. By harnessing the power of these sophisticated algorithms, we empower our clients to leverage the full potential of AI-driven risk assessment, ensuring enhanced risk aversion in a rapidly evolving landscape.
 
+- Prop firm: Maven Trading
 - Deal last verified: 2026-03-23
 - Trustpilot score: 3.7/5 (5233 reviews)
 - Official web: maventrading.com

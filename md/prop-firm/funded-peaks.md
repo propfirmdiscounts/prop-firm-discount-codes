@@ -6,6 +6,7 @@ Funded Peaks has no discount code or deal listed right now — we track the firm
 >
 > Funded Peaks has shut down and is no longer accepting new traders.
 
+- Prop firm: Funded Peaks
 - Deal last verified: none yet
 - Official web: fundedpeaks.com
 - Market type: Forex/CFD

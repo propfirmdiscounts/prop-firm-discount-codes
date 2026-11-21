@@ -6,6 +6,7 @@ Toptier Trader currently lists 3 deals with discount codes. Compare available pr
 >
 > Toptier Trader has rebranded to [TX3 Funding](https://propfirmdiscount.com/prop-firm/tx3-funding/) — same team, new name, with forex and futures now combined.
 
+- Prop firm: Toptier Trader
 - Deal last verified: 2025-09-24
 - Official web: toptiertrader.com
 - Market type: Forex/CFD + Futures

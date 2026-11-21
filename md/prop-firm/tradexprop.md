@@ -4,6 +4,7 @@ Tradexprop currently lists 20 deals with discount codes. Compare available promo
 
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 
+- Prop firm: Tradexprop
 - Deal last verified: 2026-11-17
 - Trustpilot score: 3.9/5 (44 reviews)
 - Official web: tradexprop.com

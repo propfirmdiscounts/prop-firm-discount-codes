@@ -6,6 +6,7 @@ Monevis has no discount code or deal listed right now — we track the firm and 
 >
 > Monevis has rebranded to Zentro Funding.
 
+- Prop firm: Monevis
 - Deal last verified: none yet
 - Official web: monevis.com
 - Market type: Forex/CFD

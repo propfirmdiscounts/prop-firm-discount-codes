@@ -4,6 +4,7 @@ Lark Funding currently lists 18 deals with discount codes. Compare available pro
 
 > Demo Prop Trading. Minus The Nonsense.
 
+- Prop firm: Lark Funding
 - Deal last verified: 2026-11-17
 - Trustpilot score: 4.3/5 (516 reviews)
 - Official web: larkfunding.com

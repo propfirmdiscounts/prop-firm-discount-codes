@@ -6,6 +6,7 @@ HyroTrader currently lists 8 deals with discount codes. Compare available promot
 >
 > HyroTrader discount code (PFD) is currently inactive. Discounts may not apply at checkout.
 
+- Prop firm: HyroTrader
 - Deal last verified: 2026-11-06
 - Trustpilot score: 4.0/5 (240 reviews)
 - Official web: hyrotrader.com

@@ -2,6 +2,7 @@
 
 Lux Trading Firm currently lists 1 deal with a discount code. Compare available promotions below to find the latest savings on Lux Trading Firm challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: Lux Trading Firm
 - Deal last verified: 2026-11-19
 - Trustpilot score: 3.7/5 (626 reviews)
 - Official web: luxtradingfirm.com

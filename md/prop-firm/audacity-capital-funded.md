@@ -4,6 +4,7 @@ AudaCity Capital currently lists 32 deals with discount codes. Compare available
 
 > Founded in 2012 in London, we are the longest-running prop firm dedicated to empowering traders with the capital they need to succeed. Our mission is simple: to give talented traders the resources, support, and freedom to unlock their full potential. With years of experience and a proven track record, we’re here to help you dominate the markets, accelerate your trading career, and achieve long term success.
 
+- Prop firm: AudaCity Capital
 - Deal last verified: 2026-11-20
 - Trustpilot score: 2.8/5 (300 reviews)
 - Official web: audacity.capital

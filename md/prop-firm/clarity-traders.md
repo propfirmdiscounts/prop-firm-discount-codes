@@ -2,6 +2,7 @@
 
 Clarity Traders has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Clarity Traders
 - Deal last verified: none yet
 - Official web: claritytraders.com
 - Market type: Forex/CFD

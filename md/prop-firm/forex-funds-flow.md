@@ -7,6 +7,7 @@ Forex Funds Flow currently lists 13 deals with discount codes. The best current 
 - Discount code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Forex Funds Flow
 - Deal last verified: 2026-06-12
 - Trustpilot score: 3.5/5 (259 reviews)
 - Official web: forexfundsflow.com

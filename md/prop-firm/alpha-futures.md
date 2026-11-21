@@ -8,6 +8,7 @@ Alpha Futures currently lists 35 deals with discount codes. Compare available pr
 >
 > Alpha Futures discount code (Tran009503) is no longer available. Please check other active offers for the latest discounts.
 
+- Prop firm: Alpha Futures
 - Deal last verified: 2026-11-03
 - Trustpilot score: 4.3/5 (6320 reviews)
 - Official web: alpha-futures.com

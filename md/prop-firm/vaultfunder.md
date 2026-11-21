@@ -6,6 +6,7 @@ VaultFunder has no discount code or deal listed right now — we track the firm 
 >
 > VaultFunder has ceased operations and is permanently closed.
 
+- Prop firm: VaultFunder
 - Deal last verified: none yet
 - Official web: vaultfunder.trade
 - Market type: Forex/CFD

@@ -2,6 +2,7 @@
 
 IC Funded currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on IC Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: IC Funded
 - Deal last verified: 2026-11-04
 - Trustpilot score: 3.5/5 (202 reviews)
 - Official web: icfunded.com

@@ -1,4 +1,4 @@
-# Doji Funding GTA VI Promo: 60% Off Challenges with code PFD
+# Doji Funding GTA VI Promo: 60% Off Challenges (code PFD)
 
 Doji Funding is offering 60% off — discount code **PFD**.
 

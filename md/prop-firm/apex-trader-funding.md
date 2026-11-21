@@ -4,6 +4,7 @@ Apex Trader Funding currently lists 4 deals with discount codes. Compare availab
 
 > The Ultimate Source For Trader Funding!   With Over 500 Million paid out since 2022, to date more than any other futures funding evaluation company. We have no hidden caps on payouts like our competitors and post every payout on our website (link at bottom of the page). We have one step evaluations and always have. We have one rule do not go below the trailing stop in your balance for evaluations With one username you can have 20 pa accounts (performance accounts)
 
+- Prop firm: Apex Trader Funding
 - Deal last verified: 2026-10-01
 - Trustpilot score: 4.2/5 (21843 reviews)
 - Official web: apextraderfunding.com

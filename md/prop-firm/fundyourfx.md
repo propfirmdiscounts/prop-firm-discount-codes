@@ -2,6 +2,7 @@
 
 FundYourFX currently lists 52 deals with discount codes. Compare available promotions below to find the latest savings on FundYourFX challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
+- Prop firm: FundYourFX
 - Deal last verified: 2026-11-17
 - Trustpilot score: 3.7/5 (919 reviews)
 - Official web: fundyourfx.io

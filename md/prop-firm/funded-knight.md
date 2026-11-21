@@ -6,6 +6,7 @@ Funded Knight has no discount code or deal listed right now — we track the fir
 >
 > Funded Knight ceased all operations on 15 June 2026 and is no longer accepting new traders.
 
+- Prop firm: Funded Knight
 - Deal last verified: none yet
 - Official web: fundedknight.com
 - Market type: Forex/CFD

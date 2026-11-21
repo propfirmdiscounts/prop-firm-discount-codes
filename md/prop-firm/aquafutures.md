@@ -8,6 +8,7 @@ AquaFutures currently lists 13 deals with discount codes. Compare available prom
 >
 > AquaFutures has merged into AquaFunded and now operates as [AquaFunded Futures](https://propfirmdiscount.com/prop-firm/aquafunded/).
 
+- Prop firm: AquaFutures
 - Deal last verified: 2026-06-06
 - Trustpilot score: 3.8/5 (594 reviews)
 - Official web: aquafutures.io

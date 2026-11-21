@@ -2,6 +2,7 @@
 
 Funded Prime has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Funded Prime
 - Deal last verified: none yet
 - Official web: fundedprime.com
 - Market type: Forex/CFD

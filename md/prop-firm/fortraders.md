@@ -5,6 +5,7 @@ For Traders currently lists 56 deals with discount codes. The best current offer
 - Discount code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: For Traders
 - Deal last verified: 2026-11-20
 - Trustpilot score: 4.1/5 (1862 reviews)
 - Official web: fortraders.com

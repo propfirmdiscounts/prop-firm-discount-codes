@@ -6,6 +6,7 @@ Nostro Markets has no discount code or deal listed right now — we track the fi
 >
 > Nostro Markets has closed, and trader accounts were moved to [FunderPro](https://propfirmdiscount.com/prop-firm/funderpro/).
 
+- Prop firm: Nostro Markets
 - Deal last verified: none yet
 - Official web: nostromarkets.com
 - Market type: Forex/CFD

@@ -1,4 +1,4 @@
-# FundingTraders: 50% Off $100K+ Accounts with code PFD
+# FundingTraders: 50% Off $100K+ Accounts (code PFD)
 
 FundingTraders is offering 50% off — discount code **PFD**.
 

@@ -6,6 +6,7 @@ Funded Futures Family has no discount code or deal listed right now — we track
 >
 > Funded Futures Family has rebranded to Funded Family One, and its website now redirects to the new brand.
 
+- Prop firm: Funded Futures Family
 - Deal last verified: none yet
 - Official web: fundedfuturesfamily.com
 - Market type: Futures

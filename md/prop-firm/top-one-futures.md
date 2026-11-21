@@ -1,10 +1,11 @@
 # Top One Futures Discount Code
 
-Top One Futures currently lists 10 deals with discount codes. The best current offer is code PFD for up to 65% off, checked November 2026 by the PropFirmDiscount team.
+Top One Futures currently lists 10 deals with discount codes. The best current offer is code PFD for 65% off, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: PFD
-- Discount: Up to 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 65% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Top One Futures
 - Deal last verified: 2026-11-02
 - Trustpilot score: 4.8/5 (5469 reviews)
 - Official web: toponefutures.com
@@ -14,7 +15,7 @@ Top One Futures currently lists 10 deals with discount codes. The best current o
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Top One Futures Black November Up to 65% Off with code PFD
+## Current deal: Top One Futures Black November Up to 65% Off (code PFD)
 
 - Deal last verified: 2026-11-02
 - Deal ends: Limited time
@@ -56,6 +57,6 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-02 | Top One Futures Black November Up to 65% Off with code PFD | 65% Off | Limited time | Black Friday | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
-| 2026-10-23 | Top One Futures X-Daily Spark: Start for $39 with code PFD | Only $39 | Limited time | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
-| 2026-10-04 | Top One Futures: 60% Off Elite Daily & Instant Funding with code PFD | 60% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |
+| 2026-11-02 | Top One Futures Black November Up to 65% Off (code PFD) | 65% Off | Limited time | Black Friday | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
+| 2026-10-23 | Top One Futures X-Daily Spark: Start for $39 (code PFD) | Only $39 | Limited time | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
+| 2026-10-04 | Top One Futures: 60% Off Elite Daily & Instant Funding (code PFD) | 60% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |

@@ -6,6 +6,7 @@ ATS Funded has no discount code or deal listed right now — we track the firm a
 >
 > ATS Funded has rebranded to [Fundex](https://propfirmdiscount.com/prop-firm/fundex/); existing accounts and balances were carried over to the new brand.
 
+- Prop firm: ATS Funded
 - Deal last verified: none yet
 - Official web: atsfunded.com
 - Market type: Forex/CFD + Crypto

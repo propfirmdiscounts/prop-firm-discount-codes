@@ -4,6 +4,7 @@ FunderPro currently lists 18 deals with discount codes. Compare available promot
 
 > FunderPro is a prop trading firm looking to empower skilled traders globally. Join our funded trader program and manage up to $200k in Funds.
 
+- Prop firm: FunderPro
 - Deal last verified: 2026-11-12
 - Trustpilot score: 2.7/5 (1552 reviews)
 - Official web: funderpro.com

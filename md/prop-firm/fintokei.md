@@ -4,6 +4,7 @@ Fintokei currently lists 29 deals with discount codes. Compare available promoti
 
 > Fintokei stands as the leading modern proprietary trading firm in Japan, driven by global ambitions. We are dedicated to educating and empowering ambitious and focused traders, rewarding their hard work with well-capitalized trading accounts via our ProTrader and SwiftTrader programs.
 
+- Prop firm: Fintokei
 - Deal last verified: 2026-11-12
 - Trustpilot score: 4.4/5 (1459 reviews)
 - Official web: fintokei.com

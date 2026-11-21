@@ -6,6 +6,7 @@ OANDA Prop Trader currently lists 2 deals with discount codes. Compare available
 >
 > OANDA Prop Trader ended on 31 March 2026 after FTMO acquired OANDA, and its clients were migrated to [FTMO](https://propfirmdiscount.com/prop-firm/ftmo/).
 
+- Prop firm: OANDA Prop Trader
 - Deal last verified: 2025-12-02
 - Trustpilot score: 3.5/5 (481 reviews)
 - Official web: oanda.com

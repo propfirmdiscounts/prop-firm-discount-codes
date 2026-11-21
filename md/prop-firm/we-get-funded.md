@@ -4,6 +4,7 @@ We Get Funded currently lists 23 deals with discount codes. Compare available pr
 
 > WeGetFunded is an innovative French prop firm, created by Traders for Traders. We offer a unique experience, combining flexibility and growth opportunities tailored to every trader profile. Our challenges, available in one step or two steps, are accessible on a modern and responsive platform, ensuring optimal conditions for your progress. Additionally, we offer the possibility to be funded up to $800,000. Join a dynamic community and take the next step in your trading journey with WeGetFunded.
 
+- Prop firm: We Get Funded
 - Deal last verified: 2026-11-14
 - Trustpilot score: 4.4/5 (1237 reviews)
 - Official web: wegetfunded.com

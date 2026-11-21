@@ -6,6 +6,7 @@ FORFX has no discount code or deal listed right now — we track the firm and pu
 >
 > FORFX has permanently closed as of June 2026 and is no longer accepting new traders.
 
+- Prop firm: FORFX
 - Deal last verified: none yet
 - Official web: forfx.com
 - Market type: Forex/CFD

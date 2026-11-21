@@ -4,6 +4,7 @@ Plutus Trade Base currently lists 44 deals with discount codes. Compare availabl
 
 > Looking for information about PTB Funding? Visit our official Feefo review page here: https://www.feefo.com/en-GB/reviews/plutustradebase-com PTB Funding, operated by Triple Edge Group Ltd, provides traders with access to flexible evaluation programs and funded trading opportunities. Our plans are designed to support different trading styles through clear objectives, competitive conditions, reliable customer support, and a transparent payout process. We are committed to continuously improving the trading experience and building a trusted environment where skilled traders can demonstrate their abilities, manage risk responsibly, and work toward receiving payouts from their funded accounts.
 
+- Prop firm: Plutus Trade Base
 - Deal last verified: 2026-11-18
 - Trustpilot score: 3.5/5 (1187 reviews)
 - Official web: plutustradebase.com

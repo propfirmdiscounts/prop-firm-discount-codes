@@ -5,6 +5,7 @@ Topstep currently lists 7 deals with discount codes. The best current offer is c
 - Discount code: TRANNGUYEN
 - Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Topstep
 - Deal last verified: 2026-10-15
 - Trustpilot score: 3.7/5 (15128 reviews)
 - Official web: topstep.com

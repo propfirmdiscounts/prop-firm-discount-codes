@@ -11,6 +11,7 @@ BullRush Prop currently lists 7 deals with discount codes. The best current offe
 - Discount code: 7XTG8N
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: BullRush Prop
 - Deal last verified: 2026-09-26
 - Trustpilot score: 4.2/5 (82 reviews)
 - Official web: bullrush.com

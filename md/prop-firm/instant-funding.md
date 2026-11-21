@@ -7,6 +7,7 @@ Instant Funding currently lists 37 deals with discount codes. The best current o
 - Discount code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Instant Funding
 - Deal last verified: 2026-11-20
 - Trustpilot score: 2.8/5 (4389 reviews)
 - Official web: instantfunding.com

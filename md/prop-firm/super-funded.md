@@ -5,6 +5,7 @@ Super Funded currently lists 29 deals with discount codes. The best current offe
 - Discount code: CHUN
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Super Funded
 - Deal last verified: 2026-06-26
 - Trustpilot score: 4.5/5 (60 reviews)
 - Official web: superfunded.com

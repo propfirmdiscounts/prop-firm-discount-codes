@@ -2,6 +2,7 @@
 
 Xpert Funding has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Xpert Funding
 - Deal last verified: none yet
 - Official web: xpertfunding.pro
 - Market type: Forex/CFD

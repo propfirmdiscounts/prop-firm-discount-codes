@@ -9,6 +9,7 @@ Breakout Prop currently lists 5 deals with discount codes. The best current offe
 - Discount code: 3GVKFT
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
+- Prop firm: Breakout Prop
 - Deal last verified: 2026-07-27
 - Trustpilot score: 4.6/5 (1314 reviews)
 - Official web: breakoutprop.com

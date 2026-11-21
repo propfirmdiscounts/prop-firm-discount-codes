@@ -6,6 +6,7 @@ MyFundedFX currently lists 3 deals with discount codes. Compare available promot
 >
 > MyFundedFX rebranded to [Seacrest Funded](https://propfirmdiscount.com/prop-firm/seacrestfunded/) in February 2025, which has since shut down its prop trading division in February 2026.
 
+- Prop firm: MyFundedFX
 - Deal last verified: 2026-04-16
 - Trustpilot score: 2.5/5 (6 reviews)
 - Official web: myfundedfx.com

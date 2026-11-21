@@ -2,6 +2,7 @@
 
 Funded Traders Global has no discount code or deal listed right now — we track the firm and publish its first promotion as soon as one goes live.
 
+- Prop firm: Funded Traders Global
 - Deal last verified: none yet
 - Official web: fundedtradersglobal.com
 - Market type: Forex/CFD

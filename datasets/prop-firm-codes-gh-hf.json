@@ -924,39 +924,6 @@
         "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/10/Earn2Trade-logo.jpg"
     },
     {
-        "prop_firm": "Seacrest Markets",
-        "slug": "seacrest-markets",
-        "code": "jackichun",
-        "discount": "5%",
-        "is_global": 0,
-        "validity": "standing",
-        "last_deal": {
-            "deal_id": 10532,
-            "title": "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout",
-            "offer_type": "coupon",
-            "discount_value": "25%",
-            "scope": [
-                "All 1-Step, 2-Step, And 3-Step Plans"
-            ],
-            "date_published": "2026-01-02",
-            "date_exp": "Ended",
-            "event": "New Year's Eve",
-            "post_url": "https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/"
-        },
-        "deal_count": {
-            "total": 8,
-            "this_year": 1,
-            "year": 2026
-        },
-        "activation_link": "https://propfirmdiscount.com/go/seacrestfunded",
-        "archive_url": "https://propfirmdiscount.com/prop-firm/seacrest-markets/",
-        "trustpilot_score": 4.2,
-        "trustpilot_reviews": 2873,
-        "trustpilot_url": "https://www.trustpilot.com/review/myfundedfx.com",
-        "description": "At Seacrest Markets, speed meets reliability.\nWe deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.\nChoose the account type that fits your strategy and access multiple asset classes \u2014 all backed by responsive support and strong risk protection.\nTrade smarter. Trade faster. Trade with confidence at Seacrest Markets.",
-        "logo": "https://propfirmdiscount.com/wp-content/uploads/2025/12/SeacrestMarkets-logo.jpg"
-    },
-    {
         "prop_firm": "Dominion Funding",
         "slug": "dominion-funding",
         "code": "PFD5PC",
