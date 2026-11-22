@@ -2,12 +2,16 @@
 
 Holiday and seasonal prop firm discounts (Black Friday, Christmas, New Year, Halloween…). Verified codes and short-window offers, updated in real time.
 
-As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 45% OFF with code BFEARLY at Atlas Funded, and 40% OFF with code EARLYBOGO40 at Alpha Futures.
+As of 2026-11-22, the biggest offers this month: 50% OFF with code EARLYBOGO50 at Alpha Futures, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 40% OFF with code BLACKWEEK at Atlas Funded, 40% OFF with code EARLYBOGO40 at Alpha Futures, and 40% OFF with code IFBF2 at Instant Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Alpha Futures | Alpha Futures Black Friday: BOGO + 50% Off 25K Direct | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/ |
+| 2026-11-22 | BluSky Trading | BluSky Trading Black Friday: Propel for $100 | Propel for $100 | 2026-12-01 23:59 | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-propel-100/ |
+| 2026-11-22 | FundingPips | FundingPips Black Friday: 20% Off All Accounts | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-20-off-all-accounts/ |
+| 2026-11-22 | Atlas Funded | Atlas Funded Black Week: 40% Off Challenges | 40% OFF | 2026-11-23 18:59 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
 | 2026-11-22 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
@@ -34,10 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
-| 2026-11-16 | Elite Trader Funding | Elite Trader Funding Thanksgiving: 90% Off Evals | 90% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-thanksgiving-90-off-evals/ |
-| 2026-11-16 | FTUK | FTUK Black Friday: 40% Off Instant + Free Retake | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |
-| 2026-11-16 | Goat Funded Trader | Goat Funded Trader Black Friday: 50% Off | 50% OFF | 2026-11-23 | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/ |
-| 2026-11-16 | Bullwaves Prime | Bullwaves Prime Black Friday: 60% Off Everything | 60% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/ |
 
 ## About this archive
 

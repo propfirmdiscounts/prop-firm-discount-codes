@@ -2,12 +2,16 @@
 
 Unlock Black Friday prop firm discounts with heavily reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of the biggest trading promotions of the year.
 
-As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 45% OFF with code BFEARLY at Atlas Funded, and 40% OFF with code EARLYBOGO40 at Alpha Futures.
+As of 2026-11-22, the biggest offers this month: 50% OFF with code EARLYBOGO50 at Alpha Futures, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 40% OFF with code BLACKWEEK at Atlas Funded, 40% OFF with code EARLYBOGO40 at Alpha Futures, and 40% OFF with code IFBF2 at Instant Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Alpha Futures | Alpha Futures Black Friday: BOGO + 50% Off 25K Direct | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/ |
+| 2026-11-22 | BluSky Trading | BluSky Trading Black Friday: Propel for $100 | Propel for $100 | 2026-12-01 23:59 | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-propel-100/ |
+| 2026-11-22 | FundingPips | FundingPips Black Friday: 20% Off All Accounts | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-20-off-all-accounts/ |
+| 2026-11-22 | Atlas Funded | Atlas Funded Black Week: 40% Off Challenges | 40% OFF | 2026-11-23 18:59 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
 | 2026-11-22 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
@@ -34,7 +38,3 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
 | 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
-| 2026-11-17 |  | Top Black Friday Prop Firm Deals & Discount Codes 2026 |  | Limited time | No Code Required | https://propfirmdiscount.com/black-friday-prop-firm-deals-2026/ |
-| 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
-| 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
-| 2026-11-16 | FTUK | FTUK Black Friday: 40% Off Instant + Free Retake | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |

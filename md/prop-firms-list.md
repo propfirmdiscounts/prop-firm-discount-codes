@@ -39,7 +39,7 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | Prop firm | Code | Discount | Validity | Last deal | Event | Deals this year / total | Firm page |
 |---|---|---|---|---|---|---|---|
 | AquaFunded | PFD | 35% | standing | 2026-11-17 · [deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) | Black Friday | 32 / 66 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| Atlas Funded | PFD | 50% | standing | 2026-11-20 · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/) | Black Friday | 17 / 42 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| Atlas Funded | PFD | 50% | standing | 2026-11-22 · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) | Black Friday | 18 / 43 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | Blue Guardian | PFD | 30% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/) | - | 23 / 33 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 35% | standing | 2026-06-22 · [deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) | - | 10 / 19 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Breakout Prop | 3GVKFT | 5% | standing | 2026-07-27 · [deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) | - | 3 / 6 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |

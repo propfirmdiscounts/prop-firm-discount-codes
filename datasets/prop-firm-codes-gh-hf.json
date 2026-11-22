@@ -1558,21 +1558,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13319,
-            "title": "45% Off Evaluations + Back",
+            "deal_id": 13427,
+            "title": "40% Off Challenges Plus Fee Back",
             "offer_type": "coupon",
-            "discount_value": "45%",
+            "discount_value": "40%",
             "scope": [
-                "Evaluations"
+                "Challenges"
             ],
-            "date_published": "2026-11-20",
-            "date_exp": "2026-11-23",
+            "date_published": "2026-11-22",
+            "date_exp": "2026-11-23 18:59",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/"
+            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/"
         },
         "deal_count": {
-            "total": 42,
-            "this_year": 17,
+            "total": 43,
+            "this_year": 18,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/atlasfunded",
