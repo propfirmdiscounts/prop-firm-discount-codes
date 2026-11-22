@@ -139,21 +139,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13310,
+            "deal_id": 13311,
             "title": "35% Off $25K-$50K Accounts",
             "offer_type": "coupon",
             "discount_value": "35%",
             "scope": [
                 "Accounts Of $25K-$50K"
             ],
-            "date_published": "2026-11-21",
+            "date_published": "2026-11-22",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/"
         },
         "deal_count": {
-            "total": 65,
-            "this_year": 46,
+            "total": 66,
+            "this_year": 47,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",

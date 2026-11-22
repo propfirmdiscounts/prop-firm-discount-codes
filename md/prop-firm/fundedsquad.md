@@ -14,12 +14,11 @@ FundedSquad currently lists 34 deals with discount codes. Compare available prom
 - Active deal url: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-## Current deal: FundedSquad: 60% Off $5K and $10K Instant Models
+## Most recent deal (ended): FundedSquad: 60% Off $5K and $10K Instant Models
 
 - Deal last verified: 2026-11-20
-- Deal ends: 2026-11-22 04:00
+- Deal ends: 2026-11-22 04:00 (ended)
 - Discount: 60% Off
-- Discount code: GTA6
 - Applied to: Instant Lite and Instant Flex ($5K and $10K)
 - Deal url: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/
 
@@ -51,7 +50,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
+| 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
 | 2026-11-16 | FundedSquad Black Friday: 55% Off All Models | 55% Off | 2026-11-23 07:00 | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
 | 2026-11-06 | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% Off | 2026-11-10 07:00 (ended) | Diwali | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-02 | FundedSquad 50% Off All Models Plus BOGO | 50% Off | 2026-11-09 07:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/ |

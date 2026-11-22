@@ -6,7 +6,7 @@ Funded Trading Plus is offering 35% off.
 
 Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
 
-- Deal last verified: 2026-11-21
+- Deal last verified: 2026-11-22
 - Deal ends: Limited time
 - Prop firm: Funded Trading Plus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
@@ -14,7 +14,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Discount: 35% Off
 - Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
 - Applied to: Accounts of $25K-$50K
-- Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/
+- Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/
 
 Apply code PFD at checkout for up to 20% off any Funded Trading Plus challenge account — verified to work any time with no expiration date.
 

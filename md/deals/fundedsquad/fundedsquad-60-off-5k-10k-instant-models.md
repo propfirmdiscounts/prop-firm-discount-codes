@@ -1,18 +1,17 @@
 # FundedSquad: 60% Off $5K and $10K Instant Models
 
-FundedSquad is offering 60% off.
+FundedSquad was offering 60% off.
 
 > FundedSquad takes 60% off $5K and $10K Instant Lite and Instant Flex accounts - $47.60 and $87.60 - ending Sunday 22 November at 9 AM UK time.
 
 Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
 
 - Deal last verified: 2026-11-20
-- Deal ends: 2026-11-22 04:00
+- Deal ends: 2026-11-22 04:00 (ended)
 - Prop firm: FundedSquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 - Summary: FundedSquad offers 60% off $5K and $10K Instant Lite and Instant Flex accounts, at $47.60 and $87.60. The offer ends Sunday 22 November 2026 at 9 AM UK time.
 - Discount: 60% Off
-- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
 - Applied to: Instant Lite and Instant Flex ($5K and $10K)
 - Deal url: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/
 

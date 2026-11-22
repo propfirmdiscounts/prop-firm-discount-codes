@@ -1,13 +1,14 @@
 # Prop Firm Coupons & Promo Codes Prop Firm Deals (2026)
 
-Verified prop firm discount codes for challenges, evaluations, resets and add-ons: 2,997 offers from 118 funded-trading firms. Every code is checked against the firm's checkout before listing, and the newest deals sit at the top of the archive.
+Verified prop firm discount codes for challenges, evaluations, resets and add-ons: 2,998 offers from 118 funded-trading firms. Every code is checked against the firm's checkout before listing, and the newest deals sit at the top of the archive.
 
-As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 45% OFF with code BFEARLY at Atlas Funded, and 40% OFF with code EARLYBOGO40 at Alpha Futures.
+As of 2026-11-21, the biggest offers this month: 50% OFF with code BLACKFRIDAY at Funding Your Trades, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 45% OFF with code BFEARLY at Atlas Funded, 40% OFF with code EARLYBOGO40 at Alpha Futures, and 40% OFF with code IFBF2 at Instant Funding.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Forexive | Forexive New User Offer: 20% Off 1-Step & 2-Step | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/ |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
@@ -25,7 +26,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-20 | WSFunded | WSFunded: 60% Off Challenges From 2.5K to 25K | 60% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/ |
 | 2026-11-20 | Funded Trading Plus | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
 | 2026-11-20 | For Traders | For Traders: $6K Forex Fast Challenge for $9.99 | $9.99 | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/ |
-| 2026-11-20 | FundedSquad | FundedSquad: 60% Off $5K and $10K Instant Models | 60% OFF | 2026-11-22 04:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
+| 2026-11-20 | FundedSquad | FundedSquad: 60% Off $5K and $10K Instant Models | 60% OFF | 2026-11-22 04:00 (ended) | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
 | 2026-11-20 | FTUK | FTUK Instant PRO Launch: 50% Off All Sizes | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-pro-launch-50-off/ |
 | 2026-11-19 | Alpha Capital Group | Alpha Capital Group: 40% Off All Evaluations | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-evaluations-40-off-black-friday/ |
 | 2026-11-19 | FundingTraders | FundingTraders: 50% Off $100K+ Accounts (code PFD) | 50% OFF | 2026-11-23 09:00 | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/ |
@@ -37,7 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-18 | FundingPips | FundingPips: Double First Reward via Likes Challenge | Double First Reward | 2026-11-19 15:00 (ended) | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/ |
 | 2026-11-18 | WSFunded | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% OFF | 2026-11-19 (ended) | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
-| 2026-11-18 | Plutus Trade Base | Plutus Trade Base: 50% Off Your First Challenge | 50% OFF | 2026-11-18 (ended) | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/ |
 
 ## About this archive
 

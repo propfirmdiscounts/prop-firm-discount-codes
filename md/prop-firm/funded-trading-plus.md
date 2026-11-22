@@ -1,6 +1,6 @@
 # Funded Trading Plus Discount Code
 
-Funded Trading Plus currently lists 62 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
+Funded Trading Plus currently lists 63 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
 > The Most Trusted Prop Firm in the Industry Since 2021 With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage. We offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed! Get started on your funding here: https://www.fundedtradingplus.com/ For any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at simon@fundedtradingplus.com
 
@@ -12,7 +12,7 @@ Funded Trading Plus currently lists 62 deals with discount codes. The best curre
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Trading Plus
-- Deal last verified: 2026-11-21
+- Deal last verified: 2026-11-22
 - Trustpilot score: 4.0/5 (2673 reviews)
 - Official web: fundedtradingplus.com
 - Email: info@fundedtradingplus.com
@@ -24,13 +24,13 @@ Funded Trading Plus currently lists 62 deals with discount codes. The best curre
 
 ## Current deal: Funded Trading Plus Black Friday: 35% Off $25K-$50K
 
-- Deal last verified: 2026-11-21
+- Deal last verified: 2026-11-22
 - Deal ends: Limited time
 - Discount: 35% Off
 - Discount code: BF35
 - Applied to: Accounts of $25K-$50K
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/
+- Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/
 
 ## Funded Trading Plus deal FAQ
 
@@ -60,6 +60,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/ |
 | 2026-11-20 | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
 | 2026-11-19 | Funded Trading Plus Flash Sale Extended: 32.5% Off | 32.5% Off | 2026-11-20 (ended) | - | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/ |

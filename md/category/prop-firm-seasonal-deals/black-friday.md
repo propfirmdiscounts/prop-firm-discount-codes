@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
 
-Black Friday prop firm deals: the deepest discounts of the trading year, 227 archived offers from 94 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
+Black Friday prop firm deals: the deepest discounts of the trading year, 228 archived offers from 94 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
 
 As of 2026-11-20, the biggest offers this month: 55% OFF with code BFPACK at WSFunded, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 50% OFF with code EARLYBLACK at Sure Leverage Funding, 45% OFF with code BFEARLY at Atlas Funded, and 40% OFF with code EARLYBOGO40 at Alpha Futures.
 
@@ -8,6 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
 | 2026-11-21 | Instant Funding | Instant Funding Black Friday: 40% Off Pro and Lite | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/ |
@@ -157,7 +158,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-21 | Top One Futures | Top One Futures Black Friday Sale: 57.5% OFF All Accounts + Bonus (code PFD) | 57% OFF | Ended | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/ |
 | 2025-11-21 | AudaCity Capital | AudaCity Capital Funded Black Friday Deal: 50% Off All Programs | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-funded-black-friday-50-off/ |
 | 2025-11-21 | FundYourFX | FundYourFX Black Friday Deal: 30% Off All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-30-off-bonuses/ |
-| 2025-11-21 | Darwinex Zero | Darwinex Zero Black Friday Deal: 20% Off 1 & 3-Year Plans | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/darwinex-zero/darwinex-zero-black-friday-20-off-long-term-plans/ |
 
 ## About this archive
 
