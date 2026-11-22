@@ -2,7 +2,7 @@
 
 > Every deal from the last 2 months (since 2026-10-01), newest first, as one table with how each code redeems. Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Every prop firm promo code on PropFirmDiscount in one place: 3,251 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
+Every prop firm promo code on PropFirmDiscount in one place: 3,257 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
