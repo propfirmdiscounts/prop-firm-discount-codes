@@ -62,8 +62,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-22 | Funding Your Trades | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
 | 2026-10-22 | FXIFY | FXIFY 35% Off All Other Programs – Halloween Deal | 35% OFF | 2026-11-02 00:00 (ended) | - | https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/ |
 | 2026-10-22 | FXIFY | FXIFY 40% Off Instant Funding – Halloween Deal | 40% OFF | 2026-11-02 00:00 (ended) | - | https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/ |
-| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
-| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | 2026-11-05 (ended) | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | TX3 Funding | TX3 Funding 30% Off All Accounts – Halloween Deal | 30% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/ |
 | 2026-10-20 | Blue Guardian | Blue Guardian 25% off Reserve discount code (code PFD) | 25% OFF | Ended | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/ |

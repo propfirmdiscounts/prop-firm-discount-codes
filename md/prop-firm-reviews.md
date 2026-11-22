@@ -129,4 +129,4 @@ Of the 118 firms scored, 57 sit at 4.0 stars or above - 26 at 4.5 and up, 31 bet
 
 These firms carry 640,275 Trustpilot reviews between them, and 104 of the 118 hold 100 or more - at that size a star average is stable and comparable across brands. Below it, read the score as a direction rather than a measurement.
 
-Ratings last synced November 19, 2026.
+Ratings last synced November 22, 2026.

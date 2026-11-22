@@ -6,7 +6,7 @@ The top prop firm offer this month is **GOBBLE90** from Elite Trader Funding —
 
 ## Top November 2026 Discount Codes
 
-As of 2026-11-21, the biggest prop firm offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code PFD at Phidias Propfirm, 85% OFF with code CK85 at CK PropFirm, 81% OFF with code PFD at FundingTraders, and 80% OFF with code BLACKFRIDAY at Top One Trader.
+As of 2026-11-22, the biggest prop firm offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 85% OFF with code PFD at Phidias Propfirm, 85% OFF with code CK85 at CK PropFirm, 81% OFF with code PFD at FundingTraders, and 80% OFF with code BLACKFRIDAY at Top One Trader.
 
 | # | Prop firm | Event | Discount code | Discount | Offer ends | Market type | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ As of 2026-11-21, the biggest prop firm offers this month: 90% OFF with code GOB
 
 ## Best Active & Exclusive Prop Firm Discount Codes
 
-As of 2026-11-21, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, 35% OFF with code PFD at AquaFunded, and 30% OFF with code PFD at Blue Guardian.
+As of 2026-11-22, the biggest verified prop firm discount codes are 85% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Funded Hero, 50% OFF with code CHUN at E8 Markets, 35% OFF with code PFD at AquaFunded, and 30% OFF with code PFD at Blue Guardian.
 
 | # | Prop firm | Exclusive code | Discount | Offer ends | Market type | Firm page |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ As of 2026-11-21, the biggest verified prop firm discount codes are 85% OFF with
 
 ## Top Black Friday Discount Codes — November 2026
 
-As of 2026-11-21, the biggest Black Friday prop firm offers are 80% OFF at CK PropFirm (code on the deal page), 80% OFF at Top One Trader (code on the deal page), 75% OFF at QT Funded (code on the deal page), 70% OFF with code PFD at FundingTraders, and 65% OFF with code PFD at Top One Futures.
+As of 2026-11-22, the biggest Black Friday prop firm offers are 80% OFF at CK PropFirm (code on the deal page), 80% OFF at Top One Trader (code on the deal page), 75% OFF at QT Funded (code on the deal page), 70% OFF with code PFD at FundingTraders, and 65% OFF with code PFD at Top One Futures.
 
 | # | Prop firm | Discount code | Discount | Offer ends | Firm page |
 |---|---|---|---|---|---|

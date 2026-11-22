@@ -139,21 +139,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13309,
-            "title": "37.5% Off $5K-$10K Accounts",
+            "deal_id": 13310,
+            "title": "35% Off $25K-$50K Accounts",
             "offer_type": "coupon",
-            "discount_value": "37.5%",
+            "discount_value": "35%",
             "scope": [
-                "Accounts Of $5K-$10K"
+                "Accounts Of $25K-$50K"
             ],
-            "date_published": "2026-11-20",
+            "date_published": "2026-11-21",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/"
         },
         "deal_count": {
-            "total": 64,
-            "this_year": 45,
+            "total": 65,
+            "this_year": 46,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
@@ -271,21 +271,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13316,
-            "title": "35% Off IF Micro Pro",
+            "deal_id": 13418,
+            "title": "40% Off Pro and Lite",
             "offer_type": "coupon",
-            "discount_value": "35%",
+            "discount_value": "40%",
             "scope": [
-                "If Micro Pro Accounts Up To $25K"
+                "Instant Funding Pro And Instant Funding Lite"
             ],
-            "date_published": "2026-11-20",
+            "date_published": "2026-11-21",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/"
+            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/"
         },
         "deal_count": {
-            "total": 37,
-            "this_year": 31,
+            "total": 38,
+            "this_year": 32,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/instantfunding",
@@ -766,21 +766,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13243,
-            "title": "35% Off Plus BOGO Instantly",
+            "deal_id": 13422,
+            "title": "50% Off, Pay 2 Get 5",
             "offer_type": "coupon",
-            "discount_value": "35%",
+            "discount_value": "50%",
             "scope": [
-                "Challenges"
+                "Funding Your Trades Accounts"
             ],
-            "date_published": "2026-11-16",
-            "date_exp": "Limited time",
+            "date_published": "2026-11-21",
+            "date_exp": "2026-11-28",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/"
+            "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/"
         },
         "deal_count": {
-            "total": 43,
-            "this_year": 30,
+            "total": 44,
+            "this_year": 31,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundingyourtrades",
@@ -1261,21 +1261,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13176,
-            "title": "1-Step Access $5 Start Any Size",
-            "offer_type": "deal",
-            "discount_value": "$5",
+            "deal_id": 13423,
+            "title": "New User Offer: 20% Off",
+            "offer_type": "coupon",
+            "discount_value": "20%",
             "scope": [
-                "1-Step Access Accounts, 5K To 200K"
+                "All 1-Step And 2-Step Challenges, New Users"
             ],
-            "date_published": "2026-11-06",
+            "date_published": "2026-11-21",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/"
+            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/"
         },
         "deal_count": {
-            "total": 26,
-            "this_year": 9,
+            "total": 27,
+            "this_year": 10,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/forexive",

@@ -56,6 +56,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-10 | Atlas Funded: 40% Off Evaluations From $25.80 | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/ |
 | 2026-11-02 | Atlas Funded 40% Off Futures Evaluations | 40% Off | 2026-11-09 (ended) | - | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |
 | 2026-10-26 | Atlas Funded 45% Off Challenges Halloween Cashback | 45% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/ |
-| 2026-10-21 | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-15 | Atlas Funded 40% Off Challenges – Halloween Flash Deal | 40% Off | 2026-10-18 (ended) | Halloween | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/ |
 | 2026-10-07 | Atlas Funded 45% Off All Account Sizes – New Era Deal | 45% Off | Ended | - | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/ |

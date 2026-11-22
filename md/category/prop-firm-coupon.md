@@ -260,8 +260,8 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-22 | Finotive Futures | Finotive Futures: 50% Off Instant, 40% Off One Step | 50% OFF | 2026-10-25 17:59 (ended) | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/ |
 | 2026-10-22 | FTUK | FTUK 30% Off Flex Challenge Activation Fee | 30% OFF | 2026-10-23 19:59 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-30-off-flex-challenge-activation-fee/ |
 | 2026-10-21 | QT Funded | QT Funded 55% Off All Accounts Plus Free Account | 55% OFF | 2026-10-25 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/ |
-| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
-| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Limited time | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
+| 2026-10-21 | BrightFunded | BrightFunded 30% Off All Challenges – Halloween Deal | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-halloween-30-off-all-challenges/ |
+| 2026-10-21 | Atlas Funded | Atlas Funded 45% Off All Challenges – Halloween Deal | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/ |
 | 2026-10-21 | AquaFunded | AquaFunded 25% Off Evaluations Halloween, 200% Refund | 25% OFF | 2026-11-05 (ended) | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/ |
 | 2026-10-20 | Funded Hero | Funded Hero 62% Off All Accounts Plus BOGO Deal (code PFD) | 62% OFF | Ended | PFD | https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/ |
 | 2026-10-20 | Instant Funding | Instant Funding 40% Off Everything – Discount Code | 40% OFF | 2026-10-20 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/ |
