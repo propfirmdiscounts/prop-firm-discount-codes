@@ -7,13 +7,40 @@ Top One Futures currently lists 10 deals with discount codes. The best current o
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Top One Futures
 - Deal last verified: 2026-11-02
-- Trustpilot score: 4.8/5 (5469 reviews)
+- Trustpilot score: 4.8/5 (5515 reviews)
 - Official web: toponefutures.com
 - Address: United States
 - Market type: Futures
 - Active deal url: https://propfirmdiscount.com/go/toponefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Top One Futures challenge account pricing
+
+The Top One Futures discount code PFD offers 65% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 16 account options across the Futures market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Elite Daily | $25K | $178 | $89 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $50K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $100K | $398 | $199 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $150K | $549 | $274.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $25K | $139 | $69.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $50K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $100K | $259 | $129.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $150K | $359 | $179.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $25K | $419 | $209.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $50K | $679 | $339.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $100K | $821 | $410.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $150K | $939 | $469.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $25K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $50K | $398 | $199 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $100K | $563 | $281.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $150K | $799 | $399.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Top One Futures Black November Up to 65% Off (code PFD)
 

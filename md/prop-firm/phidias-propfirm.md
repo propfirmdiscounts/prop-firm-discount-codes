@@ -7,13 +7,35 @@ Phidias Propfirm currently lists 41 deals with discount codes. The best current 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phidias Propfirm
 - Deal last verified: 2026-11-11
-- Trustpilot score: 3.0/5 (335 reviews)
+- Trustpilot score: 3.0/5 (337 reviews)
 - Official web: phidiaspropfirm.com
 - Address: Gibraltar
 - Market type: Futures
 - Active deal url: https://propfirmdiscount.com/go/phidiaspropfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Phidias Propfirm challenge account pricing
+
+The Phidias Propfirm discount code PFD offers 85% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 11 account options across the Futures market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Express to Live | $25K | $277 | $41.6 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $50K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $100K | $900 | $135 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $150K | $1125 | $168.8 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $50K | $580 | $87 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $100K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $150K | $863 | $129.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $50K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $100K | $900 | $135 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $150K | $1123 | $168.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| 10K Challenge | $10K | $66 | $9.9 | 85% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Phidias Propfirm: 85% Off Every 150K Account (code PFD)
 

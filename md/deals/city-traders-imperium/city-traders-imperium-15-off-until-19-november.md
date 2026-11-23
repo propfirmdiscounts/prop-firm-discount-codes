@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from City Traders Imperium (CTI)
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [CTI: 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-news-trading/) | - | 15% Off | Limited time |
+| [City Traders Imperium 20% Off Until NFP Drops](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-20-off-until-nfp/) | - | 20% Off | 2026-11-06 (ended) |
+| [City Traders Imperium (CTI) 15% Off Main Programs Halloween](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/) | Halloween | 15% Off | 2026-10-31 19:59 (ended) |
+| [City Traders Imperium (CTI) 15% Off 1-Step, 2-Step and Instant Funding](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs/) | Halloween | 15% Off | 2026-10-25 (ended) |
+| [City Traders Imperium (CTI) 15% Off All Main Programs](https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-halloween-promo/) | Halloween | 15% Off | 2026-10-11 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the City Traders Imperium code take off?**

@@ -13,7 +13,7 @@ Funded Trading Plus currently lists 63 deals with discount codes. The best curre
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Trading Plus
 - Deal last verified: 2026-11-22
-- Trustpilot score: 4.0/5 (2673 reviews)
+- Trustpilot score: 4.0/5 (2674 reviews)
 - Official web: fundedtradingplus.com
 - Email: info@fundedtradingplus.com
 - Address: FTP London, 7 Bell Yard, London, WC2A 2JR, United Kingdom
@@ -21,6 +21,31 @@ Funded Trading Plus currently lists 63 deals with discount codes. The best curre
 - Active deal url: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Funded Trading Plus challenge account pricing
+
+The Funded Trading Plus discount code PFD offers up to 20% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 14 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Instant Funding | $5K | $249 | $199.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $10K | $429 | $343.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $25K | $1099 | $879.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $50K | $2199 | $1759.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $100K | $4499 | $3599.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step Express | $10K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step Express | $25K | $199 | $159.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step Express | $50K | $349 | $279.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step Express | $100K | $549 | $439.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step Express | $200K | $999 | $799.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Classic | $10K | $89 | $71.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Classic | $25K | $169 | $135.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Classic | $50K | $319 | $255.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Classic | $100K | $549 | $439.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Funded Trading Plus Black Friday: 35% Off $25K-$50K
 

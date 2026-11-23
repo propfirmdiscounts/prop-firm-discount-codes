@@ -1,19 +1,15 @@
 # Topstep Discount Code
 
-Topstep currently lists 7 deals with discount codes. The best current offer is code TRANNGUYEN for up to 50% off, checked November 2026 by the PropFirmDiscount team.
+Topstep currently lists 7 deals with discount codes. Compare available promotions below to find the latest savings on Topstep challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
-- Discount code: TRANNGUYEN
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Topstep
 - Deal last verified: 2026-10-15
-- Trustpilot score: 3.7/5 (15128 reviews)
+- Trustpilot score: 3.7/5 (15140 reviews)
 - Official web: topstep.com
 - Address: Chicago, United States
 - Market type: Futures
 - Active deal url: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
-- JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
 ## Most recent deal (ended): Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
 

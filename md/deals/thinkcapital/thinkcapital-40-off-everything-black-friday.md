@@ -20,3 +20,13 @@ Apply code PFD at checkout for up to 10% off any ThinkCapital challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from ThinkCapital
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [ThinkCapital 15% Off $2,500 to $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) | - | 15% Off | Ended |
+| [ThinkCapital 20% Discount on $2,500 – $50,000 Accounts](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) | Labor Day | 20% Off | Ended |
+| [ThinkCapital 20% Discount On $2,500 – $50,000 Evaluation Accounts](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-2500-50000-evaluations/) | - | 20% Off | Ended |
+| [ThinkCapital: 15% Off Evaluation Accounts from $2,500 to $50,000](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-youth-day-sale/) | - | 15% Off | Ended |
+| [ThinkCapital 15% Discount on $2,500 – $50,000 Accounts Evaluated](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-discount-2500-50000/) | - | 15% Off | Ended |
+

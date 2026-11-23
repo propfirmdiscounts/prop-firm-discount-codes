@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 2% off any Funding Your Trades challenge ac
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Funding Your Trades
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Funding Your Trades Black Friday: 35% Off + BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/) | Black Friday | 35% Off | Limited time |
+| [Funding Your Trades Diwali 45% Off + Buy 1 Get 3](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/) | Diwali | 45% Off | 2026-11-12 (ended) |
+| [Funding Your Trades 45% Off Halloween Challenges Plus BOGO](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/) | Halloween | 45% Off | Ended |
+| [Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/) | - | 40% Off | 2026-10-20 (ended) |
+| [Funding Your Trades 40% Off and Buy 1 Get 3 Evaluation Accounts](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-40-off-buy-1-get-3-2/) | - | 40% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the offer include?**

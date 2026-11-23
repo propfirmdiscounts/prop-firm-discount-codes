@@ -7,7 +7,7 @@ Goat Funded Trader currently lists 49 deals with discount codes. The best curren
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Goat Funded Trader
 - Deal last verified: 2026-11-16
-- Trustpilot score: 2.0/5 (4369 reviews)
+- Trustpilot score: 2.0/5 (4381 reviews)
 - Official web: goatfundedtrader.com
 - Email: support@goatfundedtrader.com
 - Address: Hong Kong

@@ -7,7 +7,7 @@ Exclusive Code for The5ers: NKY03MTJGM gives up to 5% off — the highest discou
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: The5ers
 - Deal last verified: 2025-12-22
-- Trustpilot score: 4.7/5 (42963 reviews)
+- Trustpilot score: 4.7/5 (44281 reviews)
 - Official web: the5ers.com
 - Email: help@the5ers.com
 - Address: Hatidhar 2, Raanana, Israel

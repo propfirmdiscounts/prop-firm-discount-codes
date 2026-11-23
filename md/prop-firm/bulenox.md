@@ -9,7 +9,7 @@ Bulenox currently lists 12 deals with discount codes. The best current offer is 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Bulenox
 - Deal last verified: 2026-10-07
-- Trustpilot score: 4.6/5 (1831 reviews)
+- Trustpilot score: 4.6/5 (1841 reviews)
 - Official web: bulenox.com
 - Email: support@bulenox.com
 - Address: 1201 N Orange St, Suite 7149, Wilmington, 19801, United States

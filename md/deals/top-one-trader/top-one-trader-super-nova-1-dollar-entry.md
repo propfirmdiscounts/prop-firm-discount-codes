@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Top One Trader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Top One Trader Black Friday: Up to 65% Off](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/) | Black Friday | 65% Off | Limited time |
+| [Top One Trader Black November Up to 80% Off Instant Funded](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/) | Black Friday | 80% Off | Limited time |
+| [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) | Halloween | 70% Off | 2026-10-31 (ended) |
+| [Top One Trader: 50% Off X-DAILY Accounts For 3rd Anniversary (Limited 500)](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-50-off-x-daily-anniversary/) | - | 50% Off | Ended |
+| [Top One Trader 40% Off $500K-$1M Instant Funding Launch](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-40-off-magnum-instant-funding/) | - | 40% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does Super Nova include?**

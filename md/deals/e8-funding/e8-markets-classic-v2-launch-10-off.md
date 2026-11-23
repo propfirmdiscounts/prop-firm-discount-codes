@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from E8 Markets
+
+| Title | Discount | Expires |
+|---|---|---|
+| [E8 Markets Winter ARC: Up to 50% Off Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) | 50% Off | 2026-11-25 |
+| [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) | 50% Off | 2026-10-20 (ended) |
+| [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) | 50% Off | 2026-10-25 (ended) |
+| [E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) | 50% Off | Ended |
+| [E8 Markets: 30% Off E8Pro and 10% Off Existing Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/) | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What is the E8 Classic v2?**

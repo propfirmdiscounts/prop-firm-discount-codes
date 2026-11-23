@@ -9,7 +9,7 @@ PipFarm currently lists 65 deals with discount codes. The best current offer is 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: PipFarm
 - Deal last verified: 2026-11-20
-- Trustpilot score: 3.6/5 (345 reviews)
+- Trustpilot score: 3.6/5 (343 reviews)
 - Official web: pipfarm.com
 - Email: support@pipfarm.com
 - Address: 68 Circular Road #02-01, Singapore, 049422, Singapore

@@ -6,7 +6,7 @@ RebelsFunding currently lists 42 deals with discount codes. Compare available pr
 
 - Prop firm: RebelsFunding
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.2/5 (2932 reviews)
+- Trustpilot score: 4.3/5 (2948 reviews)
 - Official web: rebelsfunding.com
 - Email: info@rebelsfunding.com
 - Address: Landererova 8, Bratislava, 811 09, Slovakia

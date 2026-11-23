@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 35% off any AquaFunded challenge account â€
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from AquaFunded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [AquaFunded Honor Sale: 25% Off + 150% CFD Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) | - | 25% Off | Limited time |
+| [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Halloween | 35% Off | Limited time |
+| [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) | Halloween | 25% Off | 2026-11-05 (ended) |
+| [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) | Halloween | 25% Off | 2026-10-23 (ended) |
+| [AquaFunded Autumn Sale: 25% Off Evaluation Cost and 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-autumn-sale-25-off-refund/) | - | 25% Off | 2026-10-31 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the Black Friday offer include?**

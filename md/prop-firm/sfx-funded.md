@@ -6,7 +6,7 @@ SFX Funded currently lists 19 deals with discount codes. Compare available promo
 
 - Prop firm: SFX Funded
 - Deal last verified: 2026-11-02
-- Trustpilot score: 2.4/5 (129 reviews)
+- Trustpilot score: 2.3/5 (130 reviews)
 - Official web: sfxfunded.com
 - Email: support@sfxfunded.com
 - Address: Dubai , U.A.E.

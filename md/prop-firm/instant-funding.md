@@ -9,7 +9,7 @@ Instant Funding currently lists 38 deals with discount codes. The best current o
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Instant Funding
 - Deal last verified: 2026-11-21
-- Trustpilot score: 2.8/5 (4389 reviews)
+- Trustpilot score: 2.8/5 (4391 reviews)
 - Official web: instantfunding.com
 - Email: support@instantfunding.com
 - Address: United Kingdom
@@ -17,6 +17,36 @@ Instant Funding currently lists 38 deals with discount codes. The best current o
 - Active deal url: https://propfirmdiscount.com/go/instantfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Instant Funding challenge account pricing
+
+The Instant Funding discount code PFD offers up to 20% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 19 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Instant Funding Lite | $1.25K | $67 | $53.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $2.5K | $103 | $82.4 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $5K | $191 | $152.8 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $10K | $367 | $293.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $20K | $719 | $575.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $40K | $1479 | $1183.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding Lite | $80K | $2959 | $2367.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| IF Micro Lite Micro | $5K | $59 | $47.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| IF Micro Lite Micro | $10K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| IF Micro Lite Micro | $25K | $193 | $154.4 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| IF Micro Lite Micro | $50K | $341 | $272.8 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| One-Phase Lite | $5K | $57 | $45.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| One-Phase Lite | $10K | $100 | $80 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| One-Phase Lite | $25K | $185 | $148 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| One-Phase Lite | $50K | $284 | $227.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| One-Phase Lite | $100K | $500 | $400 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Evolve | $10K | $49 | $39.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Evolve | $25K | $69 | $55.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Evolve | $50K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Instant Funding Black Friday: 40% Off Pro and Lite
 

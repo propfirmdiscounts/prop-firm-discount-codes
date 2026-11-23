@@ -2,12 +2,15 @@
 
 Holiday and seasonal prop firm discounts (Black Friday, Christmas, New Year, Halloween…). Verified codes and short-window offers, updated in real time.
 
-As of 2026-11-22, the biggest offers this month: 50% OFF with code EARLYBOGO50 at Alpha Futures, 50% OFF with code BLACKFRIDAY at Funding Your Trades, 40% OFF with code BLACKWEEK at Atlas Funded, 40% OFF with code EARLYBOGO40 at Alpha Futures, and 40% OFF with code IFBF2 at Instant Funding.
+As of 2026-11-23, the biggest offers this month: 70% OFF with code BLACKFRIDAY70 at FundYourFX, 50% OFF with code FBF50 at BrightFunded, 50% OFF with code EARLYBOGO50 at Alpha Futures, 50% OFF with code BLACKFRIDAY at Funding Your Trades, and 40% OFF with code BLACKWEEK at Atlas Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | BrightFunded | BrightFunded Futures: 50% Off BrightPlus, BrightCore | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-futures-black-friday-50-off/ |
+| 2026-11-23 | BrightFunded | BrightFunded Black Friday: 35% Off CFD Challenges | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-black-friday-35-off-cfd-challenges/ |
+| 2026-11-23 | FundYourFX | FundYourFX Black Friday: 70% Off All Plans | 70% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-70-off-all-plans/ |
 | 2026-11-22 | Alpha Futures | Alpha Futures Black Friday: BOGO + 50% Off 25K Direct | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/ |
 | 2026-11-22 | BluSky Trading | BluSky Trading Black Friday: Propel for $100 | Propel for $100 | 2026-12-01 23:59 | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-propel-100/ |
 | 2026-11-22 | FundingPips | FundingPips Black Friday: 20% Off All Accounts | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-20-off-all-accounts/ |
@@ -35,9 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
 | 2026-11-17 | FTUK | FTUK: 35% Off Flex Activation | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
 | 2026-11-17 | FXIFY | FXIFY Black Friday: 35% Off All Programs | 35% OFF | 2026-12-09 23:59 | - | https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/ |
-| 2026-11-17 | Tradexprop | Tradexprop Black Friday: 25% Off Instant Funding | 25% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-25-off-instant-funding/ |
-| 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
-| 2026-11-16 | Klein Funding | Klein Funding Black Friday: Free Half-Size Challenge | Free Half-Size | Limited time | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/ |
 
 ## About this archive
 

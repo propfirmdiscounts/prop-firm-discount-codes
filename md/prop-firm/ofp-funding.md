@@ -4,7 +4,7 @@ OFP Funding currently lists 57 deals with discount codes. Compare available prom
 
 - Prop firm: OFP Funding
 - Deal last verified: 2026-11-10
-- Trustpilot score: 2.3/5 (4442 reviews)
+- Trustpilot score: 2.3/5 (4447 reviews)
 - Official web: ofpfunding.com
 - Email: support@ofpfunding.com
 - Address: United Kingdom

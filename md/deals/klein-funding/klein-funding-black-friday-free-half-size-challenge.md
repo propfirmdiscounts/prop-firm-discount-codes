@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 30% off any Klein Funding challenge account
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Klein Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Klein Funding Valentine’s Day Deal: 5% Off Standard Accounts + Free Evaluation Included](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/) | Valentine's Day | 5% Off | Ended |
+| [Klein Funding Deal: 20% Off All Evaluations + Conditional Free Account](https://propfirmdiscount.com/deals/klein-funding/klein-funding-20-percent-off-evaluations/) | - | 20% Off | Ended |
+| [Klein Funding Offer: 10% Off Instant Pro + Conditional Free Account](https://propfirmdiscount.com/deals/klein-funding/klein-funding-10-percent-off-instant-pro/) | - | 10% Off | Ended |
+| [Klein Funding Black Friday Deal: 20% OFF Instant Pro Accounts](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-20-off-instant-pro/) | Black Friday | 20% Off | Ended |
+| [Klein Funding Black Friday Sale: 25% OFF All Evaluations](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-25-off-evaluations/) | Black Friday | 25% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Black Friday offer include?**

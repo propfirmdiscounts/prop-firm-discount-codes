@@ -6,7 +6,7 @@ Top One Trader currently lists 15 deals with discount codes. Compare available p
 
 - Prop firm: Top One Trader
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.4/5 (3500 reviews)
+- Trustpilot score: 4.4/5 (3504 reviews)
 - Official web: toponetrader.com
 - Email: Admin@toponetrader.com
 - Address: 30 North Gould Street Ste R, Sheridan, 82801, United States

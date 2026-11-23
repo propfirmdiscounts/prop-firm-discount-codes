@@ -20,6 +20,16 @@ Apply code FXIFY2WRIVW at checkout for up to 10% off any FXIFY challenge account
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from FXIFY
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [FXIFY 25% Off Plus Two Free Add-Ons](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) | - | 25% Off | Limited time |
+| [FXIFY 35% Off All Other Programs – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) | Halloween | 35% Off | 2026-11-02 00:00 (ended) |
+| [FXIFY 40% Off Instant Funding – Halloween Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) | Halloween | 40% Off | 2026-11-02 00:00 (ended) |
+| [FXIFY 40% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) | - | 40% Off | 2026-11-02 (ended) |
+| [FXIFY 25% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) | - | 25% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Black Friday offer include?**

@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Hola Prime
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Hola Prime 50% Off $10K-$100K 2-Step Fly Challenges](https://propfirmdiscount.com/deals/hola-prime/hola-prime-50-off-10k-100k-2-step-fly-challenges/) | - | 50% Off | Limited time |
+| [Hola Prime: 20% Off Next $5K–$200K Account for Existing Users](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-existing-users/) | Halloween | 20% Off | Ended |
+| [Hola Prime: 40% Off First-Time $5K–$200K Account Purchases](https://propfirmdiscount.com/deals/hola-prime/hola-prime-40-off-first-time-accounts/) | Halloween | 40% Off | Ended |
+| [Hola Prime: 20% Off $5K-$100K Forex Evaluations and Direct Accounts](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-forex-evaluations-100k/) | - | 20% Off | Ended |
+| [Hola Prime 20% Off 1-Step Boost Account Challenges](https://propfirmdiscount.com/deals/hola-prime/hola-prime-20-off-1-step-boost/) | - | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does Hola Prime offer on 2-Step Fly challenges?**

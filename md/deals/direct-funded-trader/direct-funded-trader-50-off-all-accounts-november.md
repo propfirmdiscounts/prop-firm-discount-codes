@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 50% off any Direct Funded Trader challenge 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Direct Funded Trader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Direct Funded Trader 100K 2-Step Evaluation for $99](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) | - | $99 | Limited time |
+| [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Halloween | 40% Off | Limited time |
+| [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) | - | 50% Off | Ended |
+| [Direct Funded Trader 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) | - | 50% Off | Ended |
+| [Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/) | - | Only $5 | Ended |
+
 ## Frequently Asked Questions
 
 **What does the 50% cover?**

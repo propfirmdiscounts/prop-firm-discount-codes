@@ -19,6 +19,14 @@ Apply code PFD at checkout for up to 10% off any Fundex challenge account — ve
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Fundex
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Fundex: 30% Off All Evaluation Accounts (48-Hour Sale)](https://propfirmdiscount.com/deals/fundex/fundex-30-off-all-accounts/) | 30% Off | Ended |
+| [Fundex 10% Off Evaluation Accounts](https://propfirmdiscount.com/deals/fundex/10-percent-off-evaluation-accounts/) | 10% Off | Ended |
+| [Fundex 30% Off All Challenges: Entry Fee Structure](https://propfirmdiscount.com/deals/fundex/fundex-30-off-challenges-discount/) | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does Fundex offer in this promotion?**

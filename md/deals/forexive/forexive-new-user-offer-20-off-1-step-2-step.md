@@ -20,6 +20,16 @@ Apply code WHCTXQHRIG at checkout for up to 30% off any Forexive challenge accou
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Forexive
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Forexive 1-Step Access: Start Any Size for $5](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) | $5 | Limited time |
+| [Forexive 30% Off All Trading Challenges](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) | 30% Off | Ended |
+| [Forexive 30% Off All Challenge Accounts](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) | 30% Off | Ended |
+| [Forexive 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target](https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/) | Entry Fee | Ended |
+| [Forexive 20% Off Upfront Entry Cost](https://propfirmdiscount.com/deals/forexive/forexive-20-off-evaluation-cost/) | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the offer include?**

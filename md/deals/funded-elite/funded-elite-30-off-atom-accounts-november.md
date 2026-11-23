@@ -19,6 +19,16 @@ Apply code AFF1864062 at checkout for up to 10% off any Funded Elite challenge a
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Funded Elite
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Funded Elite 20% Off Activation Fee](https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/) | - | 20% Off | 2026-11-22 18:59 (ended) |
+| [Funded Elite November 55% Off Instant Elite Accounts](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/) | - | 55% Off | 2026-11-22 18:59 (ended) |
+| [Funded Elite 40% Off Five Account Types](https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-40-off-account-types/) | - | 40% Off | 2026-11-22 18:59 (ended) |
+| [Funded Elite Halloween 40% Off Five Challenge Models](https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/) | Halloween | 40% Off | 2026-10-31 23:59 (ended) |
+| [Funded Elite Promotion: Up To 47% Off Atom Evaluation Accounts](https://propfirmdiscount.com/deals/funded-elite/fundedelite-47-percent-off-atom-accounts/) | - | 47% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does Funded Elite offer on Atom accounts?**

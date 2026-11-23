@@ -9,7 +9,7 @@ Klein Funding currently lists 8 deals with discount codes. The best current offe
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Klein Funding
 - Deal last verified: 2026-11-16
-- Trustpilot score: 4.8/5 (486 reviews)
+- Trustpilot score: 4.8/5 (482 reviews)
 - Official web: kleinfunding.com
 - Email: support@kleinfunding.com
 - Address: 71-75 Shelton Street Covent Garden London, London, WC2H 9JQ, United Kingdom

@@ -6,7 +6,7 @@ The Trading Pit currently lists 34 deals with discount codes. Compare available 
 
 - Prop firm: The Trading Pit
 - Deal last verified: 2026-11-09
-- Trustpilot score: 3.7/5 (1085 reviews)
+- Trustpilot score: 3.7/5 (1090 reviews)
 - Official web: thetradingpit.com
 - Email: support@thetradingpit.com
 - Address: Heiligkreuz 6, Vaduz, 9490 , Liechtenstein

@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from We Get Funded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [We Get Funded 65% Off First 1 Step 50K Challenge](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-65-off-first-1-step-50k-challenge/) | Halloween | 65% Off | 2026-10-28 18:59 (ended) |
+| [We Get Funded: 50K 1 Step first challenge at 48.30 €](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-48-30-first-1-step-50k/) | - | Only €48.30 | 2026-10-21 (ended) |
+| [We Get Funded: Buy 1 Get 3 Free Accounts Offer](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-offer/) | - | Buy 1 Get 3 | 2026-10-09 (ended) |
+| [We Get Funded Buy 1 Get 3 Free Accounts Promotion](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free-promotion-2/) | - | Buy 1 Get 3 | Ended |
+| [We Get Funded: Buy 1 Evaluation Account Get 3 Free](https://propfirmdiscount.com/deals/we-get-funded/we-get-funded-buy-1-get-3-free/) | - | Buy 1 Get 1 | Ended |
+
 ## Frequently Asked Questions
 
 **How does the We Get Funded Black Friday bundle work?**

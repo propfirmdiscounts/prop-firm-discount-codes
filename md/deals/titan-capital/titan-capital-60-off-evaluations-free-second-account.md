@@ -17,6 +17,13 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Titan Capital
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Titan Capital 55% Off All Evaluations and Bonus Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-55-off-evaluations-bonus-account/) | 55% Off | 2026-10-14 (ended) |
+| [Titan Capital 50% Off Any Evaluation and Free Second Account](https://propfirmdiscount.com/deals/titan-capital/titan-capital-50-off-free-account/) | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does Titan Capital offer in this promotion?**

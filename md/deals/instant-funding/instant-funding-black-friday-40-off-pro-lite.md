@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 20% off any Instant Funding challenge accou
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Instant Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Instant Funding Black Friday: 35% Off IF Micro Pro](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/) | Black Friday | 35% Off | Limited time |
+| [Instant Funding 40% Off All Lite Accounts – Diwali Offer](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) | Diwali | 40% Off | 2026-11-09 18:59 (ended) |
+| [Instant Funding 30% Off Everything Plus Add-Ons](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/) | Halloween | 30% Off | 2026-11-03 (ended) |
+| [Instant Funding 40% Off IF Pro and IF Lite](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/) | Halloween | 40% Off | 2026-11-03 (ended) |
+| [Instant Funding Halloween 30% Off All Accounts Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) | Halloween | 30% Off | 2026-11-01 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the offer cover?**

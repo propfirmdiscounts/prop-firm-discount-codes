@@ -20,6 +20,15 @@ Apply code PFDDEAL at checkout for up to 25% off any Finotive Futures challenge 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Finotive Futures
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Finotive Futures Halloween Up to 50% Off Instant Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/) | Halloween | 50% Off | 2026-10-31 (ended) |
+| [Finotive Futures: 50% Off Instant, 40% Off One Step](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) | - | 50% Off | 2026-10-25 17:59 (ended) |
+| [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) | - | 50% Off | Ended |
+| [Finotive Futures: 50% Off Instant & 40% Off One-Step Accounts](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) | - | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Finotive Futures code take off?**

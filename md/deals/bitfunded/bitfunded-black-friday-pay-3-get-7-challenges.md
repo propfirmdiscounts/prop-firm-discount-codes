@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Bitfunded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Bitfunded 55% Off Halloween Drop Plus 20X Leverage](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-drop-55-off-20x-leverage/) | Halloween | 55% Off | Limited time |
+| [Bitfunded Halloween $499 Monster Bundle With Free Instant](https://propfirmdiscount.com/deals/bitfunded/bitfunded-halloween-monster-bundle-499-free-instant/) | Halloween | Only $499 | Limited time |
+| [Bitfunded 60% Off Any Challenge Plus Instant Account Deal](https://propfirmdiscount.com/deals/bitfunded/bitfunded-60-off-any-challenge-instant-included/) | - | 60% Off | 2026-10-23 (ended) |
+| [Bitfunded 50% Off Buy 1 Get 1 Free Challenge Pricing](https://propfirmdiscount.com/deals/bitfunded/bitfunded-flash-bogo-50-percent-off-promotion/) | - | 50% Off | Ended |
+| [Bitfunded 100% Profit Split On First Payout For All Challenges](https://propfirmdiscount.com/deals/bitfunded/bitfunded-100-percent-profit-split-first-payout/) | - | Keep all profits | Ended |
+
 ## Frequently Asked Questions
 
 **How does the Bitfunded pay for 3, get 7 bundle work?**

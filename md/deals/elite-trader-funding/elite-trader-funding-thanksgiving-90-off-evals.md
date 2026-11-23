@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Elite Trader Funding
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Elite Trader Funding: 75% Off Non-Fast Track Evals](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-75-off-non-fast-track-evaluations/) | 75% Off | 2026-11-13 23:59 (ended) |
+| [Elite Trader Funding: 90% Off Non-Fast Track Evals](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track-evals/) | 90% Off | 2026-10-31 (ended) |
+| [Elite Trader Funding: $27 Evaluation Resets](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-27-eval-resets/) | 42% Off | 2026-10-16 (ended) |
+| [Elite Trader Funding: 85% Off Non-Fast Track Evaluations & 20-Account Limit](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-85-off-non-fast-track/) | 85% Off | 2026-10-09 (ended) |
+| [Elite Trader Funding 90% Off Non-Fast Track Evaluations](https://propfirmdiscount.com/deals/elite-trader-funding/elite-trader-funding-90-off-non-fast-track/) | 90% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Thanksgiving sale include?**

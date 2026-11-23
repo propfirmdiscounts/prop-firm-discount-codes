@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from OFP Funding
+
+| Title | Discount | Expires |
+|---|---|---|
+| [OFP Funding 45% Off Everything Plus BOGO](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-percent-off-everything-bogo/) | 45% Off | 2026-11-08 (ended) |
+| [OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/) | 50% Off | 2026-10-31 (ended) |
+| [OFP Funding: 50% Off Trading Challenges & Bonus Account Over $250](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-discount-free-account/) | 50% Off | Ended |
+| [OFP Funding 50% Off First Deposit Evaluation Accounts](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-first-deposit/) | 50% Off | Ended |
+| [OFP Funding 45% Off Challenge Pricing](https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-off-unlimited/) | 45% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the OFP Funding code take off?**

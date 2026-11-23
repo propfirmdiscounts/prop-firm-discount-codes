@@ -7,7 +7,7 @@ For Traders currently lists 56 deals with discount codes. The best current offer
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: For Traders
 - Deal last verified: 2026-11-20
-- Trustpilot score: 4.1/5 (1862 reviews)
+- Trustpilot score: 4.1/5 (1875 reviews)
 - Official web: fortraders.com
 - Email: support@fortraders.com
 - Address: Goldcrest Executive Building, Dubai, 000, U.A.E.

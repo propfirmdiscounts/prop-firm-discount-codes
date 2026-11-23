@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 10% off any Bullwaves Prime challenge accou
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Bullwaves Prime
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Bullwaves Prime: 65% Off Everything, Early Bird](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) | Black Friday | 65% Off | 2026-11-15 18:59 (ended) |
+| [Bullwaves Prime 35% Off All Prime Challenges Halloween](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-35-off-all-prime-challenges-halloween/) | Halloween | 35% Off | 2026-10-31 (ended) |
+| [Bullwaves Prime 20% Off 5K, 10K, 25K and 50K Trading Challenges Lowers Upfront Entry Cost](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-20-off-june-world-cup/) | World Cup | 20% Off | Ended |
+| [Bullwaves Prime: 80% Off 2-Step 5K and 10K Evaluation Accounts](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-80-off-5k-10k-2-step-accounts/) | - | 80% Off | Ended |
+| [Bullwaves Prime 10% Off Evaluation Challenges Starting at $53 to Reduce Upfront Cost](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-10-percent-discount-53/) | - | 10% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Go Big offer include?**

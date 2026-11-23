@@ -20,6 +20,16 @@ Apply code PFD1 at checkout for up to 25% off any TX3 Funding challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from TX3 Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [TX3 Funding Halloween 35% Off Challenge Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | Halloween | 35% Off | 2026-10-31 23:59 (ended) |
+| [TX3 Funding Halloween 40% Off Instant Funded Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) | Halloween | 40% Off | 2026-10-31 23:59 (ended) |
+| [TX3 Funding Halloween 35% Off All Accounts Weekend Flash](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) | Halloween | 35% Off | 2026-10-25 23:59 (ended) |
+| [TX3 Funding 30% Off All Accounts – Halloween Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) | Halloween | 30% Off | 2026-10-25 (ended) |
+| [TX3 Funding 35% Off All Challenge Types](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/) | - | 35% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the 50% cover?**

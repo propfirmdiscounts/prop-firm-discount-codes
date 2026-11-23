@@ -9,7 +9,7 @@ Dominion Funding currently lists 22 deals with discount codes. The best current 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Dominion Funding
 - Deal last verified: 2026-11-05
-- Trustpilot score: 2.8/5 (294 reviews)
+- Trustpilot score: 2.8/5 (295 reviews)
 - Official web: dominionfunding.trade
 - Email: info@dominionfunding.trade
 - Address: IFZA Business Park, Dubai, 00000, U.A.E.

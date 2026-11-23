@@ -11,7 +11,7 @@ Breakout Prop currently lists 5 deals with discount codes. The best current offe
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Breakout Prop
 - Deal last verified: 2026-07-27
-- Trustpilot score: 4.6/5 (1314 reviews)
+- Trustpilot score: 4.7/5 (1329 reviews)
 - Official web: breakoutprop.com
 - Address: United States
 - Market type: Crypto

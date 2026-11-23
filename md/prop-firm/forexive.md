@@ -9,7 +9,7 @@ Forexive currently lists 24 deals with discount codes. The best current offer is
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Forexive
 - Deal last verified: 2026-11-21
-- Trustpilot score: 3.7/5 (114 reviews)
+- Trustpilot score: 3.8/5 (119 reviews)
 - Official web: forexive.com
 - Email: support@forexive.com
 - Address: 86-90 Paul Street, London, EC2A 4NE, United Kingdom

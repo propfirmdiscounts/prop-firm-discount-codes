@@ -9,7 +9,7 @@ Atlas Funded currently lists 43 deals with discount codes. The best current offe
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Atlas Funded
 - Deal last verified: 2026-11-22
-- Trustpilot score: 3.9/5 (2239 reviews)
+- Trustpilot score: 3.9/5 (2277 reviews)
 - Official web: atlasfunded.com
 - Email: support@atlasfunded.com
 - Address: Building A1, Dubai Business Park, Dubai, United Arab Emirates, U.A.E.

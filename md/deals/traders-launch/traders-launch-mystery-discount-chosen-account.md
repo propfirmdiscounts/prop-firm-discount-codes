@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Traders Launch
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Traders Launch 25% Off Fall Promotion](https://propfirmdiscount.com/deals/traders-launch/traders-launch-25-off-fall-promo/) | - | 25% Off | Ended |
+| [Traders Launch 30% Off All Accounts Evaluation Pricing](https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts-labor-day/) | Labor Day | 30% Off | Ended |
+| [Traders Launch Summer Sale: 20% Off All Accounts](https://propfirmdiscount.com/deals/traders-launch/traders-launch-summer-sale-20-off/) | - | 20% Off | Ended |
+| [Traders Launch 20% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/traders-launch/traders-launch-20-off-all-accounts/) | - | 20% Off | Ended |
+| [Traders Launch 30% Off All Accounts For 4th Of July](https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-4th-july/) | - | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does Traders Launch offer in this mystery promo?**

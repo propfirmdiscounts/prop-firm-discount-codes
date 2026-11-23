@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from My Funded Futures
+
+| Title | Discount | Expires |
+|---|---|---|
+| [My Funded Futures 30% Off Plus Diamond Crate: Is It Worth The Entry Fee?](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-30-off-diamond-crate/) | 30% Off | Ended |
+| [My Funded Futures: 50% Off First 4 Accounts And 40% Off Unlimited Purchases](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-50-40-off-evaluations/) | 50% Off | Ended |
+| [My Funded Futures 20% Off $50k Rapid EOD Accounts](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-20-off-50k-rapid-eod/) | 20% Off | Ended |
+| [My Funded Futures 50% Challenge Fee Discount Through July 31: Decision Guide](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-50-percent-off-july/) | 50% Off | Ended |
+| [My Funded Futures: 20% Off Plus Free Reset On 25k And 50k Rapid Accounts](https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-20-off-free-reset-rapid/) | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the flash sale include?**

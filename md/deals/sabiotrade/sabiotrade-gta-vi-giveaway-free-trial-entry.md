@@ -19,6 +19,16 @@ Apply code PFD at checkout for up to 30% off any SabioTrade challenge account â€
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from SabioTrade
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [SabioTrade Halloween 25% Off Account Purchase Deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-25-off-account-purchase/) | Halloween | 25% Off | Limited time |
+| [SabioTrade Buy 1 Get 1 Free: Second Evaluation Account Included](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-buy-1-get-1-free/) | - | Buy 1 Get 1 | Ended |
+| [SabioTrade Buy 2 Get 3rd Free Account Purchase Structure](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-buy-2-get-3rd-free-promo/) | - | Buy 2 Get 3 | Ended |
+| [SabioTrade Black Friday Deal: Buy One Get One Free Account](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-black-friday-bogo-deal/) | Black Friday | Buy 1 Get 1 | Ended |
+| [SabioTrade Halloween Deal: 30% Off Any Account + Free Course](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-halloween-30-off-free-course/) | Halloween | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What is being given away?**

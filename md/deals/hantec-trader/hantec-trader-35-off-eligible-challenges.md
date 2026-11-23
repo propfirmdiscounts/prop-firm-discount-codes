@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Hantec Trader
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Hantec Trader 50% Off Evaluation Challenge Pricing](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-evaluation-challenges/) | 50% Off | Ended |
+| [Hantec Trader 35% Off First Evaluation Challenge](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-35-off-first-challenge/) | 35% Off | Ended |
+| [Hantec Trader 40% Off Evaluation Programs (500 Cap)](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-40-off-payday-500-cap/) | 40% Off | Ended |
+| [Hantec Trader 50% Off Challenge Fees Plus Giveaway Entry](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-50-off-giveaway/) | 50% Off | Ended |
+| [Hantec Trader 25% Off All Challenges & Free 95% Reward Share Add-On](https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-25-off-free-95-reward-share/) | 25% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the current Hantec Trader promotion provide?**

@@ -9,7 +9,7 @@ Funded Hero Futures currently lists 12 deals with discount codes. The best curre
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Hero Futures
 - Deal last verified: 2026-09-25
-- Trustpilot score: 4.1/5 (31 reviews)
+- Trustpilot score: 4.2/5 (32 reviews)
 - Official web: fundedherofutures.com
 - Email: trade@fundedhero.com
 - Address: United States

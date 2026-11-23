@@ -6,7 +6,7 @@ FundedSquad currently lists 34 deals with discount codes. Compare available prom
 
 - Prop firm: FundedSquad
 - Deal last verified: 2026-11-20
-- Trustpilot score: 1.9/5 (415 reviews)
+- Trustpilot score: 1.9/5 (424 reviews)
 - Official web: fundedsquad.com
 - Email: support@fundedsquad.com
 - Address: DDO IFZA Business Park-Dubai Silicon Oasis, Dubai , PO BOX- 342001, U.A.E.
@@ -51,7 +51,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
 | 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
-| 2026-11-16 | FundedSquad Black Friday: 55% Off All Models | 55% Off | 2026-11-23 07:00 | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
+| 2026-11-16 | FundedSquad Black Friday: 55% Off All Models | 55% Off | 2026-11-23 07:00 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
 | 2026-11-06 | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% Off | 2026-11-10 07:00 (ended) | Diwali | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-02 | FundedSquad 50% Off All Models Plus BOGO | 50% Off | 2026-11-09 07:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/ |
 | 2026-10-30 | FundedSquad 45% Off All Models Plus BOGO Anniversary | 45% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/ |

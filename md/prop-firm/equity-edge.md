@@ -9,7 +9,7 @@ Equity Edge currently lists 40 deals with discount codes. The best current offer
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Equity Edge
 - Deal last verified: 2026-08-03
-- Trustpilot score: 4.2/5 (2730 reviews)
+- Trustpilot score: 4.2/5 (2754 reviews)
 - Official web: equityedge.io
 - Email: support@equityedge.io
 - Address: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, LC01 401, St. Lucia

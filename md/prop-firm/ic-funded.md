@@ -4,7 +4,7 @@ IC Funded currently lists 6 deals with discount codes. Compare available promoti
 
 - Prop firm: IC Funded
 - Deal last verified: 2026-11-04
-- Trustpilot score: 3.5/5 (202 reviews)
+- Trustpilot score: 3.4/5 (204 reviews)
 - Official web: icfunded.com
 - Email: support@icfunded.com
 - Address: Unit 1, La Place Creole, Rodney Bay Village, Gros-Islet, St. Lucia

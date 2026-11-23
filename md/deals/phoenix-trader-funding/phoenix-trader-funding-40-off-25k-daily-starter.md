@@ -19,6 +19,16 @@ Apply code PFD at checkout for up to 40% off any Phoenix Trader Funding challeng
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Phoenix Trader Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Phoenix Trader Funding 30% Off Classic Accounts on TFeed](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/) | - | 30% Off | 2026-11-18 17:59 (ended) |
+| [Phoenix Trader Funding: 40% Off Daily Seed Challenges](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) | Halloween | 40% Off | 2026-10-31 (ended) |
+| [Phoenix Trader Funding: 30% Off Classic Starter Evaluations](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) | Halloween | 30% Off | 2026-10-31 (ended) |
+| [Phoenix Trader Funding $25,000 Classic Agile Evaluation For $64.80](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/) | - | 30% Off | Ended |
+| [Phoenix Trader Funding: 40% Off Daily Evaluation Accounts ($59.40 to $197.40)](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/) | - | 40% Off | 2026-10-12 (ended) |
+
 ## Frequently Asked Questions
 
 **What price does Phoenix Trader Funding offer on the 25K Daily Starter?**

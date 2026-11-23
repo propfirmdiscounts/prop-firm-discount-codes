@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Alpha Funded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Alpha Funded Free 100% Profit Split Add-On for Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/) | - | Free Add-on | 2026-11-30 |
+| [Alpha Funded 70% Off $300K+ Forex and Futures Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/) | - | 70% Off | Limited time |
+| [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) | Halloween | 70% Off | Limited time |
+| [Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/) | - | 80% Off | 2026-10-26 19:00 (ended) |
+| [Alpha Trader Firm Halloween Promo: $100K for $199 to $300K for $399](https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-halloween-challenge-199-to-399/) | Halloween | Only $199 | Ended |
+
 ## Frequently Asked Questions
 
 **What does the 60% cover?**

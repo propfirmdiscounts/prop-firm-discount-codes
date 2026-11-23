@@ -19,6 +19,16 @@ Apply code WWS4GW at checkout for up to 10% off any Trade The Pool challenge acc
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Trade The Pool
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) | Labor Day | 15% Off | Ended |
+| [Trade The Pool: Upgraded $60K and $120K Flex Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) | - | Account Upgrade | Ended |
+| [Trade The Pool 48-Hour Deal: $60K and $120K Buying Power Flex Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) | - | Power Bonus | Ended |
+| [Trade The Pool: Free Second Attempt on $5K and $25K FLEX Accounts](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) | - | Free Second Attempt | Ended |
+| [Trade The Pool Free Retry Deal: $5K and $25K FLEX Account Challenge Fee Protection Until June 25, 2026](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) | - | Free retry credit | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Trade The Pool Stocktober Sale include?**

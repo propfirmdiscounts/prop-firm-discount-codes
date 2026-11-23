@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from The Concept Trading
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [The Concept Trading: 35% Off Instant Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/) | - | 35% Off | 2026-11-13 08:59 (ended) |
+| [The Concept Trading 30% Off Eligible Programs in November](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/) | - | 30% Off | 2026-11-10 08:59 (ended) |
+| [The Concept Trading Halloween 45% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/) | Halloween | 45% Off | 2026-10-31 09:59 (ended) |
+| [The Concept Trading 35% Off Eligible Programs](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/) | - | 35% Off | 2026-10-24 (ended) |
+| [The Concept Trading: 40% Off Eligible Programs + Free Retry](https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-40-off-free-retry-2/) | - | 40% Off | 2026-10-16 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the Black Friday offer include?**

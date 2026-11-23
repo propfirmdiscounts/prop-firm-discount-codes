@@ -20,6 +20,16 @@ Apply code PFDC at checkout for up to 20% off any FundedNext challenge account â
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from FundedNext
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [FundedNext November Up to 41% Off Stellar Challenges](https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/) | - | 41% Off | Limited time |
+| [FundedNext Halloween 20% Off Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/) | Halloween | 41% Off | Limited time |
+| [FundedNext October Promotion: Stellar Accounts Starting at $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-accounts-29-99/) | - | 32% Off | Ended |
+| [FundedNext Lowered Pricing: Stellar Accounts From $29.99](https://propfirmdiscount.com/deals/fundednext/fundednext-october-stellar-pricing/) | - | Only $29.99 | Ended |
+| [FundedNext 20% Off New or 15% Off Existing 50K Stellar Evaluation Accounts](https://propfirmdiscount.com/deals/fundednext/fundednext-20-off-50k-stellar-discount/) | - | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does FundedNext November offer on Stellar Instant accounts?**

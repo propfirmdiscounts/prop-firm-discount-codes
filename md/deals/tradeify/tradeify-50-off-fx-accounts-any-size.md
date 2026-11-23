@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Tradeify
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Tradeify 50% Off All FX Accounts: Is the Launch Pricing Right for You?](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-fx-launch/) | - | 50% Off | Ended |
+| [Tradeify – 50% Off All Accounts](https://propfirmdiscount.com/deals/tradeify/tradeify-50-off-all-accounts/) | - | 50% Off | Ended |
+| [Tradeify 40% To 30% Off Evaluation Account Purchase Cost](https://propfirmdiscount.com/deals/tradeify/tradeify-40-to-30-off-discount/) | - | 40% Off | Ended |
+| [Tradeify 40% Off: Growth, Select and Lightning Accounts (25K-150K)](https://propfirmdiscount.com/deals/tradeify/tradeify-40-off-flash-sale-accounts/) | - | 40% Off | Ended |
+| [Tradeify Memorial Day: 50% Off Evaluations & 40% Off Instant Accounts](https://propfirmdiscount.com/deals/tradeify/tradeify-memorial-day-50-percent-40-percent-discount/) | Memorial Day | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does Tradeify offer in this promotion?**

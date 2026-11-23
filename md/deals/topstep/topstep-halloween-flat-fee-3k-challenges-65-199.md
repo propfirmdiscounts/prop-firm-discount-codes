@@ -15,9 +15,17 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: 3K Challenge, Undead Account, Slasher Account, Halloween
 - Deal url: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
 
-Apply code TRANNGUYEN at checkout for up to 50% off any Topstep challenge account — verified to work any time with no expiration date.
-
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Recent deals from Topstep
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Topstep $20 Off Up To 5 No Activation Fee Trading Combines](https://propfirmdiscount.com/deals/topstep/topstep-20-off-no-activation-fee-combines/) | $20 OFF | Ended |
+| [Topstep: $26 Off Up to 5 No Activation Fee Trading Combines](https://propfirmdiscount.com/deals/topstep/topstep-26-off-5-evaluations/) | $26 OFF | Ended |
+| [Topstep 30% Off Up to 5 Accounts: Initial Purchase Pricing Review](https://propfirmdiscount.com/deals/topstep/topstep-30-off-initial-purchase/) | 30% Off | Ended |
+| [Topstep Compensation Deal: 40% OFF Trading Combines](https://propfirmdiscount.com/deals/topstep/topstep-compensation-deal-40-off/) | 40% Off | Ended |
+| [Topstep Dashboard Launch: 25% OFF TopstepX Trading Combines](https://propfirmdiscount.com/deals/topstep/topstep-dashboard-launch-25-off/) | 25% Off | Ended |
 
 ## Frequently Asked Questions
 

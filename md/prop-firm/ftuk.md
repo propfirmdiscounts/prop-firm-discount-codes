@@ -6,7 +6,7 @@ FTUK currently lists 74 deals with discount codes. Compare available promotions 
 
 - Prop firm: FTUK
 - Deal last verified: 2026-11-20
-- Trustpilot score: 3.9/5 (808 reviews)
+- Trustpilot score: 3.9/5 (807 reviews)
 - Official web: ftuk.com
 - Email: support@ftuk.com
 - Address: Casper, United States

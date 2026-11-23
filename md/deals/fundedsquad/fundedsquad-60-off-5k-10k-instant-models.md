@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from FundedSquad
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [FundedSquad Black Friday: 55% Off All Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/) | Black Friday | 55% Off | 2026-11-23 07:00 (ended) |
+| [FundedSquad Diwali 55% Off $25K and $50K Instant](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/) | Diwali | 55% Off | 2026-11-10 07:00 (ended) |
+| [FundedSquad 50% Off All Models Plus BOGO](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/) | - | 50% Off | 2026-11-09 07:00 (ended) |
+| [FundedSquad 45% Off All Models Plus BOGO Anniversary](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-45-off-all-models-bogo-anniversary/) | - | 45% Off | 2026-10-31 (ended) |
+| [FundedSquad 40% Off All Evaluation Models](https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-40-off-anniversary-promo/) | - | 40% Off | 2026-10-15 (ended) |
+
 ## Frequently Asked Questions
 
 **Which accounts does the 60% cover?**

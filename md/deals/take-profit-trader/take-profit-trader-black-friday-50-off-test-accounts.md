@@ -17,6 +17,14 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Take Profit Trader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Take Profit Trader: 50% Off Evaluation Accounts and Zero Activation Fees](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-50-off-evaluation-accounts/) | - | 50% Off | Ended |
+| [Take Profit Trader Christmas Offer: 40% OFF All Test Accounts + No Activation Fee](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-christmas-promotion/) | Christmas | 40% Off | Ended |
+| [Take Profit Trader Black Friday Sale: 30% Off + 100% Refund + No Activation Fee](https://propfirmdiscount.com/deals/take-profit-trader/take-profit-trader-black-friday-30-off-refund-no-activation-fee/) | Black Friday | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does Take Profit Trader offer in the Early Black Friday Flash Sale?**

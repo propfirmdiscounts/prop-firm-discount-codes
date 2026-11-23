@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Plutus Trade Base
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Plutus Trade Base: 60% Off the Lightning Plan](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/) | - | 60% Off | Limited time |
+| [Plutus Trade Base 50% Off the Freedom Plan Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/) | - | 50% Off | Limited time |
+| [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) | Halloween | 66% Off | Limited time |
+| [Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off)](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/) | - | 50% Off | Ended |
+| [Plutus Trade Base 50% Off Challenge Pricing](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-challenge-pricing/) | - | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the 50% cover?**

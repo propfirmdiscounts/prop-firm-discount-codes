@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from WSFunded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [WSFunded: 60% Off Challenges From 2.5K to 25K](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/) | - | 60% Off | Limited time |
+| [WSFunded Flash Challenge: 50% Off, 24 Hours](https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/) | - | 50% Off | 2026-11-19 (ended) |
+| [WSFunded Black Friday: 4 Instant Challenges $68.60](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/) | Black Friday | 30% Off | Limited time |
+| [WSFunded 40% Off All Challenges Plus 300% Refund Offer](https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/) | - | 40% Off | Limited time |
+| [WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween](https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/) | Halloween | 60% Off | 2026-11-02 17:59 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the pack include?**

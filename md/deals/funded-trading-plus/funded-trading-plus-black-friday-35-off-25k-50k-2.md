@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 20% off any Funded Trading Plus challenge a
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Funded Trading Plus
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Funded Trading Plus Black Friday: 35% Off $25K-$50K](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/) | Black Friday | 35% Off | Limited time |
+| [Funded Trading Plus Black Friday: 37.5% Off $5K-$10K](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/) | Black Friday | 37.5% Off | Limited time |
+| [Funded Trading Plus Flash Sale Extended: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/) | - | 32.5% Off | 2026-11-20 (ended) |
+| [Funded Trading Plus Flash Sale: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/) | - | 32.5% Off | Limited time |
+| [Funded Trading Plus: 25% Off Plus Free Add-On](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/) | - | 25% Off | Limited time |
+
 ## Frequently Asked Questions
 
 **Which accounts does the 35% cover?**

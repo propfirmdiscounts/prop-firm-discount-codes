@@ -17,6 +17,15 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Lux Trading Firm
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Lux Trading Firm £699 $1M Account Black Friday](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-699-1m-black-friday/) | Black Friday | 30% Off | 2026-11-27 |
+| [Lux Trading Firm Christmas Offer: 15% OFF Any New Trading Account](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-christmas-offer-15-off/) | Christmas | 15% Off | Ended |
+| [Lux Trading Firm Black Friday Deal: 25% OFF Elite Package + Mentoring](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-deal-25-off/) | Black Friday | 25% Off | Ended |
+| [Lux Trading Firm Harvest Deal: 30% Off All Accounts + $100K Size for £199](https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-harvest-deal-30-off-100k-account/) | - | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What are the Black Friday prices?**

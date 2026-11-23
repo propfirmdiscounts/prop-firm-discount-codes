@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Funded Hero
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Funded Hero 70% Off $100K 3-Step Villain Halloween](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-100k-3-step-villain-halloween/) | Halloween | 70% Off | 2026-10-31 (ended) |
+| [Funded Hero 62% Off All Accounts Plus BOGO Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-62-off-all-accounts-bogo/) | - | 62% Off | Ended |
+| [Funded Hero 70% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-70-off-all-accounts/) | - | 70% Off | Ended |
+| [Funded Hero 65% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funded-hero/funded-hero-65-off-promotion/) | - | 65% Off | Ended |
+| [Funded Hero: 60% Off All Evaluation Accounts Plus BOGO](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-discount-bogo/) | - | 60% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What price does Funded Hero offer on the $100K Instant Elite?**

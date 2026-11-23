@@ -6,7 +6,7 @@ FunderPro currently lists 18 deals with discount codes. Compare available promot
 
 - Prop firm: FunderPro
 - Deal last verified: 2026-11-12
-- Trustpilot score: 2.7/5 (1552 reviews)
+- Trustpilot score: 2.7/5 (1560 reviews)
 - Official web: funderpro.com
 - Email: info@funderpro.com
 - Address: 30/1, Kenilworth Court, Sir Augustus Bartolo Street, Ta’Xbiex , Malta., Ta’Xbiex, XBX1093, Malta
@@ -14,12 +14,11 @@ FunderPro currently lists 18 deals with discount codes. Compare available promot
 - Active deal url: https://propfirmdiscount.com/go/funderpro
 - Firm page: https://propfirmdiscount.com/prop-firm/funderpro/
 
-## Current deal: FunderPro: 30% Off All Account Types, Black Friday
+## Most recent deal (ended): FunderPro: 30% Off All Account Types, Black Friday
 
 - Deal last verified: 2026-11-12
-- Deal ends: 2026-11-22
+- Deal ends: 2026-11-22 (ended)
 - Discount: 30% Off
-- Discount code: BF30
 - Applied to: All Account Types
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/
@@ -52,6 +51,6 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-12 | FunderPro: 30% Off All Account Types, Black Friday | 30% Off | 2026-11-22 | Black Friday | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
+| 2026-11-12 | FunderPro: 30% Off All Account Types, Black Friday | 30% Off | 2026-11-22 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/funderpro/funderpro-30-off-all-account-types-black-friday/ |
 | 2026-11-03 | FunderPro 20% Off Classic and Instant Challenges | 20% Off | 2026-11-08 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/funderpro/funderpro-20-off-classic-instant-challenges/ |
 | 2026-10-30 | FunderPro Halloween 30% Off Classic and Instant Accounts | 30% Off | 2026-11-01 (ended) | Halloween | - | https://propfirmdiscount.com/deals/funderpro/funderpro-halloween-30-off-classic-instant-accounts/ |

@@ -20,6 +20,16 @@ Apply code CSV at checkout for up to 35% off any Goat Funded Trader challenge ac
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Goat Funded Trader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Goat Funded Trader 40% Off Plus Buy One Get One Free](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) | - | 40% Off | Limited time |
+| [Goat Funded Trader 8% Off Prediction Market Evaluations](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) | - | 8% Off | Limited time |
+| [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) | Halloween | 50% Off | Limited time |
+| [Goat Funded Trader 50% Off $100K Account – Expo Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) | - | 50% Off | 2026-10-25 (ended) |
+| [Goat Funded Trader: 50% Off All Plans](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-all-plans-2/) | - | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the early Black Friday offer include?**

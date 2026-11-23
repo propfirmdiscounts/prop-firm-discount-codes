@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Blueberry Funded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) | - | 35% Off | 2026-11-18 18:59 (ended) |
+| [Blueberry Funded Diwali: 30% Off All Challenges](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/) | Diwali | 30% Off | 2026-11-11 (ended) |
+| [Blueberry Funded Halloween 35% Off Prime Challenge](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-halloween-35-off-prime-challenge/) | Halloween | 35% Off | 2026-11-01 18:59 (ended) |
+| [Blueberry Funded 15% Off All Synthetics Challenges ($2.5K-$100K)](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-15-off-synthetics-launch/) | - | 15% Off | 2026-10-20 (ended) |
+| [Blueberry Funded 1-Step Classic: 30% Off Entry Fees](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-30-off-1-step-classic/) | - | 30% Off | 2026-10-11 (ended) |
+
 ## Frequently Asked Questions
 
 **What does this offer include?**

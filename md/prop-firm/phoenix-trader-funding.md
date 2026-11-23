@@ -9,7 +9,7 @@ Phoenix Trader Funding currently lists 24 deals with discount codes. The best cu
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phoenix Trader Funding
 - Deal last verified: 2026-11-04
-- Trustpilot score: 4.4/5 (264 reviews)
+- Trustpilot score: 4.5/5 (263 reviews)
 - Official web: phoenixtraderfunding.com
 - Email: contact@phoenixtraderfunding.com
 - Address: 60 Rue François 1er, Paris, 75008, France
@@ -17,6 +17,26 @@ Phoenix Trader Funding currently lists 24 deals with discount codes. The best cu
 - Active deal url: https://propfirmdiscount.com/go/phoenixtraderfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Phoenix Trader Funding challenge account pricing
+
+The Phoenix Trader Funding discount code PFD offers up to 40% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 9 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Classic | $25K | $89 | $84.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Classic | $50K | $128 | $121.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Classic | $100K | $269 | $255.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Daily | $10K | $99 | $94.1 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Daily | $25K | $199 | $189 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Daily | $50K | $329 | $312.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Spark | $10K | $44 | $35.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Spark | $25K | $74 | $59.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Merit | $2K | $69 | $65.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Most recent deal (ended): Phoenix Trader Funding 40% Off 25K Daily Starter – $119.40
 

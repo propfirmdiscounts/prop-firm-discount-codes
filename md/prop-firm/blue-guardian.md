@@ -9,7 +9,7 @@ Blue Guardian currently lists 33 deals with discount codes. The best current off
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Blue Guardian
 - Deal last verified: 2026-11-16
-- Trustpilot score: 3.0/5 (2184 reviews)
+- Trustpilot score: 3.0/5 (2189 reviews)
 - Official web: blueguardian.com
 - Email: support@blueguardianfutures.com
 - Address: U.A.E.
@@ -17,6 +17,63 @@ Blue Guardian currently lists 33 deals with discount codes. The best current off
 - Active deal url: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Blue Guardian challenge account pricing
+
+The Blue Guardian discount code PFD offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 46 account options across CFDs and Futures markets. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Market | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|---|
+| CFDs | Instant | $5K | $72 | $50.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $10K | $100 | $70 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $25K | $208 | $145.6 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $50K | $324 | $226.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $100K | $623 | $436.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $200K | $954 | $667.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $300K | $1712 | $1198.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | Instant | $400K | $2200 | $1540 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $5K | $40 | $28 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $10K | $66 | $46.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $25K | $100 | $70 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $50K | $200 | $140 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $100K | $398 | $278.6 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Standard | $200K | $736 | $515.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $5K | $26.66 | $18.7 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $10K | $38.66 | $27.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $25K | $78.66 | $55.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $50K | $160 | $112 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $100K | $320 | $224 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 1 Step Nano | $200K | $585 | $409.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $5K | $32 | $22.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $10K | $75 | $52.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $25K | $154 | $107.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $50K | $232 | $162.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $100K | $463 | $324.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Standard | $200K | $930 | $651 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Nano | $25K | $66.66 | $46.7 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Nano | $50K | $127 | $88.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Nano | $100K | $239 | $167.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| CFDs | 2 Step Nano | $200K | $460 | $322 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Standard | $25K | $154 | $107.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Standard | $50K | $209 | $146.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Standard | $100K | $330 | $231 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Standard | $150K | $424 | $296.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Reserve | $25K | $110 | $77 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Reserve | $50K | $164 | $114.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Reserve | $100K | $248 | $173.6 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Reserve | $150K | $398 | $278.6 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Express | $25K | $106 | $74.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Express | $50K | $137 | $95.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Express | $100K | $229 | $160.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Express | $150K | $345 | $241.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Direct | $25K | $307 | $214.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Direct | $50K | $494 | $345.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Direct | $100K | $659 | $461.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Futures | Direct | $150K | $824 | $576.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Blue Guardian: 30% Off Every Account This Week (code PFD)
 

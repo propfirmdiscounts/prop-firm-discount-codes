@@ -7,7 +7,7 @@ FXIFY currently lists 42 deals with discount codes. The best current offer is co
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FXIFY
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.3/5 (6699 reviews)
+- Trustpilot score: 4.3/5 (6718 reviews)
 - Official web: fxify.com
 - Email: team@fxify.com
 - Address: 142 Central Street, Clerkenwell, London, EC1V 8AR, United Kingdom

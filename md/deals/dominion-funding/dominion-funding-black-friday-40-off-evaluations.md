@@ -20,6 +20,16 @@ Apply code PFD5PC at checkout for up to 5% off any Dominion Funding challenge ac
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Dominion Funding
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Dominion Funding: 20% Off All Account Models](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-20-off-all-accounts/) | 20% Off | Ended |
+| [Dominion Funding: 30% Off All Accounts For TradeHawk Launch](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-all-accounts-launch/) | 30% Off | Ended |
+| [Dominion Funding 30% Off All Evaluations](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-30-off-evaluations/) | 30% Off | Ended |
+| [Dominion Funding 35% Off All Accounts: Cost Reduction Breakdown](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-35-off-all-accounts/) | 35% Off | Ended |
+| [Dominion Funding 15% Off And Free Additional Account](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-15-off-additional-account/) | 15% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Dominion Funding Black Friday promotion include?**

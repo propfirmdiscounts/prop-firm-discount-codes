@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Upcomers
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Upcomers Promotion: Free Bonus Account on $50K+ Evaluations](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) | Free Bonus Account | Ended |
+| [Upcomers Spring Friday: Up to 90% Off Accounts Up To $1,500,000](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) | 90% Off | Ended |
+| [Upcomers 80% Off and BOGO on Legacy Challenges Upfront Fee](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-bogo-legacy-challenges/) | 80% Off | Ended |
+| [Upcomers 80% Discount and Expanded Drawdown Limits](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-drawdown-updates/) | 80% Off | Ended |
+| [Upcomers Up to 80% Off ASH Half-Step Evaluation Accounts](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-off-ash-half-step-discount/) | 80% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does Upcomers offer on the Perpetuals launch?**

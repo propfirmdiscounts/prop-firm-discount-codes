@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from The Trading Pit
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [The Trading Pit Halloween 50% Off Challenges Flash Sale](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-halloween-50-off-flash-sale/) | Halloween | 50% Off | 2026-11-01 (ended) |
+| [The Trading Pit 35% Off Selected Accounts And Free $5K Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-selected-accounts-free-5k/) | - | 35% Off | 2026-10-23 (ended) |
+| [The Trading Pit: 35% Off All Products and Free $5,000 Account](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-35-off-free-5k-instant-account/) | - | 35% Off | 2026-10-23 (ended) |
+| [The Trading Pit: 30% Off Instant Accounts](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-30-off-instant-accounts/) | - | 30% Off | Ended |
+| [The Trading Pit 20% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/the-trading-pit/the-trading-pit-20-off-instant-funding/) | - | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does The Trading Pit's Black Friday offer cover?**

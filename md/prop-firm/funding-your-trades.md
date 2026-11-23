@@ -9,7 +9,7 @@ Funding Your Trades currently lists 40 deals with discount codes. The best curre
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funding Your Trades
 - Deal last verified: 2026-11-21
-- Trustpilot score: 2.9/5 (132 reviews)
+- Trustpilot score: 2.9/5 (136 reviews)
 - Official web: fundingyourtrades.com
 - Email: support@fundingyourtrades.com
 - Address: U.A.E.
@@ -55,5 +55,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-21 | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% Off | 2026-11-28 | Black Friday | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-16 | Funding Your Trades Black Friday: 35% Off + BOGO | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/ |
 | 2026-11-05 | Funding Your Trades Diwali 45% Off + Buy 1 Get 3 | 45% Off | 2026-11-12 (ended) | Diwali | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/ |
-| 2026-10-22 | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
+| 2026-10-22 | Funding Your Trades 45% Off Halloween Challenges Plus BOGO | 45% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/ |
 | 2026-10-13 | Funding Your Trades 40% Off Plus Bonus Account and 5% Cashback | 40% Off | 2026-10-20 (ended) | - | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-dashboard-launch-40-off-bonus/ |

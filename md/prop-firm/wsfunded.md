@@ -6,7 +6,7 @@ WSFunded currently lists 63 deals with discount codes. Compare available promoti
 
 - Prop firm: WSFunded
 - Deal last verified: 2026-11-20
-- Trustpilot score: 4.3/5 (5141 reviews)
+- Trustpilot score: 4.3/5 (5174 reviews)
 - Official web: wsfunded.com
 - Email: support@wsfunded.com
 - Address: Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, United Arab Emirates, Dubai, AD500, U.A.E.

@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Blue Guardian
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Blue Guardian Futures ZERO: 30% Off Launch Sale](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/) | - | 30% Off | Limited time |
+| [Blue Guardian 30% Off CFD and Futures Accounts From $54](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) | - | 30% Off | Limited time |
+| [Blue Guardian 25% off Reserve discount code](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) | Halloween | 25% Off | Ended |
+| [Blue Guardian: 35% Off All Accounts Plus 200% Refund](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) | Halloween | 35% Off | Ended |
+| [Blue Guardian: 50% Off Futures Accounts Starting at $59](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) | - | 50% Off | 2026-10-04 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the offer include?**

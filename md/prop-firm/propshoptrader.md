@@ -6,7 +6,7 @@ PropShopTrader currently lists 18 deals with discount codes. Compare available p
 
 - Prop firm: PropShopTrader
 - Deal last verified: 2026-04-28
-- Trustpilot score: 3.5/5 (548 reviews)
+- Trustpilot score: 3.6/5 (546 reviews)
 - Official web: propshoptrader.com
 - Email: support@propshoptrader.com
 - Address: Estonia

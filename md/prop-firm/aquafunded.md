@@ -9,7 +9,7 @@ AquaFunded currently lists 53 deals with discount codes. The best current offer 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: AquaFunded
 - Deal last verified: 2026-11-17
-- Trustpilot score: 2.0/5 (1221 reviews)
+- Trustpilot score: 2.0/5 (1223 reviews)
 - Official web: aquafunded.com
 - Email: Support@aquafunded.com
 - Address: Dubai silicon Oasis, DDP, Building A2, Dubai , Dubai , U.A.E.
@@ -17,6 +17,62 @@ AquaFunded currently lists 53 deals with discount codes. The best current offer 
 - Active deal url: https://propfirmdiscount.com/go/aquafunded
 - Firm page: https://propfirmdiscount.com/prop-firm/aquafunded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## AquaFunded challenge account pricing
+
+The AquaFunded discount code PFD offers up to 35% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 45 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Instant Standard | $2,5K | $51 | $33.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $5K | $93 | $60.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $10K | $126 | $81.9 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $25K | $253 | $164.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $50K | $380 | $247 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $100K | $613 | $398.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $200K | $1012 | $657.8 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Standard | $300K | $1719 | $1117.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $2,5K | $33 | $21.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $5K | $60 | $39 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $10K | $86 | $55.9 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $25K | $185 | $120.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $50K | $305 | $198.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $100K | $560 | $364 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $200K | $905 | $588.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $300K | $1465 | $952.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Pro | $400K | $1865 | $1212.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $5K | $53 | $34.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $10K | $90 | $58.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $25K | $181 | $117.7 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $50K | $261 | $169.7 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $100K | $421 | $273.7 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Standard | $200K | $813 | $528.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Flex | $5K | $60 | $39 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Flex | $10K | $100 | $65 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Flex | $25K | $191 | $124.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Flex | $50K | $279 | $181.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| One Step Flex | $100K | $447 | $290.6 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $5K | $28 | $18.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $10K | $71 | $46.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $25K | $111 | $72.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $50K | $239 | $155.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $100K | $375 | $243.8 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Standard | $200K | $757 | $492.1 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $5K | $20 | $13 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $10K | $39 | $25.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $25K | $71 | $46.2 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $50K | $143 | $93 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $100K | $279 | $181.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Pro | $200K | $559 | $363.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Elite | $5K | $26 | $16.9 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Elite | $10K | $50 | $32.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Elite | $25K | $103 | $67 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Elite | $50K | $221 | $143.7 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| Two Step Elite | $100K | $365 | $237.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: AquaFunded Black Friday: 35% Off Every Account
 

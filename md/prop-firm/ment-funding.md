@@ -6,7 +6,7 @@ Ment Funding currently lists 31 deals with discount codes. Compare available pro
 
 - Prop firm: Ment Funding
 - Deal last verified: 2026-11-15
-- Trustpilot score: 4.6/5 (237 reviews)
+- Trustpilot score: 4.6/5 (238 reviews)
 - Official web: mentfunding.com
 - Email: mentfunding@propaccount.com
 - Address: 5900 Balcones Drive Suite, Austin, 78731, United States

@@ -6,7 +6,7 @@ Tradeify currently lists 18 deals with discount codes. Compare available promoti
 
 - Prop firm: Tradeify
 - Deal last verified: 2026-10-20
-- Trustpilot score: 4.6/5 (7447 reviews)
+- Trustpilot score: 4.6/5 (7618 reviews)
 - Official web: tradeify.co
 - Email: hey@tradeify.co
 - Address: United States

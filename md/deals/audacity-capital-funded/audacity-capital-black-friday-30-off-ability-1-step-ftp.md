@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from AudaCity Capital
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [AudaCity Capital Black Friday: 50% Off Ability 2-Steps](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-50-off-ability-2-steps/) | Black Friday | 50% Off | 2026-11-29 |
+| [AudaCity Capital: 35% Off Ability 2-Step](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step-2/) | - | 35% Off | Limited time |
+| [AudaCity Capital 20% Off Ability One and FTP Instant Funding](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-20-off-ability-one-ftp-instant/) | - | 20% Off | Limited time |
+| [AudaCity Capital 14% Off All Programs – Entry Fees Cut](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-14-off-all-programs/) | - | 14% Off | Limited time |
+| [AudaCity Capital: 35% Off Ability 2-Step Challenge Pricing](https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-35-off-ability-2-step/) | Halloween | 35% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the 30% cover?**

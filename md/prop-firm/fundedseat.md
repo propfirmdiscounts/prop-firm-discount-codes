@@ -18,6 +18,34 @@ FundedSeat currently lists 14 deals with discount codes. Compare available promo
 - Active deal url: https://propfirmdiscount.com/go/fundedseat
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedseat/
 
+## FundedSeat challenge account pricing
+
+Compare every FundedSeat challenge side by side — match the account size to your capital and strategy, then start trading in minutes.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 17 account options across the CFDs market. Prices shown include the applicable PFD discount. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| 1 Step - Daily | $25K | $140 | $70 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily | $50K | $190 | $95 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily | $100K | $320 | $160 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily | $150K | $445 | $222.5 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Sprint | $25K | $135 | $67.5 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Sprint | $50K | $200 | $100 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Sprint | $100K | $300 | $150 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Sprint | $150K | $475 | $237.5 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily Ultra | $25K | $230 | $115 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily Ultra | $50K | $460 | $230 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| 1 Step - Daily Ultra | $100K | $690 | $345 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Direct | $25K | $400 | $200 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Direct | $50K | $600 | $300 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Direct | $100K | $900 | $450 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Bolt | $25K | $400 | $200 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Bolt | $50K | $600 | $300 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+| Instant Funding - Bolt | $100K | $900 | $450 | 50% off | No code required — discount via link | Tested at checkout 2026-11-23 |
+
 ## Most recent deal (ended): FundedSeat 50% Off First 4 Evaluation Accounts
 
 - Deal last verified: 2026-09-03

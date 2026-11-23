@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Tradexprop
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Tradexprop Black Friday: 40% Off Evaluations](https://propfirmdiscount.com/deals/tradexprop/tradexprop-black-friday-40-off-evaluations/) | Black Friday | 40% Off | 2026-11-30 18:59 |
+| [Tradexprop Halloween Promo: 20% Off Instant Funding](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-promo-20-off-instant-funding/) | Halloween | 20% Off | 2026-10-25 (ended) |
+| [Tradexprop Halloween Sale: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-halloween-sale-40-off-evaluation/) | Halloween | 40% Off | 2026-10-25 (ended) |
+| [Tradexprop 25% Off Instant Funding Plans](https://propfirmdiscount.com/deals/tradexprop/tradexprop-25-off-instant-funding-plans/) | - | 25% Off | Ended |
+| [Tradexprop Malaysia Day Promo: 40% Off Evaluation Accounts](https://propfirmdiscount.com/deals/tradexprop/tradexprop-40-off-evaluation-malaysia-day/) | - | 40% Off | Ended |
+
 ## Frequently Asked Questions
 
 **How much does the Black Friday sale take off Instant Funding?**

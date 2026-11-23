@@ -19,6 +19,16 @@ Apply code PFDC at checkout for up to 25% off any Finotive Funding challenge acc
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Finotive Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Finotive Funding Back to Roots Sale: 50% Off Everything](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) | - | 50% Off | 2026-11-10 17:59 (ended) |
+| [Finotive Funding 65% Off Every Account](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) | Halloween | 65% Off | 2026-11-02 17:59 (ended) |
+| [Finotive Funding Halloween 50% Off All Challenges](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) | Halloween | 50% Off | 2026-11-01 00:00 (ended) |
+| [Finotive Funding: 50% Off Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) | - | 50% Off | 2026-10-19 (ended) |
+| [Finotive Funding 50% Off All Evaluation and Instant Funding Accounts](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) | - | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **How do I earn entries?**

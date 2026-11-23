@@ -6,7 +6,7 @@ Hantec Trader currently lists 32 deals with discount codes. Compare available pr
 
 - Prop firm: Hantec Trader
 - Deal last verified: 2026-10-14
-- Trustpilot score: 4.4/5 (882 reviews)
+- Trustpilot score: 4.4/5 (887 reviews)
 - Official web: hmarkets.com
 - Address: Mauritius
 - Market type: Forex/CFD + Thị trường dự đoán (Prediction)

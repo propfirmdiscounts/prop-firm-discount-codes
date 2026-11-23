@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from HyroTrader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [HyroTrader Halloween 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) | Halloween | 15% Off | 2026-10-31 (ended) |
+| [HyroTrader: 10% Off Evaluation Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) | - | 10% Off | Ended |
+| [HyroTrader 10% Discount and Permanent Challenge Pricing Reductions](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) | - | 10% Off | Ended |
+| [HyroTrader World Cup: 15% Off All Challenges](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) | World Cup | 15% Off | Ended |
+| [HyroTrader 20% Off All Challenges: Easter Promotion Details](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) | Easter | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the HyroTrader Hyro Instant launch offer include?**

@@ -6,7 +6,7 @@ AudaCity Capital currently lists 33 deals with discount codes. Compare available
 
 - Prop firm: AudaCity Capital
 - Deal last verified: 2026-11-21
-- Trustpilot score: 2.8/5 (300 reviews)
+- Trustpilot score: 2.9/5 (306 reviews)
 - Official web: audacity.capital
 - Email: support@audacity.capital
 - Address: Dubai Silicon Oasis,, Dubai, Dubai Silicon Oasis,, U.A.E.

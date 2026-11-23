@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Bulenox
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Bulenox 45% Off Fast Track and Momentum Evaluation Price](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-fast-track-momentum/) | 45% Off | Ended |
+| [Bulenox Independence Day Promotion: 75% Off Evaluation Accounts](https://propfirmdiscount.com/deals/bulenox/bulenox-independence-day-75-off/) | 75% Off | Ended |
+| [Bulenox July 4th Event: 100K Accounts for $23.65 and Fixed Pricing](https://propfirmdiscount.com/deals/bulenox/bulenox-july-4th-fixed-price-event/) | Only $23.65 | Ended |
+| [Bulenox 45% Off All Evaluation Accounts (Option 1 and 2)](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-all-accounts/) | 45% Off | Ended |
+| [Bulenox Evaluation Accounts: 80% Discount and $15.95 to $35.75 Entry Costs](https://propfirmdiscount.com/deals/bulenox/bulenox-80-percent-discount-15-to-35-evaluations/) | 80% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does the active promotion provide for Bulenox accounts?**

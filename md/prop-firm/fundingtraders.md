@@ -1,15 +1,15 @@
 # FundingTraders Discount Code
 
-FundingTraders currently lists 100 deals with discount codes. The best current offer is code PFD for 50% off, checked November 2026 by the PropFirmDiscount team.
+FundingTraders currently lists 100 deals with discount codes. The best current offer is code PFD for 70% off, checked November 2026 by the PropFirmDiscount team.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere. Led by a veteran Wall Street Trader.
 
 - Discount code: PFD
-- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 70% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundingTraders
 - Deal last verified: 2026-11-19
-- Trustpilot score: 3.1/5 (3293 reviews)
+- Trustpilot score: 3.1/5 (3304 reviews)
 - Official web: fundingtraders.com
 - Email: help@fundingtraders.com
 - Address: Dubai, U.A.E.
@@ -18,12 +18,45 @@ FundingTraders currently lists 100 deals with discount codes. The best current o
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FundingTraders: 50% Off $100K+ Accounts (code PFD)
+## FundingTraders challenge account pricing
+
+The FundingTraders discount code PFD offers 70% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 23 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Instant | $10K | $179 | $89.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $25K | $319 | $159.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $50K | $479 | $239.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $100K | $749 | $374.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $200K | $1349 | $674.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $400K | $2349 | $1174.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $10K | $119 | $59.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $25K | $229 | $114.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $50K | $339 | $169.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $100K | $599 | $299.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $200K | $999 | $499.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $5K | $49 | $24.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $10K | $79 | $39.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $25K | $159 | $79.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $50K | $259 | $129.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $100K | $459 | $229.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $200K | $799 | $399.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $5K | $59 | $29.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $10K | $109 | $54.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $25K | $229 | $114.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $50K | $329 | $164.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $100K | $589 | $294.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $200K | $999 | $499.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+
+## Most recent deal (ended): FundingTraders: 50% Off $100K+ Accounts (code PFD)
 
 - Deal last verified: 2026-11-19
-- Deal ends: 2026-11-23 09:00
+- Deal ends: 2026-11-23 09:00 (ended)
 - Discount: 50% Off
-- Discount code: PFD
 - Applied to: $100K+ Accounts
 - Deal url: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/
 
@@ -55,7 +88,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-19 | FundingTraders: 50% Off $100K+ Accounts (code PFD) | 50% Off | 2026-11-23 09:00 | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/ |
+| 2026-11-19 | FundingTraders: 50% Off $100K+ Accounts (code PFD) | 50% Off | 2026-11-23 09:00 (ended) | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/ |
 | 2026-11-18 | FundingTraders: $500 Off $100K Instant Funded (code PFD) | $500 Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-17 | FundingTraders Black Friday: Up to 70% Off (code PFD) | 70% Off | Limited time | Black Friday | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |
 | 2026-11-17 | FundingTraders: 50% Off All Accounts + Free Account (code PFD) | 50% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/ |

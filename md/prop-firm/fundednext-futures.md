@@ -7,7 +7,7 @@ FundedNext Futures currently lists 14 deals with discount codes. The best curren
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundedNext Futures
 - Deal last verified: 2026-10-22
-- Trustpilot score: 4.5/5 (84272 reviews)
+- Trustpilot score: 4.5/5 (84644 reviews)
 - Official web: fundednext.com/futures
 - Email: support@fundednext.com
 - Address: Office no. 7, AI Robotics HUB, C1 Building, AFZ,, Ajman, U.A.E.
@@ -16,12 +16,53 @@ FundedNext Futures currently lists 14 deals with discount codes. The best curren
 - Firm page: https://propfirmdiscount.com/prop-firm/fundednext-futures/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: FundedNext Futures 50K Direct at $169.99, 40.1% Off
+## FundedNext Futures challenge account pricing
+
+The FundedNext Futures discount code PFDC offers up to 20% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 31 account options across CFDs and Futures markets. Prices shown include the discount applied using code PFDC. Discounts may vary by account type and size.
+
+| Market | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|---|
+| CFDs | Stellar 2-Step | $6K | $59.99 | $48 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 2-Step | $15K | $119.99 | $96 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 2-Step | $25K | $199.99 | $160 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 2-Step | $50K | $299.99 | $240 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 2-Step | $100K | $549.99 | $511.49 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 2-Step | $200K | $1099.99 | $1022.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $6K | $65.99 | $44.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $15K | $129.99 | $104 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $25K | $219.99 | $176 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $50K | $329.99 | $264 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $100K | $569.99 | $53.09 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar 1-Step | $200K | $1099.99 | $1022.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $5K | $32.99 | $29.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $10K | $59.99 | $48 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $25K | $139.99 | $112 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $50K | $229.99 | $184 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $100K | $399.99 | $371.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Lite | $200K | $798.99 | $743.06 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Instant | $2K | $59.99 | $49.99 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Instant | $5K | $149.99 | $120 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Instant | $10K | $299.99 | $240 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| CFDs | Stellar Instant | $20K | $599.99 | $480 | 20% off | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Flex | $150K | $490.99 | $259.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Flex | $100K | $273.99 | $145.13 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Flex | $50K | $141.99 | $74.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Pro | $100K | $499.98 | $279.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Pro | $50K | $299.98 | $159.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Pro | $25K | $159.98 | $79.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Daily | $100K | $499.98 | $279.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Daily | $50K | $299.98 | $159.99 | - | PFDC | Tested at checkout 2026-11-23 |
+| Futures | Rapid Daily | $25K | $159.98 | $79.99 | - | PFDC | Tested at checkout 2026-11-23 |
+
+## Most recent deal (ended): FundedNext Futures 50K Direct at $169.99, 40.1% Off
 
 - Deal last verified: 2026-10-22
-- Deal ends: Limited time
+- Deal ends: Ended
 - Discount: 40.1% Off
-- Discount code: FNDIRECT
 - Applied to: Instant Funded, Direct, 50K account, Futures, No profit goal
 - Deal url: https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/
 
@@ -57,4 +98,4 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-10-22 | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |
+| 2026-10-22 | FundedNext Futures 50K Direct at $169.99, 40.1% Off | 40.1% Off | Ended | - | - | https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/ |

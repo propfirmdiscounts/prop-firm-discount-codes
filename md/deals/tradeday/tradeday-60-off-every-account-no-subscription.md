@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from TradeDay
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [TradeDay 60% Off QuickPay and 50% Off FastPass Accounts Pricing Analysis](https://propfirmdiscount.com/deals/tradeday/tradeday-60-off-quickpay-fastpass/) | - | 60% Off | 2026-10-10 (ended) |
+| [TradeDay $25k Evaluation Account Deal for $45](https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/) | - | - | Ended |
+| [TradeDay 55% Off Quick Pay Accounts ($50,000 for $59)](https://propfirmdiscount.com/deals/tradeday/tradeday-55-off-quick-pay-accounts/) | - | 55% Off | Ended |
+| [TradeDay December Sale: 40% OFF + No Activation Fee](https://propfirmdiscount.com/deals/tradeday/tradeday-december-sale-40-off/) | Cyber Monday | 40% Off | Ended |
+| [TradeDay Promo: 30% OFF + No Activation Fee + Multi-Accounts](https://propfirmdiscount.com/deals/tradeday/tradeday-30-off-no-activation-fee/) | - | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the TradeDay code take off?**

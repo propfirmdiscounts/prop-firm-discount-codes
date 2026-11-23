@@ -6,7 +6,7 @@ OneUp Trader currently lists 1 deal. These are direct discounts — no code need
 
 - Prop firm: OneUp Trader
 - Deal last verified: 2025-11-28
-- Trustpilot score: 4.7/5 (2824 reviews)
+- Trustpilot score: 4.7/5 (2827 reviews)
 - Official web: oneuptrader.com
 - Email: support@oneuptrader.com
 - Address: North Orange Street 1007, Wilmington, 19801, United States

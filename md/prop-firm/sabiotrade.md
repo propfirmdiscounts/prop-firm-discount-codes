@@ -9,13 +9,36 @@ SabioTrade currently lists 5 deals with discount codes. The best current offer i
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: SabioTrade
 - Deal last verified: 2026-11-18
-- Trustpilot score: 3.6/5 (699 reviews)
+- Trustpilot score: 3.6/5 (698 reviews)
 - Official web: sabiotrade.com
 - Address: Ireland
 - Market type: Forex/CFD
 - Active deal url: https://propfirmdiscount.com/go/sabiotrade
 - Firm page: https://propfirmdiscount.com/prop-firm/sabiotrade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## SabioTrade challenge account pricing
+
+The SabioTrade discount code PFD offers up to 30% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 12 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Single Accounts | $20K | $119 | $83.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Single Accounts | $50K | $289 | $202.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Single Accounts | $100K | $479 | $335.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Single Accounts | $200K | $939 | $657.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Single Accounts | $650K | $2989 | $2092.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Single Accounts | $1000K | $5989 | $4192.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Day Trading | $35K | $189 | $132.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Day Trading | $50K | $489 | $342.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Day Trading | $100K | $1466 | $1026.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| Day Trading | $300K | $2898 | $2028.6 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| PRO | $20K (pro 3) | $259 | $181.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| PRO | $20K (pro 12) | $829 | $580.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Most recent deal (ended): SabioTrade GTA VI Giveaway: 10 Copies, Free Entry
 

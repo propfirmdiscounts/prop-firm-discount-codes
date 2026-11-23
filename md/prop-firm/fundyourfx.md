@@ -1,9 +1,9 @@
 # FundYourFX Discount Code
 
-FundYourFX currently lists 52 deals with discount codes. Compare available promotions below to find the latest savings on FundYourFX challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FundYourFX currently lists 53 deals with discount codes. Compare available promotions below to find the latest savings on FundYourFX challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: FundYourFX
-- Deal last verified: 2026-11-17
+- Deal last verified: 2026-11-23
 - Trustpilot score: 3.7/5 (919 reviews)
 - Official web: fundyourfx.io
 - Email: support@fundyourfx.com
@@ -12,36 +12,37 @@ FundYourFX currently lists 52 deals with discount codes. Compare available promo
 - Active deal url: https://propfirmdiscount.com/go/fundyourfx
 - Firm page: https://propfirmdiscount.com/prop-firm/fundyourfx/
 
-## Current deal: FundYourFX: 60% Off All Plans + GTA VI Draw
+## Current deal: FundYourFX Black Friday: 70% Off All Plans
 
-- Deal last verified: 2026-11-17
-- Deal ends: 2026-11-22
-- Discount: 60% Off
-- Discount code: GTA60
-- Applied to: All Plans
-- Deal url: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/
+- Deal last verified: 2026-11-23
+- Deal ends: 2026-11-30
+- Discount: 70% Off
+- Discount code: BLACKFRIDAY70
+- Applied to: all plans
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-70-off-all-plans/
 
 ## FundYourFX deal FAQ
 
-**What does the offer include?**
+**What does the FundYourFX Black Friday sale cover?**
 
-60% off all plans from 17 to 22 November 2026; a PS5 Pro and GTA VI draw for purchases from 100K to 800K; GTA VI free on every 400K and 800K purchase.
+All plans. The sale code takes 70% Off any plan's price at checkout, with no size or plan restriction stated.
 
-**How does the draw work?**
+**When does the sale run?**
 
-Any purchase of a 100K, 200K, 400K or 800K account enters the buyer into the giveaway for a brand-new PS5 Pro plus GTA VI. The offer does not state the number of winners.
+From 23 to 30 November 2026. The code needs to be entered inside that window for the 70% Off rate to apply.
 
-**How do I get GTA VI free?**
+**How much do I actually pay?**
 
-Every purchase of a 400K or 800K account qualifies for GTA VI free upon purchase. It does not depend on winning the draw.
+30% of the plan's listed price - the code removes the other 70% at checkout.
 
-**When does the offer end?**
+**Does the discount change the evaluation?**
 
-The window closes on 22 November 2026.
+No. It lowers the entry fee only; the trading task and its risk stay exactly as they are at full price.
 
-**Does the promotion change the trading rules?**
+**How does this compare with the firm's last offer?**
 
-No. The offer reduces the entry cost of the plans; it does not change trading rules or reduce trading risk.
+The 17 November 2026 offer took 60% Off all plans and attached a GTA VI draw. This sale raises the rate to 70% Off on the same all-plans scope, without the draw.
 
 ## Deals (last 2 months, newest first)
 
@@ -49,7 +50,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% Off | 2026-11-22 | - | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
+| 2026-11-23 | FundYourFX Black Friday: 70% Off All Plans | 70% Off | 2026-11-30 | Black Friday | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-black-friday-70-off-all-plans/ |
+| 2026-11-17 | FundYourFX: 60% Off All Plans + GTA VI Draw | 60% Off | 2026-11-22 (ended) | - | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-60-off-all-plans-gta-vi-draw/ |
 | 2026-11-10 | FundYourFX Veterans Day: 60% Off All Plans Nov 11-16 | 60% Off | 2026-11-16 (ended) | Veterans Day | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-veterans-day-60-off-all-plans/ |
 | 2026-11-01 | FundYourFX November Trading Rush 60% Off All Plans | 60% Off | 2026-11-10 (ended) | - | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-november-trading-rush-60-off-all-plans/ |
 | 2026-10-18 | FundYourFX 65% Off All Plans: Check the Halloween Entry Fee | 65% Off | 2026-10-31 (ended) | Halloween | - | https://propfirmdiscount.com/deals/fundyourfx/fundyourfx-halloween-65-off-all-plans/ |

@@ -9,7 +9,7 @@ E8 Markets currently lists 19 deals with discount codes. The best current offer 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: E8 Markets
 - Deal last verified: 2026-11-18
-- Trustpilot score: 4.0/5 (3307 reviews)
+- Trustpilot score: 4.0/5 (3309 reviews)
 - Official web: e8markets.com
 - Email: support@E8markets.com
 - Address: 4101 McEwen rd, Suite 205, Dallas, 75244, United States
@@ -17,6 +17,47 @@ E8 Markets currently lists 19 deals with discount codes. The best current offer 
 - Active deal url: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## E8 Markets challenge account pricing
+
+The E8 Markets discount code CHUN offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 30 account options across CFDs, Perpetual Futures and Futures markets. Prices shown include the discount applied using code CHUN. Discounts may vary by account type and size.
+
+| Market | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|---|
+| CFDs | E8 One | $100K | $488 | $439.2 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 One | $200K | $798 | $718.2 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 One | $400K | $1598 | $1438.2 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 One | $500K | $1998 | $1798.2 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Pro | $100K | $468 | $421.2 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Pro | $200K | $949 | $854.1 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Pro | $400K | $1999 | $1799.1 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Pro | $500K | $2469 | $2222.1 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Signature | $25K | $110 | $99 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Signature | $50K | $150 | $135 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Signature | $100K | $260 | $234 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| CFDs | E8 Signature | $150K | $390 | $351 | 10% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 One | $100K | $488 | $244 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 One | $200K | $798 | $399 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 One | $400K | $1598 | $799 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 One | $500K | $1998 | $999 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 Pro | $100K | $468 | $234 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 Pro | $200K | $949 | $474.5 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 Pro | $400K | $1999 | $999.5 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Perpetual Futures | E8 Pro | $500K | $2469 | $1234.5 | 50% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Signature | $25K | $110 | $88 | 20% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Signature | $50K | $150 | $120 | 20% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Signature | $100K | $260 | $208 | 20% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Signature | $150K | $390 | $312 | 20% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero MAX | $50K | $328 | $213.2 | 35% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero MAX | $100K | $588 | $382.2 | 35% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero MAX | $200K | $1088 | $707.2 | 35% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero Starter | $50K | $178 | $115.7 | 35% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero Starter | $100K | $278 | $180.7 | 35% off | CHUN | Tested at checkout 2026-11-23 |
+| Futures | E8 Zero Starter | $200K | $558 | $362.7 | 35% off | CHUN | Tested at checkout 2026-11-23 |
 
 ## Current deal: E8 Markets Classic v2 Launch: 10% Off (code CHUN)
 

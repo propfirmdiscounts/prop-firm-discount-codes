@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Sure Leverage Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Sure Leverage Funding: 35% Off November Offer](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-35-off-november-offer/) | - | 35% Off | Limited time |
+| [Sure Leverage Funding Diwali: 50% Off Accounts to $50K](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-diwali-50-off-accounts-50k/) | Diwali | 50% Off | Limited time |
+| [Sure Leverage Funding Flash Sale: 40% Off Your Next Account](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-flash-sale-40-off/) | - | 40% Off | 2026-11-08 (ended) |
+| [Sure Leverage Funding 40% Off October Discounts & Account Customization](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-40-off-october-2/) | - | 40% Off | Ended |
+| [Sure Leverage Funding Buy 1 Get 1 Free October Entitlement](https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-bogo-october/) | - | Buy 1 Get 1 | Ended |
+
 ## Frequently Asked Questions
 
 **What does the sale cover?**

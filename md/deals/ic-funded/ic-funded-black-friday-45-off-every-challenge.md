@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from IC Funded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [IC Funded 40% Off Every Challenge Día de Muertos](https://propfirmdiscount.com/deals/ic-funded/ic-funded-dia-de-muertos-40-off-challenges/) | Halloween | 40% Off | 2026-11-02 17:59 (ended) |
+| [IC Funded Halloween 40% Off All Challenges](https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/) | Halloween | 40% Off | 2026-10-31 (ended) |
+| [IC Funded 40% Off All Challenges Plus Instant Funding – Check Entry Fee Before 18-20 October](https://propfirmdiscount.com/deals/ic-funded/ic-funded-40-off-all-challenges-instant-funding/) | - | 40% Off | 2026-10-20 (ended) |
+| [IC Funded 30% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-all-challenges/) | - | 30% Off | 2026-10-25 (ended) |
+| [IC Funded 30% Off Challenge Pricing Promotion](https://propfirmdiscount.com/deals/ic-funded/ic-funded-30-off-evaluation-promotion/) | - | 30% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the IC Funded Black Friday discount cover?**

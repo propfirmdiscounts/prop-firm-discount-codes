@@ -9,7 +9,7 @@ Trade The Pool currently lists 1 deals with discount codes. The best current off
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Trade The Pool
 - Deal last verified: 2026-10-28
-- Trustpilot score: 4.5/5 (1004 reviews)
+- Trustpilot score: 4.5/5 (1016 reviews)
 - Official web: tradethepool.com
 - Email: help@tradethepool.com
 - Address: Ha'tidhar 2, Raanana, 456100, Israel

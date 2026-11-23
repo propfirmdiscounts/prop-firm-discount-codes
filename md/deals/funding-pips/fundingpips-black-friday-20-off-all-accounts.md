@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from FundingPips
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [FundingPips: Double First Reward via Likes Challenge](https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/) | - | Double First Reward | 2026-11-19 15:00 (ended) |
+| [FundingPips Halloween 20% Off New, 15% Off Existing Accounts](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-new-15-off-existing-all-accounts/) | Halloween | 15% Off | Limited time |
+| [FundingPips 20% Off ZERO Accounts (5K-200K) Upfront Entry Cost](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-zero-accounts/) | - | 20% Off | Ended |
+| [FundingPips 22% Off Evaluation Accounts](https://propfirmdiscount.com/deals/funding-pips/fundingpips-22-percent-off-promotion/) | - | 22% Off | Ended |
+| [FundingPips 20% Off Trading Challenges (Excludes 100K)](https://propfirmdiscount.com/deals/funding-pips/fundingpips-20-off-evaluation-accounts/) | - | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **Which FundingPips accounts does the 20% cover?**

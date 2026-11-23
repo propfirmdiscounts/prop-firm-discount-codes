@@ -6,7 +6,7 @@ Blueberry Funded currently lists 60 deals with discount codes. Compare available
 
 - Prop firm: Blueberry Funded
 - Deal last verified: 2026-11-17
-- Trustpilot score: 3.4/5 (1777 reviews)
+- Trustpilot score: 3.4/5 (1781 reviews)
 - Official web: blueberryfunded.com
 - Address: Australia
 - Market type: Forex/CFD

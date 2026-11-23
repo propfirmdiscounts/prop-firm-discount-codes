@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Fintokei
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Fintokei Black Friday Deal: 20% Off Every Challenge](https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/) | Black Friday | 20% Off | Limited time |
+| [Fintokei Black Friday Challenge Fee Back With First Payout](https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/) | Black Friday | Challenge Fee Back | Limited time |
+| [Fintokei 25% Off SwiftTrader Accounts up to $50,000 Lowers Entry Fee](https://propfirmdiscount.com/deals/fintokei/fintokei-swifttrader-25-percent-discount/) | - | 25% Off | Ended |
+| [Fintokei: 10% Off ProTrader $50,000 Challenges Plus Free $5,000 Account](https://propfirmdiscount.com/deals/fintokei/fintokei-10-discount-free-5k-account-protrader/) | - | 10% Off | Ended |
+| [Fintokei 2x First Payout Bonus Capped at 4x Purchase Price: Terms to Consider](https://propfirmdiscount.com/deals/fintokei/fintokei-protrader-2x-first-payout/) | - | 2x First Payout | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Fintokei code give?**

@@ -19,6 +19,16 @@ Apply code PFD at checkout for up to 30% off any WeMasterTrade challenge account
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from WeMasterTrade
+
+| Title | Discount | Expires |
+|---|---|---|
+| [WeMasterTrade 33% Off All Packages Plus Tiered BOGO](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) | 33% Off | 2026-11-01 02:59 (ended) |
+| [WeMasterTrade 33% Off All Packages in Flash Sale](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) | 33% Off | Limited time |
+| [WeMasterTrade Flash Sale: 30% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) | 30% Off | Ended |
+| [WeMasterTrade: 32% Off All Packages & Festival Spin](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/) | 32% Off | Ended |
+| [WeMasterTrade: 33% Off All Packages + Up To $50K BOGO](https://propfirmdiscount.com/deals/wemastertrade/33-off-packages-tiered-bogo-august-2026/) | 33% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What discount does WeMasterTrade offer in this promotion?**

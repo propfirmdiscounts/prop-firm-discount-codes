@@ -20,6 +20,16 @@ Apply code PFDC at checkout for up to 30% off any PipFarm challenge account — 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from PipFarm
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [PipFarm Classic: 40% Off Pay with Profits Challenges](https://propfirmdiscount.com/deals/pipfarm/pipfarm-classic-40-off-pay-with-profits/) | - | 40% Off | Limited time |
+| [PipFarm Halloween 60% Off Challenges Plus Free Power-Up](https://propfirmdiscount.com/deals/pipfarm/pipfarm-halloween-60-off-challenges-free-powerup/) | Halloween | 60% Off | 2026-11-03 (ended) |
+| [PipFarm 50% Off Accounts Up To 50K Plus 50% Balance](https://propfirmdiscount.com/deals/pipfarm/pipfarm-50-off-accounts-50k-extra-balance/) | - | 50% Off | 2026-10-31 (ended) |
+| [PipFarm 100K Challenges Reduced to $99](https://propfirmdiscount.com/deals/pipfarm/pipfarm-100k-challenge-99/) | - | Only $99 | Ended |
+| [PipFarm 5K Challenge $9.99 Fixed Price Evaluation Entry](https://propfirmdiscount.com/deals/pipfarm/pipfarm-5k-challenge-9-99/) | - | Only $9.99 | Ended |
+
 ## Frequently Asked Questions
 
 **What does the PipFarm Black Friday offer include?**

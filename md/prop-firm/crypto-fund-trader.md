@@ -7,7 +7,7 @@ Crypto Fund Trader currently lists 7 deals with discount codes. The best current
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Crypto Fund Trader
 - Deal last verified: 2026-11-14
-- Trustpilot score: 4.2/5 (1112 reviews)
+- Trustpilot score: 4.2/5 (1115 reviews)
 - Official web: cryptofundtrader.com
 - Email: support@cryptofundtrader.com
 - Address: Bahnhofstrasse 21, Zug, 6300, Switzerland

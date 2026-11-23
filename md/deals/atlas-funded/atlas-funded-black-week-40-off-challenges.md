@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 50% off any Atlas Funded challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Atlas Funded
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Atlas Funded Black Friday: 45% Off Evaluations + 125% Back](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/) | Black Friday | 45% Off | 2026-11-23 |
+| [Atlas Funded: 40% Off Evaluations From $25.80](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/) | - | 40% Off | Limited time |
+| [Atlas Funded 40% Off Futures Evaluations](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) | - | 40% Off | 2026-11-09 (ended) |
+| [Atlas Funded 45% Off Challenges Halloween Cashback](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) | Halloween | 45% Off | Limited time |
+| [Atlas Funded 45% Off All Challenges – Halloween Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) | Halloween | 45% Off | Ended |
+
 ## Frequently Asked Questions
 
 **How much does the Atlas Funded Black Week deal take off?**

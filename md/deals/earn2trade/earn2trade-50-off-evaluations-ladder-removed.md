@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Earn2Trade
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) | - | 50% Off | 2026-10-18 (ended) |
+| [Earn2Trade Memorial Day Sale: 60% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) | Memorial Day | 60% Off | Ended |
+| [Earn2Trade: 60% Off All Subscriptions and Updated Reset Pricing](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/) | - | 60% Off | Ended |
+| [Earn2Trade: 50% Off Subscriptions and Reduced Resets from $65](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/) | - | 50% Off | Ended |
+| [Earn2Trade 60% Off Subscriptions and $55-$65 Resets](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) | Easter | 60% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What does the Earn2Trade code take off?**

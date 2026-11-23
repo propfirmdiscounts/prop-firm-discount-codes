@@ -20,6 +20,16 @@ Apply code platinum5 at checkout for up to 5% off any Crypto Fund Trader challen
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Crypto Fund Trader
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Crypto Fund Trader 22% Off 1-Phase and 2-Phase Challenges](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-22-off-challenges/) | - | 22% Off | Ended |
+| [Crypto Fund Trader: 15% Off 1-Phase and 2-Phase Evaluations](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-15-off-evaluations/) | - | 15% Off | Ended |
+| [Crypto Fund Trader 20% Off Evaluation Accounts and $250K Giveaway](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-20-off-mothers-day/) | Mother's Day | 20% Off | Ended |
+| [Crypto Fund Trader Valentine Offer: Buy 1 Gift 1 Evaluation](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-valentine-buy-one-gift-one/) | Valentine's Day | Buy 1 Get 1 | Ended |
+| [Crypto Fund Trader Christmas Deal: 20% Off Challenge Pricing](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-christmas-20-off/) | Christmas | 20% Off | Ended |
+
 ## Frequently Asked Questions
 
 **What has Crypto Fund Trader launched?**

@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from RebelsFunding
+
+| Title | Discount | Expires |
+|---|---|---|
+| [RebelsFunding: $5,000 Program for €9 – 76% Off](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-5000-program-9-euros-76-off/) | 76% Off | 2026-11-12 (ended) |
+| [RebelsFunding 72% Off $5,000 1-Step Program](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-72-off-5000-1-step-program-19/) | 72% Off | 2026-11-05 (ended) |
+| [RebelsFunding 70% Off $1,000 Account for €3](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-account-3-euros/) | 70% Off | 2026-10-29 (ended) |
+| [RebelsFunding 70% Off $1,000 1-Step Challenge for €9](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-70-off-1000-1-step-challenge-9/) | 70% Off | 2026-10-22 (ended) |
+| [RebelsFunding 73% Off $5,000 Trading Accounts For €7](https://propfirmdiscount.com/deals/rebelsfunding/rebelsfunding-73-off-5000-account-7-euros/) | 73% Off | 2026-10-15 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the Diamond offer include?**

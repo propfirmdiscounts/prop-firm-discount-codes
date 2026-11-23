@@ -17,6 +17,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Lark Funding
+
+| Title | Discount | Expires |
+|---|---|---|
+| [Lark Funding Double Up Free Second Account on 30-Day Pass](https://propfirmdiscount.com/deals/lark-funding/lark-funding-double-up-free-second-account-30-day/) | Free second account | 2026-11-22 (ended) |
+| [Lark Funding October Promo: 100% Fee Refund on 1-Step & 3-Step Accounts](https://propfirmdiscount.com/deals/lark-funding/lark-funding-october-promo-100-refund/) | 100% Off | 2026-10-31 (ended) |
+| [Lark Funding 1-Step and 3-Step Challenges from $105 with Free Reset: Challenge Fee Terms](https://propfirmdiscount.com/deals/lark-funding/lark-funding-1-step-3-step-challenges-free-reset-105/) | Only $105 | Ended |
+| [Lark Funding: Free Daily Payouts Add-On (30% Fee Waived) on All Programs](https://propfirmdiscount.com/deals/lark-funding/lark-funding-free-daily-payouts-add-on-waived/) | 100% Off | Ended |
+| [Lark Funding: Free $1,000 Instant Account With Any Challenge](https://propfirmdiscount.com/deals/lark-funding/lark-funding-free-1000-instant-account-august/) | Free Account | Ended |
+
 ## Frequently Asked Questions
 
 **How does Buy 1, Get 3 work?**

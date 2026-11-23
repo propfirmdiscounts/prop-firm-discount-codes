@@ -18,6 +18,37 @@ Direct Funded Trader currently lists 8 deals with discount codes. The best curre
 - Firm page: https://propfirmdiscount.com/prop-firm/direct-funded-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Direct Funded Trader challenge account pricing
+
+The Direct Funded Trader discount code PFD offers up to 50% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 20 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Evaluation | $5K | $31 | $15.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $10K | $27 | $13.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $15K | $100 | $50 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $25K | $199 | $99.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $50K | $299 | $149.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $100K | $479 | $239.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Evaluation | $200K | $979 | $489.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Turbo | $15K | $9.99 | $5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Turbo | $25K | $9.99 | $5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Turbo | $50K | $9.99 | $5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Turbo | $100K | $9.99 | $5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Turbo | $200K | $9.99 | $5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Fast Funding Standard | $15K | $150 | $75 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Fast Funding Standard | $25K | $280 | $140 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Fast Funding Standard | $50K | $350 | $175 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Fast Funding Standard | $100K | $590 | $295 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $15K | $50 | $25 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $25K | $340 | $170 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $50K | $450 | $225 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant Funding | $100K | $50 | $25 | 50% off | PFD | Tested at checkout 2026-11-23 |
+
 ## Current deal: Direct Funded Trader: 50% Off All Accounts
 
 - Deal last verified: 2026-11-19

@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Alpha Capital Group
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Alpha Capital Group: Direct BOGO Plus 20% Off](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/) | Black Friday | 20% Off | Limited time |
+| [Alpha Capital Group Diwali: 40% Off All Plans](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-diwali-40-off-all-plans/) | Diwali | 40% Off | 2026-11-08 23:59 (ended) |
+| [Alpha Capital Group $10K Evaluation for $40 in November](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-10k-evaluation-for-40-november/) | - | $40 | Limited time |
+| [Alpha Capital Group 20% Off All Plans in November](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-20-off-all-plans-november/) | - | 20% Off | Limited time |
+| [Alpha Capital Group 40% Off Alpha Direct Plan](https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-40-off-alpha-direct-plan/) | - | 40% Off | Limited time |
+
 ## Frequently Asked Questions
 
 **What does the 40% cover?**

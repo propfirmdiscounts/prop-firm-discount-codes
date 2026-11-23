@@ -9,7 +9,7 @@ Earn2Trade currently lists 17 deals with discount codes. The best current offer 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Earn2Trade
 - Deal last verified: 2026-11-02
-- Trustpilot score: 4.5/5 (5104 reviews)
+- Trustpilot score: 4.5/5 (5108 reviews)
 - Official web: earn2trade.com
 - Email: support@earn2trade.com
 - Address: North Gould Street 30, Sheridan, 82801, United States
@@ -17,6 +17,24 @@ Earn2Trade currently lists 17 deals with discount codes. The best current offer 
 - Active deal url: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Earn2Trade challenge account pricing
+
+The Earn2Trade discount code PFD offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 7 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| Trader Career Path® | $25K | $150 | $75 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Trader Career Path® | $50K | $190 | $95 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Trader Career Path® | $100K | $350 | $175 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $50K | $170 | $85 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $100K | $315 | $157.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $150K | $375 | $187.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $200K | $550 | $275 | 50% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Earn2Trade: 50% Off All Evaluations, Ladder Removed (code PFD)
 

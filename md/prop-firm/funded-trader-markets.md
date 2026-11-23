@@ -6,7 +6,7 @@ Funded Trader Markets currently lists 6 deals with discount codes. Compare avail
 
 - Prop firm: Funded Trader Markets
 - Deal last verified: 2026-06-03
-- Trustpilot score: 2.7/5 (476 reviews)
+- Trustpilot score: 2.7/5 (478 reviews)
 - Official web: fundedtradermarkets.com
 - Email: support@fundedtradermarkets.com
 - Address: Dubai, U.A.E.

@@ -7,7 +7,7 @@ Funded Elite currently lists 36 deals with discount codes. The best current offe
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Elite
 - Deal last verified: 2026-11-05
-- Trustpilot score: 4.0/5 (759 reviews)
+- Trustpilot score: 4.0/5 (762 reviews)
 - Official web: fundedelite.com
 - Email: support@fundedelite.com
 - Address: Italy

@@ -9,13 +9,40 @@ Lucid Trading currently lists 24 deals with discount codes. The best current off
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Lucid Trading
 - Deal last verified: 2026-11-06
-- Trustpilot score: 4.5/5 (8932 reviews)
+- Trustpilot score: 4.5/5 (8955 reviews)
 - Official web: lucidtrading.com
 - Address: United States
 - Market type: Futures
 - Active deal url: https://propfirmdiscount.com/go/lucidtrading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## Lucid Trading challenge account pricing
+
+The Lucid Trading discount code PFD offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 16 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| LucidPro | $25K | $123 | $86.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $50K | $192 | $134.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $100K | $307 | $214.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $150K | $410 | $287 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $25K | $89 | $62.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $50K | $146 | $102.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $100K | $293 | $205.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $150K | $407 | $284.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $25K | $137 | $95.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $50K | $185 | $129.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $100K | $314 | $219.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $150K | $436 | $305.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $25K | $137 | $95.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $50K | $515 | $360.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $100K | $700 | $490 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $150K | $836 | $585.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Most recent deal (ended): Lucid Trading 35% Off All Plans – Concrete Day Sale (code PFD)
 

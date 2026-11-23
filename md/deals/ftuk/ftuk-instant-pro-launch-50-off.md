@@ -18,6 +18,16 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from FTUK
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [FTUK: 35% Off Flex Activation](https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/) | Black Friday | 35% Off | Limited time |
+| [FTUK Black Friday: 40% Off Instant + Free Retake](https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/) | Black Friday | 40% Off | Limited time |
+| [FTUK: 50% Off Every Instant Funding Size](https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/) | - | 50% Off | Limited time |
+| [FTUK Instant Funding: 35% Off Every Account](https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/) | - | 35% Off | Limited time |
+| [FTUK: 35% Off Instant Funding Plus 20% Profit Boost](https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-profit-boost/) | - | 35% Off | Limited time |
+
 ## Frequently Asked Questions
 
 **What is Instant PRO?**

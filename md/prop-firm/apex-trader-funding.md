@@ -6,7 +6,7 @@ Apex Trader Funding currently lists 4 deals with discount codes. Compare availab
 
 - Prop firm: Apex Trader Funding
 - Deal last verified: 2026-10-01
-- Trustpilot score: 4.2/5 (21843 reviews)
+- Trustpilot score: 4.2/5 (21905 reviews)
 - Official web: apextraderfunding.com
 - Address: United States
 - Market type: Futures

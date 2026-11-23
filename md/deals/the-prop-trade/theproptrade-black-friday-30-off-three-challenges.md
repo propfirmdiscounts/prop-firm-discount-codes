@@ -20,6 +20,16 @@ Apply code PFD at checkout for up to 20% off any thePropTrade challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from thePropTrade
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [thePropTrade Halloween 20% Off All Programmes](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-halloween-20-off-all-programmes/) | Halloween | 20% Off | 2026-10-31 19:59 (ended) |
+| [thePropTrade 22% Off All Challenges](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-22-off-all-challenges/) | - | 22% Off | 2026-10-25 (ended) |
+| [thePropTrade 20% Off Standard And Instant Accounts](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-standard-instant/) | - | 20% Off | Ended |
+| [thePropTrade: 20% Off 1-Step Classic Evaluation Accounts](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-20-off-1-step-classic/) | - | 20% Off | Ended |
+| [thePropTrade: 50% Off PayFlex Challenges and 30% Off Activation Fees](https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-50-off-payflex-challenges/) | - | 50% Off | Ended |
+
 ## Frequently Asked Questions
 
 **Which challenges does the code cover?**

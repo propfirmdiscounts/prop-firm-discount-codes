@@ -18,6 +18,14 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
+## Recent deals from Doji Funding
+
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Doji Funding Election Day 60% Off Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) | - | 60% Off | 2026-11-08 (ended) |
+| [Doji Funding Halloween 60% Off Every Challenge](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) | Halloween | 60% Off | 2026-10-31 (ended) |
+| [Doji Funding 30% Off All Configurable Challenges](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) | - | 30% Off | 2026-10-12 (ended) |
+
 ## Frequently Asked Questions
 
 **What does the 60% cover?**

@@ -6,7 +6,7 @@ Elite Trader Funding currently lists 63 deals with discount codes. Compare avail
 
 - Prop firm: Elite Trader Funding
 - Deal last verified: 2026-11-16
-- Trustpilot score: 3.7/5 (1178 reviews)
+- Trustpilot score: 3.7/5 (1179 reviews)
 - Official web: elitetraderfunding.app
 - Email: support@elitetraderfunding.com
 - Address: 2810 N Church St, PMB 53832, Wilmington, 19802, United States
