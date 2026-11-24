@@ -1,6 +1,6 @@
 # Finotive Funding Discount Code
 
-Finotive Funding currently lists 52 deals with discount codes. The best current offer is code PFDC for up to 25% off, checked November 2026 by the PropFirmDiscount team.
+Finotive Funding currently lists 52 deals with discount codes. The best current offer is code PFDC for 25% off, checked November 2026 by the PropFirmDiscount team.
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity. We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits. Our mission is simple — to build the fairest, most transparent, and most flexible funding model in the industry. With static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we’ve redefined what traders can expect from a prop firm. Since 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support. Every account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success. Trade fairly. Trade freely. Trade Finotive.
 
@@ -9,7 +9,7 @@ Finotive Funding currently lists 52 deals with discount codes. The best current 
 > Finotive Funding discount code has changed from JACKICHUN to PFDC. Please use the updated code at checkout.
 
 - Discount code: PFDC
-- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Finotive Funding
 - Deal last verified: 2026-11-23
@@ -24,7 +24,7 @@ Finotive Funding currently lists 52 deals with discount codes. The best current 
 
 ## Finotive Funding challenge account pricing
 
-The Finotive Funding discount code PFDC offers up to 25% off eligible accounts. Select your account type and size below to view the discounted price.
+The Finotive Funding discount code PFDC offers 25% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

@@ -1,4 +1,4 @@
-# Diwali - Prop Firm Discount Codes & Deals 2026
+# Diwali - Prop Firm Discount Code & Deals 2026
 
 Celebrate Diwali with exclusive deals, festive discounts, and limited-time promotions. Discover special offers and seasonal savings during the festival of lights. Dates may vary each year.
 

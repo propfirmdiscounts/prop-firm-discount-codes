@@ -1,13 +1,13 @@
 # Breakout Prop Discount Code
 
-Breakout Prop currently lists 5 deals with discount codes. The best current offer is code 3GVKFT for up to 5% off, checked November 2026 by the PropFirmDiscount team.
+Breakout Prop currently lists 5 deals with discount codes. The best current offer is code 3GVKFT for 5% off, checked November 2026 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >
 > Breakout Prop was acquired by Kraken in September 2025 and continues to operate under Kraken's ownership.
 
 - Discount code: 3GVKFT
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Breakout Prop
 - Deal last verified: 2026-07-27

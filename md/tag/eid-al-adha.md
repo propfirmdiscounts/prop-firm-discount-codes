@@ -1,4 +1,4 @@
-# Eid al-Adha - Prop Firm Discount Codes & Deals 2026
+# Eid al-Adha - Prop Firm Discount Code & Deals 2026
 
 Celebrate Eid al-Adha with exclusive prop firm discounts, reduced evaluation fees, and limited-time trading deals. Discover festive offers and maximize your savings during this seasonal promotion. Dates may vary.
 

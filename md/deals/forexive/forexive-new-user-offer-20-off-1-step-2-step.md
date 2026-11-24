@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All 1-Step and 2-Step challenges, new users
 - Deal url: https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/
 
-Apply code WHCTXQHRIG at checkout for up to 30% off any Forexive challenge account — verified to work any time with no expiration date.
+Apply code WHCTXQHRIG at checkout for 30% off any Forexive challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

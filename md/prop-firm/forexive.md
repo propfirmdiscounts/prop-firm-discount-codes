@@ -1,11 +1,11 @@
 # Forexive Discount Code
 
-Forexive currently lists 24 deals with discount codes. The best current offer is code WHCTXQHRIG for up to 30% off, checked November 2026 by the PropFirmDiscount team.
+Forexive currently lists 24 deals with discount codes. The best current offer is code WHCTXQHRIG for 30% off, checked November 2026 by the PropFirmDiscount team.
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 
 - Discount code: WHCTXQHRIG
-- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Forexive
 - Deal last verified: 2026-11-21

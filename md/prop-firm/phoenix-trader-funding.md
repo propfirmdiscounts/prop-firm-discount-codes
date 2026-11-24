@@ -1,11 +1,11 @@
 # Phoenix Trader Funding Discount Code
 
-Phoenix Trader Funding currently lists 24 deals with discount codes. The best current offer is code PFD for up to 40% off, checked November 2026 by the PropFirmDiscount team.
+Phoenix Trader Funding currently lists 24 deals with discount codes. The best current offer is code PFD for 40% off, checked November 2026 by the PropFirmDiscount team.
 
 > We provide traders with capital under the guise of a test to demonstrate their trading skills. Our goal is to be the best prop firm worldwide, so feel free to leave a positive or negative review whether or not you're satisfied with our service
 
 - Discount code: PFD
-- Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phoenix Trader Funding
 - Deal last verified: 2026-11-04
@@ -20,7 +20,7 @@ Phoenix Trader Funding currently lists 24 deals with discount codes. The best cu
 
 ## Phoenix Trader Funding challenge account pricing
 
-The Phoenix Trader Funding discount code PFD offers up to 40% off eligible accounts. Select your account type and size below to view the discounted price.
+The Phoenix Trader Funding discount code PFD offers 40% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

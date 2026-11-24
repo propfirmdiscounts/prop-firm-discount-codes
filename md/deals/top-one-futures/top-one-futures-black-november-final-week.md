@@ -23,7 +23,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | Title | Event | Discount | Expires |
 |---|---|---|---|
 | [Top One Futures Black November Up to 65% Off](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Black Friday | 65% Off | Limited time |
-| [Top One Futures X-Daily Spark: Start for $39](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) | - | Only $39 | Limited time |
+| [Top One Futures X-Daily Spark: Start for $39](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) | - | Only $39 | Ended |
 | [Top One Futures: 60% Off Elite Daily & Instant Funding](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) | - | 60% Off | Ended |
 | [Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) | - | 50% Off | Ended |
 | [Top One Futures 50% Off Elite Daily and 40% Off Instant Funding Evaluation Pricing](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) | - | 50% Off | Ended |

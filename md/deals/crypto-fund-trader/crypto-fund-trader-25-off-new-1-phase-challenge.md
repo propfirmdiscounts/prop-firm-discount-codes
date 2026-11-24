@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: 1-Phase Challenges
 - Deal url: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
 
-Apply code platinum5 at checkout for up to 5% off any Crypto Fund Trader challenge account — verified to work any time with no expiration date.
+Apply code platinum5 at checkout for 5% off any Crypto Fund Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

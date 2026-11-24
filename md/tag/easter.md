@@ -1,4 +1,4 @@
-# Easter - Prop Firm Discount Codes & Deals 2026
+# Easter - Prop Firm Discount Code & Deals 2026
 
 Celebrate Easter with exclusive prop firm discounts, reduced evaluation fees, and limited-time trading deals. Discover festive offers and maximize your savings during this seasonal promotion.
 

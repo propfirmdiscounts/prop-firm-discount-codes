@@ -1,11 +1,11 @@
 # WeMasterTrade Discount Code
 
-WeMasterTrade currently lists 29 deals with discount codes. The best current offer is code PFD for up to 30% off, checked November 2026 by the PropFirmDiscount team.
+WeMasterTrade currently lists 29 deals with discount codes. The best current offer is code PFD for 30% off, checked November 2026 by the PropFirmDiscount team.
 
 > Best Instant Prop APAC 2026 and Top Instant Funding Innovation Asia 2025 award winner. Read our transparent explanation of the Trustpilot warning at https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ and explore our review page on FXVerify at https://fxverify.com/prop-firms/wemastertrade-review-4594.
 
 - Discount code: PFD
-- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: WeMasterTrade
 - Deal last verified: 2026-11-23
@@ -59,5 +59,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-23 | WeMasterTrade Black Friday: 29% Off All Packages | 29% Off | 2026-11-25 | Black Friday | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/ |
 | 2026-10-29 | WeMasterTrade Halloween 36% Off All Packages Deal | 36% Off | 2026-10-31 (ended) | Halloween | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
 | 2026-10-27 | WeMasterTrade 33% Off All Packages Plus Tiered BOGO | 33% Off | 2026-11-01 02:59 (ended) | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/ |
-| 2026-10-23 | WeMasterTrade 33% Off All Packages in Flash Sale | 33% Off | Limited time | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |
+| 2026-10-23 | WeMasterTrade 33% Off All Packages in Flash Sale | 33% Off | Ended | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |
 | 2026-10-03 | WeMasterTrade Flash Sale: 30% Off All Evaluation Packages | 30% Off | Ended | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/ |

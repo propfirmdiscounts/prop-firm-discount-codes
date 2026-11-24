@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Accounts of $25K-$50K
 - Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/
 
-Apply code PFD at checkout for up to 20% off any Funded Trading Plus challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 20% off any Funded Trading Plus challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

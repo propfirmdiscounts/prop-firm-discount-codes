@@ -1,6 +1,6 @@
 # QT Funded Discount Code
 
-QT Funded currently lists 65 deals with discount codes. The best current offer is code PFDDEAL for up to 50% off, checked November 2026 by the PropFirmDiscount team.
+QT Funded currently lists 65 deals with discount codes. The best current offer is code PFDDEAL for 50% off, checked November 2026 by the PropFirmDiscount team.
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding. We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively. At QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.
 
@@ -9,7 +9,7 @@ QT Funded currently lists 65 deals with discount codes. The best current offer i
 > QT Funded discount code has changed from PFD to PFDDEAL. Please use the updated code at checkout.
 
 - Discount code: PFDDEAL
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: QT Funded
 - Deal last verified: 2026-11-16
@@ -24,7 +24,7 @@ QT Funded currently lists 65 deals with discount codes. The best current offer i
 
 ## QT Funded challenge account pricing
 
-The QT Funded discount code PFDDEAL offers up to 50% off eligible accounts. Select your account type and size below to view the discounted price.
+The QT Funded discount code PFDDEAL offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

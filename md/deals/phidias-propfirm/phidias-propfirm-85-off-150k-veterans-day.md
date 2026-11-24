@@ -26,7 +26,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | [Phidias Propfirm Halloween 90% Off First Month Evaluations](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) | Halloween | 90% Off | 2026-11-01 17:00 (ended) |
 | [Phidias Propfirm 85% Off 50K Discount Code – $108 Express](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) | - | 85% Off | 2026-10-25 (ended) |
 | [Phidias Propfirm 85% Off 50K Evaluation Accounts](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) | - | 85% Off | 2026-10-25 (ended) |
-| [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) | - | Only $30 | 2026-11-23 |
+| [Phidias Propfirm $10,000 Challenge Entry for $30](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) | - | Only $30 | 2026-11-23 (ended) |
 
 ## Frequently Asked Questions
 

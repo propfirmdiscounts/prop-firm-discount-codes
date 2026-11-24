@@ -1,4 +1,4 @@
-# Independence Day - Prop Firm Discount Codes & Deals 2026
+# Independence Day - Prop Firm Discount Code & Deals 2026
 
 Independence Day prop firm deals: US July 4th promo codes on evaluations, challenges and resets — 20 tagged offers from 18 firms, the summer equivalent of a Black Friday code and usually the deepest discount before autumn.
 

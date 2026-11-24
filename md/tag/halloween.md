@@ -1,4 +1,4 @@
-# Halloween - Prop Firm Discount Codes & Deals 2026
+# Halloween - Prop Firm Discount Code & Deals 2026
 
 Unlock Halloween prop firm discounts with reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of early seasonal promotions before major holiday events.
 

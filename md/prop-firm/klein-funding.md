@@ -1,11 +1,11 @@
 # Klein Funding Discount Code
 
-Klein Funding currently lists 8 deals with discount codes. The best current offer is code PFD for up to 30% off, checked November 2026 by the PropFirmDiscount team.
+Klein Funding currently lists 8 deals with discount codes. The best current offer is code PFD for 30% off, checked November 2026 by the PropFirmDiscount team.
 
 > We are Klein Funding, a leading prop trading firm dedicated to empowering traders worldwide. Our mission is to provide innovative funding solutions and advanced tools, enabling traders to unlock their full potential. With a focus on transparency, professionalism, and growth, we support traders in achieving consistent success. Join Klein Funding and take your trading journey to the next level.
 
 - Discount code: PFD
-- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Klein Funding
 - Deal last verified: 2026-11-16

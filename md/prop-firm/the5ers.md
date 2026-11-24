@@ -1,9 +1,9 @@
 # The5ers Discount Code
 
-Exclusive Code for The5ers: NKY03MTJGM gives up to 5% off — the highest discount this firm offers us; it always works, checked November 2026 by the PropFirmDiscount team.
+Exclusive Code for The5ers: NKY03MTJGM gives 5% off — the highest discount this firm offers us; it always works, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: NKY03MTJGM
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: The5ers
 - Deal last verified: 2025-12-22

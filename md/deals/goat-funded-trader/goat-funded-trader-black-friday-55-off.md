@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Selected plans
 - Deal url: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/
 
-Apply code CSV at checkout for up to 35% off any Goat Funded Trader challenge account — verified to work any time with no expiration date.
+Apply code CSV at checkout for 35% off any Goat Funded Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -24,7 +24,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [Goat Funded Trader Black Friday: 50% Off](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | Black Friday | 50% Off | 2026-11-23 |
+| [Goat Funded Trader Black Friday: 50% Off](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | Black Friday | 50% Off | 2026-11-23 (ended) |
 | [Goat Funded Trader 40% Off Plus Buy One Get One Free](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) | - | 40% Off | Limited time |
 | [Goat Funded Trader 8% Off Prediction Market Evaluations](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) | - | 8% Off | Limited time |
 | [Goat Funded Trader Halloween 50% Off Challenge Accounts](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) | Halloween | 50% Off | Limited time |

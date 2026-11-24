@@ -1,4 +1,4 @@
-# Cyber Monday - Prop Firm Discount Codes & Deals 2026
+# Cyber Monday - Prop Firm Discount Code & Deals 2026
 
 Unlock Cyber Monday prop firm discounts with reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of one of the biggest trading promotions of the year.
 

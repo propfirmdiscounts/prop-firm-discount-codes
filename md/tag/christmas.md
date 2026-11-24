@@ -1,4 +1,4 @@
-# Christmas - Prop Firm Discount Codes & Deals 2026
+# Christmas - Prop Firm Discount Code & Deals 2026
 
 Celebrate Christmas with exclusive prop firm discounts, reduced evaluation fees, and limited-time trading deals. Discover special holiday offers from top firms and maximize your savings this festive season.
 

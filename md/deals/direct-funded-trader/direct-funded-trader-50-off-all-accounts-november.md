@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Accounts
 - Deal url: https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/
 
-Apply code PFD at checkout for up to 50% off any Direct Funded Trader challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 50% off any Direct Funded Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

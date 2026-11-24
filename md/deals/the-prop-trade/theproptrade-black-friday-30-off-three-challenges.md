@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: 1-Step Classic, 2-Steps Classic and Instant Zero, $5K to $100K
 - Deal url: https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/
 
-Apply code PFD at checkout for up to 20% off any thePropTrade challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 20% off any thePropTrade challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

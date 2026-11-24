@@ -1,4 +1,4 @@
-# International Worker's Day - Prop Firm Discount Codes & Deals 2026
+# International Worker's Day - Prop Firm Discount Code & Deals 2026
 
 International Workers' Day prop firm deals: the May 1st promos run mainly by firms with European and Latin American audiences — 5 listings from 4 firms, each a dated campaign rather than a year-round coupon relabeled for the holiday.
 

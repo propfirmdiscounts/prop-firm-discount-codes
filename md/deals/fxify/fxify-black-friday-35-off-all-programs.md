@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Programs (excl. Instant Funding Lite)
 - Deal url: https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/
 
-Apply code FXIFY2WRIVW at checkout for up to 10% off any FXIFY challenge account — verified to work any time with no expiration date.
+Apply code FXIFY2WRIVW at checkout for 10% off any FXIFY challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

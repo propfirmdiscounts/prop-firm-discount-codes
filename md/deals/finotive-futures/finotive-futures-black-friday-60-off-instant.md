@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Instant accounts, One Step accounts
 - Deal url: https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/
 
-Apply code PFDDEAL at checkout for up to 25% off any Finotive Futures challenge account — verified to work any time with no expiration date.
+Apply code PFDDEAL at checkout for 25% off any Finotive Futures challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

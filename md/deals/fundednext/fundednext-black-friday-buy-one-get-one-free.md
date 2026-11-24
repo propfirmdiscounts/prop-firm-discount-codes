@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Stellar Plans
 - Deal url: https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/
 
-Apply code PFDC at checkout for up to 20% off any FundedNext challenge account — verified to work any time with no expiration date.
+Apply code PFDC at checkout for 20% off any FundedNext challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

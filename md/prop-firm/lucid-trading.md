@@ -27,22 +27,22 @@ The pricing table covers 16 account options across the CFDs market. Prices shown
 
 | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
 |---|---|---|---|---|---|---|
-| LucidPro | $25K | $123 | $86.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidPro | $50K | $192 | $134.4 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidPro | $100K | $307 | $214.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidPro | $150K | $410 | $287 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidFlex | $25K | $89 | $62.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidFlex | $50K | $146 | $102.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidFlex | $100K | $293 | $205.1 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidFlex | $150K | $407 | $284.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDaily | $25K | $137 | $95.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDaily | $50K | $185 | $129.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDaily | $100K | $314 | $219.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDaily | $150K | $436 | $305.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDirect | $25K | $137 | $95.9 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDirect | $50K | $515 | $360.5 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDirect | $100K | $700 | $490 | 30% off | PFD | Tested at checkout 2026-11-23 |
-| LucidDirect | $150K | $836 | $585.2 | 30% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $25K | $123 | $80 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $50K | $192 | $124.8 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $100K | $307 | $199.6 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidPro | $150K | $410 | $266.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $25K | $89 | $57.9 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $50K | $146 | $94.9 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $100K | $293 | $190.5 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidFlex | $150K | $407 | $264.6 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $25K | $137 | $89.1 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $50K | $185 | $120.3 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $100K | $314 | $204.1 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDaily | $150K | $436 | $283.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $25K | $137 | $89.1 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $50K | $515 | $334.8 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $100K | $700 | $455 | 35% off | PFD | Tested at checkout 2026-11-23 |
+| LucidDirect | $150K | $836 | $543.4 | 35% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Most recent deal (ended): Lucid Trading 35% Off All Plans – Concrete Day Sale (code PFD)
 

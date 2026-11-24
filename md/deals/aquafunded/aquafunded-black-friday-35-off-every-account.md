@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Every Account
 - Deal url: https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/
 
-Apply code PFD at checkout for up to 35% off any AquaFunded challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 35% off any AquaFunded challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

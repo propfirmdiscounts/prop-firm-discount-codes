@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Challenges
 - Deal url: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/
 
-Apply code PFD at checkout for up to 10% off any ThinkCapital challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 10% off any ThinkCapital challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

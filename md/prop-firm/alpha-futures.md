@@ -55,6 +55,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-21 | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
 | 2026-11-03 | Alpha Futures 50% Off Standard Direct Advanced | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/ |
 | 2026-11-02 | Alpha Futures 40% Off Zero Plan | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/ |
-| 2026-10-23 | Alpha Futures 40% Off All Plans – New Dashboard | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
+| 2026-10-23 | Alpha Futures 40% Off All Plans – New Dashboard | 40% Off | Ended | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/ |
 | 2026-10-20 | Alpha Futures 50% Off Standard, Direct, Advanced | 50% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/ |
 | 2026-10-20 | Alpha Futures 40% Off Zero Plan for MyAlpha Launch | 40% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/ |

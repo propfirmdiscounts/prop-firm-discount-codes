@@ -1,11 +1,11 @@
 # Dominion Funding Discount Code
 
-Dominion Funding currently lists 22 deals with discount codes. The best current offer is code PFD5PC for up to 5% off, checked November 2026 by the PropFirmDiscount team.
+Dominion Funding currently lists 22 deals with discount codes. The best current offer is code PFD5PC for 5% off, checked November 2026 by the PropFirmDiscount team.
 
 > Join our proprietary trading firm and accelerate your trading career. We offer funding, professional challenges, and growth opportunities for traders worldwide. Forex, Commodities and Metals.
 
 - Discount code: PFD5PC
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Dominion Funding
 - Deal last verified: 2026-11-05

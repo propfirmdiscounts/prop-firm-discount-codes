@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Flash Activation, all accounts (excluding Flash and ATOM), Instant Elite $300K and $400K, ATOM Challenge
 - Deal url: https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/
 
-Apply code AFF1864062 at checkout for up to 10% off any Funded Elite challenge account — verified to work any time with no expiration date.
+Apply code AFF1864062 at checkout for 10% off any Funded Elite challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Evaluations
 - Deal url: https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/
 
-Apply code PFD at checkout for up to 30% off any Klein Funding challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 30% off any Klein Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

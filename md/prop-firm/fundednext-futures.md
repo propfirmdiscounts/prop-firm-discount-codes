@@ -1,9 +1,9 @@
 # FundedNext Futures Discount Code
 
-FundedNext Futures currently lists 14 deals with discount codes. The best current offer is code PFDC for up to 20% off, checked November 2026 by the PropFirmDiscount team.
+FundedNext Futures currently lists 14 deals with discount codes. The best current offer is code PFDC for 20% off, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: PFDC
-- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundedNext Futures
 - Deal last verified: 2026-10-22
@@ -18,7 +18,7 @@ FundedNext Futures currently lists 14 deals with discount codes. The best curren
 
 ## FundedNext Futures challenge account pricing
 
-The FundedNext Futures discount code PFDC offers up to 20% off eligible accounts. Select your account type and size below to view the discounted price.
+The FundedNext Futures discount code PFDC offers 20% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

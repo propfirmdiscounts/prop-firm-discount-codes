@@ -1,4 +1,4 @@
-# International Women’s Day - Prop Firm Discount Codes & Deals 2026
+# International Women’s Day - Prop Firm Discount Code & Deals 2026
 
 Celebrate International Women’s Day with exclusive deals, discounts, and limited-time promotions. Discover special offers and seasonal savings available during this global celebration.
 

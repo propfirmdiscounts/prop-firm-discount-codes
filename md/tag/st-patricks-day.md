@@ -1,4 +1,4 @@
-# St. Patrick’s Day - Prop Firm Discount Codes & Deals 2026
+# St. Patrick’s Day - Prop Firm Discount Code & Deals 2026
 
 St Patrick's Day prop firm offers: 20 March promo codes and flash deals from 16 firms, timed to the holiday week. Every listing is verified against the firm's own checkout before it appears here.
 

@@ -14,7 +14,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-23 | Traders Launch | Traders Launch: 30% Off All Accounts | 30% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts/ |
 | 2026-11-23 | WeMasterTrade | WeMasterTrade Black Friday: 29% Off All Packages | 29% OFF | 2026-11-25 | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/ |
 | 2026-11-23 | Blue Guardian | Blue Guardian Black Friday: 35% Off Everything (code PFD) | 35% OFF | 2026-11-30 18:59 | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/ |
-| 2026-11-23 | My Funded Futures | My Funded Futures Signature: 50% Off Today Only | 50% OFF | 2026-11-23 23:59 | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-signature-50-off-today/ |
+| 2026-11-23 | My Funded Futures | My Funded Futures Signature: 50% Off Today Only | 50% OFF | 2026-11-23 23:59 (ended) | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-signature-50-off-today/ |
 | 2026-11-23 | Instant Funding | Instant Funding Black Friday: 35% Off Three Programs | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/ |
 | 2026-11-23 | Alpha Funded | Alpha Funded Black Friday: Up to 80% Off Challenges | 80% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-black-friday-up-to-80-off/ |
 | 2026-11-23 | WSFunded | WSFunded Black Friday: 50% Off + Free Reset | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |

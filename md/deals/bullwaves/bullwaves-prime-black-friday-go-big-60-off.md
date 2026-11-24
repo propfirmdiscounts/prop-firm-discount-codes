@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Everything
 - Deal url: https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/
 
-Apply code PFD at checkout for up to 10% off any Bullwaves Prime challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 10% off any Bullwaves Prime challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

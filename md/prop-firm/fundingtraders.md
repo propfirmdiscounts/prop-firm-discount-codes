@@ -28,29 +28,29 @@ The pricing table covers 23 account options across the CFDs market. Prices shown
 
 | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
 |---|---|---|---|---|---|---|
-| Instant | $10K | $179 | $89.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $25K | $319 | $159.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $50K | $479 | $239.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $100K | $749 | $374.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $200K | $1349 | $674.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $400K | $2349 | $1174.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $10K | $119 | $59.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $25K | $229 | $114.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $50K | $339 | $169.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $100K | $599 | $299.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $200K | $999 | $499.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $5K | $49 | $24.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $10K | $79 | $39.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $25K | $159 | $79.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $50K | $259 | $129.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $100K | $459 | $229.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $200K | $799 | $399.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $5K | $59 | $29.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $10K | $109 | $54.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $25K | $229 | $114.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $50K | $329 | $164.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $100K | $589 | $294.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $200K | $999 | $499.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $10K | $179 | $34 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $25K | $319 | $60.6 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $50K | $479 | $91 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $100K | $749 | $142.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $200K | $1349 | $256.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Instant | $400K | $2349 | $446.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $10K | $119 | $22.6 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $25K | $229 | $43.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $50K | $339 | $64.4 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $100K | $599 | $113.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro10 | $200K | $999 | $189.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $5K | $49 | $9.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $10K | $79 | $15 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $25K | $159 | $30.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $50K | $259 | $49.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $100K | $459 | $87.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 2-Step Pro6 | $200K | $799 | $151.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $5K | $59 | $11.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $10K | $109 | $20.7 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $25K | $229 | $43.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $50K | $329 | $62.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $100K | $589 | $111.9 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| 1-Step | $200K | $999 | $189.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Most recent deal (ended): FundingTraders: 50% Off $100K+ Accounts (code PFD)
 

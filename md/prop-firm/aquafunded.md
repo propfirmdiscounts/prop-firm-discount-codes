@@ -1,11 +1,11 @@
 # AquaFunded Discount Code
 
-AquaFunded currently lists 53 deals with discount codes. The best current offer is code PFD for up to 35% off, checked November 2026 by the PropFirmDiscount team.
+AquaFunded currently lists 53 deals with discount codes. The best current offer is code PFD for 35% off, checked November 2026 by the PropFirmDiscount team.
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 
 - Discount code: PFD
-- Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: AquaFunded
 - Deal last verified: 2026-11-17
@@ -20,7 +20,7 @@ AquaFunded currently lists 53 deals with discount codes. The best current offer 
 
 ## AquaFunded challenge account pricing
 
-The AquaFunded discount code PFD offers up to 35% off eligible accounts. Select your account type and size below to view the discounted price.
+The AquaFunded discount code PFD offers 35% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

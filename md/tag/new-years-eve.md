@@ -1,4 +1,4 @@
-# New Year’s Eve - Prop Firm Discount Codes & Deals 2026
+# New Year’s Eve - Prop Firm Discount Code & Deals 2026
 
 Celebrate New Year’s Eve with exclusive prop firm discounts, reduced evaluation fees, and limited-time trading deals. Unlock special year-end savings from top firms before the new trading season begins.
 

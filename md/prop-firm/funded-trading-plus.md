@@ -1,6 +1,6 @@
 # Funded Trading Plus Discount Code
 
-Funded Trading Plus currently lists 63 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
+Funded Trading Plus currently lists 63 deals with discount codes. The best current offer is code PFD for 20% off, checked November 2026 by the PropFirmDiscount team.
 
 > The Most Trusted Prop Firm in the Industry Since 2021 With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage. We offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed! Get started on your funding here: https://www.fundedtradingplus.com/ For any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at simon@fundedtradingplus.com
 
@@ -9,7 +9,7 @@ Funded Trading Plus currently lists 63 deals with discount codes. The best curre
 > Funded Trading Plus was acquired by [Instant Funding](https://propfirmdiscount.com/prop-firm/instant-funding/) in May 2026; both brands continue to operate independently.
 
 - Discount code: PFD
-- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Trading Plus
 - Deal last verified: 2026-11-22
@@ -24,7 +24,7 @@ Funded Trading Plus currently lists 63 deals with discount codes. The best curre
 
 ## Funded Trading Plus challenge account pricing
 
-The Funded Trading Plus discount code PFD offers up to 20% off eligible accounts. Select your account type and size below to view the discounted price.
+The Funded Trading Plus discount code PFD offers 20% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

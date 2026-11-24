@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All Accounts (Instant, Core, Prestige)
 - Deal url: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/
 
-Apply code PFD1 at checkout for up to 25% off any TX3 Funding challenge account — verified to work any time with no expiration date.
+Apply code PFD1 at checkout for 25% off any TX3 Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

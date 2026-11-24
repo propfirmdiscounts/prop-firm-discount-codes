@@ -1,4 +1,4 @@
-# Labor Day - Prop Firm Discount Codes & Deals 2026
+# Labor Day - Prop Firm Discount Code & Deals 2026
 
 As of 2026-09-04, the biggest offers: 80% OFF with code PFD at Phidias Propfirm, 70% OFF with code LABOR at Alpha Funded, 60% OFF with code PFD at FundingTraders, 60% OFF with code LABORDAY at WSFunded, and 55% OFF with code USA55 at QT Funded.
 

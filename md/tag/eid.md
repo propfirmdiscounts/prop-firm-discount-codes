@@ -1,4 +1,4 @@
-# Eid Al‑Fitr - Prop Firm Discount Codes & Deals 2026
+# Eid Al‑Fitr - Prop Firm Discount Code & Deals 2026
 
 Eid prop firm discounts: 20 codes from 14 firms published for Eid al-Fitr and Eid al-Adha, by brands running Ramadan and Gulf-market campaigns. Each offer names the exact product and step it applies to.
 

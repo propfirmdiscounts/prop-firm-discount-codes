@@ -1,4 +1,4 @@
-# Valentine’s Day - Prop Firm Discount Codes & Deals 2026
+# Valentine’s Day - Prop Firm Discount Code & Deals 2026
 
 Discover Valentine’s Day discounts from top prop firms, featuring reduced evaluation fees, bonus offers, and limited-time trading deals. Unlock exclusive savings during this seasonal promotion.
 

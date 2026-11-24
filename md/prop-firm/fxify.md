@@ -1,9 +1,9 @@
 # FXIFY Discount Code
 
-FXIFY currently lists 42 deals with discount codes. The best current offer is code FXIFY2WRIVW for up to 10% off, checked November 2026 by the PropFirmDiscount team.
+FXIFY currently lists 42 deals with discount codes. The best current offer is code FXIFY2WRIVW for 10% off, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: FXIFY2WRIVW
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FXIFY
 - Deal last verified: 2026-11-17

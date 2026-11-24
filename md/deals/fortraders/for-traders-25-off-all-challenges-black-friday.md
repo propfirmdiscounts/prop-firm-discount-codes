@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All challenges, Fast 1-Step Forex, 24/7 Trading
 - Deal url: https://propfirmdiscount.com/deals/fortraders/for-traders-25-off-all-challenges-black-friday/
 
-Apply code VGYCKXLTY9 at checkout for up to 15% off any For Traders challenge account — verified to work any time with no expiration date.
+Apply code VGYCKXLTY9 at checkout for 15% off any For Traders challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

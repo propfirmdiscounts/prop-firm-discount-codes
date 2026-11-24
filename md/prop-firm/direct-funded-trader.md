@@ -1,11 +1,11 @@
 # Direct Funded Trader Discount Code
 
-Direct Funded Trader currently lists 8 deals with discount codes. The best current offer is code PFD for up to 50% off, checked November 2026 by the PropFirmDiscount team.
+Direct Funded Trader currently lists 8 deals with discount codes. The best current offer is code PFD for 50% off, checked November 2026 by the PropFirmDiscount team.
 
 > Direct Funded Trader is the fastest-evolving proprietary trading firm with an extensive vision that comprises groundbreaking technology and modern solutions for clients worldwide.
 
 - Discount code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Direct Funded Trader
 - Deal last verified: 2026-11-19
@@ -20,7 +20,7 @@ Direct Funded Trader currently lists 8 deals with discount codes. The best curre
 
 ## Direct Funded Trader challenge account pricing
 
-The Direct Funded Trader discount code PFD offers up to 50% off eligible accounts. Select your account type and size below to view the discounted price.
+The Direct Funded Trader discount code PFD offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

@@ -1,4 +1,4 @@
-# World Cup - Prop Firm Discount Codes & Deals 2026
+# World Cup - Prop Firm Discount Code & Deals 2026
 
 World Cup prop firm promotions: 34 discount codes and challenge offers from 21 funded-trading firms, timed to the football tournament rather than the trading calendar — when several firms price-cut instead of running their usual evergreen coupon.
 

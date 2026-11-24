@@ -25,7 +25,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | [Alpha Futures Black Friday: BOGO + 40% Off 25K Zero](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/) | Black Friday | 40% Off | Limited time |
 | [Alpha Futures 50% Off Standard Direct Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/) | - | 50% Off | Limited time |
 | [Alpha Futures 40% Off Zero Plan](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/) | - | 40% Off | Limited time |
-| [Alpha Futures 40% Off All Plans – New Dashboard](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) | - | 40% Off | Limited time |
+| [Alpha Futures 40% Off All Plans – New Dashboard](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) | - | 40% Off | Ended |
 | [Alpha Futures 50% Off Standard, Direct, Advanced](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) | - | 50% Off | 2026-10-31 (ended) |
 
 ## Frequently Asked Questions

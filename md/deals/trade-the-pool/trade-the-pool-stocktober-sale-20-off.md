@@ -15,7 +15,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All accounts
 - Deal url: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
 
-Apply code WWS4GW at checkout for up to 10% off any Trade The Pool challenge account — verified to work any time with no expiration date.
+Apply code WWS4GW at checkout for 10% off any Trade The Pool challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -1,4 +1,4 @@
-# Memorial Day - Prop Firm Discount Codes & Deals 2026
+# Memorial Day - Prop Firm Discount Code & Deals 2026
 
 Memorial Day prop firm deals: the US long-weekend promos that open the summer sale season — 12 challenge and evaluation codes from 12 firms, checked against live checkout pages before listing.
 

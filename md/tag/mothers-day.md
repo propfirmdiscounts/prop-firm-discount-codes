@@ -1,4 +1,4 @@
-# Mother's Day - Prop Firm Discount Codes & Deals 2026
+# Mother's Day - Prop Firm Discount Code & Deals 2026
 
 Mother's Day prop firm offers: 7 listings from 7 firms. Only a few brands run a promo tied to the date rather than folding it into their spring sale, so this archive lists just the genuine dated campaigns — nothing generic is tagged in to pad the count.
 

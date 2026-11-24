@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Challenge accounts, Instant Funding accounts, Pro accounts
 - Deal url: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/
 
-Apply code PFDC at checkout for up to 25% off any Finotive Funding challenge account — verified to work any time with no expiration date.
+Apply code PFDC at checkout for 25% off any Finotive Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

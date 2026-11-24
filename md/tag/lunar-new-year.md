@@ -1,4 +1,4 @@
-# Lunar New Year - Prop Firm Discount Codes & Deals 2026
+# Lunar New Year - Prop Firm Discount Code & Deals 2026
 
 Celebrate Lunar New Year with exclusive deals, festive discounts, and limited-time promotions. Discover seasonal offers and special savings during this global celebration. Dates may vary each year.
 

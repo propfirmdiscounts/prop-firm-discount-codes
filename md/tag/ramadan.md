@@ -1,4 +1,4 @@
-# Ramadan - Prop Firm Discount Codes & Deals 2026
+# Ramadan - Prop Firm Discount Code & Deals 2026
 
 Celebrate Ramadan with exclusive deals, special discounts, and limited-time promotions. Discover seasonal offers and savings during this meaningful month. Dates may vary each year.
 

@@ -1,4 +1,4 @@
-# Father's Day - Prop Firm Discount Codes & Deals 2026
+# Father's Day - Prop Firm Discount Code & Deals 2026
 
 Celebrate Father’s Day with prop firm savings—verified discount codes for challenges, evaluations, resets, and add-ons. Limited-time offers updated frequently for traders.
 

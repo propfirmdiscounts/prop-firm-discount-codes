@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Funding Your Trades accounts
 - Deal url: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/
 
-Apply code PFD at checkout for up to 2% off any Funding Your Trades challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 2% off any Funding Your Trades challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All packages
 - Deal url: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/
 
-Apply code PFD at checkout for up to 30% off any WeMasterTrade challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 30% off any WeMasterTrade challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -26,7 +26,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 |---|---|---|---|
 | [WeMasterTrade Halloween 36% Off All Packages Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) | Halloween | 36% Off | 2026-10-31 (ended) |
 | [WeMasterTrade 33% Off All Packages Plus Tiered BOGO](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) | - | 33% Off | 2026-11-01 02:59 (ended) |
-| [WeMasterTrade 33% Off All Packages in Flash Sale](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) | - | 33% Off | Limited time |
+| [WeMasterTrade 33% Off All Packages in Flash Sale](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) | - | 33% Off | Ended |
 | [WeMasterTrade Flash Sale: 30% Off All Evaluation Packages](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) | - | 30% Off | Ended |
 | [WeMasterTrade: 32% Off All Packages & Festival Spin](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/) | - | 32% Off | Ended |
 

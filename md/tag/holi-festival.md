@@ -1,4 +1,4 @@
-# Holi Festival - Prop Firm Discount Codes & Deals 2026
+# Holi Festival - Prop Firm Discount Code & Deals 2026
 
 Celebrate Holi with vibrant deals, discounts, and limited-time promotions. Discover festive offers and colorful savings available during this joyful seasonal event.
 

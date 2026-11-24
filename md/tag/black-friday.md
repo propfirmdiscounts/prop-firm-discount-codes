@@ -1,4 +1,4 @@
-# Black Friday - Prop Firm Discount Codes & Deals 2026
+# Black Friday - Prop Firm Discount Code & Deals 2026
 
 Unlock Black Friday prop firm discounts with heavily reduced evaluation fees, exclusive trading deals, and limited-time offers. Take advantage of the biggest trading promotions of the year.
 

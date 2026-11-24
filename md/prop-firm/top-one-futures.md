@@ -25,22 +25,22 @@ The pricing table covers 16 account options across the Futures market. Prices sh
 
 | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
 |---|---|---|---|---|---|---|
-| Elite Daily | $25K | $178 | $89 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $50K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $100K | $398 | $199 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $150K | $549 | $274.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $25K | $139 | $69.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $50K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $100K | $259 | $129.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $150K | $359 | $179.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $25K | $419 | $209.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $50K | $679 | $339.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $100K | $821 | $410.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $150K | $939 | $469.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $25K | $218 | $109 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $50K | $398 | $199 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $100K | $563 | $281.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $150K | $799 | $399.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $25K | $178 | $53.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $50K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $100K | $398 | $119.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Daily | $150K | $549 | $164.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $25K | $139 | $41.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $50K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $100K | $259 | $77.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Elite Access | $150K | $359 | $107.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $25K | $419 | $125.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $50K | $679 | $203.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $100K | $821 | $246.3 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| INSTANT Sim Funded | $150K | $939 | $281.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $25K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $50K | $398 | $119.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $100K | $563 | $168.9 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| IGNITE Instant Funding | $150K | $799 | $239.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
 
 ## Current deal: Top One Futures Final Week: Elite Access $39 (code PFD)
 
@@ -82,5 +82,5 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-11-23 | Top One Futures Final Week: Elite Access $39 (code PFD) | 70% Off | 2026-11-30 | Black Friday | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/ |
 | 2026-11-02 | Top One Futures Black November Up to 65% Off (code PFD) | 65% Off | Limited time | Black Friday | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/ |
-| 2026-10-23 | Top One Futures X-Daily Spark: Start for $39 (code PFD) | Only $39 | Limited time | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
+| 2026-10-23 | Top One Futures X-Daily Spark: Start for $39 (code PFD) | Only $39 | Ended | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/ |
 | 2026-10-04 | Top One Futures: 60% Off Elite Daily & Instant Funding (code PFD) | 60% Off | Ended | - | PFD | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/ |

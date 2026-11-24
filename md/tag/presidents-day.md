@@ -1,4 +1,4 @@
-# Presidents Day - Prop Firm Discount Codes & Deals 2026
+# Presidents Day - Prop Firm Discount Code & Deals 2026
 
 Celebrate Presidents Day with exclusive deals, discounts, and limited-time promotions. Discover special offers and seasonal savings available during this major U.S. shopping event.
 

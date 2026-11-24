@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: All evaluations, every program, every platform
 - Deal url: https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/
 
-Apply code PFD5PC at checkout for up to 5% off any Dominion Funding challenge account — verified to work any time with no expiration date.
+Apply code PFD5PC at checkout for 5% off any Dominion Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
