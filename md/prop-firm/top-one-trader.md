@@ -5,7 +5,7 @@ Top One Trader currently lists 15 deals with discount codes. Compare available p
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 
 - Prop firm: Top One Trader
-- Deal last verified: 2026-11-17
+- Deal last verified: 2026-11-23
 - Trustpilot score: 4.4/5 (3504 reviews)
 - Official web: toponetrader.com
 - Email: Admin@toponetrader.com
@@ -14,40 +14,40 @@ Top One Trader currently lists 15 deals with discount codes. Compare available p
 - Active deal url: https://propfirmdiscount.com/go/toponetrader
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-trader/
 
-## Current deal: Top One Trader Super Nova: Nova Entry for $1
+## Current deal: Top One Trader: Profit Target 3% + 50% Off Fee
 
-- Deal last verified: 2026-11-17
-- Deal ends: 2026-11-24
-- Discount: $1 Entry
-- Applied to: Nova Challenge Accounts
+- Deal last verified: 2026-11-23
+- Deal ends: 2026-11-27
+- Discount: 50% Off
+- Applied to: One-step challenge
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/
+- Deal url: https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-profit-target-3-percent-activation-fee/
 
 ## Top One Trader deal FAQ
 
-**What does Super Nova include?**
+**What is Top One Trader's final-week Black Friday offer?**
 
-Any Nova account starts for $1 (normally $7); activation fees are cut by 50%; the profit target drops from 5% to 3%. Buy one, get one free still applies.
+Two stacked changes on the one-step challenge: the profit target is cut from 5% to 3%, plus the activation fee is 50% off once you pass. It sits on top of the month's other deals, all live at the same time this week.
 
-**When are the activation fees paid?**
+**How much less ground is a 3% target?**
 
-After passing. Under Super Nova they are halved, so the cost to get funded is half the usual amount.
+The firm frames it as 40% less ground to cover to get funded, the arithmetic of moving from a 5% target to a 3% target. That figure describes the target alone, not the whole challenge.
 
-**Does the lower profit target change how the challenge works?**
+**When does the activation fee discount apply?**
 
-The target is part of this promotion: the bar to clear to pass drops from 5% to 3% for this offer, a reduction the firm describes as 40% lower.
+After passing. Once you pass the challenge, the activation fee is half price under this offer.
 
-**Is the 80% sitewide offer part of Super Nova?**
+**Does the lower target reduce trading risk?**
 
-No. Up to 80% off sitewide on all accounts is a separate offer the firm notes is still running; no end date is stated for it.
+No. The announcement changes the target plus the fee and states no other rule changes. A shorter pass distance does not change the risk of losing the account on the way.
 
-**When does Super Nova end?**
+**When do the offers end?**
 
-It runs for one week only from 17 November 2026, which puts the close on 24 November 2026.
+When Black Friday ends, on 27 November 2026, per the announcement. The firm states the offers will not return until next Black Friday.
 
-**How much do I save on the entry?**
+**What else is live this week?**
 
-The Nova entry is $1 against a normal $7 - a $6 saving on the entry fee, before the halved activation fee after passing.
+Per the announcement: up to 80% off sitewide, a special edition $50,000 Instant Funding account at 75% off (bundle up to 3), plus the Supernova stack with Nova challenges for $1. Each carries its own terms.
 
 ## Deals (last 2 months, newest first)
 
@@ -55,6 +55,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Top One Trader: Profit Target 3% + 50% Off Fee | 50% Off | 2026-11-27 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-profit-target-3-percent-activation-fee/ |
 | 2026-11-17 | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
 | 2026-11-16 | Top One Trader Black Friday: Up to 65% Off | 65% Off | Limited time | Black Friday | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
 | 2026-11-01 | Top One Trader Black November Up to 80% Off Instant Funded | 80% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/ |

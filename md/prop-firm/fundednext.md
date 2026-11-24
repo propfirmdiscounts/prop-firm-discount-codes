@@ -1,12 +1,12 @@
 # FundedNext Discount Code
 
-FundedNext currently lists 32 deals with discount codes. The best current offer is code PFDC for up to 20% off, checked November 2026 by the PropFirmDiscount team.
+FundedNext currently lists 33 deals with discount codes. The best current offer is code PFDC for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: PFDC
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundedNext
-- Deal last verified: 2026-11-01
+- Deal last verified: 2026-11-23
 - Trustpilot score: 4.5/5 (84644 reviews)
 - Official web: fundednext.com
 - Email: support@fundednext.com
@@ -58,40 +58,37 @@ The pricing table covers 31 account options across CFDs and Futures markets. Pri
 | Futures | Rapid Daily | $50K | $299.98 | $159.99 | - | PFDC | Tested at checkout 2026-11-23 |
 | Futures | Rapid Daily | $25K | $159.98 | $79.99 | - | PFDC | Tested at checkout 2026-11-23 |
 
-## Current deal: FundedNext November 30% Off All Stellar Instant Accounts
+## Current deal: FundedNext Black Friday: Buy One Stellar, Get One Free
 
-- Deal last verified: 2026-11-01
+- Deal last verified: 2026-11-23
 - Deal ends: Limited time
-- Discount: 30% Off
-- Discount code: NOVINS
-- Applied to: Stellar Instant accounts in 2K, 5K, 10K and 20K sizes
-- Deal url: https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/
+- Discount: BOGO
+- Discount code: BFBOGO
+- Applied to: All Stellar Plans
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/
 
 ## FundedNext deal FAQ
 
-**What does FundedNext November offer on Stellar Instant accounts?**
+**How does the FundedNext Black Friday offer work?**
 
-It cuts a flat 30% off all Stellar Instant accounts. The same percentage applies across every size.
+Purchase any Stellar account with the deal code at checkout, then reach a FundedNext Account (Tier 2): the free account, same model plus size, is disbursed at that point.
 
-**Which FundedNext Stellar Instant sizes does the flat cut cover?**
+**When do I receive the free account?**
 
-The flat 30% cut covers Stellar Instant accounts in 2K, 5K, 10K and 20K sizes. No size in that set is excluded.
+After reaching a FundedNext Account (Tier 2) on the purchased account, per the terms. It is not disbursed at purchase.
 
-**How many redemptions does FundedNext allow for this instant offer?**
+**Who can use the offer?**
 
-Maximum 1 redemption per user applies to this offer. The offer is available to new and existing users, to Global and USA traders.
+New plus existing users, on all Stellar Plans, with unlimited code redemptions; Stellar Instant is subject to a maximum allocation. Resets plus double-up add-ons are not available under the offer.
 
-**Does this FundedNext instant offer apply to account resets?**
+**Does the offer change the account rules?**
 
-No, the offer is not applicable to account resets. The Double-Up add-on is disabled during the offer.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**What stays the same with this FundedNext instant offer?**
+**How strong is the firm's review record?**
 
-The instant account picked stays the same, with the saving on price only. A buyer with no purchase planned gains nothing from the cut alone.
-
-**How do I get the FundedNext discount code for this offer?**
-
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+Trustpilot shows 4.5 out of 5 from 84,644 reviews as of November 2026.
 
 ## Deals (last 2 months, newest first)
 
@@ -99,6 +96,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | FundedNext Black Friday: Buy One Stellar, Get One Free | BOGO | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/ |
 | 2026-11-01 | FundedNext November 30% Off All Stellar Instant Accounts | 30% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/ |
 | 2026-11-01 | FundedNext November Up to 41% Off Stellar Challenges | 41% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fundednext/fundednext-november-41-off-stellar-challenge-accounts/ |
 | 2026-10-27 | FundedNext Halloween 20% Off Stellar Accounts From $29.99 | 41% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fundednext/fundednext-halloween-20-off-stellar-accounts-29-99/ |

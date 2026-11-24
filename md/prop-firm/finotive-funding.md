@@ -1,6 +1,6 @@
 # Finotive Funding Discount Code
 
-Finotive Funding currently lists 51 deals with discount codes. The best current offer is code PFDC for up to 25% off, checked November 2026 by the PropFirmDiscount team.
+Finotive Funding currently lists 52 deals with discount codes. The best current offer is code PFDC for up to 25% off, checked November 2026 by the PropFirmDiscount team.
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity. We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits. Our mission is simple — to build the fairest, most transparent, and most flexible funding model in the industry. With static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we’ve redefined what traders can expect from a prop firm. Since 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support. Every account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success. Trade fairly. Trade freely. Trade Finotive.
 
@@ -12,7 +12,7 @@ Finotive Funding currently lists 51 deals with discount codes. The best current 
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Finotive Funding
-- Deal last verified: 2026-11-17
+- Deal last verified: 2026-11-23
 - Trustpilot score: 3.5/5 (1079 reviews)
 - Official web: finotivefunding.com
 - Email: support@finotivefunding.com
@@ -65,39 +65,41 @@ The pricing table covers 32 account options across the Funding market. Prices sh
 | Finotive Pro - One stages | $100K | $914 | $685.5 | 25% off | PFDC | Tested at checkout 2026-11-23 |
 | Finotive Pro - One stages | $200K | $1799 | $1349.3 | 25% off | PFDC | Tested at checkout 2026-11-23 |
 
-## Current deal: Finotive Funding Launch Week: Win a PS5 With GTA VI
+## Current deal: Finotive Funding 65% Off Every Account – Black Friday
 
-- Deal last verified: 2026-11-17
-- Deal ends: 2026-11-23 13:00
-- Discount: Prize Draw
-- Applied to: Finotive Funding Accounts (Challenge, Instant or Pro)
-- Deal url: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/
+- Deal last verified: 2026-11-23
+- Deal ends: 2026-12-04 17:59
+- Discount: 65% Off
+- Discount code: BF65
+- Applied to: Challenge accounts, Instant Funding accounts, Pro accounts
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/
 
 ## Finotive Funding deal FAQ
 
-**How do I earn entries?**
+**What does the Finotive Funding Black Friday offer include?**
 
-One entry for every full $50 you spend on a Finotive Funding account - Challenge, Instant or Pro. A $595 account earns 11 entries; a $3,275 account earns 65.
+The offer takes 65% off every Challenge, Instant Funding and Pro account, with account sizes running up to $200K. The firm calls it its biggest offer of the year.
 
-**How does the doubling work?**
+**How do I apply the 65% rate?**
 
-Share your entry ticket on X and your entries double - the $595 account's 11 entries become 22, for example.
+Choose your account and size on the firm's site and enter the deal code at checkout. The 65% comes off the price before you pay.
 
-**What are the prizes?**
+**When does the offer end?**
 
-Fifteen prizes: five PS5 consoles bundled with GTA VI and ten GTA VI digital codes.
+The offer ends on 4 December 2026 at 11:59 PM CET, as stated in the announcement.
 
-**When does the draw close?**
+**What is the difference between the three account routes?**
 
-Entries close on Monday 23 November 2026 at 18:00 UTC. The winners are announced at that moment.
+Challenge accounts run a 1-Step or 2-Step evaluation path. Instant Funding skips the evaluation and starts under funded-account rules with no staged profit target. Pro adds monthly salary eligibility, 25% lower execution commission than equivalent standard settings and a reward split that can reach 100% after 30 funded days while Pro status is retained.
 
-**Does the draw change prices or trading rules?**
+**Does the discount change the account rules?**
 
-No. Entries are earned on spend at the firm's standard prices. The GTA 6 dashboard mode is a look only - the firm states the rules stay the same underneath.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Do I need to buy an account to get GTA 6 mode?**
+**How large do the accounts go?**
 
-No. The firm says GTA 6 mode is on the house for launch week, for everyone.
+Account sizes go up to $200K under this offer, as stated in the announcement.
 
 ## Deals (last 2 months, newest first)
 
@@ -105,7 +107,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 | - | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
+| 2026-11-23 | Finotive Funding 65% Off Every Account – Black Friday | 65% Off | 2026-12-04 17:59 | Black Friday | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/ |
+| 2026-11-17 | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 (ended) | - | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
 | 2026-11-06 | Finotive Funding Back to Roots Sale: 50% Off Everything | 50% Off | 2026-11-10 17:59 (ended) | - | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/ |
 | 2026-10-31 | Finotive Funding 65% Off Every Account | 65% Off | 2026-11-02 17:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/ |
 | 2026-10-28 | Finotive Funding Halloween 50% Off All Challenges | 50% Off | 2026-11-01 00:00 (ended) | Halloween | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/ |

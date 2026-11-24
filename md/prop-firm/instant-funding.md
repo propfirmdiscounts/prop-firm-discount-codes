@@ -1,6 +1,6 @@
 # Instant Funding Discount Code
 
-Instant Funding currently lists 38 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
+Instant Funding currently lists 40 deals with discount codes. The best current offer is code PFD for up to 20% off, checked November 2026 by the PropFirmDiscount team.
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns. By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
 
@@ -8,7 +8,7 @@ Instant Funding currently lists 38 deals with discount codes. The best current o
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Instant Funding
-- Deal last verified: 2026-11-21
+- Deal last verified: 2026-11-23
 - Trustpilot score: 2.8/5 (4391 reviews)
 - Official web: instantfunding.com
 - Email: support@instantfunding.com
@@ -48,33 +48,37 @@ The pricing table covers 19 account options across the CFDs market. Prices shown
 | Evolve | $25K | $69 | $55.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
 | Evolve | $50K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
 
-## Current deal: Instant Funding Black Friday: 40% Off Pro and Lite
+## Current deal: Instant Funding Black Friday: 35% Off Three Programs
 
-- Deal last verified: 2026-11-21
+- Deal last verified: 2026-11-23
 - Deal ends: Limited time
-- Discount: 40% Off
-- Discount code: IFBF2
-- Applied to: Instant Funding Pro and Instant Funding Lite
+- Discount: 35% Off
+- Discount code: IFBF4
+- Applied to: IF Micro Pro, IF Micro Lite, One-Phase Pro
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/
+- Deal url: https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/
 
 ## Instant Funding deal FAQ
 
-**What does the offer cover?**
+**Which programs does the 35% cover?**
 
-Instant Funding Pro and Instant Funding Lite accounts at 40% off, under the Saturday Black Friday offer.
+Three programs: IF Micro Pro, IF Micro Lite plus One-Phase Pro, priced with the deal code at checkout.
 
-**Is an end date stated?**
+**How do I apply the discount?**
 
-No end date is stated; the offer is framed as this Saturday's Black Friday offer. Check the deal page for current availability.
+Choose one of the three programs and enter the deal code at checkout. Verify the discounted price shows before paying.
 
-**Does the sale change account rules?**
+**Does the discount change the account rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**What do reviews say about the firm?**
+**How does this differ from the 45% Pro and Lite offer?**
 
-Trustpilot: 2.8/5 from 4,389 reviews as of November 2026 - a low score worth weighing before buying.
+That same-day offer prices the larger Pro and Lite lines at 45% off. This offer prices the two Micro lines plus One-Phase Pro at 35% off. Compare program against program, not just rate against rate.
+
+**Is an end date stated?**
+
+No end date is stated in the announcement. The offer is framed as starting the Black Friday week early, ahead of Friday itself.
 
 ## Deals (last 2 months, newest first)
 
@@ -82,6 +86,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Instant Funding Black Friday: 35% Off Three Programs | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/ |
+| 2026-11-23 | Instant Funding 45% Off Pro and Lite This Black Friday | 45% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-45-off-pro-and-lite/ |
 | 2026-11-21 | Instant Funding Black Friday: 40% Off Pro and Lite | 40% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/ |
 | 2026-11-20 | Instant Funding Black Friday: 35% Off IF Micro Pro | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/ |
 | 2026-11-04 | Instant Funding 40% Off All Lite Accounts – Diwali Offer | 40% Off | 2026-11-09 18:59 (ended) | Diwali | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/ |

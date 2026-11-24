@@ -1,11 +1,11 @@
 # FundingTraders Discount Code
 
-FundingTraders currently lists 100 deals with discount codes. The best current offer is code PFD for 70% off, checked November 2026 by the PropFirmDiscount team.
+FundingTraders currently lists 100 deals with discount codes. The best current offer is code PFD for 81% off, checked November 2026 by the PropFirmDiscount team.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere. Led by a veteran Wall Street Trader.
 
 - Discount code: PFD
-- Discount: 70% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 81% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundingTraders
 - Deal last verified: 2026-11-19
@@ -20,7 +20,7 @@ FundingTraders currently lists 100 deals with discount codes. The best current o
 
 ## FundingTraders challenge account pricing
 
-The FundingTraders discount code PFD offers 70% off eligible accounts. Select your account type and size below to view the discounted price.
+The FundingTraders discount code PFD offers 81% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 

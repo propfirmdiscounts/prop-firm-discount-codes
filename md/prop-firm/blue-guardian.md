@@ -1,14 +1,14 @@
 # Blue Guardian Discount Code
 
-Blue Guardian currently lists 33 deals with discount codes. The best current offer is code PFD for 30% off, checked November 2026 by the PropFirmDiscount team.
+Blue Guardian currently lists 34 deals with discount codes. The best current offer is code PFD for 35% off, checked November 2026 by the PropFirmDiscount team.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 
 - Discount code: PFD
-- Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Blue Guardian
-- Deal last verified: 2026-11-16
+- Deal last verified: 2026-11-23
 - Trustpilot score: 3.0/5 (2189 reviews)
 - Official web: blueguardian.com
 - Email: support@blueguardianfutures.com
@@ -20,7 +20,7 @@ Blue Guardian currently lists 33 deals with discount codes. The best current off
 
 ## Blue Guardian challenge account pricing
 
-The Blue Guardian discount code PFD offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
+The Blue Guardian discount code PFD offers 35% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 
@@ -75,36 +75,41 @@ The pricing table covers 46 account options across CFDs and Futures markets. Pri
 | Futures | Direct | $100K | $659 | $461.3 | 30% off | PFD | Tested at checkout 2026-11-23 |
 | Futures | Direct | $150K | $824 | $576.8 | 30% off | PFD | Tested at checkout 2026-11-23 |
 
-## Current deal: Blue Guardian: 30% Off Every Account This Week (code PFD)
+## Current deal: Blue Guardian Black Friday: 35% Off Everything (code PFD)
 
-- Deal last verified: 2026-11-16
-- Deal ends: Limited time
-- Discount: 30% Off
+- Deal last verified: 2026-11-23
+- Deal ends: 2026-11-30 18:59
+- Discount: 35% Off
 - Discount code: PFD
-- Applied to: Every Account
-- Deal url: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/
+- Applied to: All Futures and CFD accounts
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/
 
 ## Blue Guardian deal FAQ
 
-**What does the offer include?**
+**What does the 35% cover at Blue Guardian?**
 
-30% off every Blue Guardian account this week - Instant Funding, 1-Step Standard, 2-Step Standard, 1-Step Nano and 2-Step Nano.
+Everything across all Futures and CFD accounts per the announcement: 1 Step Standard, 1 Step Nano, 2 Step Nano, Instant, Express plus Elite lines are tagged at 35%. Reserve is the exception, tagged at 30%.
 
-**What are the starting prices under the offer?**
+**What else does the sale include?**
 
-Instant Funding from $50 (was $72), 1-Step Standard from $28 (was $40), 2-Step Standard from $22 (was $32), 1-Step Nano from $19 (was $26) and 2-Step Nano from $47 (was $66), as the firm's listed starting prices.
+Bundles at up to 50% off on both divisions, Futures accounts starting at just $46, CFD accounts starting at just $17, a new Zero model on the Futures side, plus a 200% refund on CFD accounts. The refund's terms are not detailed in the announcement, so check them on the deal page.
 
-**Do the listed prices match 30% off exactly?**
+**Does the discount change the account rules?**
 
-Most do once rounding settles. The two Nano rows sit slightly above an exact 30% calculation, so the listed price governs.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+
+**Are the banner's example prices all 35% off?**
+
+Not all of them. The same 200K Nano appears at $478 (35% off $736) in one strip and at $515 (30% off) in another. Verify the price your chosen account shows at checkout before paying.
 
 **When does the offer end?**
 
-The offer is stated for this week; no calendar end date is given.
+30 November 2026 at 23:59 UTC, per the banner.
 
-**Does the promotion change the account rules?**
+**What kind of accounts are these?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+Simulated trading accounts using demo funds for evaluation purposes, per the firm's own notice. Participants may earn monetary rewards; no real funds are invested.
 
 ## Deals (last 2 months, newest first)
 
@@ -112,6 +117,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Blue Guardian Black Friday: 35% Off Everything (code PFD) | 35% Off | 2026-11-30 18:59 | Black Friday | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/ |
 | 2026-11-16 | Blue Guardian: 30% Off Every Account This Week (code PFD) | 30% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/ |
 | 2026-11-16 | Blue Guardian Futures ZERO: 30% Off Launch Sale (code PFD) | 30% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/ |
 | 2026-11-04 | Blue Guardian 30% Off CFD and Futures Accounts From $54 (code PFD) | 30% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/ |

@@ -18,12 +18,11 @@ Atlas Funded currently lists 43 deals with discount codes. The best current offe
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Atlas Funded Black Week: 40% Off Challenges
+## Most recent deal (ended): Atlas Funded Black Week: 40% Off Challenges
 
 - Deal last verified: 2026-11-22
-- Deal ends: 2026-11-23 18:59
+- Deal ends: 2026-11-23 18:59 (ended)
 - Discount: 40% Off
-- Discount code: BLACKWEEK
 - Applied to: challenges
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/
@@ -60,7 +59,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-22 | Atlas Funded Black Week: 40% Off Challenges | 40% Off | 2026-11-23 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
+| 2026-11-22 | Atlas Funded Black Week: 40% Off Challenges | 40% Off | 2026-11-23 18:59 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
 | 2026-11-20 | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% Off | 2026-11-23 | Black Friday | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
 | 2026-11-10 | Atlas Funded: 40% Off Evaluations From $25.80 | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/ |
 | 2026-11-02 | Atlas Funded 40% Off Futures Evaluations | 40% Off | 2026-11-09 (ended) | - | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/ |

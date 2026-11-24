@@ -1,18 +1,17 @@
 # Atlas Funded Black Week: 40% Off Challenges
 
-Atlas Funded is offering 40% off.
+Atlas Funded was offering 40% off.
 
 > Atlas Funded takes 40% Off challenge fees with 125% of the fee refunded, verified on 22 Nov 2026. The Black Week deal ends 23 November 2026.
 
 Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
 
 - Deal last verified: 2026-11-22
-- Deal ends: 2026-11-23 18:59
+- Deal ends: 2026-11-23 18:59 (ended)
 - Prop firm: Atlas Funded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - Summary: Atlas Funded's Black Week deal takes 40% Off challenge fees and adds a 125% fee refund, as verified on 22 Nov 2026. The offer ends 23 November 2026, so the window is short.
 - Discount: 40% Off
-- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
 - Applied to: challenges
 - Deal url: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/
 

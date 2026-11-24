@@ -13,7 +13,7 @@ QT Funded currently lists 65 deals with discount codes. The best current offer i
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: QT Funded
 - Deal last verified: 2026-11-16
-- Trustpilot score: 3.5/5 (13401 reviews)
+- Trustpilot score: 3.5/5 (13400 reviews)
 - Official web: qtfunded.com
 - Email: support@qtfunded.com
 - Address: London, United Kingdom
@@ -21,6 +21,33 @@ QT Funded currently lists 65 deals with discount codes. The best current offer i
 - Active deal url: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
+
+## QT Funded challenge account pricing
+
+The QT Funded discount code PFDDEAL offers up to 50% off eligible accounts. Select your account type and size below to view the discounted price.
+
+Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
+
+The pricing table covers 16 account options across the CFDs market. Prices shown include the discount applied using code PFDDEAL. Discounts may vary by account type and size.
+
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
+|---|---|---|---|---|---|---|
+| QT ONE | $5K | $110 | $55 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT ONE | $10K | $190 | $95 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT ONE | $25K | $350 | $175 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT ONE | $50K | $625 | $312.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT ONE | $100K | $1000 | $500 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $5K | $42.5 | $21.3 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $10K | $70 | $35 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $25K | $140 | $70 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $50K | $275 | $137.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $100K | $550 | $275 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT TWO | $200K | $1000 | $500 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT INSTANT | $5K | $75 | $37.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT INSTANT | $10K | $125 | $62.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT INSTANT | $25K | $230 | $115 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT INSTANT | $50K | $375 | $187.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| QT INSTANT | $100K | $750 | $375 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
 
 ## Current deal: QT Funded Black Friday: 60% Off, Free Account
 

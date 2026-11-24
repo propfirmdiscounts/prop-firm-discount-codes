@@ -1,11 +1,11 @@
 # WSFunded Discount Code
 
-WSFunded currently lists 63 deals with discount codes. Compare available promotions below to find the latest savings on WSFunded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+WSFunded currently lists 64 deals with discount codes. Compare available promotions below to find the latest savings on WSFunded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
 - Prop firm: WSFunded
-- Deal last verified: 2026-11-20
+- Deal last verified: 2026-11-23
 - Trustpilot score: 4.3/5 (5174 reviews)
 - Official web: wsfunded.com
 - Email: support@wsfunded.com
@@ -14,33 +14,41 @@ WSFunded currently lists 63 deals with discount codes. Compare available promoti
 - Active deal url: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-## Current deal: WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund
+## Current deal: WSFunded Black Friday: 50% Off + Free Reset
 
-- Deal last verified: 2026-11-20
+- Deal last verified: 2026-11-23
 - Deal ends: Limited time
-- Discount: 55% Off
-- Discount code: BFPACK
-- Applied to: WSFunded accounts
+- Discount: 50% Off
+- Discount code: BFRESET
+- Applied to: Challenges
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/
+- Deal url: https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/
 
 ## WSFunded deal FAQ
 
-**What does the pack include?**
+**What does the WSFunded booster include?**
 
-Three stated benefits under one code at WSFunded: 55% off, a 90/10 profit split and a 150% refund.
+50% off at checkout, so you pay half the price upfront, plus a free reset: one free replacement account if you lose your original in Phase 1.
 
-**What is the catch?**
+**When does the free reset trigger?**
 
-A maximum of 10 uses per person, inside a limited total number of uses. Once the total is gone, the offer ends; no date is stated.
+When the account is lost in Phase 1. The replacement is a second chance at the challenge under the same rules; losses after Phase 1 are not covered by the stated terms.
 
-**Are the refund's conditions stated?**
+**Are there limits on the code?**
 
-The announcement states the 150% refund as part of the pack but does not detail its trigger conditions. Check the deal page before buying.
+Yes. A maximum of 10 uses per person, with a limited number of redemptions overall. The announcement states no end date.
 
-**Does the discount change the trading risk?**
+**How do I apply the booster?**
 
-No. The 55% cut lowers the entry cost only; the split and refund are payout-side terms; the trading risk inside the account stays as it is.
+Enter the deal code at checkout to take 50% off. The free replacement follows from the same booster if the account is lost in Phase 1.
+
+**Does the reset change the challenge rules?**
+
+No. The replacement account runs under the same rules. The booster changes the price and adds a retry; it does not reduce trading risk.
+
+**What are the other boosters?**
+
+The announcement mentions 8 more boosters available for a limited time without detailing them. Their terms sit on the deal page.
 
 ## Deals (last 2 months, newest first)
 
@@ -48,6 +56,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | WSFunded Black Friday: 50% Off + Free Reset | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |
 | 2026-11-20 | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
 | 2026-11-20 | WSFunded: 60% Off Challenges From 2.5K to 25K | 60% Off | Limited time | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/ |
 | 2026-11-18 | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% Off | 2026-11-19 (ended) | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |

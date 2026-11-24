@@ -1,16 +1,18 @@
 # Prop Firm Deals & Limited-Time Offers Prop Firm Deals (2026)
 
-Limited-time prop firm deals that are not a straight code: 260 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
+Limited-time prop firm deals that are not a straight code: 262 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
 
-As of 2026-10-14, the biggest offers: 75% OFF at CK PropFirm, 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, and 60% OFF at Bitfunded.
+As of 2026-11-13, the biggest offers this month: 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, 60% OFF at Bitfunded, and 55% OFF at Bitfunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | FTMO | FTMO Black Friday: Up to 30% Off Challenges | 30% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-up-to-30-off-challenges/ |
+| 2026-11-23 | Top One Trader | Top One Trader: Profit Target 3% + 50% Off Fee | 50% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-profit-target-3-percent-activation-fee/ |
 | 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
 | 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 (ended) | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
-| 2026-11-17 | Finotive Funding | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
+| 2026-11-17 | Finotive Funding | Finotive Funding Launch Week: Win a PS5 With GTA VI | Prize Draw | 2026-11-23 13:00 (ended) | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/ |
 | 2026-11-17 | Top One Trader | Top One Trader Super Nova: Nova Entry for $1 | $1 Entry | 2026-11-24 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/ |
 | 2026-11-17 | Lark Funding | Lark Funding Black Friday: Buy 1, Get 3 | Buy 1 Get 3 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/lark-funding/lark-funding-black-friday-buy-1-get-3/ |
 | 2026-11-16 | Top One Trader | Top One Trader Black Friday: Up to 65% Off | 65% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/ |
@@ -36,8 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
 | 2026-09-01 | TradeDay | TradeDay $25k Evaluation Account Deal for $45 |  | Ended | No Code Required | https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/ |
 | 2026-08-16 | FundedNext | FundedNext Bundle Offer: 10% Off 2nd and 15% Off 3rd Stellar Account | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-stellar-bundle-discount-10-15-off/ |
-| 2026-08-03 | Apex Trader Funding | Apex Trader Funding: 90% Off Evaluations and $59 100K Accounts | 90% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-90-off-evaluations-59-100k/ |
-| 2026-07-24 | Trade The Pool | Trade The Pool: Upgraded $60K and $120K Flex Accounts | Account Upgrade | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/ |
 
 ## About this archive
 

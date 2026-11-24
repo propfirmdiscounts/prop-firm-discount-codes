@@ -1,11 +1,11 @@
 # FTUK Discount Code
 
-FTUK currently lists 74 deals with discount codes. Compare available promotions below to find the latest savings on FTUK challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FTUK currently lists 75 deals with discount codes. Compare available promotions below to find the latest savings on FTUK challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 
 - Prop firm: FTUK
-- Deal last verified: 2026-11-20
+- Deal last verified: 2026-11-23
 - Trustpilot score: 3.9/5 (807 reviews)
 - Official web: ftuk.com
 - Email: support@ftuk.com
@@ -14,36 +14,41 @@ FTUK currently lists 74 deals with discount codes. Compare available promotions 
 - Active deal url: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-## Current deal: FTUK Instant PRO Launch: 50% Off All Sizes
+## Current deal: FTUK 50% Off Every Instant Account – Black Friday
 
-- Deal last verified: 2026-11-20
+- Deal last verified: 2026-11-23
 - Deal ends: Limited time
 - Discount: 50% Off
-- Discount code: PRO50
-- Applied to: Instant PRO (all sizes, $5K-$200K)
-- Deal url: https://propfirmdiscount.com/deals/ftuk/ftuk-instant-pro-launch-50-off/
+- Discount code: BLACK50
+- Applied to: Instant Funding accounts, Instant PRO accounts
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-account-black-friday/
 
 ## FTUK deal FAQ
 
-**What is Instant PRO?**
+**What does the FTUK Black Friday offer include?**
 
-FTUK's new account: funded from day one, with no evaluation, no profit target and no time limit - and no consistency rule, so big days count in full.
+Every Instant account is 50% off: Instant Funding (from $55, no profit target) plus the new Instant PRO (from $99, no consistency rule), across sizes from $5K to $200K. Every order also gets a free retake.
 
-**What does the launch offer take off?**
+**How does the free retake work?**
 
-50% off every Instant PRO size at launch, from $99 for the $5K account to $1,349 for the $200K account - each exactly half its listed regular price.
+If your account fails, you get a free account at the same size. The retake is a second attempt on the same terms; it does not change the account's rules.
 
-**How are payouts described?**
+**How is the 50% applied?**
 
-As instant payouts with no fixed payout dates: a payout is requested and paid via Rise or crypto, per the firm's description, with a profit share of up to 90%.
+The announcement states the deal code is applied automatically. Check the discounted price shows on your order before you pay.
 
-**Is an end date stated for the launch pricing?**
+**Does the discount change the account rules?**
 
-No end date is stated; the pricing is presented as a launch offer, so its run is a deal-page check.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Does the launch discount change trading rules?**
+**What does every account include?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters. The no-consistency-rule design is the product's own term, not an effect of the discount.
+Per the announcement: funded from day 1, no profit target, no time limit, instant payouts, a profit split of up to 90%, across sizes from $5K to $200K.
+
+**When does the offer end?**
+
+The announcement states no end date for this Black Friday offer.
 
 ## Deals (last 2 months, newest first)
 
@@ -51,6 +56,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | FTUK 50% Off Every Instant Account – Black Friday | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-account-black-friday/ |
 | 2026-11-20 | FTUK Instant PRO Launch: 50% Off All Sizes | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-pro-launch-50-off/ |
 | 2026-11-17 | FTUK: 35% Off Flex Activation | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |
 | 2026-11-16 | FTUK Black Friday: 40% Off Instant + Free Retake | 40% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-early-black-friday-40-off-instant-retake/ |

@@ -1,12 +1,12 @@
 # Funded Elite Discount Code
 
-Funded Elite currently lists 36 deals with discount codes. The best current offer is code AFF1864062 for up to 10% off, checked November 2026 by the PropFirmDiscount team.
+Funded Elite currently lists 37 deals with discount codes. The best current offer is code AFF1864062 for up to 10% off, checked November 2026 by the PropFirmDiscount team.
 
 - Discount code: AFF1864062
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Elite
-- Deal last verified: 2026-11-05
+- Deal last verified: 2026-11-23
 - Trustpilot score: 4.0/5 (762 reviews)
 - Official web: fundedelite.com
 - Email: support@fundedelite.com
@@ -16,35 +16,41 @@ Funded Elite currently lists 36 deals with discount codes. The best current offe
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-elite/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Most recent deal (ended): Funded Elite 30% Off Atom Accounts
+## Current deal: Funded Elite Black Friday: Up to 60% Off + $1 Flash
 
-- Deal last verified: 2026-11-05
-- Deal ends: 2026-11-22 18:59 (ended)
-- Discount: 30% Off
-- Applied to: Atom accounts
-- Deal url: https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/
+- Deal last verified: 2026-11-23
+- Deal ends: 2026-11-30 18:59
+- Discount: 60% Off
+- Discount code: FRIDAY
+- Applied to: Flash Activation, all accounts (excluding Flash and ATOM), Instant Elite $300K and $400K, ATOM Challenge
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/
 
 ## Funded Elite deal FAQ
 
-**What does Funded Elite offer on Atom accounts?**
+**What does the Funded Elite Black Friday set include?**
 
-It cuts 30% off Atom accounts in November, with no minimum trading days, no minimum profitable days and no time limit. The cut lowers the upfront entry cost.
+Five components under one code: Flash Activation from $1 (one account $1, five accounts $5, free Market Maker Pack), 50% off all accounts excluding Flash and ATOM (two free Oracle Packs, Buy 2 Accounts Get 1 Free), 25% off Flash activation fees (free Whale Pack), 60% off Instant Elite on the $300K and $400K accounts (free Oracle Pack), 40% off the ATOM Challenge.
 
-**When does this Funded Elite offer end?**
+**How does Buy 2 Accounts, Get 1 Free work?**
 
-It ends November 22 at 6:59 PM EST, from the stated 23:59 UTC deadline. Every Atom account is discounted until then.
+Select all three eligible accounts at checkout to qualify for the free third account, inside the 50% off component. The 50% excludes Flash and ATOM accounts.
 
-**What bonus comes with an Atom Max Bundle in this Funded Elite offer?**
+**What does the $1 Flash Activation cover?**
 
-Buying an Atom Max Bundle adds a free Whale Pack and 6,000 credits, on top of the 30% cut. The bonus requires an Atom Max Bundle purchase.
+The $1 is the challenge entry price for one Flash account ($5 for five). The activation fee is payable after passing. Separately, Flash activation fees are 25% off, including qualifying challenges bought before the promotion.
 
-**What stays the same with this Funded Elite offer?**
+**How do I apply the offers?**
 
-The account picked stays the same, with the benefit as price, not a different account.
+Find the offer that suits you and enter the deal code at checkout before the set ends on 30 November 2026 at 23:59 UTC.
 
-**How do I get the Funded Elite discount code for this offer?**
+**Does the discount change the account rules?**
 
-Follow the Start here link at the end of this article to reach the deal page for the full offer details.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+
+**When does the set end?**
+
+The Black Friday promotional period runs 23-30 November 2026. All offers end 30 November at 23:59 UTC.
 
 ## Deals (last 2 months, newest first)
 
@@ -52,6 +58,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Funded Elite Black Friday: Up to 60% Off + $1 Flash | 60% Off | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/ |
 | 2026-11-05 | Funded Elite 30% Off Atom Accounts | 30% Off | 2026-11-22 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/ |
 | 2026-11-04 | Funded Elite 20% Off Activation Fee | 20% Off | 2026-11-22 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-20-off-activation-fee-november/ |
 | 2026-11-03 | Funded Elite November 55% Off Instant Elite Accounts | 55% Off | 2026-11-22 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-november-55-percent-off-accounts/ |

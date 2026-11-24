@@ -106,21 +106,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13272,
-            "title": "Launch Week PS5 Draw",
-            "offer_type": "deal",
-            "discount_value": "Prize Draw",
+            "deal_id": 13437,
+            "title": "65% Off Every Account",
+            "offer_type": "coupon",
+            "discount_value": "65%",
             "scope": [
-                "Finotive Funding Accounts (Challenge, Instant Or Pro)"
+                "Challenge Accounts, Instant Funding Accounts, Pro Accounts"
             ],
-            "date_published": "2026-11-17",
-            "date_exp": "2026-11-23 13:00",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-12-04 17:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/"
         },
         "deal_count": {
-            "total": 61,
-            "this_year": 35,
+            "total": 62,
+            "this_year": 36,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
@@ -234,7 +234,7 @@
         "prop_firm": "FundingTraders",
         "slug": "fundingtraders",
         "code": "PFD",
-        "discount": "50%",
+        "discount": "81%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
@@ -271,21 +271,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13418,
-            "title": "40% Off Pro and Lite",
+            "deal_id": 13452,
+            "title": "35% Off Three Programs This Week",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "35%",
             "scope": [
-                "Instant Funding Pro And Instant Funding Lite"
+                "If Micro Pro, If Micro Lite, One-Phase Pro"
             ],
-            "date_published": "2026-11-21",
+            "date_published": "2026-11-23",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/"
+            "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/"
         },
         "deal_count": {
-            "total": 38,
-            "this_year": 32,
+            "total": 40,
+            "this_year": 34,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/instantfunding",
@@ -313,7 +313,7 @@
             ],
             "date_published": "2026-11-19",
             "date_exp": "2026-11-26 23:59",
-            "event": "International Men's Day",
+            "event": "Black Friday",
             "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/"
         },
         "deal_count": {
@@ -337,21 +337,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13248,
-            "title": "50% Off Selected Plans, 7 Days",
+            "deal_id": 13461,
+            "title": "55% Off Selected Plans to Nov 29",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "55%",
             "scope": [
                 "Selected Plans"
             ],
-            "date_published": "2026-11-16",
-            "date_exp": "2026-11-23",
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-29",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/"
+            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/"
         },
         "deal_count": {
-            "total": 52,
-            "this_year": 32,
+            "total": 53,
+            "this_year": 33,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/goatfunded",
@@ -403,21 +403,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13081,
-            "title": "Flat 30% off all Stellar Instant accounts in November",
+            "deal_id": 13460,
+            "title": "Buy One Stellar, Get One Free",
             "offer_type": "coupon",
-            "discount_value": "30%",
+            "discount_value": "BOGO",
             "scope": [
-                "Stellar Instant Accounts In 2K, 5K, 10K And 20K Sizes"
+                "All Stellar Plans"
             ],
-            "date_published": "2026-11-01",
+            "date_published": "2026-11-23",
             "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-november-30-off-stellar-instant-accounts/"
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/"
         },
         "deal_count": {
-            "total": 34,
-            "this_year": 22,
+            "total": 35,
+            "this_year": 23,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundednext",
@@ -436,21 +436,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13282,
-            "title": "20% Off for New Customers",
+            "deal_id": 13439,
+            "title": "25% Off All Challenges",
             "offer_type": "coupon",
-            "discount_value": "20%",
+            "discount_value": "25%",
             "scope": [
-                "Perps Challenges (New Customers Only)"
+                "All Challenges, Fast 1-Step Forex, 24/7 Trading"
             ],
-            "date_published": "2026-11-20",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-30",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-25-off-all-challenges-black-friday/"
         },
         "deal_count": {
-            "total": 58,
-            "this_year": 44,
+            "total": 59,
+            "this_year": 45,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fortraders",
@@ -795,25 +795,25 @@
         "prop_firm": "Blue Guardian",
         "slug": "blue-guardian",
         "code": "PFD",
-        "discount": "30%",
+        "discount": "35%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13253,
-            "title": "30% Off Every Account",
+            "deal_id": 13455,
+            "title": "35% Off Everything This Black Friday",
             "offer_type": "coupon",
-            "discount_value": "30%",
+            "discount_value": "35%",
             "scope": [
-                "Every Account"
+                "All Futures And Cfd Accounts"
             ],
-            "date_published": "2026-11-16",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-30 18:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/"
         },
         "deal_count": {
-            "total": 33,
-            "this_year": 23,
+            "total": 34,
+            "this_year": 24,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/blueguardian",
@@ -828,25 +828,25 @@
         "prop_firm": "Top One Futures",
         "slug": "top-one-futures",
         "code": "PFD",
-        "discount": "65%",
+        "discount": "70%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13117,
-            "title": "Up to 65% off bundles, Ignite and Elite",
+            "deal_id": 13458,
+            "title": "Elite Access $39, Second Free",
             "offer_type": "coupon",
-            "discount_value": "65%",
+            "discount_value": "70%",
             "scope": [
-                "Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees"
+                "Ignite, Elite Daily, Elite Access Accounts"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "Limited time",
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-30",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/"
+            "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/"
         },
         "deal_count": {
-            "total": 13,
-            "this_year": 11,
+            "total": 14,
+            "this_year": 12,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/toponefutures",
@@ -964,21 +964,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13107,
-            "title": "30% off Atom accounts in November",
+            "deal_id": 13448,
+            "title": "Up to 60% Off Plus $1 Flash Entry",
             "offer_type": "coupon",
-            "discount_value": "30%",
+            "discount_value": "60%",
             "scope": [
-                "Atom Accounts"
+                "Flash Activation, All Accounts (Excluding Flash And Atom), Instant Elite $300K And $400K, Atom Challenge"
             ],
-            "date_published": "2026-11-05",
-            "date_exp": "2026-11-22 18:59 (ended)",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-30-off-atom-accounts-november/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-30 18:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/"
         },
         "deal_count": {
-            "total": 40,
-            "this_year": 31,
+            "total": 41,
+            "this_year": 32,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedelite",
@@ -1191,7 +1191,7 @@
         "prop_firm": "Lucid Trading",
         "slug": "lucid-trading",
         "code": "PFD",
-        "discount": "30%",
+        "discount": "35%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
@@ -1294,21 +1294,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13060,
-            "title": "Halloween Cut: 36% Off Every Package",
+            "deal_id": 13456,
+            "title": "29% Off All Packages, Nov 23-25",
             "offer_type": "coupon",
-            "discount_value": "36%",
+            "discount_value": "29%",
             "scope": [
                 "All Packages"
             ],
-            "date_published": "2026-10-29",
-            "date_exp": "2026-10-31 (ended)",
-            "event": "Halloween",
-            "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-25",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/"
         },
         "deal_count": {
-            "total": 29,
-            "this_year": 29,
+            "total": 30,
+            "this_year": 30,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
@@ -1492,21 +1492,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13221,
-            "title": "60% Off Instant - New Traders",
+            "deal_id": 13449,
+            "title": "60% Off Instant, 40% Off One Step",
             "offer_type": "coupon",
             "discount_value": "60%",
             "scope": [
-                "Instant Accounts, One Step Accounts - New Customers"
+                "Instant Accounts, One Step Accounts"
             ],
-            "date_published": "2026-11-12",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/"
+            "date_published": "2026-11-23",
+            "date_exp": "2026-11-30",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/"
         },
         "deal_count": {
-            "total": 5,
-            "this_year": 5,
+            "total": 6,
+            "this_year": 6,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/finotivefutures",

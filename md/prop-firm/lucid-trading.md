@@ -1,11 +1,11 @@
 # Lucid Trading Discount Code
 
-Lucid Trading currently lists 24 deals with discount codes. The best current offer is code PFD for 30% off, checked November 2026 by the PropFirmDiscount team.
+Lucid Trading currently lists 24 deals with discount codes. The best current offer is code PFD for 35% off, checked November 2026 by the PropFirmDiscount team.
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 
 - Discount code: PFD
-- Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Lucid Trading
 - Deal last verified: 2026-11-06
@@ -19,7 +19,7 @@ Lucid Trading currently lists 24 deals with discount codes. The best current off
 
 ## Lucid Trading challenge account pricing
 
-The Lucid Trading discount code PFD offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
+The Lucid Trading discount code PFD offers 35% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 
