@@ -1,6 +1,6 @@
 # Bullwaves Prime Discount Code
 
-Bullwaves Prime currently lists 19 deals with discount codes. The best current offer is code PFD for 10% off, checked November 2026 by the PropFirmDiscount team.
+The best current Bullwaves Prime discount is 10% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Bullwaves Prime currently has 24 deals (19 with discount codes).
 
 - Discount code: PFD
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

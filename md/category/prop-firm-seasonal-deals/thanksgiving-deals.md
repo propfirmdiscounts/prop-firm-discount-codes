@@ -1,4 +1,4 @@
-# Thanksgiving Prop Firm Discounts & Promo Codes Prop Firm Deals (2026)
+# Thanksgiving Prop Firm Discount & Promo Code Prop Firm Deals (2026)
 
 Thanksgiving prop firm deals: the US-holiday side of the November sale season, before Black Friday — 7 archived offers from 7 firms that ran a separate Thanksgiving promo. Most firms fold it into one long sale; for the wider list check the Black Friday archive.
 

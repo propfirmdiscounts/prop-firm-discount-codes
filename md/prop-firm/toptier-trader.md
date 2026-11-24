@@ -1,6 +1,6 @@
 # Toptier Trader Discount Code
 
-Toptier Trader currently lists 3 deals with discount codes. Compare available promotions below to find the latest savings on Toptier Trader challenge accounts, checked September 2025 by the PropFirmDiscount team.
+Toptier Trader currently lists 3 deals with discount code. Compare available promotions below to find the latest savings on Toptier Trader challenge accounts, checked September 2025 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

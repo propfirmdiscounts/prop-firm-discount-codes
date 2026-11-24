@@ -1,6 +1,6 @@
 # Titan Capital Discount Code
 
-Titan Capital currently lists 3 deals with discount codes. Compare available promotions below to find the latest savings on Titan Capital challenge accounts, checked October 2026 by the PropFirmDiscount team.
+Titan Capital currently lists 3 deals with discount code. Compare available promotions below to find the latest savings on Titan Capital challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 > At Titan Capital Markets, we’ve developed an innovative 1,2,3-step Evaluation Process tailored for aspiring traders. This process features a Challenge phase followed by a Verification phase, aimed at uncovering and nurturing trading talent. Upon successfully navigating this journey, you’ll have the chance to manage a Titan Capital Markets Funded Account with a balance of up to 200,000 USD. We’re committed to supporting you every step of the way as you strive for trading success.
 

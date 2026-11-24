@@ -1,6 +1,6 @@
 # Breakout Prop Discount Code
 
-Breakout Prop currently lists 5 deals with discount codes. The best current offer is code 3GVKFT for 5% off, checked November 2026 by the PropFirmDiscount team.
+The best current Breakout Prop discount is 5% off with code 3GVKFT at checkout, verified by the PropFirmDiscount team in November 2026. Breakout Prop currently has 6 deals (5 with discount codes).
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

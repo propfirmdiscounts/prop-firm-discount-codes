@@ -1,6 +1,6 @@
 # Tradexprop Discount Code
 
-Tradexprop currently lists 20 deals with discount codes. Compare available promotions below to find the latest savings on Tradexprop challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Tradexprop currently lists 21 deals (20 with discount codes). Compare available promotions below to find the latest savings on Tradexprop challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We are a modern proprietary trading firm providing a demo trading evaluation program. Traders can join the program with a minimal initial fee and showcase their trading abilities in a risk-free environment. Upon successful completion of the evaluation, they are eligible for a virtual profit split based on the virtual profits generated in their X Trader Account.
 

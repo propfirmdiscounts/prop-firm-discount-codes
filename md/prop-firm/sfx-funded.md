@@ -1,6 +1,6 @@
 # SFX Funded Discount Code
 
-SFX Funded currently lists 20 deals with discount codes. Compare available promotions below to find the latest savings on SFX Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+SFX Funded currently lists 31 deals (20 with discount codes). Compare available promotions below to find the latest savings on SFX Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Funding Traders Globally. Access the market via our 2 Phase Evaluation or get funded without evaluation through our Instant Funding. Manage up to $3.2MIL USD and receive up to 100% of profits generated. Your Talent, Our Capital, Your Profits.
 

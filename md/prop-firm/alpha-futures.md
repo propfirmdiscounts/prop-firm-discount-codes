@@ -1,6 +1,6 @@
 # Alpha Futures Discount Code
 
-Alpha Futures currently lists 37 deals with discount codes. Compare available promotions below to find the latest savings on Alpha Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Alpha Futures currently lists 38 deals (37 with discount codes). Compare available promotions below to find the latest savings on Alpha Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success. We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills. Join Alpha Futures today and unlock your full trading potential!
 

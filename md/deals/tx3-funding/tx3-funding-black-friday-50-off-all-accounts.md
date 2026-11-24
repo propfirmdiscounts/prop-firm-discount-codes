@@ -20,7 +20,7 @@ Apply code PFD1 at checkout for 25% off any TX3 Funding challenge account — ve
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from TX3 Funding
+## Recent deal from TX3 Funding
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

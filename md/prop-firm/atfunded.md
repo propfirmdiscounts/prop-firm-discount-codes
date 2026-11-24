@@ -1,6 +1,6 @@
 # ATFunded Discount Code
 
-ATFunded currently lists 26 deals with discount codes. Compare available promotions below to find the latest savings on ATFunded challenge accounts, checked May 2026 by the PropFirmDiscount team.
+ATFunded currently lists 26 deals with discount code. Compare available promotions below to find the latest savings on ATFunded challenge accounts, checked May 2026 by the PropFirmDiscount team.
 
 > ATFunded is a proprietary trading firm supported by ATFX, and aims to provide skilled traders with a practical and sustainable environment.
 

@@ -1,6 +1,6 @@
 # Fintokei Discount Code
 
-Fintokei currently lists 29 deals with discount codes. Compare available promotions below to find the latest savings on Fintokei challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Fintokei currently lists 31 deals (29 with discount codes). Compare available promotions below to find the latest savings on Fintokei challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Fintokei stands as the leading modern proprietary trading firm in Japan, driven by global ambitions. We are dedicated to educating and empowering ambitious and focused traders, rewarding their hard work with well-capitalized trading accounts via our ProTrader and SwiftTrader programs.
 

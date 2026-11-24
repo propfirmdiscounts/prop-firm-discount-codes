@@ -1,6 +1,6 @@
 # The Concept Trading Discount Code
 
-The Concept Trading currently lists 47 deals with discount codes. Compare available promotions below to find the latest savings on The Concept Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
+The Concept Trading currently lists 47 deals with discount code. Compare available promotions below to find the latest savings on The Concept Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: The Concept Trading
 - Deal last verified: 2026-11-17

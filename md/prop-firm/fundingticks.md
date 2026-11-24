@@ -1,6 +1,6 @@
 # FundingTicks Discount Code
 
-FundingTicks currently lists 2 deals with discount codes. Compare available promotions below to find the latest savings on FundingTicks challenge accounts, checked December 2025 by the PropFirmDiscount team.
+FundingTicks currently lists 4 deals (2 with discount codes). Compare available promotions below to find the latest savings on FundingTicks challenge accounts, checked December 2025 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

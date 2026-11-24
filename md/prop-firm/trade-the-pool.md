@@ -1,6 +1,6 @@
 # Trade The Pool Discount Code
 
-Trade The Pool currently lists 1 deals with discount codes. The best current offer is code WWS4GW for 10% off, checked November 2026 by the PropFirmDiscount team.
+The best current Trade The Pool discount is 10% off with code WWS4GW at checkout, verified by the PropFirmDiscount team in November 2026. Trade The Pool currently has 9 deals (1 with discount codes).
 
 > Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016. Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry. A similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.
 

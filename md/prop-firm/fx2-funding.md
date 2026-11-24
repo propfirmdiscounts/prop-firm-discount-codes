@@ -1,6 +1,6 @@
 # FX2 Funding Discount Code
 
-FX2 Funding currently lists 8 deals with discount codes. Compare available promotions below to find the latest savings on FX2 Funding challenge accounts, checked February 2026 by the PropFirmDiscount team.
+FX2 Funding currently lists 8 deals with discount code. Compare available promotions below to find the latest savings on FX2 Funding challenge accounts, checked February 2026 by the PropFirmDiscount team.
 
 > FX2 Funding is a proprietary trading platform that supports highly skilled yet undercapitalized traders in growing their wealth. Established in 2022, we have quickly become a trusted partner for traders looking to elevate their trading careers. We provide expansive funded accounts to traders who demonstrate advanced currency-trading acumen, equipping them with a comprehensive trading toolkit, world-class support, and a market-leading profit split. Joining us means becoming part of our elite global community of 5000+ funded traders. FX2 Funding is the next-gen prop firm powering the profits of traders from over 150 countries. Save up to 45% on our best-selling program with the code NEWLOOK45, valid until February 15th, 2025.
 

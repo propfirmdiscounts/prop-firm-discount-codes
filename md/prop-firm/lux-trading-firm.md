@@ -1,6 +1,6 @@
 # Lux Trading Firm Discount Code
 
-Lux Trading Firm currently lists 1 deal with a discount code. Compare available promotions below to find the latest savings on Lux Trading Firm challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Lux Trading Firm currently lists 5 deals (1 with discount codes). Compare available promotions below to find the latest savings on Lux Trading Firm challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: Lux Trading Firm
 - Deal last verified: 2026-11-19

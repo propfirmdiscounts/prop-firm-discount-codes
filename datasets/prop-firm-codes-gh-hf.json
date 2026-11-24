@@ -139,21 +139,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13311,
-            "title": "35% Off $25K-$50K Accounts",
+            "deal_id": 13464,
+            "title": "40% Off Every Instant Funding Size",
             "offer_type": "coupon",
-            "discount_value": "35%",
+            "discount_value": "40%",
             "scope": [
-                "Accounts Of $25K-$50K"
+                "Instant Funding Accounts, All Sizes"
             ],
-            "date_published": "2026-11-22",
-            "date_exp": "Limited time",
+            "date_published": "2026-11-24",
+            "date_exp": "2026-11-25",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/"
+            "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/"
         },
         "deal_count": {
-            "total": 66,
-            "this_year": 47,
+            "total": 67,
+            "this_year": 48,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
@@ -469,21 +469,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13273,
-            "title": "Black Friday 35% Off",
+            "deal_id": 13469,
+            "title": "40% Off, 200% Fee Refund Terms",
             "offer_type": "coupon",
-            "discount_value": "35%",
+            "discount_value": "40%",
             "scope": [
-                "Every Account"
+                "Every Account; Refund On Cfd Accounts"
             ],
-            "date_published": "2026-11-17",
+            "date_published": "2026-11-24",
             "date_exp": "Limited time",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/"
+            "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/"
         },
         "deal_count": {
-            "total": 66,
-            "this_year": 32,
+            "total": 67,
+            "this_year": 33,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/aquafunded",
@@ -1228,21 +1228,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13423,
-            "title": "New User Offer: 20% Off",
+            "deal_id": 13468,
+            "title": "$29 Challenge, Four Free Add-Ons",
             "offer_type": "coupon",
-            "discount_value": "20%",
+            "discount_value": "$29",
             "scope": [
-                "All 1-Step And 2-Step Challenges, New Users"
+                "$5,000 Challenge"
             ],
-            "date_published": "2026-11-21",
+            "date_published": "2026-11-24",
             "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/"
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/"
         },
         "deal_count": {
-            "total": 27,
-            "this_year": 10,
+            "total": 28,
+            "this_year": 11,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/forexive",
@@ -1327,21 +1327,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13289,
-            "title": "50% Off All Accounts",
+            "deal_id": 13467,
+            "title": "Turbo Challenge at $0 Upfront",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "$0 Entry",
             "scope": [
-                "All Accounts"
+                "Turbo Challenge, All Sizes"
             ],
-            "date_published": "2026-11-19",
+            "date_published": "2026-11-24",
             "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/"
+            "post_url": "https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/"
         },
         "deal_count": {
-            "total": 11,
-            "this_year": 6,
+            "total": 12,
+            "this_year": 7,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/directfundedtrader",
@@ -1521,25 +1521,25 @@
         "prop_firm": "Atlas Funded",
         "slug": "atlas-funded",
         "code": "PFD",
-        "discount": "50%",
-        "is_global": 0,
+        "discount": "45%",
+        "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13427,
-            "title": "40% Off Challenges Plus Fee Back",
+            "deal_id": 13466,
+            "title": "45% Off Evaluations, 125% Fee Back",
             "offer_type": "coupon",
-            "discount_value": "40%",
+            "discount_value": "45%",
             "scope": [
-                "Challenges"
+                "Evaluations, Instant Zero"
             ],
-            "date_published": "2026-11-22",
-            "date_exp": "2026-11-23 18:59 (ended)",
+            "date_published": "2026-11-24",
+            "date_exp": "2026-11-26",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/"
+            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/"
         },
         "deal_count": {
-            "total": 43,
-            "this_year": 18,
+            "total": 44,
+            "this_year": 19,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/atlasfunded",

@@ -1,6 +1,6 @@
 # Hantec Trader Discount Code
 
-Hantec Trader currently lists 32 deals with discount codes. Compare available promotions below to find the latest savings on Hantec Trader challenge accounts, checked October 2026 by the PropFirmDiscount team.
+Hantec Trader currently lists 35 deals (32 with discount codes). Compare available promotions below to find the latest savings on Hantec Trader challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 > RZR Funded provides funded trading programs designed to give aspiring traders access to virtual capital and the opportunity to earn rewards through simulated trading. Our 1-Step, 2-Step, 3-Step, and various Instant Funding programs offer balances of up to $200,000, along with access to premium educational resources and a range of trader benefits.
 

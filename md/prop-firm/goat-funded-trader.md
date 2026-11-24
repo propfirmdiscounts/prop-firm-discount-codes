@@ -1,6 +1,6 @@
 # Goat Funded Trader Discount Code
 
-Goat Funded Trader currently lists 50 deals with discount codes. The best current offer is code CSV for 35% off, checked November 2026 by the PropFirmDiscount team.
+The best current Goat Funded Trader discount is 35% off with code CSV at checkout, verified by the PropFirmDiscount team in November 2026. Goat Funded Trader currently has 53 deals (50 with discount codes).
 
 - Discount code: CSV
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

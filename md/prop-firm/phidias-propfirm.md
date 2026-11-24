@@ -1,6 +1,6 @@
 # Phidias Propfirm Discount Code
 
-Phidias Propfirm currently lists 41 deals with discount codes. The best current offer is code PFD for 85% off, checked November 2026 by the PropFirmDiscount team.
+The best current Phidias Propfirm discount is 85% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Phidias Propfirm currently has 41 deals with discount codes.
 
 - Discount code: PFD
 - Discount: 85% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

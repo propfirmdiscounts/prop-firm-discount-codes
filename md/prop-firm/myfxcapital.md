@@ -1,6 +1,6 @@
 # MyFxCapital Discount Code
 
-MyFxCapital currently lists 3 deals with discount codes. Compare available promotions below to find the latest savings on MyFxCapital challenge accounts, checked December 2025 by the PropFirmDiscount team.
+MyFxCapital currently lists 3 deals with discount code. Compare available promotions below to find the latest savings on MyFxCapital challenge accounts, checked December 2025 by the PropFirmDiscount team.
 
 > MyFxCapital is a Forex Prop firm committed to providing opportunities and resources for traders to excel in the financial market. Our team of traders, financial experts, and technology enthusiasts work tirelessly to deliver the best solutions for new and seasoned traders. We developed a unique 2-Step Evaluation system for discovering new talent and Direct Funding accounts for veteran traders.
 

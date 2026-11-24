@@ -1,6 +1,6 @@
 # FundingTraders Discount Code
 
-FundingTraders currently lists 100 deals with discount codes. The best current offer is code PFD for 81% off, checked November 2026 by the PropFirmDiscount team.
+The best current FundingTraders discount is 81% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. FundingTraders currently has 100 deals with discount codes.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere. Led by a veteran Wall Street Trader.
 

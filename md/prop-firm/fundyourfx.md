@@ -1,6 +1,6 @@
 # FundYourFX Discount Code
 
-FundYourFX currently lists 53 deals with discount codes. Compare available promotions below to find the latest savings on FundYourFX challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FundYourFX currently lists 56 deals (53 with discount codes). Compare available promotions below to find the latest savings on FundYourFX challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: FundYourFX
 - Deal last verified: 2026-11-23

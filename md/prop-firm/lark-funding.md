@@ -1,6 +1,6 @@
 # Lark Funding Discount Code
 
-Lark Funding currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on Lark Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Lark Funding currently lists 26 deals (18 with discount codes). Compare available promotions below to find the latest savings on Lark Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Demo Prop Trading. Minus The Nonsense.
 

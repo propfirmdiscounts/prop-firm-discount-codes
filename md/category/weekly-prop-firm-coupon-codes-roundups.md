@@ -1,12 +1,12 @@
-# Weekly Prop Firm Coupon Codes & Deals Articles (2026)
+# Weekly Prop Firm Coupon Code & Deal Articles (2026)
 
 Stay updated with our weekly prop firm coupon codes, exclusive discounts, and latest deals. Explore weekly roundups featuring active promotions from leading prop firms and discover new opportunities to save on trading challenges and funded accounts.
 
 | Published | Article | Link |
 |---|---|---|
-| 2026-11-21 | Weekend Black Friday Prop Firm Deals Recap: 16-22 Nov 2026 – BOGOs, Instant Launches and a 90% Off Ceiling | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-recap-2026-w47/ |
-| 2026-11-15 | Prop Firm Weekly Deals Roundup: 9-15 Nov 2026 – Black Friday Takes the Board | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w46/ |
-| 2026-11-08 | Prop Firm Deals of the Week (Nov 2-8, 2026): 75 Coupons, Diwali and Black Friday Offers | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w45/ |
+| 2026-11-21 | Weekend Black Friday Prop Firm Deal Recap: 16-22 Nov 2026 – BOGOs, Instant Launches and a 90% Off Ceiling | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-recap-2026-w47/ |
+| 2026-11-15 | Prop Firm Weekly Deal Roundup: 9-15 Nov 2026 – Black Friday Takes the Board | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w46/ |
+| 2026-11-08 | Prop Firm Deal of the Week (Nov 2-8, 2026): 75 Coupons, Diwali and Black Friday Offers | https://propfirmdiscount.com/weekly-roundups/prop-firm-weekly-deals-roundup-2026-w45/ |
 ## About this archive
 
 ### Weekly Prop Firm Coupon Codes and Deals

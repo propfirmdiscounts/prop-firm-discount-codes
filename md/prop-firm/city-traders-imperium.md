@@ -1,6 +1,6 @@
 # City Traders Imperium (CTI) Discount Code
 
-City Traders Imperium (CTI) currently lists 58 deals with discount codes. Compare available promotions below to find the latest savings on City Traders Imperium (CTI) challenge accounts, checked November 2026 by the PropFirmDiscount team.
+City Traders Imperium (CTI) currently lists 60 deals (58 with discount codes). Compare available promotions below to find the latest savings on City Traders Imperium (CTI) challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 

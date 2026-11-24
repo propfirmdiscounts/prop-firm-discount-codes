@@ -18,7 +18,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from We Get Funded
+## Recent deal from We Get Funded
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

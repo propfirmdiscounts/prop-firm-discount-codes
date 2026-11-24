@@ -20,7 +20,7 @@ Apply code PFDDEAL at checkout for 25% off any Finotive Futures challenge accoun
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Finotive Futures
+## Recent deal from Finotive Futures
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

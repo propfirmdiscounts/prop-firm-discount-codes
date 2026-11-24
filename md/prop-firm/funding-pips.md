@@ -1,6 +1,6 @@
 # FundingPips Discount Code
 
-FundingPips currently lists 21 deals with discount codes. Compare available promotions below to find the latest savings on FundingPips challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FundingPips currently lists 25 deals (21 with discount codes). Compare available promotions below to find the latest savings on FundingPips challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > At FundingPips, we don't just elevate traders. We build them. Founded with one mission: create a transparent environment where talent is recognized, performance is rewarded, and growth never stops. Trusted by 3M+ traders across 195 countries, with $324M+ in rewards distributed and a Zero Reward Denial Policy that puts traders first. Your trading journey is more than a challenge. It’s the beginning of a career. Your trading career starts here.
 

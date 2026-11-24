@@ -20,7 +20,7 @@ Apply code PFD at checkout for 10% off any ThinkCapital challenge account — ve
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from ThinkCapital
+## Recent deal from ThinkCapital
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

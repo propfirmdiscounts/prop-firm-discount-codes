@@ -18,7 +18,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Phidias Propfirm
+## Recent deal from Phidias Propfirm
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

@@ -20,7 +20,7 @@ Apply code FXIFY2WRIVW at checkout for 10% off any FXIFY challenge account — v
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from FXIFY
+## Recent deal from FXIFY
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

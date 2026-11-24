@@ -1,4 +1,4 @@
-# Christmas Prop Firm Deals & Holiday Promo Codes Prop Firm Deals (2026)
+# Christmas Prop Firm Deal & Holiday Promo Code Prop Firm Deals (2026)
 
 Christmas and end-of-year prop firm sales: 141 coupon codes on challenges, evaluations and resets from 65 firms, including the January-push promos firms launch to catch traders starting the new year.
 

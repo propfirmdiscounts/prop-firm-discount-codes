@@ -1,4 +1,4 @@
-# Valentine Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
+# Valentine Prop Firm Deal & Discount Code Prop Firm Deals (2026)
 
 Valentine's Day prop firm deals: 56 February promo codes on challenges, evaluations and resets from 49 firms — a smaller, cleaner list than the November sale, and often the last discount before firms hold price into Q2.
 

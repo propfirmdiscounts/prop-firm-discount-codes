@@ -20,7 +20,7 @@ Apply code PFD at checkout for 20% off any Instant Funding challenge account —
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Instant Funding
+## Recent deal from Instant Funding
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

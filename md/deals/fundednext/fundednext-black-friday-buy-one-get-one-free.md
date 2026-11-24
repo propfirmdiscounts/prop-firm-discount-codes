@@ -20,7 +20,7 @@ Apply code PFDC at checkout for 20% off any FundedNext challenge account — ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from FundedNext
+## Recent deal from FundedNext
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

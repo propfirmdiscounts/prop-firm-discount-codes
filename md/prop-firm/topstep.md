@@ -1,6 +1,6 @@
 # Topstep Discount Code
 
-Topstep currently lists 7 deals with discount codes. Compare available promotions below to find the latest savings on Topstep challenge accounts, checked October 2026 by the PropFirmDiscount team.
+Topstep currently lists 8 deals (7 with discount codes). Compare available promotions below to find the latest savings on Topstep challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 - Prop firm: Topstep
 - Deal last verified: 2026-10-15

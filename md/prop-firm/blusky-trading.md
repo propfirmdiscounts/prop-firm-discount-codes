@@ -1,6 +1,6 @@
 # BluSky Trading Discount Code
 
-BluSky Trading currently lists 45 deals with discount codes. Compare available promotions below to find the latest savings on BluSky Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
+BluSky Trading currently lists 47 deals (45 with discount codes). Compare available promotions below to find the latest savings on BluSky Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We fund and grow day traders.  Those other guys want you to fail. We want you to succeed. Trade our company's live accounts and receive up to 90% of profits.
 

@@ -1,6 +1,6 @@
 # Earn2Trade Discount Code
 
-Earn2Trade currently lists 17 deals with discount codes. The best current offer is code PFD for 50% off, checked November 2026 by the PropFirmDiscount team.
+The best current Earn2Trade discount is 50% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Earn2Trade currently has 19 deals (17 with discount codes).
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 

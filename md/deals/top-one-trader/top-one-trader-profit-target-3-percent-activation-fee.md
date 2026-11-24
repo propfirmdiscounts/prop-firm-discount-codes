@@ -17,7 +17,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Top One Trader
+## Recent deal from Top One Trader
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

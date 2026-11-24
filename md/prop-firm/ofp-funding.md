@@ -1,6 +1,6 @@
 # OFP Funding Discount Code
 
-OFP Funding currently lists 58 deals with discount codes. Compare available promotions below to find the latest savings on OFP Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
+OFP Funding currently lists 59 deals (58 with discount codes). Compare available promotions below to find the latest savings on OFP Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: OFP Funding
 - Deal last verified: 2026-11-23

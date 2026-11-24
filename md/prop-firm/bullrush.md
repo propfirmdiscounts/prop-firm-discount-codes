@@ -1,6 +1,6 @@
 # BullRush Prop Discount Code
 
-BullRush Prop currently lists 7 deals with discount codes. The best current offer is code 7XTG8N for 5% off, checked November 2026 by the PropFirmDiscount team.
+The best current BullRush Prop discount is 5% off with code 7XTG8N at checkout, verified by the PropFirmDiscount team in November 2026. BullRush Prop currently has 8 deals (7 with discount codes).
 
 > BullRush is a multi participant trading and sports picking competition platform. Users from around the world compete in trading tournaments, sports picking competitions, and challenges for cash and other prizes.  Our trading  challenges are unique as we offer instant cash prizes to users who pass them, as well as offering the first and only prop trading firm that puts users on a path to being a verifiable A-book trader.
 

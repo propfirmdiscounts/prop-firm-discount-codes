@@ -1,6 +1,6 @@
 # My Funded Futures Discount Code
 
-My Funded Futures currently lists 31 deals with discount codes. Compare available promotions below to find the latest savings on My Funded Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
+My Funded Futures currently lists 32 deals (31 with discount codes). Compare available promotions below to find the latest savings on My Funded Futures challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > My Funded Futures is a trader-first futures prop firm built around what matters most: clear rules, reliable payouts, flexible plans, and a real path to live capital. More than 100,000 traders have chosen MFFU, with access to zero activation fees, no daily loss limit on most plans, profit splits up to 90%, and daily payout options. Around 80% of eligible payout requests are approved automatically in under a second—because traders should be able to count on getting paid without unnecessary delays or guesswork. In an industry that can change overnight, we are focused on building something traders can rely on for the long run. That means prioritizing stability, communicating clearly, and continuing to put the trader experience first. Raise your standard. Trade MFFU.
 

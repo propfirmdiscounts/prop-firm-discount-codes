@@ -20,7 +20,7 @@ Apply code PFD at checkout for 2% off any Funding Your Trades challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Funding Your Trades
+## Recent deal from Funding Your Trades
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

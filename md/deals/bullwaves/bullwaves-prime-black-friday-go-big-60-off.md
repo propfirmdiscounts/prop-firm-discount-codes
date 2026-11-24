@@ -20,7 +20,7 @@ Apply code PFD at checkout for 10% off any Bullwaves Prime challenge account —
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Bullwaves Prime
+## Recent deal from Bullwaves Prime
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

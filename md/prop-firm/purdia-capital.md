@@ -1,6 +1,6 @@
 # Purdia Capital Discount Code
 
-Purdia Capital currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on Purdia Capital challenge accounts, checked October 2026 by the PropFirmDiscount team.
+Purdia Capital currently lists 6 deals with discount code. Compare available promotions below to find the latest savings on Purdia Capital challenge accounts, checked October 2026 by the PropFirmDiscount team.
 
 > Purdia Capital is an online proprietary futures trading firm, offering funding, support, trader education, and resources to futures traders. We support day trading a wide range of futures products. Purdia Capital is a leading proprietary futures trading firm that stands out by prioritizing individual trader growth and success. Unlike traditional online funding firms, Purdia Capital is committed to fostering a close partnership with each trader, offering personalized 1:1 risk management and coaching sessions. The firm caters to both newcomers in the futures trading world and more experienced traders, guiding them through the complexities of the markets with confidence and skill.
 

@@ -1,6 +1,6 @@
 # FunderPro Discount Code
 
-FunderPro currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on FunderPro challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FunderPro currently lists 19 deals (18 with discount codes). Compare available promotions below to find the latest savings on FunderPro challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > FunderPro is a prop trading firm looking to empower skilled traders globally. Join our funded trader program and manage up to $200k in Funds.
 

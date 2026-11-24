@@ -20,7 +20,7 @@ Apply code PFDDEAL at checkout for 50% off any QT Funded challenge account — v
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from QT Funded
+## Recent deal from QT Funded
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

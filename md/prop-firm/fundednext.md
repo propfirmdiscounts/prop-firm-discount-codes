@@ -1,6 +1,6 @@
 # FundedNext Discount Code
 
-FundedNext currently lists 33 deals with discount codes. The best current offer is code PFDC for 20% off, checked November 2026 by the PropFirmDiscount team.
+The best current FundedNext discount is 20% off with code PFDC at checkout, verified by the PropFirmDiscount team in November 2026. FundedNext currently has 35 deals (33 with discount codes).
 
 - Discount code: PFDC
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

@@ -1,6 +1,6 @@
 # TradeDay Discount Code
 
-TradeDay currently lists 5 deals with discount codes. Compare available promotions below to find the latest savings on TradeDay challenge accounts, checked November 2026 by the PropFirmDiscount team.
+TradeDay currently lists 6 deals (5 with discount codes). Compare available promotions below to find the latest savings on TradeDay challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > TradeDay is a leading platform for traders looking to get funding for their trading. Join our program and get your day trading evaluated. Pass our evaluation and we guarantee to open a real trading account, with real capital, for you to trade. We then split the profits you make. Futures traders are joining TradeDay because we care about you succeeding. We provide institution-grade tools, daily research, daily meetings, free coaching, webinars, and hours and hours of video content. All of this is designed to help you find your edge in the market. TradeDay is owned and managed by James Thorpe and Steve Miley, both trading industry veterans from proprietary trading, hedge fund, and the Investment banking world. Our team is highly experienced in trading and we know the pitfalls, the challenges, and what it takes to succeed in trading. When you pass our evaluation we fund you with our capital, this means we are aligned. You make money we make money, and we will do what it takes to help you succeed. Come and check out TradeDay and see if you have what it takes to become a funded trader.
 

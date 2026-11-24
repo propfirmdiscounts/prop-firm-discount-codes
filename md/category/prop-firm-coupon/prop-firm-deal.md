@@ -1,4 +1,4 @@
-# Prop Firm Deals & Limited-Time Offers Prop Firm Deals (2026)
+# Prop Firm Deal & Limited-Time Offers Prop Firm Deals (2026)
 
 Limited-time prop firm deals that are not a straight code: 262 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
 

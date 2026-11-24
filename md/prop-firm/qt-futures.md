@@ -1,6 +1,6 @@
 # QT Futures Discount Code
 
-QT Futures currently lists 3 deals with discount codes. The best current offer is code PFDDEAL for 50% off, checked November 2026 by the PropFirmDiscount team.
+The best current QT Futures discount is 50% off with code PFDDEAL at checkout, verified by the PropFirmDiscount team in November 2026. QT Futures currently has 3 deals with discount codes.
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding. We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively. At QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.
 

@@ -1,6 +1,6 @@
 # AquaFutures Discount Code
 
-AquaFutures currently lists 13 deals with discount codes. Compare available promotions below to find the latest savings on AquaFutures challenge accounts, checked June 2026 by the PropFirmDiscount team.
+AquaFutures currently lists 15 deals (13 with discount codes). Compare available promotions below to find the latest savings on AquaFutures challenge accounts, checked June 2026 by the PropFirmDiscount team.
 
 > At AquaFunded, we pride ourselves on being a leading prop firm dedicated to transforming trader’s aspirations into reality. With a commitment to transparency and unwavering support, we provide funded accounts, empowering individuals to navigate the financial markets with confidence. Join our community where expertise meets opportunity, and together, we chart a course to financial success.
 

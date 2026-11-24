@@ -1,6 +1,6 @@
 # We Get Funded Discount Code
 
-We Get Funded currently lists 23 deals with discount codes. Compare available promotions below to find the latest savings on We Get Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+We Get Funded currently lists 23 deals with discount code. Compare available promotions below to find the latest savings on We Get Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > WeGetFunded is an innovative French prop firm, created by Traders for Traders. We offer a unique experience, combining flexibility and growth opportunities tailored to every trader profile. Our challenges, available in one step or two steps, are accessible on a modern and responsive platform, ensuring optimal conditions for your progress. Additionally, we offer the possibility to be funded up to $800,000. Join a dynamic community and take the next step in your trading journey with WeGetFunded.
 

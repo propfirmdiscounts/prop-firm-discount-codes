@@ -1,6 +1,6 @@
 # Blueberry Futures Discount Code
 
-Blueberry Futures currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on Blueberry Futures challenge accounts, checked April 2026 by the PropFirmDiscount team.
+Blueberry Futures currently lists 6 deals with discount code. Compare available promotions below to find the latest savings on Blueberry Futures challenge accounts, checked April 2026 by the PropFirmDiscount team.
 
 - Prop firm: Blueberry Futures
 - Deal last verified: 2026-04-27

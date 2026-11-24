@@ -20,7 +20,7 @@ Apply code PFD at checkout for 30% off any Klein Funding challenge account — v
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Klein Funding
+## Recent deal from Klein Funding
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

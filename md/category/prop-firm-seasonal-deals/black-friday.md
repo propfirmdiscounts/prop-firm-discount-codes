@@ -1,13 +1,20 @@
-# Black Friday Prop Firm Discount Codes & Deals Prop Firm Deals (2026)
+# Black Friday Prop Firm Discount Code & Deal Prop Firm Deals (2026)
 
-Black Friday prop firm deals: the deepest discounts of the trading year, 256 archived offers from 96 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
+Black Friday prop firm deals: the deepest discounts of the trading year, 263 archived offers from 96 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
 
-As of 2026-11-23, the biggest offers this month: 80% OFF with code FRIDAY26 at Alpha Funded, 70% OFF with code PFD at Top One Futures, 60% OFF with code BLACKFRIDAY at Finotive Futures, 55% OFF with code BLACKFRIDAY55 at Goat Funded Trader, and 50% OFF at Top One Trader.
+As of 2026-11-23, the biggest offers this month: 70% OFF with code PFD at Top One Futures, 55% OFF with code BLACKFRIDAY55 at Goat Funded Trader, 45% OFF with code BFWEEK at Atlas Funded, 40% OFF with code BLACKFRIDAY at AquaFunded, and 40% OFF with code INSTANT40 at Funded Trading Plus.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Blueberry Funded | Blueberry Funded 25% Off Prime + Free Reset – Black Friday | 25% OFF | 2026-11-29 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/ |
+| 2026-11-24 | AquaFunded | AquaFunded Mega Sale: 40% Off Every Account | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/ |
+| 2026-11-24 | Forexive | Forexive Black Friday: $5,000 Challenge for $29 | $29 | Limited time | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/ |
+| 2026-11-24 | Atlas Funded | Atlas Funded Black Friday Week: 45% Off, 125% Back | 45% OFF | 2026-11-26 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/ |
+| 2026-11-24 | Maven Trading | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |
+| 2026-11-24 | Funded Trading Plus | Funded Trading Plus Black Friday: 40% Off Instant | 40% OFF | 2026-11-25 | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |
+| 2026-11-24 | WSFunded | WSFunded Black Friday: 25% Off Instant, Second Free | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/ |
 | 2026-11-23 | Goat Funded Trader | Goat Funded Trader Black Friday: 55% Off | 55% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/ |
 | 2026-11-23 | FundedNext | FundedNext Black Friday: Buy One Stellar, Get One Free | BOGO | Limited time | - | https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/ |
 | 2026-11-23 | FTMO | FTMO Black Friday: Up to 30% Off Challenges | 30% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-up-to-30-off-challenges/ |
@@ -151,13 +158,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-25 | Earnex Prime | Earnex Prime Black Friday Sale: Up to 60% OFF + Bonus Accounts | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/earnex/earnex-prime-black-friday-60-off-bonus/ |
 | 2025-11-25 | Finotive Funding | Finotive Funding Black Friday Deal: 30% OFF Site-Wide (Extra 25% with code) – Up to 55% OFF | 30% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-30-off-deal/ |
 | 2025-11-25 | Seacrest Markets | Seacrest Markets Black Friday Deal: 30% Off + Triple Rewards | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/ |
-| 2025-11-25 | The5ers | The5ers Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/ |
-| 2025-11-25 | Lux Trading Firm | Lux Trading Firm Black Friday Deal: 25% OFF Elite Package + Mentoring | 25% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-deal-25-off/ |
-| 2025-11-24 | Equity Edge | Equity Edge Black Friday: 25K Instant Account for Only $29 | Only $29 | Ended | - | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-25k-instant-account-29/ |
-| 2025-11-24 | AquaFunded | AquaFunded Black Friday Offer: 50% OFF All Accounts + 150% Refund | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-50-off-150-refund/ |
-| 2025-11-24 | Alpha Futures | Alpha Futures Black Friday Sale: 25% OFF Standard, Advanced & Zero Accounts | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-25-off-all-accounts/ |
-| 2025-11-24 | Traders Launch | Traders Launch Black Friday Special: 30% OFF Futures Evaluations | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-black-friday-30-off-futures/ |
-| 2025-11-24 | Atmos Funded | Atmos Funded Black Friday Sale: 30% OFF All Challenges | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/atmos-funded/atmos-funded-black-friday-30-off-all-challenges/ |
 
 ## About this archive
 

@@ -20,7 +20,7 @@ Apply code platinum5 at checkout for 5% off any Crypto Fund Trader challenge acc
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Crypto Fund Trader
+## Recent deal from Crypto Fund Trader
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

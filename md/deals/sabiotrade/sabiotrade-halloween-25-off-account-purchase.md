@@ -20,7 +20,7 @@ Apply code PFD at checkout for 30% off any SabioTrade challenge account — veri
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from SabioTrade
+## Recent deal from SabioTrade
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

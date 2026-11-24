@@ -1,6 +1,6 @@
 # RebelsFunding Discount Code
 
-RebelsFunding currently lists 42 deals with discount codes. Compare available promotions below to find the latest savings on RebelsFunding challenge accounts, checked November 2026 by the PropFirmDiscount team.
+RebelsFunding currently lists 45 deals (42 with discount codes). Compare available promotions below to find the latest savings on RebelsFunding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > We provide unique trading programs for Forex traders, based upon which we search for the best options to work together with. We provide you with accounts that you can use to trade and earn commission without the risk of losing your own funds! You are presented with a choice of the widest variety of training programs on the market – it is up to you to choose based on your experience and preference. Whether you are a rookie, advanced or experienced trader, we are certain that you will find the most perfectly suited program. https://www.rebelsfunding.com
 

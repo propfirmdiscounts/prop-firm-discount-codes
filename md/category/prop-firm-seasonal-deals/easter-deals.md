@@ -1,4 +1,4 @@
-# Easter Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
+# Easter Prop Firm Deal & Discount Code Prop Firm Deals (2026)
 
 Easter prop firm deals: 41 spring coupon codes on challenges, evaluations and funded-account add-ons from 33 firms, verified before listing and ordered newest first.
 

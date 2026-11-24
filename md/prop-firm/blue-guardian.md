@@ -1,6 +1,6 @@
 # Blue Guardian Discount Code
 
-Blue Guardian currently lists 34 deals with discount codes. The best current offer is code PFD for 35% off, checked November 2026 by the PropFirmDiscount team.
+The best current Blue Guardian discount is 35% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Blue Guardian currently has 34 deals with discount codes.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 

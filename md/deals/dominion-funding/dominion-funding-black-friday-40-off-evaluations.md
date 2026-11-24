@@ -20,7 +20,7 @@ Apply code PFD5PC at checkout for 5% off any Dominion Funding challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Dominion Funding
+## Recent deal from Dominion Funding
 
 | Title | Discount | Expires |
 |---|---|---|

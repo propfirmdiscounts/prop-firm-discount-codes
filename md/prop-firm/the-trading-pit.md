@@ -1,6 +1,6 @@
 # The Trading Pit Discount Code
 
-The Trading Pit currently lists 34 deals with discount codes. Compare available promotions below to find the latest savings on The Trading Pit challenge accounts, checked November 2026 by the PropFirmDiscount team.
+The Trading Pit currently lists 36 deals (34 with discount codes). Compare available promotions below to find the latest savings on The Trading Pit challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Welcome to The Trading Pit, a prop trading firm where your trading skills meet unparalleled opportunities. We offer a unique challenge-based evaluation process in a simulated trading environment, allowing you to demonstrate your trading expertise. Successfully passing our challenge unlocks access to trade with substantial simulated capital, scaling up to hundreds of thousands of dollars of trading capital. Learn, be part of a great community and trade confidently futures or CFDs/ Forex. Join us to turn your trading potential into real profit. Founded in February 2022, The Trading Pit (TTP) is an award-winning prop trading firm headquartered in Liechtenstein. With a global presence, the firm boasts an operational office in Cyprus and a representative office in Spain.
 

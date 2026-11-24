@@ -1,6 +1,6 @@
 # Top One Trader Discount Code
 
-Top One Trader currently lists 15 deals with discount codes. Compare available promotions below to find the latest savings on Top One Trader challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Top One Trader currently lists 23 deals (15 with discount codes). Compare available promotions below to find the latest savings on Top One Trader challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > As a proprietary trading firm, our business model centers on giving talented traders the opportunity to trade our capital. Through a one-step trading challenge, successful participants become Top One Funded Traders.
 

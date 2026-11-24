@@ -19,7 +19,7 @@ Apply code WWS4GW at checkout for 10% off any Trade The Pool challenge account â
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Trade The Pool
+## Recent deal from Trade The Pool
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

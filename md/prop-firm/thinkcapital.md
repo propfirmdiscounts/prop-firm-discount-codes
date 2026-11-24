@@ -1,6 +1,6 @@
 # ThinkCapital Discount Code
 
-ThinkCapital currently lists 30 deals with discount codes. The best current offer is code PFD for 10% off, checked November 2026 by the PropFirmDiscount team.
+The best current ThinkCapital discount is 10% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. ThinkCapital currently has 31 deals (30 with discount codes).
 
 > The only Prop Firm to build your personal account. - Trade directly from TradingView. - Trader's Gym. Free buil-in backtest tool. Trade with ThinkCapital and manage up to $1M.
 

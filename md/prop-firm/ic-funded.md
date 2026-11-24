@@ -1,6 +1,6 @@
 # IC Funded Discount Code
 
-IC Funded currently lists 6 deals with discount codes. Compare available promotions below to find the latest savings on IC Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+IC Funded currently lists 6 deals with discount code. Compare available promotions below to find the latest savings on IC Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: IC Funded
 - Deal last verified: 2026-11-04

@@ -1,6 +1,6 @@
 # Trading Funds Discount Code
 
-Trading Funds currently lists 21 deals with discount codes. Compare available promotions below to find the latest savings on Trading Funds challenge accounts, checked April 2026 by the PropFirmDiscount team.
+Trading Funds currently lists 22 deals (21 with discount codes). Compare available promotions below to find the latest savings on Trading Funds challenge accounts, checked April 2026 by the PropFirmDiscount team.
 
 > TradingFunds is a prop firm run by traders, for traders. We offer instant funding, a one-step, and a two-step evaluation program, giving you flexible ways to access capital and grow based on your own trading style. Our rules are designed to give you freedom — trade during news, hold over the weekend, and no mandatory stop loss. We focus on what really matters: performance. With fast scaling and trader-first conditions, our mission is to support serious traders without unnecessary limitations.
 

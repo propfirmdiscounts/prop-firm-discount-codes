@@ -1,6 +1,6 @@
 # Instant Funding Discount Code
 
-Instant Funding currently lists 40 deals with discount codes. The best current offer is code PFD for 20% off, checked November 2026 by the PropFirmDiscount team.
+The best current Instant Funding discount is 20% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Instant Funding currently has 40 deals with discount codes.
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns. By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
 

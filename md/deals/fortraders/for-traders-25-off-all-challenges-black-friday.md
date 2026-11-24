@@ -20,7 +20,7 @@ Apply code VGYCKXLTY9 at checkout for 15% off any For Traders challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from For Traders
+## Recent deal from For Traders
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # OANDA Prop Trader Discount Code
 
-OANDA Prop Trader currently lists 2 deals with discount codes. Compare available promotions below to find the latest savings on OANDA Prop Trader challenge accounts, checked December 2025 by the PropFirmDiscount team.
+OANDA Prop Trader currently lists 2 deals with discount code. Compare available promotions below to find the latest savings on OANDA Prop Trader challenge accounts, checked December 2025 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

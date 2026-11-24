@@ -20,7 +20,7 @@ Apply code PFD at checkout for 30% off any WeMasterTrade challenge account — v
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from WeMasterTrade
+## Recent deal from WeMasterTrade
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

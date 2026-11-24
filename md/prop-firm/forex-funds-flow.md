@@ -1,6 +1,6 @@
 # Forex Funds Flow Discount Code
 
-Forex Funds Flow currently lists 13 deals with discount codes. The best current offer is code PFD for 10% off, checked November 2026 by the PropFirmDiscount team.
+The best current Forex Funds Flow discount is 10% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Forex Funds Flow currently has 15 deals (13 with discount codes).
 
 > Forex Funds Flow is a modern proprietary trading firm committed to empowering traders worldwide. We provide access to trading capital through a variety of funding programs including our 1-Step Challenge, 2-Step Evaluation, and Instant Funding options with account sizes available up to $100,000. Our mission is to discover and support skilled traders by offering a clear path to capital, backed by a fair and transparent process. Whether you're looking for a fast-track opportunity or a structured evaluation, Forex Funds Flow has a program to suit your trading style. With advanced account analytics, educational resources, and dedicated trader support, we're here to guide you every step of the way toward achieving consistency, growth, and long-term success as a funded trader.
 

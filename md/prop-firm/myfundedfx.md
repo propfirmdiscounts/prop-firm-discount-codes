@@ -1,6 +1,6 @@
 # MyFundedFX Discount Code
 
-MyFundedFX currently lists 3 deals with discount codes. Compare available promotions below to find the latest savings on MyFundedFX challenge accounts, checked April 2026 by the PropFirmDiscount team.
+MyFundedFX currently lists 3 deals with discount code. Compare available promotions below to find the latest savings on MyFundedFX challenge accounts, checked April 2026 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

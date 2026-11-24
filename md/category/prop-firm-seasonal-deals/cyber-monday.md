@@ -1,4 +1,4 @@
-# Cyber Monday Prop Firm Promo Codes & Flash Sales Prop Firm Deals (2026)
+# Cyber Monday Prop Firm Promo Code & Flash Sales Prop Firm Deals (2026)
 
 Cyber Monday prop firm codes: the online-only half of the holiday weekend, when firms extend or replace their Black Friday promo with a shorter flash offer. 58 deals from 45 firms, each listed with the exact terms the code applies to.
 

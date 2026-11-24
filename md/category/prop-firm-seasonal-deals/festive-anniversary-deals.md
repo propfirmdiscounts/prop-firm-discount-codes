@@ -1,4 +1,4 @@
-# Holiday, Celebration & Anniversary Prop Firm Deals Prop Firm Deals (2026)
+# Holiday, Celebration & Anniversary Prop Firm Deal Prop Firm Deals (2026)
 
 Holiday, celebration, and anniversary prop firm promotions with trusted coupons and limited-time discounts on trading challenges, evaluations, and platform add-ons. Updated frequently during global events and special occasions.
 

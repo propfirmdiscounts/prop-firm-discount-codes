@@ -1,6 +1,6 @@
 # AudaCity Capital Discount Code
 
-AudaCity Capital currently lists 33 deals with discount codes. Compare available promotions below to find the latest savings on AudaCity Capital challenge accounts, checked November 2026 by the PropFirmDiscount team.
+AudaCity Capital currently lists 38 deals (33 with discount codes). Compare available promotions below to find the latest savings on AudaCity Capital challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Founded in 2012 in London, we are the longest-running prop firm dedicated to empowering traders with the capital they need to succeed. Our mission is simple: to give talented traders the resources, support, and freedom to unlock their full potential. With years of experience and a proven track record, we’re here to help you dominate the markets, accelerate your trading career, and achieve long term success.
 

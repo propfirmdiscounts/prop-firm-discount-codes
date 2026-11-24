@@ -1,6 +1,6 @@
 # thePropTrade Discount Code
 
-thePropTrade currently lists 36 deals with discount codes. The best current offer is code PFD for 20% off, checked November 2026 by the PropFirmDiscount team.
+The best current thePropTrade discount is 20% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. thePropTrade currently has 38 deals (36 with discount codes).
 
 > thePropTrade has designed a distinctive one step and two-step assessment program to identify and empower skilled traders. After successfully passing the evaluation program,  you are offered to trade on thePropTrader Account with a simulated balance of up to 200,000 USD, with ability to scale up to $5 million. At thePropTrade, we believe in simplicity, transparency and sustainability when it comes to our products. Our trading objectives are based on sustainable risk management principles and they allow our clients to improve their skills and build healthy trading habits.
 

@@ -1,6 +1,6 @@
 # PipFarm Discount Code
 
-PipFarm currently lists 65 deals with discount codes. The best current offer is code PFDC for 30% off, checked November 2026 by the PropFirmDiscount team.
+The best current PipFarm discount is 30% off with code PFDC at checkout, verified by the PropFirmDiscount team in November 2026. PipFarm currently has 71 deals (65 with discount codes).
 
 > Power-up your trading with PipFarm. A revolutionary funded trader program that gives you lifetime powers and perks. Unlock incredible features, more funding, higher leverage and much more.
 

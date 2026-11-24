@@ -1,6 +1,6 @@
 # Atmos Funded Discount Code
 
-Atmos Funded currently lists 29 deals with discount codes. Compare available promotions below to find the latest savings on Atmos Funded challenge accounts, checked July 2026 by the PropFirmDiscount team.
+Atmos Funded currently lists 29 deals with discount code. Compare available promotions below to find the latest savings on Atmos Funded challenge accounts, checked July 2026 by the PropFirmDiscount team.
 
 - Prop firm: Atmos Funded
 - Deal last verified: 2026-07-28

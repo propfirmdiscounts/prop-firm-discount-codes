@@ -1,6 +1,6 @@
 # Funding Your Trades Discount Code
 
-Funding Your Trades currently lists 40 deals with discount codes. The best current offer is code PFD for 2% off, checked November 2026 by the PropFirmDiscount team.
+The best current Funding Your Trades discount is 2% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Funding Your Trades currently has 44 deals (40 with discount codes).
 
 > ⚠️ Before You Judge Us by One Platform At FYT, our mission is to help traders access funded capital through transparent evaluation and funding programs. Since launch, we’ve supported traders worldwide, processed rewards across multiple countries, and built a strong, growing community. We encourage every trader to take time to read our rules, explore our website, join our community, and ask questions before deciding. Recently, we’ve faced challenges with review moderation on certain platforms, meaning some genuine reviews may not appear right away. While we respect each platform’s policies, we believe no single source should define a company. That’s why we invite you to explore our website, social media, Discord, trader interviews, payout reports, and educational content to form your own opinion. Most importantly, if you have doubts, you can connect directly with funded FYT traders and hear their experiences firsthand.
 

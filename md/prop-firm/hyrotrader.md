@@ -1,6 +1,6 @@
 # HyroTrader Discount Code
 
-HyroTrader currently lists 8 deals with discount codes. Compare available promotions below to find the latest savings on HyroTrader challenge accounts, checked November 2026 by the PropFirmDiscount team.
+HyroTrader currently lists 8 deals with discount code. Compare available promotions below to find the latest savings on HyroTrader challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

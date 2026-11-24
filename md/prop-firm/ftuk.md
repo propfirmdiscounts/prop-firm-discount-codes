@@ -1,6 +1,6 @@
 # FTUK Discount Code
 
-FTUK currently lists 75 deals with discount codes. Compare available promotions below to find the latest savings on FTUK challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FTUK currently lists 79 deals (75 with discount codes). Compare available promotions below to find the latest savings on FTUK challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > FTUK has been funding traders worldwide since 2021, offering Forex & Futures prop trading programs built for traders. Our Buy After You Pass program lets you prove your trading skills first and only pay once you've passed. With just a 4% profit target, no time limit and straightforward trading rules, it's a simple way to earn your funded account. FTUK also offers Instant Funding, 1-Step and 2-Step programs, giving traders the freedom to choose the path that suits their trading style. Funding traders worldwide since 2021.
 

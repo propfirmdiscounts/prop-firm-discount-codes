@@ -1,6 +1,6 @@
 # Hola Prime Discount Code
 
-Hola Prime currently lists 76 deals with discount codes. Compare available promotions below to find the latest savings on Hola Prime challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Hola Prime currently lists 81 deals (76 with discount codes). Compare available promotions below to find the latest savings on Hola Prime challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: Hola Prime
 - Deal last verified: 2026-11-02

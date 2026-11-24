@@ -1,6 +1,6 @@
 # Earnex Prime Discount Code
 
-Earnex Prime currently lists 8 deals with discount codes. Compare available promotions below to find the latest savings on Earnex Prime challenge accounts, checked November 2025 by the PropFirmDiscount team.
+Earnex Prime currently lists 8 deals with discount code. Compare available promotions below to find the latest savings on Earnex Prime challenge accounts, checked November 2025 by the PropFirmDiscount team.
 
 - Prop firm: Earnex Prime
 - Deal last verified: 2025-11-25

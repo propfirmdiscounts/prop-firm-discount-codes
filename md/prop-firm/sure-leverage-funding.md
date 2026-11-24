@@ -1,6 +1,6 @@
 # Sure Leverage Funding Discount Code
 
-Sure Leverage Funding currently lists 38 deals with discount codes. Compare available promotions below to find the latest savings on Sure Leverage Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Sure Leverage Funding currently lists 50 deals (38 with discount codes). Compare available promotions below to find the latest savings on Sure Leverage Funding challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > SLF is a global prop trading firm built by traders, for traders. We specialize in Instant Funding with the most competitive rules in the industry, including being the only firm to offer Static Drawdown on Instant Funding accounts with a generous 8% maximum. Why 40,000+ Traders Choose SLF: ⚡ 24-Hour Payout Guarantee: Our current average payout time is under 16 hours. 📈 Institutional Infrastructure: We operate on our own dedicated MT5 license for superior execution. 🛡️ Static Drawdown: No trailing drawdown traps—protect your edge with our 8% static limit. 💰 Proven Track Record: Over $1 Billion in funding issued and $2.2 Million+ paid out to date. Join the firm where transparency isn't just a buzzword—it's our standard.
 

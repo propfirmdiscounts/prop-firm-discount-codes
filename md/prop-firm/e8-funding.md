@@ -1,6 +1,6 @@
 # E8 Markets Discount Code
 
-E8 Markets currently lists 19 deals with discount codes. The best current offer is code CHUN for 50% off, checked November 2026 by the PropFirmDiscount team.
+The best current E8 Markets discount is 50% off with code CHUN at checkout, verified by the PropFirmDiscount team in November 2026. E8 Markets currently has 19 deals with discount codes.
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 

@@ -1,4 +1,4 @@
-# Best Active Prop Firm Discount Code & Deals – November 2026
+# Best Active Prop Firm Discount Code & Deal – November 2026
 
 ## Top Active November 2026 Prop Firm Discount Code & Deals
 

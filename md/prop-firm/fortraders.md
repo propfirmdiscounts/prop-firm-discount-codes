@@ -1,6 +1,6 @@
 # For Traders Discount Code
 
-For Traders currently lists 57 deals with discount codes. The best current offer is code VGYCKXLTY9 for 15% off, checked November 2026 by the PropFirmDiscount team.
+The best current For Traders discount is 15% off with code VGYCKXLTY9 at checkout, verified by the PropFirmDiscount team in November 2026. For Traders currently has 59 deals (57 with discount codes).
 
 - Discount code: VGYCKXLTY9
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

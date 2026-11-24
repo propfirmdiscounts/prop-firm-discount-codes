@@ -1,6 +1,6 @@
 # PropShopTrader Discount Code
 
-PropShopTrader currently lists 18 deals with discount codes. Compare available promotions below to find the latest savings on PropShopTrader challenge accounts, checked April 2026 by the PropFirmDiscount team.
+PropShopTrader currently lists 22 deals (18 with discount codes). Compare available promotions below to find the latest savings on PropShopTrader challenge accounts, checked April 2026 by the PropFirmDiscount team.
 
 > PropShopTrader is a proprietary trading firm built to develop traders into real, scalable proprietary capital across multiple asset classes. We operate a structured progression model that allows traders to prove consistency in simulated environments before advancing into live corporate trading. Our approach prioritizes long-term development, disciplined risk management, and professional standards over short-term payouts or repeated resets. With proprietary technology, education, and infrastructure, PropShopTrader supports traders as they grow within a single firm across expanding markets.
 

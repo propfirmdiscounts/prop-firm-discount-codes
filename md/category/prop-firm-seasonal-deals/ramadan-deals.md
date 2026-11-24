@@ -1,4 +1,4 @@
-# Ramadan Prop Firm Deals & Discount Codes Prop Firm Deals (2026)
+# Ramadan Prop Firm Deal & Discount Code Prop Firm Deals (2026)
 
 Ramadan and Eid prop firm offers: 13 codes from 8 firms, timed to the holy month and the celebration that follows it by brands running Middle East and Southeast Asia campaigns. Only firms with a genuine dated promo appear here — no generic coupons relabeled to pad the list.
 

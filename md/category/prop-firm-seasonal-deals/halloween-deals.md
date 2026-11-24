@@ -1,4 +1,4 @@
-# Halloween Prop Firm Discounts & 48–72h Flash Codes Prop Firm Deals (2026)
+# Halloween Prop Firm Discount & 48–72h Flash Codes Prop Firm Deals (2026)
 
 Halloween prop firm deals: October spooky-sale coupons on challenge fees, resets and add-ons — 170 archived offers from 70 firms, dated and verified, so an expiring promo is obvious rather than guessed.
 

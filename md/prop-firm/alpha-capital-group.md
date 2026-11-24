@@ -1,6 +1,6 @@
 # Alpha Capital Group Discount Code
 
-Alpha Capital Group currently lists 50 deals with discount codes. Compare available promotions below to find the latest savings on Alpha Capital Group challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Alpha Capital Group currently lists 52 deals (50 with discount codes). Compare available promotions below to find the latest savings on Alpha Capital Group challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Alpha Capital Group is a proprietary trading company set up for traders, by traders! We are looking for profitable traders who can demonstrate an ability to react to the markets, manage risk and be consistent with their trading strategy.
 

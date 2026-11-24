@@ -20,7 +20,7 @@ Apply code CSV at checkout for 35% off any Goat Funded Trader challenge account 
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Goat Funded Trader
+## Recent deal from Goat Funded Trader
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Super Funded Discount Code
 
-Super Funded currently lists 29 deals with discount codes. The best current offer is code CHUN for 30% off, checked November 2026 by the PropFirmDiscount team.
+The best current Super Funded discount is 30% off with code CHUN at checkout, verified by the PropFirmDiscount team in November 2026. Super Funded currently has 29 deals with discount codes.
 
 - Discount code: CHUN
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

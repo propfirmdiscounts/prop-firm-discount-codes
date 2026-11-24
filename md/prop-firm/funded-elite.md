@@ -1,6 +1,6 @@
 # Funded Elite Discount Code
 
-Funded Elite currently lists 37 deals with discount codes. The best current offer is code AFF1864062 for 10% off, checked November 2026 by the PropFirmDiscount team.
+The best current Funded Elite discount is 10% off with code AFF1864062 at checkout, verified by the PropFirmDiscount team in November 2026. Funded Elite currently has 41 deals (37 with discount codes).
 
 - Discount code: AFF1864062
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)

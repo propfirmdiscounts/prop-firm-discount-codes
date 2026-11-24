@@ -20,7 +20,7 @@ Apply code AFF1864062 at checkout for 10% off any Funded Elite challenge account
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Funded Elite
+## Recent deal from Funded Elite
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

@@ -20,7 +20,7 @@ Apply code PFDC at checkout for 25% off any Finotive Funding challenge account â
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from Finotive Funding
+## Recent deal from Finotive Funding
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

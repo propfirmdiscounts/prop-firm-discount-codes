@@ -1,6 +1,6 @@
 # YRM Prop Discount Code
 
-YRM Prop currently lists 2 deals with discount codes. Compare available promotions below to find the latest savings on YRM Prop challenge accounts, checked August 2026 by the PropFirmDiscount team.
+YRM Prop currently lists 2 deals with discount code. Compare available promotions below to find the latest savings on YRM Prop challenge accounts, checked August 2026 by the PropFirmDiscount team.
 
 > YRM Prop is a New York-based proprietary trading firm focused on futures. We’re built for traders who treat trading like a profession, not a hobby. We offer a transparent, structured path from evaluation to simulated funding, with the potential to trade live capital. Traders can access up to $450,000 in simulated trading capital, earn a 90/10 profit split, and benefit from 24-hour payout processing. We’re not looking for lucky streaks. YRM’s model is designed to reward consistency, risk discipline, and long-term thinking, because that’s what real trading takes. All rules are fully transparent, there are no hidden traps, and payouts are never delayed. Unlike many platforms, we believe in clear expectations and real support. Our expert team is made up of real traders ready to help when needed. Whether you’re just getting started or looking to scale your strategy, YRM Prop offers a serious platform for serious traders. If you’re committed, we’re here to back you.
 

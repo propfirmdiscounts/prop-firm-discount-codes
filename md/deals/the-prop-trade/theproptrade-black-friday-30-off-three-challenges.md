@@ -20,7 +20,7 @@ Apply code PFD at checkout for 20% off any thePropTrade challenge account — ve
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from thePropTrade
+## Recent deal from thePropTrade
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

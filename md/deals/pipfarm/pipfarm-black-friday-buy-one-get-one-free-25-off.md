@@ -20,7 +20,7 @@ Apply code PFDC at checkout for 30% off any PipFarm challenge account — verifi
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Recent deals from PipFarm
+## Recent deal from PipFarm
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|

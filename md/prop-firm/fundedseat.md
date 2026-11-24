@@ -1,6 +1,6 @@
 # FundedSeat Discount Code
 
-FundedSeat currently lists 14 deals with discount codes. Compare available promotions below to find the latest savings on FundedSeat challenge accounts, checked September 2026 by the PropFirmDiscount team.
+FundedSeat currently lists 14 deals with discount code. Compare available promotions below to find the latest savings on FundedSeat challenge accounts, checked September 2026 by the PropFirmDiscount team.
 
 > Funding Traders – Daily Payouts, withdraw from day one.
 

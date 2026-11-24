@@ -1,6 +1,6 @@
 # TX3 Funding Discount Code
 
-TX3 Funding currently lists 62 deals with discount codes. The best current offer is code PFD1 for 25% off, checked November 2026 by the PropFirmDiscount team.
+The best current TX3 Funding discount is 25% off with code PFD1 at checkout, verified by the PropFirmDiscount team in November 2026. TX3 Funding currently has 64 deals (62 with discount codes).
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >

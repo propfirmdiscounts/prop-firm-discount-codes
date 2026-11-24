@@ -1,4 +1,4 @@
-# New Year's Eve Prop Firm Discounts & Coupon Hub Prop Firm Deals (2026)
+# New Year's Eve Prop Firm Discount & Coupon Hub Prop Firm Deals (2026)
 
 New year prop firm promos: 79 January discount codes from 47 firms on evaluations, resets and challenge bundles — the offers traders reach for when a funded account is the resolution that sticks. Newest deals first.
 
