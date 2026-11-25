@@ -1,13 +1,14 @@
 # Prop Firm Deal & Limited-Time Offers Prop Firm Deals (2026)
 
-Limited-time prop firm deals that are not a straight code: 262 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
+Limited-time prop firm deals that are not a straight code: 263 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
 
-As of 2026-11-13, the biggest offers this month: 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, 60% OFF at Bitfunded, and 55% OFF at Bitfunded.
+As of 2026-11-13, the biggest offers this month: 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, 55% OFF at Bitfunded, and 50% OFF at Plutus Trade Base.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Plutus Trade Base | Plutus Trade Base: 50% Off Every Challenge | 50% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-every-challenge/ |
 | 2026-11-23 | FTMO | FTMO Black Friday: Up to 30% Off Challenges | 30% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-up-to-30-off-challenges/ |
 | 2026-11-23 | Top One Trader | Top One Trader: Profit Target 3% + 50% Off Fee | 50% OFF | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-profit-target-3-percent-activation-fee/ |
 | 2026-11-19 | Lux Trading Firm | Lux Trading Firm Black Friday: $1M Account for £699 | £699 | 2026-11-27 | No Code Required | https://propfirmdiscount.com/deals/lux-trading-firm/lux-trading-firm-black-friday-1m-699/ |
@@ -37,7 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-09-02 | Trade The Pool | Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/ |
 | 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
 | 2026-09-01 | TradeDay | TradeDay $25k Evaluation Account Deal for $45 |  | Ended | No Code Required | https://propfirmdiscount.com/deals/tradeday/tradeday-25k-account-45-deal/ |
-| 2026-08-16 | FundedNext | FundedNext Bundle Offer: 10% Off 2nd and 15% Off 3rd Stellar Account | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/fundednext/fundednext-stellar-bundle-discount-10-15-off/ |
 
 ## About this archive
 

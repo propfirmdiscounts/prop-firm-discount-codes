@@ -1,11 +1,11 @@
 # Blueberry Funded Discount Code
 
-Blueberry Funded currently lists 62 deals with discount code. Compare available promotions below to find the latest savings on Blueberry Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Blueberry Funded currently lists 63 deals with discount code. Compare available promotions below to find the latest savings on Blueberry Funded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Broker-backed proprietary trading firm. Highly rated by genuine traders on Prop Firm Match.
 
 - Prop firm: Blueberry Funded
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-25
 - Trustpilot score: 3.4/5 (1781 reviews)
 - Official web: blueberryfunded.com
 - Address: Australia
@@ -13,37 +13,37 @@ Blueberry Funded currently lists 62 deals with discount code. Compare available 
 - Active deal url: https://propfirmdiscount.com/go/blueberryfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/blueberry-funded/
 
-## Current deal: Blueberry Funded 25% Off Prime + Free Reset – Black Friday
+## Current deal: Blueberry Funded 50% Off Instant Lite – Black Friday
 
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-25
 - Deal ends: 2026-11-29 18:59
-- Discount: 25% Off
-- Discount code: BF1
-- Applied to: Prime accounts
+- Discount: 50% Off
+- Discount code: INSTANTBF
+- Applied to: Instant Lite accounts
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/
+- Deal url: https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-50-off-instant-lite-black-friday/
 
 ## Blueberry Funded deal FAQ
 
 **What does this Blueberry Funded offer include?**
 
-The offer takes 25% off Prime and attaches a free reset. Breach in Phase 1 or Phase 2; your reset is on the firm.
+The offer takes 50% off Instant Lite. There is no evaluation: you start on a simulated funded account from day one, at half the price.
 
-**How does the free reset trigger?**
+**How do I apply the 50% rate?**
 
-It triggers on a breach during Phase 1 or Phase 2 of the challenge. The reset gives the purchase a second run; any further conditions are a detail to confirm on the deal page.
+Choose Instant Lite on the firm's site and enter the deal code at checkout. The 50% comes off the price before you pay.
 
-**How do I apply the 25% rate?**
+**Does the discount change the Instant Lite rules?**
 
-Choose Prime on the firm's site and enter the deal code at checkout. The 25% comes off the price before you pay, with the reset attached to the purchase.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**How is this different from the campaign's other Prime offer?**
+**Does this code work on the Prime challenges?**
 
-The campaign also carries a deeper straight discount on the Prime 2-Step with no reset attached, under its own code. This offer trades some rate for the safety net.
+No. This code covers Instant Lite. The campaign carries separate codes for its two Prime offers, each under its own terms.
 
-**Does the reset change the challenge rules?**
+**What should I weigh before skipping the evaluation?**
 
-No. The reset changes what a failed attempt costs. The challenge rules themselves stay as published. The discount reduces entry cost only.
+With no evaluation phase, the trading risk starts immediately on the account's live rules. The discount halves the entry cost; it does not reduce that risk.
 
 **When does the offer end?**
 
@@ -55,6 +55,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Blueberry Funded 50% Off Instant Lite – Black Friday | 50% Off | 2026-11-29 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-50-off-instant-lite-black-friday/ |
 | 2026-11-24 | Blueberry Funded 25% Off Prime + Free Reset – Black Friday | 25% Off | 2026-11-29 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/ |
 | 2026-11-23 | Blueberry Funded 40% Off Prime 2-Step – Black Friday | 40% Off | 2026-11-29 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-40-off-prime-2-step-black-friday/ |
 | 2026-11-17 | Blueberry Funded Winter Arc: 40% Off Instant Lite | 40% Off | 2026-11-18 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/ |

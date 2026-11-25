@@ -1,12 +1,12 @@
 # Phidias Propfirm Discount Code
 
-The best current Phidias Propfirm discount is 85% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Phidias Propfirm currently has 41 deals with discount codes.
+The best current Phidias Propfirm discount is 90% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Phidias Propfirm currently has 42 deals with discount codes.
 
 - Discount code: PFD
-- Discount: 85% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phidias Propfirm
-- Deal last verified: 2026-11-11
+- Deal last verified: 2026-11-25
 - Trustpilot score: 3.0/5 (337 reviews)
 - Official web: phidiaspropfirm.com
 - Address: Gibraltar
@@ -17,7 +17,7 @@ The best current Phidias Propfirm discount is 85% off with code PFD at checkout,
 
 ## Phidias Propfirm challenge account pricing
 
-The Phidias Propfirm discount code PFD offers 85% off eligible accounts. Select your account type and size below to view the discounted price.
+The Phidias Propfirm discount code PFD offers 90% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 
@@ -25,52 +25,49 @@ The pricing table covers 11 account options across the Futures market. Prices sh
 
 | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
 |---|---|---|---|---|---|---|
-| Express to Live | $25K | $277 | $41.6 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $50K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $100K | $900 | $135 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $150K | $1125 | $168.8 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $50K | $580 | $87 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $100K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $150K | $863 | $129.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $50K | $723 | $108.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $100K | $900 | $135 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $150K | $1123 | $168.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
-| 10K Challenge | $10K | $66 | $9.9 | 85% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $25K | $277 | $27.7 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $50K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $100K | $900 | $90 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Express to Live | $150K | $1125 | $112.5 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $50K | $580 | $58 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $100K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Fundamental | $150K | $863 | $86.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $50K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $100K | $900 | $90 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Premium | $150K | $1123 | $112.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| 10K Challenge | $10K | $66 | $6.6 | 90% off | PFD | Tested at checkout 2026-11-23 |
 
-## Most recent deal (ended): Phidias Propfirm: 85% Off Every 150K Account (code PFD)
+## Current deal: Phidias Propfirm: Up to 90% Off Every Account (code PFD)
 
-- Deal last verified: 2026-11-11
-- Deal ends: 2026-11-24 (ended)
-- Discount: 85% Off
-- Applied to: 150K One-Time Payment Accounts
-- Event: Veterans Day
-- Deal url: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/
+- Deal last verified: 2026-11-25
+- Deal ends: 2026-11-27 17:00
+- Discount: 90% Off
+- Discount code: PFD
+- Applied to: Every account, 25K to 150K
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/
 
 ## Phidias Propfirm deal FAQ
 
-**What does the Phidias Propfirm code take off?**
+**Which plans take the full 90% at Phidias Propfirm?**
 
-85% off every 150K One-Time Payment account: the Express to Live and the Premium are $168.45. The Fundamental is $129.45.
+Fundamental and Premium take 90% off. Express to Live takes 85% off, so the up-to ceiling splits by plan.
 
-**What are the regular prices?**
+**What are the headline prices?**
 
-On the firm's own figures, $1,123 for the Express to Live and the Premium (a $954.55 saving) and $863 for the Fundamental (a $733.55 saving), worked back from the sale prices at 85% off.
+The 25K Express to Live is $41.55 against a $277 list price. The 50K Fundamental is $58 against $580, plus the 50K Premium is $72.30 against $723, each exactly the stated rate off.
 
-**What about the firm's other accounts?**
+**When does the offer close?**
 
-The announcement states that everything else stays at up to 80% off. The 85% code covers the 150K One-Time Payment accounts only. No code is stated for the rest of the range.
+At the closing bell on Friday 27 November 2026 at 5 PM ET, or sooner if the 1,000 accounts at these prices sell first.
 
-**What does the Express to Live state?**
+**Does the offer change trading rules?**
 
-The announcement pairs the 150K Express to Live with a $4,500 payout on Day 1. The Premium is stated to allow holding overnight and over the weekend. The Fundamental is described as the original with simple rules.
+No. The discount lowers entry cost only; it does not reduce trading risk or change the accounts' own terms, such as the Express payout design.
 
-**When does the offer end?**
+**How is the firm rated?**
 
-The code runs until 24 November 2026.
-
-**Does the discount change the accounts or reduce risk?**
-
-No. The code reduces the purchase price of the 150K accounts only; their rules and the risk of trading them are unchanged.
+Trustpilot 3 out of 5 from 337 reviews as of November 2026, a middling score.
 
 ## Deals (last 2 months, newest first)
 
@@ -78,6 +75,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% Off | 2026-11-27 17:00 | Black Friday | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/ |
 | 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% Off | 2026-11-24 (ended) | Veterans Day | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-02 | Phidias Propfirm Up to 80% Off Every Account (code PFD) | 80% Off | 2026-11-10 (ended) | - | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/ |
 | 2026-10-25 | Phidias Propfirm Halloween 90% Off First Month Evaluations (code PFD) | 90% Off | 2026-11-01 17:00 (ended) | Halloween | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
