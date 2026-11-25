@@ -21,7 +21,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [Top One Trader Super Nova: Nova Entry for $1](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/) | Black Friday | $1 Entry | 2026-11-24 |
+| [Top One Trader Super Nova: Nova Entry for $1](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-super-nova-1-dollar-entry/) | Black Friday | $1 Entry | 2026-11-24 (ended) |
 | [Top One Trader Black Friday: Up to 65% Off](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-friday-up-to-65-off/) | Black Friday | 65% Off | Limited time |
 | [Top One Trader Black November Up to 80% Off Instant Funded](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-black-november-80-off-instant-funded/) | Black Friday | 80% Off | Limited time |
 | [Top One Trader Halloween Up to 70% Off Sitewide](https://propfirmdiscount.com/deals/top-one-trader/top-one-trader-halloween-70-off-sitewide-mystery-reward/) | Halloween | 70% Off | 2026-10-31 (ended) |

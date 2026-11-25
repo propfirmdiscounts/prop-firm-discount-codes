@@ -37,12 +37,11 @@ The pricing table covers 11 account options across the Futures market. Prices sh
 | Premium | $150K | $1123 | $168.5 | 85% off | PFD | Tested at checkout 2026-11-23 |
 | 10K Challenge | $10K | $66 | $9.9 | 85% off | PFD | Tested at checkout 2026-11-23 |
 
-## Current deal: Phidias Propfirm: 85% Off Every 150K Account (code PFD)
+## Most recent deal (ended): Phidias Propfirm: 85% Off Every 150K Account (code PFD)
 
 - Deal last verified: 2026-11-11
-- Deal ends: 2026-11-24
+- Deal ends: 2026-11-24 (ended)
 - Discount: 85% Off
-- Discount code: PFD
 - Applied to: 150K One-Time Payment Accounts
 - Event: Veterans Day
 - Deal url: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/
@@ -79,7 +78,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% Off | 2026-11-24 | Veterans Day | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
+| 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% Off | 2026-11-24 (ended) | Veterans Day | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-02 | Phidias Propfirm Up to 80% Off Every Account (code PFD) | 80% Off | 2026-11-10 (ended) | - | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/ |
 | 2026-10-25 | Phidias Propfirm Halloween 90% Off First Month Evaluations (code PFD) | 90% Off | 2026-11-01 17:00 (ended) | Halloween | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
 | 2026-10-20 | Phidias Propfirm 85% Off 50K Discount Code – $108 Express (code PFD) | 85% Off | 2026-10-25 (ended) | - | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/ |

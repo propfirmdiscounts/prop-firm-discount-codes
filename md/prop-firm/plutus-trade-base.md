@@ -49,5 +49,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-18 | Plutus Trade Base: 50% Off Your First Challenge | 50% Off | 2026-11-18 (ended) | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/ |
 | 2026-11-13 | Plutus Trade Base: 60% Off the Lightning Plan | 60% Off | Limited time | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/ |
 | 2026-11-05 | Plutus Trade Base 50% Off the Freedom Plan Challenge | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/ |
-| 2026-10-24 | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
+| 2026-10-24 | Plutus Trade Base 66% Off Halloween Challenges | 66% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/ |
 | 2026-10-04 | Plutus Trade Base $100K Evaluation Account For €29.50 (50% Off) | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-100k-lightning-pro/ |
