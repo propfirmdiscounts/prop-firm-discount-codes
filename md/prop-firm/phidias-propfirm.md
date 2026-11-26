@@ -19,23 +19,21 @@ The best current Phidias Propfirm discount is 90% off with code PFD at checkout,
 
 The Phidias Propfirm discount code PFD offers 90% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 11 account options across the Futures market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Express to Live | $25K | $277 | $27.7 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $50K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $100K | $900 | $90 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Express to Live | $150K | $1125 | $112.5 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $50K | $580 | $58 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $100K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Fundamental | $150K | $863 | $86.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $50K | $723 | $72.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $100K | $900 | $90 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| Premium | $150K | $1123 | $112.3 | 90% off | PFD | Tested at checkout 2026-11-23 |
-| 10K Challenge | $10K | $66 | $6.6 | 90% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Express to Live | $25K | $277 | $27.7 | 90% off | PFD |
+| Express to Live | $50K | $723 | $72.3 | 90% off | PFD |
+| Express to Live | $100K | $900 | $90 | 90% off | PFD |
+| Express to Live | $150K | $1125 | $112.5 | 90% off | PFD |
+| Fundamental | $50K | $580 | $58 | 90% off | PFD |
+| Fundamental | $100K | $723 | $72.3 | 90% off | PFD |
+| Fundamental | $150K | $863 | $86.3 | 90% off | PFD |
+| Premium | $50K | $723 | $72.3 | 90% off | PFD |
+| Premium | $100K | $900 | $90 | 90% off | PFD |
+| Premium | $150K | $1123 | $112.3 | 90% off | PFD |
+| 10K Challenge | $10K | $66 | $6.6 | 90% off | PFD |
 
 ## Current deal: Phidias Propfirm: Up to 90% Off Every Account (code PFD)
 

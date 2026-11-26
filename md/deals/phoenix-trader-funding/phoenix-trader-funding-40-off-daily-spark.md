@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Daily challenges, Spark challenges
 - Deal url: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/
 
-Apply code PFD at checkout for 40% off any Phoenix Trader Funding challenge account — verified to work any time with no expiration date.
+Apply code PFD at checkout for 30% off any Phoenix Trader Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

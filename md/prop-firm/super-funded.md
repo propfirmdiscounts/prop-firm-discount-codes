@@ -20,25 +20,23 @@ The best current Super Funded discount is 30% off with code CHUN at checkout, ve
 
 The Super Funded discount code CHUN offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 13 account options across the CFDs market. Prices shown include the discount applied using code CHUN. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| One Phase | $5K | $55 | $38.5 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| One Phase | $10K | $99 | $69.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| One Phase | $25K | $165 | $115.5 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| One Phase | $50K | $299 | $209.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| One Phase | $100K | $599 | $419.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| One Phase | $200K | $1469 | $1028.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $5K | $33 | $23.1 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $6K | $66 | $46.2 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $10K | $99 | $69.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $25K | $158 | $110.6 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $50K | $298 | $208.6 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $100K | $550 | $385 | 30% off | CHUN | Tested at checkout 2026-11-23 |
-| Two Phase | $200K | $1299 | $909.3 | 30% off | CHUN | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| One Phase | $5K | $55 | $38.5 | 30% off | CHUN |
+| One Phase | $10K | $99 | $69.3 | 30% off | CHUN |
+| One Phase | $25K | $165 | $115.5 | 30% off | CHUN |
+| One Phase | $50K | $299 | $209.3 | 30% off | CHUN |
+| One Phase | $100K | $599 | $419.3 | 30% off | CHUN |
+| One Phase | $200K | $1469 | $1028.3 | 30% off | CHUN |
+| Two Phase | $5K | $33 | $23.1 | 30% off | CHUN |
+| Two Phase | $6K | $66 | $46.2 | 30% off | CHUN |
+| Two Phase | $10K | $99 | $69.3 | 30% off | CHUN |
+| Two Phase | $25K | $158 | $110.6 | 30% off | CHUN |
+| Two Phase | $50K | $298 | $208.6 | 30% off | CHUN |
+| Two Phase | $100K | $550 | $385 | 30% off | CHUN |
+| Two Phase | $200K | $1299 | $909.3 | 30% off | CHUN |
 
 ## Most recent deal (ended): Super Funded 30% Off 100K And 200K Trading Challenges
 

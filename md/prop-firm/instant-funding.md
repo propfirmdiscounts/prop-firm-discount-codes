@@ -22,31 +22,29 @@ The best current Instant Funding discount is 20% off with code PFD at checkout, 
 
 The Instant Funding discount code PFD offers 20% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 19 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Instant Funding Lite | $1.25K | $67 | $53.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $2.5K | $103 | $82.4 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $5K | $191 | $152.8 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $10K | $367 | $293.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $20K | $719 | $575.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $40K | $1479 | $1183.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding Lite | $80K | $2959 | $2367.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| IF Micro Lite Micro | $5K | $59 | $47.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| IF Micro Lite Micro | $10K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| IF Micro Lite Micro | $25K | $193 | $154.4 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| IF Micro Lite Micro | $50K | $341 | $272.8 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| One-Phase Lite | $5K | $57 | $45.6 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| One-Phase Lite | $10K | $100 | $80 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| One-Phase Lite | $25K | $185 | $148 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| One-Phase Lite | $50K | $284 | $227.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| One-Phase Lite | $100K | $500 | $400 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Evolve | $10K | $49 | $39.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Evolve | $25K | $69 | $55.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Evolve | $50K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Instant Funding Lite | $1.25K | $67 | $53.6 | 20% off | PFD |
+| Instant Funding Lite | $2.5K | $103 | $82.4 | 20% off | PFD |
+| Instant Funding Lite | $5K | $191 | $152.8 | 20% off | PFD |
+| Instant Funding Lite | $10K | $367 | $293.6 | 20% off | PFD |
+| Instant Funding Lite | $20K | $719 | $575.2 | 20% off | PFD |
+| Instant Funding Lite | $40K | $1479 | $1183.2 | 20% off | PFD |
+| Instant Funding Lite | $80K | $2959 | $2367.2 | 20% off | PFD |
+| IF Micro Lite Micro | $5K | $59 | $47.2 | 20% off | PFD |
+| IF Micro Lite Micro | $10K | $99 | $79.2 | 20% off | PFD |
+| IF Micro Lite Micro | $25K | $193 | $154.4 | 20% off | PFD |
+| IF Micro Lite Micro | $50K | $341 | $272.8 | 20% off | PFD |
+| One-Phase Lite | $5K | $57 | $45.6 | 20% off | PFD |
+| One-Phase Lite | $10K | $100 | $80 | 20% off | PFD |
+| One-Phase Lite | $25K | $185 | $148 | 20% off | PFD |
+| One-Phase Lite | $50K | $284 | $227.2 | 20% off | PFD |
+| One-Phase Lite | $100K | $500 | $400 | 20% off | PFD |
+| Evolve | $10K | $49 | $39.2 | 20% off | PFD |
+| Evolve | $25K | $69 | $55.2 | 20% off | PFD |
+| Evolve | $50K | $99 | $79.2 | 20% off | PFD |
 
 ## Current deal: Instant Funding Black Friday: 35% Off Three Programs
 

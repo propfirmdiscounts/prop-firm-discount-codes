@@ -22,21 +22,19 @@ The best current Phoenix Trader Funding discount is 30% off with code PFD at che
 
 The Phoenix Trader Funding discount code PFD offers 30% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 9 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Classic | $25K | $89 | $84.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Classic | $50K | $128 | $121.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Classic | $100K | $269 | $255.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Daily | $10K | $99 | $94.1 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Daily | $25K | $199 | $189 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Daily | $50K | $329 | $312.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
-| Spark | $10K | $44 | $35.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Spark | $25K | $74 | $59.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Merit | $2K | $69 | $65.6 | 5% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Classic | $25K | $89 | $84.6 | 5% off | PFD |
+| Classic | $50K | $128 | $121.6 | 5% off | PFD |
+| Classic | $100K | $269 | $255.6 | 5% off | PFD |
+| Daily | $10K | $99 | $94.1 | 5% off | PFD |
+| Daily | $25K | $199 | $189 | 5% off | PFD |
+| Daily | $50K | $329 | $312.6 | 5% off | PFD |
+| Spark | $10K | $44 | $35.2 | 20% off | PFD |
+| Spark | $25K | $74 | $59.2 | 20% off | PFD |
+| Merit | $2K | $69 | $65.6 | 5% off | PFD |
 
 ## Current deal: Phoenix Trader Funding: 40% Off Daily and Spark
 

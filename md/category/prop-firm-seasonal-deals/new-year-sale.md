@@ -49,7 +49,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-31 | Trading Funds | Trading Funds New Year Deal: 40% OFF Standard Accounts + 40% Payout Boost | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/tradingfunds/trading-funds-new-year-promotion-40-percent-off/ |
 | 2025-12-31 | Finotive Funding | Finotive Funding New Year Offer: 40% Off All Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-new-year-offer-40-off/ |
 | 2025-12-31 | Alpha Funded | Alpha Trader Firm New Year Deal: 15% OFF + 200% Refund & Price Updates | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-new-year-15-off-200-refund/ |
-| 2025-12-31 | Goat Funded Trader | Goat Funded Trader New Year Offer: 40% Off All Plans | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-new-year-offer-40-off/ |
+| 2025-12-31 | Goat Funded Trader | Goat Funded Trader New Year Offer: 40% Off All Plans (code CSV) | 40% OFF | Ended | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-new-year-offer-40-off/ |
 | 2025-12-31 | WSFunded | WSFunded New Year Deal: 50% OFF Entry Fees + Giveaway Draw | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-new-year-offer-50-off/ |
 | 2025-12-31 | QT Funded | QT Funded New Year Offer: 50% Off All Evaluations + BOGO | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-50-off-bogo/ |
 | 2025-12-31 | Super Funded | Super Funded New Year Offer: 5K Challenge for $5 | Only $5 | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-new-year-5k-challenge-deal/ |

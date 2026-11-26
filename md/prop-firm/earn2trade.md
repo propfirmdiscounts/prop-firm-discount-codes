@@ -22,19 +22,17 @@ The best current Earn2Trade discount is 70% off with code PFD at checkout, verif
 
 The Earn2Trade discount code PFD offers 70% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 7 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Trader Career Path® | $25K | $150 | $45 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Trader Career Path® | $50K | $190 | $57 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Trader Career Path® | $100K | $350 | $105 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $50K | $170 | $51 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $100K | $315 | $94.5 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $150K | $375 | $112.5 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $200K | $550 | $165 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Trader Career Path® | $25K | $150 | $45 | 70% off | PFD |
+| Trader Career Path® | $50K | $190 | $57 | 70% off | PFD |
+| Trader Career Path® | $100K | $350 | $105 | 70% off | PFD |
+| The Gauntlet Mini™ | $50K | $170 | $51 | 70% off | PFD |
+| The Gauntlet Mini™ | $100K | $315 | $94.5 | 70% off | PFD |
+| The Gauntlet Mini™ | $150K | $375 | $112.5 | 70% off | PFD |
+| The Gauntlet Mini™ | $200K | $550 | $165 | 70% off | PFD |
 
 ## Current deal: Earn2Trade Black Week: Up to 70% Off (code PFD)
 

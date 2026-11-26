@@ -1,6 +1,6 @@
-# Goat Funded Trader Black Friday: 55% Off
+# Goat Funded Trader Black Friday: 55% Off (code CSV)
 
-Goat Funded Trader is offering 55% off.
+Goat Funded Trader is offering 55% off — discount code **CSV**.
 
 > Goat Funded Trader's Black Friday sale, verified on 23 Nov 2026: 55% off selected plans on MT5, seven days only, November 23-29, 2026, code at checkout.
 
@@ -12,11 +12,9 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - Summary: Goat Funded Trader takes 55% off selected plans for Black Friday, as checked on 23 November 2026, running seven full days to November 29, 2026.
 - Discount: 55% Off
-- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Discount code: CSV
 - Applied to: Selected plans
 - Deal url: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/
-
-Apply code CSV at checkout for 35% off any Goat Funded Trader challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

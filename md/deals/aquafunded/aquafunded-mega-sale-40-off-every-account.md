@@ -26,7 +26,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 |---|---|---|---|
 | [AquaFunded Black Friday: 35% Off Every Account](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) | Black Friday | 35% Off | Limited time |
 | [AquaFunded Honor Sale: 25% Off + 150% CFD Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/) | - | 25% Off | Limited time |
-| [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Halloween | 35% Off | Limited time |
+| [AquaFunded Halloween 35% Off All Accounts CFD Futures](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-35-off-all-accounts-cfd-futures/) | Halloween | 35% Off | Ended |
 | [AquaFunded 25% Off Evaluations Halloween, 200% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-200-refund/) | Halloween | 25% Off | 2026-11-05 (ended) |
 | [AquaFunded Halloween Promo: 25% Off Evaluations & 150% Refund](https://propfirmdiscount.com/deals/aquafunded/aquafunded-halloween-25-off-150-refund/) | Halloween | 25% Off | 2026-10-23 (ended) |
 

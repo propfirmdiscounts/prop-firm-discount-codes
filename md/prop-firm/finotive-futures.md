@@ -22,24 +22,22 @@ The best current Finotive Futures discount is 25% off with code PFDDEAL at check
 
 The Finotive Futures discount code PFDDEAL offers 25% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 12 account options across the Futures market. Prices shown include the discount applied using code PFDDEAL. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| One Step Evaluation | $25K | $129 | $96.8 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Evaluation | $50K | $179 | $134.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Evaluation | $100K | $299 | $224.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Evaluation | $150K | $399 | $299.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Funded | $25K | $129 | $96.8 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Funded | $50K | $179 | $134.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Funded | $100K | $299 | $224.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| One Step Funded | $150K | $299 | $224.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| Instant | $25K | $349 | $261.8 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| Instant | $50K | $549 | $411.8 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| Instant | $100K | $899 | $674.3 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| Instant | $150K | $1249 | $936.8 | 25% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| One Step Evaluation | $25K | $129 | $96.8 | 25% off | PFDDEAL |
+| One Step Evaluation | $50K | $179 | $134.3 | 25% off | PFDDEAL |
+| One Step Evaluation | $100K | $299 | $224.3 | 25% off | PFDDEAL |
+| One Step Evaluation | $150K | $399 | $299.3 | 25% off | PFDDEAL |
+| One Step Funded | $25K | $129 | $96.8 | 25% off | PFDDEAL |
+| One Step Funded | $50K | $179 | $134.3 | 25% off | PFDDEAL |
+| One Step Funded | $100K | $299 | $224.3 | 25% off | PFDDEAL |
+| One Step Funded | $150K | $299 | $224.3 | 25% off | PFDDEAL |
+| Instant | $25K | $349 | $261.8 | 25% off | PFDDEAL |
+| Instant | $50K | $549 | $411.8 | 25% off | PFDDEAL |
+| Instant | $100K | $899 | $674.3 | 25% off | PFDDEAL |
+| Instant | $150K | $1249 | $936.8 | 25% off | PFDDEAL |
 
 ## Current deal: Finotive Futures Black Friday: 60% Off Instant Accounts
 

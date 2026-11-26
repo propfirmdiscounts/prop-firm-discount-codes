@@ -26,28 +26,26 @@ The best current QT Funded discount is 50% off with code PFDDEAL at checkout, ve
 
 The QT Funded discount code PFDDEAL offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 16 account options across the CFDs market. Prices shown include the discount applied using code PFDDEAL. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| QT ONE | $5K | $110 | $55 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT ONE | $10K | $190 | $95 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT ONE | $25K | $350 | $175 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT ONE | $50K | $625 | $312.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT ONE | $100K | $1000 | $500 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $5K | $42.5 | $21.3 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $10K | $70 | $35 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $25K | $140 | $70 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $50K | $275 | $137.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $100K | $550 | $275 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT TWO | $200K | $1000 | $500 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT INSTANT | $5K | $75 | $37.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT INSTANT | $10K | $125 | $62.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT INSTANT | $25K | $230 | $115 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT INSTANT | $50K | $375 | $187.5 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
-| QT INSTANT | $100K | $750 | $375 | 50% off | PFDDEAL | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| QT ONE | $5K | $110 | $55 | 50% off | PFDDEAL |
+| QT ONE | $10K | $190 | $95 | 50% off | PFDDEAL |
+| QT ONE | $25K | $350 | $175 | 50% off | PFDDEAL |
+| QT ONE | $50K | $625 | $312.5 | 50% off | PFDDEAL |
+| QT ONE | $100K | $1000 | $500 | 50% off | PFDDEAL |
+| QT TWO | $5K | $42.5 | $21.3 | 50% off | PFDDEAL |
+| QT TWO | $10K | $70 | $35 | 50% off | PFDDEAL |
+| QT TWO | $25K | $140 | $70 | 50% off | PFDDEAL |
+| QT TWO | $50K | $275 | $137.5 | 50% off | PFDDEAL |
+| QT TWO | $100K | $550 | $275 | 50% off | PFDDEAL |
+| QT TWO | $200K | $1000 | $500 | 50% off | PFDDEAL |
+| QT INSTANT | $5K | $75 | $37.5 | 50% off | PFDDEAL |
+| QT INSTANT | $10K | $125 | $62.5 | 50% off | PFDDEAL |
+| QT INSTANT | $25K | $230 | $115 | 50% off | PFDDEAL |
+| QT INSTANT | $50K | $375 | $187.5 | 50% off | PFDDEAL |
+| QT INSTANT | $100K | $750 | $375 | 50% off | PFDDEAL |
 
 ## Current deal: QT Funded Black Friday: 60% Off, Free Account
 

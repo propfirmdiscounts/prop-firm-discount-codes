@@ -19,17 +19,15 @@ The best current Fundex discount is 10% off with code PFD at checkout, verified 
 
 The Fundex discount code PFD offers 10% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 5 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| 2-Step Classic | $10K | $89 | $80.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $25K | $259 | $233.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $50K | $359 | $323.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $100K | $529 | $476.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $200K | $1139 | $1025.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| 2-Step Classic | $10K | $89 | $80.1 | 10% off | PFD |
+| 2-Step Classic | $25K | $259 | $233.1 | 10% off | PFD |
+| 2-Step Classic | $50K | $359 | $323.1 | 10% off | PFD |
+| 2-Step Classic | $100K | $529 | $476.1 | 10% off | PFD |
+| 2-Step Classic | $200K | $1139 | $1025.1 | 10% off | PFD |
 
 ## Most recent deal (ended): Fundex 20% Off 1-Step Evaluation Accounts
 

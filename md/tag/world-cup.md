@@ -2,7 +2,7 @@
 
 World Cup prop firm promotions: 34 discount codes and challenge offers from 21 funded-trading firms, timed to the football tournament rather than the trading calendar — when several firms price-cut instead of running their usual evergreen coupon.
 
-As of 2026-07-20, the biggest offers: 60% OFF with code MUNDIAL60 at WSFunded, 50% OFF with code PFD at FundingTraders, 50% OFF with code PFD at FundingTraders, 50% OFF with code SPAIN at WSFunded, and 50% OFF with code WORLDCUP50 at Goat Funded Trader.
+As of 2026-07-20, the biggest offers: 60% OFF with code MUNDIAL60 at WSFunded, 50% OFF with code PFD at FundingTraders, 50% OFF with code PFD at FundingTraders, 50% OFF with code SPAIN at WSFunded, and 50% OFF with code CSV at Goat Funded Trader.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
@@ -15,7 +15,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-07-17 | Finotive Funding | Finotive Funding 30% Off World Cup Deal: Evaluation Accounts Up to $200K | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-30-off-world-cup/ |
 | 2026-07-16 | BrightFunded | BrightFunded World Cup Promotion: 25% Off All Challenges | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/bright-funded/brightfunded-world-cup-promotion/ |
 | 2026-07-15 | WSFunded | WSFunded 50% Off Trading Challenges: World Cup Fee Savings with Unchanged Rules | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-world-cup-promotion/ |
-| 2026-07-14 | Goat Funded Trader | Goat Funded Trader 50% Off Upfront Fee World Cup Challenge Deal | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-world-cup-50-percent-off/ |
+| 2026-07-14 | Goat Funded Trader | Goat Funded Trader 50% Off Upfront Fee World Cup Challenge Deal (code CSV) | 50% OFF | Ended | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-world-cup-50-percent-off/ |
 | 2026-07-01 | FundedSquad | FundedSquad 50% Off Evaluation Accounts and 35% Off Instant Models | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-percent-off-evaluations-35-percent-instant-world-cup/ |
 | 2026-06-30 | My Funded Futures | My Funded Futures 30% Off $25k and $50k Rapid Account Costs | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-30-off-rapid-world-cup/ |
 | 2026-06-25 | Funded Trading Plus | Funded Trading Plus (FT+) 40% Challenge Fee Discount Decisions Based on Unchanged Evaluation Rules | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-40-off-all-challenges-world-cup/ |

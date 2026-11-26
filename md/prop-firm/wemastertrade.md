@@ -18,12 +18,11 @@ The best current WeMasterTrade discount is 30% off with code PFD at checkout, ve
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: WeMasterTrade Black Friday: 29% Off All Packages
+## Most recent deal (ended): WeMasterTrade Black Friday: 29% Off All Packages
 
 - Deal last verified: 2026-11-23
-- Deal ends: 2026-11-25
+- Deal ends: 2026-11-25 (ended)
 - Discount: 29% Off
-- Discount code: FRIYAY29
 - Applied to: All packages
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/
@@ -56,7 +55,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-23 | WeMasterTrade Black Friday: 29% Off All Packages | 29% Off | 2026-11-25 | Black Friday | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/ |
+| 2026-11-23 | WeMasterTrade Black Friday: 29% Off All Packages | 29% Off | 2026-11-25 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/ |
 | 2026-10-29 | WeMasterTrade Halloween 36% Off All Packages Deal | 36% Off | 2026-10-31 (ended) | Halloween | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/ |
 | 2026-10-27 | WeMasterTrade 33% Off All Packages Plus Tiered BOGO | 33% Off | 2026-11-01 02:59 (ended) | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/ |
 | 2026-10-23 | WeMasterTrade 33% Off All Packages in Flash Sale | 33% Off | Ended | - | - | https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/ |

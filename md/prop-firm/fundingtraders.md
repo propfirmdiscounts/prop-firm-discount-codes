@@ -22,35 +22,33 @@ The best current FundingTraders discount is 81% off with code PFD at checkout, v
 
 The FundingTraders discount code PFD offers 81% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 23 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Instant | $10K | $179 | $34 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $25K | $319 | $60.6 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $50K | $479 | $91 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $100K | $749 | $142.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $200K | $1349 | $256.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| Instant | $400K | $2349 | $446.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $10K | $119 | $22.6 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $25K | $229 | $43.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $50K | $339 | $64.4 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $100K | $599 | $113.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro10 | $200K | $999 | $189.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $5K | $49 | $9.3 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $10K | $79 | $15 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $25K | $159 | $30.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $50K | $259 | $49.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $100K | $459 | $87.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Pro6 | $200K | $799 | $151.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $5K | $59 | $11.2 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $10K | $109 | $20.7 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $25K | $229 | $43.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $50K | $329 | $62.5 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $100K | $589 | $111.9 | 81% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step | $200K | $999 | $189.8 | 81% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Instant | $10K | $179 | $34 | 81% off | PFD |
+| Instant | $25K | $319 | $60.6 | 81% off | PFD |
+| Instant | $50K | $479 | $91 | 81% off | PFD |
+| Instant | $100K | $749 | $142.3 | 81% off | PFD |
+| Instant | $200K | $1349 | $256.3 | 81% off | PFD |
+| Instant | $400K | $2349 | $446.3 | 81% off | PFD |
+| 2-Step Pro10 | $10K | $119 | $22.6 | 81% off | PFD |
+| 2-Step Pro10 | $25K | $229 | $43.5 | 81% off | PFD |
+| 2-Step Pro10 | $50K | $339 | $64.4 | 81% off | PFD |
+| 2-Step Pro10 | $100K | $599 | $113.8 | 81% off | PFD |
+| 2-Step Pro10 | $200K | $999 | $189.8 | 81% off | PFD |
+| 2-Step Pro6 | $5K | $49 | $9.3 | 81% off | PFD |
+| 2-Step Pro6 | $10K | $79 | $15 | 81% off | PFD |
+| 2-Step Pro6 | $25K | $159 | $30.2 | 81% off | PFD |
+| 2-Step Pro6 | $50K | $259 | $49.2 | 81% off | PFD |
+| 2-Step Pro6 | $100K | $459 | $87.2 | 81% off | PFD |
+| 2-Step Pro6 | $200K | $799 | $151.8 | 81% off | PFD |
+| 1-Step | $5K | $59 | $11.2 | 81% off | PFD |
+| 1-Step | $10K | $109 | $20.7 | 81% off | PFD |
+| 1-Step | $25K | $229 | $43.5 | 81% off | PFD |
+| 1-Step | $50K | $329 | $62.5 | 81% off | PFD |
+| 1-Step | $100K | $589 | $111.9 | 81% off | PFD |
+| 1-Step | $200K | $999 | $189.8 | 81% off | PFD |
 
 ## Most recent deal (ended): FundingTraders: 50% Off $100K+ Accounts (code PFD)
 

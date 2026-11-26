@@ -22,32 +22,30 @@ The best current ThinkCapital discount is 10% off with code PFD at checkout, ver
 
 The ThinkCapital discount code PFD offers 10% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 20 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| LIGHTNING | $5K | $59 | $53.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| LIGHTNING | $10K | $99 | $89.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| LIGHTNING | $25K | $199 | $179.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| LIGHTNING | $50K | $299 | $269.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| LIGHTNING | $100K | $499 | $449.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| DUAL STEP | $5K | $59 | $53.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| DUAL STEP | $10K | $99 | $89.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| DUAL STEP | $25K | $199 | $179.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| DUAL STEP | $50K | $299 | $269.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| DUAL STEP | $100K | $499 | $449.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| NEXUS | $5K | $39 | $35.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| NEXUS | $10K | $79 | $71.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| NEXUS | $25K | $139 | $125.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| NEXUS | $50K | $199 | $179.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| NEXUS | $100K | $349 | $314.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| BOLT | $2.5K | $49 | $44.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| BOLT | $5K | $89 | $80.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| BOLT | $10K | $159 | $143.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| BOLT | $25K | $349 | $314.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
-| BOLT | $50K | $599 | $539.1 | 10% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| LIGHTNING | $5K | $59 | $53.1 | 10% off | PFD |
+| LIGHTNING | $10K | $99 | $89.1 | 10% off | PFD |
+| LIGHTNING | $25K | $199 | $179.1 | 10% off | PFD |
+| LIGHTNING | $50K | $299 | $269.1 | 10% off | PFD |
+| LIGHTNING | $100K | $499 | $449.1 | 10% off | PFD |
+| DUAL STEP | $5K | $59 | $53.1 | 10% off | PFD |
+| DUAL STEP | $10K | $99 | $89.1 | 10% off | PFD |
+| DUAL STEP | $25K | $199 | $179.1 | 10% off | PFD |
+| DUAL STEP | $50K | $299 | $269.1 | 10% off | PFD |
+| DUAL STEP | $100K | $499 | $449.1 | 10% off | PFD |
+| NEXUS | $5K | $39 | $35.1 | 10% off | PFD |
+| NEXUS | $10K | $79 | $71.1 | 10% off | PFD |
+| NEXUS | $25K | $139 | $125.1 | 10% off | PFD |
+| NEXUS | $50K | $199 | $179.1 | 10% off | PFD |
+| NEXUS | $100K | $349 | $314.1 | 10% off | PFD |
+| BOLT | $2.5K | $49 | $44.1 | 10% off | PFD |
+| BOLT | $5K | $89 | $80.1 | 10% off | PFD |
+| BOLT | $10K | $159 | $143.1 | 10% off | PFD |
+| BOLT | $25K | $349 | $314.1 | 10% off | PFD |
+| BOLT | $50K | $599 | $539.1 | 10% off | PFD |
 
 ## Current deal: ThinkCapital: 40% Off Everything for Black Friday
 

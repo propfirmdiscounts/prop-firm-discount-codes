@@ -19,28 +19,26 @@ The best current Top One Futures discount is 70% off with code PFD at checkout, 
 
 The Top One Futures discount code PFD offers 70% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 16 account options across the Futures market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Elite Daily | $25K | $178 | $53.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $50K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $100K | $398 | $119.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Daily | $150K | $549 | $164.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $25K | $139 | $41.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $50K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $100K | $259 | $77.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| Elite Access | $150K | $359 | $107.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $25K | $419 | $125.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $50K | $679 | $203.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $100K | $821 | $246.3 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| INSTANT Sim Funded | $150K | $939 | $281.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $25K | $218 | $65.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $50K | $398 | $119.4 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $100K | $563 | $168.9 | 70% off | PFD | Tested at checkout 2026-11-23 |
-| IGNITE Instant Funding | $150K | $799 | $239.7 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Elite Daily | $25K | $178 | $53.4 | 70% off | PFD |
+| Elite Daily | $50K | $218 | $65.4 | 70% off | PFD |
+| Elite Daily | $100K | $398 | $119.4 | 70% off | PFD |
+| Elite Daily | $150K | $549 | $164.7 | 70% off | PFD |
+| Elite Access | $25K | $139 | $41.7 | 70% off | PFD |
+| Elite Access | $50K | $218 | $65.4 | 70% off | PFD |
+| Elite Access | $100K | $259 | $77.7 | 70% off | PFD |
+| Elite Access | $150K | $359 | $107.7 | 70% off | PFD |
+| INSTANT Sim Funded | $25K | $419 | $125.7 | 70% off | PFD |
+| INSTANT Sim Funded | $50K | $679 | $203.7 | 70% off | PFD |
+| INSTANT Sim Funded | $100K | $821 | $246.3 | 70% off | PFD |
+| INSTANT Sim Funded | $150K | $939 | $281.7 | 70% off | PFD |
+| IGNITE Instant Funding | $25K | $218 | $65.4 | 70% off | PFD |
+| IGNITE Instant Funding | $50K | $398 | $119.4 | 70% off | PFD |
+| IGNITE Instant Funding | $100K | $563 | $168.9 | 70% off | PFD |
+| IGNITE Instant Funding | $150K | $799 | $239.7 | 70% off | PFD |
 
 ## Current deal: Top One Futures Final Week: Elite Access $39 (code PFD)
 

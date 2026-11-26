@@ -22,7 +22,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Discount | Expires |
 |---|---|---|
-| [E8 Markets Winter ARC: Up to 50% Off Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) | 50% Off | 2026-11-25 |
+| [E8 Markets Winter ARC: Up to 50% Off Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) | 50% Off | 2026-11-25 (ended) |
 | [E8 Markets: 50% Off Signature Classic and Arc Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) | 50% Off | 2026-10-20 (ended) |
 | [E8 Markets Winter ARC Promo: Up To 50% Off Evaluation Accounts](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) | 50% Off | 2026-10-25 (ended) |
 | [E8 Markets: Up to 50% Off Evaluation Pricing Across Multiple Account Tiers](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) | 50% Off | Ended |

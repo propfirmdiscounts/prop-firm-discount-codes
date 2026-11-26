@@ -147,7 +147,7 @@
                 "Instant Funding Accounts, All Sizes"
             ],
             "date_published": "2026-11-24",
-            "date_exp": "2026-11-25",
+            "date_exp": "2026-11-25 (ended)",
             "event": "Black Friday",
             "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/"
         },
@@ -667,21 +667,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13175,
-            "title": "Stocktober Sale 20% Off All Accounts",
+            "deal_id": 13476,
+            "title": "15% Off, Applied Automatically",
             "offer_type": "deal",
-            "discount_value": "20%",
+            "discount_value": "15%",
             "scope": [
-                "All Accounts"
+                "Checkout Purchases"
             ],
-            "date_published": "2026-10-28",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/"
+            "date_published": "2026-11-25",
+            "date_exp": "2026-11-30 23:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-applied-automatically/"
         },
         "deal_count": {
-            "total": 9,
-            "this_year": 7,
+            "total": 10,
+            "this_year": 8,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/tradethepool",
@@ -861,25 +861,25 @@
         "prop_firm": "Earn2Trade",
         "slug": "earn2trade",
         "code": "PFD",
-        "discount": "50%",
+        "discount": "70%",
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13211,
-            "title": "50% Off All Evaluations",
+            "deal_id": 13480,
+            "title": "Black Week: Up to 70% Off Evaluations",
             "offer_type": "coupon",
-            "discount_value": "50%",
+            "discount_value": "70%",
             "scope": [
-                "All Evaluations"
+                "Tcp And Gau Evaluations"
             ],
-            "date_published": "2026-11-02",
-            "date_exp": "Limited time",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/"
+            "date_published": "2026-11-25",
+            "date_exp": "2026-11-29",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/"
         },
         "deal_count": {
-            "total": 19,
-            "this_year": 12,
+            "total": 20,
+            "this_year": 13,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/earn2trade",
@@ -1302,7 +1302,7 @@
                 "All Packages"
             ],
             "date_published": "2026-11-23",
-            "date_exp": "2026-11-25",
+            "date_exp": "2026-11-25 (ended)",
             "event": "Black Friday",
             "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/"
         },
@@ -1422,25 +1422,25 @@
         "prop_firm": "Phoenix Trader Funding",
         "slug": "phoenix-trader-funding",
         "code": "PFD",
-        "discount": "40%",
+        "discount": "30%",
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13132,
-            "title": "25K Daily Starter at $119.40 - 40% Off on TFeed",
+            "deal_id": 13481,
+            "title": "40% Off Daily and Spark Challenges",
             "offer_type": "coupon",
             "discount_value": "40%",
             "scope": [
-                "Daily Starter, 25K Account, Tfeed"
+                "Daily Challenges, Spark Challenges"
             ],
-            "date_published": "2026-11-04",
-            "date_exp": "2026-11-18 17:59 (ended)",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/"
+            "date_published": "2026-11-25",
+            "date_exp": "2026-12-12 17:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/"
         },
         "deal_count": {
-            "total": 24,
-            "this_year": 23,
+            "total": 25,
+            "this_year": 24,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/phoenixtraderfunding",
@@ -1558,21 +1558,21 @@
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13287,
-            "title": "GTA VI Promo: 60% Off Challenges",
+            "deal_id": 13473,
+            "title": "Up to 60% Off Every Challenge",
             "offer_type": "coupon",
             "discount_value": "60%",
             "scope": [
-                "Every Challenge (1-Step And 2-Step)"
+                "Every Challenge"
             ],
-            "date_published": "2026-11-19",
-            "date_exp": "2026-11-23 (ended)",
-            "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/"
+            "date_published": "2026-11-25",
+            "date_exp": "2026-11-29 23:59",
+            "event": "Black Friday",
+            "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/"
         },
         "deal_count": {
-            "total": 4,
-            "this_year": 4,
+            "total": 5,
+            "this_year": 5,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/dojifunding",

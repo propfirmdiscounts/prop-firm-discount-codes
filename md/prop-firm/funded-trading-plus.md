@@ -26,33 +26,30 @@ The best current Funded Trading Plus discount is 20% off with code PFD at checko
 
 The Funded Trading Plus discount code PFD offers 20% off eligible accounts. Select your account type and size below to view the discounted price.
 
-Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
-
 The pricing table covers 14 account options across the CFDs market. Prices shown include the discount applied using code PFD. Discounts may vary by account type and size.
 
-| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
-|---|---|---|---|---|---|---|
-| Instant Funding | $5K | $249 | $199.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding | $10K | $429 | $343.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding | $25K | $1099 | $879.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding | $50K | $2199 | $1759.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| Instant Funding | $100K | $4499 | $3599.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step Express | $10K | $99 | $79.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step Express | $25K | $199 | $159.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step Express | $50K | $349 | $279.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step Express | $100K | $549 | $439.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 1-Step Express | $200K | $999 | $799.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $10K | $89 | $71.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $25K | $169 | $135.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $50K | $319 | $255.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
-| 2-Step Classic | $100K | $549 | $439.2 | 20% off | PFD | Tested at checkout 2026-11-23 |
+| Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code |
+|---|---|---|---|---|---|
+| Instant Funding | $5K | $249 | $199.2 | 20% off | PFD |
+| Instant Funding | $10K | $429 | $343.2 | 20% off | PFD |
+| Instant Funding | $25K | $1099 | $879.2 | 20% off | PFD |
+| Instant Funding | $50K | $2199 | $1759.2 | 20% off | PFD |
+| Instant Funding | $100K | $4499 | $3599.2 | 20% off | PFD |
+| 1-Step Express | $10K | $99 | $79.2 | 20% off | PFD |
+| 1-Step Express | $25K | $199 | $159.2 | 20% off | PFD |
+| 1-Step Express | $50K | $349 | $279.2 | 20% off | PFD |
+| 1-Step Express | $100K | $549 | $439.2 | 20% off | PFD |
+| 1-Step Express | $200K | $999 | $799.2 | 20% off | PFD |
+| 2-Step Classic | $10K | $89 | $71.2 | 20% off | PFD |
+| 2-Step Classic | $25K | $169 | $135.2 | 20% off | PFD |
+| 2-Step Classic | $50K | $319 | $255.2 | 20% off | PFD |
+| 2-Step Classic | $100K | $549 | $439.2 | 20% off | PFD |
 
-## Current deal: Funded Trading Plus Black Friday: 40% Off Instant
+## Most recent deal (ended): Funded Trading Plus Black Friday: 40% Off Instant
 
 - Deal last verified: 2026-11-24
-- Deal ends: 2026-11-25
+- Deal ends: 2026-11-25 (ended)
 - Discount: 40% Off
-- Discount code: INSTANT40
 - Applied to: Instant Funding accounts, all sizes
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/
@@ -85,7 +82,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-24 | Funded Trading Plus Black Friday: 40% Off Instant | 40% Off | 2026-11-25 | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |
+| 2026-11-24 | Funded Trading Plus Black Friday: 40% Off Instant | 40% Off | 2026-11-25 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |
 | 2026-11-22 | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/ |
 | 2026-11-20 | Funded Trading Plus Black Friday: 37.5% Off $5K-$10K | 37.5% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/ |
