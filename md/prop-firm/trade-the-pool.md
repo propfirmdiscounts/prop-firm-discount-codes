@@ -1,6 +1,6 @@
 # Trade The Pool Discount Code
 
-The best current Trade The Pool discount is 10% off with code WWS4GW at checkout, verified by the PropFirmDiscount team in November 2026. Trade The Pool currently has 9 deals (1 with discount codes).
+The best current Trade The Pool discount is 10% off with code WWS4GW at checkout, verified by the PropFirmDiscount team in November 2026. Trade The Pool currently has 10 deals (1 with discount codes).
 
 > Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016. Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry. A similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.
 
@@ -8,7 +8,7 @@ The best current Trade The Pool discount is 10% off with code WWS4GW at checkout
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Trade The Pool
-- Deal last verified: 2026-10-28
+- Deal last verified: 2026-11-25
 - Trustpilot score: 4.5/5 (1016 reviews)
 - Official web: tradethepool.com
 - Email: help@tradethepool.com
@@ -18,31 +18,36 @@ The best current Trade The Pool discount is 10% off with code WWS4GW at checkout
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Trade The Pool Stocktober Sale: 20% Off All Accounts
+## Current deal: Trade The Pool: 15% Off, Applied Automatically
 
-- Deal last verified: 2026-10-28
-- Deal ends: Limited time
-- Discount: 20% Off
-- Applied to: All accounts
-- Deal url: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
+- Deal last verified: 2026-11-25
+- Deal ends: 2026-11-30 23:59
+- Discount: 15% Off
+- Applied to: Checkout purchases
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-applied-automatically/
 
 ## Trade The Pool deal FAQ
 
-**What does the Trade The Pool Stocktober Sale include?**
+**Do I need a code for the Trade The Pool Black Friday deal?**
 
-It includes 20% off all Trade The Pool accounts. The sale is stated as this week only and no account prices or closing date are stated.
+No. The announcement states no promo code is needed: the 15% discount is applied automatically at checkout.
 
-**How long does the Trade The Pool Stocktober Sale run?**
+**How long does the deal run?**
 
-It is stated as this week only, as a limited-time sale. No specific end date is given, so the 20% rate should be treated as tied to that short window.
+It starts Wednesday 25 November 2026 and runs through the end of Cyber Monday, ending Monday night 30 November 2026 at midnight ET.
 
-**Does the Trade The Pool discount change account rules?**
+**What will I pay at the stated rate?**
 
-No. The promotion lowers the purchase price only. Evaluation rules, membership terms and drawdown limits stay as set and trading risk is not reduced.
+85% of the list price, our arithmetic from the stated 15% rate. No exclusions are stated in the announcement, so verify your basket total before paying.
 
-**Who may this Trade The Pool sale suit?**
+**Does the discount change trading risk?**
 
-It may suit a buyer who had already chosen an account and was comparing entry prices. The account-wide scope means the comparison does not depend on picking a particular tier.
+No. The discount lowers the purchase cost only; the trading itself carries the same risk as at full price.
+
+**How is the firm rated?**
+
+Trustpilot 4.5 out of 5 from 1,016 reviews as of November 2026.
 
 ## Deals (last 2 months, newest first)
 
@@ -50,4 +55,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Trade The Pool: 15% Off, Applied Automatically | 15% Off | 2026-11-30 23:59 | Black Friday | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-applied-automatically/ |
 | 2026-10-28 | Trade The Pool Stocktober Sale: 20% Off All Accounts | 20% Off | Limited time | - | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/ |

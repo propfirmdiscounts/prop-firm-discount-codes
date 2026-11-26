@@ -1,13 +1,18 @@
 # Prop Firm Coupons & Promo Code Prop Firm Deals (2026)
 
-Verified prop firm discount codes for challenges, evaluations, resets and add-ons: 3,039 offers from 118 funded-trading firms. Every code is checked against the firm's checkout before listing, and the newest deals sit at the top of the archive.
+Verified prop firm discount codes for challenges, evaluations, resets and add-ons: 3,044 offers from 118 funded-trading firms. Every code is checked against the firm's checkout before listing, and the newest deals sit at the top of the archive.
 
-As of 2026-11-25, the biggest offers this month: 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Funded Hero Futures, 60% OFF with code PFD at Doji Funding, 50% OFF with code INSTANTBF at Blueberry Funded, and 45% OFF with code BFWEEK at Atlas Funded.
+As of 2026-11-25, the biggest offers this month: 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Earn2Trade, 70% OFF with code PFD at Funded Hero Futures, 60% OFF with code PFD at Doji Funding, and 50% OFF with code INSTANTBF at Blueberry Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily and Spark | 40% OFF | 2026-12-12 17:59 | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/ |
+| 2026-11-25 | Earn2Trade | Earn2Trade Black Week: Up to 70% Off (code PFD) | 70% OFF | 2026-11-29 | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/ |
+| 2026-11-25 | FundingPips | FundingPips Black Friday: 22% Off All Evaluations | 22% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-22-off-all-evaluations/ |
+| 2026-11-25 | CK PropFirm | CK PropFirm Black Friday: 30% Off All Challenges | 30% OFF | 2026-11-29 23:59 | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-30-off-all-challenges/ |
+| 2026-11-25 | Topstep | Topstep: 25% Off All Challenges and DLL Accounts | 25% OFF | 2026-12-01 00:59 | - | https://propfirmdiscount.com/deals/topstep/topstep-25-off-all-challenges-dll-accounts/ |
 | 2026-11-25 | Blueberry Funded | Blueberry Funded 50% Off Instant Lite – Black Friday | 50% OFF | 2026-11-29 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-50-off-instant-lite-black-friday/ |
 | 2026-11-25 | Doji Funding | Doji Funding: Up to 60% Off Every Challenge (code PFD) | 60% OFF | 2026-11-29 23:59 | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/ |
 | 2026-11-25 | City Traders Imperium (CTI) | CTI Black Friday: 20% Off the 2-Step Challenge | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-black-friday-2-step-challenge-20-off/ |
@@ -33,11 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-23 | WSFunded | WSFunded Black Friday: 50% Off + Free Reset | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |
 | 2026-11-23 | Finotive Futures | Finotive Futures Black Friday: 60% Off Instant Accounts | 60% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/ |
 | 2026-11-23 | Funded Elite | Funded Elite Black Friday: Up to 60% Off + $1 Flash | 60% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/ |
-| 2026-11-23 | OFP Funding | OFP Funding 50% Off Every Account – Black Friday | 50% OFF | 2026-11-26 17:59 | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/ |
-| 2026-11-23 | FTUK | FTUK 50% Off Every Instant Account – Black Friday | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-account-black-friday/ |
-| 2026-11-23 | City Traders Imperium (CTI) | CTI 15% Off Direct Funding – Black Friday | 15% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-15-off-direct-funding-black-friday/ |
-| 2026-11-23 | FundedSquad | FundedSquad Up to 65% Off + BOGO – Black Friday | 65% OFF | 2026-12-03 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-up-to-65-off-bogo-black-friday/ |
-| 2026-11-23 | Blueberry Funded | Blueberry Funded 40% Off Prime 2-Step – Black Friday | 40% OFF | 2026-11-29 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-40-off-prime-2-step-black-friday/ |
 
 ## About this archive
 

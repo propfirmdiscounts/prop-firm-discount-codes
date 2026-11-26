@@ -13,19 +13,19 @@ Compare the best prop firm discount codes and deals available this month, ranked
 | 5 | Alpha Funded | Black Friday | - | 80% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 6 | Top One Trader | Black Friday | - | 80% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
 | 7 | QT Funded | Black Friday | - | 75% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 8 | Funded Hero Futures | - | PFD | 70% | Exclusive Code | Limited time | Futures | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
-| 9 | Top One Futures | Black Friday | PFD | 70% | Exclusive Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 10 | FundYourFX | Black Friday | - | 70% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 11 | FundedSquad | Black Friday | - | 65% | Campaign Code | Ends Dec 3, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
-| 12 | Finotive Funding | Black Friday | - | 65% | Campaign Code | Ends Dec 4, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
-| 13 | Doji Funding | Black Friday | PFD | 60% | Exclusive Code | Ends Nov 29, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/doji-funding/ |
-| 14 | Funded Hero | - | PFD | 60% | Exclusive Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 15 | Finotive Futures | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
-| 16 | Funded Elite | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-elite/ |
-| 17 | SFX Funded | Black Friday | - | 60% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
-| 18 | WSFunded | - | - | 60% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/wsfunded/ |
-| 19 | Bullwaves Prime | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| 20 | Plutus Trade Base | - | - | 60% | Campaign Code | Limited time | Forex/CFD + Crypto | https://propfirmdiscount.com/prop-firm/plutus-trade-base/ |
+| 8 | Earn2Trade | Black Friday | PFD | 70% | Exclusive Code | Ends Nov 29, 2026 | Futures | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 9 | Funded Hero Futures | - | PFD | 70% | Exclusive Code | Limited time | Futures | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
+| 10 | Top One Futures | Black Friday | PFD | 70% | Exclusive Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 11 | FundYourFX | Black Friday | - | 70% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
+| 12 | FundedSquad | Black Friday | - | 65% | Campaign Code | Ends Dec 3, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 13 | Finotive Funding | Black Friday | - | 65% | Campaign Code | Ends Dec 4, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
+| 14 | Doji Funding | Black Friday | PFD | 60% | Exclusive Code | Ends Nov 29, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/doji-funding/ |
+| 15 | Funded Hero | - | PFD | 60% | Exclusive Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 16 | Finotive Futures | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
+| 17 | Funded Elite | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-elite/ |
+| 18 | SFX Funded | Black Friday | - | 60% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/sfx-funded/ |
+| 19 | WSFunded | - | - | 60% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/wsfunded/ |
+| 20 | Bullwaves Prime | Black Friday | - | 60% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/bullwaves/ |
 
 Ranked highest discount first, one row per firm that posted a deal this month - a firm without an affiliate code still appears, carrying its own campaign. The Event column is the deal's own event tag (the emoji a tag may start with is dropped), and "-" means the deal belongs to no event. "Exclusive Code" is a standing code the PropFirmDiscount team distributes through our partnerships - it works any time, and the exclusive table above prints "No expiry" for it. "Campaign Code" is a firm's own promotion. The Offer ends cell only ever repeats what the firm said: "Ends Oct 31, 2026" while the offer is running, or "Limited time" when the firm never stated one, which we print instead of guessing a date. A deal with no stated date is treated as running for one month from the day it was posted; once that month is up, or once a stated end date has passed, it is left out of the table. Discounts are the maximum each firm advertises - exact % depends on the account and program.
 

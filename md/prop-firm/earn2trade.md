@@ -1,14 +1,14 @@
 # Earn2Trade Discount Code
 
-The best current Earn2Trade discount is 50% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Earn2Trade currently has 19 deals (17 with discount codes).
+The best current Earn2Trade discount is 70% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. Earn2Trade currently has 20 deals (18 with discount codes).
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 
 - Discount code: PFD
-- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 70% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Earn2Trade
-- Deal last verified: 2026-11-02
+- Deal last verified: 2026-11-25
 - Trustpilot score: 4.5/5 (5108 reviews)
 - Official web: earn2trade.com
 - Email: support@earn2trade.com
@@ -20,7 +20,7 @@ The best current Earn2Trade discount is 50% off with code PFD at checkout, verif
 
 ## Earn2Trade challenge account pricing
 
-The Earn2Trade discount code PFD offers 50% off eligible accounts. Select your account type and size below to view the discounted price.
+The Earn2Trade discount code PFD offers 70% off eligible accounts. Select your account type and size below to view the discounted price.
 
 Prices tested at checkout by the PropFirmDiscount team on Nov 23, 2026.
 
@@ -28,44 +28,49 @@ The pricing table covers 7 account options across the CFDs market. Prices shown 
 
 | Account | Account Size | Regular Price | Discounted Price | Discount | Discount Code | Verified |
 |---|---|---|---|---|---|---|
-| Trader Career Path® | $25K | $150 | $75 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Trader Career Path® | $50K | $190 | $95 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| Trader Career Path® | $100K | $350 | $175 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $50K | $170 | $85 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $100K | $315 | $157.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $150K | $375 | $187.5 | 50% off | PFD | Tested at checkout 2026-11-23 |
-| The Gauntlet Mini™ | $200K | $550 | $275 | 50% off | PFD | Tested at checkout 2026-11-23 |
+| Trader Career Path® | $25K | $150 | $45 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Trader Career Path® | $50K | $190 | $57 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| Trader Career Path® | $100K | $350 | $105 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $50K | $170 | $51 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $100K | $315 | $94.5 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $150K | $375 | $112.5 | 70% off | PFD | Tested at checkout 2026-11-23 |
+| The Gauntlet Mini™ | $200K | $550 | $165 | 70% off | PFD | Tested at checkout 2026-11-23 |
 
-## Current deal: Earn2Trade: 50% Off All Evaluations, Ladder Removed (code PFD)
+## Current deal: Earn2Trade Black Week: Up to 70% Off (code PFD)
 
-- Deal last verified: 2026-11-02
-- Deal ends: Limited time
-- Discount: 50% Off
+- Deal last verified: 2026-11-25
+- Deal ends: 2026-11-29
+- Discount: 70% Off
 - Discount code: PFD
-- Applied to: All Evaluations
-- Deal url: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
+- Applied to: TCP and GAU evaluations
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/
 
 ## Earn2Trade deal FAQ
 
-**What does the Earn2Trade code take off?**
+**What does the Earn2Trade Black Week deal take off?**
 
-50% off all evaluations. The discount applies for the first 60 days of the subscription, including the purchase date; evaluations renew automatically every 30 days until you pass or cancel. Standard prices apply after the 60 days.
+The deal takes up to 70% off TCP and GAU evaluations. GAU100 and TCP100 take 70% off in month 1 and 60% off in month 2; GAU150 takes 60% off for 2 months; TCP25, GAU50, TCP50 and GAU200 take 50% off for 2 months.
 
-**Which resets are discounted?**
+**How long do the discounted prices last?**
 
-On select plans: TCP25 resets are $65 (35% off), TCP50 resets are $85 (25% off) and GAU50 resets are $75 (35% off), under the same first-60-days terms.
-
-**What changed with the Progression Ladder?**
-
-From 2 November the ladder is gone for new evaluations: contract limits are enforced automatically, so exceeding your maximum no longer results in a failure. The update applies to evaluations purchased on or after 2 November; existing subscriptions and their funded accounts stay under the rules from purchase.
+The discounted rates cover the first 2 months of the subscription. Standard subscription prices apply to all plans from the third month onward.
 
 **When does the offer end?**
 
-The announcement says the offer is available for a limited time only and states no end date. Separately, the discounted pricing itself runs for the first 60 days of each subscription.
+The offer is valid through 29 November 2026.
 
-**Does the discount make the evaluation easier to pass?**
+**How do I apply the discount code?**
 
-No. The discount lowers the subscription cost only. The ladder removal is a separate firm rule update. All evaluations use a virtual account balance - trading risk itself is unchanged.
+Enter the deal code at checkout to apply your plan's tier rate. Check that the discounted subscription price shows before you pay.
+
+**Does the deal change the evaluation rules or lower the risk?**
+
+No. The promotion only reduces the subscription cost and does not reduce trading risk. The evaluation rules, the drawdown limits and the market risk on each account stay exactly as they are.
+
+**What does Trustpilot show for Earn2Trade?**
+
+Trustpilot shows 4.5/5 from 5,108 reviews as of November 2026.
 
 ## Deals (last 2 months, newest first)
 
@@ -73,5 +78,6 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Earn2Trade Black Week: Up to 70% Off (code PFD) | 70% Off | 2026-11-29 | Black Friday | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/ |
 | 2026-11-02 | Earn2Trade: 50% Off All Evaluations, Ladder Removed (code PFD) | 50% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/ |
 | 2026-10-01 | Earn2Trade: 50% Off Evaluations and Resets Plus $165 Anniversary Bundle (code PFD) | 50% Off | 2026-10-18 (ended) | - | PFD | https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/ |

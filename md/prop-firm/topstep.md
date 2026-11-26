@@ -1,9 +1,9 @@
 # Topstep Discount Code
 
-Topstep currently lists 8 deals (7 with discount codes). Compare available promotions below to find the latest savings on Topstep challenge accounts, checked October 2026 by the PropFirmDiscount team.
+Topstep currently lists 9 deals (8 with discount codes). Compare available promotions below to find the latest savings on Topstep challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: Topstep
-- Deal last verified: 2026-10-15
+- Deal last verified: 2026-11-25
 - Trustpilot score: 3.7/5 (15140 reviews)
 - Official web: topstep.com
 - Address: Chicago, United States
@@ -11,36 +11,40 @@ Topstep currently lists 8 deals (7 with discount codes). Compare available promo
 - Active deal url: https://propfirmdiscount.com/go/topstep
 - Firm page: https://propfirmdiscount.com/prop-firm/topstep/
 
-## Most recent deal (ended): Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges
+## Current deal: Topstep: 25% Off All Challenges and DLL Accounts
 
-- Deal last verified: 2026-10-15
-- Deal ends: Ended
-- Discount: Only $65
-- Applied to: 3K Challenge, Undead Account, Slasher Account, Halloween
-- Event: Halloween
-- Deal url: https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/
+- Deal last verified: 2026-11-25
+- Deal ends: 2026-12-01 00:59
+- Discount: 25% Off
+- Discount code: 2BILLION25
+- Applied to: All Challenges, DLL accounts
+- Deal url: https://propfirmdiscount.com/deals/topstep/topstep-25-off-all-challenges-dll-accounts/
 
 ## Topstep deal FAQ
 
-**What discount does Topstep offer in this promotion?**
+**What does the Topstep celebration code take off?**
 
-Topstep is offering special $3K Challenge accounts for a one-time fee of $199 (Undead model) or $65 (Slasher model). There are no monthly subscriptions associated with these accounts.
+25% off all Challenges and DLL accounts. At that rate you pay 75% of the list price, our arithmetic from the stated figure.
 
-**What are the limits on the $199 Topstep Undead account?**
+**How many times can I use the code?**
 
-The $199 account provides buying power of 5 minis or 50 micros and features a $1,000 static maximum loss limit. The profit goal is set at $3,000.
+Once. The announcement states the code is a one-time use per trader.
 
-**How does the $65 Slasher account differ?**
+**When does the offer end?**
 
-The $65 account has a lower upfront cost but cuts the static maximum loss limit to $500. Buying power is also reduced to 2 minis or 20 micros.
+The window runs from Wednesday 25 November through Cyber Monday 30 November 2026, with the offer expiring 30 November 2026 at 11:59 PM CT.
 
-**How many promotional accounts can a trader buy?**
+**What is the milestone behind the offer?**
 
-Traders are allowed to purchase up to 5 of the $199 Undead accounts and up to 5 of the $65 Slasher accounts.
+Topstep says it has crossed $2 billion paid out to its traders, a figure the firm credits to its trading community.
 
-**Do these Topstep challenges have a profit split or resets?**
+**Does the discount change trading risk?**
 
-No, these specific one-time fee models do not feature a 90/10 profit split or allow for account resets.
+No. The discount lowers the purchase cost only; the trading itself carries the same risk as at full price.
+
+**How is the firm rated?**
+
+Trustpilot 3.7 out of 5 from 15,140 reviews as of November 2026.
 
 ## Deals (last 2 months, newest first)
 
@@ -48,4 +52,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Topstep: 25% Off All Challenges and DLL Accounts | 25% Off | 2026-12-01 00:59 | - | - | https://propfirmdiscount.com/deals/topstep/topstep-25-off-all-challenges-dll-accounts/ |
 | 2026-10-15 | Topstep Halloween Sale: $65 and $199 Flat-Fee $3K Challenges | Only $65 | Ended | Halloween | No Code Required | https://propfirmdiscount.com/deals/topstep/topstep-halloween-flat-fee-3k-challenges-65-199/ |
