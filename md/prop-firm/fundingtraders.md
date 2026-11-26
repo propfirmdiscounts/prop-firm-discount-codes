@@ -1,6 +1,6 @@
 # FundingTraders Discount Code
 
-The best current FundingTraders discount is 81% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. FundingTraders currently has 100 deals with discount codes.
+The best current FundingTraders discount is 81% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. FundingTraders currently has 101 deals with discount codes.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere. Led by a veteran Wall Street Trader.
 
@@ -8,8 +8,8 @@ The best current FundingTraders discount is 81% off with code PFD at checkout, v
 - Discount: 81% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundingTraders
-- Deal last verified: 2026-11-19
-- Trustpilot score: 3.1/5 (3304 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 3.0/5 (3309 reviews)
 - Official web: fundingtraders.com
 - Email: help@fundingtraders.com
 - Address: Dubai, U.A.E.
@@ -50,35 +50,36 @@ The pricing table covers 23 account options across the CFDs market. Prices shown
 | 1-Step | $100K | $589 | $111.9 | 81% off | PFD |
 | 1-Step | $200K | $999 | $189.8 | 81% off | PFD |
 
-## Most recent deal (ended): FundingTraders: 50% Off $100K+ Accounts (code PFD)
+## Current deal: FundingTraders Thanksgiving: 70% Off Next Account (code PFD)
 
-- Deal last verified: 2026-11-19
-- Deal ends: 2026-11-23 09:00 (ended)
-- Discount: 50% Off
-- Applied to: $100K+ Accounts
-- Deal url: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/
+- Deal last verified: 2026-11-26
+- Deal ends: Limited time
+- Discount: 70% Off
+- Discount code: PFD
+- Applied to: Your next FT account
+- Deal url: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/
 
 ## FundingTraders deal FAQ
 
-**What does the offer include?**
+**What does the FundingTraders Thanksgiving promotion include?**
 
-Three parts on one qualifying purchase: 50% off a $100K+ account, an instant free matching account, plus entry into the draw for GTA VI Ultimate Edition copies.
+It takes 70% off your next FT account. The saving applies at checkout when the deal code for this offer is entered. It is presented as a Thanksgiving thank-you to the firm's trading community.
 
-**How does the free matching account work?**
+**Who is the FundingTraders Thanksgiving offer aimed at?**
 
-Buy one $100K+ account and a free matching account unlocks instantly, on the same terms as the account bought.
+The firm aims it at traders working towards their first payout and traders pushing for a next milestone. It fits a trader who was already planning to buy another FT account.
 
-**How does the GTA VI draw work?**
+**Does the 70% discount change the evaluation or its rules?**
 
-Buying with the promotion's code enters the draw: 30 copies of GTA VI Ultimate Edition, 10 copies per account type. Winners are announced live on Monday 23 November 2026 at 9 AM EST.
+No. The promotion changes the price of the next account only; the evaluation, its rules and the trading risk inside the account stay unchanged.
 
-**Does the promotion change trading rules?**
+**How long does the Thanksgiving promotion run?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+It is framed as a Thanksgiving offer. No end date is stated for it.
 
-**How is the firm rated?**
+**What do reviews say about FundingTraders?**
 
-FundingTraders holds a 3.1/5 rating from 3,293 reviews as of November 2026, according to Trustpilot.
+FundingTraders holds a 3/5 rating from 3,309 reviews as of November 2026, according to Trustpilot. That is a mid-range score across a large review base.
 
 ## Deals (last 2 months, newest first)
 
@@ -86,6 +87,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | FundingTraders Thanksgiving: 70% Off Next Account (code PFD) | 70% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/ |
 | 2026-11-19 | FundingTraders: 50% Off $100K+ Accounts (code PFD) | 50% Off | 2026-11-23 09:00 (ended) | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/ |
 | 2026-11-18 | FundingTraders: $500 Off $100K Instant Funded (code PFD) | $500 Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/ |
 | 2026-11-17 | FundingTraders Black Friday: Up to 70% Off (code PFD) | 70% Off | Limited time | Black Friday | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/ |

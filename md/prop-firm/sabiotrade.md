@@ -9,7 +9,7 @@ The best current SabioTrade discount is 30% off with code PFD at checkout, verif
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: SabioTrade
 - Deal last verified: 2026-11-18
-- Trustpilot score: 3.6/5 (698 reviews)
+- Trustpilot score: 3.6/5 (697 reviews)
 - Official web: sabiotrade.com
 - Address: Ireland
 - Market type: Forex/CFD

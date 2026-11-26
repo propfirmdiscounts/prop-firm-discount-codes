@@ -9,7 +9,7 @@ The best current Funded Hero Futures discount is 70% off with code PFD at checko
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Hero Futures
 - Deal last verified: 2026-11-25
-- Trustpilot score: 4.2/5 (32 reviews)
+- Trustpilot score: 4.2/5 (33 reviews)
 - Official web: fundedherofutures.com
 - Email: trade@fundedhero.com
 - Address: United States

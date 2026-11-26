@@ -13,7 +13,7 @@ The best current Funded Trading Plus discount is 20% off with code PFD at checko
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Trading Plus
 - Deal last verified: 2026-11-24
-- Trustpilot score: 4.0/5 (2674 reviews)
+- Trustpilot score: 4.0/5 (2675 reviews)
 - Official web: fundedtradingplus.com
 - Email: info@fundedtradingplus.com
 - Address: FTP London, 7 Bell Yard, London, WC2A 2JR, United Kingdom

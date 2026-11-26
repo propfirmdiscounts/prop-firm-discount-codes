@@ -1,6 +1,6 @@
-# Atlas Funded Black Friday Week: 45% Off, 125% Back
+# Atlas Funded Black Friday Week: 45% Off, 125% Back (code PFD)
 
-Atlas Funded is offering 45% off.
+Atlas Funded is offering 45% off — discount code **PFD**.
 
 > Atlas Funded's Black Friday Week offer, verified on 24 Nov 2026: 45% off evaluations plus 125% of your fee back when you pass, November 24-26, 2026.
 
@@ -12,11 +12,9 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - Summary: Atlas Funded takes 45% off evaluations for Black Friday Week, as checked on 24 November 2026, with 125% of the fee back on passing, to November 26.
 - Discount: 45% Off
-- Discount code: Visit the Deal URL and click the "Show Code" button to reveal the coupon code.
+- Discount code: PFD
 - Applied to: Evaluations, Instant Zero
 - Deal url: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/
-
-Apply code PFD at checkout for 50% off any Atlas Funded challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 

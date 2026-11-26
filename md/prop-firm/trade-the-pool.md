@@ -9,7 +9,7 @@ The best current Trade The Pool discount is 10% off with code WWS4GW at checkout
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Trade The Pool
 - Deal last verified: 2026-11-25
-- Trustpilot score: 4.5/5 (1016 reviews)
+- Trustpilot score: 4.5/5 (1020 reviews)
 - Official web: tradethepool.com
 - Email: help@tradethepool.com
 - Address: Ha'tidhar 2, Raanana, 456100, Israel

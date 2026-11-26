@@ -7,7 +7,7 @@ The best current Top One Futures discount is 70% off with code PFD at checkout, 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Top One Futures
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.8/5 (5515 reviews)
+- Trustpilot score: 4.8/5 (5579 reviews)
 - Official web: toponefutures.com
 - Address: United States
 - Market type: Futures

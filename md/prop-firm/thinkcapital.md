@@ -9,7 +9,7 @@ The best current ThinkCapital discount is 10% off with code PFD at checkout, ver
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: ThinkCapital
 - Deal last verified: 2026-11-12
-- Trustpilot score: 4.0/5 (605 reviews)
+- Trustpilot score: 4.0/5 (603 reviews)
 - Official web: thinkcapital.com
 - Email: support@thinkcapital.com
 - Address: United Kingdom

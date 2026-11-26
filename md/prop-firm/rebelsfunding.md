@@ -6,7 +6,7 @@ RebelsFunding currently lists 45 deals (42 with discount codes). Compare availab
 
 - Prop firm: RebelsFunding
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.3/5 (2948 reviews)
+- Trustpilot score: 4.2/5 (2954 reviews)
 - Official web: rebelsfunding.com
 - Email: info@rebelsfunding.com
 - Address: Landererova 8, Bratislava, 811 09, Slovakia

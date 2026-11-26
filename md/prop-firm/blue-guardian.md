@@ -9,7 +9,7 @@ The best current Blue Guardian discount is 35% off with code PFD at checkout, ve
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Blue Guardian
 - Deal last verified: 2026-11-23
-- Trustpilot score: 3.0/5 (2189 reviews)
+- Trustpilot score: 2.9/5 (2199 reviews)
 - Official web: blueguardian.com
 - Email: support@blueguardianfutures.com
 - Address: U.A.E.

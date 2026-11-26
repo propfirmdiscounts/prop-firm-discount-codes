@@ -9,7 +9,7 @@ The best current Equity Edge discount is 20% off with code PFD at checkout, veri
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Equity Edge
 - Deal last verified: 2026-08-03
-- Trustpilot score: 4.2/5 (2754 reviews)
+- Trustpilot score: 4.2/5 (2788 reviews)
 - Official web: equityedge.io
 - Email: support@equityedge.io
 - Address: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, LC01 401, St. Lucia

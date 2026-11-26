@@ -6,7 +6,7 @@ Tradexprop currently lists 21 deals (20 with discount codes). Compare available 
 
 - Prop firm: Tradexprop
 - Deal last verified: 2026-11-17
-- Trustpilot score: 3.9/5 (44 reviews)
+- Trustpilot score: 3.7/5 (45 reviews)
 - Official web: tradexprop.com
 - Email: support@tradexprop.com
 - Address: Sublot 40, Level 3, Block A2, Saradise Kuching, Off Jalan Stutong, Kuching, 93350, Malaysia

@@ -4,7 +4,7 @@ The Concept Trading currently lists 47 deals with discount code. Compare availab
 
 - Prop firm: The Concept Trading
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.7/5 (469 reviews)
+- Trustpilot score: 4.6/5 (469 reviews)
 - Official web: theconcepttrading.com
 - Email: admin@theconcepttrading.com
 - Address: Australia

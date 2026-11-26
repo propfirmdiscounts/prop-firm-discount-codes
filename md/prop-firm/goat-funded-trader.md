@@ -7,7 +7,7 @@ The best current Goat Funded Trader discount is 55% off with code CSV at checkou
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Goat Funded Trader
 - Deal last verified: 2026-11-23
-- Trustpilot score: 2.0/5 (4381 reviews)
+- Trustpilot score: 2.0/5 (4385 reviews)
 - Official web: goatfundedtrader.com
 - Email: support@goatfundedtrader.com
 - Address: Hong Kong

@@ -10,7 +10,7 @@ CK PropFirm currently lists 55 deals (54 with discount codes). Compare available
 
 - Prop firm: CK PropFirm
 - Deal last verified: 2026-11-25
-- Trustpilot score: 2.8/5 (435 reviews)
+- Trustpilot score: 2.8/5 (437 reviews)
 - Official web: ckpropfirm.com
 - Email: service@ckcapital.co.uk
 - Address: 1 Allied Business Centre, Harpenden, AL5 4UT, United Kingdom

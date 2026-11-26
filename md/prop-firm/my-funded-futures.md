@@ -6,7 +6,7 @@ My Funded Futures currently lists 32 deals (31 with discount codes). Compare ava
 
 - Prop firm: My Funded Futures
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.9/5 (23127 reviews)
+- Trustpilot score: 4.9/5 (23207 reviews)
 - Official web: myfundedfutures.com
 - Email: support@myfundedfutures.com
 - Address: United States

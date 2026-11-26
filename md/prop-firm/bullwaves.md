@@ -7,7 +7,7 @@ The best current Bullwaves Prime discount is 10% off with code PFD at checkout, 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Bullwaves Prime
 - Deal last verified: 2026-11-16
-- Trustpilot score: 3.4/5 (649 reviews)
+- Trustpilot score: 3.5/5 (650 reviews)
 - Official web: bullwaves.com
 - Email: support@bullwaves.com
 - Address: CT House, Mahe, Providence, Seychelles

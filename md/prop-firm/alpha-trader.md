@@ -6,7 +6,7 @@ Alpha Funded currently lists 65 deals (56 with discount codes). Compare availabl
 
 - Prop firm: Alpha Funded
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.6/5 (1270 reviews)
+- Trustpilot score: 4.6/5 (1274 reviews)
 - Official web: alphafunded.com
 - Email: Support@alphafunded.com
 - Address: United States

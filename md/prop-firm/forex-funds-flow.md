@@ -9,7 +9,7 @@ The best current Forex Funds Flow discount is 10% off with code PFD at checkout,
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Forex Funds Flow
 - Deal last verified: 2026-06-12
-- Trustpilot score: 3.5/5 (259 reviews)
+- Trustpilot score: 3.5/5 (258 reviews)
 - Official web: forexfundsflow.com
 - Email: support@forexfundsflow.com
 - Address: Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, Saint Lucia, St. Lucia

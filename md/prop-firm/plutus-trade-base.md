@@ -6,7 +6,7 @@ Plutus Trade Base currently lists 46 deals (44 with discount codes). Compare ava
 
 - Prop firm: Plutus Trade Base
 - Deal last verified: 2026-11-25
-- Trustpilot score: 3.5/5 (1188 reviews)
+- Trustpilot score: 3.5/5 (1190 reviews)
 - Official web: plutustradebase.com
 - Email: support@plutustradebase.com
 - Address: Cyprus

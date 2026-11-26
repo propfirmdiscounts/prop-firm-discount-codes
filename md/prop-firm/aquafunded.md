@@ -1,6 +1,6 @@
 # AquaFunded Discount Code
 
-The best current AquaFunded discount is 35% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. AquaFunded currently has 67 deals (54 with discount codes).
+The best current AquaFunded discount is 35% off with code PFD at checkout, verified by the PropFirmDiscount team in November 2026. AquaFunded currently has 68 deals (55 with discount codes).
 
 > At AquaFunded, we’re more than just a prop firm, we’re your partner in creating a successful trading future. Committed to transparency and steadfast support, we empower traders with funded accounts to confidently navigate the financial markets. Join a community where expertise meets opportunity, and together, let’s forge a path to lasting financial success
 
@@ -8,8 +8,8 @@ The best current AquaFunded discount is 35% off with code PFD at checkout, verif
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: AquaFunded
-- Deal last verified: 2026-11-24
-- Trustpilot score: 2.0/5 (1223 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 2.0/5 (1225 reviews)
 - Official web: aquafunded.com
 - Email: Support@aquafunded.com
 - Address: Dubai silicon Oasis, DDP, Building A2, Dubai , Dubai , U.A.E.
@@ -72,37 +72,37 @@ The pricing table covers 45 account options across the CFDs market. Prices shown
 | Two Step Elite | $50K | $221 | $143.7 | 35% off | PFD |
 | Two Step Elite | $100K | $365 | $237.3 | 35% off | PFD |
 
-## Current deal: AquaFunded Mega Sale: 40% Off Every Account
+## Current deal: AquaFunded Thanksgiving: 40% Off Every Account
 
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-26
 - Deal ends: Limited time
 - Discount: 40% Off
-- Discount code: BLACKFRIDAY
-- Applied to: Every account; refund on CFD accounts
-- Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/
+- Discount code: THANKSGIVING
+- Applied to: All accounts; 200% evaluation fee refund on CFD accounts with the 4th reward
+- Event: Thanksgiving
+- Deal url: https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/
 
 ## AquaFunded deal FAQ
 
-**What does the 40% cover at AquaFunded?**
+**What does the AquaFunded Thanksgiving offer include?**
 
-Every account, priced with the deal code at checkout.
+It takes 40% off every account. On CFD accounts it also adds a 200% refund of the evaluation fee, tied to the 4th reward.
 
-**How does the 200% refund work?**
+**Does the 200% refund apply to every account?**
 
-On CFD accounts, you get 200% of your evaluation fee back with your 4th reward. The step order is buy at 40% off, reach the fourth reward, then the refund pays on the payout side.
+No. The 40% discount applies to every account, while the 200% refund of the evaluation fee applies on CFD accounts only and is tied to the 4th reward.
 
-**Is the refund a discount today?**
+**How do I apply the discount?**
 
-No. It is a conditional payout-side term tied to the fourth reward, not a reduction in today's price. It is never a 200% discount.
+Follow the Start here link at the end of the article, choose your account on the AquaFunded official site, then enter the deal code at checkout. Confirm the 40% saving shows before completing the purchase.
 
-**Does the offer change trading rules?**
+**Does this promotion state an end date?**
 
-No. The discount lowers entry cost only; it does not reduce trading risk or change the evaluation's terms.
+The offer is presented as a Thanksgiving promotion and gives no end date. Readers should check the deal page for the terms attached to the offer.
 
-**How is the firm rated?**
+**Who might this offer suit?**
 
-Trustpilot 2 out of 5 from 1,223 reviews as of November 2026, a low score worth weighing before you buy.
+It may suit traders who want a lower entry price on any AquaFunded account. CFD traders may also weigh the fee refund tied to the 4th reward. The discount lowers the cost of the account only; the trading risk inside it is unchanged.
 
 ## Deals (last 2 months, newest first)
 
@@ -110,6 +110,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | AquaFunded Thanksgiving: 40% Off Every Account | 40% Off | Limited time | Thanksgiving | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/ |
 | 2026-11-24 | AquaFunded Mega Sale: 40% Off Every Account | 40% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/ |
 | 2026-11-17 | AquaFunded Black Friday: 35% Off Every Account | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/ |
 | 2026-11-06 | AquaFunded Honor Sale: 25% Off + 150% CFD Refund | 25% Off | Limited time | - | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-honor-sale-25-off/ |

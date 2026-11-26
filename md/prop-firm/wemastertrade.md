@@ -9,7 +9,7 @@ The best current WeMasterTrade discount is 30% off with code PFD at checkout, ve
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: WeMasterTrade
 - Deal last verified: 2026-11-23
-- Trustpilot score: 3.8/5 (2370 reviews)
+- Trustpilot score: 3.8/5 (2375 reviews)
 - Official web: wemastertrade.com
 - Email: support.wmt@wecopytrade.com
 - Address: 1100-1200 West 73rd Avenue, Vancouver, BC, V6P 6G5, Canada

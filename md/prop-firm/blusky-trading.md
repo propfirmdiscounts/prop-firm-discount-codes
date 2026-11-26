@@ -6,7 +6,7 @@ BluSky Trading currently lists 47 deals (45 with discount codes). Compare availa
 
 - Prop firm: BluSky Trading
 - Deal last verified: 2026-11-22
-- Trustpilot score: 4.6/5 (1010 reviews)
+- Trustpilot score: 4.6/5 (1009 reviews)
 - Official web: blusky.pro
 - Email: support@blusky.pro
 - Address: 7901 4TH ST N STE 300, St. Petersburg, 33702, United States

@@ -4,7 +4,7 @@ Hola Prime currently lists 81 deals (76 with discount codes). Compare available 
 
 - Prop firm: Hola Prime
 - Deal last verified: 2026-11-02
-- Trustpilot score: 4.6/5 (4392 reviews)
+- Trustpilot score: 4.6/5 (4428 reviews)
 - Official web: holaprime.com
 - Email: contactus@holaprime.com
 - Address: L1, Shaw House, 201 Wan Po Road, Tseung Kwan O, Hong Kong

@@ -9,7 +9,7 @@ The best current Dominion Funding discount is 5% off with code PFD5PC at checkou
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Dominion Funding
 - Deal last verified: 2026-11-05
-- Trustpilot score: 2.8/5 (295 reviews)
+- Trustpilot score: 2.7/5 (296 reviews)
 - Official web: dominionfunding.trade
 - Email: info@dominionfunding.trade
 - Address: IFZA Business Park, Dubai, 00000, U.A.E.

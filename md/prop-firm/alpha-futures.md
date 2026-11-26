@@ -10,7 +10,7 @@ Alpha Futures currently lists 38 deals (37 with discount codes). Compare availab
 
 - Prop firm: Alpha Futures
 - Deal last verified: 2026-11-22
-- Trustpilot score: 4.3/5 (6332 reviews)
+- Trustpilot score: 4.3/5 (6351 reviews)
 - Official web: alpha-futures.com
 - Address: United States
 - Market type: Futures

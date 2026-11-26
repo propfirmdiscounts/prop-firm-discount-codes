@@ -4,7 +4,7 @@ OFP Funding currently lists 59 deals (58 with discount codes). Compare available
 
 - Prop firm: OFP Funding
 - Deal last verified: 2026-11-23
-- Trustpilot score: 2.3/5 (4447 reviews)
+- Trustpilot score: 2.3/5 (4450 reviews)
 - Official web: ofpfunding.com
 - Email: support@ofpfunding.com
 - Address: United Kingdom

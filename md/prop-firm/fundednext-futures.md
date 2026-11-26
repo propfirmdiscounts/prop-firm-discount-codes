@@ -7,7 +7,7 @@ The best current FundedNext Futures discount is 20% off with code PFDC at checko
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: FundedNext Futures
 - Deal last verified: 2026-10-22
-- Trustpilot score: 4.5/5 (84644 reviews)
+- Trustpilot score: 4.5/5 (84950 reviews)
 - Official web: fundednext.com/futures
 - Email: support@fundednext.com
 - Address: Office no. 7, AI Robotics HUB, C1 Building, AFZ,, Ajman, U.A.E.

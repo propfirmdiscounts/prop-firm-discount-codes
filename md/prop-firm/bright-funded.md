@@ -6,7 +6,7 @@ BrightFunded currently lists 34 deals (33 with discount codes). Compare availabl
 
 - Prop firm: BrightFunded
 - Deal last verified: 2026-11-23
-- Trustpilot score: 3.1/5 (585 reviews)
+- Trustpilot score: 3.1/5 (584 reviews)
 - Official web: brightfunded.com
 - Email: support@brightfunded.com
 - Address: IFZA Business Park, DDP, Dubai, 00000, U.A.E.

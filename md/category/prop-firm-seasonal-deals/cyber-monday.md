@@ -20,7 +20,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-02 | OFP Funding | OFP Funding Cyber Monday Deal: 45% OFF + 130% Profit Split | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-cyber-monday-45-off-profit-split/ |
 | 2025-12-02 | MyFxCapital | MyFxCapital Cyber Monday Flash Sale: 70% OFF 2-Step Evaluations | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/myfxcapital/myfxcapital-cyber-monday-70-off-2-step/ |
 | 2025-12-01 | SFX Funded | SFX Funded Cyber Monday Deal: 50% OFF All Challenges + Free Retry | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-cyber-monday-50-off-free-retry/ |
-| 2025-12-01 | Atlas Funded | Atlas Funded 50% Off All Accounts – Cyber Monday | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-accounts-cyber-monday/ |
+| 2025-12-01 | Atlas Funded | Atlas Funded 50% Off All Accounts – Cyber Monday (code PFD) | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-accounts-cyber-monday/ |
 | 2025-12-01 | Blueberry Futures | Blueberry Futures Cyber Monday Offer: 60% OFF Everything | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/blueberry-futures/blueberry-futures-cyber-monday-60-off/ |
 | 2025-12-01 | CK PropFirm | CK Capital Cyber Monday Exclusive: 70% Off $5K & $10K Accounts | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-70-off-evaluations/ |
 | 2025-12-01 | CK PropFirm | CK Capital Cyber Monday Flash Sale: 40% Off All Challenges | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-cyber-monday-40-off-all-challenges/ |
@@ -65,7 +65,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-12-01 | Finotive Funding | Finotive Funding Cyber Monday Deal: 40% OFF Site Wide (Extra 25% with code) – Up to 65% OFF | 40% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-cyber-monday-40-off/ |
 | 2025-11-28 | Hantec Trader | Hantec Trader Black Friday & Cyber Monday: 15% Off + Weekly Payouts | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/hantec-trader/hantec-trader-black-friday-cyber-monday-15-off-weekly-payouts/ |
 | 2025-11-26 | Apex Trader Funding | Apex Trader Funding Black Friday: 80% Off + $10 PA Fee Deal | 80% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-black-friday-80-off-10-pa-fee/ |
-| 2024-12-02 | Atlas Funded | Atlas Funded 50% Off Evaluations – Cyber Monday Sale | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-evaluations-cyber-monday/ |
+| 2024-12-02 | Atlas Funded | Atlas Funded 50% Off Evaluations – Cyber Monday Sale (code PFD) | 50% OFF | Ended | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-evaluations-cyber-monday/ |
 
 ## About this archive
 

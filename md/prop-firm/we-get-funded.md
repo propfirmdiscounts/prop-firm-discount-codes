@@ -6,7 +6,7 @@ We Get Funded currently lists 23 deals with discount code. Compare available pro
 
 - Prop firm: We Get Funded
 - Deal last verified: 2026-11-14
-- Trustpilot score: 4.4/5 (1282 reviews)
+- Trustpilot score: 4.4/5 (1284 reviews)
 - Official web: wegetfunded.com
 - Email: support@wegetfunded.com
 - Address: IFZA Business Park, DDP - 24522, Dubai, 0000, U.A.E.

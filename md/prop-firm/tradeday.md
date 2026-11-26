@@ -6,7 +6,7 @@ TradeDay currently lists 6 deals (5 with discount codes). Compare available prom
 
 - Prop firm: TradeDay
 - Deal last verified: 2026-11-12
-- Trustpilot score: 4.6/5 (1455 reviews)
+- Trustpilot score: 4.6/5 (1456 reviews)
 - Official web: tradeday.com
 - Email: support@tradeday.com
 - Address: 412 S.Wells,, Chicago, 60607, United States

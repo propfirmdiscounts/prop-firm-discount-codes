@@ -35,13 +35,13 @@ Ranked highest discount first, one row per firm that posted a deal this month - 
 |---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | No expiry | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 60% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | AquaFunded | PFD | 35% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 4 | Blue Guardian | PFD | 35% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 5 | SabioTrade | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
-| 6 | TX3 Funding | PFD1 | 25% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 7 | Funded Trading Plus | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
-| 8 | FundedNext | PFDC | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundednext/ |
-| 9 | Instant Funding | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/instant-funding/ |
-| 10 | E8 Markets | CHUN | 10% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 3 | E8 Markets | PFDC | 50% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| 4 | AquaFunded | PFD | 35% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 5 | Blue Guardian | PFD | 35% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 6 | SabioTrade | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
+| 7 | TX3 Funding | PFD1 | 25% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 8 | Funded Trading Plus | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
+| 9 | FundedNext | PFDC | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundednext/ |
+| 10 | Instant Funding | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 
 Full dataset of every verified standing exclusive code: https://propfirmdiscount.com/api/prop-firm-codes/

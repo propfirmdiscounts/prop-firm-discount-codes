@@ -7,7 +7,7 @@ The best current For Traders discount is 15% off with code VGYCKXLTY9 at checkou
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: For Traders
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.1/5 (1875 reviews)
+- Trustpilot score: 4.1/5 (1897 reviews)
 - Official web: fortraders.com
 - Email: support@fortraders.com
 - Address: Goldcrest Executive Building, Dubai, 000, U.A.E.

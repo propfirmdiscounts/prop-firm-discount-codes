@@ -6,7 +6,7 @@ Maven Trading currently lists 5 deals with discount code. Compare available prom
 
 - Prop firm: Maven Trading
 - Deal last verified: 2026-11-24
-- Trustpilot score: 3.7/5 (5233 reviews)
+- Trustpilot score: 3.7/5 (5239 reviews)
 - Official web: maventrading.com
 - Email: support@maventrading.com
 - Address: St. Lucia

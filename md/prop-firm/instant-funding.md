@@ -9,7 +9,7 @@ The best current Instant Funding discount is 20% off with code PFD at checkout, 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Instant Funding
 - Deal last verified: 2026-11-23
-- Trustpilot score: 2.8/5 (4391 reviews)
+- Trustpilot score: 2.8/5 (4393 reviews)
 - Official web: instantfunding.com
 - Email: support@instantfunding.com
 - Address: United Kingdom

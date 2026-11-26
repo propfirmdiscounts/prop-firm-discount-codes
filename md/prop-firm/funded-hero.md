@@ -9,7 +9,7 @@ The best current Funded Hero discount is 60% off with code PFD at checkout, veri
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Hero
 - Deal last verified: 2026-11-04
-- Trustpilot score: 3.9/5 (456 reviews)
+- Trustpilot score: 3.9/5 (457 reviews)
 - Official web: fundedhero.com
 - Address: United States
 - Market type: Forex/CFD

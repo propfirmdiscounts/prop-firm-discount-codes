@@ -8,7 +8,7 @@ HyroTrader currently lists 8 deals with discount code. Compare available promoti
 
 - Prop firm: HyroTrader
 - Deal last verified: 2026-11-06
-- Trustpilot score: 4.0/5 (246 reviews)
+- Trustpilot score: 4.0/5 (252 reviews)
 - Official web: hyrotrader.com
 - Email: support@hyrotrader.com
 - Address: Plynární, Praha 7-Holešovice, 170 00, Czech Republic

@@ -6,7 +6,7 @@ Fintokei currently lists 31 deals (29 with discount codes). Compare available pr
 
 - Prop firm: Fintokei
 - Deal last verified: 2026-11-12
-- Trustpilot score: 4.4/5 (1474 reviews)
+- Trustpilot score: 4.4/5 (1484 reviews)
 - Official web: fintokei.com
 - Email: support@fintokei.com
 - Address: Masarykova 409/26, Brno, 60200, Czech Republic

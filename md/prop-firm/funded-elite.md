@@ -7,7 +7,7 @@ The best current Funded Elite discount is 10% off with code AFF1864062 at checko
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funded Elite
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.0/5 (762 reviews)
+- Trustpilot score: 4.0/5 (761 reviews)
 - Official web: fundedelite.com
 - Email: support@fundedelite.com
 - Address: Italy

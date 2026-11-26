@@ -6,7 +6,7 @@ Lark Funding currently lists 26 deals (18 with discount codes). Compare availabl
 
 - Prop firm: Lark Funding
 - Deal last verified: 2026-11-17
-- Trustpilot score: 4.2/5 (517 reviews)
+- Trustpilot score: 4.2/5 (518 reviews)
 - Official web: larkfunding.com
 - Email: support@larkfunding.com
 - Address: Canada

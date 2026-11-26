@@ -6,7 +6,7 @@ FTMO currently lists 6 deals. These are direct discounts — no code needed; the
 
 - Prop firm: FTMO
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.8/5 (57644 reviews)
+- Trustpilot score: 4.8/5 (58083 reviews)
 - Official web: ftmo.com
 - Email: support@ftmo.com
 - Address: Purkynova 2121/3, Prague, 11000, Czech Republic

@@ -6,7 +6,7 @@ Sure Leverage Funding currently lists 50 deals (38 with discount codes). Compare
 
 - Prop firm: Sure Leverage Funding
 - Deal last verified: 2026-11-20
-- Trustpilot score: 3.5/5 (1361 reviews)
+- Trustpilot score: 3.5/5 (1365 reviews)
 - Official web: sureleveragefunding.com
 - Email: support@sureleveragefunding.com
 - Address: Al Shohada Road 10055, Al Hamra Industrial Zone-FZ, Ras Al Khaimah, 10055, U.A.E.

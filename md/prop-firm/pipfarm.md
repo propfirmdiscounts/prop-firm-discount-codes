@@ -9,7 +9,7 @@ The best current PipFarm discount is 30% off with code PFDC at checkout, verifie
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: PipFarm
 - Deal last verified: 2026-11-20
-- Trustpilot score: 3.6/5 (343 reviews)
+- Trustpilot score: 3.6/5 (344 reviews)
 - Official web: pipfarm.com
 - Email: support@pipfarm.com
 - Address: 68 Circular Road #02-01, Singapore, 049422, Singapore

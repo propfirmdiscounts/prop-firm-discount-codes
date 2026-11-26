@@ -9,7 +9,7 @@ The best current Lucid Trading discount is 35% off with code PFD at checkout, ve
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Lucid Trading
 - Deal last verified: 2026-11-06
-- Trustpilot score: 4.5/5 (8955 reviews)
+- Trustpilot score: 4.5/5 (8974 reviews)
 - Official web: lucidtrading.com
 - Address: United States
 - Market type: Futures

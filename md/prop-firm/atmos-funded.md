@@ -4,7 +4,7 @@ Atmos Funded currently lists 29 deals with discount code. Compare available prom
 
 - Prop firm: Atmos Funded
 - Deal last verified: 2026-07-28
-- Trustpilot score: 2.9/5 (358 reviews)
+- Trustpilot score: 2.9/5 (363 reviews)
 - Official web: atmosfunded.com
 - Email: support@atmosfunded.com
 - Address: Cyprus

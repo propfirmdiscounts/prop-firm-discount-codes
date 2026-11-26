@@ -6,7 +6,7 @@ Bitfunded currently lists 11 deals. These are direct discounts — no code neede
 
 - Prop firm: Bitfunded
 - Deal last verified: 2026-11-13
-- Trustpilot score: 4.3/5 (207 reviews)
+- Trustpilot score: 4.3/5 (210 reviews)
 - Official web: bitfunded.com
 - Email: support@bitfunded.com
 - Address: Spain

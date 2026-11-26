@@ -6,7 +6,7 @@ Upcomers currently lists 18 deals (17 with discount codes). Compare available pr
 
 - Prop firm: Upcomers
 - Deal last verified: 2026-09-15
-- Trustpilot score: 2.8/5 (590 reviews)
+- Trustpilot score: 2.7/5 (601 reviews)
 - Official web: upcomers.com
 - Email: support@upcomers.com
 - Address: U.A.E.

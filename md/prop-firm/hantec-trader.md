@@ -6,7 +6,7 @@ Hantec Trader currently lists 35 deals (32 with discount codes). Compare availab
 
 - Prop firm: Hantec Trader
 - Deal last verified: 2026-10-14
-- Trustpilot score: 4.4/5 (887 reviews)
+- Trustpilot score: 4.4/5 (895 reviews)
 - Official web: hmarkets.com
 - Address: Mauritius
 - Market type: Forex/CFD + Thị trường dự đoán (Prediction)

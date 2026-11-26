@@ -6,7 +6,7 @@ FunderPro currently lists 19 deals (18 with discount codes). Compare available p
 
 - Prop firm: FunderPro
 - Deal last verified: 2026-11-12
-- Trustpilot score: 2.7/5 (1560 reviews)
+- Trustpilot score: 2.7/5 (1570 reviews)
 - Official web: funderpro.com
 - Email: info@funderpro.com
 - Address: 30/1, Kenilworth Court, Sir Augustus Bartolo Street, Ta’Xbiex , Malta., Ta’Xbiex, XBX1093, Malta

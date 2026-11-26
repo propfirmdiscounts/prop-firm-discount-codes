@@ -6,7 +6,7 @@ Take Profit Trader currently lists 4 deals with discount code. Compare available
 
 - Prop firm: Take Profit Trader
 - Deal last verified: 2026-11-03
-- Trustpilot score: 4.4/5 (11365 reviews)
+- Trustpilot score: 4.4/5 (11408 reviews)
 - Official web: takeprofittrader.com
 - Email: support@takeprofittrader.com
 - Address: 1317 Edgewater Drive #3797, Orlando, 32804, United States

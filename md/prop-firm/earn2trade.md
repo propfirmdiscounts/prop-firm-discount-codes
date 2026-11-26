@@ -9,7 +9,7 @@ The best current Earn2Trade discount is 70% off with code PFD at checkout, verif
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Earn2Trade
 - Deal last verified: 2026-11-25
-- Trustpilot score: 4.5/5 (5108 reviews)
+- Trustpilot score: 4.5/5 (5118 reviews)
 - Official web: earn2trade.com
 - Email: support@earn2trade.com
 - Address: North Gould Street 30, Sheridan, 82801, United States

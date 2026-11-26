@@ -6,7 +6,7 @@ FundedProFX currently lists 10 deals (9 with discount codes). Compare available 
 
 - Prop firm: FundedProFX
 - Deal last verified: 2026-08-10
-- Trustpilot score: 2.6/5 (89 reviews)
+- Trustpilot score: 2.5/5 (90 reviews)
 - Official web: fundedprofx.com
 - Address: 63 Market Street, #22-00 Singapore 048942, Singapore, Singapore, 048942, Singapore
 - Market type: Forex/CFD

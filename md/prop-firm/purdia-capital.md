@@ -6,7 +6,7 @@ Purdia Capital currently lists 6 deals with discount code. Compare available pro
 
 - Prop firm: Purdia Capital
 - Deal last verified: 2026-10-12
-- Trustpilot score: 3.4/5 (93 reviews)
+- Trustpilot score: 3.4/5 (95 reviews)
 - Official web: purdia.com
 - Email: info@purdia.com
 - Address: 651 N Broad Street Suite 201, Middletown, 19709, United States

@@ -14,23 +14,23 @@ The complete PropFirmDiscount directory: 247 prop firm brands, 100 of them carry
 
 ### Featured Prop Firms
 
-- [E8 Markets](https://propfirmdiscount.com/prop-firm/e8-funding/) — 4 (Based on 3,309 reviews)
-- [Finotive Funding](https://propfirmdiscount.com/prop-firm/finotive-funding/) — 3.5 (Based on 1,079 reviews)
-- [FTMO](https://propfirmdiscount.com/prop-firm/ftmo/) — 4.8 (Based on 57,644 reviews)
-- [FundedNext](https://propfirmdiscount.com/prop-firm/fundednext/) — 4.5 (Based on 84,644 reviews)
+- [E8 Markets](https://propfirmdiscount.com/prop-firm/e8-funding/) — 4 (Based on 3,310 reviews)
+- [Finotive Funding](https://propfirmdiscount.com/prop-firm/finotive-funding/) — 3.5 (Based on 1,083 reviews)
+- [FTMO](https://propfirmdiscount.com/prop-firm/ftmo/) — 4.8 (Based on 58,083 reviews)
+- [FundedNext](https://propfirmdiscount.com/prop-firm/fundednext/) — 4.5 (Based on 84,950 reviews)
 
 ### Highest Trustpilot Scores
 
-- [My Funded Futures](https://propfirmdiscount.com/prop-firm/my-funded-futures/) — 4.9 (Based on 23,127 reviews)
-- [FTMO](https://propfirmdiscount.com/prop-firm/ftmo/) — 4.8 (Based on 57,644 reviews)
-- [Top One Futures](https://propfirmdiscount.com/prop-firm/top-one-futures/) — 4.8 (Based on 5,515 reviews)
-- [Klein Funding](https://propfirmdiscount.com/prop-firm/klein-funding/) — 4.8 (Based on 482 reviews)
-- [The5ers](https://propfirmdiscount.com/prop-firm/the5ers/) — 4.7 (Based on 44,281 reviews)
-- [OneUp Trader](https://propfirmdiscount.com/prop-firm/oneup-trader/) — 4.7 (Based on 2,827 reviews)
-- [Breakout Prop](https://propfirmdiscount.com/prop-firm/breakout-prop/) — 4.7 (Based on 1,329 reviews)
-- [The Concept Trading](https://propfirmdiscount.com/prop-firm/the-concept-trading/) — 4.7 (Based on 469 reviews)
-- [Tradeify](https://propfirmdiscount.com/prop-firm/tradeify/) — 4.6 (Based on 7,618 reviews)
-- [Hola Prime](https://propfirmdiscount.com/prop-firm/hola-prime/) — 4.6 (Based on 4,392 reviews)
+- [My Funded Futures](https://propfirmdiscount.com/prop-firm/my-funded-futures/) — 4.9 (Based on 23,207 reviews)
+- [FTMO](https://propfirmdiscount.com/prop-firm/ftmo/) — 4.8 (Based on 58,083 reviews)
+- [Top One Futures](https://propfirmdiscount.com/prop-firm/top-one-futures/) — 4.8 (Based on 5,579 reviews)
+- [Klein Funding](https://propfirmdiscount.com/prop-firm/klein-funding/) — 4.8 (Based on 484 reviews)
+- [The5ers](https://propfirmdiscount.com/prop-firm/the5ers/) — 4.7 (Based on 44,901 reviews)
+- [OneUp Trader](https://propfirmdiscount.com/prop-firm/oneup-trader/) — 4.7 (Based on 2,835 reviews)
+- [Breakout Prop](https://propfirmdiscount.com/prop-firm/breakout-prop/) — 4.7 (Based on 1,334 reviews)
+- [Tradeify](https://propfirmdiscount.com/prop-firm/tradeify/) — 4.6 (Based on 7,818 reviews)
+- [Hola Prime](https://propfirmdiscount.com/prop-firm/hola-prime/) — 4.6 (Based on 4,428 reviews)
+- [Bulenox](https://propfirmdiscount.com/prop-firm/bulenox/) — 4.6 (Based on 1,841 reviews)
 
 ### [Check All Prop Firm Reviews](/prop-firm-reviews/)
 
@@ -38,19 +38,19 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 
 | Prop firm | Code | Discount | Validity | Last deal | Event | Deals this year / total | Firm page |
 |---|---|---|---|---|---|---|---|
-| AquaFunded | PFD | 35% | standing | 2026-11-24 · [deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/) | Black Friday | 33 / 67 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| Atlas Funded | PFD | 50% | standing | 2026-11-24 · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) | Black Friday | 19 / 44 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| AquaFunded | PFD | 35% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/) | Thanksgiving | 34 / 68 | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| Atlas Funded | PFD | 45% | standing | 2026-11-24 · [deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) | Black Friday | 19 / 44 | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
 | Blue Guardian | PFD | 35% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) | Black Friday | 24 / 34 | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
 | Blue Guardian Futures | PFD | 35% | standing | 2026-06-22 · [deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) | - | 10 / 19 | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | Breakout Prop | 3GVKFT | 5% | standing | 2026-07-27 · [deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) | - | 3 / 6 | https://propfirmdiscount.com/prop-firm/breakout-prop/ |
 | Bulenox | PFD | 89% | standing | 2026-10-07 · [deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) | - | 11 / 12 | https://propfirmdiscount.com/prop-firm/bulenox/ |
 | BullRush Prop | 7XTG8N | 5% | standing | 2026-09-26 · [deal](https://propfirmdiscount.com/deals/bullrush/bullrush-prop-50-off-5k-50k-accounts/) | - | 2 / 8 | https://propfirmdiscount.com/prop-firm/bullrush/ |
 | Bullwaves Prime | PFD | 10% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/) | Black Friday | 15 / 24 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| Crypto Fund Trader | platinum5 | 5% | standing | 2026-11-14 · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/) | - | 5 / 7 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
+| Crypto Fund Trader | platinum5 | 5% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-black-friday-30-off-all-challenges/) | Black Friday | 6 / 8 | https://propfirmdiscount.com/prop-firm/crypto-fund-trader/ |
 | Direct Funded Trader | PFD | 50% | standing | 2026-11-24 · [deal](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/) | - | 7 / 12 | https://propfirmdiscount.com/prop-firm/direct-funded-trader/ |
 | Doji Funding | PFD | 60% | standing | 2026-11-25 · [deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/) | Black Friday | 5 / 5 | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | Dominion Funding | PFD5PC | 5% | standing | 2026-11-05 · [deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Black Friday | 15 / 23 | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
-| E8 Markets | CHUN | 10% | standing | 2026-11-18 · [deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/) | - | 15 / 19 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
+| E8 Markets | PFDC | 50% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-black-friday-50-off-perpetual-futures/) | Black Friday | 16 / 20 | https://propfirmdiscount.com/prop-firm/e8-funding/ |
 | Earn2Trade | PFD | 70% | standing | 2026-11-25 · [deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/) | Black Friday | 13 / 20 | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | Equity Edge | PFD | 20% | standing | 2026-08-03 · [deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/) | - | 12 / 41 | https://propfirmdiscount.com/prop-firm/equity-edge/ |
 | FXIFY | FXIFY2WRIVW | 10% | standing | 2026-11-17 · [deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) | Black Friday | 26 / 42 | https://propfirmdiscount.com/prop-firm/fxify/ |
@@ -58,7 +58,7 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | Finotive Futures | PFDDEAL | 25% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/) | Black Friday | 6 / 6 | https://propfirmdiscount.com/prop-firm/finotive-futures/ |
 | For Traders | VGYCKXLTY9 | 15% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/fortraders/for-traders-25-off-all-challenges-black-friday/) | Black Friday | 45 / 59 | https://propfirmdiscount.com/prop-firm/fortraders/ |
 | Forex Funds Flow | PFD | 10% | standing | 2026-06-12 · [deal](https://propfirmdiscount.com/deals/forex-funds-flow/forex-funds-flow-15-off-world-cup/) | World Cup | 9 / 15 | https://propfirmdiscount.com/prop-firm/forex-funds-flow/ |
-| Forexive | WHCTXQHRIG | 30% | standing | 2026-11-24 · [deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/) | Black Friday | 11 / 28 | https://propfirmdiscount.com/prop-firm/forexive/ |
+| Forexive | WHCTXQHRIG | 30% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-25-off-1-step-2-step-challenges/) | Black Friday | 12 / 29 | https://propfirmdiscount.com/prop-firm/forexive/ |
 | Funded Elite | AFF1864062 | 10% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/) | Black Friday | 32 / 41 | https://propfirmdiscount.com/prop-firm/funded-elite/ |
 | Funded Hero | PFD | 60% | standing | 2026-11-04 · [deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-60-off-100k-instant-elite/) | - | 44 / 47 | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | Funded Hero Futures | PFD | 70% | standing | 2026-11-25 · [deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-welcome-offer-70-off-futures-accounts/) | - | 11 / 13 | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
@@ -67,7 +67,7 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | FundedNext Futures | PFDC | 20% | standing | 2026-10-22 · [deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-50k-direct-169-99/) | - | 5 / 16 | https://propfirmdiscount.com/prop-firm/fundednext-futures/ |
 | Fundex | PFD | 10% | standing | 2026-10-09 · [deal](https://propfirmdiscount.com/deals/fundex/fundex-20-off-1-step-evaluation/) | - | 4 / 4 | https://propfirmdiscount.com/prop-firm/fundex/ |
 | Funding Your Trades | PFD | 2% | standing | 2026-11-21 · [deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/) | Black Friday | 31 / 44 | https://propfirmdiscount.com/prop-firm/funding-your-trades/ |
-| FundingTraders | PFD | 81% | standing | 2026-11-19 · [deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-plus-accounts/) | - | 76 / 100 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| FundingTraders | PFD | 81% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/) | - | 77 / 101 | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | Goat Funded Trader | CSV | 55% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) | Black Friday | 33 / 53 | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 | Instant Funding | PFD | 20% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/) | Black Friday | 34 / 40 | https://propfirmdiscount.com/prop-firm/instant-funding/ |
 | Klein Funding | PFD | 30% | standing | 2026-11-16 · [deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Black Friday | 2 / 8 | https://propfirmdiscount.com/prop-firm/klein-funding/ |
@@ -79,7 +79,7 @@ The checkmark marks a **verified partner** - a firm that works directly with Pro
 | QT Futures | PFDDEAL | 50% | standing | 2026-01-19 · [deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-30-off-evaluations-activation/) | - | 1 / 3 | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | SabioTrade | PFD | 30% | standing | 2026-11-18 · [deal](https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/) | - | 4 / 6 | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
 | Super Funded | CHUN | 30% | standing | 2026-06-26 · [deal](https://propfirmdiscount.com/deals/super-funded/super-funded-30-off-100k-200k/) | - | 20 / 29 | https://propfirmdiscount.com/prop-firm/super-funded/ |
-| TX3 Funding | PFD1 | 25% | standing | 2026-11-19 · [deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | Black Friday | 47 / 64 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| TX3 Funding | PFD1 | 25% | standing | 2026-11-26 · [deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/) | Black Friday | 49 / 66 | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
 | The5ers | NKY03MTJGM | 5% | standing | 2025-12-22 · [deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) | New Year's Eve | 0 / 2 | https://propfirmdiscount.com/prop-firm/the5ers/ |
 | ThinkCapital | PFD | 10% | standing | 2026-11-12 · [deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | Black Friday | 22 / 31 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
 | Top One Futures | PFD | 70% | standing | 2026-11-23 · [deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) | Black Friday | 12 / 14 | https://propfirmdiscount.com/prop-firm/top-one-futures/ |

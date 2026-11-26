@@ -1,12 +1,12 @@
 # City Traders Imperium (CTI) Discount Code
 
-City Traders Imperium (CTI) currently lists 61 deals (59 with discount codes). Compare available promotions below to find the latest savings on City Traders Imperium (CTI) challenge accounts, checked November 2026 by the PropFirmDiscount team.
+City Traders Imperium (CTI) currently lists 62 deals (60 with discount codes). Compare available promotions below to find the latest savings on City Traders Imperium (CTI) challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > City Traders Imperium (CTI) is a prop trading firm that has been funding traders since 2018, built by traders for traders. We offer flexible funding options, including the 1-Step Challenge, 2-Step Challenge, and Instant Funding, allowing traders to scale their accounts up to $4 million and earn up to a 100% profit share, as well as receive anytime payouts in our VIP Program. Also, the CTI Academy is designed to help traders develop the skills and mindset needed for long-term success. At CTI, we’re committed to helping traders grow, stay funded, and thrive.
 
 - Prop firm: City Traders Imperium (CTI)
-- Deal last verified: 2026-11-25
-- Trustpilot score: 4.3/5 (1646 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 4.3/5 (1645 reviews)
 - Official web: citytradersimperium.com
 - Email: support@citytradersimperium.com
 - Address: Dubai Silicon Oasis, DDP, Building A1, Dubai, U.A.E.
@@ -14,37 +14,41 @@ City Traders Imperium (CTI) currently lists 61 deals (59 with discount codes). C
 - Active deal url: https://propfirmdiscount.com/go/citytradersimperium
 - Firm page: https://propfirmdiscount.com/prop-firm/city-traders-imperium/
 
-## Current deal: CTI Black Friday: 20% Off the 2-Step Challenge
+## Current deal: City Traders Imperium (CTI) 25% Off Instant Funding
 
-- Deal last verified: 2026-11-25
+- Deal last verified: 2026-11-26
 - Deal ends: 2026-11-30
-- Discount: 20% Off
-- Discount code: CRASH20
-- Applied to: 2-Step Challenge
+- Discount: 25% Off
+- Discount code: CRASH25
+- Applied to: Instant Funding
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/city-traders-imperium/cti-black-friday-2-step-challenge-20-off/
+- Deal url: https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-25-off-instant-funding-black-friday/
 
 ## City Traders Imperium (CTI) deal FAQ
 
-**What does the 20% cover at City Traders Imperium (CTI)?**
+**What does the City Traders Imperium (CTI) Black Friday drop include?**
 
-The 2-Step Challenge only, priced with the deal code at checkout. The 1-Step Challenge and Instant Funding sit outside this drop.
+It takes 25% off Instant Funding, the firm's no-challenge route. It is the third drop in the firm's Black Friday week and the deepest so far.
 
-**What pace terms does the 2-Step carry?**
+**How does Instant Funding work at City Traders Imperium (CTI)?**
 
-No time limits, so you trade at your own pace, plus news trading allowed freely. Those are the account's own terms, not effects of the code.
+The firm states that Instant Funding skips the challenge completely, with funding from day one. The first payout can be requested from day 5.
 
-**How long does the offer run?**
+**Does the 25% discount change the rules on an Instant Funding account?**
 
-Across Black Friday week, 23 to 30 November 2026.
+No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**Does the offer change trading rules?**
+**When does the City Traders Imperium (CTI) Black Friday window end?**
 
-No. The discount lowers entry cost only; it does not reduce trading risk or change the challenge's terms.
+The window runs 23-30 Nov 2026 and ends 30 Nov 2026. No separate end date is stated for this drop.
 
-**How is the firm rated?**
+**Is this the last Black Friday drop at City Traders Imperium (CTI)?**
 
-Trustpilot 4.3 out of 5 from 1,646 reviews as of November 2026.
+No. The firm states that one program is still locked and that the final drop, described as the biggest of the week, lands on Black Friday.
+
+**Who may this pricing suit?**
+
+It may suit buyers who had already chosen Instant Funding and want its purchase structure at a lower price. The discount lowers the entry cost only; the trading risk inside the account is unchanged.
 
 ## Deals (last 2 months, newest first)
 
@@ -52,6 +56,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | City Traders Imperium (CTI) 25% Off Instant Funding | 25% Off | 2026-11-30 | Black Friday | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-25-off-instant-funding-black-friday/ |
 | 2026-11-25 | CTI Black Friday: 20% Off the 2-Step Challenge | 20% Off | 2026-11-30 | Black Friday | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-black-friday-2-step-challenge-20-off/ |
 | 2026-11-23 | CTI 15% Off Direct Funding – Black Friday | 15% Off | 2026-11-30 | Black Friday | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-15-off-direct-funding-black-friday/ |
 | 2026-11-12 | CTI: 15% Off 1-Step, 2-Step and Instant Funding | 15% Off | 2026-11-19 18:59 (ended) | - | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-15-off-until-19-november/ |

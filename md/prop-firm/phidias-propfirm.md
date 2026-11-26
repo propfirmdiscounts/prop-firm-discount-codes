@@ -7,7 +7,7 @@ The best current Phidias Propfirm discount is 90% off with code PFD at checkout,
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phidias Propfirm
 - Deal last verified: 2026-11-25
-- Trustpilot score: 3.0/5 (337 reviews)
+- Trustpilot score: 3.0/5 (340 reviews)
 - Official web: phidiaspropfirm.com
 - Address: Gibraltar
 - Market type: Futures

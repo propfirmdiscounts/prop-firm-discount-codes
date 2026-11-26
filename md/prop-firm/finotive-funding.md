@@ -13,7 +13,7 @@ The best current Finotive Funding discount is 25% off with code PFDC at checkout
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Finotive Funding
 - Deal last verified: 2026-11-23
-- Trustpilot score: 3.5/5 (1079 reviews)
+- Trustpilot score: 3.5/5 (1083 reviews)
 - Official web: finotivefunding.com
 - Email: support@finotivefunding.com
 - Address: Innovation One Building, Level 2, DIFC, Dubai, UAE, Dubai, U.A.E.

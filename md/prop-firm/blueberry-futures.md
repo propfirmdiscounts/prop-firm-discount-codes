@@ -4,7 +4,7 @@ Blueberry Futures currently lists 6 deals with discount code. Compare available 
 
 - Prop firm: Blueberry Futures
 - Deal last verified: 2026-04-27
-- Trustpilot score: 4.5/5 (3295 reviews)
+- Trustpilot score: 4.5/5 (3297 reviews)
 - Official web: blueberryfutures.com
 - Email: support@blueberrymarkets.com
 - Address: Suite 701, Level 7/107 Mount Street, North Sydney, 2060, Australia

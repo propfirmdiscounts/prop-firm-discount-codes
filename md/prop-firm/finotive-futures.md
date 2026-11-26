@@ -9,7 +9,7 @@ The best current Finotive Futures discount is 25% off with code PFDDEAL at check
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Finotive Futures
 - Deal last verified: 2026-11-23
-- Trustpilot score: 4.0/5 (13 reviews)
+- Trustpilot score: 3.9/5 (15 reviews)
 - Official web: finotivefutures.com
 - Email: support@finotivefutures.com
 - Address: Innovation One Building, Level 2, DIFC, Dubai, U.A.E.

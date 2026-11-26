@@ -1,13 +1,13 @@
 # Crypto Fund Trader Discount Code
 
-The best current Crypto Fund Trader discount is 5% off with code platinum5 at checkout, verified by the PropFirmDiscount team in November 2026. Crypto Fund Trader currently has 7 deals with discount codes.
+The best current Crypto Fund Trader discount is 5% off with code platinum5 at checkout, verified by the PropFirmDiscount team in November 2026. Crypto Fund Trader currently has 8 deals with discount codes.
 
 - Discount code: platinum5
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Crypto Fund Trader
-- Deal last verified: 2026-11-14
-- Trustpilot score: 4.2/5 (1115 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 4.2/5 (1114 reviews)
 - Official web: cryptofundtrader.com
 - Email: support@cryptofundtrader.com
 - Address: Bahnhofstrasse 21, Zug, 6300, Switzerland
@@ -16,36 +16,37 @@ The best current Crypto Fund Trader discount is 5% off with code platinum5 at ch
 - Firm page: https://propfirmdiscount.com/prop-firm/crypto-fund-trader/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: Crypto Fund Trader: 25% Off New 1-Phase Challenge
+## Current deal: Crypto Fund Trader Black Friday: 30% Off All Challenges
 
-- Deal last verified: 2026-11-14
-- Deal ends: Limited time
-- Discount: 25% Off
-- Discount code: ONE
-- Applied to: 1-Phase Challenges
-- Deal url: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/
+- Deal last verified: 2026-11-26
+- Deal ends: 2026-11-29 23:59
+- Discount: 30% Off
+- Discount code: BLACK
+- Applied to: All challenges (1 Phase and 2 Phase accounts)
+- Event: Black Friday
+- Deal url: https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-black-friday-30-off-all-challenges/
 
 ## Crypto Fund Trader deal FAQ
 
-**What has Crypto Fund Trader launched?**
+**What does the Crypto Fund Trader Black Friday offer include?**
 
-The all-new 1-Phase CFT challenge: a one-phase model with a static drawdown; rules the firm describes as simpler; payouts the firm describes as faster.
+It takes 30% off all challenges - every 1 Phase and 2 Phase account. The offer is tied to the launch of the firm's all-new trading terminal.
 
-**Which versions does the 25% cover?**
+**When does the offer end?**
 
-All three versions of the new 1-Phase challenge. The announcement does not name the versions individually. The discount applies across the set.
+The firm states the offer is valid until 29 Nov 2026 at 23:59.
 
-**Is a code needed for the 25%?**
+**What is the new CFT terminal?**
 
-Yes - the announcement ties the discount to a code, which the deal page carries.
+It is the firm's all-new trading terminal, launched alongside this Black Friday offer. The firm says it was designed around real traders' feedback and needs.
 
-**When does the launch offer end?**
+**Does the 30% discount change the challenge rules?**
 
-No end date is stated. The announcement describes it as a limited offer.
+No. The discount lowers the price of the challenge account only; the challenge and the trading risk inside it stay unchanged.
 
-**Does the discount change the challenge's rules?**
+**Who might this offer suit?**
 
-No. The static drawdown and the rule set are the new challenge's own design, launched by the firm. The discount changes only the entry price. It does not reduce trading risk.
+It may suit traders who were already considering a 1 Phase or 2 Phase account and want to try the new terminal at a lower entry price.
 
 ## Deals (last 2 months, newest first)
 
@@ -53,4 +54,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Crypto Fund Trader Black Friday: 30% Off All Challenges | 30% Off | 2026-11-29 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-black-friday-30-off-all-challenges/ |
 | 2026-11-14 | Crypto Fund Trader: 25% Off New 1-Phase Challenge | 25% Off | Limited time | - | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-25-off-new-1-phase-challenge/ |

@@ -1,46 +1,47 @@
 # Traders Launch Discount Code
 
-Traders Launch currently lists 19 deals with discount code. Compare available promotions below to find the latest savings on Traders Launch challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Traders Launch currently lists 20 deals with discount code. Compare available promotions below to find the latest savings on Traders Launch challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 - Prop firm: Traders Launch
-- Deal last verified: 2026-11-23
-- Trustpilot score: 4.5/5 (82 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 4.4/5 (82 reviews)
 - Official web: traderslaunch.com
 - Address: United States
 - Market type: Futures + Crypto
 - Active deal url: https://propfirmdiscount.com/go/traderslaunch
 - Firm page: https://propfirmdiscount.com/prop-firm/traders-launch/
 
-## Current deal: Traders Launch: 30% Off All Accounts
+## Current deal: Traders Launch Thanksgiving: 30% Off All Accounts
 
-- Deal last verified: 2026-11-23
+- Deal last verified: 2026-11-26
 - Deal ends: 2026-11-30 23:59
 - Discount: 30% Off
 - Discount code: TL30
 - Applied to: All accounts
-- Deal url: https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts/
+- Event: Thanksgiving
+- Deal url: https://propfirmdiscount.com/deals/traders-launch/traders-launch-thanksgiving-30-off-all-accounts/
 
 ## Traders Launch deal FAQ
 
-**What does the 30% cover at Traders Launch?**
+**What does the Traders Launch Thanksgiving offer include?**
 
-All accounts, per the announcement, priced with the deal code at checkout until November 30, 2026 at 11:59 p.m. EST.
+It takes 30% off all accounts. The saving applies at checkout when the deal code is entered.
 
-**What payout terms do the accounts carry?**
+**When does the offer end?**
 
-Per the announcement: daily payouts, no payout caps, plus no consistency rules in the funded stage. Those are the accounts' own terms, not effects of the discount.
+The firm states the offer ends on 30 Nov 2026 at 11:59 PM EST.
 
-**What drawdown choice is offered?**
+**How do I apply the discount?**
 
-Static drawdown or end-of-day drawdown, per the announcement. The two styles behave differently, so compare them on the deal page before choosing.
+Follow the Start here link at the end of the article, choose your account on the Traders Launch official site, then enter the deal code at checkout. Confirm the 30% saving shows before completing the purchase.
 
-**Does the discount change the account rules?**
+**Is this 30% rate a one-off?**
 
-No. The offer reduces the entry cost only. It does not change trading rules or reduce trading risk.
+No. The same 30% off all accounts rate ran on 23 Nov 2026, one week earlier. It has recurred at the firm since a 30% offer on 31 Aug 2026.
 
-**How strong is the firm's review record?**
+**Who might this offer suit?**
 
-Trustpilot shows 4.5 out of 5 from 82 reviews as of November 2026: a high score on a thin base, worth weighing as such.
+It may suit traders who want a lower entry price on any Traders Launch account. The discount lowers the cost of the account only; the trading risk inside it is unchanged.
 
 ## Deals (last 2 months, newest first)
 
@@ -48,5 +49,6 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | Traders Launch Thanksgiving: 30% Off All Accounts | 30% Off | 2026-11-30 23:59 | Thanksgiving | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-thanksgiving-30-off-all-accounts/ |
 | 2026-11-23 | Traders Launch: 30% Off All Accounts | 30% Off | 2026-11-30 23:59 | - | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-30-off-all-accounts/ |
 | 2026-11-02 | Traders Launch Mystery Discount Account | Mystery discount | 2026-11-09 23:59 (ended) | - | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-mystery-discount-chosen-account/ |

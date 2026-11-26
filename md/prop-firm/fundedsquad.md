@@ -6,7 +6,7 @@ FundedSquad currently lists 39 deals (35 with discount codes). Compare available
 
 - Prop firm: FundedSquad
 - Deal last verified: 2026-11-23
-- Trustpilot score: 1.9/5 (424 reviews)
+- Trustpilot score: 1.9/5 (431 reviews)
 - Official web: fundedsquad.com
 - Email: support@fundedsquad.com
 - Address: DDO IFZA Business Park-Dubai Silicon Oasis, Dubai , PO BOX- 342001, U.A.E.

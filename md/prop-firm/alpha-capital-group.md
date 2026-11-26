@@ -6,7 +6,7 @@ Alpha Capital Group currently lists 52 deals (50 with discount codes). Compare a
 
 - Prop firm: Alpha Capital Group
 - Deal last verified: 2026-11-19
-- Trustpilot score: 4.5/5 (22298 reviews)
+- Trustpilot score: 4.5/5 (22344 reviews)
 - Official web: alphacapitalgroup.uk
 - Email: support@alphacapitalgroup.uk
 - Address: 10 Lower Thames Street, London, EC3R 6AF, United Kingdom

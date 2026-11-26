@@ -1,6 +1,6 @@
 # TX3 Funding Discount Code
 
-The best current TX3 Funding discount is 25% off with code PFD1 at checkout, verified by the PropFirmDiscount team in November 2026. TX3 Funding currently has 64 deals (62 with discount codes).
+The best current TX3 Funding discount is 25% off with code PFD1 at checkout, verified by the PropFirmDiscount team in November 2026. TX3 Funding currently has 66 deals (64 with discount codes).
 
 > **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
 >
@@ -10,8 +10,8 @@ The best current TX3 Funding discount is 25% off with code PFD1 at checkout, ver
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: TX3 Funding
-- Deal last verified: 2026-11-19
-- Trustpilot score: 3.0/5 (4313 reviews)
+- Deal last verified: 2026-11-26
+- Trustpilot score: 3.0/5 (4314 reviews)
 - Official web: tx3funding.com
 - Email: support@tx3funding.com
 - Address: U.A.E.
@@ -20,37 +20,37 @@ The best current TX3 Funding discount is 25% off with code PFD1 at checkout, ver
 - Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
 - JSON record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current deal: TX3 Funding Black Friday: 50% Off All Accounts
+## Current deal: TX3 Funding Black Friday: 35% Off Flex & Pro Challenges
 
-- Deal last verified: 2026-11-19
-- Deal ends: 2026-11-26 23:59
-- Discount: 50% Off
-- Discount code: BF50
-- Applied to: All Accounts (Instant, Core, Prestige)
+- Deal last verified: 2026-11-26
+- Deal ends: 2026-11-30 23:59
+- Discount: 35% Off
+- Discount code: BLACK35
+- Applied to: Flex & Pro Challenges
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/
+- Deal url: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/
 
 ## TX3 Funding deal FAQ
 
-**What does the 50% cover?**
+**What does the TX3 Funding Black Friday challenge offer include?**
 
-All TX3 Funding accounts - Instant, Core and Prestige - at every size, until 26 November 2026 at 11:59 PM ET.
+It takes 35% off Flex and Pro Challenges. The stated end is 30 Nov 2026 at 11:59 PM ET.
 
-**What are the prices with the discount applied?**
+**What are Flex and Pro at TX3 Funding?**
 
-Instant: 25K $159.50, 50K $229.50, 100K $299.50, 150K $369.50. Prestige: 50K $105.85, 100K $180.85, 150K $247.50. Core: 50K $89.15, 100K $147.50, 150K $214.15.
+They are the firm's two-step evaluations. The firm describes them as built around how you trade.
 
-**How do the three models differ?**
+**Does TX3 Funding have a working discount code?**
 
-Instant skips evaluation - funded from day one, with an EOD trailing drawdown and a 20% consistency rule on the 50K. Prestige and Core each run a one-step evaluation: Prestige has no daily loss limit in the evaluation with a 3-day minimum; Core has no consistency rule in the evaluation.
+Yes - alongside this campaign, the site's exclusive code PFD1 remains active on its own terms and takes {PFD_AFF_DISCOUNT} off at checkout. The challenge offer itself uses its own campaign code.
 
-**What happens after Thanksgiving night?**
+**When does the TX3 Funding challenge promotion end?**
 
-The offer ends on 26 November 2026 at 11:59 PM ET. The firm states the code stops working after that.
+The firm states an end of 30 Nov 2026 at 11:59 PM ET.
 
-**Does the discount change the trading risk?**
+**Is there a separate TX3 Funding offer for Instant accounts?**
 
-No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
+Yes. A separate Black Friday campaign takes 50% off Instant and 1 Phase accounts over the same window.
 
 ## Deals (last 2 months, newest first)
 
@@ -58,6 +58,8 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-26 | TX3 Funding Black Friday: 35% Off Flex & Pro Challenges | 35% Off | 2026-11-30 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/ |
+| 2026-11-26 | TX3 Funding Black Friday: 50% Off Instant & 1 Phase | 50% Off | 2026-11-30 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-instant-1-phase/ |
 | 2026-11-19 | TX3 Funding Black Friday: 50% Off All Accounts | 50% Off | 2026-11-26 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
 | 2026-10-27 | TX3 Funding Halloween 35% Off Challenge Accounts | 35% Off | 2026-10-31 23:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% Off | 2026-10-31 23:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |

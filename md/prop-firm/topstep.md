@@ -4,7 +4,7 @@ Topstep currently lists 9 deals (8 with discount codes). Compare available promo
 
 - Prop firm: Topstep
 - Deal last verified: 2026-11-25
-- Trustpilot score: 3.7/5 (15140 reviews)
+- Trustpilot score: 3.7/5 (15161 reviews)
 - Official web: topstep.com
 - Address: Chicago, United States
 - Market type: Futures

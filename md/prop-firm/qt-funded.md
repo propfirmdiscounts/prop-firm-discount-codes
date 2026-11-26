@@ -13,7 +13,7 @@ The best current QT Funded discount is 50% off with code PFDDEAL at checkout, ve
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: QT Funded
 - Deal last verified: 2026-11-16
-- Trustpilot score: 3.5/5 (13400 reviews)
+- Trustpilot score: 3.5/5 (13420 reviews)
 - Official web: qtfunded.com
 - Email: support@qtfunded.com
 - Address: London, United Kingdom

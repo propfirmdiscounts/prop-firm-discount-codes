@@ -7,7 +7,7 @@ The best current The5ers discount is 5% off with code NKY03MTJGM at checkout, ve
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: The5ers
 - Deal last verified: 2025-12-22
-- Trustpilot score: 4.7/5 (44281 reviews)
+- Trustpilot score: 4.7/5 (44901 reviews)
 - Official web: the5ers.com
 - Email: help@the5ers.com
 - Address: Hatidhar 2, Raanana, Israel

@@ -11,7 +11,7 @@ The best current Breakout Prop discount is 5% off with code 3GVKFT at checkout, 
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Breakout Prop
 - Deal last verified: 2026-07-27
-- Trustpilot score: 4.7/5 (1329 reviews)
+- Trustpilot score: 4.7/5 (1334 reviews)
 - Official web: breakoutprop.com
 - Address: United States
 - Market type: Crypto

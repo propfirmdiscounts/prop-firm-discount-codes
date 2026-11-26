@@ -9,7 +9,7 @@ The best current Funding Your Trades discount is 2% off with code PFD at checkou
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Funding Your Trades
 - Deal last verified: 2026-11-21
-- Trustpilot score: 2.9/5 (136 reviews)
+- Trustpilot score: 2.9/5 (137 reviews)
 - Official web: fundingyourtrades.com
 - Email: support@fundingyourtrades.com
 - Address: U.A.E.

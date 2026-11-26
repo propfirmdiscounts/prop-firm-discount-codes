@@ -6,7 +6,7 @@ FundingPips currently lists 26 deals (22 with discount codes). Compare available
 
 - Prop firm: FundingPips
 - Deal last verified: 2026-11-25
-- Trustpilot score: 4.5/5 (76172 reviews)
+- Trustpilot score: 4.5/5 (76707 reviews)
 - Official web: fundingpips.com
 - Email: support@fundingpips.com
 - Address: Premises NO. 19948-001, IFZA Business Park, DDP, Dubai, , U.A.E.

@@ -9,7 +9,7 @@ The best current Phoenix Trader Funding discount is 30% off with code PFD at che
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.
 - Prop firm: Phoenix Trader Funding
 - Deal last verified: 2026-11-25
-- Trustpilot score: 4.5/5 (263 reviews)
+- Trustpilot score: 4.5/5 (265 reviews)
 - Official web: phoenixtraderfunding.com
 - Email: contact@phoenixtraderfunding.com
 - Address: 60 Rue François 1er, Paris, 75008, France
