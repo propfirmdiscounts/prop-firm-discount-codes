@@ -2,12 +2,14 @@
 
 Find the latest prop firm flash sales and discount codes for 2026. Explore limited-time trading discounts and exclusive offers before they expire.
 
-As of 2026-11-27, the biggest offers this month: 65% OFF with code BF65 at FundedSquad, 60% OFF with code GTA6 at FundedSquad, 60% OFF with code GTA6 at Alpha Funded, 50% OFF with code CLUB at My Funded Futures, and 50% OFF with code GTA at WSFunded.
+As of 2026-11-27, the biggest offers this month: 65% OFF with code SPECIAL at Finotive Futures, 65% OFF with code BF65 at FundedSquad, 60% OFF with code GTA6 at FundedSquad, 60% OFF with code GTA6 at Alpha Funded, and 55% OFF with code BLACKFRIDAY at Atlas Funded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Finotive Futures | Finotive Futures: 65% Off Instant, 50% Off One Step | 65% OFF | 2026-11-29 13:00 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-65-off-instant-50-off-one-step/ |
+| 2026-11-27 | Atlas Funded | Atlas Funded Black Friday: 55% Off Evaluations | 55% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-55-off-evaluations/ |
 | 2026-11-27 | FundedSquad | FundedSquad Black Friday: 65% Off Everything + BOGO | 65% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/ |
 | 2026-11-27 | Maven Trading | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% OFF | 2026-11-27 18:59 | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
 | 2026-11-24 | Funded Trading Plus | Funded Trading Plus Black Friday: 40% Off Instant | 40% OFF | 2026-11-25 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |

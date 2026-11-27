@@ -35,12 +35,11 @@ The pricing table covers 11 account options across the Futures market. Prices sh
 | Premium | $150K | $1123 | $112.3 | 90% off | PFD |
 | 10K Challenge | $10K | $66 | $6.6 | 90% off | PFD |
 
-## Current deal: Phidias Propfirm: Up to 90% Off Every Account (code PFD)
+## Most recent deal (ended): Phidias Propfirm: Up to 90% Off Every Account (code PFD)
 
 - Deal last verified: 2026-11-25
-- Deal ends: 2026-11-27 17:00
+- Deal ends: 2026-11-27 17:00 (ended)
 - Discount: 90% Off
-- Discount code: PFD
 - Applied to: Every account, 25K to 150K
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/
@@ -73,7 +72,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% Off | 2026-11-27 17:00 | Black Friday | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/ |
+| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% Off | 2026-11-27 17:00 (ended) | Black Friday | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/ |
 | 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% Off | 2026-11-24 (ended) | Veterans Day | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/ |
 | 2026-11-02 | Phidias Propfirm Up to 80% Off Every Account (code PFD) | 80% Off | 2026-11-10 (ended) | - | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/ |
 | 2026-10-25 | Phidias Propfirm Halloween 90% Off First Month Evaluations (code PFD) | 90% Off | 2026-11-01 17:00 (ended) | Halloween | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |

@@ -48,7 +48,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-03-26 | Super Funded | Super Funded Easter Promotion: 50% Off 3K-10K Challenges | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/super-funded-50-percent-off-3k-10k-easter/ |
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime: 30% Off Challenge Pricing | 30% OFF | Ended | - | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-30-off-challenge/ |
 | 2026-03-25 | Bullwaves Prime | Bullwaves Prime 100% Deposit Bonus This Easter | Full Deposit Bonus | Ended | No Code Required | https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-100-deposit-bonus-easter/ |
-| 2025-04-17 | Atlas Funded | Atlas Funded 40% Off Challenges – Easter Deal (code PFD) | 40% OFF | Ended | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/ |
+| 2025-04-17 | Atlas Funded | Atlas Funded 40% Off Challenges – Easter Deal | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-easter/ |
 
 ## About this archive
 

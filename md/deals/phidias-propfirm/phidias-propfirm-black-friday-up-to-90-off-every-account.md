@@ -1,18 +1,17 @@
 # Phidias Propfirm: Up to 90% Off Every Account (code PFD)
 
-Phidias Propfirm is offering 90% off — discount code **PFD**.
+Phidias Propfirm was offering 90% off.
 
 > Phidias Propfirm's Black Friday offer, verified on 25 Nov 2026: code PFD takes up to 90% off every account until Friday 27 November.
 
 Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-verify-prop-firm-discount-codes/))
 
 - Deal last verified: 2026-11-25
-- Deal ends: 2026-11-27 17:00
+- Deal ends: 2026-11-27 17:00 (ended)
 - Prop firm: Phidias Propfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
 - Summary: Phidias Propfirm crashes prices for Black Friday, as checked on 25 November 2026: code PFD takes up to 90% off every account size this week.
 - Discount: 90% Off
-- Discount code: PFD
 - Applied to: Every account, 25K to 150K
 - Deal url: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/
 

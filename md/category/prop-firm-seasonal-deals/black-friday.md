@@ -1,13 +1,18 @@
 # Black Friday Prop Firm Discount Code & Deal Prop Firm Deals (2026)
 
-Black Friday prop firm deals: the deepest discounts of the trading year, 283 archived offers from 100 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
+Black Friday prop firm deals: the deepest discounts of the trading year, 288 archived offers from 101 firms across challenges, evaluations, resets and funded-account add-ons. Newest first, so you can compare this year's promo against what each firm has run before.
 
-As of 2026-11-27, the biggest offers this month: 65% OFF with code BF65 at FundedSquad, 50% OFF with code BLACKFRIDAY at Sure Leverage Funding, 50% OFF with code BLACK50 at TX3 Funding, 50% OFF with code BOGO50 at FTUK, and 50% OFF with code PFDC at E8 Markets.
+As of 2026-11-27, the biggest offers this month: 65% OFF with code SPECIAL at Finotive Futures, 65% OFF with code BF65 at FundedSquad, 60% OFF with code BLACK60 at OFP Funding, 55% OFF with code BLACKFRIDAY at Atlas Funded, and 50% OFF with code INSTANTPAYOUT at WSFunded.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Finotive Futures | Finotive Futures: 65% Off Instant, 50% Off One Step | 65% OFF | 2026-11-29 13:00 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-65-off-instant-50-off-one-step/ |
+| 2026-11-27 | OFP Funding | OFP Funding Black Friday: 60% Off Every Instant Account | 60% OFF | 2026-11-30 17:59 | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-black-friday-60-off-instant-accounts/ |
+| 2026-11-27 | WSFunded | WSFunded Black Friday: 50% Off Instant Accounts | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-instant-accounts/ |
+| 2026-11-27 | Breakout Prop | Breakout Prop: 25% Off Everything, Fees Halved | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-25-off-entire-cart/ |
+| 2026-11-27 | Atlas Funded | Atlas Funded Black Friday: 55% Off Evaluations | 55% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-55-off-evaluations/ |
 | 2026-11-27 | FundedSquad | FundedSquad Black Friday: 65% Off Everything + BOGO | 65% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/ |
 | 2026-11-27 | Equity Edge | Equity Edge Black Friday: Flat Prices From $69 To $299 | $69-$299 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-flat-prices-instant-legacy/ |
 | 2026-11-27 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-everything/ |
@@ -27,11 +32,11 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-25 | Blueberry Funded | Blueberry Funded 50% Off Instant Lite – Black Friday | 50% OFF | 2026-11-29 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-50-off-instant-lite-black-friday/ |
 | 2026-11-25 | Doji Funding | Doji Funding: Up to 60% Off Every Challenge (code PFD) | 60% OFF | 2026-11-29 23:59 | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/ |
 | 2026-11-25 | City Traders Imperium (CTI) | CTI Black Friday: 20% Off the 2-Step Challenge | 20% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-black-friday-2-step-challenge-20-off/ |
-| 2026-11-25 | Phidias Propfirm | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% OFF | 2026-11-27 17:00 | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/ |
+| 2026-11-25 | Phidias Propfirm | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% OFF | 2026-11-27 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/ |
 | 2026-11-24 | Blueberry Funded | Blueberry Funded 25% Off Prime + Free Reset – Black Friday | 25% OFF | 2026-11-29 18:59 | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/ |
 | 2026-11-24 | AquaFunded | AquaFunded Mega Sale: 40% Off Every Account | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/ |
 | 2026-11-24 | Forexive | Forexive Black Friday: $5,000 Challenge for $29 | $29 | Limited time | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/ |
-| 2026-11-24 | Atlas Funded | Atlas Funded Black Friday Week: 45% Off, 125% Back (code PFD) | 45% OFF | 2026-11-26 (ended) | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/ |
+| 2026-11-24 | Atlas Funded | Atlas Funded Black Friday Week: 45% Off, 125% Back | 45% OFF | 2026-11-26 (ended) | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/ |
 | 2026-11-24 | Maven Trading | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |
 | 2026-11-24 | Funded Trading Plus | Funded Trading Plus Black Friday: 40% Off Instant | 40% OFF | 2026-11-25 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |
 | 2026-11-24 | WSFunded | WSFunded Black Friday: 25% Off Instant, Second Free | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/ |
@@ -62,7 +67,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-22 | Alpha Futures | Alpha Futures Black Friday: BOGO + 50% Off 25K Direct | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/ |
 | 2026-11-22 | BluSky Trading | BluSky Trading Black Friday: Propel for $100 | Propel for $100 | 2026-12-01 23:59 | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-propel-100/ |
 | 2026-11-22 | FundingPips | FundingPips Black Friday: 20% Off All Accounts | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-black-friday-20-off-all-accounts/ |
-| 2026-11-22 | Atlas Funded | Atlas Funded Black Week: 40% Off Challenges (code PFD) | 40% OFF | 2026-11-23 18:59 (ended) | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
+| 2026-11-22 | Atlas Funded | Atlas Funded Black Week: 40% Off Challenges | 40% OFF | 2026-11-23 18:59 (ended) | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/ |
 | 2026-11-22 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/ |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades Black Friday: 50% Off, Pay 2 Get 5 | 50% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/ |
 | 2026-11-21 | Alpha Futures | Alpha Futures Black Friday: BOGO + 40% Off 25K Zero | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/ |
@@ -70,7 +75,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-21 | AudaCity Capital | AudaCity Capital Black Friday: 30% Off Ability 1-Step & FTP | 30% OFF | 2026-11-29 | - | https://propfirmdiscount.com/deals/audacity-capital-funded/audacity-capital-black-friday-30-off-ability-1-step-ftp/ |
 | 2026-11-21 | Funded Trading Plus | Funded Trading Plus Black Friday: 35% Off $25K-$50K | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/ |
 | 2026-11-20 | thePropTrade | thePropTrade Black Friday: 30% Off Three Challenges | 30% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/the-prop-trade/theproptrade-black-friday-30-off-three-challenges/ |
-| 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back (code PFD) | 45% OFF | 2026-11-23 (ended) | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
+| 2026-11-20 | Atlas Funded | Atlas Funded Black Friday: 45% Off Evaluations + 125% Back | 45% OFF | 2026-11-23 (ended) | - | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/ |
 | 2026-11-20 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off Sitewide | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-sitewide/ |
 | 2026-11-20 | WSFunded | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
 | 2026-11-20 | Instant Funding | Instant Funding Black Friday: 35% Off IF Micro Pro | 35% OFF | Limited time | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/ |
@@ -153,11 +158,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2025-11-27 | Finotive Funding | Finotive Funding Black Friday Sale: 35% OFF Site-Wide (Extra 25% with code) – Up to 60% OFF | 35% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-black-friday-35-off/ |
 | 2025-11-27 | Plutus Trade Base | Plutus Trade Base Black Friday Deal: 60% OFF All Plans | 60% OFF | Ended | - | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-black-friday-60-off/ |
 | 2025-11-27 | ATFunded | ATFunded Black Friday Sale: 15% OFF Pro & 2-Phase Programs | 15% OFF | Ended | - | https://propfirmdiscount.com/deals/atfunded/atfunded-black-friday-15-off/ |
-| 2025-11-27 | Atlas Funded | Atlas Funded 55% Off Challenges – Black Friday BOGO Deal (code PFD) | 55% OFF | Ended | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-55-off-challenges-black-friday-bogo/ |
-| 2025-11-27 | Super Funded | Super Funded Black Friday Sale: 45% OFF Evaluations (Up to 50k) | 45% OFF | Ended | - | https://propfirmdiscount.com/deals/super-funded/superfunded-black-friday-45-off-evaluations/ |
-| 2025-11-27 | CK PropFirm | CK Capital Black Friday Exclusive: 70% OFF $5K & $10K Accounts | 70% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-70-off-5k-10k/ |
-| 2025-11-27 | CK PropFirm | CK Capital Black Friday Deal: 40% OFF All Challenges | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/ckcapital/ck-capital-black-friday-40-off-all-challenges/ |
-| 2025-11-27 | Klein Funding | Klein Funding Black Friday Deal: 20% OFF Instant Pro Accounts | 20% OFF | Ended | - | https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-20-off-instant-pro/ |
 
 ## About this archive
 

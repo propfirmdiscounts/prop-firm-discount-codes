@@ -337,21 +337,21 @@
         "is_global": 1,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13461,
-            "title": "55% Off Selected Plans to Nov 29",
+            "deal_id": 13502,
+            "title": "45% Off Every Account At Checkout",
             "offer_type": "coupon",
-            "discount_value": "55%",
+            "discount_value": "45%",
             "scope": [
-                "Selected Plans"
+                "All Accounts - No Account Restriction Stated In The Source"
             ],
-            "date_published": "2026-11-23",
-            "date_exp": "2026-11-29",
-            "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/"
+            "date_published": "2026-11-27",
+            "date_exp": "Limited time",
+            "event": null,
+            "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-off-all-accounts/"
         },
         "deal_count": {
-            "total": 53,
-            "this_year": 33,
+            "total": 54,
+            "this_year": 34,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/goatfunded",
@@ -733,21 +733,21 @@
         "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 12373,
-            "title": "24% Off Evaluation Accounts Over $10K",
+            "deal_id": 13504,
+            "title": "25% Off Everything Plus Halved Fees",
             "offer_type": "coupon",
-            "discount_value": "24%",
+            "discount_value": "25%",
             "scope": [
-                "$10K+ Accounts, Maximum $200K Total Funding, All Evaluation Models"
+                "Entire Cart (Evaluations And The Optional 90/10 Profit Split Upgrade); Lower Trading Fees Apply Automatically To Turbo, Pro And Classic Accounts"
             ],
-            "date_published": "2026-07-27",
-            "date_exp": "Ended",
+            "date_published": "2026-11-27",
+            "date_exp": "Limited time",
             "event": null,
-            "post_url": "https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/"
+            "post_url": "https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-25-off-entire-cart/"
         },
         "deal_count": {
-            "total": 6,
-            "this_year": 3,
+            "total": 7,
+            "this_year": 4,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
@@ -1521,25 +1521,25 @@
         "prop_firm": "Atlas Funded",
         "slug": "atlas-funded",
         "code": "PFD",
-        "discount": "45%",
-        "is_global": 1,
+        "discount": "50%",
+        "is_global": 0,
         "validity": "standing",
         "last_deal": {
-            "deal_id": 13466,
-            "title": "45% Off Evaluations, 125% Fee Back",
+            "deal_id": 13503,
+            "title": "55% Off Evaluations In 48 Hours",
             "offer_type": "coupon",
-            "discount_value": "45%",
+            "discount_value": "55%",
             "scope": [
-                "Evaluations, Instant Zero"
+                "Evaluations"
             ],
-            "date_published": "2026-11-24",
-            "date_exp": "2026-11-26 (ended)",
+            "date_published": "2026-11-27",
+            "date_exp": "2026-11-28",
             "event": "Black Friday",
-            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/"
+            "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-55-off-evaluations/"
         },
         "deal_count": {
-            "total": 44,
-            "this_year": 19,
+            "total": 45,
+            "this_year": 20,
             "year": 2026
         },
         "activation_link": "https://propfirmdiscount.com/go/atlasfunded",

@@ -1,11 +1,11 @@
 # WSFunded Discount Code
 
-WSFunded currently lists 65 deals with discount code. Compare available promotions below to find the latest savings on WSFunded challenge accounts, checked November 2026 by the PropFirmDiscount team.
+WSFunded currently lists 66 deals with discount code. Compare available promotions below to find the latest savings on WSFunded challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Wall Street Funded offers the most modern and up-to-date platforms in the market for Forex. We have 3 evaluation account models: Rapid (1 phase), Classic (2 phases), and Ultra (2 phases). Our rules are transparent and real. You can increase up to a 90% Profit Split and scale your account up to $2,000,000, providing great opportunities in the forex markets. One of the advantages of Wall Street Funded is payouts every 10 days, allowing you to withdraw up to 3 times a month. We process payments quickly. HERE YOU HAVE YOUR TRUSTED PROP FIRM.l
 
 - Prop firm: WSFunded
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-27
 - Trustpilot score: 4.3/5 (5212 reviews)
 - Official web: wsfunded.com
 - Email: support@wsfunded.com
@@ -14,37 +14,37 @@ WSFunded currently lists 65 deals with discount code. Compare available promotio
 - Active deal url: https://propfirmdiscount.com/go/wsfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/wsfunded/
 
-## Current deal: WSFunded Black Friday: 25% Off Instant, Second Free
+## Current deal: WSFunded Black Friday: 50% Off Instant Accounts
 
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-27
 - Deal ends: Limited time
-- Discount: 25% Off
-- Discount code: BF2X1
-- Applied to: Instant accounts, Challenges
+- Discount: 50% Off
+- Discount code: INSTANTPAYOUT
+- Applied to: Instant accounts only (Black Friday booster)
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/
+- Deal url: https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-instant-accounts/
 
 ## WSFunded deal FAQ
 
-**How does the Instant two-for-one work at WSFunded?**
+**How much does the booster save on an Instant account?**
 
-Buy an Instant account with 25% off and an identical second account arrives completely free, straight away. On our arithmetic, two accounts for 75% of one list price averages 37.5% of list per account.
+It takes 50% off the purchase price of an Instant account when the deal code is entered at checkout.
 
-**Does the code work on Challenges too?**
+**What do on-demand payouts mean here?**
 
-Yes. The announcement states the code works on every Challenge. The free second account is stated for Instant accounts; whether it extends to Challenges is not stated.
+Funded traders on the boosted Instant account can request a payout whenever they like, with no minimum days to wait before asking.
 
-**Does the offer change the trading rules?**
+**Does the booster change the trading rules on the account?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**When does the offer end?**
+**How long does the offer run?**
 
-No end date is stated. The announcement says redemptions are limited, so the offer runs until the limited redemptions run out.
+No end date is stated. The firm says fewer and fewer boosters are still available, so the offer is best treated as open only while it can still be claimed at checkout.
 
-**What does WSFunded offer beyond Instant accounts?**
+**Does the discount cover the evaluation models too?**
 
-Three Forex evaluation models: Rapid (one phase), Classic (two phases) and Ultra (two phases), with a profit split of up to 90% and payouts every 10 days.
+No. The 50% booster applies to Instant accounts only; the Rapid, Classic and Ultra evaluation models sit outside this promotion.
 
 ## Deals (last 2 months, newest first)
 
@@ -52,6 +52,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | WSFunded Black Friday: 50% Off Instant Accounts | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-instant-accounts/ |
 | 2026-11-24 | WSFunded Black Friday: 25% Off Instant, Second Free | 25% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/ |
 | 2026-11-23 | WSFunded Black Friday: 50% Off + Free Reset | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |
 | 2026-11-20 | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
