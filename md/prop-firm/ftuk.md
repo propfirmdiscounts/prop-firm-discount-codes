@@ -14,12 +14,11 @@ FTUK currently lists 80 deals (76 with discount codes). Compare available promot
 - Active deal url: https://propfirmdiscount.com/go/ftuk
 - Firm page: https://propfirmdiscount.com/prop-firm/ftuk/
 
-## Current deal: FTUK Black Friday: 50% Off All Instant Plans + BOGO
+## Most recent deal (ended): FTUK Black Friday: 50% Off All Instant Plans + BOGO
 
 - Deal last verified: 2026-11-26
-- Deal ends: 2026-11-26 19:00
+- Deal ends: 2026-11-26 19:00 (ended)
 - Discount: 50% Off
-- Discount code: BOGO50
 - Applied to: All Instant plans - Instant Funding and Instant Pro accounts
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/
@@ -56,7 +55,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-26 | FTUK Black Friday: 50% Off All Instant Plans + BOGO | 50% Off | 2026-11-26 19:00 | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/ |
+| 2026-11-26 | FTUK Black Friday: 50% Off All Instant Plans + BOGO | 50% Off | 2026-11-26 19:00 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/ |
 | 2026-11-23 | FTUK 50% Off Every Instant Account – Black Friday | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-account-black-friday/ |
 | 2026-11-20 | FTUK Instant PRO Launch: 50% Off All Sizes | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-pro-launch-50-off/ |
 | 2026-11-17 | FTUK: 35% Off Flex Activation | 35% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ftuk/ftuk-flex-activation-35-off-black-friday/ |

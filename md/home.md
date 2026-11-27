@@ -70,7 +70,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-26 | FundingTraders | FundingTraders Thanksgiving: 70% Off Next Account (code PFD) | 70% Off | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/ |
 | 2026-11-26 | Traders Launch | Traders Launch Thanksgiving: 30% Off All Accounts | 30% Off | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-thanksgiving-30-off-all-accounts/ |
 | 2026-11-26 | AquaFunded | AquaFunded Thanksgiving: 40% Off Every Account | 40% Off | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/ |
-| 2026-11-26 | FTUK | FTUK Black Friday: 50% Off All Instant Plans + BOGO | 50% Off | - | https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/ |
 | 2026-11-26 | Forexive | Forexive Black Friday: 25% Off 1-Step & 2-Step Challenges | 25% Off | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-25-off-1-step-2-step-challenges/ |
 | 2026-11-26 | E8 Markets | E8 Markets Black Friday Sale: 50% Off Accounts (code PFDC) | 50% Off | PFDC | https://propfirmdiscount.com/deals/e8-funding/e8-markets-black-friday-50-off-perpetual-futures/ |
 | 2026-11-25 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily and Spark | 40% Off | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/ |
@@ -93,3 +92,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-24 | Maven Trading | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |
 | 2026-11-24 | WSFunded | WSFunded Black Friday: 25% Off Instant, Second Free | 25% Off | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/ |
 | 2026-11-23 | Goat Funded Trader | Goat Funded Trader Black Friday: 55% Off (code CSV) | 55% Off | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/ |
+| 2026-11-23 | FundedNext | FundedNext Black Friday: Buy One Stellar, Get One Free | BOGO | - | https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/ |

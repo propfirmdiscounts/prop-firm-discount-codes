@@ -12,12 +12,11 @@ OFP Funding currently lists 59 deals (58 with discount codes). Compare available
 - Active deal url: https://propfirmdiscount.com/go/ofpfunding
 - Firm page: https://propfirmdiscount.com/prop-firm/ofp-funding/
 
-## Current deal: OFP Funding 50% Off Every Account – Black Friday
+## Most recent deal (ended): OFP Funding 50% Off Every Account – Black Friday
 
 - Deal last verified: 2026-11-23
-- Deal ends: 2026-11-26 17:59
+- Deal ends: 2026-11-26 17:59 (ended)
 - Discount: 50% Off
-- Discount code: 50OFF
 - Applied to: Instant Lite accounts, Instant Classic accounts, Instant Plus accounts
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/
@@ -54,7 +53,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-23 | OFP Funding 50% Off Every Account – Black Friday | 50% Off | 2026-11-26 17:59 | Black Friday | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/ |
+| 2026-11-23 | OFP Funding 50% Off Every Account – Black Friday | 50% Off | 2026-11-26 17:59 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/ |
 | 2026-11-10 | OFP Funding: 55% Off Everything + Free Account | 55% Off | 2026-11-15 (ended) | - | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-55-off-everything-free-account/ |
 | 2026-11-02 | OFP Funding 45% Off Everything Plus BOGO | 45% Off | 2026-11-08 (ended) | - | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-45-percent-off-everything-bogo/ |
 | 2026-10-16 | OFP Funding: 50% Off All Accounts & Bonus Entitlement Over $250 | 50% Off | 2026-10-31 (ended) | - | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-accounts-bonus-250/ |

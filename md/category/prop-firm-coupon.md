@@ -2,7 +2,7 @@
 
 > Every deal from the last 2 months (since 2026-10-01), newest first, as one table with how each code redeems. Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Every prop firm promo code on PropFirmDiscount in one place: 3,308 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
+Every prop firm promo code on PropFirmDiscount in one place: 3,318 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
@@ -15,7 +15,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-26 | FundingTraders | FundingTraders Thanksgiving: 70% Off Next Account (code PFD) | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/ |
 | 2026-11-26 | Traders Launch | Traders Launch Thanksgiving: 30% Off All Accounts | 30% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-thanksgiving-30-off-all-accounts/ |
 | 2026-11-26 | AquaFunded | AquaFunded Thanksgiving: 40% Off Every Account | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/ |
-| 2026-11-26 | FTUK | FTUK Black Friday: 50% Off All Instant Plans + BOGO | 50% OFF | 2026-11-26 19:00 | - | https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/ |
+| 2026-11-26 | FTUK | FTUK Black Friday: 50% Off All Instant Plans + BOGO | 50% OFF | 2026-11-26 19:00 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-black-friday-50-off-all-instant-plans-bogo/ |
 | 2026-11-26 | Forexive | Forexive Black Friday: 25% Off 1-Step & 2-Step Challenges | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-25-off-1-step-2-step-challenges/ |
 | 2026-11-26 | E8 Markets | E8 Markets Black Friday Sale: 50% Off Accounts (code PFDC) | 50% OFF | Limited time | PFDC | https://propfirmdiscount.com/deals/e8-funding/e8-markets-black-friday-50-off-perpetual-futures/ |
 | 2026-11-25 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily and Spark | 40% OFF | 2026-12-12 17:59 | - | https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/ |
@@ -52,7 +52,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-23 | WSFunded | WSFunded Black Friday: 50% Off + Free Reset | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |
 | 2026-11-23 | Finotive Futures | Finotive Futures Black Friday: 60% Off Instant Accounts | 60% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/ |
 | 2026-11-23 | Funded Elite | Funded Elite Black Friday: Up to 60% Off + $1 Flash | 60% OFF | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/ |
-| 2026-11-23 | OFP Funding | OFP Funding 50% Off Every Account – Black Friday | 50% OFF | 2026-11-26 17:59 | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/ |
+| 2026-11-23 | OFP Funding | OFP Funding 50% Off Every Account – Black Friday | 50% OFF | 2026-11-26 17:59 (ended) | - | https://propfirmdiscount.com/deals/ofp-funding/ofp-funding-50-off-every-account-black-friday/ |
 | 2026-11-23 | FTUK | FTUK 50% Off Every Instant Account – Black Friday | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-account-black-friday/ |
 | 2026-11-23 | City Traders Imperium (CTI) | CTI 15% Off Direct Funding – Black Friday | 15% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-15-off-direct-funding-black-friday/ |
 | 2026-11-23 | FundedSquad | FundedSquad Up to 65% Off + BOGO – Black Friday | 65% OFF | 2026-12-03 07:00 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-up-to-65-off-bogo-black-friday/ |
