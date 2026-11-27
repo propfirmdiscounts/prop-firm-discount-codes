@@ -2,12 +2,17 @@
 
 > Every deal from the last 2 months (since 2026-10-01), newest first, as one table with how each code redeems. Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Every prop firm promo code on PropFirmDiscount in one place: 3,318 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
+Every prop firm promo code on PropFirmDiscount in one place: 3,323 listed deals covering challenges, evaluations, resets and funded-account add-ons from 122 prop firms. Codes live under Coupons and Deals, holiday campaigns under Seasonal Deals; this page shows all of it, newest first.
 
 How to read the code column: a code value is the firm's discount code and works any time; "-" means the deal carries its own limited-time code, which you copy from the deal page the row links to (ended offers also print "-"; the Ends column says when a row is history); "No Code Required" means the offer applies with nothing entered.
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Goat Funded Trader | Goat Funded Trader: 45% Off All Accounts At Checkout (code CSV) | 45% OFF | Limited time | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-off-all-accounts/ |
+| 2026-11-27 | FundedSquad | FundedSquad Black Friday: 65% Off Everything + BOGO | 65% OFF | 2026-11-28 | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/ |
+| 2026-11-27 | Equity Edge | Equity Edge Black Friday: Flat Prices From $69 To $299 | $69-$299 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-flat-prices-instant-legacy/ |
+| 2026-11-27 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-everything/ |
+| 2026-11-27 | Maven Trading | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% OFF | 2026-11-27 18:59 | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
 | 2026-11-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 25% Off Instant Funding | 25% OFF | 2026-11-30 | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-25-off-instant-funding-black-friday/ |
 | 2026-11-26 | Crypto Fund Trader | Crypto Fund Trader Black Friday: 30% Off All Challenges | 30% OFF | 2026-11-29 23:59 | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-black-friday-30-off-all-challenges/ |
 | 2026-11-26 | TX3 Funding | TX3 Funding Black Friday: 35% Off Flex & Pro Challenges | 35% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/ |
@@ -34,7 +39,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-24 | AquaFunded | AquaFunded Mega Sale: 40% Off Every Account | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/ |
 | 2026-11-24 | Forexive | Forexive Black Friday: $5,000 Challenge for $29 | $29 | Limited time | - | https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/ |
 | 2026-11-24 | Direct Funded Trader | Direct Funded Trader Turbo Challenge: Free Entry | $0 Entry | Limited time | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/ |
-| 2026-11-24 | Atlas Funded | Atlas Funded Black Friday Week: 45% Off, 125% Back (code PFD) | 45% OFF | 2026-11-26 | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/ |
+| 2026-11-24 | Atlas Funded | Atlas Funded Black Friday Week: 45% Off, 125% Back (code PFD) | 45% OFF | 2026-11-26 (ended) | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/ |
 | 2026-11-24 | Maven Trading | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | 2026-11-30 18:59 | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |
 | 2026-11-24 | Funded Trading Plus | Funded Trading Plus Black Friday: 40% Off Instant | 40% OFF | 2026-11-25 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/ |
 | 2026-11-24 | WSFunded | WSFunded Black Friday: 25% Off Instant, Second Free | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-25-off-instant-second-free/ |
@@ -95,7 +100,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-19 | Alpha Funded | Alpha Funded: 60% Off All Challenges | 60% OFF | 2026-11-20 (ended) | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/ |
 | 2026-11-19 | Doji Funding | Doji Funding GTA VI Promo: 60% Off Challenges (code PFD) | 60% OFF | 2026-11-23 (ended) | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/ |
 | 2026-11-19 | Funded Trading Plus | Funded Trading Plus Flash Sale Extended: 32.5% Off | 32.5% OFF | 2026-11-20 (ended) | - | https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/ |
-| 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
+| 2026-11-19 | TX3 Funding | TX3 Funding Black Friday: 50% Off All Accounts | 50% OFF | 2026-11-26 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/ |
 | 2026-11-18 | SabioTrade | SabioTrade GTA VI Giveaway: 10 Copies, Free Entry | Prize Draw | 2026-11-18 (ended) | No Code Required | https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-gta-vi-giveaway-free-trial-entry/ |
 | 2026-11-18 | Alpha Capital Group | Alpha Capital Group: Direct BOGO Plus 20% Off | 20% OFF | Limited time | - | https://propfirmdiscount.com/deals/alpha-capital-group/alpha-capital-group-direct-bogo-black-friday/ |
 | 2026-11-18 | FundingPips | FundingPips: Double First Reward via Likes Challenge | Double First Reward | 2026-11-19 15:00 (ended) | - | https://propfirmdiscount.com/deals/funding-pips/fundingpips-double-first-reward-likes/ |
@@ -283,23 +288,23 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 35% Off Challenge Accounts | 35% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/ |
 | 2026-10-27 | TX3 Funding | TX3 Funding Halloween 40% Off Instant Funded Accounts | 40% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/ |
 | 2026-10-27 | Lucid Trading | Lucid Trading 30% Off All Accounts With DLL On (code PFD) | 30% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
-| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-26 | BluSky Trading | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Ended | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
 | 2026-10-26 | IC Funded | IC Funded Halloween 40% Off All Challenges | 40% OFF | 2026-10-31 (ended) | - | https://propfirmdiscount.com/deals/ic-funded/ic-funded-halloween-40-off-all-challenges/ |
-| 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts (code CSV) | 50% OFF | Limited time | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
-| 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% OFF | Limited time | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
+| 2026-10-26 | Goat Funded Trader | Goat Funded Trader Halloween 50% Off Challenge Accounts (code CSV) | 50% OFF | Ended | CSV | https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/ |
+| 2026-10-26 | WSFunded | WSFunded Halloween Sale: 50% Off All Challenges | 50% OFF | Ended | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-26 | TX3 Funding | TX3 Funding Halloween 35% Off All Accounts Weekend Flash | 35% OFF | 2026-10-25 23:59 (ended) | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/ |
 | 2026-10-26 | The Concept Trading | The Concept Trading Halloween 45% Off Eligible Programs | 45% OFF | 2026-10-31 09:59 (ended) | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/ |
-| 2026-10-26 | Direct Funded Trader | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |
-| 2026-10-26 | For Traders | For Traders Halloween 25% Off Any Challenge | 25% OFF | Limited time | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/ |
+| 2026-10-26 | Direct Funded Trader | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% OFF | Ended | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |
+| 2026-10-26 | For Traders | For Traders Halloween 25% Off Any Challenge | 25% OFF | Ended | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/ |
 | 2026-10-26 | Doji Funding | Doji Funding Halloween 60% Off Every Challenge (code PFD) | 60% OFF | 2026-10-31 (ended) | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/ |
 | 2026-10-26 | FTUK | FTUK 50% Off Instant Funding Accounts Halloween | 50% OFF | 2026-10-30 19:59 (ended) | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-instant-funding-halloween/ |
-| 2026-10-26 | Atlas Funded | Atlas Funded 45% Off Challenges Halloween Cashback (code PFD) | 45% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/ |
+| 2026-10-26 | Atlas Funded | Atlas Funded 45% Off Challenges Halloween Cashback (code PFD) | 45% OFF | Ended | PFD | https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/ |
 | 2026-10-26 | Instant Funding | Instant Funding Halloween 30% Off All Accounts Deal | 30% OFF | 2026-11-01 (ended) | - | https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/ |
 | 2026-10-26 | Funded Elite | Funded Elite Halloween 40% Off Five Challenge Models | 40% OFF | 2026-10-31 23:59 (ended) | - | https://propfirmdiscount.com/deals/funded-elite/funded-elite-halloween-40-off-five-challenge-models/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 50% Off Plus Free Account | 50% OFF | 2026-11-01 00:00 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/ |
 | 2026-10-26 | QT Funded | QT Funded Halloween 60% Off Challenge Entry | 60% OFF | 2026-11-01 00:00 (ended) | - | https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/ |
-| 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Limited time | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
-| 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
+| 2026-10-26 | SFX Funded | SFX Funded 55% Off All Accounts Black Friday BOGO Deal | 55% OFF | Ended | - | https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/ |
+| 2026-10-26 | Fintokei | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Ended | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
 | 2026-10-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 15% Off Main Programs Halloween | 15% OFF | 2026-10-31 19:59 (ended) | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-halloween-15-off-main-programs-2/ |
 | 2026-10-25 | Phidias Propfirm | Phidias Propfirm Halloween 90% Off First Month Evaluations (code PFD) | 90% OFF | 2026-11-01 17:00 (ended) | PFD | https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/ |
 | 2026-10-25 | Alpha Funded | Alpha Trader Firm 80% Off Jumbo Instant Funding Accounts | 80% OFF | 2026-10-26 19:00 (ended) | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-trader-firm-80-off-jumbo-instant-funding/ |

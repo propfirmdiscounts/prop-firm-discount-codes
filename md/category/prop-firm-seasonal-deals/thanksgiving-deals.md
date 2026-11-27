@@ -1,6 +1,6 @@
 # Thanksgiving Prop Firm Discount & Promo Code Prop Firm Deals (2026)
 
-Thanksgiving prop firm deals: the US-holiday side of the November sale season, before Black Friday — 10 archived offers from 10 firms that ran a separate Thanksgiving promo. Most firms fold it into one long sale; for the wider list check the Black Friday archive.
+Thanksgiving prop firm deals: the US-holiday side of the November sale season, before Black Friday — 11 archived offers from 10 firms that ran a separate Thanksgiving promo. Most firms fold it into one long sale; for the wider list check the Black Friday archive.
 
 As of 2026-11-16, the biggest offers this month: 90% OFF with code GOBBLE90 at Elite Trader Funding, 70% OFF with code PFD at FundingTraders, 70% OFF with code THANKSGIVING70 at OFP Funding, 40% OFF with code THANKSGIVING at AquaFunded, and 40% OFF with code BF at Tradeify.
 
@@ -8,6 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-27 |  | Thanksgiving Prop Firm Deals & Discount Codes 2026 |  | Limited time | No Code Required | https://propfirmdiscount.com/thanksgiving-prop-firm-deals/ |
 | 2026-11-26 | FundingTraders | FundingTraders Thanksgiving: 70% Off Next Account (code PFD) | 70% OFF | Limited time | PFD | https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-thanksgiving-70-off-next-account/ |
 | 2026-11-26 | Traders Launch | Traders Launch Thanksgiving: 30% Off All Accounts | 30% OFF | 2026-11-30 23:59 | - | https://propfirmdiscount.com/deals/traders-launch/traders-launch-thanksgiving-30-off-all-accounts/ |
 | 2026-11-26 | AquaFunded | AquaFunded Thanksgiving: 40% Off Every Account | 40% OFF | Limited time | - | https://propfirmdiscount.com/deals/aquafunded/aquafunded-thanksgiving-40-off-every-account/ |

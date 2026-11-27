@@ -26,7 +26,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 |---|---|---|---|
 | [Direct Funded Trader: 50% Off All Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/) | - | 50% Off | Limited time |
 | [Direct Funded Trader 100K 2-Step Evaluation for $99](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/) | - | $99 | Limited time |
-| [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Halloween | 40% Off | Limited time |
+| [Direct Funded Trader Halloween 40% and 50% Off Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/) | Halloween | 40% Off | Ended |
 | [Direct Funded Trader Cuts Evaluation Account Costs by 50%](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/) | - | 50% Off | Ended |
 | [Direct Funded Trader 50% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-2/) | - | 50% Off | Ended |
 

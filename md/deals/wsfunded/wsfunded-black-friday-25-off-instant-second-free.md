@@ -25,7 +25,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | [WSFunded Black Friday: 50% Off + Free Reset](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/) | Black Friday | 50% Off | Limited time |
 | [WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/) | Black Friday | 55% Off | Limited time |
 | [WSFunded: 60% Off Challenges From 2.5K to 25K](https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/) | - | 60% Off | Limited time |
-| [WSFunded Flash Challenge: 50% Off, 24 Hours](https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/) | - | 50% Off | 2026-11-19 (ended) |
+| [WSFunded Flash Challenge: 50% Off, 24 Hours](https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/) | Flash Sale | 50% Off | 2026-11-19 (ended) |
 | [WSFunded Black Friday: 4 Instant Challenges $68.60](https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/) | Black Friday | 30% Off | Limited time |
 
 ## Frequently Asked Questions

@@ -63,7 +63,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-10 | FTUK: 50% Off Every Instant Funding Size | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-50-off-every-instant-funding-size/ |
 | 2026-11-09 | FTUK Instant Funding: 35% Off Every Account | 35% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-instant-funding-35-off-every-account/ |
 | 2026-11-07 | FTUK: 35% Off Instant Funding Plus 20% Profit Boost | 35% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-profit-boost/ |
-| 2026-11-06 | FTUK NFP Restart: 40% Off Your Next Instant Account | 40% Off | 2026-11-07 (ended) | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/ |
+| 2026-11-06 | FTUK NFP Restart: 40% Off Your Next Instant Account | 40% Off | 2026-11-07 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/ftuk/ftuk-40-off-next-instant-account-nfp/ |
 | 2026-11-03 | FTUK 35% Off Instant Funding + 20% Payout Boost | 35% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-35-off-instant-funding-payout-boost-2/ |
 | 2026-11-02 | FTUK $1 to Start Challenge, 1% Target | $1 to start | Limited time | - | - | https://propfirmdiscount.com/deals/ftuk/ftuk-1-dollar-start-challenge-1-percent-target/ |
 | 2026-10-29 | FTUK Halloween 35% Off Flex Funded Activation Fee | 35% Off | 2026-10-30 19:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/ftuk/ftuk-halloween-flex-funded-activation-fee-35-off/ |

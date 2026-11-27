@@ -56,11 +56,11 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-23 | WSFunded Black Friday: 50% Off + Free Reset | 50% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-50-off-free-reset/ |
 | 2026-11-20 | WSFunded Black Friday: 55% Off + 90/10 Split + 150% Refund | 55% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-55-off-split-refund-pack/ |
 | 2026-11-20 | WSFunded: 60% Off Challenges From 2.5K to 25K | 60% Off | Limited time | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-challenges-2-5k-to-25k/ |
-| 2026-11-18 | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% Off | 2026-11-19 (ended) | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
+| 2026-11-18 | WSFunded Flash Challenge: 50% Off, 24 Hours | 50% Off | 2026-11-19 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-flash-challenge-50-off-24-hours/ |
 | 2026-11-09 | WSFunded Black Friday: 4 Instant Challenges $68.60 | 30% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-black-friday-4-instant-challenges-68-60/ |
 | 2026-11-04 | WSFunded 40% Off All Challenges Plus 300% Refund Offer | 40% Off | Limited time | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-40-off-all-challenges-300-refund/ |
 | 2026-10-30 | WSFunded 60% Off ELITE Challenge 2.5K to 25K Halloween | 60% Off | 2026-11-02 17:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-elite-challenge-60-off-halloween-flash/ |
-| 2026-10-26 | WSFunded Halloween Sale: 50% Off All Challenges | 50% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
+| 2026-10-26 | WSFunded Halloween Sale: 50% Off All Challenges | 50% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-halloween-50-off-all-challenges/ |
 | 2026-10-12 | WSFunded 60% Off Entry Cost For $2.5K To $25K Accounts | 60% Off | 2026-10-18 (ended) | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-60-off-25k-accounts/ |
 | 2026-10-09 | WSFunded 50% Off All Challenges and New York Prize Draw | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-challenges-trip-giveaway/ |
 | 2026-10-02 | WSFunded 50% Off All Challenges & New 2% Target Accounts | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/wsfunded/wsfunded-50-off-all-challenges/ |

@@ -53,7 +53,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
 | 2026-11-23 | Alpha Funded Black Friday: Up to 80% Off Challenges | 80% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-black-friday-up-to-80-off/ |
-| 2026-11-19 | Alpha Funded: 60% Off All Challenges | 60% Off | 2026-11-20 (ended) | - | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/ |
+| 2026-11-19 | Alpha Funded: 60% Off All Challenges | 60% Off | 2026-11-20 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/ |
 | 2026-11-04 | Alpha Funded Free 100% Profit Split Add-On for Flex | Free Add-on | 2026-11-30 | - | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/ |
 | 2026-11-03 | Alpha Funded 70% Off $300K+ Forex and Futures Flex | 70% Off | Limited time | - | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/ |
 | 2026-10-27 | Alpha Funded Halloween 70% Off Instant Funding Accounts | 70% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/ |

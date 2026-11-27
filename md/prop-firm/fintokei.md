@@ -54,4 +54,4 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-11-12 | Fintokei Black Friday XP Boost: 20% Off + 100 XP | 20% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-xp-boost-20-off-100-xp/ |
 | 2026-11-02 | Fintokei Black Friday Deal: 20% Off Every Challenge | 20% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/fintokei/fintokei-20-off-every-challenge-november/ |
-| 2026-10-26 | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |
+| 2026-10-26 | Fintokei Black Friday Challenge Fee Back With First Payout | Challenge Fee Back | Ended | Black Friday | - | https://propfirmdiscount.com/deals/fintokei/fintokei-black-friday-challenge-fee-back-first-payout/ |

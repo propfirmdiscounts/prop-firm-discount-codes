@@ -24,11 +24,11 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [Funded Trading Plus Black Friday: 40% Off Instant](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) | Black Friday | 40% Off | 2026-11-25 (ended) |
+| [Funded Trading Plus Black Friday: 40% Off Instant](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) | Flash Sale | 40% Off | 2026-11-25 (ended) |
 | [Funded Trading Plus Black Friday: 35% Off $25K-$50K](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/) | Black Friday | 35% Off | Limited time |
 | [Funded Trading Plus Black Friday: 37.5% Off $5K-$10K](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/) | Black Friday | 37.5% Off | Limited time |
-| [Funded Trading Plus Flash Sale Extended: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/) | - | 32.5% Off | 2026-11-20 (ended) |
-| [Funded Trading Plus Flash Sale: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/) | - | 32.5% Off | Limited time |
+| [Funded Trading Plus Flash Sale Extended: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/) | Flash Sale | 32.5% Off | 2026-11-20 (ended) |
+| [Funded Trading Plus Flash Sale: 32.5% Off](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/) | Flash Sale | 32.5% Off | Limited time |
 
 ## Frequently Asked Questions
 

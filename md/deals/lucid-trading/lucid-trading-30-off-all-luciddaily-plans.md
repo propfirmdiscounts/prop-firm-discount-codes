@@ -20,13 +20,13 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 ## Recent deal from Lucid Trading
 
-| Title | Discount | Expires |
-|---|---|---|
-| [Lucid Trading 35% Off All Plans – Concrete Day Sale](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | 35% Off | 2026-11-06 17:00 (ended) |
-| [Lucid Trading 30% Off All Accounts With DLL On](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) | 30% Off | Limited time |
-| [Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) | 40% Off | 2026-10-23 (ended) |
-| [Lucid Trading: 50% Off Upfront Entry Cost For All Accounts](https://propfirmdiscount.com/deals/lucid-trading/50-percent-off-all-accounts/) | 50% Off | Ended |
-| [Lucid Trading 40% Off Any Evaluation Entry Fee](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-any-evaluation/) | 40% Off | Ended |
+| Title | Event | Discount | Expires |
+|---|---|---|---|
+| [Lucid Trading 35% Off All Plans – Concrete Day Sale](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) | Flash Sale | 35% Off | 2026-11-06 17:00 (ended) |
+| [Lucid Trading 30% Off All Accounts With DLL On](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) | - | 30% Off | Limited time |
+| [Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) | - | 40% Off | 2026-10-23 (ended) |
+| [Lucid Trading: 50% Off Upfront Entry Cost For All Accounts](https://propfirmdiscount.com/deals/lucid-trading/50-percent-off-all-accounts/) | - | 50% Off | Ended |
+| [Lucid Trading 40% Off Any Evaluation Entry Fee](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-any-evaluation/) | - | 40% Off | Ended |
 
 ## Frequently Asked Questions
 

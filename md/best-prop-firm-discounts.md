@@ -8,8 +8,8 @@ Compare the best prop firm discount codes and deals available this month, ranked
 |---|---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | Black Friday | PFD | 90% | Exclusive Code | Ends Nov 27, 2026 | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Elite Trader Funding | Thanksgiving | - | 90% | Campaign Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/elite-trader-funding/ |
-| 3 | CK PropFirm | - | - | 85% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 4 | FundingTraders | - | PFD | 81% | Exclusive Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | CK PropFirm | Flash Sale | - | 85% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/ckcapital/ |
+| 4 | FundingTraders | Flash Sale | PFD | 81% | Exclusive Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
 | 5 | Alpha Funded | Black Friday | - | 80% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/alpha-trader/ |
 | 6 | Top One Trader | Black Friday | - | 80% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/top-one-trader/ |
 | 7 | QT Funded | Black Friday | - | 75% | Campaign Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/qt-funded/ |
@@ -17,7 +17,7 @@ Compare the best prop firm discount codes and deals available this month, ranked
 | 9 | Funded Hero Futures | - | PFD | 70% | Exclusive Code | Limited time | Futures | https://propfirmdiscount.com/prop-firm/funded-hero-futures/ |
 | 10 | Top One Futures | Black Friday | PFD | 70% | Exclusive Code | Ends Nov 30, 2026 | Futures | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 11 | FundYourFX | Black Friday | - | 70% | Campaign Code | Ends Nov 30, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundyourfx/ |
-| 12 | FundedSquad | Black Friday | - | 65% | Campaign Code | Ends Dec 3, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
+| 12 | FundedSquad | Black Friday | - | 65% | Campaign Code | Ends Nov 28, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundedsquad/ |
 | 13 | Finotive Funding | Black Friday | - | 65% | Campaign Code | Ends Dec 4, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/finotive-funding/ |
 | 14 | Doji Funding | Black Friday | PFD | 60% | Exclusive Code | Ends Nov 29, 2026 | Forex/CFD | https://propfirmdiscount.com/prop-firm/doji-funding/ |
 | 15 | Funded Hero | - | PFD | 60% | Exclusive Code | Limited time | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
@@ -36,10 +36,10 @@ Ranked highest discount first, one row per firm that posted a deal this month - 
 | 1 | Phidias Propfirm | PFD | 90% | No expiry | Futures | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funded Hero | PFD | 60% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-hero/ |
 | 3 | E8 Markets | PFDC | 50% | No expiry | Forex/CFD + Futures + Crypto | https://propfirmdiscount.com/prop-firm/e8-funding/ |
-| 4 | AquaFunded | PFD | 35% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 5 | Blue Guardian | PFD | 35% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
-| 6 | SabioTrade | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
-| 7 | TX3 Funding | PFD1 | 25% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 4 | TX3 Funding | PFD1 | 50% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
+| 5 | AquaFunded | PFD | 35% | No expiry | Forex/CFD + Futures | https://propfirmdiscount.com/prop-firm/aquafunded/ |
+| 6 | Blue Guardian | PFD | 35% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/blue-guardian/ |
+| 7 | SabioTrade | PFD | 30% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/sabiotrade/ |
 | 8 | Funded Trading Plus | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/funded-trading-plus/ |
 | 9 | FundedNext | PFDC | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/fundednext/ |
 | 10 | Instant Funding | PFD | 20% | No expiry | Forex/CFD | https://propfirmdiscount.com/prop-firm/instant-funding/ |

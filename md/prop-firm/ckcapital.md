@@ -60,7 +60,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
 | 2026-11-25 | CK PropFirm Black Friday: 30% Off All Challenges | 30% Off | 2026-11-29 23:59 | - | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-30-off-all-challenges/ |
-| 2026-11-16 | CK PropFirm Flash Sale: 85% Off All Evaluations | 85% Off | Limited time | - | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/ |
+| 2026-11-16 | CK PropFirm Flash Sale: 85% Off All Evaluations | 85% Off | Limited time | Flash Sale | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/ |
 | 2026-11-11 | CK PropFirm Black Friday: 80% Off All Challenges | 80% Off | Limited time | Black Friday | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/ |
 | 2026-11-06 | CK PropFirm Diwali 80% Off All Challenge Types | 80% Off | 2026-11-11 (ended) | Diwali | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/ |
 | 2026-11-02 | CK PropFirm 75% Off All Challenge Accounts | 75% Off | 2026-11-30 | - | - | https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/ |

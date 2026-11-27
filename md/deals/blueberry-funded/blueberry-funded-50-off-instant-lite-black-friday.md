@@ -24,8 +24,8 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 |---|---|---|---|
 | [Blueberry Funded 25% Off Prime + Free Reset – Black Friday](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/) | Black Friday | 25% Off | 2026-11-29 18:59 |
 | [Blueberry Funded 40% Off Prime 2-Step – Black Friday](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-40-off-prime-2-step-black-friday/) | Black Friday | 40% Off | 2026-11-29 18:59 |
-| [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) | - | 40% Off | 2026-11-18 18:59 (ended) |
-| [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) | - | 35% Off | 2026-11-18 18:59 (ended) |
+| [Blueberry Funded Winter Arc: 40% Off Instant Lite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-lite-40-off/) | Flash Sale | 40% Off | 2026-11-18 18:59 (ended) |
+| [Blueberry Funded Winter Arc: 35% Off Instant Elite](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-winter-arc-instant-elite-35-off/) | Flash Sale | 35% Off | 2026-11-18 18:59 (ended) |
 | [Blueberry Funded Diwali: 30% Off All Challenges](https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-diwali-30-off-all-challenges/) | Diwali | 30% Off | 2026-11-11 (ended) |
 
 ## Frequently Asked Questions

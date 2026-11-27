@@ -54,5 +54,5 @@ How to read the code column: a code value is the firm's discount code and works 
 |---|---|---|---|---|---|---|
 | 2026-11-22 | BluSky Trading Black Friday: Propel for $100 | Propel for $100 | 2026-12-01 23:59 | Black Friday | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-black-friday-propel-100/ |
 | 2026-11-11 | BluSky Trading: $120 Off 100K Propel – $100 Total | $120 Off | 2026-11-11 23:59 (ended) | Veterans Day | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/ |
-| 2026-10-26 | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
+| 2026-10-26 | BluSky Trading Halloween $120 Off Propel Accounts | $10-$120 Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/ |
 | 2026-10-02 | BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts | 30% Off | Ended | - | - | https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/ |

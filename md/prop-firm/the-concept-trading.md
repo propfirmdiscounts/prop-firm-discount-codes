@@ -51,7 +51,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
 | 2026-11-17 | The Concept Trading Black Friday: 45% Off + Free Retry | 45% Off | 2026-11-30 08:59 | Black Friday | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-black-friday-45-off-free-retry/ |
-| 2026-11-11 | The Concept Trading: 35% Off Instant Programs | 35% Off | 2026-11-13 08:59 (ended) | - | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/ |
+| 2026-11-11 | The Concept Trading: 35% Off Instant Programs | 35% Off | 2026-11-13 08:59 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-instant-programs-48-hours/ |
 | 2026-11-02 | The Concept Trading 30% Off Eligible Programs in November | 30% Off | 2026-11-10 08:59 (ended) | - | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-before-the-bell-30-off-eligible/ |
 | 2026-10-26 | The Concept Trading Halloween 45% Off Eligible Programs | 45% Off | 2026-10-31 09:59 (ended) | Halloween | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-halloween-45-off-eligible-programs/ |
 | 2026-10-20 | The Concept Trading 35% Off Eligible Programs | 35% Off | 2026-10-24 (ended) | - | - | https://propfirmdiscount.com/deals/the-concept-trading/the-concept-trading-35-off-eligible-programs/ |

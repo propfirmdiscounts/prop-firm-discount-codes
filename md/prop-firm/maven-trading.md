@@ -1,11 +1,11 @@
 # Maven Trading Discount Code
 
-Maven Trading currently lists 5 deals with discount code. Compare available promotions below to find the latest savings on Maven Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
+Maven Trading currently lists 6 deals with discount code. Compare available promotions below to find the latest savings on Maven Trading challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > Looking for information on Maven Trading? Find it at their official review platform here: https://www.feefo.com/en-GB/reviews/maventrading-com At Mavsoft, we are at the forefront of advancing machine learning techniques for the production of risk-adverse intelligence. Our services encompass a wide array of cutting-edge methodologies, encompassing deep neural networks, reinforcement learning, and generative adversarial networks. By harnessing the power of these sophisticated algorithms, we empower our clients to leverage the full potential of AI-driven risk assessment, ensuring enhanced risk aversion in a rapidly evolving landscape.
 
 - Prop firm: Maven Trading
-- Deal last verified: 2026-11-24
+- Deal last verified: 2026-11-27
 - Trustpilot score: 3.7/5 (5239 reviews)
 - Official web: maventrading.com
 - Email: support@maventrading.com
@@ -14,37 +14,37 @@ Maven Trading currently lists 5 deals with discount code. Compare available prom
 - Active deal url: https://propfirmdiscount.com/go/maventrading
 - Firm page: https://propfirmdiscount.com/prop-firm/maven-trading/
 
-## Current deal: Maven Trading Black Friday Double Up: Size Upgrade
+## Current deal: Maven Trading Black Friday: 20% Off Static 1-Step Accounts
 
-- Deal last verified: 2026-11-24
-- Deal ends: 2026-11-30 18:59
-- Discount: Size Upgrade
-- Discount code: OMO
-- Applied to: Omo 2-Step accounts
+- Deal last verified: 2026-11-27
+- Deal ends: 2026-11-27 18:59
+- Discount: 20% Off
+- Discount code: FLASHFRIDAY
+- Applied to: Static 1-Step accounts only; one code per order
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/
+- Deal url: https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/
 
 ## Maven Trading deal FAQ
 
-**How does the Double Up work at Maven Trading?**
+**What does the Maven Trading flash sale include?**
 
-Every Omo 2-Step is bumped up a size for the same price, automatically: buy a 2K, get a 5K; buy a 5K, get a 10K; buy a 10K, get a 20K. No code is needed for the upgrade itself.
+It takes 20% off any Static 1-Step account. The scope is that account line only, with one code per order. The accounts are simulated trading accounts.
 
-**What does the code add?**
+**How do I apply the Maven Trading discount?**
 
-An extra discount on top of the upgrade, entered at checkout. The announcement does not state the extra rate, so it shows at checkout only.
+Follow the Start here link at the end of the article, select a Static 1-Step account on the Maven Trading official site, then enter the deal code at checkout. Confirm the reduced total shows before completing the purchase.
 
-**What terms does the bigger account run on?**
+**How long does the flash sale run?**
 
-The Omo 2-Step's own terms: 6% / 8% profit targets, 8% static max loss, 4% daily loss, no consistency score, news trading allowed, an 80% reward split, plus your fee back with your third reward claim, subject to program terms.
+It runs until 23:59 UTC on Friday 27 November 2026. The firm frames it as a today-only sale.
 
-**When does the Double Up end?**
+**Does the 20% discount apply to other Maven Trading accounts?**
 
-Monday, November 30, 2026 at 11:59 p.m. UTC.
+No. The flash sale covers Static 1-Step accounts only; other account lines sit outside it.
 
-**Does a bigger account reduce trading risk?**
+**Does the lower price change the Static 1-Step account itself?**
 
-No. The upgrade changes the account size you receive for the price. The bigger account's drawdown limits are larger in dollars because the account is larger; the trading task is not easier.
+No. Only the checkout price changes; the account's published terms stay as they are.
 
 ## Deals (last 2 months, newest first)
 
@@ -52,4 +52,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% Off | 2026-11-27 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
 | 2026-11-24 | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |

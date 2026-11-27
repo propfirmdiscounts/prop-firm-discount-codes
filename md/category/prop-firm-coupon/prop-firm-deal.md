@@ -1,6 +1,6 @@
 # Prop Firm Deal & Limited-Time Offers Prop Firm Deals (2026)
 
-Limited-time prop firm deals that are not a straight code: 264 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
+Limited-time prop firm deals that are not a straight code: 265 listings from 71 firms — discounted challenge bundles, reset packs, subsidized evaluation fees and event promos. Each one states exactly which product the saving applies to, so you know the deal before opening a checkout.
 
 As of 2026-11-13, the biggest offers this month: 70% OFF at Bitfunded, 70% OFF at Top One Trader, 65% OFF at Top One Trader, 55% OFF at Bitfunded, and 50% OFF at Plutus Trade Base.
 
@@ -8,6 +8,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Published | Firm | Deal | Discount | Ends | Code | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | Equity Edge | Equity Edge Black Friday: Flat Prices From $69 To $299 | $69-$299 | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-flat-prices-instant-legacy/ |
 | 2026-11-25 | Trade The Pool | Trade The Pool: 15% Off, Applied Automatically | 15% OFF | 2026-11-30 23:59 | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-applied-automatically/ |
 | 2026-11-25 | Plutus Trade Base | Plutus Trade Base: 50% Off Every Challenge | 50% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-every-challenge/ |
 | 2026-11-23 | FTMO | FTMO Black Friday: Up to 30% Off Challenges | 30% OFF | Limited time | No Code Required | https://propfirmdiscount.com/deals/ftmo/ftmo-black-friday-up-to-30-off-challenges/ |
@@ -37,7 +38,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-10-01 | Apex Trader Funding | Apex Trader Funding 5-Year Anniversary: $49 50K Accounts, $199 5-Packs and 90% Off Evaluations | 90% OFF | 2026-10-05 (ended) | No Code Required | https://propfirmdiscount.com/deals/apex-trader-funding/apex-trader-funding-anniversary-49-50k-90-off/ |
 | 2026-09-08 | Direct Funded Trader | Direct Funded Trader: 5K Evaluation Accounts for $5 Entry Fee | Only $5 | Ended | No Code Required | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-5k-account-5-deal/ |
 | 2026-09-02 | Trade The Pool | Trade The Pool Labor Day Offer: 15% Off All Evaluation Accounts | 15% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/ |
-| 2026-09-01 | Top One Futures | Top One Futures: Up to 50% Off and BOGO Packages from $39 Evaluation Price | 50% OFF | Ended | No Code Required | https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/ |
 
 ## About this archive
 

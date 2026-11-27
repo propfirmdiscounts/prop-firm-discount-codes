@@ -48,6 +48,7 @@ The pricing table covers 16 account options across the CFDs market. Prices shown
 - Deal ends: 2026-11-06 17:00 (ended)
 - Discount: 35% Off
 - Applied to: All plans; bundle of 5 accounts at 40% off
+- Event: Flash Sale
 - Deal url: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/
 
 ## Lucid Trading deal FAQ
@@ -78,7 +79,7 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-06 | Lucid Trading 35% Off All Plans – Concrete Day Sale (code PFD) | 35% Off | 2026-11-06 17:00 (ended) | - | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
+| 2026-11-06 | Lucid Trading 35% Off All Plans – Concrete Day Sale (code PFD) | 35% Off | 2026-11-06 17:00 (ended) | Flash Sale | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/ |
 | 2026-11-03 | Lucid Trading 30% Off All LucidDaily Plans – Price Cut (code PFD) | 30% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/ |
 | 2026-10-27 | Lucid Trading 30% Off All Accounts With DLL On (code PFD) | 30% Off | Limited time | - | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/ |
 | 2026-10-19 | Lucid Trading 40% Off Entry Fee on Any DLL-On Account With On-Demand Payouts – Check If It Fits (code PFD) | 40% Off | 2026-10-23 (ended) | - | PFD | https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/ |

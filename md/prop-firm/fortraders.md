@@ -63,7 +63,7 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-20 | For Traders: $6K Forex Fast Challenge for $9.99 | $9.99 | Limited time | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/ |
 | 2026-11-13 | For Traders Perps Challenges: 15% Off Every Size | 15% Off | Limited time | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/ |
 | 2026-10-30 | For Traders Halloween $6K Forex Fast for $9.99 | 79.6% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/ |
-| 2026-10-26 | For Traders Halloween 25% Off Any Challenge | 25% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/ |
+| 2026-10-26 | For Traders Halloween 25% Off Any Challenge | 25% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/ |
 | 2026-10-15 | For Traders 50% Off $50K Futures Fast Pro Challenge | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/ |
 | 2026-10-15 | For Traders: 50% Off All Forex Instant Master Accounts | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/ |
 | 2026-10-05 | For Traders Cuts $6K Fast Crypto Challenge to $9.99 | Only $9.99 | Ended | - | - | https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/ |

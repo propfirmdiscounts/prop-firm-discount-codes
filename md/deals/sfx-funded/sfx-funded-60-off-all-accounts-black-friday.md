@@ -24,7 +24,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 |---|---|---|---|
 | [SFX Funded 55% Off All Accounts Black Friday](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-55-off-all-accounts-black-friday/) | Black Friday | 55% Off | Limited time |
 | [SFX Funded 55% Off Halloween Instant and Challenge Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-halloween-55-off-all-accounts-bogo/) | Halloween | 55% Off | 2026-10-31 (ended) |
-| [SFX Funded 55% Off All Accounts Black Friday BOGO Deal](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/) | Black Friday | 55% Off | Limited time |
+| [SFX Funded 55% Off All Accounts Black Friday BOGO Deal](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-black-friday-55-off-all-accounts-bogo-refund/) | Black Friday | 55% Off | Ended |
 | [SFX Funded 70% Off Instant Accounts ($80K to $200K)](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-70-off-instant-accounts/) | - | 70% Off | Ended |
 | [SFX Funded 50% Off $80K, $120K, and $100K Evaluation Accounts](https://propfirmdiscount.com/deals/sfx-funded/sfx-funded-50-percent-off-bogo-refund/) | - | 50% Off | Ended |
 

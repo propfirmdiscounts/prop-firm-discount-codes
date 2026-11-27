@@ -22,7 +22,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [Alpha Funded: 60% Off All Challenges](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/) | - | 60% Off | 2026-11-20 (ended) |
+| [Alpha Funded: 60% Off All Challenges](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-60-off-all-challenges-24-hours/) | Flash Sale | 60% Off | 2026-11-20 (ended) |
 | [Alpha Funded Free 100% Profit Split Add-On for Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-free-100-profit-split-addon-flex/) | - | Free Add-on | 2026-11-30 |
 | [Alpha Funded 70% Off $300K+ Forex and Futures Flex](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-70-off-300k-challenges/) | - | 70% Off | Limited time |
 | [Alpha Funded Halloween 70% Off Instant Funding Accounts](https://propfirmdiscount.com/deals/alpha-trader/alpha-funded-halloween-70-off-instant-funding/) | Halloween | 70% Off | Limited time |

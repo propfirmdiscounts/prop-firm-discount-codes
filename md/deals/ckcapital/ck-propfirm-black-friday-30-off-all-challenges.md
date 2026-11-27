@@ -22,9 +22,9 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [CK PropFirm Flash Sale: 85% Off All Evaluations](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/) | - | 85% Off | Limited time |
-| [CK PropFirm Black Friday: 80% Off All Challenges](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Black Friday | 80% Off | Limited time |
-| [CK PropFirm Diwali 80% Off All Challenge Types](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) | Diwali | 80% Off | 2026-11-11 (ended) |
+| [CK PropFirm Flash Sale: 85% Off All Evaluations](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-flash-85-off-evaluations/) | Flash Sale | 85% Off | Limited time |
+| [CK PropFirm Black Friday: 80% Off All Challenges](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Flash Sale | 80% Off | Limited time |
+| [CK PropFirm Diwali 80% Off All Challenge Types](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-diwali-80-off-challenges/) | Flash Sale | 80% Off | 2026-11-11 (ended) |
 | [CK PropFirm 75% Off All Challenge Accounts](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-75-percent-off-challenges-november/) | - | 75% Off | 2026-11-30 |
 | [CK PropFirm 80% Off Challenges – Final 24 Hours](https://propfirmdiscount.com/deals/ckcapital/ckpropfirm-80-off-challenges-final-24-hours/) | - | 80% Off | 2026-10-24 (ended) |
 

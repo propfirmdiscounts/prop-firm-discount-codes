@@ -22,8 +22,8 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [BluSky Trading: $120 Off 100K Propel – $100 Total](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/) | Veterans Day | $120 Off | 2026-11-11 23:59 (ended) |
-| [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) | Halloween | $10-$120 Off | Limited time |
+| [BluSky Trading: $120 Off 100K Propel – $100 Total](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-100k-propel-veterans-day/) | Flash Sale | $120 Off | 2026-11-11 23:59 (ended) |
+| [BluSky Trading Halloween $120 Off Propel Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-halloween-120-off-propel-launch/) | Halloween | $10-$120 Off | Ended |
 | [BluSky Trading: 30% Off Propel and $300 Off Instant Funding Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-30-percent-300-off-promotion/) | - | 30% Off | Ended |
 | [BluSky Trading: $120 Off All Propel Evaluation Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-120-off-propel-plans/) | - | -$120 | Ended |
 | [BluSky Trading 33% Off All Evaluation Accounts](https://propfirmdiscount.com/deals/blusky-trading/blusky-trading-33-off-promotion/) | - | 33% Off | Ended |

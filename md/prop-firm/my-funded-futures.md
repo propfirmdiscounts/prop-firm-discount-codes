@@ -20,6 +20,7 @@ My Funded Futures currently lists 32 deals (31 with discount codes). Compare ava
 - Deal ends: 2026-11-23 23:59 (ended)
 - Discount: 50% Off
 - Applied to: Signature 5k, Signature 10k, Signature 20k
+- Event: Flash Sale
 - Deal url: https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-signature-50-off-today/
 
 ## My Funded Futures deal FAQ
@@ -50,5 +51,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-23 | My Funded Futures Signature: 50% Off Today Only | 50% Off | 2026-11-23 23:59 (ended) | - | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-signature-50-off-today/ |
-| 2026-11-17 | My Funded Futures Flash Sale: Up to 40% Off | 40% Off | 2026-11-17 16:00 (ended) | - | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/ |
+| 2026-11-23 | My Funded Futures Signature: 50% Off Today Only | 50% Off | 2026-11-23 23:59 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-signature-50-off-today/ |
+| 2026-11-17 | My Funded Futures Flash Sale: Up to 40% Off | 40% Off | 2026-11-17 16:00 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/my-funded-futures/my-funded-futures-flash-sale-up-to-40-off/ |

@@ -1,11 +1,11 @@
 # FundedSquad Discount Code
 
-FundedSquad currently lists 39 deals (35 with discount codes). Compare available promotions below to find the latest savings on FundedSquad challenge accounts, checked November 2026 by the PropFirmDiscount team.
+FundedSquad currently lists 40 deals (36 with discount codes). Compare available promotions below to find the latest savings on FundedSquad challenge accounts, checked November 2026 by the PropFirmDiscount team.
 
 > FundedSquad is a leading prop firm specializing in providing the best instant funding options in the market. With starting prices as low as $249 for a $25,000 account, traders have the unique opportunity to double their initial balance at each milestone. We also offer an exclusive 2-step program with the lowest target in the industry—just 6%. Our accounts range from $10,000 to $200,000, catering to traders at all levels. With over 4 years of experience in the prop trading industry, our team is committed to funding traders worldwide and making professional trading accessible to everyone. At FundedSquad, we’re not just a platform—we're a reliable partner helping traders build successful careers in prop trading.
 
 - Prop firm: FundedSquad
-- Deal last verified: 2026-11-23
+- Deal last verified: 2026-11-27
 - Trustpilot score: 1.9/5 (431 reviews)
 - Official web: fundedsquad.com
 - Email: support@fundedsquad.com
@@ -14,41 +14,37 @@ FundedSquad currently lists 39 deals (35 with discount codes). Compare available
 - Active deal url: https://propfirmdiscount.com/go/fundedsquad
 - Firm page: https://propfirmdiscount.com/prop-firm/fundedsquad/
 
-## Current deal: FundedSquad Up to 65% Off + BOGO – Black Friday
+## Current deal: FundedSquad Black Friday: 65% Off Everything + BOGO
 
-- Deal last verified: 2026-11-23
-- Deal ends: 2026-12-03 07:00
+- Deal last verified: 2026-11-27
+- Deal ends: 2026-11-28
 - Discount: 65% Off
-- Discount code: BLACKFRIDAY
-- Applied to: Instant models, 1 Step models, 2 Step models
+- Discount code: BF65
+- Applied to: Every model, every account size - Instant, 1-Step, 2-Step
 - Event: Black Friday
-- Deal url: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-up-to-65-off-bogo-black-friday/
+- Deal url: https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/
 
 ## FundedSquad deal FAQ
 
 **What does the FundedSquad Black Friday offer include?**
 
-Instant Models are 55% off, Evaluation Models (1 Step and 2 Step) are 65% off, under one deal code. A Buy One Get One layer also runs across the offer.
+It takes 65% off every model and every account size - Instant, 1-Step and 2-Step - with a second account free on each purchase under Buy 1 Get 1 Free.
 
-**How does the Buy One Get One layer work?**
+**How do I apply the FundedSquad discount?**
 
-The announcement states the layer without its eligibility terms and points to the firm's FAQs for eligibility and full offer details. Check those terms on the deal page before pricing the free account in.
+Follow the Start here link at the end of the article, select a model and account size on the FundedSquad official site, then enter the deal code at checkout. Confirm the reduced total shows before completing the purchase.
 
-**How do I apply the sale rates?**
-
-Choose your model on the firm's site and enter the deal code at checkout. The model's rate (55% for Instant, 65% for Evaluation) comes off the price before you pay.
-
-**What are the sale prices?**
-
-At $100K: Instant Lite & Flex is $584.55, 1 Step Lite is $255.15, 1 Step Flex is $279.65, 2 Step Lite is $227.15, 2 Step Flex is $251.65. Each is exactly the stated percentage off its list price.
-
-**Does the discount change the account rules?**
+**Does the lower price change the account rules?**
 
 No. The promotion affects purchase pricing only and does not modify trading rules, drawdown limits, or risk parameters.
 
-**When does the offer end?**
+**How long does the offer run?**
 
-The sale ends on 3 December 2026 at 12 PM UK time, as stated in the announcement.
+It runs for 24 hours only, ending 28 Nov 2026. The firm states there are no extensions and no second round.
+
+**What does Buy 1 Get 1 Free mean here?**
+
+Buying one account brings a second account at no additional cost. No further terms for the second account are stated, so check the deal page for its exact form before paying.
 
 ## Deals (last 2 months, newest first)
 
@@ -56,8 +52,9 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
+| 2026-11-27 | FundedSquad Black Friday: 65% Off Everything + BOGO | 65% Off | 2026-11-28 | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/ |
 | 2026-11-23 | FundedSquad Up to 65% Off + BOGO – Black Friday | 65% Off | 2026-12-03 07:00 | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-up-to-65-off-bogo-black-friday/ |
-| 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
+| 2026-11-20 | FundedSquad: 60% Off $5K and $10K Instant Models | 60% Off | 2026-11-22 04:00 (ended) | Flash Sale | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-60-off-5k-10k-instant-models/ |
 | 2026-11-16 | FundedSquad Black Friday: 55% Off All Models | 55% Off | 2026-11-23 07:00 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-55-off-all-models/ |
 | 2026-11-06 | FundedSquad Diwali 55% Off $25K and $50K Instant | 55% Off | 2026-11-10 07:00 (ended) | Diwali | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-diwali-55-off-instant-accounts/ |
 | 2026-11-02 | FundedSquad 50% Off All Models Plus BOGO | 50% Off | 2026-11-09 07:00 (ended) | - | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-50-off-all-models-bogo-november/ |

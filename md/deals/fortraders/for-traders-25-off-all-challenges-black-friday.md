@@ -28,7 +28,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | [For Traders: $6K Forex Fast Challenge for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/) | - | $9.99 | Limited time |
 | [For Traders Perps Challenges: 15% Off Every Size](https://propfirmdiscount.com/deals/fortraders/for-traders-perps-challenges-15-off/) | - | 15% Off | Limited time |
 | [For Traders Halloween $6K Forex Fast for $9.99](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) | Halloween | 79.6% Off | Limited time |
-| [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) | Halloween | 25% Off | Limited time |
+| [For Traders Halloween 25% Off Any Challenge](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) | Halloween | 25% Off | Ended |
 
 ## Frequently Asked Questions
 

@@ -16,7 +16,7 @@ Checked by the PFD editorial team ([how](https://propfirmdiscount.com/how-we-ver
 - Applied to: Flex & Pro Challenges
 - Deal url: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/
 
-Apply code PFD1 at checkout for 25% off any TX3 Funding challenge account — verified to work any time with no expiration date.
+Apply code PFD1 at checkout for 50% off any TX3 Funding challenge account — verified to work any time with no expiration date.
 
 Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/api/prop-firm-codes/
 
@@ -25,7 +25,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | Title | Event | Discount | Expires |
 |---|---|---|---|
 | [TX3 Funding Black Friday: 50% Off Instant & 1 Phase](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-instant-1-phase/) | Black Friday | 50% Off | 2026-11-30 23:59 |
-| [TX3 Funding Black Friday: 50% Off All Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | Black Friday | 50% Off | 2026-11-26 23:59 |
+| [TX3 Funding Black Friday: 50% Off All Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | Black Friday | 50% Off | 2026-11-26 23:59 (ended) |
 | [TX3 Funding Halloween 35% Off Challenge Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) | Halloween | 35% Off | 2026-10-31 23:59 (ended) |
 | [TX3 Funding Halloween 40% Off Instant Funded Accounts](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) | Halloween | 40% Off | 2026-10-31 23:59 (ended) |
 | [TX3 Funding Halloween 35% Off All Accounts Weekend Flash](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) | Halloween | 35% Off | 2026-10-25 23:59 (ended) |

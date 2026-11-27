@@ -21,7 +21,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 
 | Title | Event | Discount | Expires |
 |---|---|---|---|
-| [Plutus Trade Base: 50% Off Your First Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/) | - | 50% Off | 2026-11-18 (ended) |
+| [Plutus Trade Base: 50% Off Your First Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-first-challenge/) | Flash Sale | 50% Off | 2026-11-18 (ended) |
 | [Plutus Trade Base: 60% Off the Lightning Plan](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-60-off-lightning-plan/) | - | 60% Off | Limited time |
 | [Plutus Trade Base 50% Off the Freedom Plan Challenge](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-50-off-freedom-plan-2/) | - | 50% Off | Limited time |
 | [Plutus Trade Base 66% Off Halloween Challenges](https://propfirmdiscount.com/deals/plutus-trade-base/plutus-trade-base-halloween-66-off-challenges/) | Halloween | 66% Off | Ended |

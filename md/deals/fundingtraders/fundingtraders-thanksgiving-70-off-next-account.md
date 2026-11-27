@@ -26,7 +26,7 @@ Full dataset of verified standing exclusive codes: https://propfirmdiscount.com/
 | [FundingTraders: $500 Off $100K Instant Funded](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/) | - | $500 Off | Limited time |
 | [FundingTraders Black Friday: Up to 70% Off](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) | Black Friday | 70% Off | Limited time |
 | [FundingTraders: 50% Off All Accounts + Free Account](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) | - | 50% Off | Limited time |
-| [FundingTraders Flash Sale: Up to 81% Off Instant](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) | - | 81% Off | Limited time |
+| [FundingTraders Flash Sale: Up to 81% Off Instant](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) | Flash Sale | 81% Off | Limited time |
 
 ## Frequently Asked Questions
 

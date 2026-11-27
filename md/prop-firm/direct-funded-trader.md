@@ -87,5 +87,5 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-24 | Direct Funded Trader Turbo Challenge: Free Entry | $0 Entry | Limited time | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-turbo-challenge-free-entry/ |
 | 2026-11-19 | Direct Funded Trader: 50% Off All Accounts | 50% Off | Limited time | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-all-accounts-november/ |
 | 2026-11-05 | Direct Funded Trader 100K 2-Step Evaluation for $99 | $99 | Limited time | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-100k-2-step-evaluation-99/ |
-| 2026-10-26 | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% Off | Limited time | Halloween | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |
+| 2026-10-26 | Direct Funded Trader Halloween 40% and 50% Off Accounts | 40% Off | Ended | Halloween | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-halloween-50-off-evaluations-40-instant/ |
 | 2026-10-05 | Direct Funded Trader Cuts Evaluation Account Costs by 50% | 50% Off | Ended | - | - | https://propfirmdiscount.com/deals/direct-funded-trader/direct-funded-trader-50-off-evaluations/ |

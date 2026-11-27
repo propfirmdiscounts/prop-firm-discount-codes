@@ -4,6 +4,10 @@ The best current E8 Markets discount is 50% off with code PFDC at checkout, veri
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 
+> **Important notice (firm-specific)** — these notes represent important firm-specific notices; they qualify every deal and code listed for this firm.
+>
+> E8 Markets discount code has changed from CHUN to PFDC. Use PFDC at checkout to get 50% OFF in 2026.
+
 - Discount code: PFDC
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Code validity: standing code — no start date and no end date. It is not a limited-time campaign.

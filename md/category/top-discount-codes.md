@@ -4,6 +4,7 @@ Discover the top prop firm discount codes and best deals, ranked by savings. Com
 
 | Published | Article | Link |
 |---|---|---|
+| 2026-11-27 | Thanksgiving Prop Firm Deals & Discount Codes 2026 | https://propfirmdiscount.com/thanksgiving-prop-firm-deals/ |
 | 2026-11-17 | Top Black Friday Prop Firm Deal & Discount Code 2026 | https://propfirmdiscount.com/black-friday-prop-firm-deals-2026/ |
 | 2026-10-31 | Best Halloween Prop Firm Deal & Discount Code 2026 | https://propfirmdiscount.com/top-halloween-prop-firm-deals-2026/ |
 ## About this archive
