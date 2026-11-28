@@ -14,12 +14,11 @@ Maven Trading currently lists 6 deals with discount code. Compare available prom
 - Active deal url: https://propfirmdiscount.com/go/maventrading
 - Firm page: https://propfirmdiscount.com/prop-firm/maven-trading/
 
-## Current deal: Maven Trading Black Friday: 20% Off Static 1-Step Accounts
+## Most recent deal (ended): Maven Trading Black Friday: 20% Off Static 1-Step Accounts
 
 - Deal last verified: 2026-11-27
-- Deal ends: 2026-11-27 18:59
+- Deal ends: 2026-11-27 18:59 (ended)
 - Discount: 20% Off
-- Discount code: FLASHFRIDAY
 - Applied to: Static 1-Step accounts only; one code per order
 - Event: Black Friday
 - Deal url: https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/
@@ -52,5 +51,5 @@ How to read the code column: a code value is the firm's discount code and works 
 
 | Deal last verified | Deal | Discount | Deal ends | Event | Discount code | Deal url |
 |---|---|---|---|---|---|---|
-| 2026-11-27 | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% Off | 2026-11-27 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
+| 2026-11-27 | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% Off | 2026-11-27 18:59 (ended) | Black Friday | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
 | 2026-11-24 | Maven Trading Black Friday Double Up: Size Upgrade | Size Upgrade | 2026-11-30 18:59 | Black Friday | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-double-up-omo-2-step/ |

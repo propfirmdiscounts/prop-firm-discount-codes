@@ -72,7 +72,6 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-27 | FundedSquad | FundedSquad Black Friday: 65% Off Everything + BOGO | 65% Off | - | https://propfirmdiscount.com/deals/fundedsquad/fundedsquad-black-friday-65-off-everything-bogo/ |
 | 2026-11-27 | Equity Edge | Equity Edge Black Friday: Flat Prices From $69 To $299 | $69-$299 | No Code Required | https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-flat-prices-instant-legacy/ |
 | 2026-11-27 | Sure Leverage Funding | Sure Leverage Funding Black Friday: Up to 50% Off | 50% Off | - | https://propfirmdiscount.com/deals/sure-leverage-funding/sure-leverage-funding-black-friday-up-to-50-off-everything/ |
-| 2026-11-27 | Maven Trading | Maven Trading Black Friday: 20% Off Static 1-Step Accounts | 20% Off | - | https://propfirmdiscount.com/deals/maven-trading/maven-trading-black-friday-20-off-static-1-step/ |
 | 2026-11-26 | City Traders Imperium (CTI) | City Traders Imperium (CTI) 25% Off Instant Funding | 25% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/city-traders-imperium-25-off-instant-funding-black-friday/ |
 | 2026-11-26 | Crypto Fund Trader | Crypto Fund Trader Black Friday: 30% Off All Challenges | 30% Off | - | https://propfirmdiscount.com/deals/crypto-fund-trader/crypto-fund-trader-black-friday-30-off-all-challenges/ |
 | 2026-11-26 | TX3 Funding | TX3 Funding Black Friday: 35% Off Flex & Pro Challenges | 35% Off | - | https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-flex-pro-challenges/ |
@@ -93,3 +92,4 @@ How to read the code column: a code value is the firm's discount code and works 
 | 2026-11-25 | Doji Funding | Doji Funding: Up to 60% Off Every Challenge (code PFD) | 60% Off | PFD | https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/ |
 | 2026-11-25 | City Traders Imperium (CTI) | CTI Black Friday: 20% Off the 2-Step Challenge | 20% Off | - | https://propfirmdiscount.com/deals/city-traders-imperium/cti-black-friday-2-step-challenge-20-off/ |
 | 2026-11-25 | Funded Hero Futures | Funded Hero Futures: 70% Off Futures Accounts (code PFD) | 70% Off | PFD | https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-welcome-offer-70-off-futures-accounts/ |
+| 2026-11-24 | Blueberry Funded | Blueberry Funded 25% Off Prime + Free Reset – Black Friday | 25% Off | - | https://propfirmdiscount.com/deals/blueberry-funded/blueberry-funded-25-off-prime-free-reset-black-friday/ |
